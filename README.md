@@ -7,4 +7,4 @@ Instalación, ejemplos, estado de la traducción y cómo reportar erratas:
 **[eorzea-in-spanish.ashdam.workers.dev](https://eorzea-in-spanish.ashdam.workers.dev/)**
 
 Cómo colaborar con la traducción:
-**[eorzea-in-spanish.ashdam.workers.dev/translate/es-es.html](https://eorzea-in-spanish.ashdam.workers.dev/translate/es-es.html)**
+**[eorzea-in-spanish.ashdam.workers.dev/localize/es-es.html](https://eorzea-in-spanish.ashdam.workers.dev/localize/es-es.html)**
