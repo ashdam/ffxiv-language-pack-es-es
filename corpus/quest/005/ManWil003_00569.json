@@ -1,0 +1,332 @@
+{
+  "conversation": "quest/005/ManWil003_00569",
+  "questName": "Close to Home",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_1",
+      "hash": "6007DA30E2F7C8ED",
+      "target": "Antes de que salgas corriendo a buscar fortuna, tengo unas cuantas tareas sencillas que quiero que hagas para ayudarte a conocer el lugar."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_2",
+      "hash": "7EEDC21B04F7FD41",
+      "target": "Lo primero: quiero que visites la plaza de la eterita. Para llegar, ve hacia el oeste desde aquí hasta Emerald Avenue y luego mira al norte. Deberías ver un cristal gigante y flotante llamado eterita."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_3",
+      "hash": "8BD2EAF75B440C39",
+      "target": "Sin las eteritas, viajar por Eorzea sería muchísimo más engorroso de lo que ya es. Claro que aún tienes que sintonizarte con ellas antes de poder usarlas, así que no dejes de hacerlo con la de la plaza. ¿Te has sintonizado alguna vez con una eterita, <split(<string(gstr1)>, ,1)>? Si no, solo tienes que poner la mano encima y verás a qué me refiero."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_4",
+      "hash": "1FD8559C6C2F1338",
+      "target": "Cuando lo hayas hecho, quiero que te pases por el Gremio de Púgiles, allá en el Espejismo de Platino."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_5",
+      "hash": "EEC9B64D7CD776E0",
+      "target": "Si esas armas tuyas no son solo para presumir, quizá te convenga entrenar allí."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_6",
+      "hash": "7E3C3884A6E3B8AD",
+      "target": "Y por último, quiero que visites el Mercado de la Avenida Zafiro, en los Peldaños de Thal."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_7",
+      "hash": "56C0C2C911120CB5",
+      "target": "Allí llegan cada día mercancías de toda Eorzea y de más allá. No te costará encontrar armaduras, armas ni cualquier otra cosa que <if(gnum4,una aventurera novata,un aventurero novato)> como tú pueda necesitar."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_8",
+      "hash": "A72C85F89F46E95E",
+      "target": "Se podría decir que en Ul'dah <italic(1)>todo<italic(0)> está en venta─siempre que tengas gil."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_9",
+      "hash": "7EF0BEDCDE98810F",
+      "target": "Solo asegúrate de no pagar más de la cuenta, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_10",
+      "hash": "218E9D4314C7874D",
+      "target": "Hay muchos que no tendrán reparo en estafar a forasteros incautos como tú, sobre todo si creen que nadie vela por sus intereses."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_11",
+      "hash": "3DA8FB2EB1EF45F8",
+      "target": "Por eso te doy esta carta. Cuando visites el mercado, busca a un caballero llamado Seseroga y dásela. Estará encantado de hablarte de los mercados en cuanto la lea."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_12",
+      "hash": "A7751B75427269B1",
+      "target": "En resumen: visita la plaza de la eterita, el Gremio de Púgiles y el Mercado de la Avenida Zafiro. Sencillo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_13",
+      "hash": "3ABCF52CF6597C6E",
+      "target": "Ah, pero antes de irte, un consejo: aunque ahí fuera hay más de un elemento de mala calaña dispuesto a aprovecharse de ti, también los hay con problemas de verdad a quienes deberías plantearte echar una mano."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_14",
+      "hash": "AFA42F649D703800",
+      "target": "A mucha gente la atrae a esta ciudad la promesa de riqueza y poder. Lo que muchos no llegan a comprender es que, en vez de perseguir giles nada más llegar, deberían ir haciendo amistades."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_15",
+      "hash": "45FA53715E6E4602",
+      "target": "Deja claro que estás dispuest<if(gnum4,a,o)> a dar tanto como recibes, y las oportunidades vendrán a ti."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_16",
+      "hash": "02D982240824239F",
+      "target": "Y ya que estamos, deberías hablar con el Herrero de ahí─esos muchachos siempre tienen buenos consejos para aventureros en ciernes. Por lo demás, eso es todo por mi parte. Ya va siendo hora de que te pongas en marcha. Ah, y avísame cuando hayas terminado, ¿quieres? Así no me pasaré los días preocupada pensando que andas en paños menores y sin un gil a tu nombre."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_20",
+      "hash": "4EC24584090E6E37",
+      "target": "¡Saludos y bienvenid<if(gnum4,a,o)> al Gremio de Púgiles!"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_21",
+      "hash": "AB94C4C3DD38A0C7",
+      "target": "Veo que ya recorre la senda del púgil. Mas su viaje no ha hecho sino empezar."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_22",
+      "hash": "64A2FCA1979F35F0",
+      "target": "Le recomiendo encarecidamente que inscriba su nombre en nuestro registro, pues no hay mejor lugar en todo el reino para entrenar en nuestra disciplina que este."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_23",
+      "hash": "8B6D6014EBBBD6F9",
+      "target": "Los orígenes del pugilismo tal como lo conocemos se remontan a los combates a mano desnuda que se celebraban en el Coliseo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_24",
+      "hash": "BF6504BE1FD3E7AB",
+      "target": "Estos certámenes atraían a luchadores de todas partes, que hacían chocar sus mil estilos en las Arenas de Sangre."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_25",
+      "hash": "3AA0849EFDE26C9B",
+      "target": "En medio de esta caótica mezcla de estilos, surgió una púgil de fuerza y destreza singulares. Esta mujer hizo de su vida la misión de dominar cada forma que hallaba, para así refinar su arte."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_26",
+      "hash": "DF7D5C3F23458125",
+      "target": "De entre sus muchas hazañas dignas de canción, los púgiles recordamos con especial cariño su participación en un torneo de gladiadores. Cuando la lucha a mano desnuda aún se veía como un pasatiempo de campesinos, se enfrentó a gladiadores armados y acorazados de pies a cabeza y los venció a todos sin esfuerzo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_27",
+      "hash": "F022C5620C598E25",
+      "target": "La noticia de su proeza se propagó por el reino como reguero de pólvora, cómo no, y Ul'dah no tardó en convertirse en un centro del pugilismo, con gentes que acudían en tropel de todas partes para entrenar bajo esta maestra entre maestros."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_28",
+      "hash": "19A5EAC871C383F2",
+      "target": "La mujer se llamaba Cornelia, y es a ella a quien el Gremio de Púgiles debe su existencia. El arte que aquí se practica se basa en su estilo omniabarcante, y esta sala de entrenamiento está inspirada en la que ella construyó en su día."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_29",
+      "hash": "4FA9CDE5B248935E",
+      "target": "Y ahí lo tiene─una breve historia de nuestro gremio."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_30",
+      "hash": "843E3EAC1FCEC67E",
+      "target": "He contado esta historia mil veces, pero, por los dioses, ¡nunca deja de avivar las llamas de mi espíritu de lucha!"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_GAGARUNA_000_31",
+      "hash": "D13882AF74AF8E5A",
+      "target": "Ahora bien, si desea proceder con la inscripción, primero ha de obtener la aprobación del maestro del gremio. Avíseme si desea conocerlo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_40",
+      "hash": "B939CF28ED39C752",
+      "target": "¡Salud, <if(gnum4,aventurera,aventurero)>! ¿Acaso viene de parte de la señorita Momodi, la de Quicksand?"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_41",
+      "hash": "54146C190BE618C5",
+      "target": "Excelente. Lo cual nos lleva al asunto de la tasa de sintonización─serán cien mil giles, si es tan amable, <if(gnum4,señora,señor)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_42",
+      "hash": "B7208D5E202E4FAE",
+      "target": "...¡AJAJAJAJAJA! Disculpe, pero me encanta aprovechar la ocasión para gastar esa bromita. ¡Su cara no tenía precio! Ah, pero el hecho de que se dejara engañar tan fácilmente me dice que no está familiarizad<if(gnum4,a,o)> con el uso de las eteritas. Permítame explicárselo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_43",
+      "hash": "F400DAE7DE40F16F",
+      "target": "Estas aglomeraciones cristalinas aprovechan las energías etéreas y se usan sobre todo como medio para viajar con rapidez de un lugar a otro."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_44",
+      "hash": "652A23B24542DFC4",
+      "target": "¿Quizá haya oído hablar de Return y Teletransporte? Pues bien, estos hechizos de transporte se sirven directamente de las eteritas y de su conexión con el flujo del éter."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_45",
+      "hash": "FEA5838C2B2FC6A0",
+      "target": "¡Dado que hay una eterita en casi cada rincón de Eorzea, cualquier aventurero con ánimo de explorar el reino querrá buscarlas todas y sintonizarse con cada una por sí mism<if(gnum4,a,o)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_46",
+      "hash": "BB946E69390635D4",
+      "target": "Pero, aunque no tenga intención de aventurarse más allá de las fronteras del sultanato, sería prudente que se sintonizara con cuantas eteritas encuentre de ahora en adelante."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_NENEBARU_000_47",
+      "hash": "6310ADE1FFB4DE6C",
+      "target": "Espero que le haya resultado instructivo. Si desea saber más sobre las eteritas o la magia de transporte, estaré encantado de responder a sus preguntas."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_50",
+      "hash": "A93AD6A65EFB179F",
+      "target": "¿Y usted es...?<br>...Vaya, <if(gnum4,una aventurera recién llegada,un aventurero recién llegado)>. Cómo no. Sí, yo soy Seseroga. ¿En qué puedo ayudarle?"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_51",
+      "hash": "3E1FB8C59ABDB543",
+      "target": "Ah, ¿quiere que le enseñe los entresijos del mercado? Muy sensato. En cuanto a mis honorarios... ¿Qué? ¿Espera que lo haga <italic(1)>gratis<italic(0)>!? Ha de estar de broma."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_52",
+      "hash": "AD618BD0F47D4090",
+      "target": "Mi estimad<if(gnum4,a,o)> aventurer<if(gnum4,a,o)>, cuando se pide un favor en Ul'dah, lo mínimo es <italic(1)>intentar<italic(0)> que le compense. A juzgar por su atuendo, dudo que pueda pagar mis servicios, pero que no ofrezca nada resulta risible."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_53",
+      "hash": "73E1C2937BF208B5",
+      "target": "Ah. Conque la señora Momodi le mandó buscarme, ¿eh? Hmpf. Considérese afortunad<if(gnum4,a,o)> de tener amistades tan influyentes."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_54",
+      "hash": "90EE844BEA157303",
+      "target": "Seré breve, y usted estará atent<if(gnum4,a,o)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_55",
+      "hash": "66CECC9C37BA7D8C",
+      "target": "Se halla en el Mercado de la Avenida Zafiro, el mercado más concurrido y lucrativo del sultanato."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_56",
+      "hash": "85091AA172BCF13F",
+      "target": "Por su ventajosa ubicación respecto a las demás ciudades-estado, los mercados de Ul'dah han sido siempre el centro, literal y figurado, del comercio eorzeo."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_57",
+      "hash": "5C793865D9175D9F",
+      "target": "Todas las grandes rutas comerciales terrestres conducen a nuestra ciudad, y la mayor parte del comercio marítimo entre Vylbrand y Aldenard pasa por nuestros puertos."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_58",
+      "hash": "813CBA186201A9C6",
+      "target": "Por ello, incontables compañías y consorcios han elegido Ul'dah como base de operaciones. Gracias a ellos, este mercado rebosa de mercaderes y prestamistas de día y de noche."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_59",
+      "hash": "7A49B8D295EF5F61",
+      "target": "Aquí puede comprarse cualquier cosa que uno desee─siempre que se tengan fondos suficientes."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_60",
+      "hash": "179D78099C93C207",
+      "target": "Seguro que busca algo, ¿verdad? Una espada más letal, quizá, o una baratija más reluciente. Sea lo que sea lo que quiera, el mercado lo tendrá."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_61",
+      "hash": "3932C6EAE362898F",
+      "target": "Al norte encontrará mercaderes que venden armaduras y accesorios, remedios y materiales de artesanía."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_62",
+      "hash": "DE17824142DDF1EB",
+      "target": "Y al sur encontrará a la venta armas, herramientas y un surtido de otros artículos útiles."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_63",
+      "hash": "F184843E949BE804",
+      "target": "Busque a un mercader en concreto o curiosee a su antojo. Pero procure mantenerse impasible si algo despierta su interés. Las decisiones tomadas en caliente suelen ser imprudentes, sobre todo cuando hay dinero de por medio."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_64",
+      "hash": "4B3F93B19415728F",
+      "target": "Ejem. Esa es toda la ayuda gratuita que obtendrá de mí─y <italic(1)>demasiada<italic(0)> para mi gusto."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SESEROGA_000_65",
+      "hash": "BD0BCCE4A93F6D03",
+      "target": "Recuerdos a Momodi. ¡Y ahora, largo de aquí!"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_70",
+      "hash": "A12E0A5A006BC961",
+      "target": "Vaya, <split(<string(gstr1)>, ,1)>. ¿Qué tal tu vuelta por la ciudad? ¿Te has perdido?"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_71",
+      "hash": "1BB8DD85595937F9",
+      "target": "Ya, bueno, Ul'dah es un sitio grande, con mucho que ver y que hacer─pero vagar sin rumbo no paga las cuentas. Si de verdad quieres ganarte la vida aquí, tendrás que acordarte de dónde está cada cosa."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_72",
+      "hash": "549E89ECE6BAD263",
+      "target": "Así que, cuando salgas a explorar, explora con un propósito, ¿eh?"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_MOMODI_000_73",
+      "hash": "3211138F16BDED99",
+      "target": "¡Muy bien, pues! Ya solo te queda trabajar duro, ganar dinero y ¡gastarlo aquí, en Quicksand!"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SEQ_00",
+      "hash": "791887749B6B51A0",
+      "target": "Momodi, la dueña de Quicksand, quiere que realices tres tareas que te ayudarán a aprender los fundamentos de la aventura."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SEQ_01",
+      "hash": "667936FF86438FF4",
+      "target": "Momodi te ha encomendado tres tareas. Si te cruzas con algún ciudadano que parezca necesitar ayuda mientras recorres Ul'dah, ¿por qué no ofrecerle tus servicios?"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SEQ_02",
+      "hash": "5D5B422E5F2D404E",
+      "target": "Has completado las tres tareas. Vuelve a informar a Momodi, en Quicksand."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SEQ_03",
+      "hash": "F94449A410DAB98C",
+      "target": "Momodi te explica que los tres lugares que visitaste tendrán un papel destacado en tu vida de aventurero. Atiende bien sus consejos y viaja cada vez más lejos a medida que crezca tu experiencia."
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_TODO_00",
+      "hash": "E82E20E221E000DE",
+      "target": "Sintonizarte con la eterita de la ciudad"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_TODO_01",
+      "hash": "E989743A1EA7E00B",
+      "target": "Visitar el Gremio de Púgiles"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_TODO_02",
+      "hash": "C93D0774FB7A4A26",
+      "target": "Escuchar la explicación de Seseroga sobre los mercados"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_TODO_03",
+      "hash": "47FA1C208F63B595",
+      "target": "Informar a Momodi, en Quicksand"
+    },
+    {
+      "gameKey": "quest/005/ManWil003_00569#TEXT_MANWIL003_00569_SYSTEM_000_48",
+      "hash": "BF20F7104BDBBB89",
+      "target": "Te sintonizas con la eterita.<br>¡Ya puedes usar el hechizo Return!"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/026/StmBdz011_02645",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_SEQ_00", "hash": "13BC9D8730E2F0AC", "target": "A Ansger le preocupa el suministro de agua del pueblo." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_00", "hash": "8708B732484C9738", "target": "Abatir a tres dust anilas para obtener sus núcleos" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_TODO_01", "hash": "020A64A0F55DB7F5", "target": "Entregar los núcleos de anila a Ansger" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_000", "hash": "EAEB7FC5520BCFC0", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,moza,mozo)>. Se te ve capaz de defenderte en una pelea. ¿Te importaría echarme una mano?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_001", "hash": "E937391B11CDB734", "target": "Hubo un tiempo en que Ala Gannha era famoso por su cantera y la piedra que sacaba. Pero una sarta de problemas acabó con todo eso. Uno de esos problemas, el que tenemos ahora mismo encima, es el del suministro de agua." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_002", "hash": "C1A16E1D082DC408", "target": "Cortar piedra requiere cantidades enormes de agua, que en el proceso se ensucia una barbaridad. Si esa agua acabara colándose en el embalse que hay junto al pueblo, perderíamos nuestra única fuente de agua potable limpia." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_003", "hash": "7F993D40961F2761", "target": "Aunque, si tuviéramos un núcleo de anila o dos... mejor tres, podríamos purificar el agua sin problema." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_004", "hash": "97EEC32421DA2730", "target": "Quiero que abatas a tres dust anilas y me traigas sus núcleos. Deberías encontrar algunas al sur." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_010", "hash": "3E6124F32296BABB", "target": "Quiero que abatas a tres dust anilas y me traigas sus núcleos. Deberías encontrar algunas al sur." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_020", "hash": "D20800D4537A7561", "target": "¿Conseguiste los tres núcleos?" },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_030", "hash": "753324C64BD03A1A", "target": "¡Genial! Con esto quitaremos el polvo mineral del agua que usamos al cortar piedra." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_031", "hash": "DA3F84A7CAB26647", "target": "Antes de que el Imperio invadiera, el pueblo entero salía junto de caza de anilas para reunir sus núcleos. Ahora ya no tenemos gente para eso, con media Ala Gannha absorbida por el ejército imperial." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_032", "hash": "008C22A779DFE503", "target": "Tampoco es que tuviéramos mucha faena aunque hubiera más gente. Garlemald solo usa metal para sus edificios." },
+    { "gameKey": "quest/026/StmBdz011_02645#TEXT_STMBDZ011_02645_ANSGER_000_033", "hash": "D6756BF24E9E19E8", "target": "En fin, olvídalo. Gracias por la ayuda, <if(gnum4,moza,mozo)>. Te lo agradezco de veras." }
+  ]
+}

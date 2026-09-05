@@ -1,0 +1,419 @@
+{
+  "conversation": "quest/048/KinGma101_04860",
+  "questName": "A New World to Explore",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_00", "hash": "A9C4821CC871F6F6", "target": "Ojika Tsunjika tiene un mensaje para ti." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_01", "hash": "A8308D475C17B3B4", "target": "Ojika Tsunjika ha recibido noticias de Erenville: por lo visto, el espigador ha conseguido pasaje a Tural en un barco de la cofradía. El oficial administrativo te pide que esperes en el salón principal mientras avisa a tus compañeros de viaje." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_02", "hash": "D6FC04BEF4AAEA59", "target": "Reunidos todos, reafirmáis vuestros motivos para emprender el viaje al oeste y vuestro apoyo a la aspiración de Wuk Lamat al trono. Convencido de que todos están comprometidos con la causa, Erenville sugiere que os preparéis para partir." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_03", "hash": "6EB53598CE748CAC", "target": "Ha llegado el momento de dejar atrás Sharlayan. Sube al barco de la cofradía y emprende el viaje a Tural." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_04", "hash": "317EC6D9A652B21C", "target": "Con un vasto océano aún entre tú y las costas de Tural, Krile te sugiere que pases el tiempo charlando con los demás pasajeros del barco, algunos de los cuales ya han viajado a Tuliyollal.<br><br>※Si abandonas el barco, podrás retomar la travesía hablando con el marinero enérgico en Scholar's Harbor." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_05", "hash": "458ADF6B44752462", "target": "Tu breve rato de charla te ha dado alguna idea de lo que te espera al llegar a tu destino. Quizá a Krile le interese oír lo que has averiguado." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_06", "hash": "E9B327D62DA4DB18", "target": "Una terrible tormenta azota el barco, pero, gracias a las heroicas acciones de quienes van a bordo, pasajeros y tripulación sobreviven para ver cómo las aguas vuelven a calmarse. La nave prosigue su rumbo y el vuelo en círculos de las aves marinas anuncia que Tural ya está muy cerca. Erenville explica que la nave mayor no puede entrar en el puerto de la ciudad, así que embarcas en un bote de desembarco junto a tus compañeros." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_07", "hash": "A62F5C06A9707041", "target": "Por fin tomas tierra en Tuliyollal, para gran alivio de Wuk Lamat y de su revuelto estómago. Nada más llegar, unos soldados turalíes te salen al paso, aunque las palabras tranquilizadoras de la Tercera Promesa los apaciguan enseguida." },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SEQ_08", "hash": "186DD061B41275A2", "target": "Impasible como siempre, Erenville está listo para guiarte mientras das tus primeros pasos en la vibrante ciudad de Tuliyollal. ¡Adelante, a ver qué aventura te aguarda!" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_00", "hash": "3FD06502AD00B921", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_01", "hash": "9B5563C1E83D3B71", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_02", "hash": "9E22811BA0843CDF", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_03", "hash": "813F917F3B52CDBF", "target": "Hablar con los otros pasajeros" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_04", "hash": "4860A9FFA7B7FE35", "target": "Hablar con Krile" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_05", "hash": "9879066E38678C3C", "target": "Hablar con Krile" },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_TODO_06", "hash": "BA0DAF6E31E9F133", "target": "Hablar con Erenville" },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_OJIKATSUNJIKA_000_001",
+      "hash": "5120DB89A082B61D",
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)>, <split(<string(gstr1)>, ,1)>! Erenville acaba de escribirme."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_OJIKATSUNJIKA_000_002",
+      "hash": "115122C96985875F",
+      "target": "Por lo visto ha conseguido pasaje a Tural en un barco de la cofradía."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_OJIKATSUNJIKA_000_003",
+      "hash": "6FC4BB14677C1B54",
+      "target": "¿Por qué no espera en el salón principal mientras aviso a sus compañeros de viaje? No tardaré nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_OJIKATSUNJIKA_000_010",
+      "hash": "2728D6162346964B",
+      "target": "Empieza su próxima gran aventura, ¿eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_020",
+      "hash": "CE1676636762C6E2",
+      "target": "Ojika nos ha dado la buena noticia. Estamos listos para zarpar en cuanto haga falta."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_021",
+      "hash": "53567EF803D92C22",
+      "target": "Solo falta que llegue Erenville..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_100_022",
+      "hash": "04A980237173B434",
+      "target": "Vaya, ya estáis todos aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_022",
+      "hash": "26A8B922BCA57BD2",
+      "target": "Me ha costado convencerlos, pero la cofradía de los espigadores nos ha conseguido plaza en un barco rumbo a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_023",
+      "hash": "3115B6745EF45610",
+      "target": "Habrá más pasajeros ─investigadores, artesanos y demás─, así que tendremos que compartir cubierta."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_024",
+      "hash": "EA5DF3F5609597CA",
+      "target": "No pasa nada, Erenville. Dudo que nadie esperase tener un barco para nosotros solos."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_025",
+      "hash": "36F2B3532095152B",
+      "target": "Aún no zarpamos, así que si os queda alguna duda, este es el momento de plantearla."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_026",
+      "hash": "86905436CC0DFD8C",
+      "target": "Duda, lo que se dice duda, no... Pero ¿todos tenéis claro a qué vamos a Tural, verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_027",
+      "hash": "3261D95E3BC317CF",
+      "target": "No lo hemos olvidado."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_028",
+      "hash": "13C1D6B5971951AD",
+      "target": "La nación de Tuliyollal está decidiendo quién será su próximo soberano."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_029",
+      "hash": "505BC1FE7242B29C",
+      "target": "Como aliados que has elegido, te ayudaremos en el rito de sucesión y apoyaremos tu aspiración a Servidor del Alba."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_030",
+      "hash": "116CF7934370F425",
+      "target": "Además de eso, Alphinaud y yo tenemos otro objetivo."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_031",
+      "hash": "4E219CEE3B6738C0",
+      "target": "En plena reconstrucción, Garlemald busca la manera de reconciliarse y volver a tratar con sus vecinos."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_032",
+      "hash": "9F2846D62A492C71",
+      "target": "Visitando Tural esperamos aprender cómo conviven sus muchas culturas. Cómo encuentran puntos en común y estrechan lazos... Ideas que podrían servir a nuestros amigos de Ilsabard."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_033",
+      "hash": "7BA97D1EDED0304F",
+      "target": "Pero eso lo haremos en nuestros ratos libres. Descuida: el rito tendrá toda la atención que merece."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_034",
+      "hash": "7BDC34424BF3255A",
+      "target": "Con eso me basta. Por lo demás, sois libres de hacer lo que os apetezca."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_035",
+      "hash": "67A3AD525484E229",
+      "target": "Tú querías averiguar cosas de tu abuelo, ¿verdad, Krile?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_036",
+      "hash": "5EE698338132D303",
+      "target": "Sí. Por lo que sacamos de la vieja carta que encontré, tu padre, el Servidor del Alba, le encargó investigar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_037",
+      "hash": "CD52547A50C0CF43",
+      "target": "Y, curiosamente, en nuestros archivos no hay constancia de esa investigación, ni nada que explique el pendiente que venía con la carta."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_038",
+      "hash": "B3E441D6D79A6877",
+      "target": "Así que, por motivos tanto oficiales como personales, quiero llegar al fondo de este misterio."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_039",
+      "hash": "ED0E054A42C24ED0",
+      "target": "Seguro que tendrás ocasión de hablar con papá. ¡Así lo preguntas en la propia fuente!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_040",
+      "hash": "E311D28B96891790",
+      "target": "Me hará mucha ilusión conocerlo."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_041",
+      "hash": "91B5C94939C826FA",
+      "target": "En cualquier caso, no eres la única a quien le interesa la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_042",
+      "hash": "D8EAD0F6A550508B",
+      "target": "La ciudad dorada es un cuento para niños. Si voy en esta expedición es solo porque la Tercera Promesa me ha ordenado hacer de guía."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_043",
+      "hash": "D57D13592E82A81F",
+      "target": "Ya veo que sigues haciendo el papel de siervo estoico."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_044",
+      "hash": "5BF606FA65085C04",
+      "target": "¿Y tú qué? ¡Ni se te ocurra decirme que has cambiado de idea!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_Q1_000_000",
+      "hash": "8FA455E0F9B4D691",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_A1_000_001",
+      "hash": "3609D7A3E9B4BF31",
+      "target": "¡Icemos velas y que el viento nos lleve donde quiera!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_A1_000_002",
+      "hash": "5BB986DD2EC4C455",
+      "target": "No te haremos Servidor del Alba quedándonos aquí de charla."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_A1_000_003",
+      "hash": "DB2493B0DC054DEA",
+      "target": "Yo voy allá donde haya aventura..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_046",
+      "hash": "0F1D17C1994DCD37",
+      "target": "¡Bien dicho! ¡No llegaremos lejos chapoteando en la orilla!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_047",
+      "hash": "10723D1613B06449",
+      "target": "¡Ja! ¡<if(gnum4,Una mujer,Un hombre)> de acción!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_048",
+      "hash": "15FDCEE844B65DAA",
+      "target": "Je, cosas de <if(gnum4,aventureras,aventureros)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_049",
+      "hash": "696E182EC8BE54FE",
+      "target": "Bien. Si todos seguís decididos a hacer el viaje, preparémonos para partir."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_060",
+      "hash": "D875B46B852A4B2A",
+      "target": "Con las ganas que tienen, los demás ya se han ido al puerto."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_061",
+      "hash": "C2387EF71DF0E7A9",
+      "target": "No corremos peligro de perder el embarque, pero será mejor que nos pongamos en marcha."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_080",
+      "hash": "CD6A53E6A8F80FDA",
+      "target": "¿Has hablado con los demás pasajeros? Aún queda un buen trecho hasta Tural, y sería una forma agradable de pasar el rato."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_085",
+      "hash": "BE4BA00C909FA4DF",
+      "target": "Respira hondo... Respira hondo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_090",
+      "hash": "EE55718FB1E35726",
+      "target": "Con estas travesías tan largas noto que pierdo filo. ¿Un combate amistoso luego?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_095",
+      "hash": "7FF87CB16CDC7076",
+      "target": "Me han dicho que este barco lleva un generador de barrera para protegerlo de las tormentas."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_100",
+      "hash": "887D87DC28E55AB9",
+      "target": "Resulta tranquilizador... aunque ruego que no haya que usarlo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GUILDSHIP04860_000_105",
+      "hash": "EC48506F72166751",
+      "target": "Me enteré de que Erenville buscaba pasaje a Tuliyollal y le hice hueco a su grupo en uno de nuestros barcos fletados. Por suerte, acabábamos de programar una expedición a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_Q2_000_000",
+      "hash": "E0B3EA47CB91D038",
+      "target": "¿Reanudar el viaje a Tural?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_000_110",
+      "hash": "F52DE1076C6544E6",
+      "target": "¿Hmm? Ah, será mi primera visita a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_000_111",
+      "hash": "1C179B0ED1103A0F",
+      "target": "Me llamo Fonjeantaine. Trabajaba en las Joyas de Eshtaime, en Ul'dah, pero mi empleo allí, eh... llegó a su fin."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_100_111",
+      "hash": "023AAE1A084F33A0",
+      "target": "Por eso vine a Sharlayan, con la esperanza de empezar de cero. Mientras buscaba trabajo sin éxito, oí que había quedado libre una plaza en este barco y no lo dudé."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_000_112",
+      "hash": "047DC677596FA7C4",
+      "target": "Dicen que el Servidor del Alba acoge a todos sea cual sea su origen, así que Tuliyollal me pareció el lugar perfecto para empezar de nuevo."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_000_113",
+      "hash": "89BB0A344C5F9E0C",
+      "target": "\\<suspiro> Espero que esta vez las cosas vayan mejor..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_FONJEANTAINE_000_115",
+      "hash": "09EEA11256084A47",
+      "target": "Me pregunto cómo será la ciudad..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SAILORSUNBURNED_000_120",
+      "hash": "DA8FD918DE831E32",
+      "target": "¿Te apetece apostar? Estamos haciendo apuestas sobre quién será el próximo en sentarse en el trono del Servidor del Alba."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SAILORSUNBURNED_000_121",
+      "hash": "6C9AACE6EA1D85E0",
+      "target": "Hay cuatro aspirantes en el rito de sucesión... y tu joven Wuk Lamat es una de ellos, cómo no."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SAILORSUNBURNED_000_122",
+      "hash": "9A3FD3BC1DEBAC11",
+      "target": "Pero, según nos contó un tipo Mamool Ja, los otros tres son rivales de peso. Pocos quieren arriesgar su dinero con la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SAILORSUNBURNED_000_123",
+      "hash": "DB033F6A83AC8035",
+      "target": "Un momento, yo te conozco... ¡Eres <if(gnum4,la heroína,el héroe)> de Eorzea! Si la Tercera Promesa te tiene de su lado, la cosa cambia bastante. Igual me toca cambiar la apuesta..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ADVENTURER04860_000_130",
+      "hash": "5C09140E7892B9A3",
+      "target": "¿Mi historia? Ya que lo pregunta: quería repetir el viaje histórico del gran Ketenramm. Ya sabe, el primer eorzeo que pisó Tural, hace casi ochenta años."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ADVENTURER04860_000_131",
+      "hash": "774A729CFB965EDB",
+      "target": "Cuentan que el líder de los Mamool Ja recibió a Ketenramm con los brazos abiertos y lo mandó de vuelta con una fortuna en plata como prueba de amistad."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ADVENTURER04860_000_132",
+      "hash": "60DAA893C3FA3438",
+      "target": "Pero el verdadero tesoro fueron los cultivos que se trajo ─popotos, tomates y maíz─, que se extendieron por Eorzea como la pólvora. ¡Su aventura provocó una revolución culinaria!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ADVENTURER04860_000_133",
+      "hash": "D92DD6043A8A5462",
+      "target": "Cuentan que Ketenramm volvió a Tural varias veces, pero su barco desapareció en el último viaje del que hay registro y nunca se supo más de él. Que un explorador tan curtido acabara así demuestra lo peligroso que es el mar..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ADVENTURER04860_000_135",
+      "hash": "DE2EBC66015E5A18",
+      "target": "Dicen que hay rincones de Tural tan remotos que ni siquiera Ketenramm llegó a ellos. ¡Si lograra explorarlos, quizá llegue a ser más famoso que él!"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GIGIMOLU_000_140",
+      "hash": "409CFBC8AFF5FC7B",
+      "target": "¿<if(gnum4,Una aventurera,Un aventurero)>, supongo?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GIGIMOLU_000_141",
+      "hash": "72A6591CFA2172D9",
+      "target": "Yo soy comerciante, con base en Ul'dah. Importación y exportación de productos selectos, tanto eorzeos como turalíes."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GIGIMOLU_000_142",
+      "hash": "F3AD145C4DBBE31E",
+      "target": "Si esta es su primera “travesía de la sal”, como dicen, recuerde que las costumbres de Eorzea no son necesariamente las de allí."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GIGIMOLU_000_143",
+      "hash": "5106D93FF8F46080",
+      "target": "Fíjese: allí es habitual llamar a las razas por el nombre de ciertos clanes. A los Miqo'te, Hhetsarro; a los Hrothgar, Xbr'aal. No porque todos los miembros de un clan sean de la misma raza, ojo, sino porque muchos individuos de esa raza se asocian a ese clan. En algunos casos es acertado, pero cuide de no ofender."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_GIGIMOLU_000_145",
+      "hash": "18E352ED8AE6FCEE",
+      "target": "Los géneros que llevo en este viaje son una rareza para los turalíes, así que espero sacar un buen beneficio. Los comerciantes de allí son gente muy <italic(1)>comprensiva<italic(0)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_HOOBIGOMERCENARY04860_000_150",
+      "hash": "DD948A3B539EDE3D",
+      "target": "Yo, verte antes, en Eorzea. Tú, <if(gnum4,heroína famosa,héroe famoso)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_HOOBIGOMERCENARY04860_000_151",
+      "hash": "68538E1A07D5FE58",
+      "target": "...Bah, ya me he cansado de hacerme el simple. Hubo un tiempo en que nos esforzábamos por mantener el engaño, pero con tantos eorzeos viniendo a Tural ya no compensa."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_HOOBIGOMERCENARY04860_000_152",
+      "hash": "54B2E7D52C1AAE30",
+      "target": "Además, mis días de mercenario se acabaron. Han caído demasiados de nuestra compañía, así que volvemos a casa a lamernos las heridas..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_HOOBIGOMERCENARY04860_000_155",
+      "hash": "8E6639CA1BD15797",
+      "target": "Me espera un buen remojón en las aguas termales de Urqopacha. Y allí nadie se queja cuando bailo la danza del baño."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_160",
+      "hash": "4EB5E3EFF421CECE",
+      "target": "¿Has averiguado algo interesante?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_161",
+      "hash": "1737A64C6A17EAB8",
+      "target": "¡Vaya! No sabía lo de los nombres de los clanes. Deberíamos pedirle a Wuk Lamat y a Erenville que nos enseñen los que hay que saber."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_162",
+      "hash": "FABBD5988877D33B",
+      "target": "Por cierto, aquí en cubierta empieza a hacer fresco. Reunámonos todos en el camarote."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_WUKLAMAT_000_180",
+      "hash": "CA627CDADBB3D3C7",
+      "target": "Aaah, qué gusto volver a sentir la brisa de casa... No sabía si mi estómago lo contaría."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_KRILE_000_185",
+      "hash": "DAFD0085CB700BF4",
+      "target": "¿Qué clase de problemas esperarán esos soldados?"
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALPHINAUD_000_190",
+      "hash": "81A3F8799BA22841",
+      "target": "Según Erenville, el Vanu que creí ver pertenece a un clan llamado Hanuhanu. Parece que comparten algo más que el parecido físico."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ALISAIE_000_195",
+      "hash": "892297A1B6953F75",
+      "target": "Qué ciudad tan increíble... Tan animada como Ul'dah, y aún más variada..."
+    },
+    {
+      "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_ERENVILLE_000_200",
+      "hash": "7B73776A65863ECB",
+      "target": "Bueno, pese a los esfuerzos de la tormenta, aquí estamos. Sanos y salvos."
+    },
+    { "gameKey": "quest/048/KinGma101_04860#TEXT_KINGMA101_04860_SYSTEM_000_210", "hash": "0B393665F927C518", "target": "¡Has llegado a Tuliyollal! Puedes volver a la ciudad en cualquier momento hablando con el marinero enérgico en Scholar's Harbor, en la Vieja Sharlayan." }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/033/LucKmc110_03331",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_SEQ_00", "hash": "E07456FA4B89EDFF", "target": "Saciada su sed de conocimiento, Y'shtola parece dispuesta a regresar a Slitherbough." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_SEQ_01", "hash": "A90EB0A9E18AF948", "target": "Y'shtola os da las gracias a ti y a Thancred por vuestra ayuda para infiltraros en Woven Oath, y te invita a descansar cuando regreséis a Slitherbough." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_SEQ_02", "hash": "98D8A34B5A860CF7", "target": "Regresas a Slitherbough y hablas con Runar, que estaba fuera de sí de preocupación por la ausencia de Y'shtola de la aldea. Aliviado al saber que estáis todos sanos y salvos, te propone que te sientes junto al fuego a descansar mientras él termina de preparar la comida." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_SEQ_03", "hash": "4A5B2B08F38AFEBE", "target": "El guiso de Runar está casi listo y, aunque los guardias de patrulla aún no han regresado, te pide que avises a Y'shtola de que es hora de comer. Te acercas a la puerta de sus aposentos, pero el sonido de una discusión en el interior te detiene antes de llamar. Parece que se ha exasperado con la afición de Urianger por los secretos. Sin embargo, antes de que su conversación alcance una conclusión satisfactoria, un estridente grito de auxilio te distrae: han llegado soldados eulmoranos, y el veneno ha abatido a uno de los guardias de los Bendecidos." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_SEQ_04", "hash": "C9C39F4A598AC007", "target": "A los Bendecidos por la Noche se les ha dado a elegir: unirse a los Hijos de la Oscuridad Eterna y jurar lealtad a Eulmore, o afrontar su castigo. Los Videntes deben actuar con rapidez si quieren salvar a los Bendecidos por la Noche y negarle a Vauthry un punto de apoyo en la Gran Selva de Rak'tika." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_TODO_00", "hash": "AD8A2A7AE8A7ADB0", "target": "Hablar con Runar" },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_TODO_01", "hash": "F7F36B65A705A167", "target": "Esperar junto al fuego" },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_TODO_02", "hash": "7CFB6D3E8CCCBCB8", "target": "Hablar con Urianger" },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_THANCRED_000_000", "hash": "E3B019901C0436AE", "target": "Me alegra ver que mi distracción dio resultado." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_YSHTOLA_000_010", "hash": "74B9E7B951B56438", "target": "Démonos prisa en volver a Slitherbough. Los demás nos esperan." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_YSHTOLA_000_011", "hash": "0EA45C52F9246644", "target": "Cuando hayamos vuelto, deberíais descansar un rato los dos. Sin duda Runar estará deseando que probéis su cocina." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_YSHTOLA_000_012", "hash": "67F1E2E4ACF512BB", "target": "En cuanto descubra algo de importancia, seréis los primeros en saberlo." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_THANCRED_000_020", "hash": "B6D83AC6F49D4837", "target": "Urianger ha atendido las heridas de Minfilia, pero me temo que su naturaleza parlanchina ha podido con él." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RYNE_000_025", "hash": "330C5929F5C1EEF0", "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Ahora que está aquí, hay algo que quiero preguntarle." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RYNE_000_026", "hash": "FC9F009BF316C9E2", "target": "Urianger me contó que Thancred fue una especie de granuja en el pasado. “Como un lobo entre ovejas”, dijo. ¿Qué quiso decir con eso? ¿Lo sabe?" },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_URIANGER_000_030", "hash": "2040A7D4833FA298", "target": "Ten por seguro que Y'shtola y yo trabajaremos con toda premura para descifrar la tablilla y sus secretos." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_YSHTOLA_000_035", "hash": "EDB79F53EFB62937", "target": "Por favor, ve a descansar. Urianger y yo te llamaremos en cuanto terminemos." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RUNAR_000_040", "hash": "BEFB1523A9A2DDDD", "target": "¡<split(<string(gstr1)>, ,1)>! El centinela me dijo que te habías ido con la maestra Matoya a Woven Oath." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RUNAR_000_041", "hash": "32BB5F66DFD852B2", "target": "Y nada más volver, va y se encierra en sus aposentos sin decir ni palabra." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RUNAR_000_042", "hash": "066B473BA5FFA00A", "target": "Sabe muy bien lo que me preocupo cuando se marcha sin avisarme. \\<suspiro> Pero está a salvo, y eso es lo único que importa." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RUNAR_000_043", "hash": "99FFC69CF05EFEF8", "target": "Debes de estar <if(gnum4,hambrienta,hambriento)> después de semejante viaje. ¿Por qué no te sientas ahí, junto al fuego? El guiso estará listo enseguida." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RUNAR_000_050", "hash": "F6A048A6920DCD37", "target": "Confieso que no soy el mejor de los cocineros, pero aún no he oído una sola queja." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_THANCRED_000_060", "hash": "8A543B87985A7FBE", "target": "Que Eulmore haya logrado un punto de apoyo aquí, en estos bosques, augura males para los Bendecidos por la Noche." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_RYNE_000_065", "hash": "7ADD3854453E1981", "target": "Seguro que hay algo que podamos hacer para ayudar a los Bendecidos por la Noche... ¿Verdad?" },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_URIANGER_000_070", "hash": "C7E0DEC74BBE0223", "target": "El centinela ha sido presa de un veneno de lo más terrible y virulento." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_URIANGER_000_071", "hash": "859B166D4AD78C49", "target": "Hemos probado toda suerte de ensalmos curativos. Mas, ay, su estado permanece inalterado." },
+    { "gameKey": "quest/033/LucKmc110_03331#TEXT_LUCKMC110_03331_URIANGER_000_072", "hash": "96E8EC3A67942F5F", "target": "Por ahora, no podemos sino frenar el avance del veneno. Ruego que ello nos conceda tiempo suficiente para hallar una cura." }
+  ]
+}

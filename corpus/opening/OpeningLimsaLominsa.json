@@ -1,0 +1,20 @@
+{
+  "conversation": "opening/OpeningLimsaLominsa",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_RYSSFLOH_000_02", "hash": "D29A2A57780A9627", "target": "¡Eh, pero ¿dónde diantres te crees que vas?! ¡Te he dicho que vengas aquí!" },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FZHUMII_000_03", "hash": "D12F3EF2BC64EAEB", "target": "Alto ahí, aventurero. Si buscas a Baderon y Drowning Wench, más te vale hablar con Grehfarr." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_AHLDSKYF_000_05", "hash": "674F87E76D347A79", "target": "Hasta aquí has llegado, <if(gnum4,muchacha,muchacho)>. Si quieres aventurarte en Limsa Lominsa, y sobrevivir a tu primer día, te recomiendo encarecidamente que pases por Drowning Wench y hables antes con Baderon." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_ABYLFARR_000_07", "hash": "031C152B34D88CF9", "target": "¿Ya te has inscrito en el Gremio de Aventureros? Me lo imaginaba. Da media vuelta y ve derecho al Montacargas del Cuervo. Baderon querrá hablar contigo." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SDHODJBI_000_09", "hash": "CD2DE8147D121910", "target": "No pretendo ser <if(gnum4,grosera,grosero)>, <if(gnum4,señorita,señor)>, pero reconozco a un aventurero novato en cuanto lo veo. Créeme si te digo que te conviene charlar con toda la gente de aquí antes de ponerte a vagar por la ciudad como un paleto boquiabierto." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_QUENTENAIN_000_11", "hash": "15E2E2F66D262735", "target": "Alto ahí, <if(gnum4,muchacha,muchacho)>. Antes de salir trotando por esa puerta y meterte de cabeza en la emboscada de algún rufián, más te vale beber de la sabiduría de Drowning Wench: la de la dueña y la de la clientela." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SKAENRAEL_000_13", "hash": "654C77E28B1FF222", "target": "Es un poco pronto para irte, ¿no crees? ¿O ya has oído todo lo que tenía que decirte el tipo sospechoso del mostrador grande? Si es así, deberías saber que es de buena educación dedicar un momento a quien lo necesita... como esa lalafell de la mesa que te está mirando ahora mismo." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_20", "hash": "7301DB1059B8F22E", "target": "Bienvenido a Limsa Lominsa, bulliciosa ciudad<-->estado llena de granujas y bandidos, el diamante en bruto del mar de Rhotano." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_21", "hash": "330583F2A2C7F574", "target": "Sigue las instrucciones para mover a tu personaje y ajustar la posición de la cámara." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_SEA_SYSTEM_000_22", "hash": "8B3396812D33CB6F", "target": "Cuando estés listo para continuar, habla con Ryssfloh." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_000_23", "hash": "A924D73486A86F92", "target": "Selecciona el modo de control que quieras usar." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_Q_01", "hash": "FB166CC1B9AD9A73", "target": "Selecciona un modo de control." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_01", "hash": "8AB8A11F0EDC951B", "target": "Ratón y teclado." },
+    { "gameKey": "opening/OpeningLimsaLominsa#TEXT_OPENINGLIMSALOMINSA_FST_SYSTEM_A_02", "hash": "78B11AB514B42682", "target": "<if([gnum75>1],Mando,Gamepad)>." }
+  ]
+}

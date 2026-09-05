@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/006/SubWil501_00639",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_00", "hash": "19FB0598FDF71565", "target": "F'hobhas desea enseñarte a engarzar materia." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_01", "hash": "1B71811969521EF4", "target": "En la Hoguera, F'hobhas se ofrece a enseñarte a engarzar materia en el equipo. Habla de nuevo con ella para comenzar tu aprendizaje." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_SEQ_02", "hash": "FBF42ED62EE7FFD3", "target": "Ya estás <if(gnum4,instruida,instruido)> en las artes del engarce de materia. Aprovecha este conocimiento y prueba a engarzar materia en el equipo." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_TODO_00", "hash": "395BC875535DE254", "target": "Hablar con F'hobhas" },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_000", "hash": "8A191B8EDCF95DC2", "target": "Vaya, hola. Veo que eres <if(gnum4,discípula,discípulo)> de la Mano, como yo." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_001", "hash": "93B4E078ECA77DF5", "target": "¿Quizá te interese aprender a engarzar materia en el equipo? Si es así, será un placer enseñarrrte." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_010", "hash": "7B33BE86841FE523", "target": "¿<if(gnum4,Lista,Listo)> para empezar? ¡Bien! Pues bien, hay una cosa imporrrtante que tener en cuenta al engarzar: las ranuras de materia." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_011", "hash": "FB5B005856BC47CF", "target": "Lo primero es la materia carbonizada, un catalizador necesario en el proceso de engarce. Esta sustancia se encuentra por toda la naturrraleza. Si quieres saber cómo recolectarla, Kokosamu, ahí presente, puede decírtelo." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_012", "hash": "A28C478C36164777", "target": "Luego, debes tener presentes las ranuras de materia. Las armas y armaduras tienen cada una cierto número de estas ranuras, y eso determina cuántas materias pueden alojar." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_013", "hash": "5FF9AFC9873F1F0D", "target": "Las armas y armaduras tienen cada una cierto número de estas ranuras, y eso determina cuántas materias pueden alojar. Norrrmalmente, un objeto no puede alojar más materias de las ranuras que tiene. Sin embargo, como casi todo en esta vida, hay ciertas... excepciones." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_014", "hash": "B0289C6EA4283495", "target": "Pero esta clase de conocimientos es para más adelante. Cuando tengas más experiencia, quizá quieras sacarle el tema al maestro Mutamix." },
+    { "gameKey": "quest/006/SubWil501_00639#TEXT_SUBWIL501_00639_FHOBHAS_015", "hash": "41359E3DD991BA98", "target": "¡Venga, en marcha, y feliz engarrrce!" }
+  ]
+}

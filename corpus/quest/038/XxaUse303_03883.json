@@ -1,0 +1,182 @@
+{
+  "conversation": "quest/038/XxaUse303_03883",
+  "questName": "Shock and Awe",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SEQ_00",
+      "hash": "9E4116EECBB3F523",
+      "target": "El refugiado aterrorizado quiere que encuentres a sus hermanos y los convenzas de que depongan las armas."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SEQ_01",
+      "hash": "DEC769EEA0729113",
+      "target": "El superviviente cree que los demás refugiados depondrán las armas si ven de primera mano que no pueden hacer frente a guerreros veteranos. A tal fin, te pide que los busques en las cuevas al sur de Desesperanza y retes a combate a sus cabecillas, dos mercenarios gemelos, y los derrotes a la vista de todos."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SEQ_02",
+      "hash": "983CF71AAF9ED5F2",
+      "target": "Aunque has venido a dar un escarmiento a los gemelos, los refugiados se niegan a apartarse. Solo tras someter a cinco de ellos aparecen los mercenarios. Por fortuna, su derrota parece haber surtido el efecto deseado. Habla con el refugiado desesperado y confirma que ha aprendido la lección."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SEQ_03",
+      "hash": "BA94864ABE6DB898",
+      "target": "El refugiado cae de rodillas, presa de la desesperación, con su voluntad de lucha quebrada. Informa al superviviente de Desesperanza de todo lo sucedido."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SEQ_04",
+      "hash": "65844B9A5F1E4E93",
+      "target": "Aunque le entristece saber que sus compañeros te obligaron a actuar, el superviviente agradece tu intervención. Le preocupa, sin embargo, que el mercader intente reclutar a más refugiados desesperados y perpetúe el derramamiento de sangre. ¿Quién es esta figura tenebrosa empeñada en sembrar la discordia? La trama se complica..."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TODO_00",
+      "hash": "FC6E8C9E726866C1",
+      "target": "Buscar a los demás refugiados en las cuevas al sur de Desesperanza"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TODO_01",
+      "hash": "10E3CBE1193BE79D",
+      "target": "Hablar con el refugiado desesperado"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TODO_02",
+      "hash": "BD70B91AB35474C8",
+      "target": "Hablar con el hombre aterrado"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_SYSTEM_100_000",
+      "hash": "AD730A39BB77EE0F",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona “Abandonar”."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_000",
+      "hash": "9D89EBDFD0DEDD0F",
+      "target": "Los demás refugiados se ocultan en las cuevas al sur de Desesperanza, pero acercarse sería en vano. Antes nos llamarían agentes del sultanato e intentarían matarnos que escuchar razones. Es más, puede que los gemelos se dignaran a hacerlo ellos mismos."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_001",
+      "hash": "33C69D8D517234BA",
+      "target": "¡Malditos sean todos los mercenarios! Se suponía que iban a enseñarnos a luchar, pero los que él envió con nosotros se esfumaron durante la refriega."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_002",
+      "hash": "23D2E70FD0594AD5",
+      "target": "¡Ay, ojalá nunca hubiéramos escuchado las ridículas promesas de ese mercader! Dijo que nuestra causa era justa, que los dioses jamás consentirían nuestra derrota─"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_003",
+      "hash": "7E153588224DEAAD",
+      "target": "Aunque, si tuvieran que afrontar la realidad... ¡Eso es! ¡Reta a los gemelos y demuestra a mis hermanos que sus mejores guerreros no son rival para <if(gnum4,una mujer,un hombre)>! ¡Quizá <italic(1)>entonces<italic(0)> depongan las armas y renuncien a este complot!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_010",
+      "hash": "189E5E52E5981696",
+      "target": "Haz daño a los gemelos si es preciso, pero, te lo ruego, haz cuanto puedas por no dañar a los demás."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_REFUGEE01444_000_020",
+      "hash": "FB66E12540BE3B22",
+      "target": "¡Por los siete infiernos, nos han encontrado! ¡Todos, coged vuestras armas y al punto de encuentro!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_REFUGEE01444_000_021",
+      "hash": "094A2DD1E47BCC9E",
+      "target": "...Conque ese es tu juego, ¿eh? ¡Ajajajá! Siento decepcionarte, <if(gnum4,muchacha,muchacho)>, ¡pero estamos más que dispuestos a matarte nosotros mismos!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_REFUGEE01444_000_030",
+      "hash": "2A415A8C0062BE9F",
+      "target": "¡Los venciste como si nada! Thal todopoderoso, ¿qué vamos a hacer ahora...?"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_REFUGEE01444_000_035",
+      "hash": "E81E865C9B242F99",
+      "target": "¿¡Nos rendimos, vale!? ¡Nos rendimos! ¡Es lo que querías, ¿no?! ¡Así que vete y déjanos en paz!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_040",
+      "hash": "8818CC6E9DAD50CE",
+      "target": "¡Ha vuelto! ¿Encontró a mis hermanos? ¿Y los gemelos? ¿¡Qué ha pasado!?"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_041",
+      "hash": "1E6F1451862D9790",
+      "target": "Ya veo... En fin... no le quedaba otra. Mejor que unos pocos reciban una paliza suya a que a todos los descuarticen las Llamas."
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_042",
+      "hash": "27ACE03994813D4C",
+      "target": "Dígame, ¿qué dijo el mercader cuando todo acabó?"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_TREMBLEMAN01443_000_043",
+      "hash": "D6062ED32B61A5DB",
+      "target": "¿Eh? Pero ¿dónde iba a estar si no? A menos que... ¿A menos que se fuera a Tiro de Piedra a reclutar a otros?"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_000",
+      "hash": "2D572D4412D426FA",
+      "target": "¡Ayúdame, maldita sea!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_010",
+      "hash": "551597B707D5F5FC",
+      "target": "¡Nunca deberías haber venido aquí!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_020",
+      "hash": "F2604A510F34A7F7",
+      "target": "¡P-podemos con <if(gnum4,ella,él)>!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_030",
+      "hash": "60D21BEBAA00753B",
+      "target": "¡N-no puedo yo solo con esto!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_040",
+      "hash": "9F2DC6F2767A9ADE",
+      "target": "¡Da lo peor de ti!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_050",
+      "hash": "C94D408DED41D8EC",
+      "target": "\\<bufido> \\<soplido>"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_060",
+      "hash": "36792CCE506D1CE3",
+      "target": "¡No nos detendrás!<br>¡<italic(1)>No puedes<italic(0)> detenernos!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_070",
+      "hash": "206D79CA0CF5DD86",
+      "target": "¡Vaya, un desafío!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_080",
+      "hash": "DC6C8FEA80CA6333",
+      "target": "¡Cuánto tiempo sin un buen combate!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_090",
+      "hash": "FC4A8045F052F7A0",
+      "target": "¡Miserable <if(gnum4,entrometida,entrometido)>!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_100",
+      "hash": "0541863870C108B7",
+      "target": "<if(gnum4,¡Zorra,¡Cabrón)>!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_110",
+      "hash": "5851FAF00D1703D7",
+      "target": "¡Basta!"
+    },
+    {
+      "gameKey": "quest/038/XxaUse303_03883#TEXT_XXAUSE303_03883_BALLOON_000_120",
+      "hash": "0ED1F439AF8FD7A6",
+      "target": "¡No, NO!"
+    }
+  ]
+}

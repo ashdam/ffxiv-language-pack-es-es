@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/004/SubGsc102_00437",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_CARDGAME_000_000", "hash": "22BBE93AFEF143E4", "target": "¡El Triple Triad está arrasando en Eorzea! ¿Le apetece probar suerte con este fascinante juego de cartas?" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_Q1_000_000", "hash": "1066454DE55FAE79", "target": "¿Jugar al Triple Triad?" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_A1_000_001", "hash": "A991C37FC4209C77", "target": "Sí" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_A1_000_002", "hash": "7527D6DAFB655772", "target": "No" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_CARDGAME_000_010", "hash": "A1111C240D14C661", "target": "¿Está segur<if(gnum4,a,o)>? ¡Es fácil de empezar y todo un reto de dominar! En fin, ¡en otra ocasión, quizá!" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_020", "hash": "3B61F27091B8D34E", "target": "¡Y así nace <if(gnum4,otra retadora,otro retador)>! Le doy la bienvenida al mundo del Triple Triad, donde enfrentará sus cartas a las de un rival en una tensa batalla de habilidad, estrategia... y alguna que otra pizca de suerte." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_CARDGAME_000_021", "hash": "B8F847516F9AC3C5", "target": "Aquí, en el Manderville Gold Saucer, me complace obsequiar a todos los jugadores nuevos con las cartas que necesitan para empezar." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_CARDGAME_000_022", "hash": "B1B4E427EFD7CC7A", "target": "Para jugar una partida, no obstante, antes tendrá que formar un mazo con cinco cartas de su lista de cartas registradas." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_CARDGAME_000_023", "hash": "0610BBE4112DEF30", "target": "¡Ah, y le sugiero que hable con el comerciante de cartas de Triple Triad que hay cerca si desea ampliar su colección!" },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_100_030", "hash": "84065F09F4A8B3D3", "target": "Ya puedes jugar al Triple Triad." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_030", "hash": "2725213706274207", "target": "Ya puedes retar a otros a partidas de Triple Triad. Se pueden conseguir cartas nuevas de varias formas: del comerciante de cartas de Triple Triad, como botín por ganar partidas y como premio en los torneos de Triple Triad." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_031", "hash": "E62130E91AF90537", "target": "Juega contra la maestra de Triple Triad para aprender las reglas básicas del juego. No obstante, antes de empezar debes completar varios pasos." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_032", "hash": "9EB5DCF00BF60B98", "target": "Primero, debes seleccionar <colortype(500)><edgecolortype(501)>Usar<edgecolortype(0)><colortype(0)> en las cartas de tu inventario para registrarlas en tu <colortype(500)><edgecolortype(501)>Cartas<edgecolortype(0)><colortype(0)>. Puedes consultar tu lista de cartas en las opciones de <colortype(500)><edgecolortype(501)>Gold Saucer<edgecolortype(0)><colortype(0)>, dentro de <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>, en el menú principal." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_033", "hash": "263E8BA234AAB993", "target": "A continuación, accede a tus <colortype(500)><edgecolortype(501)>Barajas<edgecolortype(0)><colortype(0)>, también dentro de las opciones de <colortype(500)><edgecolortype(501)>Gold Saucer<edgecolortype(0)><colortype(0)>, y forma un mazo eligiendo cinco cartas de las que hayas registrado." },
+    { "gameKey": "quest/004/SubGsc102_00437#TEXT_SUBGSC102_00437_SYSTEM_000_034", "hash": "D1D782C18BF801D6", "target": "Habla con la maestra de Triple Triad cuando tengas el mazo listo y te enfrentará en una partida de tutorial." }
+  ]
+}

@@ -1,0 +1,825 @@
+{
+  "conversation": "quest/049/KinGmc115_04911",
+  "questName": "Ever Greater, Ever Brighter",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_00", "hash": "03812BB9C3E228C9", "target": "Krile rebosa orgullo." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_01", "hash": "E8CF7E21169981BC", "target": "Mientras rememoras los momentos más emocionantes de la ceremonia de ascensión, Wuk Lamat se une a vosotros. Basta un bienintencionado «Servidora del Alba» para que te recuerde lo poco que le gustan los títulos. Tú y tus camaradas sois como de la familia, dice, y como tal deberíais llamarla «Lamaty'i». Llevada por la alegría del momento, Wuk Lamat te invita a acompañarla mientras da las gracias a sus partidarios reunidos en la ciudad." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_02", "hash": "E7C6B174C70716BC", "target": "Los primeros de la lista de partidarios a los que ver son Wuk Evu y Mablu, a quienes se ha visto en Aunt Tii's Tacos. Wuk Lamat insiste en que no los ha priorizado con el fin de conseguir algo de picar para celebrar, pero está por ver si eso es cierto.<br><br>※Necesitas la compañía de Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con ella." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_03", "hash": "7AF3621E758D46AA", "target": "Encuentras a Wuk Evu, Mablu, Tobli y Linuhanu de buen humor y disfrutando de los mejores tacos de Tuliyollal. Mablu y Tobli traen novedades de Urqopacha, desde la salud de las alpacas hasta los descuentos conmemorativos, mientras que Linuhanu le recuerda a Wuk Lamat su promesa de asistir al Ihih'hana. Wuk Evu, como era de esperar azorado por el nuevo título de Wuk Lamat, acaba serenándose lo suficiente para ofrecerse como instructor sobre las culturas y costumbres de las comunidades de Xak Tural.<br><br>※Necesitas la compañía de Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con ella." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_04", "hash": "532691B937E9AB0D", "target": "Te topas con dos Yok Huy, un Moblin y un artesano elezen en Bahía Comerciante, un grupo de lo más ecléctico de rostros conocidos. Wuk Lamat reitera a Gurfurlur y Zurmurwur las promesas que hizo en su discurso de ascensión respecto a los Chirwagur y, aunque estos predicen que el cambio llevará tiempo, se muestran optimistas de todos modos. Entre tanto, Rakorok charla animadamente sobre la cooperación y Fonjeantaine parece haber encontrado la paz interior.<br><br>※Necesitas la compañía de Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con ella." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_05", "hash": "C5018ED1014E501A", "target": "Hunmu Rruk, Zereel Ja y Miilal Ja se han reunido en Gornitruq Gleamsands. El Xbr'aax Rax felicita a Wuk Lamat con toda la formalidad debida, pero no hay forma de ocultar el orgullo en sus ojos. Con una sonrisa de disculpa, Miilal Ja explica que Bakool Ja Ja se marchó pronto, no preparado para enfrentarse a su nueva Servidora del Alba. Igual de notable es la ausencia de Ketenramm, aunque se hace notar que siempre ha sido algo caprichoso en sus apariciones.<br><br>Tras hablar con todos los que ha podido, Wuk Lamat propone que los dos volváis al Paseo Alado.<br><br>※Necesitas la compañía de Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con ella." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_06", "hash": "FA3A3EE6762D3902", "target": "Tras un viaje que ha cruzado un océano y medio continente, Wuk Lamat ha desafiado todos los pronósticos y se ha convertido en Servidora del Alba de Tuliyollal. Le gustaría que permanecieras a su lado a título oficial para ayudar a guiar a la nación hacia un futuro mejor, pero los aventureros no suelen quedarse mucho tiempo en un mismo lugar, y aún te queda por explorar el extremo norte de Tural..." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SEQ_07", "hash": "F3BF86BA6240A32C", "target": "Así es como te despides de tus demás compañeros de viaje y te reúnes con Erenville en la Puerta de Xak Tural. Qué aventuras te aguardan más allá, solo el tiempo lo dirá." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_00", "hash": "C2B3D592C49BB205", "target": "Hablar con Wuk Lamat para que te acompañe" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_01", "hash": "0AE76A2573ECAED7", "target": "Hablar con Wuk Evu con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_02", "hash": "0AD0CE0C881B0C24", "target": "Hablar con Fonjeantaine con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_03", "hash": "C0BA49A5C03F7537", "target": "Hablar con Hunmu Rruk con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_04", "hash": "8B3CA713E143C902", "target": "Hablar con Krile con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TODO_05", "hash": "C43810E81C117AEB", "target": "Hablar con Erenville" },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_001",
+      "hash": "DE385E68601AA316",
+      "target": "Podría habérselo dicho a <italic(1)>alguien<italic(0)>, lo que planeaba..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_002",
+      "hash": "9E4C336F2550DFEA",
+      "target": "Pero Wuk Lamat no actúa sin tener en mente el bien de su gente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_003",
+      "hash": "A8766CD264EE9448",
+      "target": "Muy sabia fue la Cabeza de la Razón al idear algo tan elaborado y significativo como el rito de sucesión. Es una lástima que no haya podido estar aquí para presenciar el final."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_004",
+      "hash": "813C659887D579BC",
+      "target": "Una celebración agridulce, sin duda, pero me alegro de que Wuk Lamat haya obtenido por fin el reconocimiento que merece."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_005",
+      "hash": "27E077E8577387FA",
+      "target": "Wuk Lamat ha encontrado de verdad su sitio, ¿no crees?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_010",
+      "hash": "A8F374B2E461E060",
+      "target": "Desde luego. Aun conmoviendo al pueblo con palabras sentidas, conservó su espontaneidad característica─como demuestra que nombrara a Koana Servidor del Alba junto a ella."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_015",
+      "hash": "F425A61E8617370B",
+      "target": "Por repentino que fuera, quiero creer que lo meditó como es debido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_020",
+      "hash": "F2F539C5ACFB0CB2",
+      "target": "Podría haber elegido mucho peor. Koana superó todas las pruebas salvo la última, y esa solo la abandonó para ayudar a Wuk Lamat a asegurarse la victoria."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_025",
+      "hash": "53FB8412D1DCDD2A",
+      "target": "Tengo ganas de ver cómo prospera Tuliyollal bajo su cuidado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_030",
+      "hash": "8D1DD0B2461878B7",
+      "target": "¡Gracias a todos por venir!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_035",
+      "hash": "3952F694144336F9",
+      "target": "Os veía a todos perfectamente desde ahí arriba."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_040",
+      "hash": "0BFF2BEAA81AE6A4",
+      "target": "Menudo discurso, Servidora del Alba."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_045",
+      "hash": "1E73C2648F9CBBA6",
+      "target": "¡Ya os lo he dicho: nada de títulos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_050",
+      "hash": "18A6430D1F5861FD",
+      "target": "Además, después de todo lo que hemos pasado juntos, no sois menos que familia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_055",
+      "hash": "798A8EDB02852984",
+      "target": "Así que... como hace mi familia, me gustaría que me llamarais Lamaty'i."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_Q1_000_000",
+      "hash": "2F9AD27A5B4CEC3C",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A1_000_001",
+      "hash": "C9E1D589357D8352",
+      "target": "¡Sería un honor, Lamaty'i!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A1_000_002",
+      "hash": "C2BCB93F3CF35B1F",
+      "target": "¡Intentaré pronunciarlo bien!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A1_000_003",
+      "hash": "478E1AAA89179989",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_065",
+      "hash": "75D9A603A1527626",
+      "target": "Gracias. Significa mucho para mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_070",
+      "hash": "2F6315E33D3A153F",
+      "target": "A mí también me honraría llamarte Lamaty'i."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_075",
+      "hash": "B0247F144ACE2C24",
+      "target": "Ah, no te preocupes por eso. Lo digas como lo digas, sé que lo dirás con cariño."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_080",
+      "hash": "F2C8B304B54FBB05",
+      "target": "Si lo pronunciamos mal, corrígenos, pero..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_085",
+      "hash": "0CC1C34125139A8A",
+      "target": "Me honraría llamarte Lamaty'i."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_090",
+      "hash": "A3F63CCF4FBC4FAC",
+      "target": "Venga, di algo, ¿quieres? ¡Para silencios burlones ya tenemos a Erenville!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_095",
+      "hash": "4BEEA04ACC3B0592",
+      "target": "Creo que simplemente has pillado a <if(gnum4,nuestra amiga,nuestro amigo)> con la guardia baja."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_100",
+      "hash": "8DF26F783F5CF2A3",
+      "target": "Por mi parte, me honraría llamarte Lamaty'i."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_105",
+      "hash": "0F86EE59533C276C",
+      "target": "Y a mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_110",
+      "hash": "681EBA2642EC37DB",
+      "target": "En efecto. Considéranos tus primos eorzeos, si la idea te gusta."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_115",
+      "hash": "0BE1E4F1B4D8088D",
+      "target": "Primos eorzeos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_120",
+      "hash": "E5D70CB70C71FF8A",
+      "target": "Da un poco de vergüenza... ¡pero no en el mal sentido!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_125",
+      "hash": "2D76365B4AFCBE6B",
+      "target": "Aún hay mucho que me gustaría decir, pero antes tengo que hacer mi ronda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_130",
+      "hash": "F17070C5616D35C9",
+      "target": "Quiero dar las gracias a quienes me apoyaron y han venido para la ocasión. ¿Podéis esperarme aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_135",
+      "hash": "F11498CDA07053F8",
+      "target": "Claro. Ya nos entretendremos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_140",
+      "hash": "FD1655FF6CD7BA9A",
+      "target": "Dicho esto, ¿me acompañas, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_145",
+      "hash": "390634553E3E299D",
+      "target": "¡Estupendo! Pues ven a buscarme a la salida del Paseo Alado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_160",
+      "hash": "74F75BB87200E66E",
+      "target": "¡No te preocupes por nosotros! ¡Ve y pásalo bien con Wuk La... digo, con Lamaty'i!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_161",
+      "hash": "1B2C2359AE0A3F99",
+      "target": "Para mí siempre será “Wuk Lamat”. Por muy importante que llegue a ser."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_162",
+      "hash": "71330E8982D1A14D",
+      "target": "No creo haber visto a Ketenramm entre los asistentes. ¿Y tú?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_163",
+      "hash": "BB87F90A40126700",
+      "target": "La<italic(1)>ma<italic(0)>ty'i... ¿Lama<italic(1)>ty'i<italic(0)>? Hmm..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_165",
+      "hash": "850FB7651845B9D7",
+      "target": "¿Vamos? Pues en marcha."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_170",
+      "hash": "25AF6F2D9AAA34F1",
+      "target": "Primera parada, los Tacos de Tía Tii─y no solo por el picoteo, te lo prometo. Wuk Evu y Mablu deberían estar allí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_Q2_000_000",
+      "hash": "34596D978872C796",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A2_000_001",
+      "hash": "FC6B15EBAA19E375",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A2_000_002",
+      "hash": "0EB6C2CB59FA9643",
+      "target": "Separaros de Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_A2_000_003",
+      "hash": "7C7DC47713A19D2C",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_190",
+      "hash": "0D802051490584D5",
+      "target": "Claro que, ya que <italic(1)>de todas formas<italic(0)> vamos a estar en los Tacos de Tía Tii, bien podríamos pillar algo de picoteo también, ¿no?"
+    },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SYSTEM_000_195", "hash": "E1493DF88FC27809", "target": "¿Seguro que quieres separarte de Wuk Lamat?" },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_200",
+      "hash": "9DB588121A6F0F0F",
+      "target": "¿Te ha surgido algo? No pasa nada─¡reúnete conmigo junto al Paseo Alado cuando acabes!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_201",
+      "hash": "D6EF27B7CF93CF74",
+      "target": "¡Pero si es <split(<string(gstr1)>, ,1)>! Magnífica ceremonia, ¿verdad?"
+    },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SYSTEM_000_202", "hash": "832EA813D9B29D47", "target": "Debes llevar a Wuk Lamat contigo y tenerla a tu lado para avanzar en los objetivos de la misión." },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SYSTEM_000_203", "hash": "823D28DF9848BED9", "target": "Wuk Lamat aún no ha llegado. Asegúrate de que esté a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_205",
+      "hash": "B32DA87167F7C29C",
+      "target": "¡En marcha!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_210",
+      "hash": "6DB562CBDAC71EAB",
+      "target": "Servidora del Alba Wuk Lamat. Las palabras no alcanzan a expresar la honda alegría que me ha traído vuestra ascensión."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_215",
+      "hash": "734CA2BB0D7E8A04",
+      "target": "Nada de formalidades. Sigo siendo la de siempre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_220",
+      "hash": "1DAF54EEDBC37EA4",
+      "target": "Muy bien, entonces. Prescindiré de formalidades."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_225",
+      "hash": "352BC13760473122",
+      "target": "¡Ay, pero no puedo! ¡Sois la Servidora del Alba! ¡Es demasiada falta de respeto dirigirse a vos sin vuestro título!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_230",
+      "hash": "E912151E965DA167",
+      "target": "¡Como Servidora del Alba, te ordeno que no te molestes en formalidades!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_235",
+      "hash": "03964742E75DC701",
+      "target": "Muy bien, entonces. Ya no me molestaré."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TOBLI_000_240",
+      "hash": "EABC798539D7F60B",
+      "target": "Con una alpaca borracha conversaría con más facilidad."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MABLU_000_245",
+      "hash": "2A526784F4BD6226",
+      "target": "¡Gracias por ayudar a Wuk Lamat a llegar a Servidora del Alba, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MABLU_000_250",
+      "hash": "53EA0E5AAD09A3F9",
+      "target": "Puede que las opiniones políticas de nuestra comunidad estuvieran divididas, pero la ascensión de un Servidor del Alba nos brinda a todos una oportunidad de primera. ¡Por eso convencí a todo el mundo de participar en una campaña de rebajas conmemorativa!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MABLU_000_255",
+      "hash": "91E75A38B5E391BF",
+      "target": "Un plan maravilloso, ¿no? ¡Mi primer gran proyecto como mercader!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_LINUHANU_000_260",
+      "hash": "DA6319D2BBA94804",
+      "target": "¡Cómo me suena de bien una rebaja! ...Siempre que no me convenzan de comprar de más."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_265",
+      "hash": "2CC4336AE3EA18BF",
+      "target": "Qué bien volver a veros a todos. Quería daros las gracias en persona, a cada uno, por vuestra ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_270",
+      "hash": "FD80F2EAFB7D6381",
+      "target": "La Prueba de los Juncos y la Prueba del Oro fueron mis primeras pruebas de verdad como aspirante. De no ser por vuestra guía, habría fracasado en el rito de sucesión antes de entender del todo su importancia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_275",
+      "hash": "8FFD889FCB97AED5",
+      "target": "Ahora que me habéis dado el gusto por celebrar la cultura, me muero por ver qué más tiene Tuliyollal que ofrecer. ¡En Xak Tural, por ejemplo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_280",
+      "hash": "F7B379A585B9246E",
+      "target": "Como siempre, debéis observar la etiqueta debida. Con gusto os ofrecería mis servicios como preceptor, si los deseáis."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_285",
+      "hash": "CB5517591413149B",
+      "target": "¡No se me ocurre mejor instructor! Me aseguraré de llevar también a Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_LINUHANU_000_290",
+      "hash": "136D6C5F659B8C98",
+      "target": "Vuestros deberes como Servidora del Alba serán muchos─pero no olvidéis la promesa de asistir a Ihih'hana la próxima temporada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_295",
+      "hash": "CAFE3C7DE5ED00BB",
+      "target": "¡Por supuesto! No me lo perdería."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MABLU_000_300",
+      "hash": "78F275AE4962CA9E",
+      "target": "¡Cuando me haya hecho un nombre como mercader, me pasaré por el palacio a contaros mis mayores ventas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_305",
+      "hash": "8C1F866C5964FE0C",
+      "target": "Je, je, ¡lo espero con ganas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_TOBLI_000_310",
+      "hash": "5B5A6D225D1A05D2",
+      "target": "Yo mismo me he ocupado del cuidado de vuestra alpaca. ¿Nos atrevemos a esperar veros de nuevo en el rancho?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_315",
+      "hash": "E55B0C7181F23234",
+      "target": "Je, je, dile a mi amiga peluda y llena de escupitajos que Wuk Lamat la visitará pronto."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_320",
+      "hash": "7705FA4890990825",
+      "target": "En fin, tendréis que disculparnos. Ah─no habréis visto a Fonjeantaine por aquí, ¿verdad? Un tipo alto y delgado con orejas largas y puntiagudas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_325",
+      "hash": "EDA79287DBE774DD",
+      "target": "Vi a un hombre que encaja con esa descripción junto al armero de la Bahía Comerciante. En compañía de un Moblin y un par de Yok Huy, si mal no recuerdo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_330",
+      "hash": "1FDFE3F8F2C575EA",
+      "target": "La Bahía Comerciante─¡entendido!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_335",
+      "hash": "E2AB1DE10B6FF605",
+      "target": "Disfrutad de la fiesta, todos. ¡Y de los tacos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKEVU_000_350",
+      "hash": "DCA755EF6295680B",
+      "target": "No podríamos haber pedido una Servidora del Alba mejor."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_360",
+      "hash": "80FD62A0D96AA881",
+      "target": "Parece que Fonjeantaine ha hecho amigos nuevos. ¡Lo que debería hacerlo fácil de encontrar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_361",
+      "hash": "6974488D29FAB1D3",
+      "target": "¡Ah, <split(<string(gstr1)>, ,1)>! Un placer volver a verte."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_365",
+      "hash": "98AF7E05FA83ABC5",
+      "target": "¡Wuk La... digo, Servidora del Alba! ¡Y <split(<string(gstr1)>, ,1)>! ¡Nos honráis con vuestra presencia!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_370",
+      "hash": "62E777F0C225BC56",
+      "target": "¡Gracias por venir, todos! Sé que el viaje hasta Tuliyollal no es corto."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_RAKOROK_000_375",
+      "hash": "C3432A291A312B0F",
+      "target": "Ffff... Ffffkooo... ¡Caminolargo bien valió el viaje para felicitar a nuevos Servidores del Alba!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_GURFURLUR_000_380",
+      "hash": "754C136D12E1AED8",
+      "target": "Oír que la Cabeza de la Razón ha muerto me trae pesar, pero quienes lo recordamos nos aseguraremos de que siga viviendo. Que los honores de este día sean ofrendas al futuro que él imaginó."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZURMURWUR_000_385",
+      "hash": "BBAC5C2AA1359565",
+      "target": "El Gran Lumbrera y yo asistimos en nombre del Eco de Worlar. Si nuestra gente hubiera venido en masa, habríamos sido un estorbo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_390",
+      "hash": "DBB342B603336A1C",
+      "target": "¡Tonterías! ¡Sois bienvenidos siempre, todos vosotros! ¡Esta ciudad es tan vuestra como de cualquiera!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_395",
+      "hash": "9D5545FF0D1F6709",
+      "target": "Me alegra verte de una pieza, <split(<string(gstr1)>, ,1)>. Aunque poco sé de los pormenores, solo puedo imaginar que tu última aventura ha sido larga y... pintoresca."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_400",
+      "hash": "6EA832E0188478F4",
+      "target": "¡Empezando por un casi naufragio, si mal no recuerdas! Y aquí estamos, celebrando la ascensión de vuestra aspirante."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_405",
+      "hash": "0919C0D4418D8411",
+      "target": "Cuando empezó mi viaje, solo pensaba en preservar la paz que tanto le costó crear a mi padre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_410",
+      "hash": "79FB84F55521084E",
+      "target": "Pero la Prueba de las Vasijas, la Prueba del Testimonio y la Prueba del Hielo me enseñaron que la paz no es simplemente la ausencia de guerra."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_415",
+      "hash": "7160AF9F629AA54C",
+      "target": "Poder convivir con seguridad y felicidad─eso es lo que mi padre imaginó para esta nación. Esa es la Tuliyollal que quiero para todos vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_420",
+      "hash": "381A63CE22127423",
+      "target": "Así que os prometo esto─como Servidora del Alba, haré todo lo que pueda por llevar esa misma felicidad a los bandidos de Kozama'uka y a los Yok Huy de las Salinas de Chirwagur. No los abandonaré."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_GURFURLUR_000_425",
+      "hash": "02A20FAB66533BE6",
+      "target": "Igual que a mí me movió la influencia de tu padre, puede que los de Chirwagur acaben aceptando tu paz."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZURMURWUR_000_430",
+      "hash": "6D4F2D8314740B48",
+      "target": "Sus creencias llevan en pie un milenio. No se mueven con facilidad, pero tampoco son inmutables."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_435",
+      "hash": "42723EB7934B64C7",
+      "target": "¡Je! Bueno, yo puedo ser bastante tozuda. ¡Acabarán cediendo, acordaos de lo que digo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_440",
+      "hash": "9BEFF4FAB78DE293",
+      "target": "Puedo dar fe de la eficacia de semejante determinación. Gracias a la hospitalidad de los Moblin, he podido redescubrir la alegría de mi oficio y honrar el legado de mi padre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_RAKOROK_000_445",
+      "hash": "72A47E2FD408D915",
+      "target": "Ffff... Kooo... ¡Ahora que el buenvivir está asegurado, la aldea rebosa de sonrisagusto! Esa cooperación entre manosayuda y juravasijas es el espíritu mismo de un pactovasija sano."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_450",
+      "hash": "F81FAB7711287630",
+      "target": "Una sociedad como la vuestra está condenada a dar fruto. ¡Tengo ganas de ver las piezas fantásticas que produzcáis!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_455",
+      "hash": "58FA88BE34EAEE25",
+      "target": "Hay algunas personas más a las que me gustaría ver, así que deberíamos despedirnos. Vamos a intentar encontrar a Hunmu Rruk."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZURMURWUR_000_460",
+      "hash": "F925FBAD0A068DDE",
+      "target": "¿El Xbr'aax Rax? Creo que lo vi en las arenas de abajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_465",
+      "hash": "24922FD166A59CCD",
+      "target": "¡Las Arenas Fulgentes! Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_470",
+      "hash": "E779FFC0015680DA",
+      "target": "¡Disfrutad de vuestro tiempo en la ciudad! Y recordad─este también será siempre vuestro hogar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_FONJEANTAINE_000_480",
+      "hash": "60142631152C4E4A",
+      "target": "¡Venid a visitarnos a Earthenshire! Rakorok y yo estaríamos encantados de acogeros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_485",
+      "hash": "B41A0511D6034C60",
+      "target": "Pongamos rumbo a las Arenas Fulgentes. ¡Hunmu Rruk debería estar allí!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_486",
+      "hash": "5F8C8E9AE45F04BC",
+      "target": "Me alegra verte, <split(<string(gstr1)>, ,1)>. Esperaba poder felicitar a la Servidora del Alba, pero sin duda tendrá otros deberes que atender..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_490",
+      "hash": "B4E410709E1AB134",
+      "target": "Vaya, vaya. Nos honráis con una visita personal, Servidora del Alba. Enhorabuena por vuestra ascensión."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_495",
+      "hash": "6425357C9B434588",
+      "target": "No, no, nada de eso. Habrá cambiado mi título, pero sigo siendo Wuk Lamat y ya está."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_500",
+      "hash": "2DA4D5FF0C6E07AE",
+      "target": "Más que “y ya está”, diría yo. Te has convertido en una líder digna de esta nación. Tu padre debe de estar orgulloso."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_505",
+      "hash": "27D8B2298784334E",
+      "target": "Eso espero. Pero... los acontecimientos grandes como este me hacen preguntármelo, ¿sabes? Qué dirían mis padres biológicos si lo supieran."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_510",
+      "hash": "D58224871BC91A4F",
+      "target": "...Imagino que dirían que les llena el corazón de alegría ver en qué mujer fuerte y compasiva te has convertido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_515",
+      "hash": "002F466CA39E9680",
+      "target": "A ti también te debo las gracias. Por cumplir la promesa que me hiciste."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MIILALJA_000_520",
+      "hash": "31F747312A96595A",
+      "target": "Le dije a Bakool Ja Ja que se quedara con nosotros para poder felicitarte todos en persona."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MIILALJA_000_525",
+      "hash": "515059C4100122A8",
+      "target": "Pero se marchó dando zancadas, murmurando algo sobre que aún no podía mirarte a la cara."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZEREELJA_000_530",
+      "hash": "AA3B32820947DF6C",
+      "target": "El muchacho necesita un propósito. Un propósito que vaya más allá de satisfacer las exigencias de otros. Siempre fue demasiado complaciente para su propio bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_535",
+      "hash": "8A5B1A516C704495",
+      "target": "Seguro que lo encuentra a su ritmo. Sobre todo si sabe que su familia está ahí para él."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZEREELJA_000_540",
+      "hash": "260E7A2ACE5E7CB5",
+      "target": "...Y lo estaremos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_545",
+      "hash": "FD3ECB6FC6DDB8D4",
+      "target": "Por cierto, ¿habéis visto a Ketenramm por alguna parte? ¡Eh, a Tankwa, quiero decir!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MIILALJA_000_550",
+      "hash": "4CBDD4B0082482F9",
+      "target": "¿Ketenramm, has dicho? Un nombre con fuerza... si bien un poco exótico."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_MIILALJA_100_550",
+      "hash": "8FB455FE08C3D02C",
+      "target": "Pasamos a verlo antes de salir de Mamook, pero no estaba en casa. Tampoco recuerdo haberlo visto en la ceremonia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_555",
+      "hash": "FE85E7B8ACB1A8A7",
+      "target": "La Primera Promesa también brilló por su ausencia. Aunque supuse que necesitaría tiempo para curarse el orgullo herido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_560",
+      "hash": "55A4D6B98BA5451B",
+      "target": "Todo el mundo pensaba que sería él quien sucediera a papá. Mi victoria debió de suponerle un buen golpe."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_565",
+      "hash": "41FD72CC6966A1B3",
+      "target": "En cuanto a Tankwa, seguro que anda por aquí en alguna parte. O listo para aparecer cuando menos lo esperemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_570",
+      "hash": "A454964C52FD71C3",
+      "target": "Será mejor que nos vayamos, ¡pero relajaos, disfrutad y sentíos como en casa! ¡Y venid a vernos cuando queráis!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_575",
+      "hash": "8D5D3417AC788BB4",
+      "target": "Muy bien, creo que he encontrado a todo el que podía encontrar. ¡Volvamos con los demás al Paseo Alado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_590",
+      "hash": "E8988360E299F1D1",
+      "target": "Corren rumores de que Gulool Ja Ja podría emprender una peregrinación ahora que ya no es Servidor del Alba. Aunque seguro que el traspaso lo retendrá en la capital una temporada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_591",
+      "hash": "D5B8D75642427502",
+      "target": "Gulool Ja Ja se pasó a darnos las gracias por nuestro apoyo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALPHINAUD_000_592",
+      "hash": "9491B6DBDFBD2A6B",
+      "target": "También me pidió que te transmitiera su gratitud por ayudar a un padre preocupado. No estoy seguro de a qué se refería, pero supongo que tú sí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ALISAIE_000_593",
+      "hash": "EED9839E232DE504",
+      "target": "¡Anda, ya estás aquí! Erenville nos estaba deleitando con historias de Lamaty'i de cuando eran pequeños."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_594",
+      "hash": "6AEFC2CD089E4434",
+      "target": "¿Qué, la del taco? Estaba prácticamente limpio cuando lo encontré─¿o no, la de las plumas de papá? ¡Mira, no sabía dónde más limpiarme los mocos, y era demasiado pequeña para saberlo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_HUNMURRUK_000_595",
+      "hash": "FA0B7E696F82B8E6",
+      "target": "Puede que Wuk Lamat haya cumplido su objetivo, pero espero que sigas siendo <if(gnum4,su amiga,su amigo)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_WUKLAMAT_000_600",
+      "hash": "E3597A41FBF321FB",
+      "target": "Volvamos al Paseo Alado. ¡Todos esperan!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_601",
+      "hash": "F719068247ADDA65",
+      "target": "¿Wuk Lamat sigue haciendo la ronda?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_KRILE_000_605",
+      "hash": "59FE09BBFBE91E6C",
+      "target": "Ya estás de vuelta. Espero que no te hayas dado prisa por nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_620",
+      "hash": "243139EDDAC197BF",
+      "target": "Pasadas estas puertas y cruzado el puente está Xak Tural."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_625",
+      "hash": "B5013619EE01257B",
+      "target": "Tienes tu permiso, ¿verdad? ¿Equipaje hecho y a punto? ¿Ninguna parada de última hora antes de salir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ERENVILLE_000_630",
+      "hash": "8B7CCA091EE3AB01",
+      "target": "\\<suspiro> Perdona. Me temo que viajar con nuestra nueva Servidora del Alba me ha dejado marcado de por vida..."
+    },
+    { "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SYSTEM_100_070", "hash": "B70A20C3E291AC8F", "target": "Mientras tanto, en las profundidades del Skydeep Cenote..." },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_070",
+      "hash": "3D62AB8F199B5E38",
+      "target": "¿Esta... es la puerta de la ciudad dorada?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_071",
+      "hash": "195E22C2CD09510E",
+      "target": "Hace dos décadas, vuestro padre me mandó transcribir una carta a un erudito de allende la sal, solicitando el estudio de este lugar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_072",
+      "hash": "E1593AA1FDFE6147",
+      "target": "Lo que descubrió fue algo que el Servidor del Alba temió lo bastante como para sellarlo para siempre... o eso creíamos hasta que el objetivo del rito pasó a ser la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_073",
+      "hash": "492C5DF21E1E7344",
+      "target": "¡Y pensar que a Tankwa se le confió su custodia! De haber sabido que ese viejo chocho llevaba encima un juego de piedras clave, nos habríamos ahorrado esas pruebas fatigosas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_074",
+      "hash": "2F34DB3686EDEC4D",
+      "target": "Aquí duerme un gran poder─y con él obtendréis lo que os corresponde por nacimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_075",
+      "hash": "7829CDB735672158",
+      "target": "Eso dices. Y sin embargo, los nuevos Servidores del Alba lograron lo que yo no pude. Arrebatarles el trono no será tarea fácil."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_076",
+      "hash": "F0C89E6C7CAF4DEA",
+      "target": "¡El Hijo Resiliente subestima su propio potencial! No hay por qué preocuparse."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_077",
+      "hash": "2477296B4EAF94A7",
+      "target": "He liberado la llave de la cámara del Servidor del Alba. Solo usted tiene con qué abrir la puerta."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_078",
+      "hash": "153C27AB5CF34CDC",
+      "target": "Obtendréis todo lo que se os negó. El rito, la sombra de vuestro padre─esos recuerdos amargos pronto quedarán olvidados."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_079",
+      "hash": "B1904EEA06E6ABCC",
+      "target": "Tomad vuestro futuro, Promesa. ¡Abrid la puerta y convertíos en el soberano que estabais destinado a ser!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_080",
+      "hash": "678486AF8A54DF47",
+      "target": "¡F-funciona!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_081",
+      "hash": "2A83F9486A83F361",
+      "target": "¿Hay al...ahí? ¿Me... oís?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_082",
+      "hash": "7A23F0762821B7E8",
+      "target": "...¡Por fin!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_083",
+      "hash": "41A141974CD51907",
+      "target": "¿¡Quién anda ahí!? ¡Muéstrate!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_084",
+      "hash": "A9BCB2F998A5E3D9",
+      "target": "Ojalá pudiera. Por desgracia, esta puerta no se abre para mí. Solo la llave que tienes puede conectarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_085",
+      "hash": "20CC7430EC9B996A",
+      "target": "Entonces... ¿eres tú el guardián del gran poder de la ciudad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_086",
+      "hash": "3ABA0429BEA4D441",
+      "target": "Yo no diría que este poder sea grande... Pero el conocimiento que poseo basta para realizar cualquier deseo. Para rehacer mundos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_087",
+      "hash": "B56748245F2F737A",
+      "target": "Conque sí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_088",
+      "hash": "E6341FE6E25E1DD4",
+      "target": "Jajaja... ¡Ajajajá!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_089",
+      "hash": "6AB492EE9A1DBDD9",
+      "target": "Fascinante. Pon tu precio, entonces. Porque lo que yo deseo es el mundo mismo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_090",
+      "hash": "1F228C9EFD76B63F",
+      "target": "¡Sí, sí! ¡El Hijo Resiliente se alza! ¡Juntos crearemos una nación digna de nuestro gobierno!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SAREELJA_000_091",
+      "hash": "A13F00B1033FAB3F",
+      "target": "¿¡P-Promesa!? ¿P-por qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_092",
+      "hash": "DD0E44579105AB64",
+      "target": "La herramienta inútil se desecha."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_ZORAALJA_000_093",
+      "hash": "EE14CDCEEBB93E99",
+      "target": "Entrégame un mundo nuevo. Uno que se doblegue a mi voluntad."
+    },
+    {
+      "gameKey": "quest/049/KinGmc115_04911#TEXT_KINGMC115_04911_SPHENE_000_094",
+      "hash": "444CBFD3C4763F44",
+      "target": "Como desees. Pero a cambio..."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/001/ClsExc001_00179",
+  "questName": "So You Want to Be a Marauder",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_0", "hash": "3A47E27290CAC24D", "target": "Eh, tú, <if(gnum4,aventurera,aventurero)>. ¿Con curiosidad por el Gremio de Asaltantes, eh?" },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_1", "hash": "3EB7781C84DD4BA5", "target": "Toda hacha que merezca empuñarse necesita las dos manos en el mango y tiene un filo capaz de partir de un tajo el mástil de una galera. Esa es la clase de arma que nuestros miembros aprenden a manejar con una rapidez engañosa y una fuerza brutal." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_2", "hash": "BC0369917D4E1E7C", "target": "Si tienes en mente hacer del arte del asaltante el trabajo de tu vida, nuestro gremio te recibe con los brazos abiertos. ¿Qué dices, <if(gnum4,moza,chaval)>? ¿Con ganas de unirte a las filas?" },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_Q1_000_1", "hash": "4294D17D763D1A7D", "target": "¿Deseas unirte al Gremio de Asaltantes?" },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_A1_000_1", "hash": "BEF70DD1C2AC08B4", "target": "Sí" },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_A1_000_2", "hash": "CC5B6F7FD5B276D7", "target": "No" },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_8", "hash": "53ACBD07C1E8F90D", "target": "Tienes el fuego adecuado en las tripas, eso te lo concedo. Pero aún estás algo verde, <if(gnum4,moza,chaval)>. Vuelve cuando hayas tenido ocasión de asentar bien los pies como aventurero, y entonces hablaremos de hachas." },
+    {
+      "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_SYSTEM_000_9",
+      "hash": "FAE71B9B747004EB",
+      "target": "Para poder adoptar otra disciplina, primero debes completar la misión de nivel 10 de tu clase inicial."
+    },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_11", "hash": "9C0DF6F053566B4C", "target": "Bueno, un poco de historia del gremio para que sepas en qué te metes. Todo empezó con los barcos. ¿Que qué tienen que ver con las hachas? Pues construirlos sería endiabladamente difícil sin una herramienta recia con que talar árboles." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_12", "hash": "40C692A7B4CB9601", "target": "Y como solo la propia Navegante sabe cuándo un barco topará con una tormenta o algo peor, tiene sentido que el carpintero de la tripulación lleve un hacha a bordo. Pero cualquier herramienta en un barco puede volverse arma─y el hacha es perfecta para engancharse a la borda de un navío enemigo, desatarse en un torbellino de acero y, en general, arrasar con todo cuanto te rodea." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_13", "hash": "36FCF5E2705DEF5E", "target": "A medida que más marineros adoptaban el hacha como su arma predilecta, el sangriento arte del asaltante empezó a tomar forma─sobre todo entre los piratas, donde la fuerza y la destreza decidían tu lugar en el mundo." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_15", "hash": "E97F60533E8927D4", "target": "Con la mira puesta en reunir tripulaciones de saqueadores listos para el combate, los piratas empezaron a enseñar a sus nuevos reclutas la forma correcta de empuñar un filo cortante. Y <italic(1)>así<italic(0)> es como nació el Gremio de Asaltantes." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_17", "hash": "77FF161A9DA4BD1D", "target": "Tras la firma del Acuerdo de Galadion, sin embargo, el Gremio de Asaltantes ya no fue el mismo─lo intervinieron, reestructuraron y purgaron de sus elementos piratas. Renació como una institución dedicada solo a enseñar el combate con hacha." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_18", "hash": "ADA540BC08BCDD86", "target": "Los miembros de este nuevo Gremio de Asaltantes tampoco eran degolladores movidos por la codicia─eran guerreros que buscaban emplear su destreza marcial por el bien de la sociedad." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_19", "hash": "754232AD5B70525A", "target": "¿Sigues con ganas, eh? Piénsatelo, y luego avísame si decides unirte a nuestras filas." },
+    { "gameKey": "quest/001/ClsExc001_00179#TEXT_CLSEXC001_00179_BLAUTHOTA_000_5", "hash": "5E371083D3297CC3", "target": "Es tu decisión, <if(gnum4,moza,chaval)>─el hacha no es para todos. Que la Navegante te guíe por la senda que decidas emprender." }
+  ]
+}

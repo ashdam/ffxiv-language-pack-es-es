@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/009/GaiUsc504_00992",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_00", "hash": "D45B4C87BD7EA839", "target": "Rammbroes tiene motivos para estar preocupado, pues un solo ataque de hippogryph no es ninguna broma... y mucho menos tres." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_01", "hash": "ED98EE97C383E543", "target": "Varios miembros de la excavación de los Hijos de San Coinach han sido atacados por hippogryphs en la llanura cristalizada, y las heridas demuestran que no fueron topetazos juguetones. Rammbroes te pide que elimines a tres de las groseras criaturas." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_02", "hash": "86B7261633C7B831", "target": "Has abatido a tres hippogryphs y te ves obligado a darle la razón a Rammbroes en que tenían una insólita ligereza de pies y fiereza de espíritu. Hazle saber a Rammbroes que el trabajo está hecho." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_SEQ_03", "hash": "F28AD945A88D6686", "target": "Las ruinas que excavan los Hijos apenas han empezado a revelar sus secretos. Si el yacimiento es en verdad el hogar de los constructores de la Torre de Cristal, debería brindar una visión inestimable del pasado remoto." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_00", "hash": "19DA498A28B11F03", "target": "Abatir a los hippogryphs" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_TODO_01", "hash": "10E3B1B0B4EAFAD3", "target": "Informar a Rammbroes" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_000", "hash": "2F7A59CD46E3F820", "target": "Eres <split(<string(gstr1)>, ,1)>, <if(gnum4,la aventurera,el aventurero)>, ¿verdad? Varios de nuestros topógrafos han resultado heridos por hippogryphs en la zona cristalizada del norte. Es asombroso lo veloces y feroces que son en esta región." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_001", "hash": "78907433BECCBE7A", "target": "Aun así, debemos enseñarles a huir, no a embestir, cuando los Hijos de San Coinach andan en sus asuntos eruditos. Te sugiero que sacrifiques a unos cuantos hippogryphs para que aprendan la lección." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_020", "hash": "43AF484BD4AA11EC", "target": "¡Ah, <if(gnum4,nuestra protectora,nuestro protector)> regresa! Gracias por cumplir tu cometido con tanta presteza. Podremos planear un reconocimiento <if([gnum11<12],<if([gnum11<4],a primera hora de mañana,esta misma tarde)>,<if([gnum11<17],esta misma noche,a primera hora de mañana)>)>." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_021", "hash": "1076BA0DF40BA4D6", "target": "Estas ruinas de la antigua Allag representan ramas enteras de un saber perdido. Fueron los allaganos quienes construyeron la Torre de Cristal, o eso dicen las mejores teorías." },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_022", "hash": "1D1B675237D06F2B", "target": "Si es así, ¿no podrían estas ruinas ser los restos de una aldea, qué digo, de una villa para los obreros y sus familias? ¿Guardarán el registro de sus vidas, consagradas a erigir el reluciente edificio que hoy nos fascina?" },
+    { "gameKey": "quest/009/GaiUsc504_00992#TEXT_GAIUSC504_00992_RAMMBROES_000_023", "hash": "C49863F0A05CEDD9", "target": "Toda investigación sobre la torre está estancada. Su perfección los tiene bloqueados. Pero aquí... aquí quizá aprendamos algo. Al menos, eso esperamos." }
+  ]
+}

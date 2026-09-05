@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/005/SubGsc105_00565",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_00", "hash": "E580641586785318", "target": "Lanzándote una mirada curiosa, Katering está a punto de hacerte una pregunta." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_01", "hash": "EC6D4B0A97451E65", "target": "Recordándote que tu iniciación en las filas de los jockeys de chocobo aún no está completa, Katering te pide que vuelvas al Gold Saucer para registrar a tu nuevo polluelo. Vuelve al mostrador de carreras de la Plaza de los Chocobos y habla de nuevo con la encargada de inscripciones de carreras." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SEQ_02", "hash": "3B05F5F9535ADBB5", "target": "La encargada de inscripciones te da la bienvenida y explica que, una vez aceptado tu registro, solo tendrás que hablar con ella para participar en tu primera carrera. Presenta tu formulario de inscripción al domador de chocobos de carreras para completar el proceso y dar tus primeros pasos en la senda del jockey." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_TODO_00", "hash": "346AD43178CFE548", "target": "Hablar con la encargada de inscripciones de carreras en el Gold Saucer" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_000", "hash": "E6EB4C958CE9CA7D", "target": "¿Eh? ¿Sigue aquí? Pensaba que ya habría salido corriendo, con las ganas que tendrá de probar suerte en las carreras y demás." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_001", "hash": "7D4F4A6EB68A148F", "target": "Bueno, por si se le ha olvidado, se lo repito: tiene que entregar ese formulario en el mostrador de carreras del Gold Saucer. Solo entonces podrá participar en carreras de chocobos oficiales." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_KATERING_000_003", "hash": "92B92420B92C1822", "target": "¿De qué sirve un chocobo de carreras si nunca lo montas? Ande, vaya... vaya a inscribir a su ave en el Gold Saucer." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_020", "hash": "3B75A0F6FAB3E3FF", "target": "Regresa <if(gnum4,nuestra prometedora nueva jockey,nuestro prometedor nuevo jockey)>... portando el formulario de inscripción de su chocobo polluelo, ¿me equivoco?" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_021", "hash": "560A0C1332078E63", "target": "¡Pero por supuesto! ¡Quien tanto anhela unirse a las filas de los honorables campeones no sería tan <if(gnum4,necia,necio)> como para extraviar documentación esencial!" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_022", "hash": "D75A4D336233914E", "target": "Nuestro domador de chocobos de carreras se encarga de registrar a los nuevos polluelos. Preséntele el formulario y él le guiará en el proceso." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_CHOCOBORACE00565_000_023", "hash": "7BD175F57E59DEAA", "target": "Y, una vez superado ese último trámite burocrático, ¡vuelva a mí y organizaré su debut!" },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_030", "hash": "D8F0B7D6AF95120E", "target": "Ya están disponibles las carreras de chocobos." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_040", "hash": "184821490446CB1A", "target": "Para participar en las carreras de chocobos, habla primero con el domador de chocobos de carreras para registrar a tu polluelo." },
+    { "gameKey": "quest/005/SubGsc105_00565#TEXT_SUBGSC105_00565_SYSTEM_000_041", "hash": "690E5BECD734BE19", "target": "Después, habla de nuevo con la encargada de inscripciones e inscríbete en el curso de entrenamiento para aprender los fundamentos de las carreras de chocobos." }
+  ]
+}

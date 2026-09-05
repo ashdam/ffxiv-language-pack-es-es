@@ -1,0 +1,940 @@
+{
+  "conversation": "quest/053/KinGmi101_05364",
+  "questName": "Targeted Tragedy",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_00", "hash": "674B8B85FF35693E", "target": "Shale quiere un momento de tu tiempo." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_01", "hash": "3A72A3CE026D7309", "target": "Los desmanes de las máquinas han causado mucha desdicha y dolor y, aunque desde entonces no hay nuevos incidentes que reportar, Gulool Ja advierte de que su renovado control sobre los soldados, ahora desarmados, será temporal en el mejor de los casos. Calyx, el cerebro tras los ataques, parece capaz de apoderarse de las máquinas de Alexandria a voluntad. Sphene recuerda lo que puede del genial ingeniero de su época e intenta encontrar sentido a las motivaciones que este declara para “mejorar” a la humanidad. Si bien Preservación sí contribuyó al crecimiento y desarrollo de Alexandria siglos atrás, la obsesión de Calyx por crear Perpetuos ha traído un sufrimiento incalculable. Hay que detenerlo pero, si queréis frustrar sus planes, Shale lamenta que primero tendréis que encontrarlo. Con ese fin, Geode propone una patrulla para inspeccionar las calles y buscar información que ayude a conduciros hasta vuestro escurridizo enemigo." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_02", "hash": "5255F177F0840B36", "target": "Os reunís de nuevo en la calle, frente a la Jarra de Neón, donde Geode observa los rostros inquietos de sus compatriotas. Alentado por la fe de Sphene en que los alejandrinos decidan el rumbo del futuro, dedica toda su atención a la tarea entre manos. Mientras Krile y Sphene patrullan el oeste de la zona recreativa, tú y Geode os disponéis a interrogar a los ciudadanos del este." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_03", "hash": "61D908C0DB306B99", "target": "Geode está listo para empezar la patrulla y hablar con la gente que encontréis por el camino. Sugiere prestar especial atención a quienes parezcan abrumados o demasiado exaltados, con la esperanza de que revelen detalles más útiles sobre la situación actual.<br><br>※Debes llevar a Geode contigo para completar esta tarea. Habla de nuevo con él si os separáis." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_04", "hash": "E75ABB9A36ECCFC0", "target": "Recorres la zona recreativa y hablas con varios residentes sobre los ataques recientes. Geode reflexiona entonces sobre un factor de sus relatos que todos habíais pasado por alto: que puede que las víctimas no llevaran reguladores. Con esa sospecha en mente, salís de nuevo a las calles para hablar otra vez con los lugareños." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_05", "hash": "42A47768B42360F8", "target": "Tu línea concreta de preguntas lleva a confirmar que, casi con toda seguridad, se estaba atacando a las personas sin regulador. Con esta nueva información, os disponéis a reuniros de nuevo con Krile y Sphene en el punto de encuentro acordado." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_06", "hash": "E114C1A0C98C82FD", "target": "Tras compartir tus hallazgos con los demás, recuerdas otro detalle familiar de la historia que te contó Malachite. Habían desaparecido cuerpos de varios lugares donde murieron ciudadanos, tanto en los Arrabales como en las zonas recreativas, y en su lugar se hallaron extraños montones de polvo. Mientras planeáis investigar más a fondo, un Gulool Ja presa del pánico contacta contigo con una súplica de ayuda, temiendo que los radios residenciales estén siendo atacados.<br><br>Te apresuras hacia los edificios de apartamentos y encuentras a soldados mecánicos hostiles asaltando a los residentes. Apenas has salvado a un ciudadano cuando oyes un alboroto procedente de la vivienda de Isadora y Milos. Al entrar, hallas las secuelas de la batalla de Wayakkwe con un dron asesino, pero la herida miembro de Oblivion te insta a atender antes a Isadora. Sphene pone en práctica sus magias reaprendidas, sanando a la madre gravemente herida y consolando al angustiado Milos. Parece que lo peor ha pasado, pero Wayakkwe sigue visiblemente conmocionada..." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SEQ_07", "hash": "8DB8984885B31688", "target": "Curadas ya sus propias heridas, Wayakkwe pregunta por su camarada de Oblivion. Recordando la escena del vestíbulo, una desconsolada Sphene comparte su desdichado destino..." },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_00", "hash": "8480B6C24CAE547E", "target": "Hablar con Geode frente a la Jarra de Neón" },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_01", "hash": "526CEB11FB1410E1", "target": "Hablar con Geode para que te acompañe" },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_02", "hash": "2B586152619BCB7E", "target": "Recabar información mientras Geode te acompaña" },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_03", "hash": "C6C8D2F42A4E61D4", "target": "Recabar más información mientras Geode te acompaña" },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_04", "hash": "B403DC6E05397CC0", "target": "Hablar con Krile mientras Geode te acompaña" },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_TODO_05", "hash": "039D8CA0F1FA6138", "target": "Hablar con Wayakkwe" },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_001",
+      "hash": "C2137AF26EEB10F7",
+      "target": "Si tienes un momento, <split(<string(gstr1)>, ,1)>, Geode quiere hacer balance de la crisis actual."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_100_001",
+      "hash": "9CCE47D1FFA86948",
+      "target": "Es posible que a Oblivion se le escapen ciertos matices, así que nos gustaría que aportaras tu punto de vista a la conversación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_002",
+      "hash": "5D6A24D8EF7BC4B3",
+      "target": "Siento arrastrarte a nuestra reunión, pero necesitamos entender mejor las amenazas a las que se enfrenta Alexandria ahora mismo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_110_002",
+      "hash": "9EA5F6E2EA67D1A2",
+      "target": "Nada de eso. Han pasado muchas cosas desde el funeral de Estado, y a nosotros también nos vendría bien tener una idea más clara de cómo están las cosas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_002",
+      "hash": "B8A5F91315C67630",
+      "target": "Empecemos por el principio, entonces: hablemos de los fallos de las máquinas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_003",
+      "hash": "0ADAFC3D4EC527E9",
+      "target": "En todos y cada uno de los sectores se informó de centinelas que atacaban a los ciudadanos sin provocación alguna, y de vehículos que dejaban de responder a los mandos de repente."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_100_003",
+      "hash": "14DC13C9CE1B84F7",
+      "target": "Y aunque los fallos se resolvieron con bastante rapidez, dejaron aun así un número considerable de heridos y muertos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_WUKLAMAT_110_003",
+      "hash": "10E40106320B62C7",
+      "target": "Pero desde entonces no ha habido más incidentes, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_120_003",
+      "hash": "B889D306C62CC538",
+      "target": "Así es. Que yo sepa, no se ha registrado ningún informe nuevo. Esas son las buenas noticias."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_004",
+      "hash": "E8F706D892B59389",
+      "target": "Las malas son que intenté tomar el control de los soldados cuando empezaron a hacer daño a la gente, pero no me obedecieron─y eso que tengo la autoridad del rey."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_005",
+      "hash": "D57E7D65D4A3833E",
+      "target": "Cuando las cosas se calmaron, por fin conseguí que soltaran las armas. Pero... si vuelve a pasar, no sé si me ignorarán como antes."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_006",
+      "hash": "16D8794521B6AD86",
+      "target": "La autoridad del Rey de la Resolución es casi la más alta que existe. ¿Quién es este hombre capaz de anularla con semejante impunidad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_100_006",
+      "hash": "F6BFA6D80488831E",
+      "target": "Calyx... Vivió en la era de la Gran Descarga, igual que yo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_110_006",
+      "hash": "1EFF1454759AEE71",
+      "target": "Por si lo habéis olvidado, se le conocía por sus avances en la tecnología del electrope, y fue él quien fundó Preservación para llevar más lejos sus investigaciones."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_120_006",
+      "hash": "8451E13C6BD9DAFE",
+      "target": "La enfermedad que lo consumía, sin embargo, apenas le dejaba unos pocos años de vida, según se decía... Debió de optar por convertirse en Perpetuo para poder continuar su labor hasta nuestros días."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_130_006",
+      "hash": "1865D386602958BD",
+      "target": "Los primeros objetivos de Preservación parecían bastante nobles: buscar tratamientos para el mal del rayo, diseñar el sistema central de Everkeep, cosas así."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_140_006",
+      "hash": "5D1E34EA02B40D98",
+      "target": "¿Por qué hacer daño a la gente a la que supuestamente quería ayudar...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_011",
+      "hash": "7ADE553302CE9398",
+      "target": "No pretendo comprender del todo las motivaciones de Calyx... Solo sé que parecía indignado por lo que él consideraba los defectos de la humanidad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_012",
+      "hash": "6CE599FCC16D87D6",
+      "target": "Sostenía que adaptar nuestra especie mediante la sucesión de generaciones era una estrategia obsoleta; que la evolución exige ahora renunciar al cuerpo de carne en favor de una preservación eterna."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_013",
+      "hash": "E3A84AA10276D3A8",
+      "target": "Ya hemos visto cómo se ha servido del simulacro para convencer a los alejandrinos de que convertirse en Perpetuos es su única esperanza de sobrevivir."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_100_013",
+      "hash": "037D8B925B502A49",
+      "target": "La vida eterna está “asegurada” para las cinco mil personas que registren su neorregulador..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_110_013",
+      "hash": "3E975BCA5A383B86",
+      "target": "Pero esto no es más que una parte del plan mayor de Calyx."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_120_013",
+      "hash": "A411EE3C3F837575",
+      "target": "Quiere la llave de la fusión interdimensional. Con esa reliquia en su poder, extraerá éter de los reflejos y multiplicará por mil su empeño en crear Perpetuos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_018",
+      "hash": "CF6EAA10886B1EF7",
+      "target": "Si queremos frustrar los planes de Calyx, la única opción es averiguar dónde se esconde y acabar con él."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_019",
+      "hash": "95D1F1C40076C057",
+      "target": "Lo cual, por desgracia, es más fácil de decir que de hacer. He rastreado a fondo el terminal que encontramos en las profundidades de Everkeep, pero no he dado ni con el más mínimo rastro de sus actividades."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_100_019",
+      "hash": "AA6180D1ADBCF823",
+      "target": "Dame un poco más de tiempo, eso sí, y estoy segura de que lograré olfatearlo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_020",
+      "hash": "5E6EFB81E29F1E3F",
+      "target": "¡Yo te ayudo!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_020",
+      "hash": "4C48420EE17C7C5C",
+      "target": "Mientras Gulool Ja y Shale se ocupan de eso, creo que voy a darme una vuelta por la ciudad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_020",
+      "hash": "AC9821D1674DB281",
+      "target": "Quiero asegurarme de que no han surgido nuevos problemas, y de paso buscar cualquier información que pueda llevarnos hasta Calyx."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_120_020",
+      "hash": "3370EC55D506CDBD",
+      "target": "Puedes acompañarme si quieres. Otro “fallo” podría producirse en cualquier momento, y me alegraría tener a alguien que sepa pelear cubriéndome las espaldas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_130_020",
+      "hash": "36FD0D6869BC12AE",
+      "target": "¡Contad conmigo!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_140_020",
+      "hash": "D08E27926A291933",
+      "target": "Raha y los demás están ayudando a Oblivion a patrullar los otros niveles de la torre, así que ¿nos quedamos nosotros con las calles de Solución Nueve?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_150_020",
+      "hash": "8A1C26C11A04F940",
+      "target": "Me parece un buen plan. ¡Gracias a <if(gnum4,las dos,los dos)>, agradezco la compañía!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_WUKLAMAT_000_022",
+      "hash": "842F052CA1402AF9",
+      "target": "Yo tengo que hablar con los administradores de la ciudad sobre traer a la Legión del Alba. Quiero a nuestros soldados aquí para proteger a quienes se muden a Tuliyollal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_WUKLAMAT_000_023",
+      "hash": "53EDA054A0D553C6",
+      "target": "Alphinaud y Alisaie me acompañarán a la reunión, así que, en cuanto acabemos, ¡podremos cubrir ese sector los tres!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_024",
+      "hash": "2C74548ED43B7C6C",
+      "target": "Si me permitís..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_025",
+      "hash": "29BABA75FC4B582D",
+      "target": "Me gustaría unirme al grupo de <split(<string(gstr1)>, ,1)>, ¿me aceptáis?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_025",
+      "hash": "33CC25955F1EF930",
+      "target": "Cuantas más bocas hagan preguntas, mejor. Siempre que seas consciente de los peligros."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_026",
+      "hash": "493730F7792056E4",
+      "target": "¡Gracias! Haré todo lo posible por no ser una carga."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_027",
+      "hash": "6D8D6827DDBE51B9",
+      "target": "Me preocupas más tú, Geode. No hagas ninguna tontería."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_028",
+      "hash": "01D2968DEFF353BD",
+      "target": "Bah, ya cambiarás de tono cuando volvamos con algo jugoso sobre Calyx. ¡Y entonces las copas las pagas tú!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_029",
+      "hash": "189D09A6FE583E9A",
+      "target": "Venga, sigamos esto fuera."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_000_030",
+      "hash": "CAC5634C9B1FFACB",
+      "target": "Suerte con la patrulla, y tómate el tiempo que necesites. Podemos pasar sin Geode hasta que acabes con ese viejo borrachín."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SHALE_100_030",
+      "hash": "32445728B29EA05F",
+      "target": "Ah, perdona. Justo cuando creo que he interiorizado los buenos modales, hablar con Geode me devuelve todas las viejas costumbres."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_040",
+      "hash": "8C90D7FBE6575021",
+      "target": "Ojalá pudiera crecer más deprisa... Habrá muchísimas más cosas que pueda hacer cuando sea grande como tú."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_045",
+      "hash": "34B5E3482DD8EB18",
+      "target": "La ciudad parece haber recuperado cierta normalidad. Por desgracia, la gente no olvidará tan pronto lo ocurrido..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_046",
+      "hash": "8B54FCD5357C2E87",
+      "target": "Haré todo cuanto esté en mi mano por la felicidad de Alexandria y de su gente..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_047",
+      "hash": "556AACE698BEE036",
+      "target": "...Perdona, estaba en mi mundo. ¿Empezamos?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_Q1_000_000",
+      "hash": "4D471C6DFC45838D",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A1_000_001",
+      "hash": "8E3399F67B6CA02F",
+      "target": "La gente parece inquieta."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A1_000_002",
+      "hash": "A415C110E7B26B9B",
+      "target": "¿<italic(1)>Tú<italic(0)> estás bien, Geode?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A1_000_003",
+      "hash": "ADA51EAE8C7E37E8",
+      "target": "¡A ver qué encontramos!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_048",
+      "hash": "510A6B47304243C7",
+      "target": "Sí que lo parece, y no puedo culparlos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_049",
+      "hash": "2CA7B1F2D169EFF9",
+      "target": "¿Yo...? Estoy bastante bien, dadas las circunstancias."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_049",
+      "hash": "EE7805C8D7E45349",
+      "target": "Tienes razón. Ya va siendo hora de que hagamos algo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_049",
+      "hash": "3C58843579172915",
+      "target": "El mayor deseo de la reina era que sus súbditos quedaran a salvo de los horrores de la muerte. Y así fue durante muchísimo tiempo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_120_049",
+      "hash": "498877E90E5F22E3",
+      "target": "Y justo cuando la mortalidad vuelve a ser un hecho ineludible de la vida, se topan con un estallido de violencia sangrienta."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_130_049",
+      "hash": "821818067394C3C3",
+      "target": "Es normal que muchos se planteen en serio la alternativa de los Perpetuos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_050",
+      "hash": "770D271CB49E96DD",
+      "target": "Así es, y no se lo reprocho. Es natural que se les pasen esas ideas por la cabeza."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_051",
+      "hash": "8D334F92F6E9F13C",
+      "target": "Lo que no puedo perdonar es cómo Calyx se sirve del miedo y del sufrimiento para empujar a la gente a tomar esa decisión."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_100_051",
+      "hash": "83FCA91B1B1E610B",
+      "target": "Nadie─ni Calyx ni ningún otro─debería dictar cómo afrontamos el espectro de la muerte."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_110_051",
+      "hash": "30E88DE911DF65F1",
+      "target": "Como alguien que vivió siendo alejandrina, quiero devolver a los ciudadanos las decisiones sobre el futuro de este país."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_120_051",
+      "hash": "1EC4CD46ADF60C50",
+      "target": "¿Y crees que estamos a la altura de esa responsabilidad? ¿Después de todo lo que has visto de nosotros?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_130_051",
+      "hash": "5149D1A88A7F928A",
+      "target": "Es precisamente lo que he visto lo que me ha convencido de que lo estáis."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_140_051",
+      "hash": "E86BE7E498E5080F",
+      "target": "Desperté cuatro siglos después y encontré a nuestra gente viviendo y riendo bajo el estandarte de Alexandria. Me sorprendió y me desconcertó, pero sobre todo me llenó de alegría. Todos merecéis ser felices..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_150_051",
+      "hash": "03BB871D1408C5DA",
+      "target": "...Bien, entonces."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_160_051",
+      "hash": "0C1B6762A81DBA31",
+      "target": "¡Más nos vale no defraudarte!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_170_051",
+      "hash": "F4085E86DD4D3552",
+      "target": "Bueno, propongo que nos movamos todos juntos: no sabemos si nos saldrá al paso una pelea, ni cuándo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_052",
+      "hash": "905CBF21104E124E",
+      "target": "Vaya. Creo que alguien ha venido preparada precisamente para eso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_053",
+      "hash": "26BC841191D59935",
+      "target": "¿Ese es el grimorio que recuperaste del viejo castillo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_100_053",
+      "hash": "15D01D6A6B8502A5",
+      "target": "Sí, me lo regalaron mis padres cuando era niña. Insistían en que debía aprender a proteger lo que me importaba."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_110_053",
+      "hash": "12A9AF0B7EE70138",
+      "target": "Tuve la suerte de contar con un preceptor en las artes arcanas, así que algo de destreza tengo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_120_053",
+      "hash": "C36B42478F5E2E02",
+      "target": "Si es así, quizá sí convenga que nos dividamos en dos grupos. ¡Sin duda será más eficaz para reunir información!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_054",
+      "hash": "42644EDF0FFDBBC5",
+      "target": "Yo, eh... Supongo que tiene sentido, ¿no?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_055",
+      "hash": "C1DD6DFBCED0FF6C",
+      "target": "Entonces vosotras dos podéis encargaros del lado oeste de la zona recreativa."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_055",
+      "hash": "2EEF71FB05382451",
+      "target": "<split(<string(gstr1)>, ,1)> y yo nos quedamos con el este."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_056",
+      "hash": "438BDED291D454B5",
+      "target": "Muy bien. Terminaremos la ronda en la plaza que hay pasada Vera Vista y os esperaremos allí."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_060",
+      "hash": "2ED1A35B55F78362",
+      "target": "Mantendré los ojos y los oídos bien abiertos. Cualquier información puede servir, por insignificante que parezca."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_065",
+      "hash": "44345EE1784662A2",
+      "target": "Mi grimorio lleva electrope engastado de un modo que amplifica el poder arcano. Debería resultar una herramienta útil."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_070",
+      "hash": "2C0BB076ECF2ADD7",
+      "target": "Hagamos la ronda, entonces. Veremos cómo está todo y charlaremos con la gente que nos vayamos encontrando."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_071",
+      "hash": "2306A442DC01E092",
+      "target": "Fíjate sobre todo en quien parezca abrumado o demasiado eufórico. Con suerte sacaremos algún detalle que no supiéramos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_Q2_000_000",
+      "hash": "D3B78175E17D742D",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A2_000_001",
+      "hash": "72C94E2AB177B996",
+      "target": "Hablar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A2_000_002",
+      "hash": "B661670F7A088067",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A2_000_003",
+      "hash": "8FF78764C5922976",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_077",
+      "hash": "319EE8AC74C062AB",
+      "target": "Me imagino que habrías preferido ir con Sphene y Krile, pero me temo que te has quedado conmigo. Aunque se me acaba cogiendo cariño, te lo prometo."
+    },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SYSTEM_100_077", "hash": "9EA8C850B9472E24", "target": "¿Seguro que quieres separarte de Geode?" },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_078",
+      "hash": "BC3EC308C1120B8A",
+      "target": "¿Tienes que marcharte? Me parece bien. Te espero fuera de la Jarra de Neón."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_079",
+      "hash": "1F92F939B8B4A535",
+      "target": "¿<if(gnum4,Lista,Listo)> para salir otra vez?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_079",
+      "hash": "75A160FE3B6AECCB",
+      "target": "¿Vamos a buscar a Krile y a Sphene, entonces?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A2_000_005",
+      "hash": "B299B9B5D06C56BF",
+      "target": "<colortype(548)>Hablar de Vera Vista.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_080",
+      "hash": "0664243347704A18",
+      "target": "Ah, los recuerdos... Antes venía a beber por aquí constantemente."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_080",
+      "hash": "8AB7C9CB9BE3EDEB",
+      "target": "Procuraba no pasarme cuando al día siguiente tenía trabajo, pero cuando acababa la temporada fuerte─o cuando las damas no se mostraban receptivas a mi compañía─en fin... Había que rasparme de la acera por la mañana. O por la tarde."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_120_080",
+      "hash": "84C71032A7DBF7D4",
+      "target": "La peor de todas fue la del que debería haber sido el peor día de mi vida... si al menos pudiera recordarlo. Por entonces aún llevaba regulador."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_130_080",
+      "hash": "610A285ED633095D",
+      "target": "También fue el día en que conocí a Shale, aunque te garantizo que ella lo ha olvidado por completo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A2_000_006",
+      "hash": "BC43CD0B74393607",
+      "target": "<colortype(548)>Hablar del carguero flotante.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_081",
+      "hash": "FD9639B58652682B",
+      "target": "En su día me ganaba la vida repartiendo mercancías en carguero flotante. Por eso conozco unos cuantos nombres y caras por toda la ciudad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_082",
+      "hash": "1C37AEB38B9744CF",
+      "target": "Los críos que daban saltos de alegría cuando les llevaba un paquete... La anciana que siempre me saludaba con una sonrisa... No soportaría que les pasara nada malo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENA05364_000_083",
+      "hash": "B10B30B9A8DDF671",
+      "target": "\\<suspiro>"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_084",
+      "hash": "357C8AA6232B25D3",
+      "target": "¡Ya está, hecho!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_000_085",
+      "hash": "C7C869B162D02C43",
+      "target": "Me suenas de algo..."
+    },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SYSTEM_000_086", "hash": "F2BDB00A6A3F6CE1", "target": "Aquí podrías averiguar algo de interés. Vuelve con Geode a tu lado." },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENA05364_000_091",
+      "hash": "BC28B930643371A1",
+      "target": "¿Ya es seguro estar cerca de los centinelas y de las aerorruedas?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENA05364_000_092",
+      "hash": "F991A673304DA5AC",
+      "target": "Sé que va a volver a pasar... y a lo mejor la próxima vez soy yo la que muere en un accidente horrible."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENA05364_000_093",
+      "hash": "0EF525FBDA3E9A0D",
+      "target": "<italic(1)>Necesito<italic(0)> un neorregulador. Convertirse en Perpetuo es la única salida─¡hasta la reina Sphene lo dijo!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENA05364_000_094",
+      "hash": "C5CFD2B5A2ACFDAB",
+      "target": "Pero ¿cómo consigo uno...? Quizá pueda convencer a alguien que dude para que me dé el suyo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_095",
+      "hash": "C7ACA0E62C8BD0A3",
+      "target": "¿Que qué me tiene de tan buen humor?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_096",
+      "hash": "BA96066D897D9F6B",
+      "target": "Pues acabo de registrar mi nuevo regulador. Al principio me daba reparo quedarme convertido en puros recuerdos, pero ahora que he completado el registro, ¡nunca me había sentido tan tranquilo!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_097",
+      "hash": "9A62A22C80503393",
+      "target": "Además, al terminar, el regulador mostró las cifras actuales. De las cinco mil plazas disponibles, ya se han cubierto más de tres mil ochocientas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_098",
+      "hash": "22EC92A2E2E5F6BC",
+      "target": "Así que, si aún dudas, no te queda mucho tiempo para decidirte. Acuérdate de lo que te digo: cuando queden pocas plazas, la cosa se va a poner <italic(1)>muy<italic(0)> fea."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CITIZENB05364_000_099",
+      "hash": "666EF93DCC9BF1A7",
+      "target": "Muy pronto habrá peleas por los neorreguladores. Si consigues uno, te recomiendo que te registres enseguida."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_100_100",
+      "hash": "83B5F84D777A35B2",
+      "target": "¿Quieres escuchar mi historia? Te agradezco que me prestes oído, pero no hay mucho que contar..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_100_101",
+      "hash": "C2E8604C20EAFE8D",
+      "target": "Si tanto te interesa, un buen amigo mío murió cuando las máquinas se volvieron locas. Su aerorrueda se desplomó del cielo y no sobrevivió al impacto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_100_102",
+      "hash": "A378660437CBADEF",
+      "target": "El muy insensato no llevaba regulador... Ya sé que hoy en día eso no es tan raro, pero es que él nunca se molestó en ponerse uno."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_100_103",
+      "hash": "DDCC39DCDD381869",
+      "target": "Había hecho las paces con la idea de morir algún día, y yo creía entender lo que eso significaba. Hasta que ocurrió..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_DEPRESSED05364_100_104",
+      "hash": "DB8910607BAB6A95",
+      "target": "Antes olvidábamos a la gente cuando moría. Sin recuerdos. Sin duelo. No sé si estaríamos mejor si aquello siguiera siendo así."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_110",
+      "hash": "4B1B9A4BD54B2F2C",
+      "target": "<split(<string(gstr1)>, ,1)>, ¿tienes un momento?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_110",
+      "hash": "2118B229885BC600",
+      "target": "Tengo la sensación de que en lo que nos han contado hay algo nuevo. Algo que no tuvimos en cuenta cuando hablamos todos en la Trastienda..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_Q3_000_000",
+      "hash": "9DD803C4D7245185",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A3_000_001",
+      "hash": "B61169CD41503604",
+      "target": "¿Que la gente sigue muerta de miedo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A3_000_002",
+      "hash": "5F6BD9644D92751B",
+      "target": "¿Que es probable que estallen peleas por los neorreguladores?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A3_000_003",
+      "hash": "278675C289D73FA0",
+      "target": "¿Que una víctima de la violencia no llevaba regulador?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_111",
+      "hash": "BDCD8327F4FCE958",
+      "target": "Es motivo de preocupación, no me malinterpretes, pero creo que de eso ya éramos muy conscientes..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_112",
+      "hash": "9C0BE8B9B15501BF",
+      "target": "Que casi cuatro mil personas se hayan registrado merece un informe aparte. Pero ¿seguro que no había nada más...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_113",
+      "hash": "E5D38E3948FD8642",
+      "target": "¡Sí, eso es!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_114",
+      "hash": "957B1A322A40F57A",
+      "target": "La inmensa mayoría de los habitantes siempre ha llevado regulador, así que no es un detalle en el que uno se fije. Pero desde que se cortó el suministro de almas, cada vez más gente prescinde de él..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_115",
+      "hash": "C53612EB91E79F3B",
+      "target": "Tenemos que investigar a las víctimas mortales de los últimos ataques y comprobar si llevaban regulador o no."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_116",
+      "hash": "FEA980BAFC51510A",
+      "target": "Preguntemos por la calle de más al este. Aquello fue bastante caótico, pero puede que encontremos testigos que nos ayuden a confirmar si hay un patrón o no."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_117",
+      "hash": "9402DAEEF0C12613",
+      "target": "Me dan tanto miedo los centinelas que no puedo limpiar cerca de ellos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_000_118",
+      "hash": "6B594FF713E60AE8",
+      "target": "Hola, ¿qué tal se encuentra hoy? Hágamelo saber si puedo serle de ayuda."
+    },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SYSTEM_000_118", "hash": "49739097A722C5AA", "target": "Aquí podrías averiguar algo de interés. Vuelve con Geode a tu lado." },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_119",
+      "hash": "4E458E0CD4C42652",
+      "target": "Salvo los miembros de Oblivion, muy pocos salían a la calle sin regulador. Cómo han cambiado los tiempos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_120",
+      "hash": "31FA792C3AEF04C7",
+      "target": "¿Quieren saber si las personas que murieron durante el descontrol de las máquinas llevaban regulador?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_121",
+      "hash": "C0B04654CB60A6EF",
+      "target": "Lo siento, pero a mí me asignaron a retirar escombros. No vi a ninguno de los fallecidos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_122",
+      "hash": "37528C1050B5C058",
+      "target": "Cuando llegué ya no había cuerpos, así que supongo que los acompañantes ya habían hecho su trabajo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_123",
+      "hash": "7178A4CF2965C5E6",
+      "target": "Sí recuerdo que había manchas de polvo blanco esparcidas por todas partes que costó bastante limpiar, pero nada más digno de mención."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_CLEANERS05364_000_124",
+      "hash": "8EF4BC60C22F2DDC",
+      "target": "Da terror pensar que la muerte puede estar esperándonos en cada esquina. Pero ¿qué se le va a hacer, aparte de seguir trabajando y esperar lo mejor...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_000_125",
+      "hash": "3E2AF716DE921CF5",
+      "target": "Hola, ¿qué tal se encuentra hoy? Hágamelo saber si puedo serle de ayuda."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_000_126",
+      "hash": "A72AA6DF7211E1C0",
+      "target": "...Datos de víctimas a escala urbana no disponibles. Los funcionarios del gobierno están procesando en este momento los informes de todas las zonas afectadas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_127",
+      "hash": "55032E4DBD1D0DAB",
+      "target": "¿Puedes acotarlo a la zona recreativa, entonces? Alguna estimación tendrás a mano, ¿no?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_000_128",
+      "hash": "9A8F0943EF24B766",
+      "target": "Recalibrando parámetros. Heridos: ochenta y siete individuos. Fallecidos: diecinueve individuos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_000_129",
+      "hash": "0BCAFE16DEF15972",
+      "target": "Fallecidos equipados con regulador: cero."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MACHINE05364_100_129",
+      "hash": "084B194D60C6CBA1",
+      "target": "Mantenga la calma: tengo órdenes de velar por la seguridad de los ciudadanos. En el improbable caso de otro fallo masivo, actuaré para someter a las máquinas afectadas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_129",
+      "hash": "D01A268BFD4E00B0",
+      "target": "...<split(<string(gstr1)>, ,1)>. Creo que va siendo hora de que volvamos con Krile y Sphene."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_120_129",
+      "hash": "F4B0EBD301735ABD",
+      "target": "Lo que le solté a Shale era medio en broma, pero puede que hayamos tropezado con algo gordo. Deberíamos compartir lo que hemos averiguado y seguir tirando de este hilo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_130_129",
+      "hash": "8A22A8D6E6A0A573",
+      "target": "¿No dijo Krile que quedáramos en la plaza que hay justo a la salida de Vera Vista? Vamos allá."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_140_129",
+      "hash": "B326F326C0FCA7A4",
+      "target": "Nosotras también hemos terminado la ronda. ¿No os ha parecido que hay más gente que quiere un neorregulador que antes...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_150_129",
+      "hash": "8FDCF0B4184CCC41",
+      "target": "...¿Geode no viene contigo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_160_129",
+      "hash": "87DBFB354B067285",
+      "target": "Venga, deberíamos reunirnos con Krile y Sphene en la plaza. No puedo decir que me haga ilusión que Shale me deba una copa por algo así..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_100_130",
+      "hash": "67E1A317A7817B82",
+      "target": "Vaya, ¿Geode tenía algo más que atender?"
+    },
+    { "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SYSTEM_110_130", "hash": "28C9872BBCD30E2E", "target": "Deberías llevar contigo a Geode antes de compartir tus hallazgos." },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_132",
+      "hash": "6412D37DB846B1F3",
+      "target": "Entonces, en el fondo, ¿¡estáis diciendo que las personas que murieron a manos de las máquinas descontroladas no llevaban regulador!?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_132",
+      "hash": "E8B8D8A6994EF9C0",
+      "target": "Bueno, las cifras son provisionales y solo valen para esa zona. No sabemos cómo encajarán con los datos globales, pero... esto es sin duda algo más que una casualidad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_110_132",
+      "hash": "428E3EA55231A7F9",
+      "target": "Creo que podemos afirmar sin miedo que quien se había quitado el regulador era un objetivo prioritario."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_133",
+      "hash": "B138C652D78027B3",
+      "target": "Ahora que lo dices, la persona a la que curé las heridas tampoco llevaba..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_100_133",
+      "hash": "0B5EEE090B90887A",
+      "target": "Pero ¿por qué? ¿Por qué los eligen a ellos antes que a los demás?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_134",
+      "hash": "F83EA19C132B32DC",
+      "target": "Basándonos solo en la falta de un neorregulador, no podemos saber si una persona no desea convertirse en Perpetuo o si sencillamente no logró hacerse con uno de esos aparatos limitados."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_100_134",
+      "hash": "3493DB639AB7D30C",
+      "target": "Pero quienes no llevan regulador de ningún tipo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_110_134",
+      "hash": "A3A2DD14F6F64513",
+      "target": "Está claro que han rechazado el viejo sistema de usar almas para resucitar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_120_134",
+      "hash": "F23BDB751D14ACA8",
+      "target": "Dicho de otro modo, han elegido vivir sabiendo que la muerte es inevitable."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_130_134",
+      "hash": "805C57222D744B54",
+      "target": "Es mucho menos probable que quienes muestran tanta determinación quieran convertirse en Perpetuos, imagino."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_140_134",
+      "hash": "6F58E7020701BB81",
+      "target": "Y por eso Calyx ha elegido como víctimas a quienes menos probabilidades tienen de aceptar su visión, para avivar el miedo y el pánico..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_135",
+      "hash": "A44E758E15AE11F0",
+      "target": "¡Pero no hacía falta matar a nadie!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_136",
+      "hash": "8EC726E8EACBD773",
+      "target": "Tal y como estaban las cosas, la gente ya tenía miedo de sobra─¡podría haber encontrado cinco mil voluntarios sin toda esta locura!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_100_136",
+      "hash": "8B8595172B94709C",
+      "target": "Tienes razón. Quizá esta siembra de terror sirva a otro plan, o quizá necesitara por algún otro motivo las vidas que ha segado..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_Q4_000_000",
+      "hash": "E85138D828A0497D",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A4_000_001",
+      "hash": "E7FFCA82D155EA88",
+      "target": "¿Y el polvo hallado en varios lugares?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_A4_000_002",
+      "hash": "FBCB80638BD32B45",
+      "target": "¿Les habrán hecho algo a las víctimas?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_137",
+      "hash": "55032FE36554AD3F",
+      "target": "Cierto, lo que contó la limpiadora. No vio cuerpos, pero habló de montones de polvo blanco..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_100_137",
+      "hash": "6F4C270C654718FB",
+      "target": "A ver... ¿Y lo que contó la limpiadora? No vio cuerpos, pero habló de montones de polvo blanco..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_138",
+      "hash": "3CA8741FBDC1DC89",
+      "target": "¿Polvo, pero ningún cuerpo? ¿Dónde he oído yo eso antes...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_100_138",
+      "hash": "437BE0A8D881F7BF",
+      "target": "¿Os acordáis de cuando fuimos a salvar a Erenville de los centinelas en los arrabales? Aquel acompañante, Malachite, nos contó prácticamente lo mismo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MALACHITE_110_138",
+      "hash": "7D18F5B3774D3AEB",
+      "target": "Cuando llegué, no había ningún cuerpo. Solo un montón de polvo, que el viento dispersó enseguida."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MALACHITE_120_138",
+      "hash": "26C0B49273BD15F5",
+      "target": "Desconcertado, pregunté a los vecinos, pero ninguno sabía qué había sido de él."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_139",
+      "hash": "C2EA3F6D8BB648A3",
+      "target": "Que ambos relatos hablen de restos desaparecidos ya es bastante sospechoso, pero que los dos mencionen ese polvo es demasiado como para ignorarlo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_100_139",
+      "hash": "08D90AD7E0462498",
+      "target": "En ese caso, deberíamos confirmar si esa sustancia estaba presente en otros lugares e intentar averiguar qué es."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_110_139",
+      "hash": "4A927C8981E2D84E",
+      "target": "Tirar de este hilo puede llevarnos no solo a explicar los cuerpos desaparecidos, sino también a la intención que hay detrás de los asesinatos de Calyx."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_142",
+      "hash": "DA9F201F85149AB5",
+      "target": "¡<split(<string(gstr1)>, ,1)>, necesitamos tu ayuda! He perdido el control de los soldados de la zona residencial. Puede que estén intentando hacer daño a la gente otra vez."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GULOOLJA_000_143",
+      "hash": "A5A80E1BFC697B04",
+      "target": "Los miembros de Oblivion ya van de camino, pero ¿estáis lo bastante cerca para uniros a ellos?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_GEODE_000_144",
+      "hash": "7AA65A4B931DE91A",
+      "target": "¡Maldita sea! Nuestra nueva investigación tendrá que esperar... ¡Vamos!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_145",
+      "hash": "E30E21933BE6B117",
+      "target": "Se recuperará con el tiempo. Menos mal que llegamos cuando llegamos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_MILOS_000_150",
+      "hash": "BCFDAF2D983A4625",
+      "target": "Cuando estaba enfermo y no podía moverme, mi madre siempre estaba a mi lado, siempre me hacía compañía. ¡Y yo voy a hacer lo mismo por ella!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_KRILE_000_155",
+      "hash": "91E01C63D9FB6DDD",
+      "target": "Yo me ocupo de este señor. ¡Id a ver cómo están Isadora y Milos!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_SOLUTIONRESIDENT73_000_160",
+      "hash": "04C59086F85D1155",
+      "target": "¿Por qué...? ¿Por qué está pasando esto...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_WAYAKKWE_000_170",
+      "hash": "7C91F158AEBDEA6B",
+      "target": "Perdóname, fui una imprudente... No deberías haber perdido el tiempo curándome a mí también."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_WAYAKKWE_000_172",
+      "hash": "3434E20A26C0FF20",
+      "target": "¿Habéis visto a nuestro otro compañero allí atrás? Se quedó en el vestíbulo, pero he oído ruido de pelea..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi101_05364#TEXT_KINGMI101_05364_ORIGINALSPHENE_000_176",
+      "hash": "EA710E65043FA56D",
+      "target": "Él... Lo siento. Debió de caer protegiendo a los vecinos..."
+    }
+  ]
+}

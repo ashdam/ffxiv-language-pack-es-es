@@ -1,0 +1,83 @@
+{
+  "conversation": "quest/003/ClsExc020_00311",
+  "questName": "Way of the Marauder",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_00",
+      "hash": "2399802F842D4563",
+      "target": "Blauthota desea que reafirmes tu deseo de unirte al Gremio de Asaltantes."
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_01",
+      "hash": "17C3AB5818AFE790",
+      "target": "Blauthota te pide que hables con el maestro del hacha Wyrnzoen, cuya aprobación debes obtener si deseas unirte al gremio."
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_02",
+      "hash": "2B32B15821BB4570",
+      "target": "Aunque algo adusto de palabra y de trato, el maestro del hacha Wyrnzoen te da pese a todo la bienvenida al Gremio de Asaltantes. Como nuevo alumno del hacha, el corpulento Roegadyn te ordena no perder tiempo en probar el filo del arma que has elegido en combate. Dirígete a las afueras de Limsa Lominsa y mata tres lost lambs, tres wharf rats y tres little ladybugs."
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_03",
+      "hash": "AD54A62F9E6E16E9",
+      "target": "Has matado a las criaturas indicadas. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen."
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_04",
+      "hash": "67D31504A2AFAD3E",
+      "target": "Vuelves al gremio con una mayor conciencia del brutal potencial de tu arma. Para realizar plenamente ese potencial, sin embargo, Wyrnzoen te anima a perfeccionar tu habilidad y tu fuerza con implacable determinación.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 5."
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_00",
+      "hash": "EF139FF054D633B5",
+      "target": "Hablar con el maestro del hacha Wyrnzoen"
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_01",
+      "hash": "5C058BE685A2B4A8",
+      "target": "Matar wharf rats"
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_02",
+      "hash": "160433952BE8C30B",
+      "target": "Matar lost lambs"
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_03",
+      "hash": "217A1C675776F979",
+      "target": "Matar little ladybugs"
+    },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_04",
+      "hash": "00A06C477453A3E4",
+      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
+    },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_BLAUTHOTA_000_1", "hash": "1DA8C3673BFB1B08", "target": "¿Así que has decidido blandir el hacha con los asaltantes?" },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_BLAUTHOTA_000_2", "hash": "178713DA16DC6740", "target": "Es tu elección, <if(gnum4,muchacha,muchacho)>: el hacha no es para todo el mundo. Que la Navegante te guíe por el camino que decidas emprender." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_BLAUTHOTA_000_4", "hash": "898637FED17DDCC8", "target": "Muy bien, pues. Lo único que queda por hacer es hablar con el propio maestro del hacha. ¿Suena fácil? He visto a gente escabullirse por la puerta antes que ponerse en el camino de esa mirada inquietante." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_BLAUTHOTA_000_5", "hash": "C46763024B7C3843", "target": "Es ese tipo de ahí, en medio de la sala. Wyrnzoen se llama. Ponte firme y mírale directo a los ojos cuando le hables, <if(gnum4,muchacha,muchacho)>. Mucha suerte." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_10", "hash": "4303D936A92EDBFF", "target": "Sí. Soy Wyrnzoen. «Maestro del hacha» me llaman. No es el título más imaginativo, lo admito, pero no conviene subestimar el valor de la franqueza. Doy la bienvenida a tu interés por nuestro gremio." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_12", "hash": "B48884F0DAD8415A", "target": "El arte del asaltante sirve para desgarrar, hendir y destruir. No es nuestro estilo simplemente superar en combate a nuestros adversarios; buscamos <italic(1)>arrollarlos<italic(0)>." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_14", "hash": "E198E543B2C194F4", "target": "Un asaltante debe ser la presencia más poderosa y resistente del campo de batalla; hemos de responder por el mayor número de enemigos abatidos. Nuestro papel en combate es el de un torbellino de acero, que reparte muerte y destrucción sin igual." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_16", "hash": "5D2BD278F36AF860", "target": "Sin duda Blauthota ya te ha planteado la pregunta, pero una vez más pondré a prueba tu compromiso: ¿estás preparad<if(gnum4,a,o)> para la sangrienta carnicería que aguarda a un iniciado del Gremio de Asaltantes?" },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_Q2_000_1", "hash": "65930140885AEA61", "target": "¿Estás preparad<if(gnum4,a,o)> para la carnicería?" },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_A2_000_1", "hash": "564FC0DCBE6DA255", "target": "Sí" },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_A2_000_2", "hash": "983169431CF4785B", "target": "No" },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_30", "hash": "7F5FF68D7CCA2039", "target": "¿Te horroriza la idea de huesos destrozados y carne cercenada? Entonces haces bien en apartarte de este camino. No hay deshonra en conocer las propias fortalezas... o debilidades." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_31", "hash": "A3380F0BCACAD394", "target": "Muy bien. ¿Tu nombre? Atiéndeme bien, entonces, <split(<string(gstr1)>, ,1)>. Aférrate a este momento de entrega. El camino del asaltante es escarpado y peligroso: la sangre que se derrame a tus pies será a menudo la tuya." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_33", "hash": "A3DF0524434C3E0E", "target": "Ahora eres <if(gnum4,una alumna,un alumno)> del hacha... no perdamos tiempo en poner a prueba el filo del arma que has elegido. Te lanzarás de inmediato al combate, como corresponde a un novato de nuestra disciplina." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_34", "hash": "7DED4B1C19D02A38", "target": "Ve y da muerte a las alimañas que balan, corretean y reptan asolando las afueras de Limsa Lominsa." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_35", "hash": "90DB3BC6F15CB7F8", "target": "Lost lambs, wharf rats y little ladybugs serán tus lastimosos adversarios de hoy. Vuelve a mí cuando tres de cada criatura hayan caído bajo tu hoja." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_40", "hash": "A2069E4E82965601", "target": "Vuelves a mí convertid<if(gnum4,a,o)> en otra persona. Tu rostro ya muestra un gesto más duro; la constatación de la matanza de la que eres capaz." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_42", "hash": "3CE4A2AA02D72449", "target": "Pero queda mucho adiestramiento por delante antes de que empuñes el hacha en todo su potencial. Aprende bien tus lecciones, forja tu fuerza y haz de cada golpe un acto instintivo." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_51", "hash": "E9C717DB381BA0E6", "target": "Tendrás este cuaderno de caza para ayudarte en ese empeño. En sus páginas figuran adversarios idóneos para pulir tus habilidades." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_52", "hash": "66F43C330D7D5958", "target": "Existen, por supuesto, infinidad de métodos para mejorar tus técnicas, pero cuando el camino a seguir no sea evidente, el diario te ofrecerá una fuente fiable de desafíos." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_44", "hash": "6657A0CB73501649", "target": "Cada golpe de tu arma despejará un paso más hacia el dominio del camino del asaltante. Implacable, incansable: así debe ser tu ímpetu, tanto en el campo de entrenamiento como en el de batalla." },
+    {
+      "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SYSTEM_000_50",
+      "hash": "7252ED76B9823434",
+      "target": "La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 5."
+    }
+  ]
+}

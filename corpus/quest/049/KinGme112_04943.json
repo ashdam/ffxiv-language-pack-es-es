@@ -1,0 +1,278 @@
+{
+  "conversation": "quest/049/KinGme112_04943",
+  "questName": "A Comforting Hand",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_SEQ_00", "hash": "35BBFE4A7E99573D", "target": "Wuk Lamat quiere hacer cuanto pueda por la gente de Solución Nueve." },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_00", "hash": "B5846C9D50993217", "target": "Reconfortar a los civiles" },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_01", "hash": "47A3C3FF92FAED1C", "target": "Hablar con Wuk Lamat en la Trastienda" },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_02", "hash": "313F1A6A5D153A39", "target": "Hablar con Gulool Ja" },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_03", "hash": "0565887FB6B4EDC8", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TODO_04", "hash": "CD76B959B8592EA0", "target": "Hablar con Cahciua" },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_ALISAIE_000_001",
+      "hash": "484BFE390F82ED4E",
+      "target": "Gracias, Otis... Ruego que tu alma descanse en paz."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_KRILE_000_005",
+      "hash": "DC5699EFDB63498A",
+      "target": "Masacrar también al pueblo que lo acogió... ¿No hay fin para su villanía?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GRAHATIA_000_010",
+      "hash": "868890A370C7C343",
+      "target": "No esperaba que se desatara semejante carnicería aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_020",
+      "hash": "D713395A149A6D58",
+      "target": "He estado pensando... Al llevar reguladores, la gente de Alexandria se libraba del miedo a la muerte."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_021",
+      "hash": "D27A19917F4E9308",
+      "target": "Y eso es porque el aparato no solo te resucita: también te borra los recuerdos de los difuntos. La noción misma de morir se les habrá vuelto vaga, si no olvidada."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_022",
+      "hash": "F635543DF9BC0668",
+      "target": "Que te maten una y otra vez... No me imagino lo traumatizados que deben de estar los supervivientes. Aunque no tengan heridas físicas, siguen necesitando cuidados."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GRAHATIA_000_023",
+      "hash": "AD3AAC67B633AE95",
+      "target": "En un momento así, los ciudadanos necesitan que su reina los consuele. ¿Pero adónde ha ido?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_024",
+      "hash": "AECB0FA0734ED90F",
+      "target": "No lo sé. Hay otros distritos, así que quizá esté comprobando cómo están."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_025",
+      "hash": "AF0FDBEC904BEDF2",
+      "target": "En cualquier caso, es demasiado para que lo lleve ella sola..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_026",
+      "hash": "1FF5994264B14EE9",
+      "target": "Habrá incontables personas destrozadas, y deberíamos darles todo el consuelo que podamos."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_027",
+      "hash": "30EBE0A9344FB327",
+      "target": "Así que, mientras Cahciua y los suyos atienden a los heridos, busquemos nosotros a quienes tienen heridas del alma."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_ALISAIE_000_028",
+      "hash": "D173BE927FBD1143",
+      "target": "Entendido. Si <split(<string(gstr1)>, ,1)> y tú queréis concentraros en Vera Vista, los demás nos ocuparemos del resto de zonas."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_029",
+      "hash": "1AFECF4088E98C3B",
+      "target": "Me parece bien. Muy bien, gente: después nos vemos en la Trastienda."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_030",
+      "hash": "D2149C86C11030E7",
+      "target": "¿Se... se ha acabado? ¿Sigo vivo...?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_031",
+      "hash": "5F8D45C24C7CAFD1",
+      "target": "Aaah, menos mal... \\<olfatea> \\<sollozo>"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_032",
+      "hash": "C9EACE5F4E40B54D",
+      "target": "No tiene ningún sentido... ¿Qué derecho tenía el rey a destrozarnos la vida así?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_033",
+      "hash": "4B0A4981E0BDEDFD",
+      "target": "Devolvednos nuestra paz... Dejadnos fuera de vuestra maldita guerra... \\<sollozo>"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_STUNNEDRESIDENT4943_000_035",
+      "hash": "46AE9A608DA938D1",
+      "target": "Yo no quiero saber nada de eso. Solo quiero que vuelva la paz..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TREMBLINGRESIDENT4943_000_040",
+      "hash": "DBFE6038A7483701",
+      "target": "\\<estremecimiento> Nunca en mi vida había pasado tanto miedo... Ya había muerto una vez en un accidente, pero no fue nada comparado con esto..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TREMBLINGRESIDENT4943_000_041",
+      "hash": "D8271B187D15A593",
+      "target": "Que te maten una y otra vez, y otra... Fue una pesadilla en vida. ¿Y dices que detrás estaba el rey Zoraal Ja?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TREMBLINGRESIDENT4943_000_042",
+      "hash": "FF1100AB0F0F2A17",
+      "target": "Desde que apareció de repente, no ha hecho nada bueno por nosotros. Solo piensa en la guerra: ordenó fabricar más soldados. Y ahora los lanza contra nosotros..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TREMBLINGRESIDENT4943_000_043",
+      "hash": "26B98A1CADDC3CB4",
+      "target": "¡Ese no es mi rey! ¡Es un asesino, y alguien tiene que hacérselo pagar!"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_TREMBLINGRESIDENT4943_000_045",
+      "hash": "C81FF2355C44E08B",
+      "target": "¡Zoraal Ja debe responder por sus crímenes! ¡Hay que arrancar del trono al falso rey!"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_050",
+      "hash": "B759A98968A04029",
+      "target": "G-Gracias... Creo que estoy bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_051",
+      "hash": "643AD0A620C5C24E",
+      "target": "Oiga, usted estaba luchando junto a la reina Sphene, ¿verdad? Entonces, ¿son ciertos los rumores?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_052",
+      "hash": "BF9C2B12870776A5",
+      "target": "Que Su Majestad no es una persona viva. Que su cuerpo de verdad está en otra parte, en la nube o algo así, y que usa un poder especial para aparecer ante nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_053",
+      "hash": "A760FD9ACB21C3B2",
+      "target": "Siempre me pregunté por qué los alejandrinos nunca cuestionaban su verdadera naturaleza, pero ahora creo que lo entiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_054",
+      "hash": "EAC840CDA4D0E240",
+      "target": "Ella luchó en persona por protegernos. Con eso me basta para saber que es una gobernante digna. Da igual lo que sea."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_EXHAUSTEDRESIDENT4943_000_055",
+      "hash": "4BB34E62AEE11EA8",
+      "target": "Luchar por su pueblo es prueba de su entrega a su pueblo. Sea lo que sea, es nuestra reina."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_060",
+      "hash": "F8E38D625367BA24",
+      "target": "Ya hemos ayudado a quienes hemos podido en Solución Nueve. Ahora buscamos mandar gente a los demás niveles."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GULOOLJA_000_065",
+      "hash": "D820DF017D08F3A0",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_090",
+      "hash": "98485F72A90FEC79",
+      "target": "Parece que la cosa está algo controlada. Aunque Alisaie y los demás siguen ahí fuera..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_091",
+      "hash": "AED9C5640D63318F",
+      "target": "No he podido dejar de preocuparme por Gulool Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_092",
+      "hash": "A4374F4E55797A61",
+      "target": "No ha dicho ni una palabra. Y no es de extrañar, con lo que ha pasado..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_093",
+      "hash": "7C18AB19C88B896D",
+      "target": "Voy a hablar con él. De todo."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_094",
+      "hash": "59FF3AEADACC0438",
+      "target": "Con lo listo que es, de nada sirve ocultárselo. Acabaría enterándose, y le dolería más."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_095",
+      "hash": "FCA993CF82F21C8D",
+      "target": "Muy bien. Ante todo, tiene que saber que no está solo."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_100",
+      "hash": "948C7FB2C5AE659F",
+      "target": "Hacer sufrir así a tu propio hijo... No comprendo tanta crueldad."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_105",
+      "hash": "C294A0C9D6A98F67",
+      "target": "No me dejaré nada. Ni lo que ha pasado, ni lo que está por venir..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_110",
+      "hash": "13AEB07A42DD0E25",
+      "target": "Se lo han estado guardando todo dentro, tanto Gulool Ja como Wuk Lamat..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GULOOLJA_000_113",
+      "hash": "E974A3A71ABF12A7",
+      "target": "Siento no haber hecho caso y haberos seguido."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GULOOLJA_000_114",
+      "hash": "FCF04F346904071E",
+      "target": "Pero... quería detener a mi padre. Y quizá entender por qué hizo lo que hizo."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_115",
+      "hash": "82A6D31B296F9319",
+      "target": "Deberías descansar un poco, Gulool Ja. Has pasado por mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_GULOOLJA_000_116",
+      "hash": "E58E8EECA3CB2EEA",
+      "target": "La verdad es que tengo algo de sueño..."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_117",
+      "hash": "383432A959A59C93",
+      "target": "Hay una habitación al fondo que podéis usar. ¿Puedes llevar allí a Gulool Ja?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_WUKLAMAT_000_118",
+      "hash": "56AEC23FA152EC6A",
+      "target": "Sí, gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_120",
+      "hash": "779F95EAA902416F",
+      "target": "Las cosas que le diría yo a Zoraal Ja como madre... Pero mejor no empiezo."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_121",
+      "hash": "3601AE8E605794A8",
+      "target": "En vez de eso, deja que te dé las gracias. No habríamos superado esto sin ti y los tuyos."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_122",
+      "hash": "F792C8C36E1D248E",
+      "target": "Hasta que vuelvan los demás, deberías descansar tú también lo que puedas. Al fin y al cabo, esto no ha terminado."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_123",
+      "hash": "530983D6696DA0AB",
+      "target": "Puedes ir...\\<bzzz>...preparar para...\\<bzzz> Y si no, siéntete...\\<bzzz>...la Trastienda."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_124",
+      "hash": "DA6C061BFD2316B0",
+      "target": "¿Que la imagen se ve borrosa? ¿Sigue pasando?"
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_125",
+      "hash": "4730EDED32FDD113",
+      "target": "Bueno, es un cacharro viejo y gastado. Es normal que dé algún tirón."
+    },
+    {
+      "gameKey": "quest/049/KinGme112_04943#TEXT_KINGME112_04943_CAHCIUA_000_126",
+      "hash": "BA01125FA89D783E",
+      "target": "Aunque no hay de qué preocuparse. Dentro de un rato tendremos una reunión para hablar del siguiente paso, ¡así que hasta entonces!"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "conversation": "quest/006/SubWil114_00622",
+  "questName": "Amalj'aa Wrong Places",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_ISEMBARD_000_1",
+      "hash": "AE1B870FE3E8951A",
+      "target": "Me alegro mucho de haber reservado esa habitación para la hermana Ourcen. Al parecer, sus atacantes la hirieron más de lo que dejó ver al principio. Por fortuna, se espera que se recupere del todo."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_ISEMBARD_000_2",
+      "hash": "7EB3FC275E04B391",
+      "target": "Pero, a lo que nos ocupa. Thancred ha venido a buscarte otra vez. Dejó dicho que te esperará en el campamento Amalj'aa del sureste. Ruego que entre los dos consigáis desenterrar <italic(1)>alguna<italic(0)> prueba sobre estas desapariciones."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_10",
+      "hash": "1F69694AEBAAF829",
+      "target": "Ah, aquí está, <split(<string(gstr1)>, ,1)>. ¡Qué bien que haya venido!"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_11",
+      "hash": "DFB569B527DB678C",
+      "target": "En efecto, ya me he enterado de todo lo de la buena hermana Ourcen. Isembard dijo que sus heridas eran graves. Parece que mis sospechas sobre la pobre rosa estaban infundadas."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_12",
+      "hash": "7770CF2F00115D24",
+      "target": "Pero, aun siendo falsas, quizá mis sospechas no carecían del todo de fundamento. Mientras seguía a la hermana Ourcen cerca del Bazar Dorado, me llamó la atención un grupo de Amalj'aa."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_13",
+      "hash": "21E2E3F0E585078B",
+      "target": "Los seguí hasta este campamento, pero... En fin, digamos que preferiría con mucho mantener las distancias y quedarme aquí. Lo cual, cómo no, me lleva a por qué le he hecho llamar, <split(<string(gstr1)>, ,1)>. ¿Tendría la bondad de echar un vistazo dentro?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_20",
+      "hash": "D23BCC5FBF24884E",
+      "target": "Prefiero con mucho vigilar las cosas desde aquí fuera. Vaya a echar un vistazo dentro, ¿quiere?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_30",
+      "hash": "32DF62F15E567183",
+      "target": "¿Y bien? ¿Ha visto algo que le llamara la atención?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_31",
+      "hash": "654715C6C05975C6",
+      "target": "Este panfleto... «Lleve la riqueza de Nald a las manos de sus hijos.» Parece ser una especie de convocatoria para dar trabajo a los pobres."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_32",
+      "hash": "61BC072542C0F8A7",
+      "target": "Aunque la caligrafía... es atroz, ¿no le parece? Y estas partes sobre Nald'thal se ven un tanto... poco documentadas. Me cuesta creer que esto lo haya escrito alguien de la Orden."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_33",
+      "hash": "98B9B26DF828985F",
+      "target": "Le ruego que lleve esto a la posada del Campamento Huesos Secos. Veamos qué opina de ello la hermana Ourcen."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_40",
+      "hash": "1D643D81E6399FE0",
+      "target": "Y ahora, veamos qué opina la hermana Ourcen de este panfleto."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_OURCEN_000_50",
+      "hash": "0D255EA44C88B31C",
+      "target": "Vuelve mi <if(gnum4,salvadora,salvador)>. ¿A qué debo el honor hoy?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_OURCEN_000_51",
+      "hash": "B39CC7D915A94422",
+      "target": "¿Qué es esto? Una blasfemia... ¡Estas no son en absoluto nuestras enseñanzas! Esto no lo hizo ningún <italic(1)>verdadero<italic(0)> hermano o hermana de la Orden... de <italic(1)>eso<italic(0)> puedo asegurarle."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_OURCEN_000_52",
+      "hash": "5578F31F1E619AA3",
+      "target": "Ahora que lo pienso, hace semanas la iglesia se vio aquejada por la desaparición de prendas. ¿Podría alguien estar haciéndose pasar por sacerdote de la Orden para engañar a la gente?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_OURCEN_000_60",
+      "hash": "653599FE7B48AC7E",
+      "target": "¿Quién haría semejante cosa?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_70",
+      "hash": "66DD0ECC41CA12C1",
+      "target": "La trama se complica, <split(<string(gstr1)>, ,1)>. Nuestro culpable finge ser sacerdote para dar credibilidad a su engaño. No cabe duda de que hay cierta ironía en todo esto."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_THANCRED_000_71",
+      "hash": "5FE33C5EC9784F36",
+      "target": "Pero sospecho que tenemos entre manos a un adversario digno. Pensaré cuál es la mejor manera de proceder. Por ahora, cuéntele a Isembard lo que hemos averiguado aquí."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_ISEMBARD_000_80",
+      "hash": "1B618A9CFC267147",
+      "target": "¿¡Haciéndose pasar por sacerdote!? Y pensar..."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_ISEMBARD_000_81",
+      "hash": "DA127184A629C223",
+      "target": "Dejando a un lado tan inquietantes ideas, es gratificante poder por fin hacer avanzar esta investigación. Gracias una vez más, <split(<string(gstr1)>, ,1)>. Mantendré los ojos y los oídos bien abiertos... ahora más que nunca."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_00",
+      "hash": "3A760AC2182B2D85",
+      "target": "Parece que Isembard tiene un mensaje de Thancred para ti."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_01",
+      "hash": "3EF19565BC5C3BD0",
+      "target": "Thancred te ha estado buscando y te pide que te reúnas con él cerca del campamento Amalj'aa, al sureste del Campamento Huesos Secos."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_02",
+      "hash": "31AA71589EBF4FCD",
+      "target": "Te reúnes con Thancred a las afueras del campamento Amalj'aa cercano. Te pide que entres y busques pruebas de su implicación en las desapariciones del Campamento Huesos Secos."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_03",
+      "hash": "46663C45BAF7B696",
+      "target": "Has encontrado un panfleto sospechoso. Vuelve con Thancred y enséñaselo."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_04",
+      "hash": "5A2DDAD954EF63FA",
+      "target": "El panfleto no parece haberlo escrito un miembro de la Orden. Enséñaselo a la hermana Ourcen en la posada del Campamento Huesos Secos por si puede aportar alguna pista."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_05",
+      "hash": "D9DC3D18C99A3D52",
+      "target": "La hermana Ourcen confirma que el panfleto no es obra de la Orden y añade que hace poco la iglesia sufrió una racha de prendas desaparecidas. Habla con Thancred para decidir vuestro siguiente paso."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_06",
+      "hash": "4F3A700CE6848D7D",
+      "target": "Thancred cree probable que el culpable de las desapariciones se esté haciendo pasar por sacerdote de la Orden. Advierte a Isembard de este posible peligro."
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_SEQ_07",
+      "hash": "835F49F91028EC90",
+      "target": "Isembard decide mantenerse alerta a la luz de la nueva información. Thancred, entretanto, se ha retirado a meditar la situación con más calma. ¿Qué plan se le ocurrirá al bardo sharlayano?"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_00",
+      "hash": "0BF808973C2EDB9B",
+      "target": "Hablar con Thancred"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_01",
+      "hash": "0718CC38D4AE1AEB",
+      "target": "Buscar una pista en el campamento Amalj'aa"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_02",
+      "hash": "E900AEAE472C8D7F",
+      "target": "Enseñar el panfleto sospechoso a Thancred"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_03",
+      "hash": "3616EFFEE908C9BD",
+      "target": "Enseñar el panfleto sospechoso a la hermana Ourcen"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_04",
+      "hash": "FAEFF4EE0DC9C92E",
+      "target": "Hablar con Thancred"
+    },
+    {
+      "gameKey": "quest/006/SubWil114_00622#TEXT_SUBWIL114_00622_TODO_05",
+      "hash": "320DD8091992CFAA",
+      "target": "Hablar con Isembard"
+    }
+  ]
+}

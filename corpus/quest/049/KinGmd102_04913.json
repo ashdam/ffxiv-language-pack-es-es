@@ -1,0 +1,581 @@
+{
+  "conversation": "quest/049/KinGmd102_04913",
+  "questName": "Saddled Up",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_SEQ_00", "hash": "28CE4E91DF123C06", "target": "Erenville no está por andarse con demoras." },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_00", "hash": "614555509AE26B8E", "target": "Hablar con el establero afable" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_01", "hash": "ECEEBF50A1E3AF39", "target": "Volver a hablar con el establero afable" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_02", "hash": "DD3C44EC164C79CD", "target": "Buscar a la Shetona de pelo azulado" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_03", "hash": "8DE7C6B649354464", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_04", "hash": "45CB28D3F375D93A", "target": "Derrotar a los bandidos" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_05", "hash": "43587FB9F45B577F", "target": "Buscar a Namikka" },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TODO_06", "hash": "D8ED16FF151CA52A", "target": "Hablar con Iyaate" },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERA_000_000",
+      "hash": "B06D6312CE7E6146",
+      "target": "No tardaremos, quedaos tranquilos. Estad atentos a un hombre con dos rroneek en Hhusatahwi."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_001",
+      "hash": "679BFEB65A9E2AEB",
+      "target": "Quiero pensar que el mozo ya habrá llegado con los rroneek..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_002",
+      "hash": "715A9B0270C0D9C1",
+      "target": "Iré delante a comprobarlo. Si aún quieres echar un vistazo por ahí, adelante. Ven a buscarnos cuando hayas tenido bastante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_010",
+      "hash": "26E9F8953C5CA1A4",
+      "target": "Tú debes de ser <if(gnum4,la amiga,el amigo)>, ¿no? Siento haberos hecho esperar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_011",
+      "hash": "9914DFE1A08C7A33",
+      "target": "Y me temo que las bestias revoltosas no son el único problema últimamente. También han aumentado los robos a los mercaderes. Total, que tenemos una lista larguísima de gente esperando para usar nuestros rroneek."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_012",
+      "hash": "7DAF8B06D381B678",
+      "target": "Por eso tengo que pediros que hagáis parada en los Manantiales de Sheshenewezi."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_013",
+      "hash": "2A361321F794DB9E",
+      "target": "Por supuesto, no hay problema, pero ¿por qué no se ha ocupado la Guardia del Polvo de ese bandidaje?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_014",
+      "hash": "64EB5E048DB4935C",
+      "target": "Kemakka y los suyos hacen lo que pueden, pero se figuran que los bandidos actúan en banda. Atraparlos a todos es más fácil de decir que de hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_015",
+      "hash": "56869117DE19CCC1",
+      "target": "Si lleváis algo de valor, más vale que andéis con ojo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_016",
+      "hash": "EDE18522AF648DC8",
+      "target": "Gracias por el aviso. Estaremos atentos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_017",
+      "hash": "71DE174AC2A2BD3C",
+      "target": "Muy bien. Cuando estéis listos para partir, os pongo en camino."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_018",
+      "hash": "051D89AEAF0CE75C",
+      "target": "Ahora que lo pienso, es la primera vez que viajo con un solo acompañante. Da menos complicaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_RRONEEKLENDERB_000_020",
+      "hash": "FE79630921EB87D0",
+      "target": "¿Listos? Pues a la silla. Tu amigo parece conocer el camino, así que no me molesto en darte indicaciones."
+    },
+    { "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_SYSTEM_000_021", "hash": "3E0BAF753B180F88", "target": "¿Montar en el rroneek y viajar con Erenville?" },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_022",
+      "hash": "7656914DD28B9BA8",
+      "target": "Es tu primera vez, así que iremos despacio. Ten cuidado de que no te tire."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_023",
+      "hash": "550D1C75636E403E",
+      "target": "No dejo de sorprenderme de lo mucho que ha cambiado Shaaloani."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_024",
+      "hash": "74850DEA59E4EBD0",
+      "target": "El pueblo que acabamos de visitar ni siquiera existía hace unos años..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_025",
+      "hash": "3B4EF9DE306CA352",
+      "target": "Como apenas había sitios fiables donde reponer agua, los viajeros recurrían a los nopalitenders."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_026",
+      "hash": "4D3D1FFF8B93CC38",
+      "target": "Y no solo por el agua de sus tallos. Se dice que sus frutos son además nutritivos y deliciosos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_027",
+      "hash": "8E9946F8D4827251",
+      "target": "¿Ves ese agujero? Más de uno esperaría encontrar agua ahí, pero está rebosante de ceruleum."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_028",
+      "hash": "436A53E05E6F332F",
+      "target": "Las llamas que brotan de su interior son todo un espectáculo, y han dado pie a relatos aleccionadores sobre gente que se acercó demasiado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_029",
+      "hash": "BB86E96D629D01AC",
+      "target": "Los Whalaqee, en cambio, veneran el ceruleum y sus llamas azules..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_030",
+      "hash": "CC58E3F1E75A3105",
+      "target": "...Pero eso lo dejamos para otro momento. Ya hemos llegado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_031",
+      "hash": "1BC10239752F646B",
+      "target": "Mejor para estos rroneek."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_032",
+      "hash": "84FEE8B73D095219",
+      "target": "No hemos hecho más que desmontar y los siguientes pasajeros ya van de camino. Sí que andan escasos de rroneek."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_033",
+      "hash": "A51647BF43206497",
+      "target": "Bien, veamos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_034",
+      "hash": "E0BAB1D4E4FF8324",
+      "target": "Estos son los Manantiales de Sheshenewezi, quizá el pueblo más bullicioso de todo Shaaloani. Viene gente de todas partes con la esperanza de hacer fortuna."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_035",
+      "hash": "53666E0D306A52D4",
+      "target": "El cambio que ha dado Hhusatahwi ya era sorprendente, pero esto no lo es menos. Han logrado muchísimo en los tres años que he estado fuera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_036",
+      "hash": "D9CE2E7E950F1074",
+      "target": "La estación queda en el lado este del pueblo, pero aún debería quedar tiempo antes de que salga el próximo tren."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_037",
+      "hash": "44D00B7AC88B70DE",
+      "target": "Si no te importa, me gustaría visitar a una vieja amiga de mi mentora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_038",
+      "hash": "1C54801E9126805C",
+      "target": "Se llama Iyaate, y si se enterara de que he pasado por aquí sin decirle nada, no me lo perdonaría en la vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_039",
+      "hash": "4FC988B75B2B009F",
+      "target": "Dejó nuestra aldea hace unos diez años para ganarse la vida recorriendo Tural. Supongo que también ella vino aquí buscando mejores oportunidades."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_040",
+      "hash": "63277460D81314BE",
+      "target": "En cualquier caso, veamos si damos con ella. Su pelo azul debería hacerla fácil de reconocer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_045",
+      "hash": "1197B8C14FE793E5",
+      "target": "Es la primera vez que montas, ¿verdad? Aun así, no creo que te vaya a costar mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_050",
+      "hash": "10B07246CF128AC1",
+      "target": "¿Mm? Sí, yo soy Iyaate. ¿Y tú quién eres?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_051",
+      "hash": "5843E42A7007B6A8",
+      "target": "Es <if(gnum4,amiga mía,amigo mío)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_052",
+      "hash": "E70C6486B73927EF",
+      "target": "¿No serás...? ¡Válgame, sí que lo eres!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_053",
+      "hash": "BD483F9EAF11B1B5",
+      "target": "Elene─"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_054",
+      "hash": "49DC6752BCDF164E",
+      "target": "<italic(1)>Erenville<italic(0)>, sí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_055",
+      "hash": "3F43504947EB59F9",
+      "target": "Todo un hombre. Con lo monísimo que eras de crío."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_056",
+      "hash": "D13E9C479538C050",
+      "target": "Que solo han pasado tres años desde la última vez que hablamos, ¿eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_057",
+      "hash": "31BBC39762915404",
+      "target": "¿En serio? ¿Solo tres? Supongo que todo se vuelve borroso con el tiempo, viviendo lo que vivimos nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_058",
+      "hash": "78489A4C8376C02E",
+      "target": "Bueno, esta es Iyaate. Conoce a mi mentora desde que eran niñas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_059",
+      "hash": "4CA8B525B9BBCDED",
+      "target": "¡Encantada!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_060",
+      "hash": "1D0CEDCFE18AD07E",
+      "target": "Nunca pensé que llegaría a verte viajar acompañado. ¡Cómo has crecido, Elene'shpya!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_Q1_000_061",
+      "hash": "C6927FFE8CBF8CF3",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_A1_000_062",
+      "hash": "4B0BDF507DFE347D",
+      "target": "Elene... ¿qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_A1_000_063",
+      "hash": "8A4DFADFC5E33EB9",
+      "target": "¿Así te llaman aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_065",
+      "hash": "61527B0C7C328DDE",
+      "target": "Está bien, está bien... Nací con el nombre de Elene'shpya. Adopté otro al hacerme espigador─uno acorde con las convenciones de los Viera del este─para no llamar la atención."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_066",
+      "hash": "2DA1A25F3BDC4439",
+      "target": "Siendo esto un regreso a casa, era cuestión de tiempo que lo descubrieras. Aun así, te agradecería que siguieras llamándome por el nombre que elegí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_067",
+      "hash": "78AEF067E6840FAB",
+      "target": "¿Un regreso a casa? Pues mira, yo también llevo tiempo pensando en darme una vuelta por la tierra de siempre. Me apetecería volver a ver a Cahciua."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_068",
+      "hash": "6D3E90B02BBDC507",
+      "target": "Es la mejor arquera que conozco, y además la madre y la mentora de Elene'shpya. Cada vez que me dejaba caer por allí, nos preparaba un auténtico festín con caza fresca cobrada por ella misma."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_069",
+      "hash": "D47774B69DEA5966",
+      "target": "Tú tampoco te quedas atrás con el arco, Iyaate. Y eso entre los Shetona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_070",
+      "hash": "E01A10B1B9F230FA",
+      "target": "Uy, yo no le llego a Cahciua ni a la suela. Y eso que su destreza con las armas no es nada al lado de lo que sabe de la naturaleza."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_071",
+      "hash": "5B6FBE3077226B67",
+      "target": "No en vano fue eso lo que le valió un puesto entre los compañeros de viaje de Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_072",
+      "hash": "48A7DB017C41F2FC",
+      "target": "Siempre fue de naturaleza curiosa, pero aquel viaje por Tural le encendió algo por dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_073",
+      "hash": "594AE7F58C90EDA7",
+      "target": "Incluso después de que naciera Elene'shpya, me lo dejaba a mi cuidado muchas veces para poder emprender otra expedición en busca de lo desconocido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_074",
+      "hash": "6271CC56E855D3C8",
+      "target": "Ay, cómo llorabas y le suplicabas que te llevara con ella. Debió de ser duro para ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_075",
+      "hash": "A6118976131F0AFE",
+      "target": "¡Iyaate, por favor!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_076",
+      "hash": "58326A28ADFED0AE",
+      "target": "¿Qué pasa? Aquí somos todos amigos, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_077",
+      "hash": "B1B04B9907065D9E",
+      "target": "Por muchas veces que se lo pidiera, la respuesta era siempre la misma: “Vendrás cuando demuestres que eres un explorador de verdad”."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_078",
+      "hash": "1CAF2CCD4E0DB263",
+      "target": "Y así me encomendó encontrar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_079",
+      "hash": "A9DD8AC848717431",
+      "target": "Por mucho que me esforcé, todos los caminos acababan en nada. Llegué a pensar que era la fantasía de una soñadora, una treta para empujarme a conocer mundo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_080",
+      "hash": "8B3B5DB814BF71D2",
+      "target": "Pero era real. Y la encontramos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_081",
+      "hash": "189D14175CCE80E8",
+      "target": "¿¡La encontrasteis!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_082",
+      "hash": "8F777D4DCC3AAC86",
+      "target": "Como parte del rito de sucesión. Daba por hecho que todo el mundo se había enterado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_083",
+      "hash": "07CE985A65B0FD4B",
+      "target": "¡Es increíble! Ay, se va a poner contentísima."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_084",
+      "hash": "AAA03548CEFF4C24",
+      "target": "Y con muchas ganas de acribillarme a preguntas, seguro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_085",
+      "hash": "0845B659CAD4A4F6",
+      "target": "En fin, deberíamos ponernos en marcha."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_086",
+      "hash": "A2B90C756088B9E1",
+      "target": "Muchas gracias por pasaros. Dale recuerdos a Cahciua."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_087",
+      "hash": "11B90726CD15F6B8",
+      "target": "¡Socorro! ¡Que alguien me ayude!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_088",
+      "hash": "1052BAD1F7B345C5",
+      "target": "¿Qué ha sido eso?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_089",
+      "hash": "7513CDDF3EA6D6EF",
+      "target": "Iremos a ver. Tú quédate aquí, por favor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_095",
+      "hash": "29C65968222BFCEF",
+      "target": "Tened cuidado los dos ahí fuera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_100",
+      "hash": "B1CD896B8E310BC2",
+      "target": "Sin duda son los famosos bandidos de la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_101",
+      "hash": "5185AE568657D0F9",
+      "target": "¡Por favor, tienen que ayudarme! ¡Me han robado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_102",
+      "hash": "17D3D5D8A21F2E6E",
+      "target": "¡Es Namikka, la nodriza de Wuk Lamat!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_103",
+      "hash": "39DE55B94384DBB6",
+      "target": "¡Erenville! ¡<split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_HHETSARROBANDIT_000_104",
+      "hash": "2027A29A1102B641",
+      "target": "¡Como deis un paso más, le rajamos el cuello de oreja a oreja!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_105",
+      "hash": "E6A3F9C5EED8A740",
+      "target": "Como le hagáis el menor rasguño, no viviréis para lamentarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_HHETSARROBANDIT_000_106",
+      "hash": "EAA141F26959B4AA",
+      "target": "¿¡Ah, sí!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TONAWAWTABANDIT_000_107",
+      "hash": "45D3381A10C78607",
+      "target": "Espera. ¿No ha dicho que esta es la nodriza de <italic(1)>Wuk Lamat<italic(0)>? A lo mejor esto no es tan buena idea..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_HHETSARROBANDIT_000_108",
+      "hash": "09E0783F55977272",
+      "target": "Llévale el botín al jefe. De esto nos encargamos nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_109",
+      "hash": "450A88D43F3111F9",
+      "target": "¡Por favor, tenéis que devolvérmelo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_110",
+      "hash": "352D3A7BF103C8CE",
+      "target": "Voy tras Namikka. Estos te los dejo a ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_TONAWAWTABANDIT_000_112",
+      "hash": "EEC085A2F7BC83FB",
+      "target": "¡Será chulo el tío! ¡Lo colgaré por las orejas y echaré a la vieja a los perros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_HHETSARROBANDIT_000_113",
+      "hash": "BE9FB387401CF85D",
+      "target": "Ya nos ocuparemos de ellos luego. Primero hay que acabar con <if(gnum4,esta,este)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_BALLOON_000_120",
+      "hash": "9DA11E8D77A71577",
+      "target": "Maldita sea. <if(gnum4,Esta,Este)> no sabe cuándo parar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_BALLOON_000_121",
+      "hash": "801DB2D8FBB09857",
+      "target": "Uf... Si el jefe se entera, somos hombres muertos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_130",
+      "hash": "498EF531F696F609",
+      "target": "Gracias. No sé qué habría hecho sin usted."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_131",
+      "hash": "A22F58C47AB6F680",
+      "target": "Quien lo robó ha logrado escapar, pero tengo una idea de adónde se dirige."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_132",
+      "hash": "BFF34954A6DF7A32",
+      "target": "Has dicho que te robaron algo, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_133",
+      "hash": "235374B22A4979BF",
+      "target": "Un brazalete. Fue un regalo de despedida de Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_134",
+      "hash": "A7C9A282EEA11670",
+      "target": "Ya veo... Con lo unidas que estabais, me imagino lo que significaba para ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_135",
+      "hash": "FA6188D3C384BFBB",
+      "target": "¿Y qué te trae tan lejos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_136",
+      "hash": "8732BCC25B4138DA",
+      "target": "Con el rito de sucesión concluido y Wuk Lamat coronada como la próxima Servidora del Alba, ya está lista para valerse por sí misma."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_137",
+      "hash": "728D6104F9A12A01",
+      "target": "Así se lo dije, y también que pensaba volver a mi hogar, a Yyasulani. Ella me dio el brazalete para que recordara siempre el tiempo que pasamos juntas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_138",
+      "hash": "CFD483A4CD76904A",
+      "target": "Me llenó de tanta alegría que quise que todo el mundo lo supiera─que todos vieran este maravilloso regalo del Juramento de la Resolución... Y ahora ya no está."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_139",
+      "hash": "9515E1F616D5547B",
+      "target": "Les habría dejado llevarse hasta la última moneda que tengo con tal de que me hubieran dejado ese brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_140",
+      "hash": "9774B278FA787F72",
+      "target": "Te preguntaría qué piensas hacer, pero conozco esa mirada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_Q1_000_000",
+      "hash": "9DEE9B1B9FA9E9DD",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_A1_000_001",
+      "hash": "86E9DB11EBAE60CB",
+      "target": "Vamos a recuperar ese brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_A1_000_002",
+      "hash": "7A4AB80B7BFD6A68",
+      "target": "Los dejaré sin sentido. Es lo que Wuk Lamat querría."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_142",
+      "hash": "15102CA51312B59C",
+      "target": "Por favor, no se ponga en peligro por mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_143",
+      "hash": "9F6B2FEE2B0795BE",
+      "target": "Te aseguro que no nos pasará nada. <split(<string(gstr1)>, ,1)> se encargará de ello."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_144",
+      "hash": "5B2982B93CCE33F7",
+      "target": "Entiendo que tus métodos pueden ser expeditivos, pero convendría contenerse un poco, no vaya a ser que acabes al otro lado de la ley. Quizá debería acompañarte, para asegurarme de que todo va como debe."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_145",
+      "hash": "6B7D7BD7ABB8C87F",
+      "target": "No sé qué decir... Ahora entiendo por qué Wuk Lamat confía tanto en ustedes dos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_146",
+      "hash": "2704DDF32EC5C46B",
+      "target": "Antes de nada, acompañémosla de vuelta a los Manantiales de Sheshenewezi. Estará más segura en el pueblo, y con Iyaate pendiente de ella no habrá de qué preocuparse."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_NAMIKKA_000_147",
+      "hash": "6BB8D1E27D096780",
+      "target": "Gracias. A los dos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_150",
+      "hash": "292F3CF1AF77D261",
+      "target": "No hay de qué preocuparse. Está bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_160",
+      "hash": "42A7AAAD95F08C4A",
+      "target": "Erenville me ha contado lo que ha pasado, y no tienes que preocuparte por Namikka. Si esos bandidos nos encuentran, montaré tal escándalo que saldrán corriendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_161",
+      "hash": "88C738F6F469502B",
+      "target": "Ese brazalete lo era todo para ella, y a esos desgraciados les daría igual saberlo. Me revuelve el estómago."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_IYAATE_000_162",
+      "hash": "E5969B65B9D3AE3B",
+      "target": "Pero al menos ella está a salvo, y sé que tú lo arreglarás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd102_04913#TEXT_KINGMD102_04913_ERENVILLE_000_165",
+      "hash": "48148D2125ADA5A6",
+      "target": "En la ciudad hay unos cuantos compañeros mineros de Iyaate. Namikka está en buenas manos."
+    }
+  ]
+}

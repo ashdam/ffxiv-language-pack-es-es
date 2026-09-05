@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/046/FesHlw802_04656",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_SEQ_00", "hash": "FC14C2E90A118E84", "target": "La científica errante no es de las que gusten de que las hagan esperar.<br><br>※Esta misión solo está disponible durante un tiempo limitado." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_SEQ_01", "hash": "E0E3CA82F7C50111", "target": "Como agradecimiento por haber frustrado el plan de Papa Gruff, la científica errante desea invitarte a un lugar especial. Te pide que hables con el guía insólito que tiene al lado si deseas descubrir su sorpresa.<br><br>※Ten en cuenta que no podrás completar esta misión una vez terminado el evento de temporada. Para más detalles, consulta el Lodestone." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_SEQ_02", "hash": "C8B87D4B03EAC161", "target": "Sigues al guía hasta un lugar inquietante y del todo desconocido. Quizá la científica errante esté cerca para explicarte dónde estás y qué sorpresa te tiene reservada." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_SEQ_03", "hash": "A2FE9AD0015FC461", "target": "Abandonado de nuevo su disfraz de científica errante, la aparición con cabeza de calabaza ha revelado que este misterioso lugar —la mismísima sorpresa que te tenía reservada— es, en realidad, su hogar. Por inquietante que sea su morada, te ha invitado gentilmente a quedarte todo el tiempo que quieras. Quizá esté dispuesta a contarte más sobre sí misma, si decides quedarte un rato." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_TODO_00", "hash": "61E32AE631D29A17", "target": "Hablar con el guía insólito" },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_TODO_01", "hash": "688060EE2E15C00C", "target": "Hablar con la aparición con cabeza de calabaza" },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_001", "hash": "71CA2A8F991C7B3F", "target": "Vaya, así que recordaste mi petición. Me complace." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_002", "hash": "A8516332DFDA5165", "target": "Como te mencioné antes, hay un lugar al que me gustaría llevarte, aunque me temo que no es de fácil acceso. Cuando estés list<if(gnum4,a,o)> para partir, habla con el guía de aquí y él te escoltará." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_003", "hash": "ACC09470BA44DD31", "target": "Si esperas que te revele la sorpresa aquí y ahora, estás muy equivocad<if(gnum4,a,o)>. Ve, habla con el guía." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_MYSTERIOUSGUIDE04656_000_010", "hash": "192C5A0910865061", "target": "¡Ah, usted debe de ser <if(gnum4,la invitada,el invitado)> de honor! Si le place, le escoltaré de inmediato." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_Q0_000_000", "hash": "3189EA78D0DF48F7", "target": "¿Dejar que el guía insólito te escolte?" },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_100_011", "hash": "B9041905D48BAB7E", "target": "Me adelantaré para hacer los preparativos necesarios para recibirte. No te alarmes por lo que veas, criatura... je, je, je..." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_MYSTERIOUSGUIDE04656_000_011", "hash": "B4C13EC9B17BBC47", "target": "¡No iremos muy rezagados! Ahora, si tiene la bondad de seguirme." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_MYSTERIOUSGUIDE04656_000_012", "hash": "964DFA4B20B54C0F", "target": "Vaya, ¿se perdió por el camino? No importa, con gusto le escoltaré de nuevo." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_020", "hash": "F7A566846C4D987B", "target": "Bienvenid<if(gnum4,a,o)> a mi humilde morada." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_021", "hash": "A63F9318F08608A9", "target": "¿Te sorprende ver que tengo un hogar propio? Hasta la Gran Calabaza necesita un lugar donde reposar la cabeza." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_022", "hash": "36750F5C4F35EF54", "target": "Nunca antes había invitado a un mortal a mi hogar. Considéralo mi muestra de agradecimiento por haber velado por que la Vigilia de Todos los Santos pudiera celebrarse este año sin trabas." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_023", "hash": "C5C71C7D936754E8", "target": "Nunca antes había invitado a un mortal a mi hogar. Considéralo mi manera de darte las gracias por haber velado por que la Vigilia de Todos los Santos pueda celebrarse año tras año sin trabas." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_024", "hash": "84AE24222CC776C1", "target": "Puedes ponerte cómod<if(gnum4,a,o)> y quedarte todo el tiempo que quieras." },
+    { "gameKey": "quest/046/FesHlw802_04656#TEXT_FESHLW802_04656_PUMPKIN_000_025", "hash": "3E32FFB90D356C05", "target": "Si te preocupa Papa Gruff, no lo hagas. Él y yo hemos llegado a un entendimiento. Algunos niños simplemente tienen que aprender por las malas... je, je, je..." }
+  ]
+}

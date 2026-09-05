@@ -1,0 +1,625 @@
+{
+  "conversation": "quest/048/KinGmb103_04882",
+  "questName": "The Feat of Pots",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_SEQ_00", "hash": "BE614A2BEBA03431", "target": "Koana tiene detalles que compartir sobre la inminente Prueba de las Vasijas." },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_TODO_00", "hash": "47F835C9E1B8759B", "target": "Hablar con Rediroq" },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_TODO_01", "hash": "A0A5712767BDD69E", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_TODO_02", "hash": "15B720F287584645", "target": "Hablar con Ropli" },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_TODO_03", "hash": "FECC7AFE76F0698E", "target": "Hablar con Fonjeantaine" },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_TODO_04", "hash": "1917E9EDABB99C47", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_001",
+      "hash": "5225D8BFF5EE1A2F",
+      "target": "Probé una ración del plato que preparamos para Kaahe. ¡Estaba tan bueno que repetí!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_RAKOROK_000_002",
+      "hash": "419E061EC52FA040",
+      "target": "Ffff... Ffffkooo... ¡Rakorok se encargará de que la lustrosa lámpara de aceite del juravasijas Kaahe llegue al palacio de inmediato!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KOANA_000_003",
+      "hash": "86EBFA718347133F",
+      "target": "La electora manda a los aspirantes reunirse en el edificio grande del lado oeste de la aldea. Yo iré tras encontrar a Thancred y a Urianger."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KOANA_000_004",
+      "hash": "14F30BC325C30A6C",
+      "target": "Ah, también me crucé con los gemelos Leveilleur de camino. Me tomé la libertad de indicarles el lugar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_005",
+      "hash": "613505638BF29910",
+      "target": "Somos rivales. No es su trabajo asegurarse de que sepa que empieza la prueba. Pero, aun así, es concienzudo hasta el defecto..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_006",
+      "hash": "98FA410244FDBD41",
+      "target": "En fin, ¡no hagamos esperar a Rediroq!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_RAKOROK_100_006",
+      "hash": "E2A7899300D8A3F3",
+      "target": "Ffff... Ffffkooo... ¡Rakorok agradece que el juravasijas Kaahe no dejamarchara como los demás! ¡Cree que no tendréis malosratos con la prueba que viene!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_007",
+      "hash": "D82237F4F55460A7",
+      "target": "Pensaba que a estas alturas ya estarían todos aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_010",
+      "hash": "D803D674F9E37C7F",
+      "target": "Ffff... Ffffkooo... ¡Rediroq os agradece haber asistido a la manoayuda Rakorok!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_011",
+      "hash": "373DAEF8E4A16782",
+      "target": "Anunciará la prueba en cuanto lleguen los demás aspirantes, así que tened paciencia un poquito más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_020",
+      "hash": "07C35087EA4AE6B2",
+      "target": "Me complace informar de que logramos convencer a uno de los juravasijas para que se quedara. ¿Cómo os ha ido a vosotros?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_021",
+      "hash": "4DB9623559BE91F8",
+      "target": "Así que conseguisteis lo mismo. Espléndido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_MOBLINEXPED04882_000_022",
+      "hash": "87075760871FDE0A",
+      "target": "Ffffkooo... ¡Bienvenido a Earthenshire, Primera Promesa! ¡Apoyamos vuestros planes de travesías de la sal y los nuevos juravasijas que traerán!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_MOBLINEMOTION04882_000_023",
+      "hash": "EB45474B12132052",
+      "target": "¡Salve el poderoso Zoraal Ja! ¡Despejó montones de desprendimientos como si fueran guijapiedras! ¡El Hijo Resiliente para Servidor del Alba!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_THANCRED_000_024",
+      "hash": "70694993EC18B2F9",
+      "target": "¿Zoraal Ja despejando rocas caídas? Me sorprende que dedicara su tiempo a algo ajeno a la contienda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_025",
+      "hash": "C57CC58DFDE280EA",
+      "target": "Vaya, vaya, nos volvemos a ver."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALISAIE_000_026",
+      "hash": "CFD3D37980F47667",
+      "target": "Justo a tiempo para que empiece la prueba. Apuesto a que ya estaba aquí, agazapado mientras los demás hacíamos todo el trabajo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_027",
+      "hash": "EAC787C8F833A91E",
+      "target": "Ffff... Ffffkooo... ¡Aspirantes, atención, por favor!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_028",
+      "hash": "AB9F903EBBEFA24E",
+      "target": "Como Rediroq ha explicado, muchos de nuestros juravasijas nos dejaron tras la tormenta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_029",
+      "hash": "72A4307EA9895E8C",
+      "target": "¡La preciosa orfebrería que labran esos artesanos trae mucho tintinbrillo de allende la sal! ¡Si se seca nuestro chorro de mercancías, Earthenshire sufrirá! ¡Los mercaderes de Tuliyollal sufrirán!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_030",
+      "hash": "D60AFF96A96A4D32",
+      "target": "¡Así que Rediroq os pone esta prueba: cada uno de vosotros ha de encontrar a un orfebre manohábil y traerlo aquí con nosotros!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_031",
+      "hash": "B5577C7149F5D9DD",
+      "target": "Así que tenemos que reclutar juravasijas nuevos. Tiene sentido para la Prueba de las Vasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_SAREELJA_000_032",
+      "hash": "6DDBBA2E6E109D25",
+      "target": "Llamar a esto “prueba” no justifica aprovecharse de los aspirantes y de su influencia. ¿Cómo demuestra su valía para el trono el buscaros trabajadores?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_033",
+      "hash": "BE6A27EAEE6399AC",
+      "target": "Sois libres de rechazar la petición de Rediroq. ¡Ella informará encantada al Servidor del Alba de la descalificación de Zoraal Ja!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ZORAALJA_000_034",
+      "hash": "9F55713B7E7F2040",
+      "target": "El rito es un medio para un fin. Los pasos que demos para llegar allí no importan."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_REDIROQ_000_035",
+      "hash": "7195B5B767647C76",
+      "target": "¡Entonces Rediroq declara comenzada la Prueba de las Vasijas! Pero recordad: un pactovasija ha de aceptarse de buen grado. ¡Nada de arrebatapillar ni de aleteos de lengua engañosos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_036",
+      "hash": "1E6972C6197E22C8",
+      "target": "La electora no dijo nada de quitarle a un rival un artesano dispuesto..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_037",
+      "hash": "E596BA49B2D9CBBC",
+      "target": "...que es exactamente lo que deberíamos hacer."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_038",
+      "hash": "622D52A1CEFE12C0",
+      "target": "¡Jehehehe!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_039",
+      "hash": "9D0E0C5182F1EF25",
+      "target": "¡Buena sugerencia, hermano!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BAKOOLJAJA_000_040",
+      "hash": "6D52F660F2BE8080",
+      "target": "Me alegra que te lo parezca, hermano. ¡Venga, tracemos nuestros planes!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALISAIE_000_041",
+      "hash": "60BC2CC29328021D",
+      "target": "Ese bruto asqueroso trama algo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_042",
+      "hash": "C0E529DD1915319D",
+      "target": "Sí, puede que busque retrasarnos otra vez, como en el río. No nos queda más que seguir alerta mientras trazamos el rumbo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KRILE_000_043",
+      "hash": "66979E47E41B2E1B",
+      "target": "¿Qué opinas, Wuk Lamat? ¿Tienes algún candidato en mente para satisfacer esta prueba?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_044",
+      "hash": "B691DF08E8F3F1BB",
+      "target": "Conozco a algunos artesanos entre mis partidarios, pero todos están en el ocaso de sus años."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_045",
+      "hash": "7A5D0DB03A7FF9F1",
+      "target": "No podría pedirles que renuncien a las comodidades de Tuliyollal para vivir en esta aldea remota, por bonito que sea el paisaje."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_046",
+      "hash": "83A665F9CDB03088",
+      "target": "Mientras, Koana tendrá cien artesanos jóvenes entre los que elegir..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_047",
+      "hash": "A80EFC5CBA3C70A3",
+      "target": "¡No es que nos esté comparando, entendedme! Es una simple constatación."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_048",
+      "hash": "AF98D102AFA7BB11",
+      "target": "Mmm. Supongo que podríamos preguntar por Wachumeqimeqi..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_049",
+      "hash": "0C8635DE559A5D18",
+      "target": "Parece un punto de partida lógico. ¡De vuelta a Tuliyollal, pues!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_050",
+      "hash": "A42389119193763C",
+      "target": "Espera... ¿Eso significa que hay que coger el barco otra vez?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_051",
+      "hash": "A64770B7ACCC4B85",
+      "target": "¡No, no, no! ¡No puedo! ¡No aguanto otro viaje en barco!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_100_051",
+      "hash": "D78787A328BB6AC5",
+      "target": "Dijisteis que compartiera mis cargas, así que hablaré claro."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_200_051",
+      "hash": "591B846F4FF29174",
+      "target": "La verdad es que..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_300_051",
+      "hash": "5982C26EF86D85AE",
+      "target": "...me mareo <italic(1)>muchísimo<italic(0)> en los barcos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ERENVILLE_200_051",
+      "hash": "05D15DEEDE2DDA41",
+      "target": "Wuk Lamat, eso no es ninguna novedad..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KRILE_000_052",
+      "hash": "83AE0E4A0F1E3092",
+      "target": "Pero fue valiente admitirlo. En todo caso, ¡esta vez no lucharemos contra la corriente! Río abajo será mucho más suave."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_053",
+      "hash": "45EE7030E2B6558C",
+      "target": "¿Ah, sí? ¿Seguro...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KRILE_000_054",
+      "hash": "7E3CC1139EFD97AD",
+      "target": "¡Segurísima! ...Casi."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ERENVILLE_100_055",
+      "hash": "31BDC6E44CF42077",
+      "target": "He conseguido muchos objetos raros para mis clientes, pero atender las necesidades personalizadas de un juravasijas no es una experiencia que quiera repetir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KRILE_200_055",
+      "hash": "FA5B941319C54CA7",
+      "target": "Wuk Lamat sufre unos mareos terribles. Ojalá tuviera un hechizo o una poción que le aliviara las náuseas..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_300_055",
+      "hash": "D7970F39A2885E29",
+      "target": "¿Mencionamos que el juravasijas a nuestro cargo necesitaba un flujo constante de ánimos para poder crear?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_400_055",
+      "hash": "8F06D5A7D37E7C43",
+      "target": "Los cuatro debimos de corear la misma consigna docenas, si no cientos, de veces. A Erenville lo riñeron más de una vez por no animar bastante alto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALISAIE_500_055",
+      "hash": "D22A5D6AF6C75806",
+      "target": "¿Qué obstáculo nos lanzará Bakool Ja Ja ahora? ¿O probará con algo más directo...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_055",
+      "hash": "D2102F641AB97B56",
+      "target": "Uf... Dadme un momento... Río arriba o río abajo, el Ihuykatumu es demasiado bravo para mí..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_056",
+      "hash": "0E834D0E09333891",
+      "target": "Las náuseas se llevan algo mejor ahora que he dejado de ocultarlas, pero aun así preferiría no poner pie en un barco si puedo evitarlo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_00_057",
+      "hash": "7C3B4500603B39D5",
+      "target": "Vale... creo que estoy lista. Veamos si el maestro Ropli puede ayudarnos a reclutar un juravasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_060",
+      "hash": "8A96CCB5CC566541",
+      "target": "Uf... El aire fresco del puerto era justo lo que necesitaba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ERENVILLE_000_061",
+      "hash": "979603D9A86AE18B",
+      "target": "Wachumeqimeqi es punto de reunión de artesanos hábiles de toda clase. Si hemos de encontrar un candidato a juravasijas, no se me ocurre mejor sitio para empezar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_KRILE_000_062",
+      "hash": "E0E6D3C0A23A3AF0",
+      "target": "Así que este es el Wachumeqimeqi del que hablaba Wuk Lamat. Aún no había llegado tan lejos en mis paseos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_063",
+      "hash": "B5A1ADEC1DD613BC",
+      "target": "Erenville nos trajo aquí en nuestra primera vuelta por la ciudad, pero el tiempo no dio para mirarlo de cerca. Me gustaría observar a estos maestros trabajando."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALISAIE_000_064",
+      "hash": "E8A75AC78C686E49",
+      "target": "Seguro que al menos una persona responderá a la llamada de Wuk Lamat. Quizá el maestro Ropli pueda ayudarnos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_066",
+      "hash": "4B00B512CF725BE1",
+      "target": "Saludos, Tercera Promesa. ¿Qué os trae de vuelta a Wachumeqimeqi? No habréis vuelto a mellar el hacha, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_067",
+      "hash": "790AC016F0F3C706",
+      "target": "No, maestro Ropli. En realidad, tengo un favor que pedir..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_068",
+      "hash": "DE03CD4F9388D276",
+      "target": "¿Y bien, qué te parece? ¿Conoces a algún artesano al que pudiera interesarle?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_070",
+      "hash": "9756254DE309827B",
+      "target": "Conque birlarme artesanos para los Moblin, ¿eh? Bueno, siendo la Tercera Promesa quien lo pide, estoy dispuesto a mirar hacia otro lado si alguno decide aceptar la oferta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_071",
+      "hash": "BC612D02AE900892",
+      "target": "Solo que no se me ocurre así de pronto un candidato adecuado. ¿A quién conozco con dominio de la orfebrería y que además no tenga reparos en mudarse a Earthenshire...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_Q1_000_000",
+      "hash": "B9D61E83872E3601",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_A1_000_001",
+      "hash": "7B702E34101A238B",
+      "target": "Ese orfebre eorzeo... ¿Qué hay de él?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_A1_000_002",
+      "hash": "90B224DA8FB4A025",
+      "target": "¿Y el Elezen que acaba de empezar a trabajar aquí...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_073",
+      "hash": "61774E9B4FE20D49",
+      "target": "¿Te refieres a Fonjeantaine? Sí que dijo que trabajaba en una joyería fina de allende la sal."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_074",
+      "hash": "927FAF3AA2B92F29",
+      "target": "Y, viendo lo lejos que ha venido ya, quiero pensar que no le importaría subir un poco el río."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_075",
+      "hash": "5C22173BFD42DCFC",
+      "target": "Dicho eso, acaba de conseguir empleo nuevo. ¿No es demasiado pronto para pedirle que firme un pactovasija?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ERENVILLE_000_076",
+      "hash": "CBFF2F1881053701",
+      "target": "No se pierde nada por ofrecérselo. Cuando oiga lo bien que se trata a los juravasijas, quizá hasta salte a por la ocasión."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_077",
+      "hash": "DBD4DDBB76A5317F",
+      "target": "Sea como sea, a estas horas no encontraréis a Fonjeantaine en su banco de trabajo. Ya ha acabado por hoy. Estará disfrutando de una comida en Xbalyav Ty'e."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_078",
+      "hash": "EAE6F1A7A1F1BA8F",
+      "target": "Pues quizá deberíamos ir a hablar con él. Solo tú y yo, que nos conoce. No querría que se sintiera intimidado teniendo que vérselas con un montón de caras nuevas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_079",
+      "hash": "7F665C1E2392D6A6",
+      "target": "Los dos nos apañamos. Descansad en las cabañas, si queréis."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_080",
+      "hash": "E23CC2F932E5EEB9",
+      "target": "¡Venga! ¡Vamos a hablar de vasijas con un hombre!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_090",
+      "hash": "2CB66C74133C888E",
+      "target": "Uf, sigo sin tenerlo claro..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_100_090",
+      "hash": "5056AAA10E156ACD",
+      "target": "Cuando Fonjeantaine llegó, las costumbres de nuestra ciudad le resultaban nuevas y confusas. Tiene gracia lo rápido que se acostumbra uno a las cosas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_091",
+      "hash": "C8E359E3E6223621",
+      "target": "Ah, <split(<string(gstr1)>, ,1)>, usted también está aquí. La Tercera Promesa dijo que quería charlar. Acabo de comer, así que ¿buscamos un sitio tranquilo fuera?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_092",
+      "hash": "997580E6C2CFFCA9",
+      "target": "La última vez que hablamos en esta playa estabas hecho un desastre."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_093",
+      "hash": "486A271E4C5A78E8",
+      "target": "Ajajaja, sí, ¿verdad? Un alma perdida... Hasta que aparecisteis los dos y me ayudasteis a redescubrir mi propósito."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_094",
+      "hash": "D22574F675E6F9AD",
+      "target": "Mi nuevo lugar de trabajo ha sido de lo más acogedor y, por primera vez en mucho tiempo, me siento conforme con mi suerte."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_095",
+      "hash": "2E90A4A9804F8949",
+      "target": "Eso es maravilloso."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_096",
+      "hash": "01CB8F637C9521E0",
+      "target": "Bueno, ¿de qué queríais hablar?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_097",
+      "hash": "E94C8EACC233E22F",
+      "target": "Verás, cuesta pedir esto justo cuando te acabas de asentar... pero busco a alguien que se haga juravasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_098",
+      "hash": "3712F1BF4C519340",
+      "target": "Ah, he oído el término a mis nuevos compañeros. Es cuando un artesano firma un contrato para trabajar para los Moblin, ¿no? Pero... usted no es Moblin. No estoy seguro de entenderlo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_099",
+      "hash": "0BCE82621BCD388B",
+      "target": "Es por una prueba del rito de sucesión. Tengo que llevar un juravasijas nuevo a Earthenshire."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_100",
+      "hash": "EFCE413DF5B21401",
+      "target": "Así que es eso."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_101",
+      "hash": "CCD1F5FBC91FD89E",
+      "target": "Apenas nos conocemos y, después de empujarte a trabajar en Wachumeqimeqi, ahora te exijo que lo tires todo y firmes un pactovasija. Es una petición egoísta, lo sé."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_102",
+      "hash": "EDFDF6FBA33BCDB5",
+      "target": "Tengo algo que deciros, Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_103",
+      "hash": "D325C8A9A2EBB03A",
+      "target": "El otro día completé los trámites necesarios para la inmigración. Me complace decir que ya soy súbdito oficial de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_104",
+      "hash": "59C8F86B9A8BDE27",
+      "target": "Desde entonces me he esforzado por conocer lo que pueda de mi nueva nación, empezando por el rito de sucesión y sus aspirantes, vos incluida, por supuesto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_105",
+      "hash": "9F7E51D674034C05",
+      "target": "Recordaréis que fue el ejemplo de mi padre lo que me llevó a la orfebrería."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_106",
+      "hash": "137B14858181FF2A",
+      "target": "Estaba en los Confines Orientales cuando las fuerzas garleanas sitiaron el asentamiento. Y, en el caos que siguió, lo mataron."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_107",
+      "hash": "FBEE864EDA6083EC",
+      "target": "La guerra me lo arrebató en un instante. El hombre al que quería y admiraba. No deseo volver a sufrir jamás una pérdida así..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_108",
+      "hash": "E0F7F5838667CC82",
+      "target": "Y por eso, por mucho que os deba haberme dado la vuelta a la vida, es como tuliyollano amante de la paz como quiero que ganéis el trono."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_109",
+      "hash": "9DBB32F4B2C27917",
+      "target": "Si puedo ayudaros a lograrlo firmando un pactovasija, lo haré con mucho gusto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_110",
+      "hash": "0AF3B0871D5BF54E",
+      "target": "Fonjeantaine... Gracias."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_111",
+      "hash": "FBD33552D27FC65E",
+      "target": "Volveré con el maestro Ropli y le informaré de mi decisión."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_112",
+      "hash": "4A610DFEA1980004",
+      "target": "Permíteme. Soy la razón de que te vayas, así que debería ser yo quien dé la noticia."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BRUKEVU_100_113",
+      "hash": "335A481184E28EEC",
+      "target": "¿Quizá me recuerdas? Br'uk Evu, dueño de Xbalyav Ty'e. Me gustaría hablar contigo, si no te importa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BRUKEVU_000_113",
+      "hash": "B8CA19132565C4D0",
+      "target": "Eres <if(gnum4,la aliada,el aliado)> de Wuk Lamat de allende la sal, ¿verdad? Y <if(gnum4,una heroína,un héroe)> de cierta fama, además, si hay que creer los rumores."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BRUKEVU_000_114",
+      "hash": "5BCDF26E65C8354C",
+      "target": "Pues resulta que me vendría bien una ayuda heroica. No hace falta que sea ahora mismo, pero ¿podrías pasarte cuando tengas un rato libre?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_BRUKEVU_000_115",
+      "hash": "6D502A614CD39DD9",
+      "target": "¡Muy agradecido! Te espero en mi local, entonces."
+    },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_SYSTEM_000_116", "hash": "1ABC599DBC249798", "target": "¡Ya puedes acceder a las misiones de rol! Habla con Br'uk Evu en Xbalyav Ty'e y emprende nuevas aventuras a medida que avanzas en el rito de sucesión." },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_120",
+      "hash": "5F5A0CDAC1D08493",
+      "target": "Veo que lograsteis encontrar a Fonjeantaine."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_121",
+      "hash": "E9625548B4A12FAD",
+      "target": "Parece desagradecido marcharme tan pronto después de que el maestro Ropli me diera empleo, pero seguro que lo entiende... ¡Lo hago por el futuro de Tuliyollal!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_122",
+      "hash": "078C7D952D336DB6",
+      "target": "Maestro Ropli. Siento tener que decirte esto, pero, eh..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_123",
+      "hash": "6AB2B9FDADE48D3C",
+      "target": "Fonjeantaine ha aceptado firmar el pactovasija, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_124",
+      "hash": "656BBFE936F6F628",
+      "target": "Aunque es una lástima perder a un orfebre capaz, que uno de los nuestros haya sido elegido a dedo para servir a la Tercera Promesa es un gran honor para Wachumeqimeqi."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_125",
+      "hash": "7AE39E9AFA6B402C",
+      "target": "Te agradezco la comprensión."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_126",
+      "hash": "AB2017988F43989C",
+      "target": "Por supuesto, si conocéis a otros artesanos con talento, sea cual sea su especialidad, espero que me los mandéis."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_100_126",
+      "hash": "1D097A35930941CE",
+      "target": "Podrías ser tú mismo, si te apetece."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_127",
+      "hash": "F2AF8F810FA7342C",
+      "target": "Lo tendré en cuenta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_128",
+      "hash": "9D6E65B369369F50",
+      "target": "Aunque mi tiempo aquí fue breve, no olvidaré vuestra amabilidad, maestro Ropli. Soy afortunado de que estos talleres hayan sido mi primer hogar en Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ROPLI_000_129",
+      "hash": "9E021300B2F1448F",
+      "target": "Vuelve con nosotros si los Moblin te sueltan. Siempre tendrás trabajo en Wachumeqimeqi."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_FONJEANTAINE_000_130",
+      "hash": "908B805CD9E4EEFD",
+      "target": "Imagino que querréis salir hacia Earthenshire cuanto antes. Voy a recoger mis cosas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_131",
+      "hash": "A366DD6491538624",
+      "target": "¿Qué ha sido de Fonjeantaine? ¿Pudisteis encontrarlo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_132",
+      "hash": "265BB386772A49B4",
+      "target": "Sí, y ha aceptado hacerse juravasijas. Saldremos cuando esté listo, así que aún tenéis un rato."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_133",
+      "hash": "10A6C8482583EDCB",
+      "target": "Espléndido. Nos vemos en breve."
+    },
+    {
+      "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_WUKLAMAT_000_134",
+      "hash": "E751B696194CD3BA",
+      "target": "Tenía razones de sobra para ganar la contienda, pero ahora tengo una más. Fonjeantaine deposita su fe en mí, ¡y no pienso fallarle!"
+    },
+    { "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_SYSTEM_000_135", "hash": "A86C358E32C47B8A", "target": "Ya puedes desbloquear las entregas de Wachumeqimeqi. Habla con Ropli y emprende nuevas tareas a medida que avanzas en el rito de sucesión." }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/034/LucKze016_03450",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_SEQ_00", "hash": "F2ED516A8F167995", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Ersabel te mira con expectación, y eso solo puede significar una cosa." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_00", "hash": "1D1C33BBF158D44F", "target": "Usar el néctar empalagoso en el lugar señalado y abatir al snapmint para obtener sus hojas" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_TODO_01", "hash": "1EA3F5E6A592FEDE", "target": "Entregar las hojas de snapmint a Ersabel" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_001", "hash": "39493D5959B8BC06", "target": "Disculpa, <if(gnum4,señorita,señor)>, pero ¿podría pedirte ayuda con los preparativos de <if([gnum11<12],<if([gnum11<4],la comida,la cena)>,<if([gnum11<17],la cena,la comida)>)>?" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_002", "hash": "B91004E8B3E71D18", "target": "Gracias. Necesito una hierba bastante peculiar, pero me temo que no soy la más indicada para recogerla yo misma." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_003", "hash": "D1B9061FF9EE6A89", "target": "Crece sobre los snapmint, ¿ves? Su camuflaje los hace difíciles de encontrar y, aun si diera con ellos, seguramente me devorarían antes de poder arrancarles siquiera una hoja del lomo." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_004", "hash": "F421C69C8A621ADF", "target": "Toma este néctar y espárcelo por los campos del norte. Cuando salgan de su escondite, será tu ocasión para atacar." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_005", "hash": "F5EA0A1AF9172E6C", "target": "En cuanto capten el aroma del néctar, se verán obligados a mostrarse. Esa será tu ocasión para atacar." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_020", "hash": "D831F50921385A2A", "target": "¿Pudiste encontrar algún snapmint?" },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_021", "hash": "D50B1AF4BAC7B605", "target": "Cielos, qué hojas tan grandes. Gracias." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_022", "hash": "CCBCDF76CF10BA3D", "target": "Sin esto jamás podría cocinar mi prahok." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_023", "hash": "2E65B7E3292D6227", "target": "¿Conoces este plato? Tras poner a secar el pescado, se sala y se fermenta. Cuando está listo, se mezcla con la carne asada que prefieras y se envuelve en hojas de snapmint." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_024", "hash": "AC161EBD02C93321", "target": "Se conserva muy bien, así que lo comemos a menudo. Aunque la receta es sencilla, puedes añadir toda clase de hierbas y especias a tu gusto." },
+    { "gameKey": "quest/034/LucKze016_03450#TEXT_LUCKZE016_03450_ERSABEL_000_025", "hash": "142596640A38F7D7", "target": "Si tienes ocasión, insisto en que lo pruebes tú <if(gnum4,misma,mismo)>." }
+  ]
+}

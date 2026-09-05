@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb315_00856",
+  "questName": "As You Wish",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_00", "hash": "7961D01E2B02C23D", "target": "Wheiskaet por fin tiene intención de revelarte cómo enfrentarte a Titán esta vez." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_01", "hash": "AF7488F0B47AD8DB", "target": "Para enfrentarse a Titán, Wheiskaet te pide que viajes al Lago de Bronce, en las Tierras Altas de La Noscea, donde debes reunirte con un hombre llamado Riol. Como el saber de Riol es un secreto celosamente guardado, no saldrá siquiera a recibirte hasta que le des la señal correcta. Silba con fuerza en los tres puntos marcados en tu mapa." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_02", "hash": "C8F063DB1C4A0864", "target": "Tu silbido resuena a lo largo de malms por todo el Lago de Bronce, y no tienes motivo para creer que Riol no lo haya oído. Ve al punto de encuentro señalado y habla con Riol si está presente." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_SEQ_03", "hash": "4799D78B20124142", "target": "Antes de comenzar su explicación, Riol te pide toda tu atención, pues no desea repetirse. Cuando estés <if(gnum4,lista,listo)> para escuchar con atención, pídele que continúe." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_00", "hash": "A895C09BEFA214F7", "target": "Silbar con fuerza en los puntos indicados" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_TODO_01", "hash": "93EF0DCB9E6482E7", "target": "Hablar con Riol" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_000", "hash": "684F0B95883D9671", "target": "Debes de estar deseando enfrentarte a Titán. Como prometí, te mostraremos el camino." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_001", "hash": "8B04A19B3757DF6B", "target": "Viaja al Lago de Bronce, en las Tierras Altas de La Noscea. Allí te reunirás con Riol, otro hombre que sirvió en su día en la Compañía." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_002", "hash": "F87C9C98C76E392B", "target": "Para asegurarse de que este saber no caiga en malas manos, permanecerá oculto hasta que le des la señal correcta." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_WHEISKAET_000_003", "hash": "DBA0E7D612415D62", "target": "Dame tu mapa. Debes silbar con fuerza en los tres puntos que voy a marcar. Solo entonces aparecerá para recibirte en este cuarto punto. Sé que ahora puede parecer excesivo, pero verás que es más que razonable en cuanto comprendas los riesgos que entraña nuestro método." },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_020", "hash": "D55F8C7FB72C8ACD", "target": "Saludos, <if(gnum4,muchacha,amigo)>. ¿Serás tú de quien el capi dijo que vendría a buscarme?" },
+    { "gameKey": "quest/008/GaiUsb315_00856#TEXT_GAIUSB315_00856_RIOL_000_021", "hash": "CAB8A8A82D25F21E", "target": "Sí, ya me lo imaginaba. Presta atención, que no voy a explicarme dos veces." }
+  ]
+}

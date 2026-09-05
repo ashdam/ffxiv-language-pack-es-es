@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/012/BanSyl107_01263",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_00", "hash": "CFA1249F8B5CD113", "target": "Unos visitantes indeseados del bosque tienen a Tonaxia intranquila." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_01", "hash": "F05F1159686E44C3", "target": "Aterradores «seres de acero» (soldados imperiales) merodean por el bosque, y Tonaxia teme por la seguridad de su pueblo. Tras proveerte de armas arrojadizas improvisadas capaces de desatar un hedor obscenamente repugnante, te pide que ahuyentes a los intrusos." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_02", "hash": "CD0F0E8E31597D4D", "target": "Te has ocupado de la amenaza garlemaldesa. Asegura a Tonaxia que los seres de acero no volverán a molestar a su pueblo." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_SEQ_03", "hash": "18EA3CCE26D9CC88", "target": "Tonaxia está profundamente impresionada por tu fuerza y generosidad. Derramando una lágrima por los amigos que ya ha perdido a manos de los garleanos y su temible armamento, se anima no obstante al saber que el peligro ha sido sofocado por el momento." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TODO_00", "hash": "DEC43E7D9D36AEB2", "target": "<if([lnum1<lnum3],Usar morbol bilebombs contra los soldados imperiales y derrotar a los refuerzos que aparezcan,Usar un morbol bilebomb contra el último soldado imperial y derrotar a los refuerzos que aparezcan)>" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TODO_01", "hash": "6F9DE083EE639352", "target": "Informar a Tonaxia" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_000", "hash": "9D33CDDD877D457B", "target": "¡Unos de acero que dan miedo han venido al bosque, pisoteando flores y partiendo árboles!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_001", "hash": "3239EC415B62EFED", "target": "El bosque no es lugar para los de acero, ¡pero estos no tienen fuerza para enfrentarse a esos de acero, fuertes y que dan miedo! ¿Ahuyentará el caminante a los de acero?" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_002", "hash": "D9C72685C7A4166E", "target": "Este puede ayudar. Este hizo bombas apestosas con el jugo apestoso del bocazas. Cualquiera que tenga nariz huirá del hedor, de eso este está seguro." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_003", "hash": "1954CB094DCA6963", "target": "El caminante debe lanzar una bomba apestosa a todo de acero que el caminante vea... ¡pero cuidado! ¡Los de acero fuertes pueden contraatacar!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_010", "hash": "6B74830CB400FAE3", "target": "¡El caminante debe encontrar a los de acero y luego usar las bombas de jugo apestoso para echarlos del hogar de estos!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_IMPERIALA_000_015", "hash": "4FB2231FA7D8E50C", "target": "¡Por los siete infiernos! ¡¿Qué es esta pestilencia?!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_IMPERIALB_000_016", "hash": "2C6B450F4ADC7CC7", "target": "¿Quién anda a─<italic(1)>hurk<italic(0)>... ¡Aaaarggghhh!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_IMPERIALC_000_017", "hash": "33A2816D2812D615", "target": "¿Acaba un molbol de vaciar sus tripas? Me siento mal..." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_IMPERIALD_000_018", "hash": "FB7F94B4FBB0093F", "target": "¡Bah, anoche bebí bazofia peor que esto! ¡No escaparás con vida!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_020", "hash": "BA2BF37DB5D887D8", "target": "¿Los de acero se han ido del bosque? ¡Este no cabe en sí de gratitud!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_021", "hash": "AA96509AE1F94653", "target": "¿El de acero trajo a un gigante lleno de pinchos? Este ha perdido a muchos amigos por culpa de esos. Este está asustado." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_TONAXIA_000_022", "hash": "86A3F51F6C14FE71", "target": "Este tiene la suerte de contar con un amigo fuerte como el caminante. Prométele a este que el fuerte se quedará y mantendrá a salvo a estos." },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE", "hash": "176A49648B373785", "target": "¡El soldado imperial ha invocado a un magitek vanguard!" },
+    { "gameKey": "quest/012/BanSyl107_01263#TEXT_BANSYL107_01263_POP_MESSAGE_000_000", "hash": "9F6C90C50B69FA2C", "target": "¡El enemigo aún ronda por aquí!" }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "conversation": "quest/048/KinGmb105_04884",
+  "questName": "The Shape of Peace",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SEQ_00", "hash": "3592307F61A2818C", "target": "Wuk Lamat cree que es hora de reunir a sus aliados para el camino que tenéis por delante." },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_00", "hash": "3724AF3D9CB6798B", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_01", "hash": "3F1299F2D844894B", "target": "Viajar a Kozama'uka" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_02", "hash": "24D124EAF9C7201E", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_03", "hash": "8C2EBF5A44094D07", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_04", "hash": "3CF5B21B4CDC4C16", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_05", "hash": "9D523B610DF7A377", "target": "Volver a esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_06", "hash": "1963950631EA8460", "target": "Esperar una vez más en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_TODO_07", "hash": "E9CAEE52BFFD99A3", "target": "Hablar con Rediroq" },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_001",
+      "hash": "F90BC014AB2DECFB",
+      "target": "Por las tonterías de papá aún no he probado bocado de la comida de Namikka, así que vuelvo a terminarme el plato antes de salir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_002",
+      "hash": "5D06F0D03166F14E",
+      "target": "Por lo demás, he citado a todos en las Cabinas de Proa. Únete cuando hayas tenido un rato para recuperarte, ¿eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_003",
+      "hash": "8FCFCD434876ABAF",
+      "target": "Maldita sea, papá..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_Q1_000_000",
+      "hash": "C3EF969E44AE5207",
+      "target": "¿Esperar a tus compañeros y continuar con el rito de sucesión?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_FONJEANTAINE_000_006",
+      "hash": "CC212AFB8C23BB62",
+      "target": "Siento haberos hecho esperar a todos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_007",
+      "hash": "FBDC31E8D032903A",
+      "target": "¿Ya está? ¿Listo para irnos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_FONJEANTAINE_000_008",
+      "hash": "A1AF00BDE245AB47",
+      "target": "Dejé Eorzea preparado para viajar en busca de trabajo, así que de entrada tenía pocas pertenencias. Despedirme de mis compañeros artesanos, en cambio, llevó bastante rato."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_009",
+      "hash": "8BD524C51DD77024",
+      "target": "De nuevo, te agradezco el compromiso, Fonjeantaine."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_010",
+      "hash": "78DA017C61BD6485",
+      "target": "¿Partimos hacia Earthenshire, entonces?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_011",
+      "hash": "1C0FE3FACE289FE2",
+      "target": "Una palabra antes de que os vayáis."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_012",
+      "hash": "82B1F29615A47C28",
+      "target": "Wuk Evu, ¿qué haces tú aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_013",
+      "hash": "92750285016323C1",
+      "target": "¡Aaay! ¡Me paso los días corrigiendo modales y aquí estoy, cometiendo la grave ofensa de retrasar la partida de la Tercera Promesa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_014",
+      "hash": "94DAE19BAE446000",
+      "target": "¡Por favor, empuñad vuestra hacha y haced con mi carne relleno de taco!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_015",
+      "hash": "CA3EDF5C2F1BB037",
+      "target": "¿¡Tienen que ser tan macabras tus peticiones!? ¡Además, ya te he dicho que esas cosas no me molestan!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_016",
+      "hash": "FC0F0DB1313A91A8",
+      "target": "Está bien, entonces. Yo tampoco dejaré que me moleste."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_017",
+      "hash": "FA4086FF01DC7254",
+      "target": "¿Qué ha sido eso...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_018",
+      "hash": "97B3D187A296950C",
+      "target": "Había venido a la ciudad a comprar suministros cuando vi a vuestro séquito preparándose para partir. Buscáis la ciudad de oro, si no me equivoco."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_019",
+      "hash": "1F8BE80B4815F2A1",
+      "target": "Eso es: es el paso final del rito de sucesión. Si sabes algo del asunto, me encantaría oírlo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_020",
+      "hash": "3691EB1923B6D813",
+      "target": "Permitidme entonces serviros. Como sabéis, las leyendas de la ciudad dorada llevan mil años transmitiéndose en Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_021",
+      "hash": "37AAAF7DCDFA7A07",
+      "target": "Pero, a la hora de describir el lugar en sí, las historias no siempre coinciden. Unas lo pintan como cabría esperar: una metrópoli reluciente de torres de oro. Otras sugieren que es más modesta y que debe el nombre a un tesoro fabuloso oculto en su corazón."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_022",
+      "hash": "5566FD7FEB4D66A7",
+      "target": "Todas las versiones, sin embargo, tienen un hilo común: quienes van en busca de la ciudad dorada no vuelven."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_023",
+      "hash": "0BA296BE7339C177",
+      "target": "La lección que sacar de esto, Tercera Promesa, es que buscar la leyenda es cortejar a la muerte. He de implorarnos que procedáis con el mayor cuidado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKEVU_000_024",
+      "hash": "56F26D39A3167893",
+      "target": "Eso es todo lo que quería decir. Rezaré por vuestro viaje seguro."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_025",
+      "hash": "A5C6E56AC0DE36A4",
+      "target": "Gracias, Wuk Evu."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_026",
+      "hash": "3414010BCBB0BFC7",
+      "target": "¿Qué hacemos con estos cuentos de advertencia? Si toda expedición acabó en tragedia, ¿cómo halló entonces la ciudad el Servidor del Alba y volvió sin incidentes?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_027",
+      "hash": "5F891ED4107AEAC6",
+      "target": "Parece que la leyenda nació con los Yok Huy. Hablar con ellos sigue siendo nuestra pista más fuerte, creo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_028",
+      "hash": "ACEA28E3F36AB102",
+      "target": "Una pista que seguiremos a su tiempo. Pero antes dejemos a Fonjeantaine a salvo al cuidado de los Moblin."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_030",
+      "hash": "04FC96CB4BF21BC5",
+      "target": "Hemos vuelto, y traemos con nosotros a un juravasijas dispuesto. Este es Fonjeantaine, un orfebre con talento que trabajó en Estética de Eshtaime, en Ul'dah."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_031",
+      "hash": "E5C74718EFFD8F71",
+      "target": "¡Maravilloso! ¡Impresionante! ¡Sois la primera en volver, Tercera Promesa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_032",
+      "hash": "185D37B0349E70CD",
+      "target": "¡Y con un artesano de allende la sal, nada menos! Damos la bienvenida a Earthenshire a ti y a tus habilidades únicas. Una manoayuda te mostrará el Tallervasija."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_FONJEANTAINE_100_032",
+      "hash": "E49DDAFA75869C76",
+      "target": "Aquí nos separamos, pues. ¡Espero con ganas oír que os proclaman Servidor del Alba!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_033",
+      "hash": "12A002B252837EEF",
+      "target": "Gracias, Fonjeantaine. No pienso defraudarte."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_034",
+      "hash": "B19C7CEFF06168C1",
+      "target": "Habéis alcanzacumplido los requisitos de la Prueba de las Vasijas. ¡Rediroq os entrega vuestra piedra clave con sonrisagozo y buenosdeseos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_035",
+      "hash": "BEB43F5C821E7414",
+      "target": "Con esa van tres..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_036",
+      "hash": "8FF6CFE9E8487BEB",
+      "target": "Ffff... Ffffkooo... ¿¡Más candidatos a juravasijas!? ¡Venid, venid, contadle a Rediroq vuestras historias!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_037",
+      "hash": "B1753F19BB7B1C77",
+      "target": "Otra prueba superada, otra piedra clave conseguida."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SAREELJA_000_038",
+      "hash": "C7B9011BC41396AA",
+      "target": "Ojojojo, <italic(1)>bien<italic(0)> que lo hacéis. No esperaba menos de los estimados hermanos de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SAREELJA_000_039",
+      "hash": "15C31BBDE12126A2",
+      "target": "Vuestra astucia en particular es de lo más admirable, Segunda Promesa. Habrá que haceros aplicar ese saber de Sharlayan que tanto apreciáis y armar a Tural con ingenios de diseño magitek."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SAREELJA_000_040",
+      "hash": "08944C23658C4E18",
+      "target": "...En vuestro papel de consejero principal del nuevo Servidor del Alba, por supuesto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_041",
+      "hash": "8435DEEECD3ECD8D",
+      "target": "Las herramientas de guerra no me interesan. Solo deseo mejorar nuestra nación con innovaciones prácticas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_042",
+      "hash": "C0B36B29F94053CC",
+      "target": "Las potencias extranjeras se lo pensarán dos veces antes de poner a prueba nuestra fuerza cuando Tuliyollal sea conocida por su tecnología avanzada."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_043",
+      "hash": "F2D2248F0CDA0FA8",
+      "target": "Igual que se disuadió al Imperio de Garlemald de invadir Sharlayan."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SAREELJA_000_044",
+      "hash": "1AD2A2389CF9A4F6",
+      "target": "Puede que sea cierto... ¿Pero cuánto tardará Tuliyollal en llegar a ese estado avanzado? ¿Cuántos años?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_045",
+      "hash": "850A74BC350C6A62",
+      "target": "Con un compromiso colectivo con la educación y el trabajo duro, no debería llevar tan..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ZORAALJA_000_046",
+      "hash": "1C8D329BD028DD6C",
+      "target": "Tu camino es demasiado lento."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ZORAALJA_000_047",
+      "hash": "88A8CBDEBFFFBC62",
+      "target": "Más fácil es expandir nuestro territorio... y tragarnos Sharlayan entera."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_THANCRED_000_048",
+      "hash": "F345B327AA45FC5E",
+      "target": "Conquista otras naciones por las armas y lo que te espera es un futuro de levantamientos y sangre. El tuyo no sería el primer imperio fracasado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ZORAALJA_000_049",
+      "hash": "DA3AC2D43D85F803",
+      "target": "Entonces seguiremos luchando, hasta que el coste creciente los convenza de deponer las armas. Hasta que todos se cansen de perder."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_050",
+      "hash": "EEC20A7EA7EEF12C",
+      "target": "¿¡Cómo iba semejante desenlace a dar alegría a nadie!? ¡Lo que propones es una burla de la paz!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_051",
+      "hash": "107048D58ADEF780",
+      "target": "Ffff... Ffffkooo... A Rediroq eso le recuerda días de hace mucho."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_052",
+      "hash": "9AE405326E4EA97D",
+      "target": "Antes de Tuliyollal no había pactovasija para los juravasijas. Era normal arrebatapillar artesanos y forzarlos a trabajar para los Moblis."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_053",
+      "hash": "1A2BB6D3422CB352",
+      "target": "Hasta el día en que llegó Gulool Ja Ja. Las familias de los arrebatapillados le suplicaron, y así vino a Earthenshire."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_054",
+      "hash": "AE45D797E8E79BCB",
+      "target": "Los Moblis no somos pueblo guerrahacedor. Temimos que la muerte viniera a por nosotros, ¡pero Gulool Ja Ja solo quería hablar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_GULOOLJAJA_000_055",
+      "hash": "57A4AE444EDADDC4",
+      "target": "Sosegaos. Venimos a intercambiar palabras, no golpes."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_GULOOLJAJA_000_056",
+      "hash": "D163EEBF84567E75",
+      "target": "La orfebrería labrada en esta aldea es magnífica. De un vistazo se aprecia la calidad de los materiales empleados; el dominio de la técnica aplicada."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_GULOOLJAJA_000_057",
+      "hash": "5EDA1DC7B99959D5",
+      "target": "Y sin embargo no conmueve el corazón. Una copa moldeada por manos atadas y ánimo quebrado carece de lustre."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_GULOOLJAJA_000_058",
+      "hash": "13C402F82863441F",
+      "target": "Comparad ahora eso con la obra de un artesano gozoso. Vierte su alma entera en sus creaciones, y brillan como el sol recién salido. ¿No habéis visto que es cierto?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_059",
+      "hash": "EBA392A32040F4E3",
+      "target": "Y así empezó la costumbre del buenvivir. ¡Juravasijas contentos hacen buenas obras, y las buenas obras hacen contentos a los Moblis!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_060",
+      "hash": "6C6CAC604621E72E",
+      "target": "¡Las palabras de Gulool Ja Ja fueron sabias! ¡Las sonrisagozo trajeron en efecto buen oficio y mucho tintinbrillo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_061",
+      "hash": "CDDCA3BCD5D197E4",
+      "target": "Así que la Cabeza de la Razón estuvo detrás de la forja de los pactovasija..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_062",
+      "hash": "1CA46A163DAD1C3B",
+      "target": "¡Sí! ¡La razón y el listopensar cambiaron el modo de vida de los Moblis!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ZORAALJA_000_063",
+      "hash": "159DBBE2E8AE9228",
+      "target": "Hmpf."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_SAREELJA_000_064",
+      "hash": "113814F98BB12395",
+      "target": "A la Primera Promesa le cansa vuestra charla de tiempos idos. Prefiere mirar al futuro, y a la siguiente prueba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_065",
+      "hash": "91DD380237A42864",
+      "target": "Nosotros también deberíamos seguir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_066",
+      "hash": "E6CA3C003A904B84",
+      "target": "Bakool Ja Ja no llegó a volver, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_RAKOROK_000_067",
+      "hash": "0B1D64DDEB0DACF3",
+      "target": "Ffff... Ffffkooo... ¿Tenéis un momento, Tercera Promesa?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_RAKOROK_000_068",
+      "hash": "B1B46D228C35786F",
+      "target": "Rakorok querría pagaros el manoayudar con Kaahe. ¡Trae un relato de la ciudad dorada!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_069",
+      "hash": "9E83E61005B99611",
+      "target": "¿En serio? ¡Me encantaría oírlo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_RAKOROK_000_070",
+      "hash": "BB61D11112F76F0B",
+      "target": "Las torres, las calles, todo labrado en oro. ¡Mires donde mires, todo esplendor que puedas imaginar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_RAKOROK_000_071",
+      "hash": "69DC556EEF888392",
+      "target": "Los jóvenes, los viejos y todos los de en medio viven en dicha dorada. ¡Una ciudad de felicidad eterna, encaramada para siempre sobre las nubes!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_072",
+      "hash": "84E8A807B4F04E54",
+      "target": "Todo labrado en oro, ¿eh? Y solo de imaginar a todos viviendo en dicha dorada... ¡esa sí que es una ciudad que me gustaría visitar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_073",
+      "hash": "D93EC1F928D7B03A",
+      "target": "Disculpa, Rakorok, ¿dónde oíste ese relato en concreto?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_RAKOROK_000_074",
+      "hash": "511F1496FF499F9E",
+      "target": "¡De nuestros viejos amigos los Yok Huy! Viven allá arriba en las montañas, en Urqopacha."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_075",
+      "hash": "3149846B89957A16",
+      "target": "Los gigantes otra vez..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_076",
+      "hash": "DF0BC6BB39217FEC",
+      "target": "¡Parece que todo nos apunta hacia ellos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_077",
+      "hash": "4BA48CF61076BDEF",
+      "target": "Esta prueba y todo lo que la ha precedido me han enseñado mucho del modo de vida Moblin. ¡Me dará pena dejar atrás Earthenshire y vuestras sonrisagozo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_080",
+      "hash": "7CA2A84DB384EBB0",
+      "target": "Estos relatos plantean muchas preguntas... Esperemos que los gigantes tengan respuestas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_081",
+      "hash": "24A8B27036C5E4CC",
+      "target": "Las historias describen un lugar de dicha sin límites, pero también están plagadas de advertencias sobre buscadores que no volvieron. ¿Qué hacemos con esto...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_082",
+      "hash": "F0397EC7EEA45FFF",
+      "target": "Me inquieta que Zoraal Ja sea siquiera aspirante. Seguro que su padre no puede aprobar sus ambiciones violentas..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_083",
+      "hash": "415D939558903F58",
+      "target": "La Cabeza de la Razón del relato de Rediroq suena muy distinta de la Cabeza de la Resolución. Comparten el mismo cuerpo y sus personalidades son del todo distintas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_084",
+      "hash": "CA7A572AC35FDE46",
+      "target": "¡No os preocupéis por el juravasijas Fonjeantaine! ¡Está en buenas manosayuda!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_085",
+      "hash": "6DA4885D24F1D0C0",
+      "target": "¡Bien, deberíamos ir a ver a los gigantes ahora!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_086",
+      "hash": "7F5435191EF21612",
+      "target": "De acuerdo. Misterios dorados aparte, su aldea aparece de forma destacada en la gesta y no puede ignorarse."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_087",
+      "hash": "2CF9671689A00284",
+      "target": "Las tierras altas de Urqopacha deberían ser bastante fáciles de alcanzar desde aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_088",
+      "hash": "C8C6AFF0ACF60139",
+      "target": "Si salimos de Earthenshire por el oeste, hay un camino que sube a las montañas. Busquémoslo primero."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_100_089",
+      "hash": "FF4BE683D48646B0",
+      "target": "Este camino nos llevará por las montañas hasta las tierras altas de Urqopacha. Una ruta agotadora, quizá, pero sencilla."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_200_089",
+      "hash": "AE5585AB8ACBEB52",
+      "target": "Por fin vamos a encontrarnos con los Yok Huy..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_300_089",
+      "hash": "0E60C5EACBF35ECC",
+      "target": "En las tierras altas transcurrió el Cantar del Testimonio, esto es, el encuentro de Gulool Ja Ja con los Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_500_089",
+      "hash": "78BE086D18B3C4D7",
+      "target": "Pero también son el escenario del Cantar del Hielo, donde los héroes lucharon contra el monstruoso Valigarmanda. Siento mucha curiosidad por saber qué nos exigirá allí el rito..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_600_089",
+      "hash": "EECC2180DF222BC4",
+      "target": "Un día navegamos río arriba y al siguiente subimos montañas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_090",
+      "hash": "955D91AFF54DC9F3",
+      "target": "Parece que el sendero se va a empinar de aquí en adelante. ¡Espero que todos estéis listos para trepar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WAWKESA_000_091",
+      "hash": "567B142195AC5D53",
+      "target": "¡Tercera Promesa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WAWKESA_000_092",
+      "hash": "5874E6588FD75A47",
+      "target": "Menos mal que os alcanzo... Rediroq me pidió que os llevara de vuelta a la aldea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WAWKESA_000_093",
+      "hash": "D5D1E8F9449A00CF",
+      "target": "Dice que hay algo que olvidó daros."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_094",
+      "hash": "FD914A481E558428",
+      "target": "¿Eh...? ¿Algo aparte de la piedra clave?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WAWKESA_000_095",
+      "hash": "A1A51051F89C095D",
+      "target": "Sí, un objeto de gran importancia, o eso me dijeron. No debería llevar mucho, si tenéis la bondad de seguirme."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_WUKLAMAT_000_096",
+      "hash": "44F57D865561610E",
+      "target": "¿De qué irá todo esto? Bueno, no hace falta que vengáis todos: ¡vuelvo en un rato!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_100_100",
+      "hash": "512D69F62F573436",
+      "target": "Ffff... Ffffkooo... ¡Los Moblin están ocupados asegurando el buenvivir de los juravasijas nuevos! ¡Rediroq no tiene tiempo para aleteos de lengua ociosos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_100",
+      "hash": "64FBAA73C16367A2",
+      "target": "Tenía un pelo bastante llamativo para ser Hyur... ¿o debería decir Tonawawta? En todo caso, es raro que no me fijara en él mientras estábamos en Earthenshire."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_101",
+      "hash": "5872270DAB891755",
+      "target": "Conociendo a Wuk Lamat, seguramente estaba comiendo dulces a nuestras espaldas y olvidó pagar al tendero, o alguna otra descuido igual de suyo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_102",
+      "hash": "928579B3AEFCD5C8",
+      "target": "Tengo ganas de continuar a las tierras altas y ver a un Yok Huy cara a cara. Hemos oído mucho de ellos, pero no estoy nada seguro de qué esperar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_103",
+      "hash": "E542C929E30A2CAC",
+      "target": "Ese hombre me sonaba de algo... Pero no consigo ubicarlo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_104",
+      "hash": "CE36191EE9313FE3",
+      "target": "Está tardando bastante... Supongo que de momento toca seguir esperando."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_110",
+      "hash": "475E26C00BA40548",
+      "target": "¿Habrá surgido alguna complicación? En fin, esperemos un poco más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_120",
+      "hash": "94DEE59642D45361",
+      "target": "Esto empieza a ser un poco ridículo. ¿Se habrá perdido de camino de vuelta?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_121",
+      "hash": "FCCA057D9ED0BD3E",
+      "target": "¿Pero cómo? Si solo hay un camino."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_122",
+      "hash": "8982E78C743F3D05",
+      "target": "Yo no subestimaría el sentido de la orientación de Wuk Lamat... o su falta de él."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_123",
+      "hash": "075298F6234B7A1C",
+      "target": "Por suerte lleva un linkpearl. Veamos qué la retiene, ¿os parece?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_124",
+      "hash": "B39F4DAC8CE12E44",
+      "target": "No responde... Quizá deberíamos volver todos a Earthenshire."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_125",
+      "hash": "5E89B03C493AA6E9",
+      "target": "Era Rediroq quien tenía asuntos con ella, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_130",
+      "hash": "8F283A5A31F5FA4D",
+      "target": "No parece estar aquí..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ERENVILLE_000_131",
+      "hash": "BAAA51EEE06736DE",
+      "target": "Pensaba que Wuk Lamat estaba siendo su impulsiva de siempre, pero ahora ya no estoy tan seguro..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_132",
+      "hash": "6EA43DDF95DC3DE6",
+      "target": "Ruego que nada malo le haya sucedido a la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALISAIE_000_133",
+      "hash": "53D15AFF31A996CD",
+      "target": "Algo no va bien. Lo noto..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_134",
+      "hash": "021B2EABE3280D1A",
+      "target": "Ffff... Ffffkooo... ¿De vuelta tan pronto?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_135",
+      "hash": "0035604DA5C6D423",
+      "target": "Venimos buscando a Wuk Lamat. ¿No mandasteis a alguien a por ella?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_REDIROQ_000_136",
+      "hash": "94AAB59E16A2BD28",
+      "target": "¡Rediroq no! Ni ha visto a la Tercera Promesa desde que estuvisteis aquí la última vez."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KRILE_000_137",
+      "hash": "0F93DEEA27168837",
+      "target": "Entonces, ¿quién era ese hombre que vino a por ella...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_THANCRED_000_138",
+      "hash": "D867FD0CA5658971",
+      "target": "¿Ah? Creía que ya os habíais ido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_139",
+      "hash": "6012BD550BC4D147",
+      "target": "¿Dónde está Lamaty'i? ¿No va con vosotros?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_140",
+      "hash": "6E88FC4D4CC2EDDC",
+      "target": "¿No <italic(1)>sabéis<italic(0)> dónde está? ¿¡Cómo habéis dejado que pase esto!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_URIANGER_000_141",
+      "hash": "0B33BCB440BAE23D",
+      "target": "Comprensible es que os inquietéis por vuestra hermana. Mas, antes que repartir culpas, mejor empleadas estarán vuestras fuerzas en dar con ella."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_142",
+      "hash": "F2983F241F45C96F",
+      "target": "Os ayudaré a buscarla. No es así como querría que un aspirante rival perdiera la contienda, y menos aún mi hermana."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_THANCRED_000_143",
+      "hash": "D9D77AE1534C4DEC",
+      "target": "En ese caso, dividir nuestras fuerzas nos permitirá cubrir más terreno."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_144",
+      "hash": "0C5C97D1EB6DBE4B",
+      "target": "<split(<string(gstr1)>, ,1)> y yo deberíamos ir juntos al menos, para facilitar la comunicación entre nuestros grupos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_ALPHINAUD_000_145",
+      "hash": "4EBF8662E0B076B4",
+      "target": "Entonces los demás nos separaremos. Informad si encontráis algo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_THANCRED_000_146",
+      "hash": "009FCAC82D5E70F7",
+      "target": "Nosotros también nos ponemos en marcha."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_147",
+      "hash": "01CA4F34C327690E",
+      "target": "Bien. Mantened el contacto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb105_04884#TEXT_KINGMB105_04884_KOANA_000_148",
+      "hash": "DE1ADFCC110DD1D4",
+      "target": "Vamos, deberíamos empezar la búsqueda."
+    }
+  ]
+}

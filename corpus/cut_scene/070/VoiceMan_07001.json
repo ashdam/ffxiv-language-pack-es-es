@@ -1,0 +1,2186 @@
+{
+  "conversation": "cut_scene/070/VoiceMan_07001",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000010_GULOOLJAJA",
+      "hash": "A5054B702BC26F7E",
+      "target": "Perdona esta convocatoria tan repentina."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000020_GULOOLJAJA",
+      "hash": "921BA492F7A4287E",
+      "target": "Cuando supe que <if(gnum4,la campeona,el campeón)> de mi hija estaba de vuelta en la ciudad, no pude resistir la ocasión."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000030_GULOOLJAJA",
+      "hash": "800EE1202B299BFC",
+      "target": "Y me llaman Cabeza de la Resolución por algo: viejo como soy, no he perdido una batalla digna de ese nombre desde el día en que tomé el trono."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000040_GULOOLJAJA",
+      "hash": "E6317B382DA92E4E",
+      "target": "Y llevo tiempo ansiando un desafío de verdad. El lancero, Estinien, peleó bastante bien... pero nuestro duelo terminó antes de que hubiera vencedor."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000050_GULOOLJAJA",
+      "hash": "97F69BC264C0FA1E",
+      "target": "A juzgar por lo que cuentan los marineros, eres <if(gnum4,una guerrera,un guerrero)> de renombre en tu tierra."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000060_GULOOLJAJA",
+      "hash": "A5824E77F66BE231",
+      "target": "Y aun así me pregunto: con todas tus gestas hechas y tus victorias ganadas..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000070_GULOOLJAJA",
+      "hash": "1188B6AEBDB37503",
+      "target": "¿Eres <if(gnum4,bastante guerrera,bastante guerrero)> para plantarme cara?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q1_000_001_NONE_VOICE",
+      "hash": "CF3F47F2340199B6",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A1_000_001_NONE_VOICE",
+      "hash": "3D5B0FB3E49ED5F2",
+      "target": "¿Por qué no lo averiguamos?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A1_000_002_NONE_VOICE",
+      "hash": "FCABB28C4C895489",
+      "target": "Mientras ninguno se venga arriba de más."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A1_000_003_NONE_VOICE",
+      "hash": "58E29536977D0B24",
+      "target": "No me interesa pelear contigo..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000090_GULOOLJAJA",
+      "hash": "F9FDC08D47B1BFFA",
+      "target": "¡Buena respuesta, con brío! ¡Averigüémoslo, sí señor!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000110_GULOOLJAJA",
+      "hash": "0389DA0A0B485131",
+      "target": "Ni el menor asomo de miedo... Sabía que no eras <if(gnum4,ninguna,ningún)> farsante."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000130_GULOOLJAJA",
+      "hash": "B96539B9D9258F78",
+      "target": "¿Me consideras indigno? ¡Pronto te haré cambiar de idea!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000140_GULOOLJAJA",
+      "hash": "F4C7941E51953910",
+      "target": "¡Me hierve la sangre! No llegaré a matarte, por supuesto... ¡pero no esperes otras clemencias!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000150_GULOOLJAJA",
+      "hash": "314D45107256C842",
+      "target": "¡Ven! ¡Empuña tus armas y muéstrame la verdad de los relatos!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000160_GULOOLJAJA",
+      "hash": "C28AB40ED86A2434",
+      "target": "He empleado toda mi fuerza contra otros antes, pero eres <if(gnum4,la primera,el primero)> en resistirla."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000170_GULOOLJAJA",
+      "hash": "D14834D60802AA74",
+      "target": "Incluso con mi Cabeza de la Razón dormida, no esperaba que me dieras tantos problemas..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000180_GULOOLJAJA",
+      "hash": "CA9FD4BB0DDD00A2",
+      "target": "Estinien no exageraba: ¡eres una fuerza a tener en cuenta!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000200_GULOOLJAJA",
+      "hash": "1E8B94FD8F2B60FF",
+      "target": "Ahora, una confesión. Dije que ansiaba un desafío, y no mentía... pero tenía otro motivo para llamarte aquí."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000210_GULOOLJAJA",
+      "hash": "09CA9A67B82E143B",
+      "target": "Tenía que juzgar por mí mismo si eras <if(gnum4,digna,digno)> de acompañar a mi querida hija."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000220_GULOOLJAJA",
+      "hash": "791E89F4967F40CB",
+      "target": "En algunas cosas se parece mucho a mí: se acalora y tiende a lanzarse al peligro."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000230_GULOOLJAJA",
+      "hash": "57E5F3EDAE9A3BF4",
+      "target": "Pero alguien con tu defensa inquebrantable podría escudar a Lamaty'i de quienes quieran hacerle daño."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000240_GULOOLJAJA",
+      "hash": "3CCEACF403DC6F59",
+      "target": "Pero alguien con tus talentos podría despachar sin demora las amenazas que se crucen en el camino de Lamaty'i."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000250_GULOOLJAJA",
+      "hash": "2F480F174189648D",
+      "target": "Pero alguien con tu don para sanar podría sostener a Lamaty'i incluso frente a los enemigos más temibles."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000260_GULOOLJAJA",
+      "hash": "690117FEDA49E42E",
+      "target": "¿Escucharás mi pregunta y me responderás con franqueza? No te diriges al soberano de Tuliyollal, sino a un padre preocupado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000270_GULOOLJAJA",
+      "hash": "C6A1BC8226AAF74C",
+      "target": "Te lo agradezco."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000280_GULOOLJAJA",
+      "hash": "D4B091C01A99EF48",
+      "target": "Dime entonces: tras el viaje que habéis hecho juntas, ¿qué impresión te da Lamaty'i?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000290_GULOOLJAJA",
+      "hash": "115F229C486EFD01",
+      "target": "Ya sea como Tercera Promesa o solo como compañera de camino. Habla sin tapujos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q2_000_001_NONE_VOICE",
+      "hash": "8FA375119ED660AA",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A2_000_001_NONE_VOICE",
+      "hash": "3B0411989A74F0C1",
+      "target": "Es joven, pero tiene potencial."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A2_000_002_NONE_VOICE",
+      "hash": "3FDD6F95E0340361",
+      "target": "No está lista para reinar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000310_GULOOLJAJA",
+      "hash": "4BE65F1E572464F8",
+      "target": "Una respuesta diplomática. Pero coincido: no está lista para el trono. Todavía no."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000320_GULOOLJAJA",
+      "hash": "8669B9E0E9C6EA14",
+      "target": "¡Guajajaja!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000330_GULOOLJAJA",
+      "hash": "FB960F06CC40FC02",
+      "target": "Bueno, yo te pedí franqueza. Pero coincido: no está lista para el trono. Todavía no."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000340_GULOOLJAJA",
+      "hash": "C9843987CA183C44",
+      "target": "Lamaty'i cree entender a nuestros muchos pueblos: sus historias, sus culturas, sus creencias. Pero solo conoce lo que ha visto en la capital."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000350_GULOOLJAJA",
+      "hash": "1BE9CC2AC3DE8935",
+      "target": "Y no es solo ella quien me preocupa. Aun tan al principio de la contienda, te habrás dado cuenta..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000360_GULOOLJAJA",
+      "hash": "0E5A5BF9E94823EF",
+      "target": "Como futuros soberanos, los cuatro aspirantes tienen carencias."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000370_GULOOLJAJA",
+      "hash": "627834459084D952",
+      "target": "Por eso decidí celebrar el rito de sucesión: no para elegir a un candidato apropiado, sino para forjarlo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000380_GULOOLJAJA",
+      "hash": "35368618870C694B",
+      "target": "Y, si al terminar ninguno me ha impresionado, a nadie cederé mi trono."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000390_GULOOLJAJA",
+      "hash": "E1B0C0139CA075AC",
+      "target": "Como padre, ruego que mis hijos estén a la altura..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000400_GULOOLJAJA",
+      "hash": "DFB6A796E043F52B",
+      "target": "Y, ya que he arrastrado a forasteros a mi juego, también confío en que las miradas distintas que tú y los tuyos traéis los empujen a crecer."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000410_GULOOLJAJA",
+      "hash": "96EEFB4EE83DF985",
+      "target": "Imagino que tú en particular has recorrido muchas tierras. Conocido muchos pueblos y culturas, y los has querido y te han querido."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000420_GULOOLJAJA",
+      "hash": "7A35C06B58FB0710",
+      "target": "Guía a Lamaty'i como mejor te parezca. Camina a su lado y, cuando haga falta, empújala a ir por delante."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000430_WUKLAMAT",
+      "hash": "8105F3AA30DB1027",
+      "target": "¡Lo <italic(1)>sabía<italic(0)>!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000440_WUKLAMAT",
+      "hash": "F57165724CFA5BED",
+      "target": "Ahí estaba yo, a punto de sentarme a comer algo de Namikka, cuando me entero de que papá te había mandado llamar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000450_WUKLAMAT",
+      "hash": "73D4B95646CB2289",
+      "target": "¡Estabais batiéndoos a mis espaldas, ¿verdad?!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000460_GULOOLJAJA",
+      "hash": "099F6A556E18DEBF",
+      "target": "¡Guajajaja!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000470_GULOOLJAJA",
+      "hash": "E07D2628947784B9",
+      "target": "¡Veo que no tiene sentido negarlo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000480_GULOOLJAJA",
+      "hash": "790E7499E9136846",
+      "target": "No te preocupes, hija: me he cuidado de no causar daños duraderos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000490_GULOOLJAJA",
+      "hash": "A0E90A95849F46DA",
+      "target": "Tú y <if(gnum4,tu aliada,tu aliado)> podéis volver a la contienda sin desventaja. ¡Aquí no ha pasado nada!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000500_WUKLAMAT",
+      "hash": "8DF41CE16AE24D6B",
+      "target": "Y yo que justo empezaba a mirar a mi padre con otros ojos..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000510_WUKLAMAT",
+      "hash": "89FF2CB91BD4370B",
+      "target": "Vámonos antes de que a este bruto loco por pelear le dé por retar al resto de mi séquito."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000520_GULOOLJAJA",
+      "hash": "B994CE987171E8A7",
+      "target": "Cuida de ella, <if(gnum4,campeona,campeón)>."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000530_GULOOLJAJA",
+      "hash": "F28089BDDFE92A34",
+      "target": "Los reclutas de Koana no son menos perspicaces, como cabía esperar de los paisanos de Galuf. Vieron las carencias de nuestros aspirantes desde el primer momento."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000540_GULOOLJAJA",
+      "hash": "5854F0477001E566",
+      "target": "Los otros dos, en cambio... Apartan a quien se atreve a señalarles sus defectos, y de ahí no puede salir nada bueno..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000550_SYSTEM_NONE_VOICE",
+      "hash": "B2195EAA42ACEC6A",
+      "target": "Mientras tanto, en Kozama'uka..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000560_SAREELJA",
+      "hash": "2DA80454AABB1AD4",
+      "target": "Encontrar artesano dispuesto ha sido aún más fácil de lo previsto."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000570_SAREELJA",
+      "hash": "8EB2098259DFB574",
+      "target": "Muchos ansían congraciarse con el Hijo Resiliente, sobre todo si eso les da parte en la promesa de nuevos territorios."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000580_ZORAALJA",
+      "hash": "D7FF173A165198CB",
+      "target": "Quien demuestre ser útil tendrá toda la tierra que desee."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000590_SAREELJA",
+      "hash": "A93E5A63EBA221F3",
+      "target": "Qué palabras tan generosas... y qué modo de pronunciarlas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000600_SAREELJA",
+      "hash": "7C737746F75C8258",
+      "target": "Si ni la riqueza ni el territorio le importan, ¿por qué busca doblegar al mundo...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000610_ZORAALJA",
+      "hash": "48A6B603DFE90237",
+      "target": "Apártate."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000620_BAKOOLJAJA",
+      "hash": "0EEA6444A521CDA4",
+      "target": "Recuérdame... No había ninguna regla contra robarles los artesanos a los otros aspirantes, ¿verdad?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000630_SAREELJA",
+      "hash": "E9BE59198F3540E8",
+      "target": "¡No seas necio, Bakool Ja Ja!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000640_BAKOOLJAJA",
+      "hash": "ACD3451D5B13C847",
+      "target": "¡Ja! Necio sería seguir con esas pruebas aburridas cuando lo único que necesito para ganar son las piedras clave."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000650_BAKOOLJAJA",
+      "hash": "6FB9A712196ADB04",
+      "target": "Y además... ya iba siendo hora de bajarle los humos a este arrogante de una cabeza."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000660_BAKOOLJAJA",
+      "hash": "4D0A0CB25AABA82E",
+      "target": "Puede que el Servidor del Alba te engendrara contra todo pronóstico, ¡pero tu nacimiento no tiene nada de bendito!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000670_BAKOOLJAJA",
+      "hash": "4BC9E3C02B51F711",
+      "target": "Solo quien tiene dos cabezas merece reinar. ¡Solo nosotros!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000680_BAKOOLJAJA",
+      "hash": "1204AA5F8E191916",
+      "target": "¡Desenvaina! ¡Enfréntate a mí y aprende cuál es tu lugar!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000690_SAREELJA",
+      "hash": "F1F8C44FB4445884",
+      "target": "Un momento, Primera Promesa."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000700_SAREELJA",
+      "hash": "CD3F9B8F3E289AC7",
+      "target": "Dejadlo con vida, si sois tan amable. Aún le veo un uso a esta... molestia."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000710_BAKOOLJAJA",
+      "hash": "0EAB5F71E3379602",
+      "target": "¿Te da miedo dar el primer paso?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000720_BAKOOLJAJA",
+      "hash": "7ABB318D8F2B92B2",
+      "target": "¡Pues empiezo yo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000750_BAKOOLJAJA",
+      "hash": "3C2794ECCD60F2EA",
+      "target": "Pero si... no es más que un enano..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000760_SAREELJA",
+      "hash": "7EDEDAFB8909A977",
+      "target": "Os agradezco la contención."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000770_ZORAALJA",
+      "hash": "BA9BD1A683DC0CBB",
+      "target": "Puedo matarlo cuando me plazca."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000780_SAREELJA",
+      "hash": "B46EDB0C48088C43",
+      "target": "Tu papel en todo esto está lejos de haber terminado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000790_THANCRED",
+      "hash": "AC6C6C1BA151998B",
+      "target": "Más vale tarde que nunca."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000800_THANCRED",
+      "hash": "E34D00BBD600DF9B",
+      "target": "Ese Mamool Ja... ¿es el que secuestró a Wuk Lamat?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000810_THANCRED",
+      "hash": "CB0052E50BDF91BC",
+      "target": "Así que seguimos sin certezas. Si pudiéramos seguirlo un poco más y confirmar su vínculo con los secuestradores..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000820_THANCRED",
+      "hash": "7DCB8BFC7B17B727",
+      "target": "Eso lo complica todo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000840_KOANA",
+      "hash": "987C3F3AB05C301A",
+      "target": "¡...Maldita sea!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000850_THANCRED",
+      "hash": "203DCFBB76773F5C",
+      "target": "Si salgo ahora, puedo seguirlos por la orilla del río."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000860_KOANA",
+      "hash": "4954F022729137C0",
+      "target": "¡Hazlo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000870_THANCRED",
+      "hash": "341883E4B72A69D7",
+      "target": "¿Aunque te cueste la contienda?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000880_KOANA",
+      "hash": "9F7F86B82181507D",
+      "target": "¿¡De qué me sirve el trono si pierdo a mi hermana por ganarlo!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000890_THANCRED",
+      "hash": "1F54D050C534706C",
+      "target": "Está bien. Os aviso en cuanto la localice."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000900_THANCRED",
+      "hash": "C3C26F5F9260E0CB",
+      "target": "Hasta entonces, guardad fuerzas. Un rescate puede ponerse feo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000910_KOANA",
+      "hash": "B42DD796609F8D04",
+      "target": "Ese Hoobigo de antes... juraría que lo he visto con Bakool Ja Ja."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000920_KOANA",
+      "hash": "8E49FE69A4B4F499",
+      "target": "Conociendo a ese monstruo, seguramente contrató a unos bandidos para secuestrarla y robarle las piedras clave."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000930_KOANA",
+      "hash": "9E5EE7535C1FF9FB",
+      "target": "Pero mi hermana, incluso sola, puede con una panda de matones sin instrucción. La habrán emboscado o engañado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000940_KOANA",
+      "hash": "0BEE52FA80293808",
+      "target": "¡Debería haber estado allí! Como esos desgraciados le hayan hecho daño..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q3_000_001_NONE_VOICE",
+      "hash": "9D22C2F4D79EE305",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A3_000_001_NONE_VOICE",
+      "hash": "0C6EEDDAA084D6D5",
+      "target": "Tienes que calmarte."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A3_000_002_NONE_VOICE",
+      "hash": "6BC68D37D342106A",
+      "target": "Ten paciencia. Confía en Thancred."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A3_000_003_NONE_VOICE",
+      "hash": "51B0FBA528D6CBAD",
+      "target": "Te hacía el sereno de la familia."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000950_KOANA",
+      "hash": "F364B3F4EB9DB941",
+      "target": "¿¡Cómo voy a calmarme cuando...!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000960_KOANA",
+      "hash": "8D1F1050E8D1706F",
+      "target": "¡Confío en él, pero...!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000970_KOANA",
+      "hash": "5EB2502A00FE6B69",
+      "target": "¿¡Y eso qué se supone que...!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000980_KOANA",
+      "hash": "C6271A322C64D559",
+      "target": "...Perdóname. Pagarlo contigo no me devolverá a mi hermana."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000990_KOANA",
+      "hash": "E55DCAAF5C8C9389",
+      "target": "Me temo que siempre he sido así con Lamaty'i. Basta con pensar que corre peligro para que me entre el pánico..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001000_KOANA",
+      "hash": "B24CD330AA65B1FA",
+      "target": "Pero ¿no es así como <italic(1)>deben<italic(0)> ser las familias?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001010_KOANA",
+      "hash": "1B78A37664D72E76",
+      "target": "Hoy en día los miqo'te turalíes viven como les place, pero el clan en el que nací conservaba las tradiciones nómadas de nuestros antepasados."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001015_KOANA",
+      "hash": "A684A106166D2F61",
+      "target": "Pastoreaban sus rroneek por las llanuras, siempre en marcha con las estaciones..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001020_KOANA",
+      "hash": "17E238FE5E149BDA",
+      "target": "Durante una de esas migraciones, mis padres biológicos me abandonaron. Un niño, completamente solo. ¡Sin <italic(1)>una sola palabra<italic(0)> de explicación!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001030_KOANA",
+      "hash": "EE3EB653FBAC1BB5",
+      "target": "Si sobreviví fue por el encuentro fortuito con un mercader pelu de buen corazón. Se apiadó de mí y me enseñó su oficio para que pudiera valerme solo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001040_KOANA",
+      "hash": "034505019B450423",
+      "target": "Acabé de tendero en los mercados de Tuliyollal, y allí fue donde el Servidor del Alba me encontró y me adoptó."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001050_KOANA",
+      "hash": "F129C5016415F13B",
+      "target": "Llevaba ya un tiempo en el palacio cuando Lamaty'i vino a unirse a nosotros."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001060_KOANA",
+      "hash": "DC74CE01F107D75D",
+      "target": "Como a mí, sus padres la habían dejado atrás. Yo conocía el dolor de la soledad y quería ahorrarle ese sufrimiento."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001070_KOANA",
+      "hash": "415E6A5BBC7C4DD0",
+      "target": "Como nuevo hermano de aquella criatura diminuta, juré que siempre estaría a su lado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001080_KOANA",
+      "hash": "C9782B1C05C51E97",
+      "target": "...Así que, como comprenderás, no me detendré ante nada para rescatarla."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001090_KOANA",
+      "hash": "260E07F2E1251B50",
+      "target": "Mientras esperamos noticias de Thancred, deberíamos preparar la bajada por el río. Vosotros tenéis una barca, ¿verdad...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001100_KOANA",
+      "hash": "D4E109D10E7EA04B",
+      "target": "¿Para qué soltar al punutiy si no es para retrasar la persecución? Si antes dudábamos de su culpa, esto la confirma."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001110_KOANA",
+      "hash": "9CFB24C785932F45",
+      "target": "Antes de actuar, sin embargo, reunámonos con tus compañeros. ¿Te importa avisarlos?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001120_ALPHINAUD",
+      "hash": "0BE0AA6754716F9A",
+      "target": "Entendido. Nos vemos en Muchos Fuegos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001130_KOANA",
+      "hash": "43796BAB1CE02F4D",
+      "target": "¡Thancred!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001140_THANCRED",
+      "hash": "16512997C896914B",
+      "target": "La Tercera Promesa está más adelante. Está ilesa, pero será mejor no entretenerse."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001160_BAKOOLJAJA",
+      "hash": "9DE62C4AB1363FFE",
+      "target": "¡Escupo sobre esas pruebas patéticas! ¡Es mucho más satisfactorio arrebatar las baratijas por la fuerza!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001170_WUKLAMAT",
+      "hash": "5B854D52A8EFA580",
+      "target": "¡Devuélvemela! ¡Fonjeantaine puso todo su ser en esa piedra! ¡No tienes ningún derecho a tocarla!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001180_BAKOOLJAJA",
+      "hash": "4CBA01EBB57EE31E",
+      "target": "Ay, ¿así se llamaba tu artesano? ¿¡Cómo has dejado que te robaran algo tan preciado!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001190_WUKLAMAT",
+      "hash": "B2659DB539765B38",
+      "target": "¡Ladrón y tramposo! ¡No eres un aspirante de verdad!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001200_BAKOOLJAJA",
+      "hash": "77334DBCC821A175",
+      "target": "¿Y eso en qué te convierte a ti, gatita boba que cayó en mi trampa? ¡Si bastaran unos rugidos lastimeros para ganar el trono, serías la primera de la fila!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001210_BAKOOLJAJA",
+      "hash": "6465E5B6883B37E3",
+      "target": "Vamos, vamos, hermano, no te metas con ella. Mira, la pobrecilla está a punto de llorar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001220_BAKOOLJAJA",
+      "hash": "912441E309F25689",
+      "target": "¡Miau! ¡Socorredme!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001240_BAKOOLJAJA",
+      "hash": "5223E0DDFC240F8C",
+      "target": "¡Ay!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001250_BAKOOLJAJA",
+      "hash": "E3B5B8DAF707E8AB",
+      "target": "¿¡Quién ha sido!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001260_KOANA",
+      "hash": "17D28B78762180CF",
+      "target": "Hmph, tiene las escamas tan gruesas como los cráneos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001270_BAKOOLJAJA",
+      "hash": "16391D7E1F8A4CEB",
+      "target": "¡Cobarde! ¿¡Te atreves a emboscarme!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001280_KOANA",
+      "hash": "966CD476F917F681",
+      "target": "Es la táctica preferida de los hermanos benditos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001290_BAKOOLJAJA",
+      "hash": "2A7BEB8202CBFB79",
+      "target": "Ese inútil adulador de los Boonewa. ¡Tenía que mantener a los lacayos dando vueltas!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001300_KOANA",
+      "hash": "C9230E826C1513DD",
+      "target": "Vaya, eso me lo vas a contar con detalle."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001310_BAKOOLJAJA",
+      "hash": "FE765434D076078B",
+      "target": "¡Cuidado! No querrás darle a nuestra rehén."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001320_BAKOOLJAJA",
+      "hash": "21F09A03624F1014",
+      "target": "¡No subestimes a <if(gnum4,esa,ese)>!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001330_BAKOOLJAJA",
+      "hash": "4917C6DD05A3CFFB",
+      "target": "No pueden hacer nada mientras tengamos a─"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001360_THANCRED",
+      "hash": "5498FB9BF7FAEEDA",
+      "target": "¡Momento impecable!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001370_KOANA",
+      "hash": "F3E437A5E208C512",
+      "target": "Lamaty'i, ¿estás bien?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001380_WUKLAMAT",
+      "hash": "F090B76576449A4B",
+      "target": "¡Sí, gracias a ti!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001390_BAKOOLJAJA",
+      "hash": "E5BC3BF6E9C1A3A9",
+      "target": "¡Estos debiluchos creen que pueden desafiarnos! ¡Los mataremos a todos!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001400_BAKOOLJAJA",
+      "hash": "A9B5D39343754EEC",
+      "target": "¡Paciencia, hermano! La piedra clave ya es nuestra: hoy no hace falta pelear. Y Zoraal Ja nos ha dejado maltrechos..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001410_BAKOOLJAJA",
+      "hash": "DEBA3155CCE7221C",
+      "target": "¡No! ¡No pararé hasta destriparlos y hacerles tragar sus propias entrañas!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001420_BAKOOLJAJA",
+      "hash": "759CA915C5FB4589",
+      "target": "Si caemos aquí, habremos fallado a nuestros hermanos para nada. ¿Es eso lo que quieres?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001440_BAKOOLJAJA",
+      "hash": "0EE91C60995C2C41",
+      "target": "No, hermano..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001450_BAKOOLJAJA",
+      "hash": "715BFD94BA56B8EC",
+      "target": "¡Dejadlo! ¡Nos retiramos!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001460_WUKLAMAT",
+      "hash": "82783AFC006908C5",
+      "target": "¡Espera! ¡Maldito seas, Bakool Ja Ja!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001470_THANCRED",
+      "hash": "149D25F47361E56D",
+      "target": "¿Los perseguimos?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001480_KOANA",
+      "hash": "9DB4B9274314BC54",
+      "target": "Volvemos. Lamaty'i está a salvo, que es lo que importa."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001490_WUKLAMAT",
+      "hash": "2ADDE7ED748DA59F",
+      "target": "Por los dioses, sí que es alta esa montaña. ¿Y se supone que hay que subirla?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001500_VORPORLOR",
+      "hash": "D37FD60E4ADF58E4",
+      "target": "[No esperéis caminar por aquí sin oposición. Decidme, seres menguados: ¿esas piernas cortas os han traído desde Tuliyollal?]"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001510_ERENVILLE",
+      "hash": "BAE69B2C2E8E69F5",
+      "target": "Habla la antigua lengua Yok Huy. Cuesta... captar las palabras."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001520_VORPORLOR",
+      "hash": "912D9C191EF05DA1",
+      "target": "Vuestra lengua es tosca y engorrosa, pero la uso por vuestro bien."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001530_VORPORLOR",
+      "hash": "0687EEF4C516DC75",
+      "target": "¿Eres aspirante en ese “rito de sucesión”?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001540_WUKLAMAT",
+      "hash": "B7610CABCEA07669",
+      "target": "Así es."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001550_VORPORLOR",
+      "hash": "4ECC176AE96A1CD1",
+      "target": "Entonces, si mueres, Tuliyollal pierde a un posible soberano."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001560_WUKLAMAT",
+      "hash": "2456DAF41E1FA0B2",
+      "target": "Vaya cosa más siniestra de decir, amigo. Me da que no piensas como los otros Yok Huy que hemos conocido."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001570_VORPORLOR",
+      "hash": "41BFF59ABDAAB920",
+      "target": "Nosotros no nos arrastramos ante Gulool Ja Ja como esos falderos sin vergüenza."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001580_VORPORLOR",
+      "hash": "2C60526AC6233BA4",
+      "target": "Mis hermanos y yo somos conquistadores, ¡y devolveremos a nuestro pueblo al lugar que le corresponde como señores de Tural!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001590_ALPHINAUD",
+      "hash": "B052FBC8C1F95C4B",
+      "target": "Parece que los gigantes también tienen sus facciones..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001600_WUKLAMAT",
+      "hash": "ADBB1CA25CEAF648",
+      "target": "Crees débiles a los tuyos por mostrar deferencia a mi padre, pero no es al hombre a quien siguen."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001610_WUKLAMAT",
+      "hash": "030BBDB932FF43B9",
+      "target": "Es su paz lo que respetan. Una paz que siempre quisieron y que descubrieron que podían tener aquí mismo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001620_VORPORLOR",
+      "hash": "483B657454D12968",
+      "target": "¡Excusas de cobardes! ¡Apartan la mirada de nuestros antepasados, del sueño que mantuvimos vivo durante más de mil años!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001630_VORPORLOR",
+      "hash": "AD2756D803CFBAF5",
+      "target": "No son dignos de portar nuestro legado. <italic(1)>Yo<italic(0)> recuperaré la gloria de nuestro pueblo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001635_VORPORLOR",
+      "hash": "5D2B7B2128A1EA56",
+      "target": "¡Y nuestro ascenso empieza con la muerte de la Tercera Promesa!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001640_WUKLAMAT",
+      "hash": "F024B42DCC238F43",
+      "target": "¡Alto! ¡No quiero pelear contigo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001650_VORPORLOR",
+      "hash": "9EEA71EC3EE963BB",
+      "target": "Entonces muere de rodillas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001660_VORPORLOR",
+      "hash": "A54E974E56D131E4",
+      "target": "¡Alimaña oportunista! ¿¡Pretendes darte un festín con nosotros!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001670_VORPORLOR",
+      "hash": "6B9EE9C03D50D4B9",
+      "target": "¡Baja aquí! ¡Tu cuello será el primero que parta hoy!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001690_WUKLAMAT",
+      "hash": "572F7096CC61D6EA",
+      "target": "¡Así es!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001700_VORPORLOR",
+      "hash": "0FF97960AA4A6B53",
+      "target": "¿Por qué nos ayudas?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001710_WUKLAMAT",
+      "hash": "748D946B5D61023C",
+      "target": "No lo pensé mucho. Las piernas se me movieron antes de que me diera cuenta."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001720_WUKLAMAT",
+      "hash": "CA988ED338A4A9CE",
+      "target": "Supongo que temí que murierais antes de que pudiéramos conocernos. Antes de poder saber más de vosotros."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001730_VORPORLOR",
+      "hash": "B4249549C1446B25",
+      "target": "¿Con qué fin?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001740_WUKLAMAT",
+      "hash": "20CE449E9E3018F5",
+      "target": "Ah, eso es fácil..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001750_WUKLAMAT",
+      "hash": "2780536CD482B40A",
+      "target": "Si vamos a compartir esta tierra, es la mejor manera de que acabemos siendo amigos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001760_WUKLAMAT",
+      "hash": "8340E92EC973574D",
+      "target": "¿Cómo está?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001770_ALPHINAUD",
+      "hash": "D0C009D6711E4ABF",
+      "target": "Vivirá. Aunque todavía no está para caminar por su propio pie."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001780_WUKLAMAT",
+      "hash": "FE6B5E4F84ACBC11",
+      "target": "Si te quedas atendiéndolo, los demás seguiremos hasta Worqor Zormor."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001790_ALPHINAUD",
+      "hash": "84B15C470C8EA519",
+      "target": "Entendido. Tened cuidado ahí arriba."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001800_VORPORLOR",
+      "hash": "76215B59A457A9C9",
+      "target": "Esto no cambia nada. No renunciaremos a nuestra conquista."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001810_WUKLAMAT",
+      "hash": "55C6BF3BF1F4322A",
+      "target": "Como quieras. Si quieres matarme, eres libre de intentarlo. Pero ahora mismo deberías preocuparte por tu compañero."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001820_ERENVILLE",
+      "hash": "6B653739B486D71F",
+      "target": "En una montaña así seguro que hay criaturas de las que ni yo he oído hablar. Confío en que abras camino."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001830_WUKLAMAT",
+      "hash": "CEC22667A678C3EA",
+      "target": "¡Pues a escalar! ¡Gurfurlur nos espera!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001840_GURFURLUR",
+      "hash": "C2FD3E6BBBC9A187",
+      "target": "¡Soy Gurfurlur, elector del Servidor del Alba! ¡Preparaos para ser puestos a prueba!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001850_GURFURLUR",
+      "hash": "3F6EB4D259854296",
+      "target": "Muy bien, aspirante. Me presento de nuevo: Gurfurlur, Gran Lumbrera de mi pueblo y elector escogido del Servidor del Alba."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001860_WUKLAMAT",
+      "hash": "94C6B52C06A1B06C",
+      "target": "¡Eres mucho más grande que los del poblado!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001870_GURFURLUR",
+      "hash": "A5A017DDEBBD6356",
+      "target": "Todos los Yok Huy fueron una vez de mi tamaño. Pero desde que la enfermedad nos diezmó, es raro ver a un hijo alcanzar la estatura de antaño."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001880_ERENVILLE",
+      "hash": "7B35050519B892DF",
+      "target": "Hablas del contagio que asoló la expedición a Xak Tural. El que figura en vuestros murales..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001885_GURFURLUR",
+      "hash": "073F4E77A551AB0F",
+      "target": "Es un capítulo de nuestra historia enredado con la leyenda de la ciudad dorada."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001890_KRILE",
+      "hash": "461AD33838775153",
+      "target": "He oído que esa leyenda nació entre los Yok Huy. ¿Es cierto...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001900_GURFURLUR",
+      "hash": "35A167280746D3A7",
+      "target": "Con las visiones de nuestros antepasados, para ser exactos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001910_GURFURLUR",
+      "hash": "EE68E2D2A7747EF2",
+      "target": "Antes de la campaña en Xak Tural, a muchos los visitaron sueños de esplendor reluciente."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001920_GURFURLUR",
+      "hash": "5B1CA7249B9F1452",
+      "target": "Describían un paraíso que no conocía ni la guerra ni el hambre. Donde la gente vivía en felicidad eterna..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001930_GURFURLUR",
+      "hash": "BE556AFDFBEF3A35",
+      "target": "A un solo soñador se le habría restado importancia. Pero cuando decenas, si no cientos, contaron lo mismo, las lumbreras se convencieron de que era revelación divina."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001940_KRILE",
+      "hash": "55F1CC926B36ECE9",
+      "target": "Entonces la expedición..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001950_GURFURLUR",
+      "hash": "9198DE5E14CC8E40",
+      "target": "Su propósito era hallar la ciudad de oro, sí. Se reclutó ayuda en todos los territorios bajo nuestro dominio. Se rastrearon tierras a una escala inmensa."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001960_ERENVILLE",
+      "hash": "3FCAAF9FE66B083D",
+      "target": "Ah... con razón la leyenda es tan parecida por todo Tural. Los que participaron en la búsqueda se lo contarían a sus hijos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001970_GURFURLUR",
+      "hash": "56969E0D9DF6940E",
+      "target": "Otro aspirante, por lo que veo. Mediré tu valía, como he medido la de quienes te precedieron."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001980_THANCRED",
+      "hash": "2CBE4D739C58BA3D",
+      "target": "“Aquí y ahora”, supongo que quiere decir."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001990_GURFURLUR",
+      "hash": "3B5947219FAFC1F9",
+      "target": "Bien peleado, Segunda Promesa. Por superar tú y tu hermana la Prueba del Testimonio, ambos seréis recompensados."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002000_WUKLAMAT",
+      "hash": "B2D750AED80211C4",
+      "target": "¡Quedan tres!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002010_URIANGER",
+      "hash": "C4A526F9316B6609",
+      "target": "Cuán glorioso habría sido disputarte la cumbre a ti y a los tuyos... aunque tal vez no con Bakool Ja Ja y sus secuaces pisándonos los talones."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002020_WUKLAMAT",
+      "hash": "09B2E57723EAB92F",
+      "target": "¡Otra vez ese cerdo demostrando su desprecio por el rito!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002030_KOANA",
+      "hash": "55C7C958B1C10320",
+      "target": "Es extraño: con lo empeñado que estaba en hostigarnos, se retiró en cuanto respondimos en serio. No alcanzo a entender qué pretendía..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002040_KOANA",
+      "hash": "983E3BDDCD18A78C",
+      "target": "En esa línea, también me intriga por qué elegiste la cima de Worqor Zormor para cerrar esta prueba."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002050_KOANA",
+      "hash": "22CA97201BB03F30",
+      "target": "En las etapas anteriores fuimos aprendiendo la historia de los Yok Huy. ¿Tiene este lugar también algún significado especial para tu pueblo?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002060_GURFURLUR",
+      "hash": "BC5CF5E8E87B692D",
+      "target": "Sí. Es un lugar de gran significado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002070_ALISAIE",
+      "hash": "ED2918C98E78C47D",
+      "target": "Todos estos monumentos... ¿Es esto un camposanto?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002080_GURFURLUR",
+      "hash": "C88D1E1C99568BF0",
+      "target": "Todas las Grandes Lumbreras que me precedieron reposan en esta tierra. Junto a ellas están los héroes que resistieron con valor cuando Valigarmanda arrasó Urqopacha hace ocho decenios."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002090_ZORAALJA",
+      "hash": "02A5252C5B40167B",
+      "target": "Mmm... Eso explica que haya tantas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002100_WUKLAMAT",
+      "hash": "A7DB88167DD63E56",
+      "target": "Zoraal Ja. Tendría que haber imaginado que llegarías primero..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002120_SAREELJA",
+      "hash": "2DD6A68AC69ED743",
+      "target": "Ah, Tercera Promesa. Qué alivio encontraros con buena salud."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002130_WUKLAMAT",
+      "hash": "F7253EBAB43530D9",
+      "target": "¡Sareel Ja, cabrón! ¡Debería acabar contigo aquí mismo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002140_GURFURLUR",
+      "hash": "F96EE9D5E06DDD0E",
+      "target": "Recuerda dónde estás. O cuidas tus modales, o te marchas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002150_WUKLAMAT",
+      "hash": "5DD77731B10CC343",
+      "target": "Ya, eh... perdón."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002160_ZORAALJA",
+      "hash": "6B4D1274CE8C5BEE",
+      "target": "No veo razón para seguir esperando. Muéstrame el sepulcro de mi padre."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002170_WUKLAMAT",
+      "hash": "D891C18A9A521771",
+      "target": "¿Papá tiene una tumba...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002180_GURFURLUR",
+      "hash": "BDBD0595AA63BCBD",
+      "target": "En este monumento están grabados los nombres de quienes sellaron al monstruoso Valigarmanda. El de tu padre entre ellos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002190_WUKLAMAT",
+      "hash": "B48A6DC85463343F",
+      "target": "“Gulool Ja Ja - Maestro de la Resolución y la Razón. Adalid de la Paz.”"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002200_ERENVILLE",
+      "hash": "C412DDBB73796399",
+      "target": "Mira este. “Ketenramm - Navegante de océanos ignotos.”"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002210_ALISAIE",
+      "hash": "BF59F7670276EB08",
+      "target": "¿Ketenramm? ¿El explorador de Limsa Lominsa? ¿¡Eso significa que acompañó a Gulool Ja Ja en sus viajes!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002220_ERENVILLE",
+      "hash": "463D5A52EBE75099",
+      "target": "“Cahciua - Buscadora de lo desconocido.” Qué extraño ver tu nombre aquí..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002230_GURFURLUR",
+      "hash": "5EF0547FAA848482",
+      "target": "Levantar sepulcros en vida a quienes no eran Yok Huy era algo inaudito... pero su hazaña exigía reconocimiento."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002240_WUKLAMAT",
+      "hash": "7DA992A7E4F6DC4E",
+      "target": "Maestro de la Resolución y la Razón. Adalid de la Paz... Papá hizo cosas increíbles de verdad."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002250_ZORAALJA",
+      "hash": "CABDA9F402065160",
+      "target": "Se abrió camino con destreza marcial."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002260_KOANA",
+      "hash": "7334A2F704AD8A6F",
+      "target": "Pero fue el ingenio lo que le permitió atrapar a Valigarmanda con su propia magia de hielo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002270_WUKLAMAT",
+      "hash": "8FFEDE30046B3CB3",
+      "target": "Destreza marcial e ingenio... Mmm."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002280_WUKLAMAT",
+      "hash": "E540DD410080BEFA",
+      "target": "No compito con el dominio que Zoraal Ja tiene de las técnicas de la Cabeza de la Resolución."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002290_WUKLAMAT",
+      "hash": "0F9C74B25F9DEC08",
+      "target": "Y en cuanto a conocimiento, Koana es quien más se parece a la Cabeza de la Razón."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002300_WUKLAMAT",
+      "hash": "AA82120B75BC5C86",
+      "target": "¿Hay algo que yo haya heredado de papá? Algo que se me dé mejor que a los demás..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q4_000_001_NONE_VOICE",
+      "hash": "96228255DFCDF2BD",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A4_000_001_NONE_VOICE",
+      "hash": "BF3ADBBFE81D6267",
+      "target": "Tienes su amor por la paz."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A4_000_002_NONE_VOICE",
+      "hash": "FA5C4026D8DC756A",
+      "target": "¿Qué define a tu padre además de la fuerza y el saber?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002310_WUKLAMAT",
+      "hash": "2178B0C126B781DB",
+      "target": "...¡Claro!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002320_WUKLAMAT",
+      "hash": "DADFEF2F749C48DF",
+      "target": "¿Qué más lo define...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002330_WUKLAMAT",
+      "hash": "AB0E52CD85E4A621",
+      "target": "¡Ah, claro!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002340_WUKLAMAT",
+      "hash": "EA7D05CAA63935F8",
+      "target": "¡El amor de papá por la paz, por su gente! Eso es lo que me ha dado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002350_WUKLAMAT",
+      "hash": "BD0584A39A3DEA09",
+      "target": "¡Y peleo para conservar el Tural en paz que él construyó!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002360_WUKLAMAT",
+      "hash": "8AE8B43789FEEE92",
+      "target": "¿¡Qué demonios ha sido eso!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002370_ALPHINAUD",
+      "hash": "1DB5B50EC8F6648C",
+      "target": "¡Tenéis que volver al Eco de Worlar de inmediato!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002380_ALPHINAUD",
+      "hash": "8F4ED75518FDCF88",
+      "target": "¡Valigarmanda se ha liberado!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002390_THANCRED",
+      "hash": "72749BB124014920",
+      "target": "¿Supongo que era por ese sonido impío?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002400_GURFURLUR",
+      "hash": "7D49FD6F254F4CB7",
+      "target": "¿¡Valigarmanda está libre!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002410_WUKLAMAT",
+      "hash": "8E6DE79491C1B066",
+      "target": "¡Hay que volver allí, ya!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002420_SAREELJA",
+      "hash": "61FA1D2C8D9D3FF1",
+      "target": "Qué oportuno. Se nos regala la ocasión de adelantar a nuestros rivales."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002430_WUKLAMAT",
+      "hash": "7E4883F03EECC9F8",
+      "target": "¿¡Qué ha pasado!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002440_KOANA",
+      "hash": "1F4D36BD06FF04FE",
+      "target": "Así que es cierto: el hielo ha cedido..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002450_GURFURLUR",
+      "hash": "D06BD8573C62305E",
+      "target": "Zurmurwur. Cuéntales lo que me has contado."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002460_ZURMURWUR",
+      "hash": "38957AA9640ED050",
+      "target": "Hace un rato, uno de los aspirantes nos hizo una visita..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002470_ZURMURWUR",
+      "hash": "7F5DD33EECE7B4AC",
+      "target": "¿Quién entra en esta sala sagrada?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002480_ZURMURWUR",
+      "hash": "ACB97A8E501FC7A6",
+      "target": "Ah, un aspirante."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002490_BAKOOLJAJA",
+      "hash": "7FF47507B0E12A50",
+      "target": "Oooh. Así que este es el poderoso Valigarmanda."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002500_ZURMURWUR",
+      "hash": "AD675B409626E995",
+      "target": "Un vidraal aterrador. Con cada despertar ha grabado su nombre ruinoso en la memoria de una nueva generación..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002510_BAKOOLJAJA",
+      "hash": "A8D71BBD6F4AAE16",
+      "target": "Qué monada de horror."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002520_BAKOOLJAJA",
+      "hash": "39B3DEF54D4D54DA",
+      "target": "¡Te has quedado dormidito justo hasta el día en que te necesitaba!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002530_ZURMURWUR",
+      "hash": "6E40C6CAB91A710A",
+      "target": "Explícate."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002540_BAKOOLJAJA",
+      "hash": "BF9DE1ADCDA3788A",
+      "target": "Es como cuentan... Gulool Ja Ja desbocó su magia y lo encerró en una prisión de hielo hecha por él mismo. ¡Muy listo, muy listo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002550_BAKOOLJAJA",
+      "hash": "60E0732CFA4628E8",
+      "target": "Deshacerlo sería bastante peliagudo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002560_BAKOOLJAJA",
+      "hash": "BC45A2F1D064E04A",
+      "target": "Hay que lanzar dos hechizos en el mismo instante exacto: una conflagración capaz de fundir el hielo y una llama despertadora que reavive el alma del vidraal dormido."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002570_BAKOOLJAJA",
+      "hash": "1EFD378ABA480413",
+      "target": "Los únicos capaces de una ejecución tan acompasada serían las Cabezas de la Razón y de la Resolución..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002580_BAKOOLJAJA",
+      "hash": "04053537949C4E98",
+      "target": "...¡y los hermanos benditos, Bakool Ja Ja!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002590_ZURMURWUR",
+      "hash": "4D2F35A8A8EA843A",
+      "target": "¡No lo hagas!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002600_BAKOOLJAJA",
+      "hash": "5743C1BA28B51DC7",
+      "target": "Pero si ya está hecho..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002610_BAKOOLJAJA",
+      "hash": "8CD4ACFA9B443487",
+      "target": "Levántate y arrasa, pequeño horror."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002620_BAKOOLJAJA",
+      "hash": "EDB80B554D4D7A85",
+      "target": "Se me ha ido un poco la mano con el fuego."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002630_ZURMURWUR",
+      "hash": "7B9E41329063BA1F",
+      "target": "Pura locura... ¿Por qué has hecho esto?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002640_BAKOOLJAJA",
+      "hash": "CBBAC1D28D58476A",
+      "target": "¡Por el trono, evidentemente!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002650_ZURMURWUR",
+      "hash": "5D7F1D74BFDC2EE4",
+      "target": "¿Desatas una calamidad por tu propio beneficio? ¿¡Tienes idea de cuántos pueden morir!?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002670_BAKOOLJAJA",
+      "hash": "AB4B77B8F35BAF81",
+      "target": "Siembra el caos, Valigarmanda. Haz honor a tu leyenda."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002680_ZURMURWUR",
+      "hash": "9C7789D668507919",
+      "target": "Ya se ha enviado un mensajero a Tuliyollal. La Legión del Alba mandará un contingente, no me cabe duda, pero no hay modo de saber cuándo llegará..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002690_WUKLAMAT",
+      "hash": "C75F54EB03BF0666",
+      "target": "Ese idiota... ¡Esta monstruosidad pasa de la raya, incluso viniendo de él!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002700_ALISAIE",
+      "hash": "808F6B1392047236",
+      "target": "Bueno... ¿cuál es el plan?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002710_WUKLAMAT",
+      "hash": "5189A28A402A9AFF",
+      "target": "Si dejamos al vidraal en manos de otros, será una masacre."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002720_WUKLAMAT",
+      "hash": "F1056257B16E7C9A",
+      "target": "Habrá quien diga que es lo más sensato si no quiero quedarme atrás en la contienda, pero no podría vivir conmigo misma. ¡Y quienes me apoyan merecen una soberana mejor!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002730_WUKLAMAT",
+      "hash": "91FB64119DB6EB06",
+      "target": "Así que ya está decidido. ¡Me quedo y peleo contra Valigarmanda!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002740_WUKLAMAT",
+      "hash": "D985FDCA052B6FCA",
+      "target": "Es un enemigo tan poderoso que ni mi padre logró matarlo. Sola no tengo ninguna posibilidad."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002750_WUKLAMAT",
+      "hash": "21E8A2F6F660CF68",
+      "target": "Sé que no tenéis ninguna obligación de ayudarme fuera del rito de sucesión..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002760_WUKLAMAT",
+      "hash": "A43D1005D5FCDD69",
+      "target": "Pero por Urqopacha y su gente, ¡os suplico que peleéis conmigo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q5_000_001_NONE_VOICE",
+      "hash": "29972EA68E34F47D",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A5_000_001_NONE_VOICE",
+      "hash": "FCEE969F70D88F17",
+      "target": "¡Ni hacía falta preguntar!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A5_000_002_NONE_VOICE",
+      "hash": "1F49BD8303C2CC6A",
+      "target": "Para estos retos vivo yo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A5_000_003_NONE_VOICE",
+      "hash": "04DF5C93A13BDF7E",
+      "target": "¿Qué otra opción nos queda...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002770_WUKLAMAT",
+      "hash": "81B471EA1B23ED99",
+      "target": "¡Ja! Te atrae el caos, igual que a papá. No te preocupes: la Ruina del Cielo será reto de sobra para todos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002780_WUKLAMAT",
+      "hash": "434182601EB517B8",
+      "target": "¿¡Entonces me ayudáis!? Gracias, ¡no lo olvidaré!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002790_ALISAIE",
+      "hash": "C26B4CFAE77B0B61",
+      "target": "Lejos de nosotros abandonar a una compañera querida cuando más nos necesita."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002800_WUKLAMAT",
+      "hash": "0373A1509F467833",
+      "target": "Compañeros <italic(1)>queridos<italic(0)>, ahora..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002810_WUKLAMAT",
+      "hash": "0C70B37631A3A693",
+      "target": "Je, he de decir que suena bastante reconfortante."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002820_WUKLAMAT",
+      "hash": "BCDE0F9D5F52BF8D",
+      "target": "Saber que alguien te cubre las espaldas hace más fácil lo que hay que hacer."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002830_THANCRED",
+      "hash": "FF1DB60E80DA46BC",
+      "target": "¿Y nosotros qué hacemos?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002840_KOANA",
+      "hash": "D0C6296D557BB4CD",
+      "target": "Quien tuviera por encima de todo ganar la contienda seguiría adelante sin detenerse..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002850_ERENVILLE",
+      "hash": "688477F94E4A4756",
+      "target": "Si estáis decididos a matar a Valigarmanda, habrá que averiguar adónde fue la bestia."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002860_WUKLAMAT",
+      "hash": "3A7B2861A8EA1EE1",
+      "target": "¡Para eso te tenemos a ti, viejo amigo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002870_GURFURLUR",
+      "hash": "1AF2B12FB5898393",
+      "target": "Avisad del peligro a los Pelupelu. Puede que tengan que huir a tierras más bajas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002880_ERENVILLE",
+      "hash": "42BFCB9920D223C6",
+      "target": "El rastro termina aquí, parece."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002890_ERENVILLE",
+      "hash": "7D96A65FB220658C",
+      "target": "¿Habrá cambiado Valigarmanda de aspecto elemental...? Al fin y al cabo, tiene tres entre los que elegir."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002900_ERENVILLE",
+      "hash": "4B496B01759F6A4D",
+      "target": "En cualquier caso, estoy casi seguro de que el vidraal iba en dirección a Worqor Lar Dor."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002910_ERENVILLE",
+      "hash": "24FF63CBDB0A2419",
+      "target": "Deberíamos avisar a los demás de que tenemos una localización probable."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002920_ALISAIE",
+      "hash": "76BC2586E3C35885",
+      "target": "Alphinaud está ayudando a los Yok Huy con la evacuación. Pensó que les vendría bien una mano sanadora con los heridos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002930_WUKLAMAT",
+      "hash": "5B20942BB3341437",
+      "target": "Y bien, ¿dónde está Valigarmanda?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002940_ERENVILLE",
+      "hash": "1D7EBEA01737BBE5",
+      "target": "Worqor Lar Dor. Sus estratos contienen una riqueza de cristales, y de ahí vendría su brillo de mil colores."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002950_ERENVILLE",
+      "hash": "3C582A9A1F85498E",
+      "target": "Tras ochenta años de encierro, el vidraal necesitará alimento con urgencia. Las energías de esa montaña lo habrán atraído."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002960_KRILE",
+      "hash": "B7CE8FB95B947619",
+      "target": "Así que Valigarmanda busca reponer su éter..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002970_WUKLAMAT",
+      "hash": "BA8D13F59B120A55",
+      "target": "Pues no le demos la oportunidad."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002980_VORPORLOR",
+      "hash": "4B7488A1059A020D",
+      "target": "¡Alto!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_002990_VORPORLOR",
+      "hash": "59268E69974AB309",
+      "target": "Esa montaña es tierra sagrada. Os prohíbo poner un pie en ella."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003000_WUKLAMAT",
+      "hash": "234A646AFA57FB5C",
+      "target": "Perdona, nosotros... No es nuestra intención profanar nada."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003010_WUKLAMAT",
+      "hash": "BCAFDB6B32684CC3",
+      "target": "Pero tienes que entenderlo. ¡Es adonde ha ido Valigarmanda!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003020_WUKLAMAT",
+      "hash": "F3A5C62382721CC9",
+      "target": "Si no lo matamos ahora, masacrará a incontables inocentes, como en los viejos tiempos. ¡Te lo suplico, déjanos entrar!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003030_VORPORLOR",
+      "hash": "4F2E0B445F83902C",
+      "target": "Ni hablar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003040_VORPORLOR",
+      "hash": "5A5021B7B40C0134",
+      "target": "Vuestra cuadrilla no es capaz de derrotar a Valigarmanda. O buscáis profanar Worqor Lar Dor, o sois necios."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003050_KOANA",
+      "hash": "57827DE5DEAA475B",
+      "target": "Si dudas de sus posibilidades, ¿qué te parecería si nos uniéramos a ellos?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003060_KOANA",
+      "hash": "F5AD21D0A07A9722",
+      "target": "El monumento a la derrota de Valigarmanda lleva los nombres de siete héroes. Con nuestras fuerzas unidas, también somos siete."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003070_VORPORLOR",
+      "hash": "F3D70721E1D4DC8F",
+      "target": "Siete debiluchos están tan condenados como cuatro."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003080_WUKLAMAT",
+      "hash": "20CD446F0CCA2206",
+      "target": "¡Zoraal Ja! ¡Tú también has venido a ayudar!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003090_SAREELJA",
+      "hash": "063264EBDED1DE0C",
+      "target": "Contra mi buen consejo. Mientras los demás forcejeabais con la Ruina del Cielo, podríamos habernos hecho con una ventaja insalvable."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003100_ZORAALJA",
+      "hash": "8836B81CF7DC0682",
+      "target": "Un retraso menor. No cambiará el resultado de la contienda."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003110_ZORAALJA",
+      "hash": "CE1EF49A2808D4CE",
+      "target": "Quiero medir a este tural vidraal al que mi padre no pudo matar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003120_WUKLAMAT",
+      "hash": "B98655A6ADC47403",
+      "target": "¡Con mis dos hermanos aquí, esta batalla está prácticamente ganada!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003130_VORPORLOR",
+      "hash": "5548FE019CE8A25C",
+      "target": "Celebráis antes de tiempo. En ningún momento he dicho que os dejara pasar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003140_WUKLAMAT",
+      "hash": "70CE6F471AAED056",
+      "target": "¡Hermano, no! ¡No alzamos armas contra nuestra propia gente!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003150_SAREELJA",
+      "hash": "982F68C01A4844DA",
+      "target": "Qué cosa más extraña de decir. Si no recuerdo mal, los habitantes de las Salinas de Chirwagur no se consideran miembros de la nación de Tuliyollal."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003160_SAREELJA",
+      "hash": "C7F18402C6318D04",
+      "target": "No los llamaría “nuestra propia gente”."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003170_WUKLAMAT",
+      "hash": "80971A680F12EA14",
+      "target": "¿¡Y eso qué más da!? Miembros o no, ¡todo el que vive en Tural forma parte de nuestro sueño de paz!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003180_WUKLAMAT",
+      "hash": "B09CE6A90B874D83",
+      "target": "¡Si queréis hacerles daño, tendréis que pasar por encima de mí!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003190_YOKHUYENEMYA",
+      "hash": "BB41E05F6C25E463",
+      "target": "Ella... ella salvar a mí. Del pájaro de la montaña. Ahora, entonces... mismos ojos. Ojos de piedra. Palabras de piedra."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003200_VORPORLOR",
+      "hash": "7ACA7F3935A5109E",
+      "target": "Seguimos en deuda con ella. Es cierto."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003210_VORPORLOR",
+      "hash": "ADBB47D4501FEA28",
+      "target": "Damos la deuda por saldada."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003220_VORPORLOR",
+      "hash": "744F311037E704C1",
+      "target": "Pero no os confundáis. No nos sometemos al dominio de Tuliyollal."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003230_WUKLAMAT",
+      "hash": "0117E2BCB3357683",
+      "target": "Sí, ha quedado claro. ¡Ya hablaremos más cuando acabe la contienda!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003240_VORPORLOR",
+      "hash": "D572720E08380E2B",
+      "target": "...Dime tu nombre."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003250_WUKLAMAT",
+      "hash": "2038E4F54CB623B2",
+      "target": "¡Wuk Lamat! ¡Protectora de la paz y futura Servidora del Alba!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003260_ALISAIE",
+      "hash": "EBB7E4B36AFA0F0E",
+      "target": "Hasta quienes tienen ideales radicalmente distintos pueden entenderse hablando con sinceridad. Lo creo de todo corazón."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003270_WUKLAMAT",
+      "hash": "5A6E178F8DB7EB09",
+      "target": "Yo también. No me rendiré hasta que lleguemos a un acuerdo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003280_SAREELJA",
+      "hash": "0FF7FC66357FBE19",
+      "target": "Suponiendo que sobreviváis. Estos viejos huesos y yo esperaremos aquí el regreso del verdadero heredero."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003290_KOANA",
+      "hash": "81418D380F59D4E8",
+      "target": "Tus pensamientos siempre han sido un misterio para mí, hermano, pero me alivia verte dejar la contienda a un lado por el bien común."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003300_ZORAALJA",
+      "hash": "8595C5C1262009BF",
+      "target": "Nuestra nación es una fortaleza, y su gente los ladrillos con que está levantada. Cuantos más se pierdan o se quiebren, más débil será Tuliyollal."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003310_ZORAALJA",
+      "hash": "5E089F8BE66EFCE9",
+      "target": "Hasta la piedra más tosca vale como peldaño."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003320_WUKLAMAT",
+      "hash": "C23AA7228D0586FC",
+      "target": "¡Vamos, vosotros dos! ¡Olvidaos del rito de sucesión por ahora y ayudadme a pelear con este pajarraco-serpiente!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003330_WUKLAMAT",
+      "hash": "D51CF93903A90E1D",
+      "target": "Me da igual lo fuerte que sea la Ruina del Cielo: ¡vamos a acabar con esta amenaza para siempre!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003340_WUKLAMAT",
+      "hash": "4F597C5028B67B1A",
+      "target": "Lo logramos... ¡Matamos a Valigarmanda!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003350_WUKLAMAT",
+      "hash": "C5490D12A7F7C15B",
+      "target": "¡Una hazaña que ni el gran Gulool Ja Ja logró!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003360_WUKLAMAT",
+      "hash": "0CA61EEC47FF178B",
+      "target": "¡Ja! ¡Por ti, papá!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003370_KOANA",
+      "hash": "EABF00B62C1374D5",
+      "target": "No se puede negar que ha sido un logro impresionante. Pero yo no me apresuraría a decir que hemos superado a padre."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003380_KOANA",
+      "hash": "DC0169AA78BECB87",
+      "target": "El vidraal estaba debilitado por décadas de encierro. De haberlo enfrentado en plenitud, no nos habría ido ni la mitad de bien."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003390_WUKLAMAT",
+      "hash": "C0E27EC21EBF4A7B",
+      "target": "¿¡Cómo puedes decir eso!? Ochenta años tampoco habrán cambiado <italic(1)>tanto<italic(0)> las cosas, ¿no?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003400_WUKLAMAT",
+      "hash": "348ECAC418F80DD4",
+      "target": "Bah, a quién quiero engañar. Papá sigue siendo el mejor..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q6_000_001_NONE_VOICE",
+      "hash": "BD4AF4F98EC253C5",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A6_000_001_NONE_VOICE",
+      "hash": "7CB75E2BA04B7469",
+      "target": "¡Aun así peleaste bien!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A6_000_002_NONE_VOICE",
+      "hash": "F70472D3DDEE302C",
+      "target": "Seguro que algún día lo superas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A6_000_003_NONE_VOICE",
+      "hash": "6C23BB03C6F41E37",
+      "target": "Aún te queda camino..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003410_WUKLAMAT",
+      "hash": "FC71ED1AEEF9B46D",
+      "target": "Es verdad, ¿no? Aunque no estuviera en plenitud, ¡derrotamos a una leyenda viva!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003420_WUKLAMAT",
+      "hash": "A1340A606E548F60",
+      "target": "¡Te juro que algún día superaré al viejo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003430_WUKLAMAT",
+      "hash": "0AEBAD460FF1CDE7",
+      "target": "¡En eso tienes razón! ¡Solo me hacen falta unas cuantas batallas más como esta!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003440_WUKLAMAT",
+      "hash": "823986DAC1158FD4",
+      "target": "En eso tienes razón... Tendré que mejorar si quiero superar al viejo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003450_ZORAALJA",
+      "hash": "C2C196A4805D37C1",
+      "target": "La Ruina del Cielo yace muerta, y sigo sin demostrar que soy el milagro..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003460_KRILE",
+      "hash": "38989B5C0C92160B",
+      "target": "Bueno, supongo que deberíamos volver y reunirnos con Erenville."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003470_WUKLAMAT",
+      "hash": "562339C5F55E8DEE",
+      "target": "Sí, lo dejamos con Sareel Ja como única compañía..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003480_WUKLAMAT",
+      "hash": "ADB56DA719A6156B",
+      "target": "¿Al templo, entonces?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003490_GURFURLUR",
+      "hash": "5C20BAB7F3D17B2B",
+      "target": "No hará falta, héroes del momento."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003500_GURFURLUR",
+      "hash": "38ADA9069CAD55C1",
+      "target": "Valigarmanda ya no existe. La vuestra es una victoria digna de canto."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003510_ZURMURWUR",
+      "hash": "7E21122A70297DEF",
+      "target": "Mmm... Teníamos previsto celebrar aquí, en el poblado, una segunda prueba, pero la temeridad de vuestro rival la ha dejado sin sentido."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003520_WUKLAMAT",
+      "hash": "A59161ABA2F6F691",
+      "target": "¿Otra prueba más?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003530_ZURMURWUR",
+      "hash": "E7FE94A3168055ED",
+      "target": "La Prueba del Hielo. Debíais reforzar la prisión de Valigarmanda."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003540_ZURMURWUR",
+      "hash": "3229F921BDA71842",
+      "target": "Mmm... ¿Cómo procedemos, Gran Lumbrera?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003550_GURFURLUR",
+      "hash": "E8573F5BBADC050C",
+      "target": "¿Qué más queda por probar, Zurmurwur? Han derrotado a la Ruina del Cielo y salvado los dioses saben cuántas vidas. Si no son herederos dignos de Gulool Ja Ja, nadie lo es."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003560_GURFURLUR",
+      "hash": "A6BE1494580B3D26",
+      "target": "Ahora que ha llegado el último aspirante, podemos con las formalidades. Por la destreza y el valor que habéis mostrado los tres, os concedo a cada uno una segunda piedra clave."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003570_ALPHINAUD",
+      "hash": "1C03EAB27BBC6292",
+      "target": "Con esa van cinco. Solo quedan dos por reunir."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003580_WUKLAMAT",
+      "hash": "57C0EC438BF035AC",
+      "target": "Salvo que una de esas cinco está en las manos ladronas de Bakool Ja Ja. ¡Responderá por eso y por soltar a Valigarmanda!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003590_GURFURLUR",
+      "hash": "FF0E8754217B1825",
+      "target": "Habéis traído una tranquilidad duradera a nuestro hogar y os habéis ganado la gratitud de todos los Yok Huy."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003600_GURFURLUR",
+      "hash": "87101658D5E8CF21",
+      "target": "¡Que la gloria y la prosperidad sigan bendiciendo Tuliyollal en esta nueva era!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003610_WUKLAMAT",
+      "hash": "6E1CDDCB702A993F",
+      "target": "Nunca fue muy hablador, nuestro hermano."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003620_WUKLAMAT",
+      "hash": "3E647D3B43DB1509",
+      "target": "¡Si os apetece, deberíais visitar la capital! ¡Me gustaría que todos os conocieran mejor a ti y a los tuyos!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003630_GURFURLUR",
+      "hash": "87F3450FF5272018",
+      "target": "¡Ja! Me lo pensaré... si es uno de vosotros dos quien se lleva el trono."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003640_KOANA",
+      "hash": "745E4B71D7053A6F",
+      "target": "Entonces solo tenéis que esperar una misiva del Alcázar del Sol: yo mismo enviaré las invitaciones."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003650_GURFURLUR",
+      "hash": "0B4C7A709BF04A7D",
+      "target": "Hoy es día de visitas insólitas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003660_VORPORLOR",
+      "hash": "A6E9CD964F3B9972",
+      "target": "Tú... Wuk Lamat, ¿no era así?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003670_VORPORLOR",
+      "hash": "E88338176B0054D9",
+      "target": "Dudé que pudierais matar a Valigarmanda, pero el silencio del cielo proclama vuestro triunfo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003680_VORPORLOR",
+      "hash": "EEAFAD2FB5899FBF",
+      "target": "Si se hubiera dejado al vidraal campar libre, nos habría aterrorizado a todos... Una vez más, estamos en deuda con vosotros."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003690_WUKLAMAT",
+      "hash": "5A069B0D3ED40770",
+      "target": "No nos debéis nada: peleamos porque quisimos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003700_VORPORLOR",
+      "hash": "33C5268A6C73B2A4",
+      "target": "Aun así, la deuda existe. Me perseguirá si no la saldo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003710_WUKLAMAT",
+      "hash": "D731D122DC89A9A8",
+      "target": "Mmm... Ni siquiera sabría qué pedir."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003720_KRILE",
+      "hash": "39A4ADDCED715A3A",
+      "target": "¿Quizá pueda contarnos lo de los sueños de la ciudad dorada?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003730_WUKLAMAT",
+      "hash": "30FA3D9BC2B17FC4",
+      "target": "¡Ah, buena idea! ¡Justo estaba en mi lista de preguntas!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003740_VORPORLOR",
+      "hash": "31F91FC41B62DE32",
+      "target": "Los sueños dorados... Sí, guardamos registros de nuestros antepasados y sus visiones de antes de la expedición a Xak Tural."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003750_KRILE",
+      "hash": "4209A6D233CF8AEC",
+      "target": "¿Qué vieron vuestros antepasados?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003760_VORPORLOR",
+      "hash": "C2EF9E464E9D8F98",
+      "target": "Una tierra celestial, bañada en un fulgor dorado. Su gente vivía como dioses: sin envejecer, sin morir, libre de penurias y conflictos."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003770_VORPORLOR",
+      "hash": "500B91B6AA77C5D8",
+      "target": "Cada edificio era un palacio, y en medio reinaba una diosa silenciosa. Una estatua tan alta que hasta los míos tendrían que alzar la vista para verle el rostro."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003780_KRILE",
+      "hash": "6BA0B89D5775795C",
+      "target": "¿Una estatua de una diosa? Eso es nuevo..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003790_ALPHINAUD",
+      "hash": "4DE1D30D70075865",
+      "target": "Sí. Y comparado con las imágenes abstractas que habíamos oído, esta descripción es detallada."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003800_VORPORLOR",
+      "hash": "BE318E1B5B8683C3",
+      "target": "A los soñadores los consumieron sus visiones: se vieron obligados a buscar el paraíso que se les había mostrado. Viajaron a Xak Tural... donde murieron a montones."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003810_KRILE",
+      "hash": "1FB674D0DAA6ADD2",
+      "target": "Quienes van en busca de la ciudad dorada no vuelven... Puede que lo que contaba Wuk Evu tuviera raíz en un hecho histórico."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003820_VORPORLOR",
+      "hash": "A6AB25CA5BCDF8A4",
+      "target": "Quizá. ¿Quién puede saber la verdad? Cuando nuestros antepasados dejaron el bosque, no hubo más sueños ni más soñadores."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003830_KRILE",
+      "hash": "A08B9009A2907A95",
+      "target": "¿El bosque? ¿A qué te refieres?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003840_VORPORLOR",
+      "hash": "F3D339EB5234A910",
+      "target": "Desde el principio se decía que las visiones solo visitaban a quienes trabajaban las canteras de Yak T'el."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003850_VORPORLOR",
+      "hash": "17F3C7FD36B2E87A",
+      "target": "Pero, tras ser asolados por la enfermedad y ver menguar los nacimientos, se vieron forzados a abandonar aquel territorio."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003860_VORPORLOR",
+      "hash": "A9C9F7B7EBFF14ED",
+      "target": "Consumada la retirada de nuestro pueblo a Urqopacha, nunca volvimos a soñar con la ciudad dorada."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003870_KRILE",
+      "hash": "2981BCE84C4FCE0E",
+      "target": "Así que solo los Yok Huy de esa zona concreta tuvieron las visiones... Fascinante."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003880_WUKLAMAT",
+      "hash": "C6DFF66339549DDE",
+      "target": "Pues nuestro siguiente destino es Yak T'el. Quizá averigüemos más al llegar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003890_WUKLAMAT",
+      "hash": "5D61058D3C0BF5CD",
+      "target": "Gracias por compartir vuestras historias."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003900_VORPORLOR",
+      "hash": "1ECA0DA552D976F5",
+      "target": "No necesito gratitud. Solo he saldado una deuda."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003910_VORPORLOR",
+      "hash": "4037D238F9AB81A9",
+      "target": "Adiós, Wuk Lamat. No creo que nuestros caminos vuelvan a cruzarse."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003920_WUKLAMAT",
+      "hash": "BB391DE40855EB40",
+      "target": "¿Tienes un momento?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003930_WUKLAMAT",
+      "hash": "09B66840E92B8F68",
+      "target": "Hay algo de lo que quería hablarte..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003940_WUKLAMAT",
+      "hash": "A5CD25AEA3F70892",
+      "target": "Pues... eh..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003950_WUKLAMAT",
+      "hash": "E07E0A85D1E658A4",
+      "target": "¡Aaargh!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003960_WUKLAMAT",
+      "hash": "CD77277D65CD5B67",
+      "target": "Es que aquí dentro... se agobia una, eso es."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003970_WUKLAMAT",
+      "hash": "223AEF0B7BFB104C",
+      "target": "¡Salgamos fuera! ¡Sí, un buen paseo al aire libre, eso es lo que necesitamos!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003980_WUKLAMAT",
+      "hash": "E3DCECE8FF23EE18",
+      "target": "Así mucho mejor."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_003990_WUKLAMAT",
+      "hash": "4B885F8A5E111B37",
+      "target": "De pequeña venía aquí todo el rato. Miraba la ciudad entera y, fueran cuales fueran mis preocupaciones, se volvían diminutas."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004000_WUKLAMAT",
+      "hash": "279447F9CAC7B0A1",
+      "target": "¿Te acuerdas de lo que dije en la cima de Worqor Zormor...?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004010_WUKLAMAT",
+      "hash": "9365262CE2BEAA10",
+      "target": "¿Que pelearía para conservar el Tural en paz de papá?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004020_WUKLAMAT",
+      "hash": "AD3F4534B9A6C097",
+      "target": "Pues he pensado mucho desde entonces."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004030_WUKLAMAT",
+      "hash": "820D9ADECA9109CF",
+      "target": "Sobre lo que significa de verdad la “paz”. Si es solo... la ausencia de guerra."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004040_WUKLAMAT",
+      "hash": "7BB0AF3BB3BBF29F",
+      "target": "Y me vinieron a la cabeza los mejores momentos del viaje."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004050_WUKLAMAT",
+      "hash": "C96C31E5F5DC3003",
+      "target": "Me di cuenta: nada me alegra más que la felicidad de los demás."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004060_WUKLAMAT",
+      "hash": "94E4F82F61D05B31",
+      "target": "La vida tiene altibajos, pero la compañía de la familia y los amigos, y la música de sus risas, es lo que hace que merezca la pena."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004070_WUKLAMAT",
+      "hash": "A602E4AC48AD844D",
+      "target": "Y por tonto que suene, he llegado a creer que esas caras sonrientes son la mejor medida de la paz."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_Q7_000_001_NONE_VOICE",
+      "hash": "FC64B8765923E5FA",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A7_000_001_NONE_VOICE",
+      "hash": "ABB54A5AD842F224",
+      "target": "Es muy propio de ti decir algo así."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A7_000_002_NONE_VOICE",
+      "hash": "4DA6AA7448ACC67A",
+      "target": "¿Quieres un mundo como el del sueño de los Yok Huy?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_A7_000_003_NONE_VOICE",
+      "hash": "B667ED6BFA07BA34",
+      "target": "Los ideales están bien en teoría..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004080_WUKLAMAT",
+      "hash": "CB35BD984087A677",
+      "target": "Je, ¿sí? No sé por qué, pero me da orgullo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004090_WUKLAMAT",
+      "hash": "C23268B2D5279316",
+      "target": "Es una respuesta a la que llegué intentando ser fiel a mí misma. Que creas que lo conseguí... significa mucho."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004100_WUKLAMAT",
+      "hash": "1E41F75957B28E27",
+      "target": "¿Con vida eterna y sin penurias ni conflictos? Desde luego es un ideal por el que vale la pena luchar."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004110_WUKLAMAT",
+      "hash": "A2C2040E970CAEA0",
+      "target": "Quién sabe si podríamos hacer real un mundo así, pero renunciar a la guerra y a la conquista parece un buen punto de partida."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004120_WUKLAMAT",
+      "hash": "99C99D6FE6C698E8",
+      "target": "Entiendo que hacer feliz a todo el mundo no es práctico, ni siquiera posible."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004130_WUKLAMAT",
+      "hash": "B9AED79C7D1AD5BD",
+      "target": "¡Pero eso no significa que no debamos intentarlo!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004140_WUKLAMAT",
+      "hash": "8048587F1EFB4A6C",
+      "target": "Así que este es mi plan..."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004150_WUKLAMAT",
+      "hash": "591A14A47470608F",
+      "target": "¡Cuando sea Servidora del Alba, ampliaré la paz de papá! ¡Nuestra gente vivirá unida en armonía!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004160_WUKLAMAT",
+      "hash": "C1839405D9F2F735",
+      "target": "Es justo lo que decía Krile."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004170_WUKLAMAT",
+      "hash": "77BB827910D4D8CA",
+      "target": "Dedicando tiempo a escuchar sus inquietudes, a sentir con ellos y a pensar cómo servirles mejor... Cada día que pase estaré más cerca de ser la líder que quiero ser."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004180_WUKLAMAT",
+      "hash": "EF7B9171E755A74E",
+      "target": "Me cuesta decir cuánto he cambiado desde que empezó la contienda, pero hay una cosa que puedo afirmar con seguridad."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004190_WUKLAMAT",
+      "hash": "BBB727024C19E774",
+      "target": "¡No habría llegado tan lejos sin vosotros como aliados!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004200_WUKLAMAT",
+      "hash": "65B529FCBF44CA5A",
+      "target": "Si no fuera porque escucháis, sentís y pensáis conmigo, jamás habría aprendido tanto en tan poco tiempo."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004210_WUKLAMAT",
+      "hash": "0EA0E3E8D5B4B0CE",
+      "target": "Quedan dos piedras clave. Después de todo lo que ha pasado, y de imaginar lo que <italic(1)>podría<italic(0)> pasar, ¿sigues <if(gnum4,dispuesta,dispuesto)> a recorrer este camino conmigo?"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004220_WUKLAMAT",
+      "hash": "943295A93C69C33F",
+      "target": "Je, gracias a los dioses."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_004230_WUKLAMAT",
+      "hash": "5DDA0806644CDEEB",
+      "target": "¡Bueno, ya no me queda nada dentro! Tengo que pasar por el palacio, pero nos vemos en las Cabinas de Proa."
+    }
+  ]
+}

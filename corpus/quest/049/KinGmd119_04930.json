@@ -1,0 +1,387 @@
+{
+  "conversation": "quest/049/KinGmd119_04930",
+  "questName": "On the Cloud",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_SEQ_00", "hash": "C6DFBBF18B0C7D1B", "target": "Sphene quiere llevarte de vuelta a los Outskirts." },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_00", "hash": "F47D7A6FB6A61DA2", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_01", "hash": "C1C77551FAF864CF", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_02", "hash": "589DF18F5BA6FA8C", "target": "Hablar con los habitantes de los Outskirts" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_03", "hash": "FC91035468A1EFC4", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_04", "hash": "73669EBE32765892", "target": "Otear el lugar indicado" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_05", "hash": "21B33A26C2575F0A", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_06", "hash": "DD76829BAB93E9AB", "target": "Volver a hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_07", "hash": "1E89DA1553A4114B", "target": "Volver a hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_TODO_08", "hash": "A875AD082474E08A", "target": "Hablar con Erenville en el escondite del Cielo Térreo" },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_001",
+      "hash": "60247F35B647A270",
+      "target": "Zoraal Ja, maldito seas..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_SPHENE_000_010",
+      "hash": "B1AE6A10D4ADFAE7",
+      "target": "¿Y si volvemos a los Arrabales? Me atrevería a decir que vuestros amigos ya habrán regresado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_MAHUWSA_000_011",
+      "hash": "26C36AE2671C0FBA",
+      "target": "Gracias otra vez por ocuparos de esas bestias. Venid a vernos cuando queráis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_015",
+      "hash": "0E784544CCD3109F",
+      "target": "...¿Oís eso?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_SPHENE_000_020",
+      "hash": "6836547F3A623E26",
+      "target": "¡Hay tantísimo de Alexandria que me encantaría enseñaros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_MAHUWSA_000_025",
+      "hash": "466E22E701C32C09",
+      "target": "Como todos, siento la mayor admiración y respeto por la reina Sphene. Aunque da un poco de apuro decírselo a la cara..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_030",
+      "hash": "0181ED5EF2D7553F",
+      "target": "¿Qué está pasando? ¿Cómo puede Pepoane haberse olvidado de Namikka de golpe?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_031",
+      "hash": "4693B30925982B41",
+      "target": "Es como si nunca la hubiera conocido..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_032",
+      "hash": "48E62BEE6CA790AD",
+      "target": "Me pregunto si a otros les habrá pasado lo mismo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_033",
+      "hash": "2847A2BA87D9DB82",
+      "target": "Solo hay una forma de averiguarlo. Preguntemos por Namikka por la zona. Después nos reunimos en la eterita."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_034",
+      "hash": "1F7F3F4225AA2358",
+      "target": "Esto es muy inquietante..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_035",
+      "hash": "3E4012242764B40D",
+      "target": "Por lo que pude ver, Pepoane no tenía el menor recuerdo de Namikka."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_036",
+      "hash": "11C49DE405204489",
+      "target": "Veremos qué pasa con los demás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_037",
+      "hash": "0DDE4650547EAC8F",
+      "target": "Nunca había visto ni oído nada parecido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTA04930_000_040",
+      "hash": "119A8BC6F5C1FAFB",
+      "target": "¿Una anciana llamada Namikka?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTA04930_000_041",
+      "hash": "65356C4EE4ECF938",
+      "target": "Me temo que no conozco a esa persona. Siento no poder ayudar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTA04930_000_045",
+      "hash": "1C7C6C7FBD1AB388",
+      "target": "Lo siento. Quizá alguien más conozca a esa Namikka."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTB04930_000_050",
+      "hash": "D659BD44989C52E2",
+      "target": "¿Cómo dice? ¿Que si conozco a una Namikka?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTB04930_000_051",
+      "hash": "84189B80272711AD",
+      "target": "Nunca he conocido a nadie con ese nombre, y llevo ya un buen tiempo trabajando en los Arrabales. Si hubiera pasado tiempo aquí, me acordaría."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTB04930_000_055",
+      "hash": "5744D95B776615C7",
+      "target": "Lo más seguro es que esa Namikka esté en la nube..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTC04930_000_060",
+      "hash": "ED4574503F316AA3",
+      "target": "Mmm... Sí que recuerdo haber cuidado de alguien hasta hace poco. ¿Y dice usted que era una mujer llamada Namikka?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTC04930_000_061",
+      "hash": "D20F6CC217EBBB1F",
+      "target": "No sabría decir con seguridad si era ella, pero yo no me preocuparía. Seguro que se la han llevado a la nube."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_OUTSKIRTSRESIDENTC04930_000_065",
+      "hash": "88F8EB07D75C8AE0",
+      "target": "No es habitual, pero pasa de vez en cuando."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_070",
+      "hash": "76A618F7B6D34EA6",
+      "target": "Así que a todos les pasa lo mismo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_071",
+      "hash": "EB407F43929A360D",
+      "target": "Ni una sola persona recuerda a Namikka. Es como si le hubieran borrado su recuerdo de la cabeza a todos a la vez."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_072",
+      "hash": "24F4B3B42DC2FE00",
+      "target": "Aunque algo así podría hacerse con magia, alterar la memoria de tanta gente a la vez sería una empresa descomunal. Además, habríamos notado un torrente de éter acorde con el acto, y en ese momento no percibí nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_073",
+      "hash": "93DE1E0CB899C4B8",
+      "target": "Yo tampoco. Pero sí me fijé en otra cosa: justo antes de que Pepoane pareciera olvidar, una luz del aparato que lleva en la cabeza empezó a parpadear."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_074",
+      "hash": "BF8911447E506DD5",
+      "target": "¿Habrá alguna relación? Alguien mencionó también algo de unas “células de alma”."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_075",
+      "hash": "286490A7A2CF40F8",
+      "target": "¿Pero a quién podríamos preguntar sobre esto? Si seguimos indagando así, me temo que solo sembraremos confusión."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_076",
+      "hash": "CA4023D9C89DFDCE",
+      "target": "Cierto... Si no podemos resolver fácilmente el misterio de Namikka, ¿y si buscamos a Cahciua en su lugar?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_077",
+      "hash": "CDC6F4C263E3C530",
+      "target": "Sphene dijo que probáramos en los Campos del Trueno."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_078",
+      "hash": "99CD3E096930CB24",
+      "target": "Debería quedar en esta dirección."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_CAHCIUA_000_079",
+      "hash": "E1E3976D0D83D5C9",
+      "target": "\\<ahogo> ¡Imposible!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_080",
+      "hash": "F36CCC3F4934D032",
+      "target": "¿Eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_081",
+      "hash": "91F960CBF9EF453A",
+      "target": "¿¡Otro tipo de soldado mecánico!? ¡Tiene pinta de peligroso! ¡Mejor lo destruimos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_CAHCIUA_000_082",
+      "hash": "E430ACF1C40362FC",
+      "target": "¡Uaaah!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_083",
+      "hash": "2B9C07FBFD76A08B",
+      "target": "¿Lo perseguimos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_084",
+      "hash": "807CB71DF75A7628",
+      "target": "Creo que entendió lo que decíamos. Quizá merezca la pena hacerle unas preguntas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_085",
+      "hash": "29C3793E1DAB276A",
+      "target": "...¿Erenville? ¿Estás bien? Parece que hayas visto un fantasma."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_086",
+      "hash": "9254BFC9B39F7FEB",
+      "target": "N-No es nada. Estoy bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_087",
+      "hash": "F70D12522849D922",
+      "target": "Bueno, se ha ido en la dirección a la que vamos de todos modos, así que intentemos seguirle la pista."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_090",
+      "hash": "337F441CBA65184F",
+      "target": "Aquí no hay más que pájaros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_095",
+      "hash": "8E72C156D1350BE7",
+      "target": "Es más rápido de lo que parece."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_100",
+      "hash": "FDCC669D3E2E4AA5",
+      "target": "Por aquí ni rastro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_105",
+      "hash": "37134E88B7AA3560",
+      "target": "No lo veo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_108",
+      "hash": "53365A73CA27F6E4",
+      "target": "Esa voz... ¿Podría ser...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_110",
+      "hash": "E95002F06602F15E",
+      "target": "¿¡Lo has encontrado!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_111",
+      "hash": "78EC4283682595E7",
+      "target": "¿Al noreste? Entonces debe de dirigirse a las minas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_112",
+      "hash": "E567824C0329C13B",
+      "target": "¡Pues vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_113",
+      "hash": "3D0AEF8B53B2BAC2",
+      "target": "Bien podría ser una trampa, así que no nos lancemos a lo loco."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_115",
+      "hash": "7492E4B160153F58",
+      "target": "¿Así que ha entrado aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_120",
+      "hash": "86DBB98F36DBA13D",
+      "target": "Creo que podemos dar por hecho que se ha metido en las minas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_125",
+      "hash": "DFF9135B2F425999",
+      "target": "¿Una vieja mina de carbón? Parece abandonada desde hace mucho, como tantos otros sitios."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_130",
+      "hash": "4686892213FFDB2D",
+      "target": "Las piedras de esas cajas... ¿Serán turquesas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_140",
+      "hash": "99F2669B78550D50",
+      "target": "He oído voces débiles procedentes del interior."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_141",
+      "hash": "F72778215E3A0080",
+      "target": "Así que no está solo. Pero entramos igual, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_142",
+      "hash": "A410B36355B6E105",
+      "target": "Puede que sea una trampa. ¡Preparaos para pelear!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_145",
+      "hash": "3B821132C812449A",
+      "target": "Este túnel no se acaba nunca..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_150",
+      "hash": "3704AF0C26400FBC",
+      "target": "No me preocupa. Al fin y al cabo, hemos tenido que improvisar incontables veces."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_155",
+      "hash": "40ACB8CF0759F299",
+      "target": "Un dispositivo hecho de electrope. Parece el único que hay aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_160",
+      "hash": "011C1B07F4394021",
+      "target": "Parece que nadie trabaja en estas galerías desde hace bastante tiempo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_170",
+      "hash": "8E3E69D9830F6B90",
+      "target": "Las oigo. Varias personas más adelante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_171",
+      "hash": "AD96336CB410EEAB",
+      "target": "Mmm. Con el eco no consigo distinguir lo que dicen."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_172",
+      "hash": "8DA5B2DE08135E68",
+      "target": "Sigamos. No bajéis la guardia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WUKLAMAT_000_180",
+      "hash": "F57FED4BA2FF7A62",
+      "target": "No puedo decir que entienda lo que está pasando, pero al menos Cahciua está a salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ALISAIE_000_185",
+      "hash": "5FA3713415D309FD",
+      "target": "La madre de Erenville es una máquina flotante. Ya... Tiene tanto sentido como todo lo demás hasta ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_KRILE_000_190",
+      "hash": "E7527FFF649B7C11",
+      "target": "A estas alturas, dudo que nada pueda sorprenderme ya."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GRAHATIA_000_195",
+      "hash": "D2DB65B3447BBBC7",
+      "target": "Los allaganos tenían máquinas que podían controlarse a distancia. ¿Estará usando ella algo parecido para comunicarse con nosotros?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_GEODE_000_200",
+      "hash": "C2DA09F5AD6029AE",
+      "target": "Con ella siempre hay demasiado jaleo... Perdonad que os apuntáramos con las armas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_NOSTALGIA_000_205",
+      "hash": "72AF1E28F1A52E7B",
+      "target": "Si os sirve de consuelo, todo esto también nos resulta bastante confuso a nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_WAYAKKWE_000_210",
+      "hash": "4C4DE322FF01C9AF",
+      "target": "Ah, eh... hola."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_CAHCIUA_000_215",
+      "hash": "910D3B31D56D999C",
+      "target": "¡Venga, venga, poneos cómodos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_220",
+      "hash": "268B46596B7FEAD2",
+      "target": "Por lo que puedo juzgar, esta es en efecto mi madre. Poca gente conozco en el mundo tan enérgica..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd119_04930#TEXT_KINGMD119_04930_ERENVILLE_000_221",
+      "hash": "E5B70BE407BFEA5C",
+      "target": "Pero en cuanto a lo que ha pasado, tendremos que preguntárselo a ella..."
+    }
+  ]
+}

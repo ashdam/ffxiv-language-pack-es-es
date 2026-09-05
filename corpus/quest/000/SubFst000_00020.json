@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/000/SubFst000_00020",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_SEQ_00", "hash": "61977B2C9178B332", "target": "La conjuradora Mellaine busca a alguien que ayude a su ajetreadísima discípula." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_SEQ_01", "hash": "89449F4DDA5C21EB", "target": "Braya, la discípula de la conjuradora Mellaine, se afana por completar las numerosas tareas preparatorias necesarias para celebrar una ceremonia inminente. Búscala en el Gremio de Conjuradores y ofrécele tu ayuda." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_SEQ_02", "hash": "F39B079C56D3EDF8", "target": "Los incensarios del Gremio de Conjuradores están casi secos. Rellénalos con el aceite de Azeyma rose que te dio Braya." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_SEQ_03", "hash": "0902BB3E700660AE", "target": "Has rellenado los incensarios con aceite de Azeyma rose. Vuelve con Braya e infórmale de que la tarea está completada." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_SEQ_04", "hash": "A442C66FFD37D331", "target": "A Braya le sorprende gratamente ver a un aventurero trabajar con tanta cortesía, y le impresiona el buen ojo de su mentora para juzgar a las personas." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_TODO_00", "hash": "0F70FB55BB19A925", "target": "Hablar con Braya" },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_TODO_01", "hash": "73E4172D10716A58", "target": "Verter el Azeyma rose oil en los incensarios" },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_TODO_02", "hash": "3305B8001E57EFC9", "target": "Informar a Braya en el Gremio de Conjuradores" },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_MELLAINE_000_1", "hash": "1F372E61ACA5C33D", "target": "Eh, usted. ¿Es <if(gnum4,aventurera,aventurero)>, verdad? Bien. Tengo una tarea para usted." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_MELLAINE_000_2", "hash": "82C726C62611EC2E", "target": "Acérquese al Gremio de Conjuradores y hable con mi discípula, Braya. Está hasta arriba con los preparativos de los augurios y seguro que agradecería su ayuda." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_MELLAINE_000_3", "hash": "83F5AC5B5E2BD93F", "target": "En su entusiasmo por haberse convertido en conjuradora, me temo que mi joven discípula se está exigiendo más allá de sus fuerzas. El entusiasmo está muy bien, pero no convendría que una iniciada se desplomara de agotamiento." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_10", "hash": "72BDA4A2FA1FF511", "target": "¿Sí? Sí, soy Braya, pero también estoy tremendamente ocu... Ah, ¿dice que la propia señora Mellaine le pidió que me ayudara?" },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_11", "hash": "D0D1A8106050D38A", "target": "En tal caso, supongo que <italic(1)>podría<italic(0)> usted echar una mano... sobre todo porque las mías parecen temblar, aunque solo muy levemente. No es que sea algo preocupante... ¡pura energía nerviosa!" },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_12", "hash": "D85B0CD5019BE2C6", "target": "Ejem. Le estaría enormemente agradecida si tomara este aceite de rosa de Azeyma y rellenara los incensarios. Hay dos que requieren atención." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_13", "hash": "C97F6DAB2F5BD605", "target": "Tenga cuidado de no molestar a los conjuradores durante sus meditaciones. Debe actuar con el mayor sigilo y discreción posibles." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_20", "hash": "7D8CB79A626172CC", "target": "Se lo agradezco. He de reconocer que me ha impresionado lo fielmente que ha seguido mis instrucciones." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_21", "hash": "55D09C5B49FC94B0", "target": "Siempre había tenido a los aventureros por gente zafia y camorrista, pero veo que usted también es capaz de cortesía." },
+    { "gameKey": "quest/000/SubFst000_00020#TEXT_SUBFST000_00020_BRAYA_000_22", "hash": "B11A8E24B510CD2F", "target": "La señora Mellaine tiene buen ojo para juzgar el carácter. Debería sentirse <if(gnum4,honrada,honrado)> de que le confiara a usted la tarea." }
+  ]
+}

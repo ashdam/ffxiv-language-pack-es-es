@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/052/BanMam112_05272",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_SEQ_00", "hash": "CD4FCA8D408888B9", "target": "Kageel Ja cree que los edificios de la granja han conocido días mejores.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_SEQ_01", "hash": "CB1B9CEE81D81175", "target": "Entrega los materiales solicitados a Kageel Ja." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_TODO_00", "hash": "39E226EFF17B22A5", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extraer <ennoun(Item,3,lnum5,2,1)> cerca de Iq Br'aax,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==17],<if([lnum1<lnum2],Recolectar <ennoun(Item,3,lnum5,2,1)> cerca de Iq Br'aax,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar <ennoun(Item,1,lnum5,1,1)> en Xd'aa Talat Tsoly,Entregar <ennoun(Item,2,lnum5,1,1)> a Kageel Ja)>,)>)>)>." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_001", "hash": "1467DD5027A78B3E", "target": "Perdona, <split(<string(gstr1)>, ,1)>, pero necesito que hagas un viaje al bosque superior. ¿Te animas?" },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_002", "hash": "6649CEFD49CAAFD5", "target": "Nuestra granja es la nueva cara de Mamook, así que me gustaría que estuviera limpia y bien cuidada para cuantos vengan de visita." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_003", "hash": "FC1FB1A7EF67D2A0", "target": "Dicho esto, te agradecería que recogieras algo de natrón de Ut'ohmu de las inmediaciones de Iq Br'aax. Puede usarse como agente limpiador." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_004", "hash": "2600A27DC7CC2487", "target": "Dicho esto, te agradecería que recogieras algo de aceite vegetal concentrado de Ut'ohmu de las inmediaciones de Iq Br'aax. Puede usarse como agente limpiador." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_005", "hash": "3C3E0608059D242D", "target": "Dicho esto, te agradecería que consiguieras una Ut'ohmu trout de Xd'aa Talat Tsoly. Podemos extraer de ella un buen agente pulidor." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_006", "hash": "AF2EEF0D87EB014F", "target": "Asegúrate de usar golden stonefly nymphs de cebo. Aquí tenemos a la venta, por si no lo sabías." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_007", "hash": "BFFE16ADE1EE657E", "target": "Te agradecería que recogieras algo de natrón de Ut'ohmu de los alrededores de Iq Br'aax. Lo necesitaremos como agente limpiador." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_008", "hash": "141B8AB428E957C0", "target": "Te agradecería que recogieras algo de aceite vegetal concentrado de Ut'ohmu de los alrededores de Iq Br'aax. Lo necesitaremos como agente limpiador." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_009", "hash": "4A39B60D8F16FCCE", "target": "Te agradecería que pescaras una Ut'ohmu trout de Xd'aa Talat Tsoly. Podemos extraer de ella un buen agente pulidor." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_010", "hash": "E74FA975D16A608D", "target": "Asegúrate de cebar el sedal con golden stonefly nymphs." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_011", "hash": "13B52E38706702CF", "target": "¿Cómo te ha ido?" },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_012", "hash": "30D8F6261815C2AA", "target": "Perfecto, justo lo que pedí. Gracias." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_013", "hash": "28439291A18CF58D", "target": "Puede que lo notaras durante tu incursión, pero las gentes Xbr'aal también usan estos agentes limpiadores en su día a día." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_014", "hash": "890EBCE7955D8298", "target": "El bosque superior está mucho más expuesto a los elementos, lo que exige un mayor mantenimiento y cuidado estructural." },
+    { "gameKey": "quest/052/BanMam112_05272#TEXT_BANMAM112_05272_KAGEELJA_000_015", "hash": "81E2BB504B4E29A1", "target": "Así que, cuando noté que nuestros edificios necesitaban una puesta a punto, consulté a nuestros vecinos Xbr'aal. Tuvieron la amabilidad de recomendarnos algunos materiales y nos invitaron a recoger cuanto necesitáramos. Si es para mantener este lugar presentable, bien podría aceptar de nuevo ese ofrecimiento..." }
+  ]
+}

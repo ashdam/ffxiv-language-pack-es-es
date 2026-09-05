@@ -1,0 +1,103 @@
+{
+  "conversation": "quest/048/KinGmb104_04883",
+  "questName": "A Father First",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_00", "hash": "6F97620C9E506E83", "target": "Wuk Lamat tiene que hacer una visita al palacio." },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_01", "hash": "4BCB28EC0C07D376", "target": "Wuk Lamat parte hacia Vollok Shoonsa y te deja a tu aire. Con todo, la idea de volver a las For'ard Cabins y darte un descanso merecido suena de lo más tentadora..." },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_02", "hash": "365564A7C4FA4858", "target": "Vuelves a las cabinas y te encuentras con que un soldado de la Legión del Alba aguarda tu llegada. Al parecer, el Servidor del Alba te ha convocado al palacio, y debes presentarte ante el guardia apostado a la entrada del Alcázar del Sol." },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_03", "hash": "024ED505EB738D9F", "target": "Siguiendo el consejo del soldado, acudes a la cita con tu equipo de combate puesto. Pero ¿por qué motivo estarían justificados tales preparativos?" },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_04", "hash": "7BA3C1BDE979BF3D", "target": "Al entrar en el Alcázar del Sol, Gulool Ja Ja deja claro enseguida que su convocatoria era una invitación a batirse en duelo. Te enfrentas al descomunal Mamool Ja, cuyos golpes, potentes y veloces como una víbora, te mantienen en tensión, hasta que por fin queda satisfecho con tu desempeño. Impresionado por tu destreza en el combate, el Servidor del Alba remata el lance con la sincera petición de un padre: que veles por su hija. Es entonces cuando llega Wuk Lamat, que reprende a Gulool Ja Ja por robarle a su adalid y sale de la sala del trono contigo a la zaga." },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SEQ_05", "hash": "D3B8874C7DB06D78", "target": "Molesta por las ocurrencias de su padre, Wuk Lamat se pregunta si Gulool Ja Ja te habrá incordiado con algo más que duelos, una duda que esquivas con una respuesta ambigua. Sin embargo, la súplica del Servidor del Alba sigue presente en tu mente mientras acompañas a la Tercera Promesa en la continuación de su viaje." },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_TODO_00", "hash": "53413765911E1079", "target": "Hablar con Peshekwa" },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_TODO_01", "hash": "2E4BD2D9D92AA447", "target": "Hablar con el guardia del Alcázar del Sol" },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_TODO_02", "hash": "182E37BD92E0635F", "target": "Hablar con el guardia del Alcázar del Sol" },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_TODO_03", "hash": "E95E031466916F01", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_002",
+      "hash": "04B50C4A572B72E2",
+      "target": "Bien, tengo cosas que atender en el palacio."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_003",
+      "hash": "1FE6103D8D59DC18",
+      "target": "Aunque puedes pasar el rato como quieras, yo te sugeriría volver a las cabañas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_004",
+      "hash": "610276D8E2C636B5",
+      "target": "Al fin y al cabo, hasta los héroes necesitan descansar, ¡y aún nos queda un buen viaje por delante!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_MESSENGER04883_000_010",
+      "hash": "717CDF934FC7C82C",
+      "target": "Por fin..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_PESHEKWA_000_011",
+      "hash": "AD3F65A3629C4FCC",
+      "target": "Bienvenida de vuelta, <if(gnum4,señora,señor)>. Tiene a un mensajero de la Legión del Alba esperando su regreso con mucha inquietud."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_MESSENGER04883_100_012",
+      "hash": "844B4D0A9ECAFB9B",
+      "target": "¿<split(<string(gstr1)>, ,1)>, del séquito de la Tercera Promesa? Os he buscado por toda la ciudad."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_MESSENGER04883_000_012",
+      "hash": "254F1E4CFACC9D8F",
+      "target": "El Servidor del Alba se os convoca a palacio. Habéis de presentaros ante el guardia de la puerta apostado fuera del Alcázar del Sol en cuanto os venga bien."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_MESSENGER04883_000_013",
+      "hash": "7C179DF74329E468",
+      "target": "Ah, y una cosa más: no habéis de mencionar esta visita a Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_GATEKEEPER4883_000_021",
+      "hash": "AE8C168DCB227817",
+      "target": "El Servidor del Alba os aguarda dentro. Aunque no se me informó del motivo de vuestra audiencia, en cuanto a atuendo, yo sugeriría armadura de combate completa."
+    },
+    { "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_SYSTEM_000_030", "hash": "6A55BDDF5B1CBC53", "target": "Debes ser un Discípulo de la Guerra o de la Magia de nivel 92 o superior para continuar." },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_040",
+      "hash": "FA2A2CE397AF006C",
+      "target": "Si por él fuera, papá seguiría batiéndose en duelo hasta el día de su muerte."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_041",
+      "hash": "169090086A818B50",
+      "target": "Aún hoy solo sé de tres personas a las que no hubo que llevarse en brazos tras su combate: Zoraal Ja, tu amigo lancero Estinien y tú."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_042",
+      "hash": "7B64CEB44AD173CB",
+      "target": "¡De verdad que haces honor a tu temible fama!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_043",
+      "hash": "BA2B5BB479774621",
+      "target": "Aunque me pica la curiosidad. ¿Papá quería algo más de ti?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_Q1_000_000",
+      "hash": "809B2DF9E63ACE49",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_A1_000_001",
+      "hash": "81E264927BE3C0B5",
+      "target": "Un pequeño favor, nada más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_A1_000_002",
+      "hash": "F56AE5F0084A7DCC",
+      "target": "Solo un compañero de entrenamiento."
+    },
+    {
+      "gameKey": "quest/048/KinGmb104_04883#TEXT_KINGMB104_04883_WUKLAMAT_000_045",
+      "hash": "827BB6F1E9A68DA8",
+      "target": "Bueno, si eso fue todo..."
+    }
+  ]
+}

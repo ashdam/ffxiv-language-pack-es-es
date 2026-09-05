@@ -1,0 +1,28 @@
+{
+  "conversation": "warp/WarpInnLimsaLominsa",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_1", "hash": "5978A09A163599EF", "target": "¡Bienvenido a la posada del Palo de Mesana! Aventurero novato, ¿verdad?" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_2", "hash": "AFF07722E8FA8996", "target": "Lo siento, <if(gnum4,muchacha,muchacho)>, pero no puedo alojarte hasta que Baderon dé su visto bueno. Tú sigue arrimando el hombro, ¡que seguro que no tarda en apuntar tu nombre en mi lista! ¡Ja, ja, ja!" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_Q1_000_1", "hash": "A756519CFC041C2D", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A1_000_1", "hash": "ADEA4B616F975D95", "target": "Preguntar por el Palo de Mesana." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A1_000_2", "hash": "C417CA86F9840A52", "target": "Nada." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_3", "hash": "5CCA6203D06C3582", "target": "La posada del Palo de Mesana es el sitio donde los que visitan Limsa vienen a descansar la cabeza." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_4", "hash": "771128E237963322", "target": "¡Nuestras camas mullidas y nuestras habitaciones amplias son muchísimo más cómodas que una hamaca bamboleándose en un camarote angosto y apestando a pescado!" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_5", "hash": "E5CCB4DFC3CFF855", "target": "Pero somos un poco tiquismiquis con la clientela, ¿sabes?, así que solo puedo dar habitación a quien tenga el visto bueno del mismísimo Baderon." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_6", "hash": "9714C3BE1AD6F4F3", "target": "¡Tú sigue haciendo el bien por la gente de Limsa y no tardarás en dormir aquí, en el Palo de Mesana! ¡Ja, ja, ja!" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_10", "hash": "DC93E73E1756A783", "target": "¡Buenas, <if(gnum4,muchacha,muchacho)>! ¿Qué puedo hacer por ti <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>?" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_Q2_000_1", "hash": "311140EA60DAD47C", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A2_000_1", "hash": "8023CDDB3F1F10D9", "target": "Retirarse a una habitación de posada." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A2_000_3", "hash": "4633419257614720", "target": "Preguntar por las normas de la posada." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A2_000_4", "hash": "EE79C7B9906C2E94", "target": "Preguntar por el Palo de Mesana." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_A2_000_5", "hash": "D50CEC8547C3F504", "target": "Nada." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_11", "hash": "C748F6F879A15E1C", "target": "¡Que descanses bien! ¡Ja, ja, ja!" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_17", "hash": "ECBCBE8945E7D277", "target": "¿Normas? En mi establecimiento solo hay <italic(1)>una<italic(0)> norma: nada de artesanía. Mis clientes no quieren pasarse la noche en vela oyéndote encerar mangos, pulir latón o machacar acero." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_SYSTEM_000_18", "hash": "03207601DFD0C01B", "target": "En las habitaciones de posada no se pueden realizar síntesis, reparaciones ni engarces de materia." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_19", "hash": "28D229CC1665D79C", "target": "La posada del Palo de Mesana es el sitio donde los que visitan Limsa vienen a descansar la cabeza." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_20", "hash": "291BE285EAA09D63", "target": "¡Nuestras camas mullidas y nuestras habitaciones amplias son muchísimo más cómodas que una hamaca bamboleándose en un camarote angosto y apestando a pescado!" },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_21", "hash": "508D68FA1C04F6AB", "target": "Puedes tomarte un rato de calma para pensar en tu día y dormir a pierna suelta sin miedo a que el vaivén de las olas te revuelva las tripas." },
+    { "gameKey": "warp/WarpInnLimsaLominsa#TEXT_WARPINNLIMSALOMINSA_MYTESYN_000_22", "hash": "B3EA7D4FF06577F9", "target": "Y me juego algo a que un aventurero tan ajetreado como tú necesita ese pellizco de paz de vez en cuando." }
+  ]
+}

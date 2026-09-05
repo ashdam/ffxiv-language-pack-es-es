@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/005/ClsWvr011_00534",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_00", "hash": "4B417FFBF1B1D0D7", "target": "Maronne quiere que reafirmes tu deseo de unirte al Gremio de Tejedores." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01", "hash": "E6B4BAEB90CAFC2D", "target": "Maronne te pide que te presentes ante el hombre a cargo de las operaciones del gremio, un imponente roegadyn llamado Redolent Rose." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_02", "hash": "5585FA1CA1FB5EBE", "target": "Redolent Rose te concede permiso para estudiar la costura. Tras entregarte una sewing needle, te indica que la sujetes como si fueras a dar una puntada y que te presentes para la inspección." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_TODO_00", "hash": "04018C9FCFC74F88", "target": "Hablar con Redolent Rose" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_000", "hash": "1706DE13799F79D0", "target": "¿Está <if(gnum4,lista,listo)> para conocer al maestro del gremio? La primera impresión lo es todo, y <italic(1)>no<italic(0)> conviene dar mala imagen." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_010", "hash": "827D269C373EBF49", "target": "Sospechaba que quizá necesitara más tiempo. Muy bien... no la apremiaré." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_011", "hash": "831CC4E7690A224E", "target": "Vuelva cuando se haya preparado lo suficiente. Aquí estaremos." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_020", "hash": "BA9D27D07FE0F919", "target": "¡Excelente! Aunque me pregunto si su atuendo es el apropiado para la ocasión..." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_021", "hash": "883E10EAD158FB8A", "target": "Encontrará al estimado Redolent Rose supervisando las operaciones del gremio por allí." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_022", "hash": "ADB025619E3F30E0", "target": "Es... ¿cómo decirlo? Es... implacable en su búsqueda de la excelencia." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_023", "hash": "DA814B53A2BDA45E", "target": "Mientras demuestre estar igual de <if(gnum4,comprometida,comprometido)>, la tratará con justicia y respeto." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_000", "hash": "95AFEE63BA35CA52", "target": "¿Qué tenemos aquí? ¿<if(gnum4,Otra aventurera,Otro aventurero)> en busca de emociones fuertes?" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_001", "hash": "B1FE81C49282AAE1", "target": "¿Le bailo una alegre giga? ¿No? Pues, si esto no le complace, le sugiero que se largue... quizá las mujeres de la Lonja del Camino Rubí sean más de su gusto." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_002", "hash": "77D8FF441FCB31DC", "target": "...Oh, ¿así que pretende hacerse tejedor? Entonces sí que tenemos algo de que hablar." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_003", "hash": "E524EE60B37564A9", "target": "Seré franco... la costura es un arte y, como todo verdadero artista, debemos sacrificarnos y sufrir por nuestro oficio. Así que dígame, <if(gnum4,aventurera,aventurero)>: ¿está <if(gnum4,preparada,preparado)> para <italic(1)>sufrir<italic(0)>?" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_Q0", "hash": "6625D33C12D2332D", "target": "¿Estás <if(gnum4,preparada,preparado)> para sufrir?" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_A0", "hash": "BFB67E69476CB2BE", "target": "Sí" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_A1", "hash": "D23AB535DBA8CBA9", "target": "No" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_010", "hash": "9432C9D3FF0CA14A", "target": "¿Entonces a qué ha venido? ¿No sabe lo que quiere? ¿O es que no le gusta lo que conlleva conseguir lo que quiere? Sea como sea, no <if(gnum4,la,lo)> quiero aquí." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_020", "hash": "9B5EC3F8C444A7C7", "target": "Eso dice, pero solo el tiempo lo dirá." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_021", "hash": "26D06DB96DD40BF1", "target": "En cualquier caso, necesitará equipo para empezar. Esta aguja bastará por ahora." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_022", "hash": "6C02D2758A896BF2", "target": "No hará falta que le explique qué es una aguja, ¿verdad?" },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_023", "hash": "5B8E2088531D60CE", "target": "Bien. Pues sujétela como lo haría al coser y demuéstreme que está <if(gnum4,lista,listo)> para empezar." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_030", "hash": "D63BA354A9FA99DA", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipándote la herramienta recibida en esta misión." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_031", "hash": "C61DD970CA55FFFA", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipamiento. Después podrás usarlos para cambiar de clase al instante, sin necesidad de equipar armas ni equipo manualmente." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_032", "hash": "708869B20B292FEF", "target": "El botón de la interfaz de Gear Set se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
+  ]
+}

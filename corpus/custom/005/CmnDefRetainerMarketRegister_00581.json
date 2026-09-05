@@ -1,0 +1,31 @@
+{
+  "conversation": "custom/005/CmnDefRetainerMarketRegister_00581",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_DISABLE", "hash": "7C4C388B10CF90E6", "target": "Mis disculpas, <if(gnum4,señorita,señor)>, pero en este momento no podemos aceptar nueva clientela. " },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_COUNT", "hash": "C61AE1503A944E9B", "target": "No parece que tenga ningún sirviente a su servicio en este momento." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_CHARGE", "hash": "421F8277A30A0E38", "target": "No puede realizar esta acción hasta que no haya adquirido los servicios de un sirviente adicional." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_DEFAULT_TALK_01", "hash": "EE18357C63E8CE43", "target": "Ah, <string(gstr1)>. Le doy la bienvenida a Musica Universalis. ¿En qué puedo ayudarle?" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_TALK_01", "hash": "79F4296F03D04F4E", "target": "¿Me indica el nombre del sirviente que desea enviar? El Exarca de Cristal ha pedido que Feo Ul actúe de intermediario. En cuanto a cómo pensará lograrlo, en fin... he preferido no preguntar. " },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ASK", "hash": "629059E16E72C360", "target": "¿Enviar <head(<string(lstr1)>)> al Cristarium?" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_SUCCESS", "hash": "79180187B574E62A", "target": "Muy bien. Me aseguraré de que Feo Ul contacte con ellos de inmediato." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_ALREADY", "hash": "DFD7703B3A5FD99E", "target": "Me parece que ese sirviente ya ha sido enviado al Cristarium." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_REGISTER_FAILED", "hash": "F94AB421AF0F66D1", "target": "El sirviente no ha podido reunirse con Feo Ul." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_TITLE", "hash": "53C2E8262B00DE38", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_REGISTER", "hash": "845B68706123CD6B", "target": "Enviar un sirviente al Cristarium." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT", "hash": "6D8EF8A40EE5F661", "target": "Preguntar por el mercado del Cristarium." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CASHBACK", "hash": "226EBA9B32D88137", "target": "Consultar las tasas de impuesto de mercado." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_CANCEL", "hash": "C79B8A1CF08E33DA", "target": "Nada." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_01", "hash": "8AF2F83AE71E7730", "target": "El mercado del Cristarium no es que sea muy grande, pero será un placer que venda aquí sus mercancías." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_MAIN_MENU_ABOUT_02", "hash": "5BACC88C86417C5A", "target": "El Exarca de Cristal me dice que Feo Ul se ha encargado de recuperar sus cosas, desde... ¿de dónde era usted, exactamente?" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_TITLE", "hash": "CC194A3B20F0F36A", "target": "Tasas de impuesto de mercado actuales:" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK", "hash": "96AF497036EDB82B", "target": "<sheet(Town,lnum1,0)>: reducido" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_NONE", "hash": "2365CFBD0AE49FDA", "target": "<sheet(Town,lnum1,0)>: normal" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_ABOUT", "hash": "E6299C7993BB86F0", "target": "Informarse sobre el impuesto de mercado" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ASK_CANCEL", "hash": "DEE79B154AF5F6AE", "target": "Volver" },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_NO_CASHBACK", "hash": "E8F31C84DFBE5C05", "target": "El impuesto sobre los objetos vendidos en los mercados de <sheet(Town,lnum1,0)> está en su tasa normal del <num(lnum2)> %." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK", "hash": "19B0EB0C607E6149", "target": "El impuesto sobre los objetos vendidos en los mercados de <sheet(Town,lnum1,0)> se ha reducido al <num(lnum4)> % hasta el <settime(lnum2)><if([gnum77==3], <num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> (fecha real)." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_01", "hash": "F7B17E10BAB9D062", "target": "Para hacer sus mercados más atractivos a los posibles vendedores, las ciudades suelen rebajar el porcentaje de impuesto que se cobra por cada venta." },
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_02", "hash": "2BC92A59BF08C02E", "target": "Los periodos de tasa reducida pueden terminar antes de lo indicado si alguna zona requiere mantenimiento." }
+  ]
+}

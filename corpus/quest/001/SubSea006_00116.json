@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/001/SubSea006_00116",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_SEQ_00", "hash": "B7D0211B902C45C5", "target": "H'lahono necesita ayuda para reponer las despensas del Bismarck." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_SEQ_01", "hash": "4984E43AE3BAE6E5", "target": "H'lahono necesita con urgencia cuatro lonchas de cordero fresco. Abylfarr, un centinela apostado en la Sala del Baluarte, sabrá dónde encontrar los corderos de los que sale la carne." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_SEQ_02", "hash": "C40AA649B23F6ACE", "target": "Abylfarr te cuenta que hay wild lambs paciendo al sureste de la Puerta del Céfiro. Dirígete allí y sacrifica los suficientes para obtener las cuatro lonchas de cordero fresco requeridas." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_SEQ_03", "hash": "C18DB3FDF034BABD", "target": "Has obtenido cuatro lonchas de cordero fresco. Haz que lleguen a H'lahono, en el Bismarck." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_SEQ_04", "hash": "33B0DAF006CC2C5D", "target": "Tras agradecerte tu ayuda, H'lahono pasa a hablarte de sí misma. Aunque su carrera como cocinera no cuajó, todavía encuentra gran satisfacción en su papel de aprovisionadora del Bismarck." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_TODO_00", "hash": "AFF66776AA5AA3ED", "target": "Hablar con Abylfarr" },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_TODO_01", "hash": "101041A267388F2B", "target": "Obtener lonchas de cordero fresco de los lost lambs" },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_TODO_02", "hash": "C7E04A8609D97A44", "target": "Entregar las lonchas de cordero fresco a H'lahono" },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_0", "hash": "69C5AF6828566310", "target": "Le ruego que me disculpe, <if(gnum4,buena señora,buen señor)>, pero es usted <if(gnum4,aventurera,aventurero)>, ¿no es cierto?" },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_1", "hash": "FCF519CFD85813D3", "target": "Sé que es repentino, pero necesitamos ayuda urgente para reponer las despensas. Estamos preparando un menú completo para unos comensales que no tardan en llegar, pero me temo que andamos cortos de cordero fresco para el plato principal." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_2", "hash": "63A48734A9EBE6AC", "target": "Le agradecería que nos consiguiera cuatro lonchas. Me atrevería a decir que lo más rápido sería obtenerlas directamente de la fuente: los wild lambs." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_3", "hash": "480B2C78EAE6F092", "target": "Por si no conoce a estas criaturas, le sugiero que hable con Abylfarr, un centinela apostado en la Sala del Baluarte, justo debajo de Drowning Wench." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_ABYLFARR_000_10", "hash": "E06890AA57A6F0DC", "target": "¿Con que el Bismarck quiere cordero fresco, eh? Dioses, yo mismo me comería una loncha, recién sacada de la parrilla y chorreando en su propio jugo..." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_ABYLFARR_000_11", "hash": "E7B8A035D85B628C", "target": "\\<sorbo> Perdona, amigo. No he probado bocado desde que empezó mi turno. En fin, puedes conseguir cordero fácilmente cazando los corderos que pacen fuera de la ciudad. Cruza la Puerta del Céfiro y sigue el camino hacia el este y el sur un rato. No tardarás en toparte con esos bichos lanudos... y sabrosos." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_20", "hash": "251470B3F1D6822B", "target": "¿Ha tenido suerte con el cordero fresco? Dese prisa, por favor; los comensales llegarán en cualquier momento..." },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_21", "hash": "E68D12D6AAB14ABB", "target": "¡Cuatro lonchas de cordero fresco, y justo a tiempo! ¡Muchísimas gracias!" },
+    { "gameKey": "quest/001/SubSea006_00116#TEXT_SUBSEA006_00116_HLAHONO_000_22", "hash": "352F142EAF1221A3", "target": "En momentos así me siento realizada en mi papel. Verá, yo antes era cocinera, pero mis dotes no daban del todo la talla. Así que, cuando el Bismarck amplió el negocio, pedí que me hicieran su aprovisionadora. De este modo, puedo seguir formando parte del negocio pese a mis carencias." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/007/GaiUsa803_00787",
+  "questName": "Rock of Rancor",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_00", "hash": "AFF1E8629A289BF1", "target": "Aideen sabe algo más sobre las muertes misteriosas." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_01", "hash": "5A2861A66E4B9694", "target": "Aideen te cuenta que todas las víctimas hasta ahora han sido hermosas doncellas. Han surgido rumores de que, al morir, su rencor se ha ido a una roca al suroeste, que ahora destella y gime. Con la esperanza de hallar una pista, Aideen te pide que uses un cartucho de pólvora para volar pedazos de la roca y le traigas los fragmentos para examinarlos." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_02", "hash": "4E8FEB8441430F27", "target": "Has usado el cartucho de pólvora sobre la roca. Recoge los cristales de aspecto rayo que hay esparcidos por la zona." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_03", "hash": "D387F159ADDB1D50", "target": "Has recogido todos los cristales de aspecto rayo. Vuelve a la Balsa de la Calabaza y muéstraselos a Aideen." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_SEQ_04", "hash": "B4F7AB7F35240028", "target": "Aideen no puede ocultar su decepción ante tu botín de cristales de aspecto rayo. Por desgracia, tus esfuerzos no han servido para avanzar en la investigación." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_00", "hash": "92D25B099003EF54", "target": "Lanzar el cartucho de pólvora a la roca" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_01", "hash": "B88D274BC716101D", "target": "Recoger los cristales de aspecto rayo" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_TODO_02", "hash": "32671924728C64AC", "target": "Entregar los cristales de aspecto rayo a Aideen" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_000", "hash": "39159491C5B7E443", "target": "Hay otra cosa que oí sobre las muertes. Al parecer, <italic(1)>todas<italic(0)> las víctimas han sido hermosas doncellas. ¡Más me vale andarme con ojo, eh! ¡Je, je, je!" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_001", "hash": "B32BA9D8B14BCDE5", "target": "\\<suspiro> Bromas de mal gusto aparte, corre un rumor por ahí. Algunos susurran que, tras morir cada víctima, su rencor se metió en la gran roca que hay al suroeste de aquí, y por eso destella y gime." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_002", "hash": "E77168E527FBC9FA", "target": "Creo que esto merece una investigación. Voy a darte un cartucho de pólvora para que vueles un pedazo de ese peñasco. El cartucho no lleva mecha ni nada, así que tendrás que <italic(1)>lanzarlo<italic(0)>. Cuando le hayas abierto un buen boquete a la roca, tráeme algunos fragmentos y les echaré un vistazo." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_030", "hash": "7E6C76312FD58356", "target": "A la mayoría les da demasiado miedo acercarse a menos de cien yalms de la <italic(1)>Roca del Rencor<italic(0)>─sí, tiene nombre. Pero ¿qué son unos cuantos espíritus vengativos para <if(gnum4,una intrépida aventurera,un intrépido aventurero)> como tú, eh?" },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_031", "hash": "81F39C5E12C8CDC1", "target": "¿...Eh? ¡Pero si estos son cristales de lo más corriente! Cuesta un poco distinguirlo bajo tanta tierra y mugre, pero sin duda son de aspecto rayo." },
+    { "gameKey": "quest/007/GaiUsa803_00787#TEXT_GAIUSA803_00787_AIDEEN_000_032", "hash": "8D5AE36B231BEAD9", "target": "Casi me da pena decirlo, pero eso explica los destellos y los gemidos. Nada que ver con el desconocido enmascarado. Parece que he malgastado tanto tu tiempo <italic(1)>como<italic(0)> un cartucho de pólvora en perfecto estado. En fin..." }
+  ]
+}

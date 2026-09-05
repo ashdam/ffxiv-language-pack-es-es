@@ -1,0 +1,163 @@
+{
+  "conversation": "quest/054/KinGmj105_05430",
+  "questName": "To Work",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_SEQ_00", "hash": "914E59B26C6708A8", "target": "Lumull vibra de energía nerviosa." },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_00", "hash": "C885D7D6BDF92B32", "target": "Hablar con Eyaney" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_01", "hash": "5F3F0183EDFE5867", "target": "Volver a hablar con Eyaney" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_02", "hash": "A04C4E5C7DE0CFB2", "target": "Otear el puesto de observación" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_03", "hash": "0AFEF71BC930EDB5", "target": "Otear el siguiente puesto de observación" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_04", "hash": "C418674682F1BB5A", "target": "Otear el siguiente puesto de observación" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_05", "hash": "86A6AD65E688AC58", "target": "Usar el synthetic desensitizer con los lightning sprites" },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_TODO_06", "hash": "B2EBF3F8DCE20533", "target": "Hablar con Eyaney" },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_001",
+      "hash": "009ACC0D7E9A33B1",
+      "target": "Una se pregunta lo temible que será en realidad esa tal Eyaney..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_GRAHATIA_000_002",
+      "hash": "10F04FCC711EAA21",
+      "target": "Si la barrera de Treno tiene un diseño parecido a la de Alexandria, ¿debemos suponer que la tecnología del electrope también es estándar aquí?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_LUMULL_000_011",
+      "hash": "A38DD1B9C90170C9",
+      "target": "Ahora mismo, Eyaney debería estar esperando justo pasado ese parque."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_LUMULL_000_012",
+      "hash": "94F8EA0495615879",
+      "target": "¡Vámonos antes de que nadie cambie de idea!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_021",
+      "hash": "AB9FF5F911C70266",
+      "target": "Lumull está sudando bastante a chorros..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_GRAHATIA_000_022",
+      "hash": "6F35439603AFF0C0",
+      "target": "Cada vez que conocemos a un ingeniero de tierras lejanas, no puedo evitar querer presentárselo a nuestros amigos de los Talleres. ¡Menuda tormenta de preguntas se armaría...!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_LUMULL_000_023",
+      "hash": "E2C7D4BED94ED926",
+      "target": "(Inspira... Espira...)"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_031",
+      "hash": "E432BD65163D518B",
+      "target": "Recuerdan a otra pareja de hermanos que conocemos, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_041",
+      "hash": "6EE3C702B6CD1C2F",
+      "target": "\\<ahogo> ¡Se me ha olvidado por completo preguntaros vuestros nombres! Perdonadme."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_042",
+      "hash": "BE04DBA952B5398B",
+      "target": "Yo soy Krile, y <if(gnum4,esta,este)> es <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_043",
+      "hash": "15A184D2AED234E2",
+      "target": "Y quien acompaña a Lumull es G'raha Tia, nuestro entusiasta de la tecnología."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_044",
+      "hash": "AB76C5BF98EA0FC0",
+      "target": "¡Encantada de conoceros!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_045",
+      "hash": "68D3F3FF3F3EF435",
+      "target": "Me da cosa poneros a trabajar, pero mentiría si dijera que no necesito la ayuda."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_046",
+      "hash": "A7A76BBEE7176250",
+      "target": "Después de algo así, supongo que hace falta muchísimo trabajo para dejarlo todo en orden otra vez..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_047",
+      "hash": "916E1437D38BB6B8",
+      "target": "Una cosa es la cantidad de arreglos pendientes, y podría con ella si no fuera por estas piernas mías. La parálisis me da en los peores momentos, os lo juro..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_048",
+      "hash": "7A1D0231373C0084",
+      "target": "En un buen día puedo arrastrarme de un puesto a otro, pero lo de correr por la ciudad se lo dejo a mi hermano."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_049",
+      "hash": "5D4FAACB936C17EA",
+      "target": "Pero, con él en la mina, alguien tiene que ocuparse de los espíritus de rayo. Los atrae el éter que sueltan las criaturas abatidas."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_050",
+      "hash": "A6113DADBD645479",
+      "target": "Os ofrecería el detector para que fuera más fácil localizarlos, pero como Lumull ha vuelto a romperlo... \\<suspiro>"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_051",
+      "hash": "629033B31220BCCD",
+      "target": "Esto sí lo tengo. Lanzadle un poco a un espíritu y le anularéis la capacidad de percibir el éter cercano. Eso suele hacer que se marchen de la ciudad hacia terrenos más fértiles."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_052",
+      "hash": "D047531FA08ECAAA",
+      "target": "¿Entonces no hace falta luchar con ellos?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_053",
+      "hash": "4DC8B32C995D0EEC",
+      "target": "Nos parece más seguro que no. Cuando se ven amenazados, absorben energía de instalaciones que necesitamos para mantener los servicios médicos, o sueltan descargas que sobrecargan los sistemas cercanos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_054",
+      "hash": "F8E8E26724CC3B9D",
+      "target": "Por lo mismo, os recomiendo que os ciñáis a las vías anchas, donde podréis verlos con antelación. Detestaría que os hicierais daño ayudándonos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_055",
+      "hash": "38353BCC51B17582",
+      "target": "Entendido."
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_KRILE_000_056",
+      "hash": "3EAE434E2F247769",
+      "target": "Convendrá que nos separemos otra vez para cubrir más terreno. ¿Nos ponemos en marcha?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_061",
+      "hash": "6FD531CE819112E7",
+      "target": "Agradezco la ayuda. Estaré aquí trabajando en el detector mientras estáis fuera."
+    },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_SYSTEM_100_065", "hash": "0D40AC1C3E6267F8", "target": "Por más que oteas la zona a conciencia, no ves ningún lightning sprite." },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_SYSTEM_100_066", "hash": "C73FDA52A3E232D5", "target": "Por más que oteas la zona a conciencia, no ves ningún lightning sprite." },
+    { "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_SYSTEM_100_067", "hash": "5A3103735ECE0F49", "target": "¡Lightning sprites! Ha llegado el momento de poner a prueba tu puntería al lanzar..." },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_RESIDENT05431_100_071",
+      "hash": "811982E6C96E2AD5",
+      "target": "Los invitados siempre son bienvenidos en Treno. ¡Espero que la estancia les resulte agradable!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_081",
+      "hash": "3368858AB4759BC0",
+      "target": "¡Ya estás de vuelta! ¿Había muchos espíritus?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_082",
+      "hash": "6CAA7AABADF14B02",
+      "target": "¿Solo unos pocos en tu ruta, entonces? ¡Podría ser peor!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj105_05430#TEXT_KINGMJ105_05430_EYANEY_000_084",
+      "hash": "2685BADF76C022DD",
+      "target": "Aun así, es importante mantener la ciudad libre de ellos. ¡Te lo agradecemos mucho!"
+    }
+  ]
+}

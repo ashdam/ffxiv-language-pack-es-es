@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/010/GaiUsc607_01007",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_00", "hash": "2F216821668C2BCA", "target": "Urianger te mira suplicante, con el miedo en los ojos." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_01", "hash": "42765C4A73EC2807", "target": "Los rumores del avistamiento de un primigenio en el Sudario tienen a Urianger gravemente preocupado, y quiere que averigües su identidad. Primero, has de buscar el consejo del Maestro Arquero Lewin." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SEQ_02", "hash": "22F4908220ED1210", "target": "El Maestro Arquero Lewin te da la bienvenida y expresa su gratitud por tu ayuda en la investigación del primigenio." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_TODO_00", "hash": "4A07B199B38BF0F8", "target": "Hablar con Lewin en la Sala de Mando del Carcaj" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_000", "hash": "7E5D9477932C813F", "target": "<if(gnum4,Amiga,Amigo)> del alba, escucha mi ruego. Nuevas de lo más aciago llegan de Gridania: un primigenio recorre la Espesura." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_001", "hash": "33DF94A5B4D37C98", "target": "Quienes han sido testigos de ese espíritu sobrenatural, y han vuelto para contarlo, aseveran que jamás vieron cosa igual." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_URIANGER_000_002", "hash": "5467BB431DAFD8A2", "target": "El Carcaj de los Dioses investiga mientras hablamos, y paréceme que el Maestro Arquero Lewin acogería de buen grado la mano de un aventurero capaz. Te ruego que te encamines a la Sala de Mando del Carcaj y arrojes tu luz sobre el asunto." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "hash": "8E5AF1F70118FBBF", "target": "<split(<string(gstr1)>, ,2)>. He oído hablar mucho de tus hazañas estos días." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_011", "hash": "E1BBE082ED083B60", "target": "Vienes a prestar tu fuerza a la investigación del primigenio, ¿verdad? Tu ayuda es muy bienvenida." },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_TITLE", "hash": "4E092937E3E2E34A", "target": "¿Dirigirte a la Sala de Mando del Carcaj?" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_YES", "hash": "A60ADA47A429C4AC", "target": "Sí" },
+    { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_SYSTEM_EVENTAREA_WARP_YESNO_NO", "hash": "C49A59133DA8FD45", "target": "No" }
+  ]
+}

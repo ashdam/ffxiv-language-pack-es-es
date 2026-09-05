@@ -1,0 +1,62 @@
+{
+  "conversation": "quest/006/ManWil303_00685",
+  "questName": "For Coin and Country",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_1", "hash": "DC15101BAF9E6A42", "target": "¿Está <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>? Entonces, comencemos." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_2", "hash": "E6AA49E3BF191F5F", "target": "<string(gstr1)>... está a punto de asumir un cometido sagrado." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_3", "hash": "00BC3482D20F8223", "target": "Las Llamas de Ul'dah arden con fuerza, llevando luz allí donde hay oscuridad y purgando el mal dondequiera que aceche." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_4", "hash": "4B99E5BEE5587F13", "target": "Siempre estamos listos para enfrentarnos en batalla a los enemigos de la nación, ya sean hombres bestia, garleanos o algo peor." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_5", "hash": "11FFD8D600F29B8F", "target": "Y a una palabra del General de las Llamas Raubahn Aldynn, entregaríamos gustosos la vida para mantener la paz y la prosperidad de Ul'dah." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_6", "hash": "360D850B8C2B56AC", "target": "Para unirse a nuestras filas, debe renunciar a toda otra nación. Solo entonces podrá entregarse al fuego y renacer como una Llama Inmortal." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_7", "hash": "DF31040FC0353922", "target": "Arda como uno de los nuestros, <string(gstr1)>, ¡y juntos expulsaremos la oscuridad de Ul'dah!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_8", "hash": "EDA029DEED66CE47", "target": "¿Prestará un juramento para señalar esta ocasión?" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_Q1_000_1", "hash": "6D8D21588FF238CE", "target": "¿Qué juramento harás?" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_A1_000_1", "hash": "954890CA5CF186B1", "target": "¡Mi espada pertenece a Ul'dah!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_A1_000_2", "hash": "7C56B9D0A10AE2FC", "target": "¡Las habilidades que tengo pertenecen ahora a Ul'dah!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_A1_000_3", "hash": "34669A77B7FA2DB3", "target": "¡Seguiré al General de las Llamas hasta la muerte!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_A1_000_4", "hash": "CC9B5A9F6EAFC7AB", "target": "..." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_9", "hash": "A4F164E474FD7415", "target": "¡Hablado como un soldado! Le irá bien aquí." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_10", "hash": "F3F4AE42A3A61A5B", "target": "Y Ul'dah las necesitará en los días venideros. El conocimiento y la experiencia de los aventureros de mucho mundo son bienes valiosos." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_11", "hash": "6C3A77406355A879", "target": "¡Ja! El General de las Llamas encabezaría la vanguardia en cada batalla si pudiera. ¡No me sorprendería que algún día tuviera la ocasión de luchar a su lado!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_12", "hash": "F9446441DE45D5EA", "target": "Deduzco que prefiere que le juzguen por sus actos. Lo respeto. Queremos <if(gnum4,una mujer,un hombre)> de acción, no de palabras." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_13", "hash": "75A1179865EB9F60", "target": "Muy bien. Su resolución es evidente.<br><string(gstr1)>... por la presente le confiero el rango de soldado llama de tercera clase.<br>Bienvenido a las Llamas Inmortales, soldado." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_14", "hash": "DFCADEC702B96D91", "target": "Que luche hasta el final por el oro y la patria." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_20", "hash": "9B9EF78897732EF6", "target": "¿Me oyes, <split(<string(gstr1)>, ,1)>? Soy Minfilia." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_21", "hash": "ED1AB95E2EA5CE6A", "target": "Un oficial de las Llamas Inmortales se puso en contacto conmigo con la noticia de tu alistamiento. Mi enhorabuena, soldado <split(<string(gstr1)>, ,2)>." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_22", "hash": "FF3F021B20AD8141", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas una Llama de Ul'dah, ¡no eres menos <if(gnum4,Heredera,Heredero)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_023", "hash": "AD13D3999F3D050E", "target": "Parece que se requiere su presencia en otra parte." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_024", "hash": "E827052CFA6BA89E", "target": "Pero antes de marcharse, quizá pueda encontrar un momento para hablar con el comandante Swift. No es de los que dejan que los nuevos reclutas salgan al campo sin preparación." },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_GUIDE_000_200", "hash": "2A8AAEE2EE48574D", "target": "¡Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>! La señora Minfilia te espera dentro." },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SEQ_00",
+      "hash": "1775E4BC068CB68F",
+      "target": "El oficial de personal está listo para completar tu incorporación a las filas."
+    },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SEQ_01",
+      "hash": "B5180B761AF145A9",
+      "target": "Has jurado servir a la Gran Compañía de Ul'dah, las Llamas Inmortales. Apenas unos instantes después de que te asignen tu nuevo rango, Minfilia te contacta por linkpearl y solicita tu presencia. Vuelve al Refugio de las Arenas."
+    },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SEQ_02",
+      "hash": "2D2712C241AD4100",
+      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Herederos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
+    },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_TODO_00",
+      "hash": "3268BB7016277440",
+      "target": "Hablar con la Heredera del Séptimo Amanecer en el Refugio de las Arenas"
+    },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SYSTEM_000_025",
+      "hash": "C7CCCB69FF83E202",
+      "target": "Ya puedes aceptar la misión «Mi pequeño chocobo (Llamas Inmortales)» hablando con Swift."
+    },
+    {
+      "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SYSTEM_000_026",
+      "hash": "3EE16465BDC6C658",
+      "target": "Debes completar esta misión para poder avanzar hasta el final de la historia principal de A Realm Reborn."
+    }
+  ]
+}

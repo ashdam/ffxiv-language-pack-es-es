@@ -1,0 +1,347 @@
+{
+  "conversation": "quest/005/ManSea005_00543",
+  "questName": "Lurkers in the Grotto",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_1",
+      "hash": "ACA8AF9E60F05B7B",
+      "target": "Ah, <split(<string(gstr1)>, ,2)>. Ese aire de confianza me dice que no has estado de brazos cruzados desde la última vez que nos vimos."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_2",
+      "hash": "B51B74494321B847",
+      "target": "Espero haberte calado bien, porque tengo una tarea que requiere la atención de un aventurero capaz. ¿Serás tú ese aventurero?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_10",
+      "hash": "AF0761CCD6307B89",
+      "target": "Me alegra oírlo. Entonces te expondré este triste asunto."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_11",
+      "hash": "FE9729C11A978CA2",
+      "target": "Habrás oído los rumores sobre los secuestros. Sí, hay ciudadanos que desaparecen por todos los rincones de Limsa Lominsa, como si una mano invisible los arrancara de la faz de Hydaelyn, con botas y todo."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_12",
+      "hash": "694DC008E1A91FE3",
+      "target": "Y qué tiene esto que ver con la Granja Summerford, te preguntarás. Bueno, eso está por ver, pero parece que una pandilla de tipos de lo más siniestro, con el rostro tatuado de azul, se ha estado arrimando a los lindes de los campos para espiar a mis labriegos."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_13",
+      "hash": "0971258E941C5FEE",
+      "target": "A nadie le haría gracia que semejantes salvajes lo escudriñaran, ni en el mejor de los días, pero los peones están convencidos de que son los secuestradores del rumor, que vienen a por su pellejo."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_14",
+      "hash": "C26876ABC140D0FA",
+      "target": "Ni que decir tiene que están fuera de sí de la preocupación, y su trabajo lo paga, que es lo último que necesito con mis antiguos marineros aún haciéndose a sus nuevos oficios. Ya es toda una lucha sacarlos de la casa de labor por las mañanas."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_15",
+      "hash": "8DA896D75E5871F5",
+      "target": "Ahí es, como suele decirse, donde entras tú. ¿Estarías dispuesto a investigar por mí a esos matones tatuados?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_16",
+      "hash": "5638FF86BF1B90F2",
+      "target": "Bien, <if(gnum4,muchacha,muchacho)>. Cuanto antes lleguemos al fondo de esto, antes volverá este sitio a parecer una granja en condiciones."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_17",
+      "hash": "78B43DC5B74B8A5D",
+      "target": "Te sugiero que empieces por echar un vistazo a la Gruta Canto Marino. Si hay que creer los informes, nuestros indeseados visitantes han ocupado el lugar."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_18",
+      "hash": "9C3627AA14B649E7",
+      "target": "Aun así, ten cuidado, <split(<string(gstr1)>, ,2)>─no sabría decir a ciencia cierta con qué clase de rufianes tratamos aquí. Si <italic(1)>son<italic(0)> los secuestradores... bueno, no bajes la guardia, ¿de acuerdo?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_Q1_000_1",
+      "hash": "7AC360578641DDE8",
+      "target": "La aventura te llama. ¿Deseas proceder con<br>“Acechantes en la gruta”?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_1",
+      "hash": "A7D5280EF261D5B4",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_A1_000_2",
+      "hash": "CDE7927F0D24F7A2",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000010_YSHTOLA",
+      "hash": "3959C7DC0D1F7D75",
+      "target": "<italic(1)>Soy las olas que sostienen.<br>Soy los vientos que guían.<italic(0)>"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000020_YSHTOLA",
+      "hash": "BD04CCDD9D493793",
+      "target": "<italic(1)>Soy las estrellas del ocaso.<br>Soy el cielo del alba.<br>Del mar he nacido.<br>Y en él he de morir.<italic(0)>"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000030_YSHTOLA",
+      "hash": "4545E1E094B19343",
+      "target": "Así reza el Réquiem de los Marineros grabado en aquella piedra."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000040_YSHTOLA",
+      "hash": "E3A64738F2ABD51B",
+      "target": "Esas palabras describen bien el modo en que los ciudadanos de Limsa Lominsa viven su vida."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000050_YSHTOLA",
+      "hash": "892CBF3A27A8F062",
+      "target": "Es a la vez una letanía contra el infortunio para quienes surcan las olas..."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000060_YSHTOLA",
+      "hash": "EB4A84FF2795EC17",
+      "target": "...y una plegaria para que las almas de quienes perecen en tierra hallen el camino de vuelta al mar."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000070_YSHTOLA",
+      "hash": "B18BF025765BFE77",
+      "target": "Volvemos a encontrarnos."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000080_YSHTOLA",
+      "hash": "4466F27DB1E5C564",
+      "target": "¿O no? Disculpa, me temo que te he confundido con otra persona."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000090_YSHTOLA",
+      "hash": "F4B74D8E615DD8D1",
+      "target": "Algo en ti... ¿Tu manera de andar, quizá? En fin, no importa."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000100_YSHTOLA",
+      "hash": "7254C9B689D5332A",
+      "target": "¿Qué te trae a este lugar sagrado de la gente de mar, si se me permite preguntar?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000110_YSHTOLA",
+      "hash": "D8B9D5DAE0F9294B",
+      "target": "Ah, tú eres el aventurero que he visto por la Granja Summerford."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000120_YSHTOLA",
+      "hash": "95CAD6338CDF5833",
+      "target": "Creía ir tras la pista de los secuestradores, pero parece que he errado el tiro."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000130_YSHTOLA",
+      "hash": "7ECAE2EFF373F253",
+      "target": "...O quizá no."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000140_YSHTOLA",
+      "hash": "CB3429B9C84CF4C2",
+      "target": "Como sospechaba, la perturbación etérica de este lugar no es un fenómeno natural."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000150_YSHTOLA",
+      "hash": "18E2CDD6387676BA",
+      "target": "Ni es casualidad que los dos hayamos venido aquí en busca de los responsables de las desapariciones para acabar siendo atacados."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000160_YSHTOLA",
+      "hash": "6477BD6AC7117C40",
+      "target": "Pero ¿a quién beneficia que este secreto se mantenga?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_000170_YSHTOLA",
+      "hash": "8D74D1C9617EE56F",
+      "target": "Tales cavilaciones habrán de esperar. Ocupémonos de lo que tenemos entre manos, por desagradable que sea."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_QIB_TODO001",
+      "hash": "43465D549B43907E",
+      "target": "¡Derrota a las criaturas enloquecidas!"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_01",
+      "hash": "EC41189A05098454",
+      "target": "Percibo algo extraño en esta criatura. No bajes la guardia."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_02",
+      "hash": "3422EABBB0E07144",
+      "target": "¡Cuidado! ¡La perturbación del éter atrae a otros a la refriega!"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_03",
+      "hash": "EA6CDFAD8B7BD3E5",
+      "target": "¡Concéntrate en la batalla!<br>Deja que yo me encargue de las heridas."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_04",
+      "hash": "3466824AF5F77707",
+      "target": "¿Más visitantes indeseados?<br>Acaba con ellos deprisa, no vaya a ser que nos superen."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_06",
+      "hash": "963800EBF8377F2C",
+      "target": "La criatura flaquea.<br>Aprieta el ataque y la batalla estará pronto ganada."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_YSHTOLA_BATTLETALK_07",
+      "hash": "08CE383656AA4A22",
+      "target": "Quizá nos superen en fuerzas..."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_100180_YSHTOLA",
+      "hash": "7925131514E7BC17",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_100190_MOTHERCRYSTAL",
+      "hash": "F91699D4541421C8",
+      "target": "Escucha... Siente... Piensa..."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300200_YSHTOLA",
+      "hash": "AE8B3A27D6DD045E",
+      "target": "¿Ya has vuelto en ti?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300210_YSHTOLA",
+      "hash": "A38B4AFB0F477644",
+      "target": "Ajá. La furia de la pobre criatura fue avivada con cruel premeditación."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300220_YSHTOLA",
+      "hash": "0A0C4F957A728FFC",
+      "target": "¿Ves esta hoja? La encontré clavada en el lomo del goobbue."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300230_YSHTOLA",
+      "hash": "931ADB38D9189748",
+      "target": "He visto cuchillos de esta clase antes─suelen usarse para cortar cabos."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300240_YSHTOLA",
+      "hash": "C4E148037DA80711",
+      "target": "Diría que nuestros culpables son hombres de mar de alguna clase... siendo lo más probable que sean piratas."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300250_YSHTOLA",
+      "hash": "06BFBA0A51CAF6D1",
+      "target": "En cualquier caso, pareces haberte recuperado bastante de tu súbita... indisposición."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300260_YSHTOLA",
+      "hash": "9B6394AA5E0D4D2A",
+      "target": "Confieso que me sorprendió bastante que te desplomaras en el mismísimo instante de nuestra victoria. ¿Quizá un exceso de éter...?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300270_YSHTOLA",
+      "hash": "81E4014732A5C30D",
+      "target": "¿Cómo dices? ¿Un “cristal colosal”? Juraría que no─ Oh."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300280_YSHTOLA",
+      "hash": "9194210E752A809D",
+      "target": "Vaya, vaya... Este <italic(1)>sí<italic(0)> que ha sido un día de revelaciones inesperadas."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300290_YSHTOLA",
+      "hash": "AB99A731378D09A9",
+      "target": "Debo proseguir con mi investigación."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300300_YSHTOLA",
+      "hash": "6379DDF21D677D72",
+      "target": "Entretanto, te sugiero que le entregues este cuchillo a tu patrón, junto con una advertencia sobre la probable implicación de los piratas en este turbio asunto."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300310_YSHTOLA",
+      "hash": "87DDC56231B99DE6",
+      "target": "Los días venideros prometen poco descanso, me temo..."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_300320_YSHTOLA",
+      "hash": "1E96E767C2F11E6B",
+      "target": "Que nuestros caminos vuelvan a cruzarse bajo la luz del Cristal."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_30",
+      "hash": "60D685BE91D790E7",
+      "target": "¡<split(<string(gstr1)>, ,2)>! ¡Cuánto me alegra verte de vuelta de una pieza!"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_31",
+      "hash": "46E9AABB1D617D07",
+      "target": "Mis muchachos no paraban de parlotear que habían oído como si los siete infiernos se desataran cerca de la gruta, y temí haberte enviado a la muerte."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_32",
+      "hash": "450ACFCA05A12B11",
+      "target": "Si estabas en medio de semejante alboroto, espero que sacaras algo de provecho. No querría pensar que arriesgaste la vida para nada."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_40",
+      "hash": "D141C638CDE6A11D",
+      "target": "Hmmm... Una hoja sacada del lomo de una criatura que abatiste en la cueva, ¿eh?"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_41",
+      "hash": "BB3B68F13D48EBE9",
+      "target": "Sí, estaría de acuerdo en que un cuchillo así formaría parte del equipo de cualquier hombre de mar."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_42",
+      "hash": "7A5C72FE748BDA4A",
+      "target": "Empiezo a pensar que esos rufianes son piratas, venidos a tentar a mis peones para que vuelvan a una vida de saqueo. Lo más probable es que no les sentara bien tu aparición en su puerta y te echaran encima un goobbue enloquecido."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_43",
+      "hash": "DDADD5B960280FCA",
+      "target": "Sí, los piratas <italic(1)>sí<italic(0)> que han ido engrosando sus filas últimamente. Más me vale advertir a los mozos y mozas a mi cargo que se guarden de sus tejemanejes."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_44",
+      "hash": "7F6B90E2614C6131",
+      "target": "...¿Hm? ¿Te encontraste con alguien más en la gruta? ¿Una mujer con un artilugio extraño...? Ah... ¡Y'shtola!"
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_45",
+      "hash": "108421163892F5CF",
+      "target": "Lleva ya un buen tiempo en Limsa Lominsa. Sus estudios del éter la traen a menudo por Summerford, así que su presencia en la gruta no tiene nada de raro."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_46",
+      "hash": "4ED8E7F161212604",
+      "target": "Es una moza de aspecto peculiar, te lo concedo, pero no es de las que se juntan con secuestradores. Puedes fiarte de mi palabra."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_47",
+      "hash": "94D8812EE1BC1E9B",
+      "target": "De quien hay que desconfiar es de aquellos labriegos míos que aún no han renunciado del todo a su pasado pirata. La tentación de volver a la vida libre y despreocupada del bucanero puede resultar demasiado fuerte para resistirse."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_48",
+      "hash": "FA31AAE1E413151C",
+      "target": "Tienes mi gratitud, <split(<string(gstr1)>, ,2)>. Si no fuera por los esfuerzos de aventureros aguerridos como tú, esta granja estaría en un estado mucho peor del que está."
+    },
+    {
+      "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_STAELWYRN_000_49",
+      "hash": "CAC77DAA9CC2BD2C",
+      "target": "Tú sigue prestando tu talento a quienes lo necesiten, ¿eh? Ayuda a traerle a Limsa el futuro más luminoso que merece."
+    },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SEQ_00", "hash": "6BF9ED7DA3D9E129", "target": "Staelwyrn, el dueño de la Granja Summerford, tiene una tarea para un aventurero competente." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SEQ_01", "hash": "7F843F9E97C43887", "target": "Los peones informan de que una pandilla de hombres de aspecto salvaje, con el rostro tatuado, merodea vigilante por las inmediaciones del huerto. Los peones creen que esos visitantes indeseados son los secuestradores de los que corre el rumor, y el ambiente de inquietud resultante ha mermado notablemente la productividad del huerto. Dirígete a la Gruta Canto Marino e investiga la zona señalada como guarida de los matones tatuados." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SEQ_02", "hash": "3D0465C5E4C69506", "target": "En la Gruta Canto Marino, tu encuentro con una mujer que porta un extraño artilugio se ve interrumpido de pronto por la embestida de un goobbue enfurecido." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SEQ_03", "hash": "9EE09F8D4FF81F1E", "target": "Tras descubrir un cuchillo de marinero clavado en el lomo de la criatura abatida, la mujer parece convencida de que los responsables de los secuestros son piratas. Regresa a la Granja Summerford y expón a Staelwyrn lo que has averiguado." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SEQ_04", "hash": "7B0919460E8D564C", "target": "Staelwyrn te asegura que la dama con que te encontraste en la gruta no tiene nada que ver con los secuestros, y coincide con su teoría sobre la probable implicación de piratas. Tras agradecerte tu parte en la investigación, el granjero te pide que sigas ayudando a los necesitados por el bien de Limsa Lominsa." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_TODO_00", "hash": "7C6BAE1B91CF3487", "target": "Investigar la Gruta Canto Marino" },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_TODO_01", "hash": "9E9D75355B82B420", "target": "Entregar el cuchillo de marinero mellado a Staelwyrn en la Granja Summerford" },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_TODO_02", "hash": "4B35954BDB698DE0", "target": "Entregar el cuchillo de marinero mellado a Staelwyrn en la Granja Summerford" },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_30", "hash": "E780F099F700B1E6", "target": "Estás a punto de entrar en una batalla instanciada. Las batallas instanciadas solo ocurren durante ciertas misiones y encargos." },
+    { "gameKey": "quest/005/ManSea005_00543#TEXT_MANSEA005_00543_SYSTEM_000_31", "hash": "8D030AEBD6ADED17", "target": "Tómate un momento para leer la información que muestra la ventana de ayuda antes de responder a la llamada del deber." }
+  ]
+}

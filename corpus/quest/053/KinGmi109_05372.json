@@ -1,0 +1,304 @@
+{
+  "conversation": "quest/053/KinGmi109_05372",
+  "questName": "Blades in Waiting",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_00", "hash": "45FCE9C4DA098D90", "target": "Sphene quiere comprobar el estado de los Arrabales." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_01", "hash": "88E55B10DE3AA630", "target": "Sphene está deseosa de seguir la sugerencia de ir a ver a sus compatriotas, pero teme que hablar con quienes ignoran su regreso resulte más perturbador que otra cosa. Por suerte, el consejo de Krile de visitar a Mahuwsa en la Aureola de Yyupye parece la solución perfecta, pues la jornalera conoce las circunstancias de Sphene y sin duda se alegrará de saber que estáis todos sanos y salvos." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_02", "hash": "26EC4866812F9BA2", "target": "Mahuwsa te da la bienvenida y hace un breve relato del caos surgido de la subyugación de quienes llevaban neorreguladores. No obstante, se muestra optimista de cara al futuro y te agradece que hayas detenido a Calyx, además de elogiar a Sphene por su alentador discurso. Después de que Mahuwsa se marche a ayudar a los habitantes de los Arrabales, la conversación gira hacia la idea de reclutar practicantes de las artes arcanas para asistir en los tratamientos. Mientras tus camaradas se ocupan de ello, Alisaie te pregunta si podrías dar con Gulool Ja, que ahora mismo se toma como responsabilidad personal resolver cada problema del reino. Taapu, en la Deriva, debería poder indicarte dónde están él y Erenville." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_03", "hash": "87A0271DCD95FF47", "target": "Como prometió, Taapu puede indicarte dónde Gulool Ja, con suerte, se toma un merecido descanso. Te sugiere buscarlo por las inmediaciones de las viejas ruinas alejandrinas." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_04", "hash": "4E7A92425B045853", "target": "Encantado de verte, Gulool Ja explica que Koana le ha informado del estado de Wuk Lamat pero, en él, el alivio pugna con la frustración mientras lamenta cómo su falta de fuerza le ha impedido ayudar a los demás. Luego te lleva a un lugar donde guarda las espadas de su padre y de Otis, y comparte sus planes de entrenar con la Legión del Alba para llegar a ser algún día digno de empuñar esas hojas. Erenville le brinda un cálido aliento y Gulool Ja, decidido su camino, te arranca la promesa de batirte con él cuando haya crecido." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_05", "hash": "C104D4E4ECB33B03", "target": "Gulool Ja te agradece que hayas escuchado sus ambiciones de futuro y te asegura que se lo tomará todo paso a paso. Tras afirmar que, por el momento, están bien, Erenville te insta a pasarte por la Trastienda a visitar a Shale." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SEQ_06", "hash": "5ED05F740615CF70", "target": "Llegas a la Trastienda y te encuentras con una Shale visiblemente aliviada. Te expresa su más sincera gratitud por tus hazañas, y el ambiente se torna festivo." },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TODO_00", "hash": "C1941D1E68C194CD", "target": "Hablar con Mahuwsa" },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TODO_01", "hash": "2A6622CABBB15E43", "target": "Hablar con Taapu" },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TODO_02", "hash": "D681E319521D7712", "target": "Buscar a Gulool Ja" },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TODO_03", "hash": "DAB5348C3AFCFC4E", "target": "Hablar con Gulool Ja" },
+    { "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TODO_04", "hash": "D204A787019DC48A", "target": "Hablar con Shale en la Trastienda" },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_001",
+      "hash": "820F728DB9D5CD0E",
+      "target": "En cuanto eche un vistazo por aquí, iré a ayudar con el tratamiento de los subyugados. ¡Habrá que movilizar a Angelo y a todos sus hermanos!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_YSHTOLA_000_005",
+      "hash": "10844FD326C1040A",
+      "target": "Si todas las personas que llevaban neorregulador se vieron afectadas, tenemos nada menos que cinco mil pacientes. Incluso con un ejército de magos entrenados, la rehabilitación podría llevar muchas lunas..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_YSHTOLA_000_006",
+      "hash": "F96B1E41BAD296AD",
+      "target": "Y aun así, este es el mejor escenario posible. Que siquiera seamos capaces de exorcizar la influencia de un primigenio habría sido impensable no hace tanto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_KRILE_000_007",
+      "hash": "83B24F2ED4C6476F",
+      "target": "Deja que Raha y yo informemos a los responsables de lo que les espera. Creo que a Sphene le gustaría tenerte cerca un rato más."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_GRAHATIA_000_007",
+      "hash": "BD838886F7446048",
+      "target": "Nunca me ha resultado fácil explicar la invocación de primigenios a un profano de forma clara y concisa... Pero es una habilidad que debo pulir si quiero honrar el buen nombre de los Discípulos de Baldesion."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_010",
+      "hash": "B956EA49B1DFDAE9",
+      "target": "Quizá acepte tu sugerencia. Solo que... me preocupa que, siendo quien soy, acercarme a quienes no saben de mi regreso solo sirva para confundirlos más..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_KRILE_100_010",
+      "hash": "CF98C036FFEF5D6F",
+      "target": "¿Y por qué no habláis con Mahuwsa? Trabaja los campos de la Aureola de Yyupye, no lejos de aquí."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_KRILE_110_010",
+      "hash": "D2356A8BAD477852",
+      "target": "Fue una de las que vinieron a despediros antes de nuestro choque con Calyx, así que seguro que se alegrará de saber que estáis sanos y salvos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_011",
+      "hash": "843F41C9E873173B",
+      "target": "¡Qué idea tan buena! Creo que haré justo eso. ¡Gracias, Krile!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_015",
+      "hash": "DDB793350F4F416B",
+      "target": "Tanto Erenville como Shale se quedaron aliviados al saber de nuestra victoria. Casi se oía cómo se les iba la tensión de la voz, sobre todo a Shale─estaba muy preocupada por nosotros."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_YSHTOLA_000_020",
+      "hash": "E34640B82E4C1826",
+      "target": "La identidad de Sphene no seguirá siendo un secreto mucho más. Su mensaje llegó al corazón de la gente en todo el reino."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_025",
+      "hash": "4380A883B1DAE1FC",
+      "target": "Ah, así que este es el lugar donde trabaja Mahuwsa."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_026",
+      "hash": "FCEE0390C29394D0",
+      "target": "Allá en Resolución parecía muy interesada en conocerme, pero a mí también me encantaría conocerlos mucho mejor a ellos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_030",
+      "hash": "42FF0C0B5D4CA3FE",
+      "target": "¡Mira quién viene! ¡Qué alegría veros de nuevo, sanos y enteros!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_031",
+      "hash": "49D4CAFB51170F4F",
+      "target": "Siento que no le llegara antes nuestra noticia. ¿Cómo está todo el mundo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_032",
+      "hash": "FFB0312EAC4A8A85",
+      "target": "Bueno, no nos ha pasado nada terrible como tal. Aunque la gente del neorregulador empezó toda a la vez a comportarse de forma rara."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_033",
+      "hash": "C909AC7B9F644F30",
+      "target": "Pepoane fue uno de ellos... Me dicen que las autoridades lo están atendiendo en un centro médico."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_034",
+      "hash": "04AD1B54BC2AE3C4",
+      "target": "No hace falta que te preocupes. Con el tratamiento adecuado, pronto tendremos a todos como siempre."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_035",
+      "hash": "0E577FB319896C2C",
+      "target": "Me alegra mucho oír eso. No quisiera perder ni un amigo más, si puede evitarse."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_036",
+      "hash": "1A2A9BA84B1DE6B7",
+      "target": "También me dicen que la “reina Sphene” que intentó tentarnos para hacernos Perpetuos resultó ser una impostora. ¿Qué clase de villano sin corazón se aprovecha así de los miedos de la gente?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_037",
+      "hash": "00B694BACF89F759",
+      "target": "Y aun así, jugándoos el pellejo, tú y los tuyos os encargasteis de pararlo, ¿lo he entendido bien?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_038",
+      "hash": "AECFE7EB34EE7E2F",
+      "target": "Entonces os debemos mucho. ¡Ahora nos toca a cada uno aprovechar al máximo lo que nos habéis dado!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_039",
+      "hash": "AAB180C01B78565F",
+      "target": "Estamos vivos gracias a vosotros. Y mientras vivamos y respiremos, el futuro es nuestro para decidirlo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_040",
+      "hash": "ED0E02533E8D91C2",
+      "target": "Aquella emisión tuya fue un mensaje de esperanza. Para mí. Para todos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_041",
+      "hash": "9BDCD6C82F3CC866",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_MAHUWSA_000_042",
+      "hash": "712ECB8E23F6E727",
+      "target": "Ahora sí que debería irme. Todavía hay que mantener esto en marcha sin Pepoane y los demás, y en los arrabales hacen falta todas las manos disponibles."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_000_043",
+      "hash": "7D2501C86BED456D",
+      "target": "Yo... ¿¡Hay algo que pueda hacer para ayudar a curar a los subyugados!?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_100_043",
+      "hash": "18E0A01788790222",
+      "target": "Bastante, de hecho. Me vendría de perlas una maga de tu nivel."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_YSHTOLA_000_044",
+      "hash": "BE2C050C4599DCB1",
+      "target": "De hecho, sería una buena ocasión para reunir a otros practicantes de las artes arcanas y enseñarles a todos a usar los porxies. Ese conocimiento vendrá bien también para tratar el mal del rayo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ORIGINALSPHENE_100_044",
+      "hash": "3DFC7C5C75C6F3E8",
+      "target": "¡Maravilloso! ¡Le pediré a Gossan que corra la voz!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_YSHTOLA_100_044",
+      "hash": "F5A40460098E9ED3",
+      "target": "Nuestra vuelta por los arrabales queda cancelada, por lo que se ve."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_045",
+      "hash": "537396164C5570AB",
+      "target": "Por cierto, <split(<string(gstr1)>, ,1)>─Alphinaud me ha dicho que Koana ya ha llegado para llevar a Lamaty'i de vuelta a Tuliyollal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_100_045",
+      "hash": "AA7AEF3631471902",
+      "target": "El propio Alphinaud volverá a Alexandria en un momento, así que entre los dos creo que podemos organizar los tratamientos. Dicho eso, quería pedirte otro favor."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_046",
+      "hash": "1CAF764A7003C188",
+      "target": "¿Te importaría ir a ver cómo está Gulool Ja? Según Shale, lleva corriendo por todo el reino, empeñado en resolver personalmente cada problema."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_047",
+      "hash": "A32BE2A368471A8B",
+      "target": "Lo último que supo es que estaba echando una mano en la Deriva con Erenville."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ALISAIE_000_048",
+      "hash": "F6E07226DE36DEAA",
+      "target": "Si le preguntas a... Taapu, creo que se llamaba. Ella debería poder indicarte más o menos dónde están."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_050",
+      "hash": "5540B42AE0977258",
+      "target": "Ah, conozco esa voz..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_051",
+      "hash": "D749A42B349969C7",
+      "target": "Y qué alegría oírla─todos rezamos con fervor por vuestro regreso sanos y salvos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_052",
+      "hash": "5C205BE79DF7543C",
+      "target": "¿Buscáis a Gulool Ja? Estuvo aquí, preguntando si necesitábamos ayuda con algo o si habíamos visto a alguien comportándose de forma extraña."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_053",
+      "hash": "D14FEF4DBCFE332E",
+      "target": "Sonaba <italic(1)>agotado<italic(0)>, así que le dije que de momento estábamos bien y le insistí en que descansara. Ojalá me haga caso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_054",
+      "hash": "9100750EDE880C4D",
+      "target": "Creo que se fue corriendo hacia las ruinas de la vieja Alexandria. Siempre pareció gustarle aquel sitio."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_TAAPU_000_055",
+      "hash": "0D0D9BBFA04F418C",
+      "target": "Gulool Ja es un niño precoz, pero un niño al fin y al cabo. Necesita nuestra guía y nuestro apoyo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_000_060",
+      "hash": "5B6A0D5804D1B993",
+      "target": "<split(<string(gstr1)>, ,1)>, ¿cómo...? Ah, has venido a buscarnos, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_000_061",
+      "hash": "42231E3F2F0CFA16",
+      "target": "No hacía falta que te dieras semejante caminata, pero me alegra verte. Alisaie nos contó lo esencial, y Koana también tuvo unas cuantas palabras que decir."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_000_070",
+      "hash": "BADD5DBA2750B6A4",
+      "target": "Todavía no ha levantado una espada y ya quiere batirse. Se nota que es nieto de Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_GULOOLJA_000_080",
+      "hash": "0E19C9E3EBAAA6FD",
+      "target": "Gracias a los dos por escucharme. Iré paso a paso y, de momento, me quedaré con lo que sé hacer."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_GULOOLJA_000_081",
+      "hash": "40DAC289F782CBF4",
+      "target": "Como... cocinar los platos que me enseñó Otis y llenarle la barriga a todo el mundo. ¿Qué os parece?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_100_081",
+      "hash": "36AA3AAD69CC74CA",
+      "target": "Me parece una idea estupenda. Todos han trabajado mucho, seguro que agradecen una buena comida."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_110_081",
+      "hash": "C26E53E1B51D64D5",
+      "target": "Bueno, creo que aquí hemos dejado atrás un hito."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_120_081",
+      "hash": "A3715FED287A4359",
+      "target": "¿Y la Trastienda? Si aún no lo has hecho, creo que a Shale y a los demás les gustaría que te pasaras a saludar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_ERENVILLE_000_085",
+      "hash": "21248DF9628FD86B",
+      "target": "Yo no pienso moverme todavía. Uno de los afectados es un viejo amigo y quiero quedarme cerca mientras duren los tratamientos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_GULOOLJA_000_090",
+      "hash": "67924CE061FC5430",
+      "target": "La espada de Otis ha conocido mejores días... Le pediré a Genolt que la arregle cuando sea lo bastante grande para empuñarla."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_GULOOLJA_100_090",
+      "hash": "89FDBED0DA6761E9",
+      "target": "En cuanto a las armas de mi padre, las encontraron en el Skydeep Cenote. Me pregunto si alguna vez quiso que fueran para mí..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_KRILE_000_095",
+      "hash": "A9B076A63BF43186",
+      "target": "¡Ah, veo que hemos tenido la misma idea! Pensé que estaría bien ponernos al día con nuestros amigos de Oblivion antes de meternos en asuntos más serios con los responsables de la ciudad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SHALE_000_100",
+      "hash": "C3DCAF79389CA215",
+      "target": "¡<split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SHALE_000_101",
+      "hash": "014E8A4DEE6B6859",
+      "target": "Ay, gracias a las estrellas que estás bien. Recibí los informes, claro, pero no hay nada como verlo con mis propios ojos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi109_05372#TEXT_KINGMI109_05372_SHALE_000_102",
+      "hash": "7BFBAD7E71AA09B6",
+      "target": "<if(gnum4,Bienvenida,Bienvenido)>... Tenemos muchísimo que agradecerte."
+    }
+  ]
+}

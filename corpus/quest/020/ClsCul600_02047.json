@@ -1,0 +1,146 @@
+{
+  "conversation": "quest/020/ClsCul600_02047",
+  "questName": "The Spirit of Hospitality",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_00",
+      "hash": "797C4723E9F4D7A8",
+      "target": "Melkoko está deseando ayudarte a empezar en el Dellemont d'Or."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_01",
+      "hash": "19FFF8FB09DE7F8A",
+      "target": "El tan esperado Dellemont d'Or ha comenzado. Melkoko se toma un momento para advertirte de que a Maese Dellemont es notoriamente difícil impresionarlo, y añade que será una carrera de dos chocobos entre tú y H'mhasi Tia. Antes de nada, busca a Maese Dellemont en el Bismarck y entérate de los pormenores del concurso."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_02",
+      "hash": "1CA848BB56259AFF",
+      "target": "Tras informarte de que eres el último concursante, Dellemont te expone los pormenores del concurso. De un menú de tres platos, el principal debe ser un plato de carne, mientras que el tema general es la hospitalidad. Lleva la noticia a Melkoko, al Miembro Ausente."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_03",
+      "hash": "DC10F5751D5DB80F",
+      "target": "Como último concursante, estás en desventaja, pues a Dellemont le costará mantener el apetito para cuando pruebe tu cocina. Teniendo esto presente, y con la guía de Melkoko, te decides por un menú compuesto de morel salad, okeanis frito y marron glace. Recurre a todas tus habilidades culinarias para crear los mejores ejemplares de estos platos, y preséntaselos al miembro del comité del concurso en el Bismarck."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_04",
+      "hash": "CC1C01282FC489BD",
+      "target": "Presentas tus platos al miembro del comité del concurso, que los dispone para la valoración. Tras unos tensos latidos, Dellemont te otorga un diez perfecto ─el primero en toda la historia del concurso, y un punto por encima del nueve de H'mhasi Tia─. Así es como te proclamas campeón. Dellemont se toma un momento para explicar qué os separó a ti y a tu rival. Aunque las creaciones de H'mhasi Tia eran magníficas por derecho propio, les faltaba el espíritu de hospitalidad que definía tus platos. H'mhasi admite la derrota y sale corriendo consternado, con Melkoko pisándole los talones. Sigue a la pareja de vuelta al Miembro Ausente y asegúrate de que todo va bien entre ellos."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SEQ_05",
+      "hash": "068D82EFD8DC0CEF",
+      "target": "Eres testigo de cómo Melkoko y H'mhasi Tia hacen las paces. Se revela que la aparente pereza de H'mhasi Tia era solo una pose, y que había estado entrenando duro para el concurso en secreto. Con el permiso de Rhoswen, decide recorrer el reino para llegar a ser un cocinero tan grande como tú, y Melkoko promete que lo esperará. Después de que los demás se marchen, Melkoko te agradece haber sido una inspiración para ella y H'mhasi Tia. Inspirado a tu vez por sus elogios, te propones ser el mejor cocinero posible, y un digno campeón del Dellemont d'Or.<br><br>※La próxima misión de cocinero estará disponible con Lyngsath una vez que hayas completado la misión de la historia principal “El último confín del destino”."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_00",
+      "hash": "FF91F690DE5E517A",
+      "target": "Hablar con Dellemont"
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_01",
+      "hash": "C7B6B6BFB5CBA8E5",
+      "target": "Informar a Melkoko"
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_02",
+      "hash": "9088F4C7CE078B7F",
+      "target": "Entregar una morel salad <sheet(Addon,9,0)>, un okeanis frito <sheet(Addon,9,0)> y un marron glace <sheet(Addon,9,0)> al miembro del comité del concurso"
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_03",
+      "hash": "B09E7B508429A3CD",
+      "target": "Hablar con Melkoko"
+    },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_100", "hash": "C3D5B78B4BB01BE8", "target": "¡Ha empezado, <split(<string(gstr1)>, ,1)>─la Dellemont d'Or!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_101", "hash": "613924E4C4859F11", "target": "Por si no lo sabías, al maestro Dellemont es notoriamente difícil impresionarlo. En toda la historia del concurso, nadie ha recibido jamás los diez puntos completos, e incluso chefs respetados suelen sacar solo cuatro. Esta vez, creo que será una carrera de dos chocobos entre tú y H'mhasi Tia." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_102", "hash": "9DE3813409902724", "target": "Ahora bien, antes de nada, tendrás que conocer los pormenores, como el ingrediente principal y el tema. ¡Ve al Bismarck y que te los dé el maestro Dellemont!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_105", "hash": "9026E540B6D32C44", "target": "Antes de nada, tendrás que conocer los pormenores, como el ingrediente principal y el tema. ¡Ve al Bismarck y que te los dé el maestro Dellemont!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_LYNGSATH_000_108", "hash": "9EBB538A3072F16B", "target": "¡Creo en ti, <split(<string(gstr1)>, ,1)>! Sé que puedes ganar la Dellemont d'Or y salvar el Bismarck... ¡<italic(1)>y<italic(0)> mi pellejo!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_110", "hash": "EBA972DC3ACC662F", "target": "Ahí está, amigo mío. Según el registro, es usted nuestro último concursante." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_111", "hash": "4174AAAD6556BDB2", "target": "Este año, el ingrediente principal es la carne. No importa de qué tipo. Ha de usarse en el plato principal, que deberá presentar junto con un entrante y un postre." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_112", "hash": "A70A95CC48343C34", "target": "En cuanto al tema, es «la hospitalidad». Prepare sus platos en el espíritu de este tema, y luego preséntelos al miembro del comité de allí. ¡Le deseo la mejor de las suertes!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_115", "hash": "C1568B03C80E863B", "target": "Por si lo ha olvidado, el ingrediente principal es la carne y el tema es la hospitalidad. Cuando sus platos estén listos, preséntelos al miembro del comité de allí. ¡Le deseo la mejor de las suertes!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_000_018", "hash": "5722AA887A32E4C7", "target": "¡Esta está resultando ser la Dellemont d'Or más animada que se recuerda!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_120", "hash": "4F31C549BF1EE222", "target": "Carne y hospitalidad... Vaya, esto es peliagudo. El ingrediente principal es de lo más amplio, y el tema encima es abstracto. También me preocupa que seas el último concursante." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_121", "hash": "FCD5E9ACEDE64EF2", "target": "Entre otras cosas, el maestro Dellemont es famoso por su estómago sin fondo, pero hasta a él le costaría mantener el apetito tras interminables platos de carne. En fin, supongo que tendremos que confiar en su objetividad. Y bien, ¿qué tienes en mente para el entrante?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_Q1_000_122", "hash": "803E6C78027CEF12", "target": "¿Qué tienes en mente para el entrante?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_123", "hash": "B2531881BE21018C", "target": "Algo que ayude a la digestión." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_124", "hash": "6FB8D97D6C8D73A4", "target": "Algo ligero y suave." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_125", "hash": "1D7285B6E903033D", "target": "Ah, en efecto. En ese caso, creo que las setas son una elección acertada. Sí, ¡vamos con la ligera y refrescante ensalada de colmenillas!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_126", "hash": "80597DFB8E4314F4", "target": "Pasando a lo siguiente, ¿qué harás para el importantísimo plato principal?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_Q1_000_127", "hash": "B678B06126AE3360", "target": "¿Qué harás para el plato principal?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_128", "hash": "E6B5A4ECFDEC73A2", "target": "Un plato que satisfaga por su textura." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_129", "hash": "EF1330D6EEFD6670", "target": "Un plato sabroso y suculento." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_130", "hash": "55D50C9E8D7BCC2B", "target": "Mmm, ¿qué encajaría...? Ah, ya lo tengo: ¡okeanis frito!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_132", "hash": "FE321E38E3FDBA97", "target": "Ahora bien, para este plato, el rebozado es la clave del éxito, pero también es muy difícil de clavar. Asegúrate de que quede ligero y crujiente." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_133", "hash": "D0FADABAE6E27785", "target": "Y por último, pero no por ello menos importante, ¡el postre! Tu tarta de Sohm Al tuvo tan buena acogida, ¿qué te parece hacerla de nuevo?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_Q1_000_134", "hash": "C69618C707BA0302", "target": "¿Qué harás de postre?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_135", "hash": "24932D88539D2A5C", "target": "Algo pequeño y decididamente dulce." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_A1_000_136", "hash": "B5BE3ABD07E3D1A4", "target": "Un plato sencillo de sabor sencillo." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_137", "hash": "7199F45217ACEC8A", "target": "Ah, así que algo que pueda disfrutarse incluso con el estómago lleno. En ese caso, te recomiendo de todo corazón una ración de marron glace." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_138", "hash": "79DB53DE6C44C63C", "target": "Y con eso, nuestro menú queda decidido. El resto depende de ti, <split(<string(gstr1)>, ,1)>. Cuando hayas preparado los tres platos, preséntalos al miembro del comité del concurso en el Bismarck. ¡Rezaré por tu éxito!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_145", "hash": "B8256B09CF40CA2C", "target": "El resto depende de ti, <split(<string(gstr1)>, ,1)>. Cuando hayas preparado los tres platos, preséntalos al miembro del comité del concurso en el Bismarck. ¡Rezaré por tu éxito!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_000_150", "hash": "019A25EB27A836A0", "target": "Si sus platos están listos, los dispondré para el maestro Dellemont." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_000", "hash": "980FD757AE62B07F", "target": "Acaban de otorgarme la puntuación más alta de la historia de la Dellemont d'Or. El Bismarck es prácticamente mío." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_001", "hash": "DAD10840F4E545DB", "target": "¡¿No te estarás adelantando?! ¡<split(<string(gstr1)>, ,1)> aún puede superar tus malditos nueve puntos!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_002", "hash": "CE2A84557D038C2E", "target": "Ja, el maestro Dellemont jamás otorgará un diez perfecto. Equivaldría a declarar que su leyenda ha sido superada─no es una decisión que se tome a la ligera." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_003", "hash": "276138B0E9DA6EF1", "target": "Sin más dilación..." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_100_004", "hash": "ABC8BDFDAEB5B2C3", "target": "¡Maestro Dellemont! ¡La puntuación, si es tan amable!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_100_005", "hash": "CF538507569DB618", "target": "¡Ocho puntos! ¡Lo que significa que la victoria es para...!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_100_006", "hash": "EBFCDCD06B6AAA2D", "target": "¡N-no! ¡Son <italic(1)>nueve<italic(0)> puntos! ¡Tenemos un empate en la puntuación más alta jamás otorgada!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_006", "hash": "7619CE3F7B054CE0", "target": "¡DIEZ PERFECTO!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TAIKAIIIN_000_007", "hash": "FDC7745A3CBC2A93", "target": "¡Tenemos ganador: <string(gstr1)>, con el primer diez perfecto de la historia!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_008", "hash": "3A67D97B0FB7C004", "target": "¿C-cómo puede ser? Maestro Dellemont, usted estaba negando con la cabeza..." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_009", "hash": "C00B31562235EE38", "target": "No era por decepción, se lo aseguro. No, sencillamente me hacía a la idea de la realidad─la realidad de que por fin ha aparecido un cocinero que me supera." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_010", "hash": "9D0ABFF5D28F6DF3", "target": "Primero, el entrante. Tras un largo día de juzgar, las setas ayudaron a absorber la grasa acumulada en mi estómago, dándole una nueva vida─un gesto de consideración digno de la más entregada de las madres." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_011", "hash": "A0BFA0A997DB507B", "target": "Luego llegó el plato principal. Al hincar el diente en el rebozado, deliciosamente ligero y crujiente, mi lengua se vio recibida por una armonía de sabores, que brotaba del suculento corte de okeanis que había debajo. Que se puso gran cariño en hacerlo tierno era evidente a mis sentidos." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_012", "hash": "FD2366417348BCED", "target": "Y por último, el postre. A decir verdad, para entonces estaba a punto de reventar, pero, compacto como era, pude acomodar cómodamente el marron glace, cuyo dulzor concentrado sirvió de acento perfecto a una comida maravillosa. Del primer bocado al último, sentí el espíritu de la hospitalidad." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_100_012", "hash": "7E173AE92CF20C5A", "target": "Al final, fue la interpretación del tema de <split(<string(gstr1)>, ,1)> lo que <if(gnum4,la,lo)> distinguió del resto. En vez de afanarse por asombrar con su destreza, se mostró <if(gnum4,más atenta,más atento)> al comensal; como buena <if(gnum4,cocinera,cocinero)>, <if(gnum4,ella,él)> tuvo siempre presente a quien iba a comer." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_013", "hash": "84B2001226B8DD45", "target": "Consideración digna de la más entregada de las madres... ¡Esto es algo que aprendiste con la sopa de remolacha ishgardesa!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_LYNGSATH_000_015", "hash": "2CE47913D1C99CC5", "target": "¡Y me parece que hiciste el okeanis especialmente tierno marinándolo, como cuando preparaste las albóndigas de cockatrice para mi amigo!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_017", "hash": "F736097F766EBF7D", "target": "H'mhasi Tia. Tus platos fueron magníficos, no cabe duda. Nadie podría dudar de la gran destreza que se puso en su creación." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_100_017", "hash": "F774A4391AB39CF0", "target": "Sin embargo, más que algo para crear, la comida es algo para comer. Lo habías olvidado, y eso lo cambió todo." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_018", "hash": "9A5006F2029DBC84", "target": "He perdido. Como prometí, dejaré de ser cocinero." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_019", "hash": "8A3B5FA23E65E91B", "target": "¡Ma-Mashito! ¡Espeeera!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_020", "hash": "8A30A1E500794E41", "target": "Enhorabuena, amigo mío. Y gracias. Por primera vez en mucho tiempo, he probado una comida que satisfizo no solo mis sentidos, sino también mi alma. Espero volver a verte, no como juez y concursante, sino como iguales." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_LYNGSATH_000_160", "hash": "8E011F42634ED810", "target": "Uf... El Bismarck está a salvo, gracias a ti. Como Melkoko vuelva a hacer una jugada así, eso sí, la echo por la borda de las cubiertas altas. Pero hablando de la chica, quizá deberías ir a ver cómo están ella y H'mhasi Tia. Se fueron en dirección al Miembro Perdido." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_LYNGSATH_000_165", "hash": "EFA9D7F44501915B", "target": "Quizá deberías ir a ver cómo están Melkoko y H'mhasi Tia. Se fueron en dirección al Miembro Perdido." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_170", "hash": "1A10C49BFCC1B18E", "target": "¡No puedes rendirte sin más!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_171", "hash": "5B580D589D91A990", "target": "¡Pero fuiste <italic(1)>tú<italic(0)> quien quiso que lo hiciera! ¡Me hiciste jurarlo!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_172", "hash": "1A90CB826DACDB9D", "target": "¡S-solo lo hice porque estabas descuidando tus obligaciones! ¡Quería de vuelta al viejo Mashito, el que se dejaba la piel en su cocina a cada instante del día!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_173", "hash": "BFAA187183991A33", "target": "¡Serás necia, lalafella! ¡Descuidaba mis obligaciones para poder prepararme para el concurso en secreto!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_175", "hash": "3D84113EE5851420", "target": "No quería revelar ni un asomo de esfuerzo a mis rivales. El campeón inexpugnable─esa es el aura que quería desprender." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_176", "hash": "41D8284F9D719DA5", "target": "\\<suspiro> Qué encanto... D-digo, te lo suplico, Mashito─¡no dejes de ser cocinero! ¡No soporto la idea de no poder volver a comer tu cocina!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_177", "hash": "8B323854F04CE06D", "target": "Bueno, si mi Melibel insiste, supongo que no hay más remedio que seguir haciendo lo que mejor se me da." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_RHOSWEN_000_179", "hash": "B27E8E360C4D62CC", "target": "¡¿Queréis bajar la voz?! ¡Nos tenéis a todos hasta la coronilla con vuestra farsa de enamorados!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_RHOSWEN_000_182", "hash": "4DFE46B02E22B756", "target": "Así que no ganaste. Qué lástima. ¿Qué piensas hacer ahora?" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_183", "hash": "FAE2A7755C91C634", "target": "Capitana, si me lo permite, quisiera pedirle licencia de su servicio por un tiempo." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_184", "hash": "D55B7A597718418E", "target": "Este aventurero posee algo que yo no. Al recorrer el mundo como <if(gnum4,ella,él)> hace, espero llegar a poseerlo yo también." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_RHOSWEN_000_185", "hash": "1FC495005CB2AC41", "target": "Si eso es lo que quieres, entonces no te detendré. Pero ¿y Melkoko? ¿Vas a dejarla atrás sin más? Si la haces llorar, no dudaré en hacer que este sitio haga honor a su nombre." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_HMHASITIA_000_186", "hash": "687D09B6B5384FE3", "target": "Debo dejar tu lado por un tiempo, Melibel. Pero por mi honor, juro que volveré a ti y haré que te sientas orgullosa." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_187", "hash": "E6B84424501A865C", "target": "Sé que lo harás, Mashito. Te esperaré─¡por siempre jamás!" },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_RHOSWEN_000_189", "hash": "67BA097E84BFB901", "target": "<italic(1)>Por fin<italic(0)>, algo de paz y tranquilidad." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_190", "hash": "426DB6F05D0D0855", "target": "Te debo una disculpa, <split(<string(gstr1)>, ,1)>. Estuvo mal por mi parte enredarte en mis asuntos personales." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_191", "hash": "51D23A281C37FA56", "target": "Pero no todo fue malo. Fuiste una influencia positiva para Mashito y para mí." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_100_191", "hash": "C91D870954061C00", "target": "Gracias a ti, se le recordó lo que significa ser cocinero, y yo he llegado a amar mi trabajo aún más de lo que ya lo hacía." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_101_191", "hash": "727CFBBA1DB9CC0B", "target": "Todo esto fue posible gracias a tu cocina. Has tomado algo humilde y le has dado el poder de cambiar vidas." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_102_191", "hash": "010554E553087718", "target": "¡Gracias, <split(<string(gstr1)>, ,1)>─por ser una inspiración para todos nosotros! ¡Y una tardía enhorabuena por ganar la Dellemont d'Or! ¡Jamás ha habido campeón más digno!" },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SYSTEM_000_500",
+      "hash": "BFCDEB268158719A",
+      "target": "Con esto concluyen las misiones de cocinero de FINAL FANTASY XIV: Heavensward. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:"
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SYSTEM_000_501",
+      "hash": "E952BFDF26866125",
+      "target": "※Debes haber completado la misión de la historia principal “El último confín del destino”."
+    },
+    {
+      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_SYSTEM_000_502",
+      "hash": "57D5A98BE9CA3530",
+      "target": "Una vez hecho, la próxima misión de cocinero estará disponible con Lyngsath."
+    }
+  ]
+}

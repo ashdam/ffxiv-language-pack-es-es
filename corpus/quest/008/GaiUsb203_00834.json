@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/008/GaiUsb203_00834",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_SEQ_00", "hash": "E1422735B9CB3B84", "target": "Kuzai Tazai quiere tu ayuda con unos asuntos de crustáceos." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_SEQ_01", "hash": "308071DA03379415", "target": "Unos temblores recientes frente a la costa de Costa del Sol han provocado una molesta afluencia de snippers. Por si fuera poco, Kuzai Tazai te ha informado de que al grupo lo lidera una criatura aún más temible. Tras entregarte un brebaje que podría servir para debilitar al enemigo mayor, el Lalafell te ha pedido que abatas cinco de los snippers para hacerlo salir." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_SEQ_02", "hash": "AC6DB263848235DB", "target": "Has abatido cinco snippers, lo que debería bastar para provocar al gripper. Aguarda emboscado en el lugar indicado y embosca al cangrejo con tu brebaje alquímico cuando aparezca." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_SEQ_03", "hash": "06F14D0DF39FA1C4", "target": "Has abatido heroicamente al formidable gripper, haciendo las costas más seguras por el momento. Vuelve a informar a Kuzai Tazai." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_SEQ_04", "hash": "E7E6E586C83C7C3F", "target": "Como antes, Kuzai Tazai parece alegrarse de tu logro, pero se mantiene reservado sobre la situación. Corren rumores de que los temblores de la costa los causa un monstruo desconocido." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_TODO_00", "hash": "A33413F2BF718B24", "target": "Abatir snippers" },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_TODO_01", "hash": "F90DBA2F0249AF6F", "target": "Aguardar emboscado y abatir al gripper con el brebaje alquímico" },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_TODO_02", "hash": "4C63A1C1C1B3A3FD", "target": "Informar a Kuzai Tazai" },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_000", "hash": "1782E0696D82EAD3", "target": "Ah, <if(gnum4,señora,señor)>. Antes no me quedé con tu nombre. ¿<split(<string(gstr1)>, ,1)>? ¡Encantado! Y <italic(1)>más<italic(0)> aún porque me vendría bien tu ayuda otra vez. Son esos temblores que empezaron hace un rato. Las sacudidas están haciendo salir del agua a los snippers." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_001", "hash": "288508621350E3D4", "target": "Ya son de por sí peligrosísimos de eliminar, pero por si fuera poco hay que vérselas con un viejo gripper nudoso. Hace menos de tres días le arrancó un dedo del pie al chico del salinero. \\<suspiro> Sabemos cómo vencerlo, pero no logramos acercarnos lo suficiente." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_002", "hash": "710DA1AB7A5C0B56", "target": "Pero ahí es donde entras tú. El señor Gegeruju mandó preparar un brebaje alquímico que debería ablandar el caparazón del viejo gripper." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_003", "hash": "4F6EF613CE1424AC", "target": "Toma, cógelo. Tu misión será sobrevivir a los zarpazos del irascible monstruo acuático el tiempo suficiente para rociarlo varias veces. Ya te ocupaste de aquellos kobolds... ¡seguro que <italic(1)>estos<italic(0)> no suponen ningún reto!" },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_030", "hash": "41DCEFFE5212BFAF", "target": "¡Qué rapidez! ¡Eres un orgullo para todos los aventureros, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_KUZAITAZAI_000_031", "hash": "30E10E380DEBC94A", "target": "¿Sabes? Últimamente he oído hablar de qué está causando esos temblores. La gente parece convencida de que es obra de algún monstruo. Sé por experiencia que esas habladurías suelen ser puro viento, pero no puedo evitar preguntármelo..." },
+    { "gameKey": "quest/008/GaiUsb203_00834#TEXT_GAIUSB203_00834_POP_MESSAGE_000", "hash": "5BFBD5F4BAACF67F", "target": "¡El gripper asoma su fea cabeza!" }
+  ]
+}

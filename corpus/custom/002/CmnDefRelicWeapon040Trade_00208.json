@@ -1,0 +1,26 @@
+{
+  "conversation": "custom/002/CmnDefRelicWeapon040Trade_00208",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_000", "hash": "1758085B4F6F0406", "target": "Una vez que la energía anímica de su reliquia esté sintonizada, preséntemela. Retiraré su capa de sellado anímico para que su nuevo poder pueda liberarse." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_TITLE", "hash": "13FD4369D14E3316", "target": "¿Qué desea mejorar?" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_CHOICES", "hash": "793A60997C2D119C", "target": "<sheet(Item,lnum1,9)>." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_MENU_CANCEL", "hash": "2B3AD50B1B3E4033", "target": "Nada." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_MESSAGE", "hash": "B8BB7F90249DAB45", "target": "¿Mejorar <ennoun(Item,3,lnum1,1,1)>?" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_YES", "hash": "23D928D1221A12C2", "target": "Sí" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_YESNO_NO", "hash": "BE31ADF5B87202EB", "target": "No" },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_030", "hash": "36C4984111E2683D", "target": "¿Y bien? No puedo empezar a menos que me preste su arma." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_031", "hash": "9DDDCF8968365525", "target": "Asegúrate de colocar la reliquia que deseas mejorar en tu Cofre de equipo o en tu inventario antes de hablar con Jalzahn." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_040", "hash": "0C51242520AB2D1B", "target": "Hum, esta reliquia no parece tener el sellado anímico. Si desea mejorarla, no tiene más que decirlo y me encargaré de ello." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_041", "hash": "F91794B5751D0E33", "target": "Si deseas aplicar el sellado anímico a <ennoun(Item,3,lnum1,1,1)>, habla con Jalzahn con el arma equipada y luego selecciona <colortype(500)><edgecolortype(501)>Sellado anímico de arma reliquia novus<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_050", "hash": "7B7AB48A127D8515", "target": "Hum, me temo que es pronto para retirar el sellado anímico. Aún le queda camino antes de que la energía anímica de la reliquia esté plenamente sintonizada." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_051", "hash": "D80B1E6E3FFDB4AD", "target": "Usando el Zodiac glass es posible verificar visualmente el progreso de la sintonización." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_052", "hash": "E69EB3C671BF1F04", "target": "Una vez que tu arma reliquia novus haya alcanzado la plena sintonización anímica, puedes presentársela a Jalzahn para mejorarla a un arma reliquia nexus." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_053", "hash": "60143527D9499F49", "target": "Si extravías tu Zodiac glass, puedes obtener un repuesto hablando con Drake." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_060", "hash": "DD4C8097B9D8116F", "target": "Ya logramos mejorar esta reliquia en concreto, ¿no es así? No necesita otra, amigo mío." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_SYSTEM_000_060", "hash": "021CE6DFC365BD8B", "target": "Ya posees <ennoun(Item,3,lnum1,1,1)>." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_100", "hash": "985C8701C42CE881", "target": "Ah, sí, el revelador zumbido de un poder que ansía ser liberado. Apenas necesito un cristal del Zodiaco para ver que la energía anímica de su arma está ya plenamente sintonizada." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_101", "hash": "D73CA7410B77D9FF", "target": "La capa de sellado anímico ha cumplido su propósito. Ha llegado el momento de retirarla. Solo será un instante." },
+    { "gameKey": "custom/002/CmnDefRelicWeapon040Trade_00208#TEXT_CMNDEFRELICWEAPON040TRADE_00208_JALZAHN_000_102", "hash": "574B38B968AC891E", "target": "...¡Está hecho! ¡Su arma ha despertado a su potencial latente! ¡Tómela de nuevo y sienta cómo su nuevo poder recorre su cuerpo!" }
+  ]
+}

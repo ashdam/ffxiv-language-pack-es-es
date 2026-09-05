@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/004/SubGsc103_00488",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_000", "hash": "52D9C8AE1BDFB33D", "target": "¡Adelante, adelante, viajer<if(gnum4,a,o)>! ¿Le apetece tentar a la suerte con un boleto de Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_Q1_000_000", "hash": "FAB5986F35509136", "target": "¿Jugar al Mini Cactpot?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_001", "hash": "F9B995970FCC0F01", "target": "Sí" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_A1_000_002", "hash": "148CC578AEE96451", "target": "No" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_010", "hash": "462D66AA91CCCE7F", "target": "Muy bien, <if(gnum4,señorita,señor)>. Pero recuerde: ¡con el Mini Cactpot, la prosperidad está a un rasca de distancia!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_020", "hash": "9AFC08A97F63757B", "target": "¡Espléndido, <if(gnum4,señorita,señor)>! Permítame explicarle: el Mini Cactpot es un juego de azar que puede disfrutar tres veces al día." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_021", "hash": "8CE246A8B3F69164", "target": "Jugar es la sencillez misma: basta con adivinar el valor de los números ocultos para llevarse un buen pellizco. Si la gracia de Nymeia le acompaña, ¡le recompensarán con puntos del Manderville Gold Saucer a espuertas!" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_000_022", "hash": "37C09D9D37407910", "target": "Y bien, <if(gnum4,señorita,señor)>... ¿se siente con suerte?" },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_DAYLY_100_030", "hash": "C348D184B3E333BB", "target": "Ya puedes comprar boletos de Mini Cactpot." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_030", "hash": "35FF20105056AA7B", "target": "Ya puedes comprar hasta tres boletos de Mini Cactpot al día." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_031", "hash": "54208FF01C88ECAA", "target": "El contador de boletos de Mini Cactpot se reinicia cada día a las <setresettime(0)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora terrestre)." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_032", "hash": "8236C8513A65A17A", "target": "Cada boleto de Mini Cactpot tiene nueve casillas dispuestas en una cuadrícula de tres por tres. A cada casilla se le asigna al azar un número del uno al nueve. Al comprar un boleto, se revelará un único número." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_033", "hash": "FC030C1FC2311F34", "target": "Para jugar, descubre otros tres números cualesquiera. Con esa información, adivina la suma de cada línea." },
+    { "gameKey": "quest/004/SubGsc103_00488#TEXT_SUBGSC103_00488_SYSTEM_000_034", "hash": "C2F68A158D5EFED0", "target": "Por último, elige una sola línea. El pago en MGP dependerá de la suma total de la línea que hayas elegido." }
+  ]
+}

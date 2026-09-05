@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/004/ManFst006_00446",
+  "questName": "Dread Is in the Air",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_1", "hash": "24CA37BD1E5BCE97", "target": "Le agradezco su amabilidad de antes. Detesto molestarle de nuevo, pero necesito su ayuda en otro asunto... de grave importancia, me temo." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_2", "hash": "0246D1BEA7C7F72E", "target": "Últimamente he observado que los dirigibles Ixali aparecen sobre la Selva de los Doce con creciente regularidad. Pero la frecuencia no me inquieta tanto como el <italic(1)>lugar<italic(0)> que eligen para volar: justo el trozo de cielo que hay sobre el Árbol Guardián." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_3", "hash": "8F832774FB2D4AF7", "target": "El árbol es un lugar sagrado, o eso me hicieron creer cuando llegué a Gridania, así que di por sentado que los elementales no consentirían que los Ixal lo profanaran. Y, sin embargo, los hombres pájaro van y vienen a su antojo, sin la menor señal de protesta por parte de los guardianes de la Selva de los Doce." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_4", "hash": "844AC1C8DE21ACE1", "target": "Y eso me hizo pensar... Desde que apareció el tan comentado «individuo sospechoso», cada vez suceden más cosas extrañas en el bosque. ¿Será que le hizo algo a los elementales?" },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_5", "hash": "B0298B3E67C35210", "target": "Por si resultara de utilidad, he plasmado en pergamino los detalles de mis avistamientos, y le pediría que entregara el documento a la Madre Miounne." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_LUQUELOT_000_6", "hash": "A4964E4ABE61F37E", "target": "Dese toda la prisa que pueda... Tengo la irreprimible sensación de que algo terrible está a punto de suceder." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_10", "hash": "FD271B324F729239", "target": "Hola, <split(<string(gstr1)>, ,1)>. Me ha llegado noticia de tus incansables esfuerzos en los Prados de Rama Torcida. ¡La gente de allí no tiene más que elogios para ti!" },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_11", "hash": "684372A771D18816", "target": "Desde luego, tienes un don para hacer que esta Madre se sienta orgullosa." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_100_11", "hash": "CE57601706D7954D", "target": "Sigue así, ¿me oyes?" },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_12", "hash": "3FF4A244A5C93230", "target": "¿Mmm? ¿Una carta... de Luquelot?" },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_13", "hash": "CFD5A243E12F0F35", "target": "No tengo la menor idea de qué puede tratar esto..." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_14", "hash": "6F2839B35E6C07E8", "target": "Que los dioses nos amparen..." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_15", "hash": "6934CDF86FEBAC58", "target": "Tengo una misión para ti, <split(<string(gstr1)>, ,1)>. Baste decir que es urgente." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_100_15", "hash": "4D8A113C871A45D3", "target": "Me temo, no obstante, que también puede resultar peligrosa, así que <italic(1)>debes<italic(0)> estar <if(gnum4,preparada,preparado)>." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_MIOUNNE_000_16", "hash": "301FD0F8CE9E1534", "target": "Haz los preparativos que necesites y vuelve a informarme en cuanto estés <if(gnum4,lista,listo)>." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_00", "hash": "703465DD5D2FB5D6", "target": "Luquelot parece necesitar ayuda." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_01", "hash": "12A0B4C3E5C24213", "target": "En los Prados de Rama Torcida, Luquelot te cuenta que los dirigibles Ixali cruzan las fronteras de la Selva de los Doce al parecer a su antojo. Temeroso de que algo ande mal con los elementales, ha plasmado en un pergamino los detalles de sus avistamientos y te pide que entregues el documento a Miounne." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_SEQ_02", "hash": "C2A8A9E151125FD9", "target": "El rostro de Miounne palidece como el de un muerto mientras lee la carta de Luquelot. Parece que se avecinan problemas y que se requiere tu ayuda una vez más. Prepárate para una misión de suma importancia y luego pide nuevas órdenes a Miounne." },
+    { "gameKey": "quest/004/ManFst006_00446#TEXT_MANFST006_00446_TODO_00", "hash": "2AA78C5FF13F1643", "target": "Entregar la carta de Luquelot a Miounne" }
+  ]
+}

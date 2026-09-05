@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/002/SubFst046_00210",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_00", "hash": "08811F7EA2E630A2", "target": "Tsubh Khamazom, una soldado del Bannock, quiere que localices a unos reclutas que no se presentaron al adiestramiento." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_01", "hash": "030D6BEF15937B96", "target": "Encuentra a los tres reclutas de la Doble Víbora que faltan al adiestramiento y diles que se presenten ante Tsubh Khamazom. Es poco probable que se hayan alejado mucho del Bannock." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_02", "hash": "4CDDDA65E4057AB3", "target": "Has hablado con los tres reclutas. Informa a Tsubh Khamazom en el Bannock." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_SEQ_03", "hash": "7ED659D00C86B319", "target": "Tsubh Khamazom revela que los reclutas suelen perder la concentración poco después de ser asignados a una unidad. Aunque imponer un código de disciplina más estricto parecería la solución obvia, es reacia a hacer nada que pueda dañar la moral de sus tropas." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TODO_00", "hash": "FE1C98EAB7B60168", "target": "Hablar con los reclutas ociosos" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TODO_01", "hash": "B672080B2E18A034", "target": "Informar a Tsubh Khamazom en el Bannock" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_1", "hash": "D2E341F988B18293", "target": "Ah, justo a tiempo. Andaba buscando <if(gnum4,a una moza,a un mozo)> de fiar para dar con unos reclutas de la Doble Víbora." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_2", "hash": "9AE98E02EF1333C1", "target": "Tres de nuestros reclutas más nuevos no se han presentado al adiestramiento... agotados tras un mes de ejercicios sin tregua, me imagino." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_3", "hash": "39C212DC5BB8A99E", "target": "Dado su estado físico actual, dudo mucho que hayan ido muy lejos. ¿Eh? Ay, por los dioses, no me mente bestias salvajes. Ni sangre. Están bien, estoy segura. Busque a mis descarrriados soldados y dígales que se presenten ante mí de inmediato." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTA_000_10", "hash": "78E14F358DC2EE03", "target": "¿No ve que intento fundirme con la naturaleza? Déjeme en paz, <if(gnum4,buena señora,buen señor)>." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTA_000_11", "hash": "28E3BAFDE2B975FA", "target": "¿¡Qué!? ¿¡Que le manda la sargento Khamazom!? ¡Por las tetas de la Matrona! Más me vale volver antes de que funda su bota con mi trasero..." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTB_000_15", "hash": "CF354AE8A3E54BC9", "target": "Qué sonido tan relajante. Algún día me construiré una casa junto al río..." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTB_000_16", "hash": "2F0B85A5270B8499", "target": "¿Eh? ¿Quién...? ¿¡Dice que la sargento me busca!? ¿Cuánto llevo aquí? ¿Qué campanada es ya? ¡Apártese, tengo que darme prisa!" },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTC_000_20", "hash": "FD3EA7CCA9E16F90", "target": "\\<ronquido> Solo... unos minutos más, madre..." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_BOOTC_000_21", "hash": "6C7084253FDE4F4A", "target": "\\<resoplido> ...¿Eh? ¿La sargento Khamazom? Ay... cagarrutas de eft. Debo de llegar tarde al adiestramiento." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_30", "hash": "FC4DD5DC153E83DB", "target": "Grrracias, <split(<string(gstr1)>, ,1)>. Ya están todos los reclutas presentes y localizados." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_31", "hash": "BEE48FBB86170A91", "target": "Siempre pasa lo mismo, ¿sabe? Un puñado de reclutas pierde la concentración sin falta al poco de ser asignados a su nueva unidad. Se disipa aquella primera tensión y emoción, y empieza a notarse el desgaste de los ejercicios constantes." },
+    { "gameKey": "quest/002/SubFst046_00210#TEXT_SUBFST046_00210_TSUBHKHAMAZOM_000_32", "hash": "7DDEA10C6E3CE1CC", "target": "Aunque reprenderlos no siempre es la mejor solución... tengo que pensar en su moral, al fin y al cabo. Aun así, quizá les eche una buena reprimenda por si acaso. ¿Qué quiere que le diga? ¡Esta es una batalla que <italic(1)>no<italic(0)> me da miedo librar!" }
+  ]
+}

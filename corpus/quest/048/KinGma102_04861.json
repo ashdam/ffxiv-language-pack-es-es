@@ -1,0 +1,518 @@
+{
+  "conversation": "quest/048/KinGma102_04861",
+  "questName": "The Nation of Tuliyollal",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_00", "hash": "DE57D408273CA74F", "target": "Pisar tierra firme ha mejorado el ánimo de Wuk Lamat, pero su estómago parece ir un paso por detrás..." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_01", "hash": "814C98AF800EDA8D", "target": "Mientras Erenville se dispone a guiaros por la ciudad, unos cuantos turalíes curiosos se acercan a la maltrecha Wuk Lamat. Al parecer, el carácter afable de la Tercera Promesa, unido a un nutrido séquito de forasteros peculiares, hará que os detengan en cada esquina. Así pues, decidís dividiros en dos grupos más pequeños ─y, con suerte, más discretos─. Erenville se marcha con los gemelos, mientras que Krile y tú acompañáis a Wuk Lamat." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_02", "hash": "50F4E37D810AB089", "target": "Sobreponiéndose a las náuseas que aún la acosan, Wuk Lamat da comienzo con valentía a vuestro recorrido por Tuliyollal presentándote el puerto. Siguiente parada: Bahía Comerciante.<br><br>※Necesitas la compañía de Wuk Lamat y Krile para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_03", "hash": "11ACBBDD5D0B172E", "target": "Wuk Lamat te presenta el mayor mercado de Tuliyollal y te asegura que, aunque la moneda local es el «pel», casi todos los tenderos aceptan de buen grado el gil como pago. Luego te encamina escaleras arriba, hacia el norte, en dirección a cierta plaza...<br><br>※Necesitas la compañía de Wuk Lamat y Krile para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_04", "hash": "4CCCBCAA3F67A18C", "target": "En la plaza, Wuk Lamat te explica cómo Koana trajo de Sharlayan los conocimientos para construir eteritas. Al ver de inmediato el valor de esa tecnología, el Servidor del Alba ordenó erigir un cristal sin demora. Tras recordarte que completes tu sintonización, te insta a seguir hacia la Atalaya de Claripluma y la puerta de la ciudad que hay más allá.<br><br>※Necesitas la compañía de Wuk Lamat y Krile para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_05", "hash": "E1EA35C720E9E7C9", "target": "Hacéis un alto en la Atalaya de Claripluma, el cuartel general de la Legión del Alba. Encargados de mantener la paz y de la defensa de la nación, estos soldados están bajo el mando directo de Zoraal Ja, la Primera Promesa, un consumado guerrero. Dejando atrás el puesto de guardia, Wuk Lamat os conduce hasta la Puerta de Xak Tural.<br><br>※Necesitas la compañía de Wuk Lamat y Krile para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_06", "hash": "1A5878B0A404585C", "target": "Descubres que la imponente puerta del cielo da paso a un puente no menos colosal ─una construcción Yok Huy que permite cruzar a Xak Tural, la masa continental septentrional de Tural─. Sin embargo, quienes deseen hacer el viaje necesitan un permiso de tránsito que no se expedirá hasta que se decida el rito de sucesión.<br><br>※Necesitas la compañía de Wuk Lamat y Krile para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SEQ_07", "hash": "FF218D41068D488B", "target": "Krile calcula que el recorrido os ha llevado por casi media ciudad. Descansas los pies un momento, mientras Wuk Lamat parece contenta de esperar hasta que quieras seguir explorando Tuliyollal." },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_00", "hash": "FA6AC22593CFDA2E", "target": "Hablar con Wuk Lamat para que ella y Krile te acompañen" },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_01", "hash": "7CE753545D51ABEB", "target": "Ir a Bahía Comerciante con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_02", "hash": "E16DAF5A9F2FF222", "target": "Ir a la plaza de la eterita con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_03", "hash": "B123128B9A4FA1F0", "target": "Ir a la Atalaya de Claripluma con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_04", "hash": "6DBD653817F16E6B", "target": "Ir a la Puerta de Xak Tural con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_TODO_05", "hash": "9A87A96A3CC2333E", "target": "Hablar con Krile" },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_300_001",
+      "hash": "DDE1E5FD7A9872AA",
+      "target": "¿Qué clase de problemas esperarán esos soldados?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ALPHINAUD_200_001",
+      "hash": "561FFADAB37DB9E3",
+      "target": "Según Erenville, el Vanu que creí ver pertenece a un clan llamado Hanuhanu. Parece que comparten algo más que el parecido físico."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ALISAIE_100_001",
+      "hash": "1DDE0D18336813EB",
+      "target": "Qué ciudad tan increíble... Tan animada como Ul'dah, y aún más variada..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_001",
+      "hash": "5FF09AEFFD171EC1",
+      "target": "Te preguntaría si el viaje te ha cansado, pero... seguro que has aguantado cosas mucho peores."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_010",
+      "hash": "C3EC9D807EF6AAB6",
+      "target": "¡Muy bien! Lo primero de todo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_011",
+      "hash": "F7CA1DE631494C34",
+      "target": "Yo... uf. Sigo mareada... Nada de barcos por un tiempo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_012",
+      "hash": "4ABD3EAA70CAF2A5",
+      "target": "Sé que acabamos de llegar, pero deberíais familiarizaros con la ciudad antes de que empiece el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ALPHINAUD_000_013",
+      "hash": "65FCAB925A7BAD5A",
+      "target": "Por mí, encantado. Tengo muchas ganas de explorarla."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_014",
+      "hash": "EE878C0E155F5BA5",
+      "target": "Entonces os... hago yo de guía..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ALISAIE_000_015",
+      "hash": "FB6557A645239412",
+      "target": "¿Seguro que estás en condiciones de hacerlo...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALMALE04861_000_016",
+      "hash": "08F682373D809EB5",
+      "target": "¡Vaya! Nos preguntábamos quiénes serían estos forasteros. ¡Así que la Tercera Promesa se ha buscado nuevos seguidores!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_017",
+      "hash": "231175CD8E0A1CBC",
+      "target": "¿“Seguidores”...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALMALE04861_000_018",
+      "hash": "09A4482B08095CDE",
+      "target": "¿Wuk Lamat? ¿Se encuentra mal?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_019",
+      "hash": "46B11F7122B211F8",
+      "target": "¡Q-qué va, en absoluto! ¡De maravilla! ¡La Tercera Promesa <italic(1)>no<italic(0)> se marea, faltaría más!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_020",
+      "hash": "C6757D8130D6F5F6",
+      "target": "Y este séquito que he escogido a dedo son los que me van a ayudar a ganar el rito de sucesión. Justo iba a enseñarles la ciudad."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALFEMALE04861_000_021",
+      "hash": "09139DAD7D69A7F0",
+      "target": "Qué maravilla."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALFEMALE04861_000_022",
+      "hash": "9B1B0CEF0589E2DF",
+      "target": "Pero un grupo de forasteros va a llamar la atención, y más si van con la Tercera Promesa. Todo el mundo sentirá curiosidad. ¡Nosotros la primera!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALMALE04861_000_023",
+      "hash": "A63B8B8457F21002",
+      "target": "Sus hermanos tienden a, ejem, imponer una distancia respetuosa. ¡Pero usted es tan fácil de abordar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_024",
+      "hash": "35486836017B3435",
+      "target": "Y a mí me encanta que lo hagáis. En serio, no penséis nunca que me molestáis."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_XBALAALMALE04861_000_025",
+      "hash": "4450079B1EDE2EA6",
+      "target": "Es usted muy amable. Que tenga un buen día, Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_026",
+      "hash": "81E6C7E1E5C41D0F",
+      "target": "Razón no les faltaba."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_027",
+      "hash": "75FC83BA7F6632CE",
+      "target": "Wuk Lamat es, técnicamente, de sangre real. Nos guste o no, alguien de su rango rodeada de tantos forasteros va a atraer una multitud."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_028",
+      "hash": "B3A3545B0F0EC132",
+      "target": "Oye, ¿cómo que “técnicamente”?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_029",
+      "hash": "8F34984308662641",
+      "target": "Propongo que nos dividamos en dos grupos para llamar menos la atención."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_030",
+      "hash": "96946CA7ADC34E3E",
+      "target": "Y encima me ignora “técnicamente”..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_031",
+      "hash": "4DBD4C9DD68A72F3",
+      "target": "<split(<string(gstr1)>, ,1)>, tú y Krile os venís conmigo."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_032",
+      "hash": "0FAF74FC7F567963",
+      "target": "Yo me llevo a los gemelos, entonces."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ALPHINAUD_000_033",
+      "hash": "BA39772350727DBE",
+      "target": "Os avisaremos cuando hayamos echado un buen vistazo."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_034",
+      "hash": "EC3AF0F1CF4F4AE4",
+      "target": "La travesía nos ha pasado factura a todos, así que id con calma y reponeos. Tiempo hay de sobra."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_ERENVILLE_000_035",
+      "hash": "DAB7D26E3E4B8968",
+      "target": "Disfrutad del paseo."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_036",
+      "hash": "A137C6AF02AE9D1D",
+      "target": "Quizá deberíamos esperar un poco. Al menos hasta que a Wuk Lamat se le pasen las náuseas."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_037",
+      "hash": "477AD49EDCE2B3AB",
+      "target": "¡No hace falta! ¡Mira, estoy lista!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_038",
+      "hash": "7E1894DB5F774A02",
+      "target": "...Uf."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_040",
+      "hash": "69CE166F736BF94A",
+      "target": "Tuliyollal no se va a mover de aquí. Démosle a Wuk Lamat un poco más de tiempo."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_050",
+      "hash": "636257A8B41DEA50",
+      "target": "Ya estoy bien, de verdad. No puedo pasarme el día compadeciéndome, con el rito de sucesión a la vuelta de la esquina."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_051",
+      "hash": "EEEC72C7CC00B347",
+      "target": "Bueno, pues ya que estamos aquí, os hablaré del puerto."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_052",
+      "hash": "93B5DB9F34BA9AE6",
+      "target": "Erenville ya os habló de los arrecifes de nuestra costa, y por eso no veréis barcos grandes atracados en los muelles."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_053",
+      "hash": "D4EA96F1DE02795B",
+      "target": "En la bahía solo maniobran barcos de poco calado: sobre todo pesqueros pequeños y gabarras que suben y bajan carga por los ríos desde el interior."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_054",
+      "hash": "786BF24A104F3BAA",
+      "target": "Buena parte del tráfico viene de Yok Tural, la masa de tierra del sur. Sus clanes producen todo tipo de género para exportar."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_055",
+      "hash": "5E3D238786760D45",
+      "target": "Sus mercancías se descargan aquí y van a los puestos de los mercados vecinos. Y hablando de eso, la Bahía Comerciante será nuestra próxima parada."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_Q1_000_000",
+      "hash": "5A2853FA2E3CE233",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A1_000_001",
+      "hash": "62FA4D892BBFA16F",
+      "target": "Hablar."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A1_000_002",
+      "hash": "68EBA7F200BD003C",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A1_000_003",
+      "hash": "E7CE3577A93EE67C",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_061",
+      "hash": "008E3B3579C992CB",
+      "target": "Tuliyollal es como mi propio jardín: podría guiaros con los ojos cerrados. ¡Si esta visita fuera un barco, sería todo viento en popa!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_062",
+      "hash": "CC821C1B5CE9EB38",
+      "target": "Uf... Solo con oír la palabra “barco” se me revuelve el estómago..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_063",
+      "hash": "95C4D6C07A8CC008",
+      "target": "¡Pasear por esta ciudad es emocionantísimo! ¡Maravillas desconocidas allá donde miremos!"
+    },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SYSTEM_000_064", "hash": "52BD15977FFB61B8", "target": "¿Seguro que quieres separarte de tus compañeras?" },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_065",
+      "hash": "461ABEECF8F4BF45",
+      "target": "¿Te has saltado una comida o qué? Te esperamos en el puerto, ¡así que vuelve pronto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_066",
+      "hash": "05A84EF4FFD99770",
+      "target": "¿Tienes algo urgente que atender? <if(gnum4,Tranquila,Tranquilo)>, podemos vernos en el puerto."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_067",
+      "hash": "13BA31CDD5E42D36",
+      "target": "Ah, ya estás aquí. ¡Sigamos con lo nuestro!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_068",
+      "hash": "3B9874DFD0EF6D0B",
+      "target": "¿Todo en orden? ¡Pues seguimos con la visita!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_069",
+      "hash": "2CEA80F6A84B1A89",
+      "target": "Esta es la Bahía Comerciante, el mercado más grande de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_070",
+      "hash": "CCAECEC5BD951479",
+      "target": "Como da al puerto, todo llega directo a los estantes, del pescado fresco al género importado. Lo que quieras, seguro que lo tienen."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_071",
+      "hash": "9279F85BF40A2BB3",
+      "target": "Ah, y debería deciros que en Tuliyollal se compra con “pel”, una moneda que crearon los Pelupelu."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_072",
+      "hash": "BF2429D931498247",
+      "target": "¡Pero tranquilos! Cada vez hay más comercio con Eorzea, así que casi todas las tiendas aceptan encantadas vuestros gil."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_073",
+      "hash": "6BDF87047C3F6F73",
+      "target": "También está Wachumeqimeqi, otro mercado al este de aquí, pero eso puede esperar. Antes quiero enseñaros otros sitios."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_074",
+      "hash": "E4CE8C61EEA30D24",
+      "target": "Ahora volvemos un poco atrás y subimos las escaleras hacia el norte, hasta cierta plaza. ¡Je, no veo la hora de veros la cara!"
+    },
+    { "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_SYSTEM_000_075", "hash": "9BEDA070E8FF7BDE", "target": "Tus compañeras aún no han llegado. Asegúrate de que estén a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_076",
+      "hash": "84EB653902BCE5B4",
+      "target": "¡Mientras recuerdes que la inventaron los “<italic(1)>Pel<italic(0)>upelu”, no olvidarás cómo se llama nuestra moneda!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_077",
+      "hash": "2CD0C8B90F015B1B",
+      "target": "¡Menos mal que podemos usar nuestros gil para comprar aquí!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_080",
+      "hash": "84015EC06903B94D",
+      "target": "¿Qué te parece, eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_081",
+      "hash": "6D66D2291756E44C",
+      "target": "Madre mía, ¿hay eteritas en Tuliyollal?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_082",
+      "hash": "08DAF33BEE64A98B",
+      "target": "Creo que ya os lo conté, pero mi hermano Koana pasó tres años estudiando en Sharlayan."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_083",
+      "hash": "32D2A304486BD824",
+      "target": "Se enamoró de aquel país y sus costumbres, y nos trajo el saber para construir eteritas. Papá se entusiasmó al momento: mandó levantar una <italic(1)>de inmediato<italic(0)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_084",
+      "hash": "4FAAA256B6AB0070",
+      "target": "¿Has hecho eso de la “sintonización”? Si estás <if(gnum4,lista,listo)>, bajamos otra vez y subimos la cuesta de al lado. Justo arriba está la puerta que lleva a Xak Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_085",
+      "hash": "B31A16C5FCE369D4",
+      "target": "Pero antes paramos en la Atalaya de Claripluma: es el cuartel general de la Legión del Alba."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_086",
+      "hash": "E754351B2E189282",
+      "target": "¡Asegúrate de sintonizar con la eterita! No entiendo bien cómo funciona, pero sé que te arrepentirás si lo olvidas."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_087",
+      "hash": "ABECB97B125E96E8",
+      "target": "Menos mal que hay eteritas. No me pasa como a Wuk Lamat con los barcos, pero tampoco me hace ilusión repetir esa travesía..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A2_000_001",
+      "hash": "7B4ACB6657070779",
+      "target": "<colortype(548)>Hablar de los desniveles de Tuliyollal.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_091",
+      "hash": "9B1BFE4D5CD76D89",
+      "target": "Tenemos un montón de calles estrechas y retorcidas que trepan por la ladera del monte. Pero, como ves, los constructores hicieron las avenidas principales lo bastante anchas para los carros."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_092",
+      "hash": "1910088E3A7B9685",
+      "target": "Subir y bajar tantas cuestas y escaleras es agotador. Ahora entiendo de dónde saca Wuk Lamat ese aguante infinito."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_093",
+      "hash": "05C3C66F0FF8EBBA",
+      "target": "Ya hemos llegado: la Atalaya de Claripluma. Los soldados destinados aquí se encargan de defender Tuliyollal y mantener la paz."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_094",
+      "hash": "D697349D4F2AA457",
+      "target": "A la Legión del Alba la dirige el guerrero más fuerte de la nación, así que papá lo ha mandado desde el principio, como es natural."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_095",
+      "hash": "38EEC812C44A9559",
+      "target": "...Hasta hace tres años, cuando Zoraal Ja tomó el mando. El título no es un honor vacío: significa que la Primera Promesa iguala al Servidor del Alba en fuerza marcial."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_096",
+      "hash": "359F85FA11EECF89",
+      "target": "Mientras que yo ni siquiera he conseguido..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_097",
+      "hash": "600848A76BBF209C",
+      "target": "Bueno, ya hablaré de mis hermanos y sus logros más adelante. Mejor que Alphinaud y Alisaie también estén delante."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_098",
+      "hash": "00C5D75E84E82D95",
+      "target": "Venga, es hora de que te enseñe la puerta de Xak Tural. ¡Está justo al norte de la Arteria de las Garras!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_099",
+      "hash": "F6C26078DF61C63A",
+      "target": "Si voy a suceder a papá, primero tengo que superar a mis hermanos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_100_099",
+      "hash": "2BA38FAD1AD8BF35",
+      "target": "Zoraal Ja... Ese nombre es claramente Mamool Ja. Qué familia tan interesante."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_100",
+      "hash": "657704BC60F5E526",
+      "target": "Es enorme, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_101",
+      "hash": "07EF77CD9DCDC7D7",
+      "target": "Y al otro lado hay un puente igual de enorme. Los construyó una raza de gigantes: los Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_102",
+      "hash": "733BC63D57AD9105",
+      "target": "En rigor, Tural son dos continentes: Yok Tural, las tierras del sur, de la Madre; y Xak Tural, las del norte, del Padre, al otro lado del puente."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_103",
+      "hash": "8F4A053399C20A10",
+      "target": "Cuentan las leyendas que antes era una sola masa de tierra. Pero hace muchísimo los dos dioses libraron una batalla titánica, y cuando uno derribó al otro, el impacto fue tan devastador que partió el continente en dos."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_104",
+      "hash": "C0C6ED7CD4D42E6A",
+      "target": "Un relato que me suena... Me recuerda al conflicto entre Hydaelyn y Zodiark."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_105",
+      "hash": "AF00C5D7C9FF34B1",
+      "target": "Pero volviendo a Xak Tural. Esas tierras también forman parte de la nación de Tuliyollal, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_106",
+      "hash": "2BB7DBB075AA5A8E",
+      "target": "Así es. ¿A que mi padre es increíble? Unió a los pueblos de dos continentes en una sola nación."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_107",
+      "hash": "71459F48A285B436",
+      "target": "Los muchos clanes de Tural llevaban generaciones en guerra. Solo cuando papá recorrió estas tierras y puso fin a sus incontables conflictos llegó por fin la paz."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_108",
+      "hash": "6C3EBCF345EB8845",
+      "target": "Y por eso quiero ganar el trono, sobre todo: para preservar la paz que él construyó."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_109",
+      "hash": "8ADC3B932A453917",
+      "target": "...Pero ya veo que te interesa más lo que hay detrás de la puerta que oír mis aspiraciones."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_110",
+      "hash": "6FDC24E65E7238C2",
+      "target": "Cruzar el puente a Xak Tural exige un permiso de viaje especial. Por desgracia, no darán ninguno nuevo hasta que acabe el rito de sucesión. Te prometo conseguirte uno cuando sea Servidora del Alba, pero hasta entonces... ¡tendrás que esperar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_Q3_000_000",
+      "hash": "3DFAE9DB206E4117",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A3_000_001",
+      "hash": "008D30DC450AE9A5",
+      "target": "Te tomo la palabra."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A3_000_002",
+      "hash": "8008CCDDCB455698",
+      "target": "Entonces me aseguraré de que ganes. ¡Palabra!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_A3_000_003",
+      "hash": "76E6CDC0CCEEB207",
+      "target": "Ojalá pudiéramos ir ahora mismo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_112",
+      "hash": "B24761F38EC401E0",
+      "target": "¡Yo nunca he faltado a mi palabra! ¡En cuanto el trono sea mío, ese permiso será tuyo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_113",
+      "hash": "40D176CC4D117827",
+      "target": "Lo dices en serio... ¡Je, pobre de quien se interponga entre ti y una aventura!"
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_114",
+      "hash": "D77A1785998F7A88",
+      "target": "Ten paciencia. Te juro que en cuanto el trono sea mío, ese permiso será tuyo."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_WUKLAMAT_000_120",
+      "hash": "7D5C6F24770E5B0A",
+      "target": "¿Cansados de tanto andar? Descansad un momento y seguimos con la visita."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_130",
+      "hash": "ED2AC1B3BCA6FD31",
+      "target": "A estas alturas ya habremos recorrido media ciudad..."
+    },
+    {
+      "gameKey": "quest/048/KinGma102_04861#TEXT_KINGMA102_04861_KRILE_000_131",
+      "hash": "632B5658DD406A31",
+      "target": "Tuliyollal no se parece a ningún otro sitio que haya visitado. ¡Lo estoy disfrutando muchísimo!"
+    }
+  ]
+}

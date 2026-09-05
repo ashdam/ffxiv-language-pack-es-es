@@ -1,0 +1,57 @@
+{
+  "conversation": "quest/007/GaiUsa004_00710",
+  "questName": "First Impressions",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_000", "hash": "BDF7555243F2D419", "target": "Ah, ¿aún por aquí? ¡Estupendo! Hay una cosa más que debería saber sobre los silfos. No les hace ninguna gracia que los invitados se presenten con las manos vacías. Para ganarse su confianza, haría bien en llevar consigo un... un... Eh..." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_001", "hash": "6199A673A07F8F33", "target": "¡Rayos! ¿Qué era? Y eso que mi esposa Rosa y yo hablábamos del asunto hace apenas unos días..." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_002", "hash": "E439616D763D8DD4", "target": "Perdóneme, amigo. Hable con Rosa en el Panal... su memoria será más de fiar que la mía." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_010", "hash": "4E2F838DC397357F", "target": "¿Una ofrenda de paz para los silfos? Si fuera cualquier otro, le recomendaría un tarro de miel, pero me temo que eso no le haría pasar ni del umbral, <if(gnum4,querida,querido)>. No, sus gustos tiran más bien a lo <italic(1)>in<italic(0)>usual." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_011", "hash": "D4F5C01E84110565", "target": "¿Conoce acaso la raíz lechosa? Así llamamos a la raíz de ese monstruo vegetal de lo más feroz, el ochu. Al masticarla, exuda un líquido lechoso que, según dicen, provoca curiosas visiones en quien lo bebe. A mí no me pillarían probándolo ni muerta, pero los silfos parecen disfrutarlo sin fin." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_012", "hash": "8DEC593052A3DDC1", "target": "Hace bastante que no veo un ochu por el Panal, pero el otro día me topé con una sospechosa mata de hierba. Si la estimulara de algún modo —con un poco de este sirope de ámbar, por ejemplo—, quizá le sorprenda lo que sale. Buena suerte." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_030", "hash": "8C2BA6D3E1CF82CC", "target": "Ah, ya está de vuelta. ¿Pudo mi esposa orientarle hacia una ofrenda adecuada?" },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_031", "hash": "17B784CA9C428278", "target": "¡Raíz lechosa! ¡Pues claro! Esos silfos se echan al coleto ese líquido lechoso tan rápido como yo un jarro de hidromiel. Y el efecto viene a ser el mismo." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_032", "hash": "42FCD60E54D8834A", "target": "En fin, un regalo de raíz lechosa hará que los silfos le llamen amigo y <if(gnum4,hermana,hermano)> en cuanto le echen el ojo. Ahora deje que se lo envuelva... empiezo a sentirme algo mareado..." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_POP_MESSAGE_000", "hash": "D1BDEABB9251EEE0", "target": "¡Entre ramas que se agitan, la vegetación cobra vida!" },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_00",
+      "hash": "34FCFBC93799DDA4",
+      "target": "Rolfe Hawthorne quiere compartir más conocimientos para ayudarte a ganarte la amistad de los silfos."
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_01",
+      "hash": "6A8BA3EA0FDC9A50",
+      "target": "Rolfe te dice que no sería prudente presentarse ante los silfos sin un regalo apropiado, pero le cuesta recordar exactamente cuál debería ser ese regalo. Sin embargo, es posible que su esposa, Rosa, lo sepa. Habla con ella en el Panal para ver qué te cuenta."
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_02",
+      "hash": "03428D492454E0C8",
+      "target": "Aunque no acaba de entender por qué, Rosa te informa de que, según dicen, a los silfos les encanta la raíz lechosa, que se obtiene de los ochus. Para encontrar uno de esos ochus, toma el sirope de ámbar que te ha dado Rosa y viértelo sobre la curiosa mata de hierba del Panal. Una vez al descubierto, mata al ochu y reza por encontrar algo de raíz lechosa entre sus restos."
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_03",
+      "hash": "B1FBF429D2A332BD",
+      "target": "Tus plegarias han sido atendidas y ya tienes la raíz lechosa en tu poder. Lleva tu premio a Rolfe, en la Cabaña de los Hawthorne, para asegurarte de que es en verdad una ofrenda adecuada para los silfos."
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_04",
+      "hash": "149834D22ACC213D",
+      "target": "Rolfe reconoce la raíz lechosa en cuanto se la muestras y está seguro de que los silfos agradecerán la ofrenda. Pero ten cuidado de no inhalar demasiados vapores antes de dársela a los silfos."
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_00",
+      "hash": "573DACC5E6062946",
+      "target": "Hablar con Rosa Hawthorne"
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_01",
+      "hash": "5232F49E49AE07CE",
+      "target": "Usar el sirope de ámbar sobre la curiosa mata de hierba y matar al ochu"
+    },
+    {
+      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_02",
+      "hash": "AFA4DBD754BD88D7",
+      "target": "Entregar la raíz lechosa a Rolfe Hawthorne"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/047/AktKmm101_04751",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_00", "hash": "40F05B49DD48D068", "target": "Varshahn tiene un mensaje de Sharlayan." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_01", "hash": "D0B6C4AEE895F7D4", "target": "Mientras disfrutas de tu estancia en Radz-at-Han, Varshahn te comunica que los Discípulos de Baldesion requieren tu presencia en Sharlayan. Así pues, partes hacia el Anexo Baldesion, donde te aguarda Ojika Tsunjika." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_02", "hash": "E5404F2B7E087B93", "target": "Te reúnes con Krile y G'raha Tia, quienes te informan de que te habían llamado en nombre de Erenville. El espigador ha regresado de su expedición al extranjero antes de lo previsto, y el cambio en sus planes guarda relación, muy probablemente, con cierta persona que desea presentarte. Mientras aguardaba tu llegada, Erenville se ha dirigido al Studium, y decides buscarlo allí." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_SEQ_03", "hash": "690B8E9926A598BB", "target": "Tras una breve búsqueda, logras dar con Erenville y su acompañante, que se presenta como Wuk Lamat, aspirante al trono de Tuliyollal, en el lejano continente occidental de Tural. La afable mujer no pierde el tiempo en revelar su propósito: quiere que la acompañes a su tierra natal y la ayudes a vencer en el inminente rito de sucesión, una contienda para determinar quién será el próximo soberano. Como es una petición un tanto brusca para alguien a quien acaba de conocer, propone salir de caza juntos para conocerse mejor." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_TODO_00", "hash": "0AD463C6EA8F11D6", "target": "Hablar con Ojika Tsunjika en el Anexo Baldesion" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_TODO_01", "hash": "4834401656641C76", "target": "Hablar con Krile" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_001", "hash": "BD7DF9AF6D8F7070", "target": "Ah, <split(<string(gstr1)>, ,1)>. Justo ha estado aquí uno de mis oficiales con un mensaje para ti." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_002", "hash": "0B883AC7472F2A53", "target": "Los Discípulos de Baldesion solicitan tu presencia en Sharlayan en cuanto te sea posible." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_003", "hash": "62D646E9479ED216", "target": "Estoy en deuda con nuestros amigos y esperaba poder ser yo también de ayuda, pero es a ti a quien requieren, y solo a ti." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_004", "hash": "4B58A0B1CD9EE9BA", "target": "Si no tienes ningún asunto urgente, dirígete al Anexo Baldesion sin demora, te lo ruego. Ojika aguarda tu llegada." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_005", "hash": "5C6007CF41E6C489", "target": "Entretanto, yo seguiré enseñándole la ciudad a Azdaja. Desde los lugares emblemáticos hasta la vida de sus gentes, aún le queda muchísimo por ver." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_006", "hash": "9E42EE8A420B9DAA", "target": "Hasta pronto, <if(gnum4,amiga mía,amigo mío)>. Aguardo con ilusión el día en que partamos juntos a una nueva aventura." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_OJIKATSUNJIKA_000_100", "hash": "ADDCD5F658D2F7AC", "target": "¡Un cálido y sincero recibimiento, <split(<string(gstr1)>, ,1)>! Deduzco que recibiste nuestro mensaje, ¿verdad?" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_OJIKATSUNJIKA_000_101", "hash": "836EBEC09D3AD469", "target": "Espera aquí mientras voy a buscar a Krile y a G'raha." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_102", "hash": "A9CD99349DC28078", "target": "Gracias por venir con tan poca antelación." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_100_102", "hash": "E9A97A6B316BF12F", "target": "Y perdónanos por llamarte tan pronto después de tus penurias en el Vacío." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_110_102", "hash": "AF178B8243C6F31E", "target": "Y perdónanos por llamarte tan pronto después de tus penurias en el Vacío, por no hablar de tu ardua batalla contra los Doce." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_103", "hash": "CA2C73F99283F157", "target": "Bien, en realidad no somos nosotros quienes requerimos tu presencia, sino Erenville." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_104", "hash": "16C058306B2EAD5A", "target": "Verás, pasó por aquí hace poco y nos pidió que contactáramos contigo en su nombre." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_105", "hash": "69A738221D138773", "target": "Imagino que esto te sorprende tanto como a nosotros, dado que se suponía que estaba fuera en una larga expedición." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_GRAHATIA_000_106", "hash": "415DE49C32EF8618", "target": "Algo debió de obligarle a cambiar de planes." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_108", "hash": "BBDE725754BD561A", "target": "Lo único que quiso decirme es que hay alguien a quien quiere que conozcas, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_109", "hash": "1B11C14F3E63BE6F", "target": "También mencionó que estaría ocupándose de unos asuntos en el Studium. ¿Vamos a buscarlo allí?" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_GRAHATIA_000_115", "hash": "C9543C1F4464F159", "target": "El pronto regreso de Erenville seguramente tenga que ver con esa visita. ¿Quién será, me pregunto...?" },
+    { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_KRILE_000_200", "hash": "035208E3DE74DACD", "target": "Veamos, ¿dónde está Erenville?" }
+  ]
+}

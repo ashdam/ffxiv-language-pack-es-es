@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/006/SubWil125_00635",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_00", "hash": "AD4852111A023718", "target": "Lululo, del Bazar Dorado, busca de nuevo a un aventurero que mate a las bestias que la importunan." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_01", "hash": "518DCFC66CA4830B", "target": "Un ataque de un grupo de earth sprites ha retrasado el envío de las herramientas de minería de Lululo. Abate tres earth sprites de la zona para despejar el camino y garantizar un paso seguro." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_02", "hash": "ED4AE5240F2A9421", "target": "Has abatido los earth sprites. Viaja al Campamento Huesos Secos y dile al mercader Reremaki que el camino es seguro para la entrega de las herramientas de minería." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_SEQ_03", "hash": "B5583B08B8545A15", "target": "Reremaki te asegura que llevará las herramientas al Bazar Dorado en cuanto él y su chocobo estén en condiciones." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_TODO_00", "hash": "8C1C000120F470BD", "target": "Abatir earth sprites" },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_TODO_01", "hash": "607366858EEB86F8", "target": "Hablar con Reremaki" },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_LULULO_000_1", "hash": "2787A28E551AE598", "target": "Parece que los Doce se empeñan en atormentarme todos los días de mi vida... antes con imps y ahora con earth sprites." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_LULULO_000_2", "hash": "1FE6F01696CF13C4", "target": "Le encargué un cargamento de herramientas de excavación a un mercader del norte. Bajaba del Sudario Negro cuando los earth sprites lo asaltaron. Por suerte, logró escapar con vida hasta el Campamento Huesos Secos." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_LULULO_000_3", "hash": "32C87495922D4486", "target": "Necesito que despeje ese camino, <if(gnum4,amiga,amigo)>. Abata a tres de estos earth sprites para mantener a raya a los demás y tranquilizar a cualquier mercader que viaje por allí." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_LULULO_000_4", "hash": "14573C7153ECB7DA", "target": "Cuando esté hecho, busque al mercader Reremaki en el Campamento Huesos Secos y dígale que traiga su cargamento el resto del camino hasta aquí." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_REREMAKI_000_10", "hash": "6FE637FC46E9DB97", "target": "¿Ha ahuyentado a los earth sprites? ¡Que los dioses le bendigan por ello, <if(gnum4,forastera,forastero)>! Lululo tendrá sus herramientas." },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_REREMAKI_000_11", "hash": "44A614BE5B28A7A8", "target": "Huí hasta aquí temiendo por mi vida, pero... he acabado por arrepentirme. ¿Ha echado un vistazo alrededor? Hay cuerpos por todo el suelo. ¡Cuerpos <italic(1)>muertos<italic(0)>!" },
+    { "gameKey": "quest/006/SubWil125_00635#TEXT_SUBWIL125_00635_REREMAKI_000_12", "hash": "FFFA3C46DD73A724", "target": "No tengo el menor deseo de quedarme aquí más de lo imprescindible. En cuanto me asegure de que mi chocobo está en condiciones de viajar, pondré rumbo al Bazar Dorado." }
+  ]
+}

@@ -1,0 +1,462 @@
+{
+  "conversation": "quest/049/KinGmd105_04916",
+  "questName": "Law of the Land",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_00", "hash": "125103DC837EFBFA", "target": "Erenville aguarda expectante la llegada de Wihuwte." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_01", "hash": "B4B1BC9C51E791AE", "target": "Sin que lo sepa la gente de los Manantiales de Sheshenewezi, allí se están llenando barriles de ceruleum con mercancía robada para enviarla y venderla en otra parte. Wihuwte, el subjefe de la Guardia del Polvo, es a la vez el líder de los bandidos y el cerebro de esta trama. Para llevarlo ante la justicia, Zekowa propone que dos de vosotros atraigáis a Wihuwte hasta Hhusatahwi mientras el tercero se queda a buscar esos barriles. Erenville se ofrece a quedarse a buscar, y así tú y Zekowa os encargáis de entretener a Wihuwte." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_02", "hash": "257BA11E6F2D7274", "target": "Te acercas a Wihuwte, pero parece absorto en sus pensamientos. Como da la impresión de estar totalmente decidido a ignorarte, quizá un suave /poke capte su atención." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_03", "hash": "4FCFFB17599BAB6A", "target": "Tras conseguir que Wihuwte repare en tu existencia, le cuentas que Zekowa intentó robarte, pero que lograste reducirlo y capturarlo. Aunque se muestra algo escéptico, no deja de estar deseoso de seguirte para atar ese cabo suelto.<br><br>※Necesitas la compañía de Wihuwte para completar esta tarea. Si os separáis, vuelve a hablar con él." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_04", "hash": "6461398D1BAD4A38", "target": "Conduces a Wihuwte un trecho por el desierto. Cuando os detenéis, Wihuwte te mira expectante, pero afirmas haber recordado mal dónde dejaste a Zekowa. Poco dado a desistir, el subjefe te pide que continúes.<br><br>※Necesitas la compañía de Wihuwte para completar esta tarea. Si os separáis, vuelve a hablar con él." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_05", "hash": "E7542C85480229B0", "target": "Te detienes en otro claro y de nuevo pones una excusa por la que Zekowa no aparece por ninguna parte. Wihuwte está visiblemente molesto, pero te pide que sigáis adelante.<br><br>※Necesitas la compañía de Wihuwte para completar esta tarea. Si os separáis, vuelve a hablar con él." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_06", "hash": "E51B2BDCE02B61F4", "target": "La paciencia de Wihuwte se agota para cuando te detienes una vez más a orientarte. Te advierte de que, si Zekowa no está en vuestro próximo destino, quizá se vea obligado a hacer algo de lo que ambos os arrepintáis.<br><br>※Necesitas la compañía de Wihuwte para completar esta tarea. Si os separáis, vuelve a hablar con él." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_07", "hash": "30EBE33D63376EE6", "target": "Wihuwte echa humo pero, antes de que pueda cumplir su anterior amenaza, lo distraen unos gritos cercanos. Sigue la voz un corto trecho hasta dar con un sonriente Zekowa, que lleva al subjefe en una alegre persecución que acaba de vuelta en Hhusatahwi. Se dispone a arrestar a Zekowa, pero en ese momento llega Erenville con un barril lleno de las pertenencias robadas a los vecinos y, acto seguido, revela la existencia de la operación de los bandidos ante una multitud cada vez mayor. Acusando al subjefe de estar detrás de esta empresa criminal, Zekowa reta a Wihuwte a un duelo, que este se ve obligado a aceptar. El altercado que sigue termina en un abrir y cerrar de ojos, y Wihuwte cae al suelo derrotado." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SEQ_08", "hash": "9E28785D8C2D9FC5", "target": "Wihuwte ha sido arrestado y los amigos de Zekowa quedan libres de la cárcel. Gracias a ti y a Erenville, parece que por fin todo ha vuelto a su cauce en los Manantiales de Sheshenewezi." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_00", "hash": "D2257A7EF7129556", "target": "Hablar con Wihuwte" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_01", "hash": "805614CCB4603914", "target": "Hacer /poke a Wihuwte para que te acompañe" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_02", "hash": "99EB89B448C1F66B", "target": "Otear el lugar indicado con Wihuwte acompañándote" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_03", "hash": "392E276FDC5AD4C3", "target": "Otear el lugar indicado con Wihuwte acompañándote" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_04", "hash": "DC7AF90C8973A4DB", "target": "Otear el lugar indicado con Wihuwte acompañándote" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_05", "hash": "1EECBD233DD72BAD", "target": "Ir al lugar indicado con Wihuwte acompañándote y luego hablar con él" },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_TODO_06", "hash": "1D00B7044A1E9A9B", "target": "Hablar con Erenville" },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_000",
+      "hash": "CAE7F66098026D61",
+      "target": "Vaya, vaya, mirad quién ha aparecido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_001",
+      "hash": "B231F69339D1A8BA",
+      "target": "Guardar aquí el botín parece arriesgado, pero supongo que es una opción para alguien con su autoridad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_002",
+      "hash": "493CDFF8F83F2D04",
+      "target": "Sí. Mueve lo robado en barriles de ceruleum, donde a nadie se le ocurriría mirar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_003",
+      "hash": "7388767BDA0C8A86",
+      "target": "Lo mezclan con los envíos regulares de combustible a Tuliyollal, y allí lo venden."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_004",
+      "hash": "BFD51F656D2B0612",
+      "target": "Habéis dicho que os robó un brazalete, ¿no? Si sabe que le pisáis los talones, lo más probable es que tenga prisa por sacarle lo que pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_100_004",
+      "hash": "C6437C707357A3D6",
+      "target": "Pero dudo que le confíe ese asunto a un lacayo, sabiendo de dónde sale la pieza. Qué va, me juego algo a que no pierde ese brazalete de vista hasta tener el dinero en la mano."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_005",
+      "hash": "A39751C45B3FBBDA",
+      "target": "No sabía muy bien qué pensar de ti después de Hhusatahwi, pero me alegra ver que eres algo más que un crío impulsivo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_006",
+      "hash": "FB19179C641F055F",
+      "target": "Ah, bueno... no fue mi mejor momento, lo admito..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_007",
+      "hash": "5AE6E13CE34D3B0C",
+      "target": "Pero de ahí se saca una lección: el Buitre es un cabrón escurridizo. Si queremos pillarlo, hay que acorralarlo con pruebas sólidas. Ese es mi plan."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_008",
+      "hash": "317B9076131F8E64",
+      "target": "Primero hay que alejarlo de aquí─lo ideal sería llevarlo hasta Hhusatahwi. Para eso necesito que uno de vosotros me ayude."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_009",
+      "hash": "356C9B808E601610",
+      "target": "Eso le dará tiempo al otro para registrar los barriles en busca de lo robado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_010",
+      "hash": "05B910191BED2CBC",
+      "target": "Y con eso lo dejaremos en evidencia como el criminal que es."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_100_010",
+      "hash": "5774D94F21CC0822",
+      "target": "No hay forma de saber si Wihuwte lleva encima el brazalete, pero da igual: habrá tiempo de sobra para encontrarlo cuando esté entre rejas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_011",
+      "hash": "E699E2DE41480AEC",
+      "target": "¿Y no fingirá sin más que es inocente?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_012",
+      "hash": "2CB3F9351B539DE9",
+      "target": "Uy, lo intentará. ¡Y <italic(1)>ahí<italic(0)> es cuando lo retaré a un duelo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_013",
+      "hash": "DD6FA4B8270582BD",
+      "target": "¿Un duelo? Que yo recuerde, ese método no les salió muy bien a tus amigos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_014",
+      "hash": "FD137A509BE1D654",
+      "target": "Cierto. Pero a diferencia de la otra vez, lo retaré delante de todo el pueblo. Así no podrá escurrir el bulto como entonces."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_015",
+      "hash": "C270470C7A774375",
+      "target": "Todo hombre, mujer y niño de estas tierras salvajes entiende la importancia de los duelos y de las viejas leyes. El <italic(1)>subjefe<italic(0)> jamás se deshonraría negándose."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_016",
+      "hash": "75764DDBB8B5A172",
+      "target": "¿Pero no estarías infringiendo la ley al usar un arma de fuego en el pueblo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_017",
+      "hash": "274AEDC2742DBA47",
+      "target": "No es que fuéramos a usar balas de verdad, pero es un riesgo que estoy dispuesto a correr."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_018",
+      "hash": "BF7A1549E832C473",
+      "target": "Lo importante es que acepte el duelo con los máximos testigos posibles. Cuando pierda─y <italic(1)>va<italic(0)> a perder─será el fin del Buitre."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_019",
+      "hash": "4582475D70A77C03",
+      "target": "El plan tiene sus fallos, pero... ¿tú qué opinas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q1_000_000",
+      "hash": "64752E67FFF58476",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A1_000_001",
+      "hash": "025924BA6FFC7E4B",
+      "target": "Yo digo que Zekowa tenga su duelo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A1_000_002",
+      "hash": "8EE919A79E63F315",
+      "target": "Podemos confiar en las viejas leyes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A1_000_003",
+      "hash": "9C37D5BCAF45028E",
+      "target": "Mientras recuperemos el brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_021",
+      "hash": "AB4EE5D33610C6C4",
+      "target": "Gracias. Menuda suerte he tenido de cruzarme con vosotros dos. ¡No os arrepentiréis, os lo prometo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_022",
+      "hash": "C9333C34414A09D8",
+      "target": "Ni siquiera él puede pasar por alto nuestras tradiciones. En cuanto pierda, le haré confesar sus crímenes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_023",
+      "hash": "AC41A5BC951BE297",
+      "target": "Ese brazalete es muy importante para vosotros, ¿eh? Tranquilos. Me encargaré de que lo recuperéis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_024",
+      "hash": "FF2EB5A288654B0B",
+      "target": "Si a ti te vale, a mí también."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_025",
+      "hash": "FB60EB4D0B7841FC",
+      "target": "¡Sabía que podía contar con vosotros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_026",
+      "hash": "4515DBB3FA5314AC",
+      "target": "A mí me vieron en Tonatenyawi, así que lo mejor será que me quede yo a registrar los barriles."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_027",
+      "hash": "27CFA09E1B80EB6D",
+      "target": "Entonces tú te vienes conmigo. Dile al Buitre que intenté robarte pero que lograste reducirme. Aunque sospeche una trampa, no podrá resistirse a picar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_028",
+      "hash": "E43FCEEDF53F647A",
+      "target": "Procura darle a tu amigo todo el tiempo posible y dirígete a Hhusatahwi. ¡Cuando tengas allí al Buitre, yo me encargo del resto!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_029",
+      "hash": "BEE748034F803DE1",
+      "target": "¡Muy bien, pues! ¡Manos a la obra!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_030",
+      "hash": "AA1AB3DAB94424DB",
+      "target": "Wihuwte no debería tardar mucho en aparecer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_040",
+      "hash": "82F782C9CBE6C876",
+      "target": "Lo de los yeheheceyaa habrá sido cosa de ese Shetona. ¿Qué se traerá entre manos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_100_040",
+      "hash": "563F4055E50AAF3C",
+      "target": "Hmpf. Y luego está el mocoso. Ya iba siendo hora de que me ocupara de él."
+    },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_041", "hash": "1A850C675E7DDF29", "target": "Wihuwte no repara en tu presencia. Quizá un suave <colortype(500)><edgecolortype(501)>/poke<edgecolortype(0)><colortype(0)> capte su atención." },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_050",
+      "hash": "75CDFD4B7A41FF44",
+      "target": "¿Mm? ¿Qué tenemos aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_051",
+      "hash": "B1373E89770518FB",
+      "target": "Vaya, una cara poco vista por estos lares. Ejem. ¿Necesita algo de la Guardia del Polvo, <if(gnum4,señorita,señor)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_052",
+      "hash": "560D7BFEFEBA80FA",
+      "target": "¿Cómo? ¿¡Zekowa intentó robarle y usted lo redujo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_053",
+      "hash": "5940EF8DFD170FE5",
+      "target": "Ya veo... Tan desesperado estaba por sacar a sus amigos de la cárcel que se entregó a la delincuencia. Qué espanto..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_054",
+      "hash": "9EB6AFCE52024D76",
+      "target": "Le doy mis más sinceras gracias, <if(gnum4,señorita,señor)>. ¿Sería tan amable de llevarme hasta él?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q2_000_000",
+      "hash": "D98424E1DDE3EFD3",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_001",
+      "hash": "428F578F642DA397",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_002",
+      "hash": "6FE4649DECF571B1",
+      "target": "Separaros de Wihuwte."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_000_003",
+      "hash": "18BCC777F4EF57A9",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_059",
+      "hash": "287B77A9F3A4E9CD",
+      "target": "¿Ocurre algo? Si no, haga el favor de guiarme."
+    },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_060", "hash": "96A22996DBF08E67", "target": "¿Seguro que quieres separarte de Wihuwte?" },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_061",
+      "hash": "6A051088D7F41089",
+      "target": "¿Tiene algo que hacer? Muy bien, pero le ruego que se dé prisa. Tengo el deber de llevar a ese criminal ante la justicia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_062",
+      "hash": "0EBB4CC6753E3CE1",
+      "target": "Ha sido una espera angustiosamente larga, <if(gnum4,señorita,señor)>. Pero supongo que <italic(1)>ahora<italic(0)> sí podrá llevarme hasta el maleante."
+    },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_063", "hash": "300BBE906770BB0B", "target": "Debes llevar a Wihuwte contigo y tenerlo a tu lado para avanzar en los objetivos de la misión." },
+    { "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_SYSTEM_000_064", "hash": "1178DF121BE0BF29", "target": "Wihuwte aún no ha llegado. Asegúrate de que esté a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A2_100_000",
+      "hash": "1678F1E123C3ACE3",
+      "target": "<colortype(548)>Preguntar por los Manantiales de Sheshenewezi.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_067",
+      "hash": "D263EA66B652E4C7",
+      "target": "No es que sea el momento más apropiado para hacer de guía turístico, pero si insiste... Los Manantiales de Sheshenewezi albergan una próspera industria de extracción de ceruleum. Aunque la perspectiva de dinero fácil ha atraído a ciertos <italic(1)>indeseables<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_070",
+      "hash": "1144253570BD425A",
+      "target": "¿Es aquí? No lo veo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q3_000_000",
+      "hash": "4FEF57B873106B02",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A3_000_001",
+      "hash": "5B049544C9551C61",
+      "target": "Uy, qué <if(gnum4,tonta,tonto)>. No es aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A3_000_002",
+      "hash": "079F42F0A42B1EEC",
+      "target": "Un poco más allá."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_072",
+      "hash": "B4A7BCCBB7892276",
+      "target": "Ya veo... \\<suspiro> Muy bien, guíeme."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A3_100_000",
+      "hash": "EBA04999A950CF38",
+      "target": "<colortype(548)>Preguntar por los campos de ceruleum.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_075",
+      "hash": "705BDBB20F9F54FB",
+      "target": "En estos campos hay oro. Oro azul..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_076",
+      "hash": "BA31D44730D32ADA",
+      "target": "Ejem. Conviene andarse con ojo con las bestias de por aquí. Puede que prefieran picotear ceruleum, pero con usted harían una excepción, me parece a mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_080",
+      "hash": "76A297A7142F7255",
+      "target": "¿Es <italic(1)>aquí<italic(0)>, entonces?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q4_000_000",
+      "hash": "260F7371C704E6F7",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A4_000_001",
+      "hash": "75DA211D1CA285DE",
+      "target": "Podría jurar que lo dejé aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A4_000_002",
+      "hash": "724AD74D4A648F75",
+      "target": "Lo siento. Todavía me estoy orientando."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_082",
+      "hash": "FE28F19B9C19DBA6",
+      "target": "¿Es esto una especie de broma? Pero será... Sigamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_090",
+      "hash": "A6CBC3744FBB5F44",
+      "target": "Más vale que sea aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q5_000_000",
+      "hash": "C3F1ACDD4ED4D21F",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A5_000_001",
+      "hash": "44B49F9160DC37E9",
+      "target": "¡Ah, ahora me acuerdo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A5_000_002",
+      "hash": "C38EEE1DC69088F1",
+      "target": "Lo dejé atado junto a una roca grande. Debía de ser otra roca."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_092",
+      "hash": "900C0AE2A72822D6",
+      "target": "Se me está acabando la paciencia, <if(gnum4,señorita,señor)>. Como no esté en la próxima parada, puede que me vea obligado a hacer algo que ambos lamentaríamos mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_095",
+      "hash": "C146C0DCC94C8D2B",
+      "target": "¡Vamos, dese prisa de una vez!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A5_100_000",
+      "hash": "71575D437E2B8694",
+      "target": "<colortype(548)>Preguntar por los nopalitenders.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_098",
+      "hash": "2B9BB7FBDA49A3EF",
+      "target": "A menos que prefiera que le haga tragarse uno crudo─espinas incluidas─déjese de charlas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_100",
+      "hash": "011A8B2C78EEB04F",
+      "target": "Muy bien, ¿dónde está?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_101",
+      "hash": "78E8CB13F29F27C0",
+      "target": "¡No lo veo por ninguna parte! ¿¡Dónde está Zekowa!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_102",
+      "hash": "25AAAF6574C84F40",
+      "target": "Dime dónde está o te entierro en la misma tumba."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_Q6_000_000",
+      "hash": "A569BD58ED835091",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A6_000_001",
+      "hash": "D4C052FFD7FF28F7",
+      "target": "¡Rayos, se habrá escapado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_A6_000_002",
+      "hash": "398FEDE22D470F31",
+      "target": "¡Madre mía! ¿Adónde habrá ido?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_104",
+      "hash": "8A25BBAC4910B58D",
+      "target": "¡Se acabó! ¡Estoy harto de estos jueguecitos y estoy harto de ti!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_105",
+      "hash": "CF32E004182790BB",
+      "target": "¡Eh, Wihuwte! ¿Me buscabas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_106",
+      "hash": "A7D5B578168A5C44",
+      "target": "¡Si quieres detenerme, vas a tener que esforzarte un poco más!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_WIHUWTE_000_107",
+      "hash": "282CA1E55C8E2AF4",
+      "target": "¡Cuando acabe contigo suplicarás que te metan en una celda!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ERENVILLE_000_110",
+      "hash": "D731FF229AA8C59F",
+      "target": "Ha acabado siendo bastante más complicado de lo previsto, pero bien está lo que bien acaba."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_111",
+      "hash": "51FC78BE10D7A109",
+      "target": "¡Uf! ¡Por fin se acabó!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_112",
+      "hash": "1127746923ECAF96",
+      "target": "No habría podido llevarlo ante la justicia sin vuestra ayuda. No sé cómo os lo voy a pagar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd105_04916#TEXT_KINGMD105_04916_ZEKOWA_000_115",
+      "hash": "B81681369A3117BC",
+      "target": "¡Jajaja! Vaya disparo he metido, ¿eh?"
+    }
+  ]
+}

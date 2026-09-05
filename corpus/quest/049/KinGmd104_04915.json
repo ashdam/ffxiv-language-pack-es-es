@@ -1,0 +1,356 @@
+{
+  "conversation": "quest/049/KinGmd104_04915",
+  "questName": "Blowing Smoke",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SEQ_00", "hash": "9538307D362AA58D", "target": "Erenville tiene la mirada clavada en el escondite de los bandidos." },
+    { "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_TODO_00", "hash": "1CB2238AA8495567", "target": "Usar pouch of foul-smelling attractant en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_TODO_01", "hash": "E9FBF174BFF96BE3", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_TODO_02", "hash": "2B14A6EDE0725A58", "target": "Hablar con Zekowa" },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_001",
+      "hash": "B6875B6C066B9F39",
+      "target": "Parece que hay unos cuantos reunidos dentro. Es nuestra oportunidad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_002",
+      "hash": "F522CF7231CBD361",
+      "target": "Yo vigilaré desde aquí. El reclamo te lo dejo a ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_003",
+      "hash": "418B0849AD525F37",
+      "target": "Échalo a la hoguera del centro del pueblo. Los yeheheceyaa llegarán poco después."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGA_000_010",
+      "hash": "016443B57F934029",
+      "target": "¿Qué es ese olor?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGA_000_011",
+      "hash": "9A14EF1644B4215C",
+      "target": "Puaj, ¡cómo <italic(1)>apesta<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGB_000_012",
+      "hash": "53CAC18E8AD20EF5",
+      "target": "¿¡Qué has echado al fuego!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGA_000_013",
+      "hash": "4E5EE36CFD172D43",
+      "target": "¡Yo no he sido, lo juro!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGC_000_014",
+      "hash": "5BE869A5FC53FABB",
+      "target": "Puaj, ¿se ha muerto algo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_WIHUWTE_000_015",
+      "hash": "7C87E4C580DDF69B",
+      "target": "¿Alguien quiere explicarme esta peste infernal?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGB_000_016",
+      "hash": "18A92835F122FD73",
+      "target": "¿J-Jefe...? A-Ahí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_WIHUWTE_000_017",
+      "hash": "0722BBCE1B9F2F9D",
+      "target": "¿Eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_WIHUWTE_000_018",
+      "hash": "CDFFF422B554F9CC",
+      "target": "¿¡P-Pero qué demonios!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGC_000_019",
+      "hash": "5D7B5D2062927052",
+      "target": "¡Aaaahhhhh!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_SHAALOANIGANGA_000_020",
+      "hash": "5B1EF90B9C9C81CE",
+      "target": "¡Corred por vuestra vida!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_WIHUWTE_000_021",
+      "hash": "C5D914A02E5C8256",
+      "target": "Hmpf, ¿así que el humo es lo que los ha traído? Como me entere de quién ha sido..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_022",
+      "hash": "71F38E30A8D7597C",
+      "target": "Diría que nuestros amigos han armado suficiente alboroto. Hora de recuperar el brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_023",
+      "hash": "D6B87375A2C39359",
+      "target": "¡Eh! ¿¡Qué está pasando ahí fuera!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_024",
+      "hash": "0E8BC18CF1B154FA",
+      "target": "¡Que sigo aquí dentro, por si se os ha olvidado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_025",
+      "hash": "891520C9F1DF1ABA",
+      "target": "Aguanta. Volveremos a por ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_026",
+      "hash": "A4CEE301E8246891",
+      "target": "¿¡Qué!? ¡Tenéis que sacarme de aquí ya! ¡Van a matarme!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_027",
+      "hash": "263DFAFB08B68176",
+      "target": "¡Os lo suplico! ¡Por favor!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_028",
+      "hash": "3F8787C8587E163C",
+      "target": "¡Chsss! ¡Te van a oír!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_WIHUWTE_000_029",
+      "hash": "BCA7C93F27F8BA4D",
+      "target": "Mierda. ¿Quién ha sido?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_030",
+      "hash": "EE194C877AD5973E",
+      "target": "¡Eh! ¿¡Me vais a ayudar o qué!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_031",
+      "hash": "8A876A5BFEE142CA",
+      "target": "\\<suspiro> El brazalete tendrá que esperar. Saquémoslo de ahí y retirémonos por ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_040",
+      "hash": "42E2215B8EECC09B",
+      "target": "Tanto esfuerzo para nada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_041",
+      "hash": "8A1999B399EE876B",
+      "target": "Perdonad por lo de antes... ¡Pero jolines, no pensaba que nadie tuviera agallas para enfrentarse al Buitre!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_042",
+      "hash": "A0C43F950B39C8ED",
+      "target": "No hace falta que te disculpes. Teníamos pensado rescatarte. Tarde o temprano."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_043",
+      "hash": "2E282D3973C2A4DF",
+      "target": "¿En serio? Y ni siquiera sé quiénes sois. ¿Sois admiradores secretos míos o algo así?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_044",
+      "hash": "D3CFD39B51FC1A73",
+      "target": "Je, que os estoy vacilando. Pero de verdad que os agradezco la ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_100_044",
+      "hash": "218A246BAFB674F3",
+      "target": "Ese hombre al que llamáis el Buitre. Le he visto la cara antes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_110_044",
+      "hash": "CA4397598F837125",
+      "target": "¿No era el agente con el que te encaraste en el pueblo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_120_044",
+      "hash": "E5F2413399025D60",
+      "target": "El mismísimo. Cuando no anda disfrazado de jefe de banda, ejerce de subjefe de la Guardia del Polvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_130_044",
+      "hash": "A0F0B7D41FB0FC7E",
+      "target": "Eso explicaría por qué los bandidos están tan seguros de que no los van a atrapar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_045",
+      "hash": "D0286EE26289646A",
+      "target": "Queréis recuperar algo que robó el Buitre, ¿verdad? Dejadme ayudaros. Es lo mínimo después de que me sacarais de allí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_046",
+      "hash": "BD7E1B27A2C5AC96",
+      "target": "Sé más o menos dónde esconde el botín. Y me juego algo a que ha ido para allá ahora mismo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_047",
+      "hash": "871C17224454422C",
+      "target": "Podemos ir juntos. Yo también tengo cuentas pendientes con él."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_048",
+      "hash": "C860ABE1A768421B",
+      "target": "No lo dudo, pero antes necesitamos saber cuáles. ¿Nos lo cuentas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_049",
+      "hash": "B2DF8817AAC730BD",
+      "target": "Vale, pues. Esos bandidos de Tonatenyawi se hacen llamar los Albores, y fuimos mis amigos y yo los que fundamos el grupo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_050",
+      "hash": "01B5EC77ECDEE449",
+      "target": "P-Pero no era una banda de degolladores. ¡No entonces!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_051",
+      "hash": "69BE0D2905EEE95B",
+      "target": "Solo queríamos proteger a la gente que no podía protegerse sola. Críos acosados por matones, obreros explotados por las empresas mineras─gente que necesitaba ayuda para equilibrar la balanza."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_052",
+      "hash": "D6D845F7D66CD897",
+      "target": "De eso hace tres años. Y siempre que descubríamos a alguien tramando algo en la sombra, zanjábamos el asunto de la mejor manera que conocíamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_053",
+      "hash": "88D09AAD0DAC756A",
+      "target": "¡Con un duelo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_054",
+      "hash": "5044BF111E775A38",
+      "target": "Ya veo. Por las viejas leyes, quien pierde un duelo debe responder de sus crímenes, aunque ocupe un cargo de autoridad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_055",
+      "hash": "8F48C164E3EE417F",
+      "target": "Y nos asegurábamos bien de que respondieran, cada vez. Sin darnos cuenta, nuestro pequeño grupo de amigos se convirtió en una fuerza a tener en cuenta."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_056",
+      "hash": "A95535089C8A3E88",
+      "target": "Pero hace cosa de un año aparecieron el Buitre y sus matones. Nos ganaron por la mano y se quedaron con los Albores."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_057",
+      "hash": "E7AF02944610910C",
+      "target": "Todos le tenían miedo, así que obedecían sin rechistar. Pero cuando les enseñó cómo hacer una fortuna sin esfuerzo─<italic(1)>ahí<italic(0)> fue cuando de verdad se los ganó."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_058",
+      "hash": "A7EE754610B9654F",
+      "target": "Ahora los Albores no son más que una pandilla de bandidos y degolladores que se ceban con la misma gente que se creó para proteger."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_059",
+      "hash": "72549F6C155373C8",
+      "target": "Lo hablé con mis amigos, Kwikana y Liwine, y coincidimos en que la única forma de pararle los pies era retarlo a un duelo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_060",
+      "hash": "3E49EE56D4F56444",
+      "target": "Y aceptó. Todavía me acuerdo de cómo se regodeaba diciendo que iba a ganar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_061",
+      "hash": "7A41A4B03FEBFD38",
+      "target": "Pero cuando llegó el día, se presentó con la Guardia del Polvo e hizo detener a mis amigos por robo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_062",
+      "hash": "B4FB5BB4B6A861AB",
+      "target": "Y por si fuera poco, les puso una fianza que nadie podría pagar jamás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_063",
+      "hash": "6A648F2C728763DE",
+      "target": "Con ellos encerrados, no me quedaba nadie que me ayudara. Ninguno de mis viejos compañeros de los Albores, y desde luego tampoco la Guardia del Polvo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_064",
+      "hash": "600ABD4D0B405659",
+      "target": "Y por eso estabas dispuesto a plantarle cara en mitad del pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_065",
+      "hash": "2304EC8B94544A7D",
+      "target": "Eso iba a hacer, hasta que me paró aquel tipo de la lanza."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_066",
+      "hash": "DB7AEF8102D0E290",
+      "target": "Y en cuanto salí del pueblo, los esbirros del Buitre me pillaron por sorpresa. Me hicieron prisionero y luego... bueno, el resto ya lo sabéis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_067",
+      "hash": "6419CF246DDDFE3D",
+      "target": "Has dicho que la Guardia del Polvo no serviría de ayuda. ¿Es que todos trabajan para el Buitre?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_068",
+      "hash": "49678AAE4F72DBFE",
+      "target": "No, todos no."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_069",
+      "hash": "4D48E22F086C3903",
+      "target": "El jefe, Kemakka─es honrado como el que más, un guardián de la paz de los de verdad. El problema es que se fía demasiado y no sospecha nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_070",
+      "hash": "ED45A3593512A07C",
+      "target": "Si fuera mi palabra contra la del subjefe, ¿a quién creéis que creería?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_071",
+      "hash": "04B9FADA2C698A4A",
+      "target": "En fin, si sabe dónde guarda ese Buitre su botín, quizá pueda ayudarnos a recuperar el brazalete de Namikka. ¿Tú qué opinas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_072",
+      "hash": "DF0BF8551B323DC6",
+      "target": "Por si sirve de algo, tengo un plan. Pero no puedo llevarlo a cabo yo solo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_073",
+      "hash": "F67A361710477F8D",
+      "target": "¿Un plan?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_074",
+      "hash": "7056FDDFB8A53260",
+      "target": "Solo os pido que me escuchéis─pero aquí no. Os esperaré en los Manantiales de Sheshenewezi."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_075",
+      "hash": "837B00036D8C6FFA",
+      "target": "Supongo que podemos decidir qué hacer después de que nos lo cuente."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_080",
+      "hash": "DB131991021DE290",
+      "target": "Gracias, os debo una. Por un momento pensé que ibais a dejarme allí de verdad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_090",
+      "hash": "36BF193AA3E70B48",
+      "target": "Bien, ya estáis aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ZEKOWA_000_091",
+      "hash": "6D19EA7AC2A92A17",
+      "target": "Aquí es donde esconde el botín. Me imagino que aparecerá pronto."
+    },
+    {
+      "gameKey": "quest/049/KinGmd104_04915#TEXT_KINGMD104_04915_ERENVILLE_000_095",
+      "hash": "DCA933394BF05172",
+      "target": "Le agradezco que nos lleve hasta el subjefe, pero de nada servirá si nos ven."
+    }
+  ]
+}

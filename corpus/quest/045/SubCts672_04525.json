@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/045/SubCts672_04525",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_SEQ_00", "hash": "2BC9ACBAF2A66270", "target": "La mirada siempre vigilante de Meryld se posa sobre ti, con una sonrisa incómodamente parecida a la de Tataru dibujada en el rostro." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_TODO_00", "hash": "98C903E48B20B474", "target": "Hablar con la doncella de la casa Leveilleur" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_001", "hash": "145A54CF3053E0D0", "target": "<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>, es una grata sorpresa verle. Como siempre, su oportunidad es impecable." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_002", "hash": "AA15133FE783FBE7", "target": "La señora Ameliance me ha confiado un regalo para usted: un conjunto de ropa que esperaba que fuera de su agrado." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_003", "hash": "E2526A367FF93170", "target": "Antes de entregarle la ropa, me pareció prudente asegurarme de que le queda bien. Lamento muchísimo la molestia, pero ¿podría pedirle que hable con la doncella de allí?" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_004", "hash": "0369946A93F872D5", "target": "El regalo es, por supuesto, una muestra del aprecio de la señora Ameliance por sus hazañas, pero espero que también lo acepte como señal de agradecimiento de parte de los sirvientes." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_005", "hash": "7408B2E6BF9E3BB8", "target": "Y, si me permite añadir una cosa más... por favor, siga cuidando de maese Alphinaud y de la señorita Alisaie." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_MERYLD_000_010", "hash": "804DCCFA6F341A5C", "target": "Cuando tenga un momento, busque a la doncella para cualquier ajuste necesario de la ropa." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_020", "hash": "83FAA893CAEBD898", "target": "Saludos, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Tengo aquí su ropa." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_021", "hash": "FE382307BDEB3BC2", "target": "La señora Ameliance tiene buen ojo para las medidas, pero permítame confirmar que no hace falta ningún otro ajuste." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_022", "hash": "A575D2BB3F6C80B8", "target": "Mmm... sí, los hombros deberían quedar bien... y el largo de las mangas tampoco debería dar problemas." },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_023", "hash": "742E0EC35E44920F", "target": "En otras palabras: ¡perfecto!" },
+    { "gameKey": "quest/045/SubCts672_04525#TEXT_SUBCTS672_04525_HOUSEMAID04524_000_024", "hash": "87346EA29C9AEBFB", "target": "Y con esto, creo que ya le he robado bastante tiempo. ¡En nombre de todo el personal de la casa Leveilleur, le deseo un buen viaje!" }
+  ]
+}

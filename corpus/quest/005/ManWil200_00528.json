@@ -1,0 +1,972 @@
+{
+  "conversation": "quest/005/ManWil200_00528",
+  "questName": "The Ul'dahn Envoy",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_1",
+      "hash": "F7DF1820E41E01CA",
+      "target": "Escucha bien, <split(<string(gstr1)>, ,1)>. Esto llevará un rato de explicar."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_10",
+      "hash": "9101CF13E596813A",
+      "target": "He preparado estas cartas para mis homólogos en la Alianza Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_11",
+      "hash": "221D4860CB3867ED",
+      "target": "Hace cinco años, contemplamos impotentes cómo nos arrebataban a nuestros hermanos y hermanas en Carteneau: primero los garleanos, y luego el maldito primigenio que su traición hizo surgir."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_12",
+      "hash": "5F1DF6344B931E92",
+      "target": "No pasa un día sin que piense en mis camaradas caídos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_13",
+      "hash": "75E8C6CE84107D69",
+      "target": "...Y en los Guerreros de la Luz, de quienes no quedó rastro alguno."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_14",
+      "hash": "3E29066AD6AACA29",
+      "target": "Las tragedias de la Calamidad no se olvidan con facilidad... ni deberían olvidarse. Al recordar todo lo que perdimos, recordamos también lo que aún conservamos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_15",
+      "hash": "DB780A35F43B9CCD",
+      "target": "Y por eso me propongo conmemorar el quinto aniversario de la batalla de Carteneau con un oficio en honor de los caídos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_16",
+      "hash": "2494F46C9D36473D",
+      "target": "Es mi deseo que mis homólogos en la Alianza accedan a hacer lo mismo."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_17",
+      "hash": "78A7EAAF58FF5F6F",
+      "target": "Y quisiera que <italic(1)>tú<italic(0)> les llevaras mis palabras como <if(gnum4,mi emisaria personal,mi emisario personal)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_18",
+      "hash": "CDFB6741C59F68F2",
+      "target": "¿Por qué tú? Porque tus hazañas te señalan como lo más parecido que tengo a <if(gnum4,una Guerrera de la Luz,un Guerrero de la Luz)>. No se me ocurre nadie más digno del cometido. La cuestión es: ¿lo aceptarás?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_19",
+      "hash": "6330AD74763F27C1",
+      "target": "¡Entonces, trato hecho!"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_20",
+      "hash": "D047C4789DCDEDF5",
+      "target": "Viajarás a Gridania y Limsa Lominsa como mi representante oficial."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_21",
+      "hash": "71243A7A10D9FFCB",
+      "target": "Es un buen puñado de malms lo que hay que recorrer, y no tengo ni el tiempo ni la paciencia para esperar mientras lo haces a pie."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_22",
+      "hash": "328813369A8789ED",
+      "target": "Por la presente, te concedo permiso para usar las rutas de aeronave que conectan las tres ciudades-estado. Este pase da fe de tu privilegio."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_23",
+      "hash": "19649C38C7066886",
+      "target": "Atrás quedaron los días en que el viaje en aeronave estaba al alcance de todos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_24",
+      "hash": "F0EFF92880D31EBD",
+      "target": "La amenaza constante de un ataque imperial nos ha obligado a imponer restricciones drásticas por la seguridad de todos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_25",
+      "hash": "14F21F5E8F7AFC5E",
+      "target": "Estos pases solo se conceden cuando las circunstancias lo exigen... como en este caso."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_26",
+      "hash": "FEBF1148E66CEBF4",
+      "target": "Aunque hubo <italic(1)>otros<italic(0)> que insistieron en que se te concediera uno de todos modos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_27",
+      "hash": "4338A049752608F7",
+      "target": "Sí, <split(<string(gstr1)>, ,1)>, no soy el único que lo ve..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_28",
+      "hash": "DD20ED7851B52888",
+      "target": "Tu potencial es evidente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_29",
+      "hash": "39F22B06349055D4",
+      "target": "Pero ya he dicho suficiente. En nombre de la sultana, te insto a partir."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_30",
+      "hash": "8761CBD79995A897",
+      "target": "Contempla por ti mism<if(gnum4,a,o)> las maravillas del reino por el que los Guerreros de la Luz lo arriesgaron todo. Está a la altura de tu vocación y cumple tu promesa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_31",
+      "hash": "E5CFEE59775CD923",
+      "target": "Y si tu camino se ve cerrado por hombre o bestia, golpea rápido y certero, pues la victoria es de los audaces."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_32",
+      "hash": "3D9AECEEC6399BFC",
+      "target": "Ahora ve, <split(<string(gstr1)>, ,1)>, y atiende a la guía del Cristal si alguna vez pierdes el rumbo."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_RAUBAHN_000_35",
+      "hash": "51018B6DE4B858A0",
+      "target": "Haz que esas cartas lleguen a la Almirante y a la Gran Vidente, <split(<string(gstr1)>, ,1)>. Quiero que toda Eorzea recuerde a los caídos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_40",
+      "hash": "B1A2395FAB6FEDCC",
+      "target": "¡Ah! ¿Ya de vuelta de su reunión con Raubahn? ¿Qué le ha dicho el gran hombre?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_41",
+      "hash": "B3DA61105E85DDBC",
+      "target": "¿¡En serio!?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_42",
+      "hash": "AE0896BBA40540A4",
+      "target": "¡<if(gnum4,Emisaria,Emisario)> personal del mismísimo General de las Llamas!"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_43",
+      "hash": "E83008AFE0060AE2",
+      "target": "¿Así que va a llevar la palabra del gran hombre a los líderes de la Alianza? ¡Y en aeronave! Válgame... vaya honor y medio."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_44",
+      "hash": "A3A71A62BA494B67",
+      "target": "...Pero no se me ocurre nadie que lo merezca más."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_45",
+      "hash": "3BB856A3CAFCC6A6",
+      "target": "Estoy orgullosa de usted, <split(<string(gstr1)>, ,1)>. De veras que sí."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_46",
+      "hash": "54E9D599BB602B92",
+      "target": "Verá, me atrevo a decir que Raubahn ya se lo contó, pero hoy en día son pocos los que llegan a subir a una aeronave. De hecho, la mayoría se va a la tumba sin haber visto nunca Eorzea desde las alturas..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_47",
+      "hash": "8C3536D5EAE382C6",
+      "target": "Pobres diablos que se van al encuentro de Thal sin haber conocido jamás el azul de los mares rutilantes de Limsa Lominsa, ni los mil verdes de la frondosa Gridania..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_48",
+      "hash": "5B405CCBB0C58E3C",
+      "target": "Pero usted no, <split(<string(gstr1)>, ,1)>. Verá esas maravillas y más, y allá donde vaya encontrará gente fascinante con relatos fascinantes que contar."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_49",
+      "hash": "636FFBFD70C03AB6",
+      "target": "La gente que conozca, los lugares que visite... saboree esas experiencias..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_50",
+      "hash": "B117B0BE5BAA8B70",
+      "target": "Pues no tienen precio, todas ellas."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_51",
+      "hash": "EBCAC181989BA4AB",
+      "target": "Dicho lo cual, faltaría a mi deber si no le recordara que tenga cuidado ahí fuera."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_52",
+      "hash": "0A4C75CC876D7EF6",
+      "target": "Ul'dah no es el único lugar acosado por problemas, como descubrirá cuando visite Limsa y Gridania."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_53",
+      "hash": "01B3E3BF086702C6",
+      "target": "A decir verdad, bien podría ser eso justo lo que el General quiere que comprenda. Creo que sabe qué clase de <if(gnum4,mujer,hombre)> es usted, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_54",
+      "hash": "36A6D582E26F57D9",
+      "target": "¿Que de qué clase, se pregunta? Pues de <if(gnum4,las,los)> que no pueden resistirse a meter las narices en los asuntos ajenos, cómo no... ¡y no cambie nunca!"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_55",
+      "hash": "6483EDFEE897807B",
+      "target": "¡Buen viaje, <split(<string(gstr1)>, ,1)>! Nos vemos a su regreso."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_60",
+      "hash": "DF5CA577F661615C",
+      "target": "Saludos, <if(gnum4,señora,señor)>. Este es el mostrador de reservas para pasajeros con destino a Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_61",
+      "hash": "ACB521746807B7F0",
+      "target": "Si no me equivoco, es usted <if(gnum4,la emisaria,el emisario)> del General de las Llamas, <string(gstr1)>, ¿verdad? Aerovías Highwind está a su disposición. ¿Volará hoy con nosotros?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q1_000_1",
+      "hash": "E4E892880605F191",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A1_000_1",
+      "hash": "29BC459029B71AAF",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A1_000_2",
+      "hash": "D4C18E0934916A82",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_62",
+      "hash": "E48AC2CF069CCFC8",
+      "target": "Si cambia de idea, no tiene más que decírmelo, y me encargaré de que se le asigne una plaza en la próxima aeronave."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q2_000_1",
+      "hash": "35C223853A687C54",
+      "target": "¿Subir a la aeronave?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A2_000_1",
+      "hash": "3E44F9D9FC1EFFEC",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A2_000_2",
+      "hash": "72E4417BBDF6F24F",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_65",
+      "hash": "AA95065F2A8C4894",
+      "target": "¿Desea salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q5_000_1",
+      "hash": "6CC19417115CAFE0",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A5_000_1",
+      "hash": "B989A71A5A6760C7",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A5_000_2",
+      "hash": "6FA58AFFF3CAC44C",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_66",
+      "hash": "89303F20E2054513",
+      "target": "Le deseamos un agradable viaje."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_70",
+      "hash": "C836912566F883BE",
+      "target": "La aeronave con destino a Limsa Lominsa partirá en breve. ¿Está <if(gnum4,lista,listo)> para embarcar, <if(gnum4,señora,señor)>?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_71",
+      "hash": "555365E13D88AEAA",
+      "target": "Gracias por viajar con Aerovías Highwind. La aeronave con destino a Gridania partirá en breve."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q6_000_1",
+      "hash": "F646A81454FE310E",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A6_000_1",
+      "hash": "89D91C087742CE50",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A6_000_2",
+      "hash": "FAC1F987DDF4C11C",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ELYENORA_000_72",
+      "hash": "5733638FB3C2BB31",
+      "target": "Muy bien. Cuando esté <if(gnum4,lista,listo)> para embarcar, hágamelo saber, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ANNOUNCE_000_80",
+      "hash": "5CBD74E13ADA2053",
+      "target": "Atención, pasajeros: la aeronave con destino a Limsa Lominsa está a punto de partir. Diríjanse a la puerta de embarque, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_NANAMOULNAMO_100_80",
+      "hash": "D62A50C229D7E0F2",
+      "target": "Cuando nos conocimos bajo el Árbol del Sultán, percibí que había algo insólito en <if(gnum4,ella,él)>. Me pregunto si sentirá lo mismo..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_81",
+      "hash": "95A6A04271D880F2",
+      "target": "¡Que los dioses <if(gnum4,la,lo)> guarden, <split(<string(gstr1)>, ,1)>, que <if(gnum4,la,lo)> guarden!"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_82",
+      "hash": "66567319C7D00DA4",
+      "target": "Si no me equivoco, dentro de poco cantarán sus alabanzas de aquí al último confín."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MOMODI_000_83",
+      "hash": "8F86BEAD41CDD0E3",
+      "target": "Que camine siempre a la luz del Cristal..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_85",
+      "hash": "F6CD7A8AD658F59D",
+      "target": "¡Ah, usted debe de ser <if(gnum4,la emisaria,el emisario)> de Ul'dah! Bienvenid<if(gnum4,a,o)> a Limsa Lominsa, <if(gnum4,señora,señor)>. La Almirante Bloefhiswyn aguarda su llegada."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q7_000_1",
+      "hash": "5E1533CC408555B8",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A7_000_1",
+      "hash": "BA2E4D2563B8B706",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A7_000_2",
+      "hash": "BD8E3CBCE080D9FE",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_86",
+      "hash": "58B6F3F0D28A3DB1",
+      "target": "Avíseme si necesita cualquier cosa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_90",
+      "hash": "6165EA74245A1301",
+      "target": "¿Es usted <if(gnum4,la emisaria,el emisario)> de Ul'dah? <if(gnum4,Bienvenida,Bienvenido)> a Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_91",
+      "hash": "BCB292A19B53EA7F",
+      "target": "La Almirante aguardaba con impaciencia su llegada."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_92",
+      "hash": "18EB8DE31E5CFE75",
+      "target": "Diríjase al Montacargas del Cuervo en cuanto le sea posible. Le llevará a la Sala del Baluarte."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_93",
+      "hash": "0EB97EDFAFEACF96",
+      "target": "Una vez allí, hable con Zanthael. Con gusto le hará pasar a la sala de mando de la Almirante, en el Puente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_STORMA_000_95",
+      "hash": "A3D91C8EBBB65288",
+      "target": "Hable con Zanthael en la Sala del Baluarte. Con gusto le hará pasar a la sala de mando de la Almirante, en el Puente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_100",
+      "hash": "8D61F81AEAFCF286",
+      "target": "Saludos, <if(gnum4,señora,señor)>, y <if(gnum4,bienvenida,bienvenido)> a nuestra bella ciudad. Si me permite examinar el sello de la misiva que porta..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_ZANTHAEL_000_101",
+      "hash": "E91DEBA7962B429B",
+      "target": "Sí, todo parece estar en orden. Le pido disculpas. No podemos permitirnos bajar la guardia, ya me entiende. Por aquí, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_800010_MERLWYB",
+      "hash": "1735BD5DE931FE53",
+      "target": "Adelante."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700020_MERLWYB",
+      "hash": "C9C773572BA7D9CD",
+      "target": "Así que los mercaderes de labia melosa envían a <if(gnum4,una aventurera,un aventurero)> a hablar en su nombre. Parece que los de Ul'dah depositan una gran fe en ti."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700030_MERLWYB",
+      "hash": "73FE59B320771899",
+      "target": "Por aquí."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700040_MERLWYB",
+      "hash": "9803D22EB71E4366",
+      "target": "Te doy la bienvenida."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700050_MERLWYB",
+      "hash": "A5DAB2D87724C1F3",
+      "target": "Soy Merlwyb Bloefhiswyn, Almirante de Limsa Lominsa y comandante del Maelstrom."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700060_MERLWYB",
+      "hash": "4E9E4A04A6DD97BA",
+      "target": "Y bien, ¿qué noticias traes de Thanalan?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700070_MERLWYB",
+      "hash": "70CF5188FE40C8F2",
+      "target": "Antes de que empieces, quisiera saber tu nombre."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700080_MERLWYB",
+      "hash": "13166F09AFC7CFF7",
+      "target": "Qué extraño. Habría jurado sin dudarlo que te conocía, pero parece que me equivocaba."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700090_MERLWYB",
+      "hash": "20263972D22F8865",
+      "target": "Si no logro recordar bien los rostros de mis amigos, más me vale confiar en mi capacidad para recordar los de mis enemigos. ¡Ay del Almirante que falle en <italic(1)>eso<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_700100_MERLWYB",
+      "hash": "D59CB97C26764619",
+      "target": "Pero bromeo. Por favor, continúa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_110",
+      "hash": "DE1DA164EEAD2BDE",
+      "target": "Hmm. Un acto conmemorativo en honor de los caídos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_111",
+      "hash": "2F2593D051D86F16",
+      "target": "Por los siete infiernos... ¿Ya han pasado cinco años?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_112",
+      "hash": "AB2751DD225A86F5",
+      "target": "Cinco años desde que el Imperio Garleano intentó arrancarnos Eorzea de las manos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_113",
+      "hash": "752A43F9460EB8AC",
+      "target": "Frente a la amenaza imperial, las ciudades-estado formaron las Grandes Compañías y forjaron de nuevo la Alianza Eorzea. Pero Garlemald no quiso apostarlo todo a una simple contienda de fuerza militar. Tenían otros planes: el proyecto Meteoro."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_114",
+      "hash": "1E8AFE2487A3C782",
+      "target": "El legado Nael van Darnus —malditos infiernos se lo lleven— pretendía «purificar» nuestro reino arrancando del cielo la luna menor, Dalamud, y dejándola caer sobre nuestras cabezas. Desesperados por impedir semejante plan de locos, llevamos nuestras fuerzas a la Llanura de Carteneau y allí trabamos batalla con la VII Legión Imperial."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_115",
+      "hash": "85C864823F35CF6E",
+      "target": "<italic(1)>Jamás<italic(0)> he visto un combate como la batalla de Carteneau, y he visto muchos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_116",
+      "hash": "A753AD3EED7E1F90",
+      "target": "Pero, aunque no dimos cuartel y no escatimamos ni una <italic(1)>onza<italic(0)> de esfuerzo... no pudimos impedir lo que vino después."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_117",
+      "hash": "CE33B0CBF3E24F33",
+      "target": "Del interior del caparazón de Dalamud surgió una pesadilla alada: un dragón del tamaño de una maldita ciudad. Era el primigenio ancestral Bahamut, empeñado en convertir Eorzea en un octavo infierno."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_118",
+      "hash": "50CD474A9211B83E",
+      "target": "En un suspiro, las legiones del Imperio ardieron en llamas, y a nuestros propios ejércitos no les fue mucho mejor. Era como si el mundo entero ardiese... No hay palabras que describan bien la escena."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_119",
+      "hash": "AC9C72B5AA49E713",
+      "target": "Y, sin embargo... por algún milagro, unos pocos nos salvamos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_120",
+      "hash": "48BAE66168F4E793",
+      "target": "Justo cuando me preparaba para morir, una cegadora luz blanca me envolvió y me arrebató el sentido."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_121",
+      "hash": "6E77ACBC9FBB5308",
+      "target": "Cuando lo recobré, el dragón había desaparecido, y la tierra aún humeante estaba transformada más allá de todo reconocimiento."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_122",
+      "hash": "1C8596DAC9811CF1",
+      "target": "Si el Arconte Louisoix siguiera con nosotros, sin duda arrojaría algo de luz sobre estos sucesos insondables. Por desgracia, ya no está, y me temo que echaremos en falta su sabiduría en los días venideros."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_123",
+      "hash": "CBA8682B0A3F66A9",
+      "target": "Pues, mientras nuestras naciones luchan por recuperarse de la devastación, los hombres bestia invocan a sus malditos primigenios para atormentarnos de nuevo."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_124",
+      "hash": "5283C9DFDFD621B3",
+      "target": "Como no dejemos de lado nuestras diferencias y reconstruyamos <italic(1)>ya<italic(0)>, nuestros enemigos nos pillarán desprevenidos."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_125",
+      "hash": "33BF073592F1D6BE",
+      "target": "Y no hablo solo de los hombres bestia. No creas que el Imperio ha renunciado a su reclamación sobre Eorzea. Los imperiales se agolpan en nuestras fronteras, a la espera de atacar."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_126",
+      "hash": "999E0161B3671E84",
+      "target": "Maldita sea, necesitamos campeones que reemplacen a los que perdimos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_127",
+      "hash": "822C17016F1E2B14",
+      "target": "Pero tales pensamientos son peor que inútiles. El tiempo apremia, y solo nosotros podemos salvarnos. Es deber de toda alma que sobrevivió a la Calamidad trabajar unida por el bien de Eorzea... y este oficio podría ser justo lo que nos una."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_128",
+      "hash": "9E243D921FB989B0",
+      "target": "Sí, Raubahn está en lo cierto. Acepto su propuesta."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_129",
+      "hash": "B2148849A06A516E",
+      "target": "Tu cometido aquí está cumplido, <if(gnum4,aventurera,aventurero)>. Me encargaré de que el General de las Llamas reciba mi respuesta."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_130",
+      "hash": "D485660DC7AA24B7",
+      "target": "Tu próximo destino es Gridania, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_131",
+      "hash": "6BF17CD25D7F8AF0",
+      "target": "Dale recuerdos a la Gran Vidente de mi parte. Ah, y dile que el lobo ha estado husmeando por los establos. Es una broma privada, y de mal gusto, pero quiero que se la transmitas igualmente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MERLWYB_000_132",
+      "hash": "97C1378B8E1C7631",
+      "target": "Que te vaya bien, <split(<string(gstr1)>, ,1)>. Que la Navegante te guíe en tu viaje."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_140",
+      "hash": "25801B50B65BCCC5",
+      "target": "Saludos, <if(gnum4,señora,señor)>. Este es el mostrador para pasajeros con destino a Gridania."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_141",
+      "hash": "14904CBEAD45532A",
+      "target": "Un placer atenderle de nuevo, <if(gnum4,señora,señor)>. ¿Está <if(gnum4,lista,listo)> para embarcar en la aeronave a Gridania?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q3_000_1",
+      "hash": "666CFF0935CF9B94",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A3_000_1",
+      "hash": "A6ED70A8FAAEA029",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A3_000_2",
+      "hash": "1031A39888B33BFD",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_145",
+      "hash": "46D51F1A90697581",
+      "target": "Corrrecto, <if(gnum4,señora,señor)>. Con gusto le atenderé cuando lo esté."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q4_000_1",
+      "hash": "F38A09471E9B8635",
+      "target": "¿Subir a la aeronave?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A4_000_1",
+      "hash": "C8DAA148B33943F1",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A4_000_2",
+      "hash": "E54FFA8AC0CBC718",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_146",
+      "hash": "63C078D4E57E49E2",
+      "target": "¿Desea salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q8_000_1",
+      "hash": "935B95BD4FD5302C",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A8_000_1",
+      "hash": "592419CE1665488F",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A8_000_2",
+      "hash": "1317F90E1B029027",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_100_146",
+      "hash": "70A36409213272F9",
+      "target": "Le deseamos un agradable viaje."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_000_147",
+      "hash": "E5C6FEA27351734E",
+      "target": "¿Está <if(gnum4,lista,listo)> para partir, <if(gnum4,señora,señor)>? La aeronave con destino a Gridania saldrá en breve."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q9_000_1",
+      "hash": "E5A09CACA2A53EEE",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A9_000_1",
+      "hash": "DF2D46DF2216C3C8",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A9_000_2",
+      "hash": "86FA451AC96FABCA",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_LNOPHLO_100_147",
+      "hash": "42A9A716B2BFF5FC",
+      "target": "Corrrecto, <if(gnum4,señora,señor)>. Con gusto le atenderé cuando lo esté."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_150",
+      "hash": "1CADC7EAC828BD39",
+      "target": "¡Ah, usted debe de ser <if(gnum4,la emisaria,el emisario)> de Ul'dah! Bienvenid<if(gnum4,a,o)> a Gridania, <if(gnum4,señora,señor)>. La Gran Vidente aguarda su llegada."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_Q10_000_1",
+      "hash": "D8F3571DCF9767F2",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A10_000_1",
+      "hash": "31CDC900DF6EB4C0",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_A10_000_2",
+      "hash": "5148322297641B2F",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_CABINCREW_000_151",
+      "hash": "AAFFDEF80CD9656E",
+      "target": "Avíseme si necesita cualquier cosa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SERPENT_000_160",
+      "hash": "98081616F4994312",
+      "target": "Saludos, <if(gnum4,buena señora,buen señor)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SERPENT_000_161",
+      "hash": "E8A81B46551746EA",
+      "target": "Usted es <if(gnum4,la emisaria,el emisario)> de Ul'dah, ¿no es así? He recibido instrucciones de ayudarle."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SERPENT_000_162",
+      "hash": "866A3C648B826C09",
+      "target": "Le ruego que se adentre en el casco de la ciudad y se identifique ante la conjuradora del Altar de Nophica. Ella le franqueará el paso al Estrado del Loto, donde aguarda la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SERPENT_000_165",
+      "hash": "45297ED72353CB9E",
+      "target": "Le ruego que se adentre en el casco de la ciudad y se identifique ante la conjuradora del Altar de Nophica. Ella le franqueará el paso al Estrado del Loto, donde aguarda la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MONK_000_170",
+      "hash": "78E0FBCBDAA999F3",
+      "target": "¿Es usted <if(gnum4,la emisaria,el emisario)> de Ul'dah? Le ruego que me disculpe, <if(gnum4,señora,señor)>, pero ¿podría inspeccionar la misiva que porta?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_MONK_000_171",
+      "hash": "D11C47FC95E96BFF",
+      "target": "En efecto, este es el sello del comandante supremo de las Llamas Inmortales. Acompáñeme, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900110_KANESENNA",
+      "hash": "A72E223EE1B03B62",
+      "target": "Así que usted es <if(gnum4,la emisaria,el emisario)> de Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900120_KANESENNA",
+      "hash": "2D6D8B82E3249CC5",
+      "target": "En nombre de nuestra hermosa nación, le doy la bienvenida."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900130_KANESENNA",
+      "hash": "B6021EACA4D5A023",
+      "target": "Acompáñeme, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900140_KANESENNA",
+      "hash": "AA7B70DA510F877D",
+      "target": "Permítame presentarme."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900150_KANESENNA",
+      "hash": "9CBFA902985E9D3C",
+      "target": "Soy Kan-E-Senna, Gran Vidente de Gridania y líder de la Orden de la Doble Víbora, la Gran Compañía de nuestra nación."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900160_KANESENNA",
+      "hash": "4A83A58C8E95899D",
+      "target": "Tengo entendido que trae un mensaje del General de las Llamas."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900170_KANESENNA",
+      "hash": "3DB66F30E35A897D",
+      "target": "Pero... antes de que empiece, ¿me permite contemplar su rostro más de cerca?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900180_KANESENNA",
+      "hash": "6E7A6C776D490D41",
+      "target": "Disculpe. Me trae a la memoria a alguien que conocí en otro tiempo─un alma valiente y noble."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_900190_KANESENNA",
+      "hash": "F52CAE714F3C6916",
+      "target": "Mas venga, volvamos al asunto que nos ocupa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_180",
+      "hash": "F3F852A1831C043B",
+      "target": "Un acto conmemorativo por los caídos de Carteneau..."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_181",
+      "hash": "B09E08DF4C27556D",
+      "target": "Dígame, <if(gnum4,aventurera,aventurero)>... ¿qué sabe de nuestro conflicto con el Imperio?"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_182",
+      "hash": "18BD100DFB210C0E",
+      "target": "Al parecer, mis homólogos le relataron la historia con cierto detalle. Eso está bien."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_183",
+      "hash": "AF528BCF95066424",
+      "target": "¿Hm? ¿Un mensaje de la Almirante? ...¿Que un lobo ha estado husmeando por sus establos, dice? Ya veo. En fin, con gusto le brindaré el consejo que esté en mi mano."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_184",
+      "hash": "404DAD2DE17EA930",
+      "target": "Pero antes, amig<if(gnum4,a,o)> de mi amiga, quisiera contarle más sobre la amenaza garleana."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_185",
+      "hash": "856F3FBA2F64DEE0",
+      "target": "Durante la mayor parte de su historia, Garlemald ni siquiera figuraba entre las naciones más influyentes de Ilsabard, el continente septentrional. Mas sus innovaciones en el campo de la magitek, hace unos cincuenta años, la sacaron de la oscuridad."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_186",
+      "hash": "9BA0DAD0FAA68F6C",
+      "target": "Envalentonada por esta tecnología, se lanzó a subyugar a sus vecinos, absorbiendo con presteza a cada uno en su territorio en constante expansión. Y cuando todo Ilsabard estuvo en su poder, volvió su mirada voraz hacia Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_187",
+      "hash": "9EB15C64460123B6",
+      "target": "Mas la transformación de Garlemald no se debió solo a la magitek. Su éxito debe mucho al liderazgo consumado de su primer y actual emperador."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_188",
+      "hash": "E9F1556ADC1DDFA4",
+      "target": "Solus zos Galvus: el hombre que construyó un imperio en el curso de su propia vida. Mas ha vivido largos años, y tras más de ochenta inviernos se dice que se ha vuelto frágil y cada vez más propenso a la enfermedad."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_189",
+      "hash": "DAAAD1911BA58DE9",
+      "target": "Si hemos de creer los rumores, la cuestión de la sucesión ha desestabilizado la corte imperial. Ello explicaría la relativa inactividad del Imperio en los últimos años, que nos ha dado un tiempo muy necesario para reconstruir."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_190",
+      "hash": "C745D4362DE7F4B0",
+      "target": "Mas no podemos permitirnos bajar la guardia, pues Garlemald aún mantiene presencia en Eorzea, en la forma de la XIV Legión Imperial."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_191",
+      "hash": "BFB3F7E631692D6F",
+      "target": "Al mando de esta gran hueste está el legado Gaius van Baelsar, un hombre cuyas ambiciones nos son bien conocidas. Mientras respire aire de Eorzea, ninguno de nosotros dormirá tranquilo."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_192",
+      "hash": "A24403178F741993",
+      "target": "La Calamidad causó tal devastación en el reino que bastante hemos tenido con curar nuestras heridas, no digamos ya reconstruir nuestras defensas. Dicho llanamente: no tenemos fuerzas para repeler al Imperio."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_193",
+      "hash": "9F84493CA357D00E",
+      "target": "Para colmo de males, las tribus bestiales siguen invocando a sus primigenios, cuya sola existencia es una plaga para estas tierras."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_194",
+      "hash": "15BB040F3347641A",
+      "target": "Cada nación está acosada por su propio problema de primigenios; ninguna tiene recursos para mirar más allá de sus fronteras."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_195",
+      "hash": "CC92923460B8E84C",
+      "target": "La Almirante desea mi consejo respecto a cierto lobo descarado."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_196",
+      "hash": "4021B214D67AFF73",
+      "target": "Quiere decirme que el Imperio podría reanudar pronto su avance."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_197",
+      "hash": "74815E5E641C368F",
+      "target": "Aunque los primigenios suponen una amenaza innegable para nuestra supervivencia, la que plantean los garleanos es mayor aún. Está claro que ninguna nación puede ya permitirse pensar solo en lo que ocurre dentro de sus fronteras."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_198",
+      "hash": "C14DC1A753BE773B",
+      "target": "Se avecina una tormenta. Si hemos de capearla, será menester unirnos una vez más. Un acto conmemorativo podría reavivar el espíritu de unidad que unió a los pueblos de Eorzea la última vez que el Imperio amenazó nuestra libertad."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_199",
+      "hash": "5A1E3E678CA6D6A8",
+      "target": "El General de las Llamas fue sabio al hacer su propuesta, y la apruebo de todo corazón. Se harán las disposiciones necesarias para un acto aquí en Gridania."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_200",
+      "hash": "19A618D163962633",
+      "target": "Su labor aquí ha concluido, amig<if(gnum4,a,o)> mí<if(gnum4,a,o)>. Enviaré mi respuesta al General de las Llamas de inmediato."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_KANESENNA_000_201",
+      "hash": "0C72346A6248BBFA",
+      "target": "Le agradezco su visita. Que los Doce le lleven a salvo a casa."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_00",
+      "hash": "ABB40BF158DCF218",
+      "target": "Raubahn se dispone a confiarte una tarea de suma importancia."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_01",
+      "hash": "B2F12B035CE7AB4E",
+      "target": "Nombrándote su emisari<if(gnum4,a,o)> personal, Raubahn te pide que lleves una misiva a los otros dos líderes de la Alianza Eorzea. Para facilitarte el viaje, te concede un pase de aeronave que te permitirá desplazarte por aire entre las tres naciones aliadas. Antes de dirigirte al aeródromo, no dejes de preguntar a Momodi qué te aguarda más allá de los desiertos de Thanalan."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_02",
+      "hash": "54F217A82488C2BB",
+      "target": "Además de Ul'dah, la Alianza Eorzea comprende las ciudades-estado de Gridania y Limsa Lominsa. Cuando hayas hecho los últimos preparativos para el viaje, toma el Montacargas del Pozo hasta el aeródromo y habla con Elyenora en el vestíbulo de entrada."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_03",
+      "hash": "E9AA211535825425",
+      "target": "Ya estás <if(gnum4,lista,listo)> para emprender la primera etapa de tu viaje, que te llevará a Limsa Lominsa. Dirígete a la zona de embarque y espera la salida."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_04",
+      "hash": "311753D6AADB742E",
+      "target": "Tras llegar <if(gnum4,sana y salva,sano y salvo)> a Limsa Lominsa, ahora debes solicitar audiencia con la Almirante. Pide ayuda al guardia de honor del Maelstrom."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_05",
+      "hash": "0CCF6BFE8179BA45",
+      "target": "La Almirante te espera en su sala de mando, en el Puente. Toma el Montacargas del Cuervo hasta la Sala del Baluarte y muestra la misiva de Raubahn a Zanthael, ante el Montacargas de la Almirante, para que te dejen pasar."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_06",
+      "hash": "CF02A35287A72AA5",
+      "target": "La Almirante Bloefhiswyn se muestra receptiva a la propuesta detallada en la misiva de Raubahn. Al parecer, el Imperio Garleano sigue suponiendo una grave amenaza para Eorzea, con la XIV Legión Imperial, al mando del legado Gaius van Baelsar, firmemente atrincherada en las regiones fronterizas. Concluido con éxito tu cometido en Limsa Lominsa, dirígete al aeródromo y habla con L'nophlo."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_07",
+      "hash": "FC1A11E8BB99A543",
+      "target": "Ya estás list<if(gnum4,a,o)> para emprender la segunda etapa de tu viaje, que te llevará a Gridania. Dirígete a la zona de embarque y espera la salida."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_08",
+      "hash": "EEB020A2BCBA930D",
+      "target": "Tras llegar <if(gnum4,sana y salva,sano y salvo)> a Gridania, ahora debes solicitar audiencia con la Gran Vidente. Pide ayuda al guardia de honor de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_09",
+      "hash": "863C1CF15C8EF11A",
+      "target": "La Gran Vidente te espera en el Estrado del Loto. Dirígete al Altar de Nophica, en la Vieja Gridania, y muestra la misiva de Raubahn a la conjuradora silenciosa para que te dejen pasar."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SEQ_10",
+      "hash": "B4FF2C9FA60AB472",
+      "target": "Tras transmitir el mensaje de Raubahn a los líderes de Limsa Lominsa y Gridania, has cumplido tu cometido como emisari<if(gnum4,a,o)> del General de las Llamas, y de paso has conocido las diversas amenazas a las que se enfrenta Eorzea. Ante la inmensidad de las fuerzas en juego, no puedes evitar preguntarte qué contribución significativa podría hacer <if(gnum4,una sola aventurera,un solo aventurero)> a la preservación del reino. Quizá la respuesta se te revele en los días venideros."
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_00",
+      "hash": "37863D7D3C55012D",
+      "target": "Hablar con Momodi"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_01",
+      "hash": "8DB9B0878EFF3E53",
+      "target": "Hablar con Elyenora en el aeródromo"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_02",
+      "hash": "6C09FA4307F5C5C4",
+      "target": "Subir a la aeronave"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_03",
+      "hash": "6F04CD65D94C68B6",
+      "target": "Hablar con el guardia de honor del Maelstrom"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_04",
+      "hash": "AE0AB99540E8D06D",
+      "target": "Mostrar la misiva de Raubahn a Zanthael en la Sala del Baluarte"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_05",
+      "hash": "F2FEECFE21FE3095",
+      "target": "Hablar con L'nophlo en el aeródromo"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_06",
+      "hash": "1163691A40992FF9",
+      "target": "Subir a la aeronave"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_07",
+      "hash": "0229257EB6099935",
+      "target": "Hablar con el guardia de honor de la Doble Víbora"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_TODO_08",
+      "hash": "DABDCD6A5FEB6205",
+      "target": "Mostrar la misiva de Raubahn a la conjuradora silenciosa en el Altar de Nophica"
+    },
+    {
+      "gameKey": "quest/005/ManWil200_00528#TEXT_MANWIL200_00528_SYSTEM_000_300",
+      "hash": "D097AA2D6C2DE2C9",
+      "target": "Ya puedes usar las rutas de aeronaves que conectan las tres naciones. Antes de subir a una aeronave, debes pagar la tarifa correspondiente en gil."
+    }
+  ]
+}

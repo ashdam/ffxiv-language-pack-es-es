@@ -1,0 +1,52 @@
+{
+  "conversation": "quest/014/GaiUse305_01446",
+  "questName": "Revolution",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_00",
+      "hash": "23FA0E7BDBA0D7FB",
+      "target": "Swift tiene un mensaje para ti de parte del general Raubahn."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_01",
+      "hash": "C81B7FB20AB9A3E0",
+      "target": "El general Raubahn te ha convocado a una reunión privada en la Cámara Fragante, en la que desea comentar los resultados de tu investigación y de la suya. Alphinaud ya ha sido avisado y te esperará fuera. Dirígete al Paseo Real y habla con Bartholomew."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SEQ_02",
+      "hash": "0887338D6A61C81A",
+      "target": "Hay hombres y mujeres que no dudarán en prender fuego al mundo en su afán de poder. Teledji Adeledji es uno de ellos: orquestó el levantamiento de los refugiados desde el principio. El general Raubahn y la sultana creen que pretende aprovechar el caos para hacerse con el control de la Llanura de Carteneau, donde se ha descubierto una creación allagana no muy distinta del Arma Ultima. Si alguien lograra dominar el poder de esa reliquia, tendría fuerza para someter a toda Eorzea... o eso se teme. Sin embargo, pese a haber descubierto las maquinaciones de Teledji Adeledji, parece que tus aliados aún no están listos para actuar contra él..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_TODO_00",
+      "hash": "17FA7905B8F23B12",
+      "target": "Hablar con Bartholomew en el Paseo Real"
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_000",
+      "hash": "47ED27A744F3FD86",
+      "target": "El General de las Llamas dejó dicho que se dirigiera a la Cámara Fragante en cuanto regresara. Desea tratar sus recientes descubrimientos, así como los resultados de nuestra propia investigación."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_001",
+      "hash": "4E2ECD947B679C1C",
+      "target": "A maese Alphinaud ya se le ha informado y debería estar esperándole fuera. Diríjase al Paseo Real cuanto antes y hable con Bartholomew."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_SWIFT_000_010",
+      "hash": "74119C2C854B44E8",
+      "target": "La sultana también asistirá. Le ruego que no haga esperar a Su Alteza."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_ALPHINAUD_000_015",
+      "hash": "32DF2AA72F305F39",
+      "target": "Excelente trabajo, <split(<string(gstr1)>, ,1)>. La información que nos trajiste me ayudó a persuadir al general Raubahn de convocar esta reunión. Quizá ahora podamos hablar de las cosas con franqueza y honestidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse305_01446#TEXT_GAIUSE305_01446_BARTHOLOMEW_000_020",
+      "hash": "211309DEC4A9927A",
+      "target": "Le esperábamos, <if(gnum4,señora,señor)>. Pase adentro, por favor."
+    }
+  ]
+}

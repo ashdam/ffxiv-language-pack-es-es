@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb407_00863",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_00", "hash": "49A8D15954953ECB", "target": "La sargento Swygrael es una mujer de muchos talentos, como descubriste cierto día memorable. <if([gnum11<12],<if([gnum11<4],Esta hermosa noche,Esta hermosa mañana)>,<if([gnum11<17],Este hermoso día,Esta hermosa tarde)>)>, intenta dominar otro más." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_01", "hash": "61FDA56A21007D12", "target": "La sargento Swygrael ha decidido que la mejor forma de combatir a los Kobold y sus monstruosos gólems es adiestrar un ejército de coeurls. La fogosa oficial te ha pedido ayuda con su plan trayendo uno de esos grandes felinos. Sal ahí fuera, debilita a un coeurl joven por los alrededores de la Ciudad Flotante de Nym y luego captúralo con un saco grande." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_02", "hash": "186FA6D976608CCB", "target": "Tienes un gran saco con un coeurl dentro, que no es ni el hábitat más seguro ni el más cómodo para esta majestuosa criatura. Dáselo a Swygrael." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SEQ_03", "hash": "FB88A889A533B1D9", "target": "Le entregas la bestia cautiva a la sargento, que no parece haber meditado demasiado bien esta idea. Por el amor de los Doce, no le digas que su madre tenía razón sobre ella." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_00", "hash": "4D77E4C35CB4B6B7", "target": "Debilitar a un coeurl joven y capturarlo con un saco" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_TODO_01", "hash": "BCBD7124B030B0C5", "target": "Dar el coeurl ensacado a Swygrael" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_000", "hash": "E3B95247D4434A64", "target": "Mi madre me dijo antes de que me hiciera a la mar: «Niña, eres fuerte como un caballo, rápida como una serpiente y valiente como toda la Compañía de Héroes junta, pero tu hermana es la lista de la familia. Deja que piensen otros»." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_001", "hash": "49B2B6B2A8F94AB5", "target": "Pero aquí no hay forma de dejarle nada a nadie más. Así que estaba <italic(1)>pensando<italic(0)>: ¿y si domamos unos coeurls? Harían trizas a los kobolds." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_002", "hash": "DBDFCEBC3E9E6632", "target": "Solo tienes que salir ahí fuera, agotar a un coeurl y atraparlo con este saco grande. Seguro que tienes <if(gnum4,las agallas,los redaños)> para eso." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_003", "hash": "8E73DE8B08B09275", "target": "Ay, a mí lo de atrapar no se me da. Me emborracho de emoción y, antes de darme cuenta, ya lo he matado o reventado. No, encanto, esto pide tu mano." },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_020", "hash": "3297651F04F337FA", "target": "¡Eh, <if(gnum4,guapa,guapo)>! ¿Ya me has atrapado el coeurl?" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_021", "hash": "FA322589219DE537", "target": "¡Muy bien, un coeurl de verdad! Espera a que dome a este bicho; los kobolds no van a saber qué los golpeó... ¡no lo sabrán porque estarán todos hechos pedazos!" },
+    { "gameKey": "quest/008/GaiUsb407_00863#TEXT_GAIUSB407_00863_SWYGRAEL_000_022", "hash": "F144E02EE89B98C9", "target": "Bueno, ¿y cómo voy a domar a este bicho? ¿Cómo se hace normalmente, te sientas encima de ellos o les hablas...?" }
+  ]
+}

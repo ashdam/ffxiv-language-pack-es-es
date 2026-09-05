@@ -1,0 +1,15 @@
+{
+  "conversation": "leve/CraftLeveClient",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_TITLE", "hash": "FE5385762FEC784B", "target": "¿Entregar más objetos?" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_0", "hash": "183007374C89F058", "target": "Sí." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_1", "hash": "12436ED4C4536E05", "target": "No, dar el encargo por terminado." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_ADDITIONAL_TRADE_SELECTION_2", "hash": "873FBDFFD9CC1A95", "target": "Decidirlo más tarde." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_SYSTEM_NO_ITEM", "hash": "1597D00EB06A8821", "target": "No hay suficientes objetos para la entrega." },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_TITLE", "hash": "0895A84ADA3A4ED4", "target": "¿Dar el encargo por terminado sin entregar más objetos?" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_YES", "hash": "78BA98AC15F610C4", "target": "Sí" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_CONFIRM_CANCEL_ADDITIONAL_TRADE_NO", "hash": "278244BCE1E3FAF2", "target": "No" },
+    { "gameKey": "leve/CraftLeveClient#TEXT_CRAFTLEVECLIENT_TALK_ADD_REWARD", "hash": "DD5AC240D4196D05", "target": "La entrega incluía <if([lnum1==1],uno o más objetos HQ,<if(lnum1,<if([lnum1<=10],<switch(lnum1,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum1)>)>,<num(lnum1)>)> tipos de objetos HQ)>. La recompensa aumenta un <num(lnum2)>%." }
+  ]
+}

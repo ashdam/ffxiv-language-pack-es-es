@@ -1,0 +1,32 @@
+{
+  "conversation": "quest/002/ClsGla011_00285",
+  "questName": "Way of the Gladiator",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SEQ_00", "hash": "0D69045A3C1EDD0D", "target": "Lulutsu quiere que reafirmes tu deseo de unirte al Gremio de Gladiadores." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SEQ_01", "hash": "91BE470F23BA2B6C", "target": "Lulutsu te ha pedido que hables con la Primera Espada Mylla, cuya aprobación debes obtener si deseas unirte al gremio." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SEQ_02", "hash": "172A56726666DC82", "target": "Convencida de que tienes la fuerza necesaria para vivir por la espada, la maestra de gremio te provee de un arma desgastada. Equípate la hoja y habla de nuevo con ella para comenzar tu adiestramiento." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_TODO_00", "hash": "26CFB9E45FFF8198", "target": "Hablar con la Primera Espada Mylla" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_LULUTSU_000_1", "hash": "11086A08DBC31F52", "target": "¿Qué va a ser? ¿Se alzará por encima de la masa e inscribirá su nombre en la leyenda, o se resignará a la mediocridad y morirá en el olvido?" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_LULUTSU_000_2", "hash": "19138FC8781CF26C", "target": "Vaya, así que va a ser muerte en el olvido..." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_LULUTSU_000_3", "hash": "E9F6B0CF9292864F", "target": "Bueno, si recobra el juicio, puede hablar conmigo en cualquier momento para continuar con el proceso de inscripción." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_LULUTSU_000_4", "hash": "88A451FDC054581F", "target": "Una decisión de la que no se arrepentirá. Un momento... ¡Abrid paso a <string(gstr1)>! ¡Carne fresca!" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_LULUTSU_000_5", "hash": "FAD21F55101F78D6", "target": "Ahora bien, antes de que su inscripción pueda considerarse completa, debe presentarse ante la Primera Espada Mylla. Búsquela y obtenga su aprobación." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_10", "hash": "9CCFAA14A8FC2004", "target": "Sí, oí a Lulutsu. Así que tú eres <string(gstr1)>. Es un nombre bueno y fuerte." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_11", "hash": "268ADF1B3D8A5C98", "target": "En nombre del Gremio de Gladiadores, permíteme darte la bienvenida. Soy Mylla, la maestra de este gremio." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_12", "hash": "99A6E2BE620221FD", "target": "Así que deseas estudiar nuestras artes. Supongo que tienes tus razones para elegir la espada por encima de todas las demás armas. Quizá creas que es la más fácil de aprender." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_15", "hash": "070569C838BE77FF", "target": "La espada es un arma sencilla. Pero manejar bien una hoja es cualquier cosa menos sencillo." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_16", "hash": "5B060A53594ED074", "target": "Por cada campeón del Coliseo surgido de nuestras filas, ha habido incontables decepciones que jamás alcanzaron la grandeza." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_17", "hash": "B69922C9FDA1F43C", "target": "Tenlo presente antes de responderme, <split(<string(gstr1)>, ,1)>, pues no hago esta pregunta a la ligera: ¿tienes la fuerza para vivir por la espada y, si tal es tu destino, morir por ella?" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_Q2_000_1", "hash": "4C9380253E473EE8", "target": "¿Tienes la fuerza para vivir por la espada?" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_A2_000_1", "hash": "07647B99ECF581D9", "target": "Sí" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_A2_000_2", "hash": "9FA082DFC949F856", "target": "No" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_20", "hash": "B8F76904E6280EA5", "target": "Entonces quizá tu camino se encuentre en otra parte. Si algún día te trae de vuelta a nosotros, podremos volver a hablar de tu futuro." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_22", "hash": "E0DB5147E8620273", "target": "¡Entonces bienvenid<if(gnum4,a,o)> a tu nuevo hogar, <if(gnum4,gladiadora,gladiador)>!" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_23", "hash": "27DAC017F152FA3D", "target": "Toma esta espada. Hay muchas como ella, pero esta ahora es tuya." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_MYLLA_000_24", "hash": "8F1EFD9220B1501D", "target": "Considérala un regalo, si quieres. ¡Y ahora llévala al cinto como hago yo y demuéstrame que estás list<if(gnum4,a,o)> para comenzar tu adiestramiento!" },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_30", "hash": "AE669080E7DABCB4", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipando el arma que has recibido en esta misión." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_31", "hash": "EDA8FA2108E0195B", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permitirán registrar y guardar tu equipo. Después podrás usarlos para alternar entre clases al instante, sin necesidad de equipar armas o equipo manualmente." },
+    { "gameKey": "quest/002/ClsGla011_00285#TEXT_CLSGLA011_00285_SYSTEM_000_32", "hash": "2D7B5A3705999EB8", "target": "El botón de la interfaz de Gear Set se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
+  ]
+}

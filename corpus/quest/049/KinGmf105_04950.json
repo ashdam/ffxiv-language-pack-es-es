@@ -1,0 +1,495 @@
+{
+  "conversation": "quest/049/KinGmf105_04950",
+  "questName": "In Serenity and Sorrow",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_SEQ_00", "hash": "D212BB7C69E63C58", "target": "G'raha Tia quiere dar con el Perpetuo atribulado." },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_00", "hash": "6A34DDFA4635EE89", "target": "Buscar al hombre de cabello rubio" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_01", "hash": "777AC2D66DC9F418", "target": "Otear el lugar indicado y derrotar al monstruo para obtener el stolen engagement ring" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_02", "hash": "159BA61F63B51067", "target": "Entregar el stolen engagement ring al hombre de cabello rubio" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_03", "hash": "A8ECEFB186C1290F", "target": "Hablar con el gondolero" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_04", "hash": "D12992B3ACFC4B03", "target": "Hablar con G'raha Tia" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_05", "hash": "61F877A2B4FCFD99", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_06", "hash": "999ACD9F8DD29A6F", "target": "Canalizar éter en las unidades de control deterioradas" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_07", "hash": "B6051D672A3A489E", "target": "Hablar con Cahciua" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_08", "hash": "94AA86B83F122B1F", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_TODO_09", "hash": "6815A42B2D356FC4", "target": "Volver a hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_001",
+      "hash": "6D6C2D1C12DF5C4A",
+      "target": "No puedo decir que sepa exactamente cómo se comportan los Perpetuos, pero espero que nuestro hombre no haya ido muy lejos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_002",
+      "hash": "0C15A04CE4C74749",
+      "target": "Separémonos para buscarlo. Es un Eldite de pelo rubio."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_010",
+      "hash": "174F8874F3CF0952",
+      "target": "Que los dioses me fulminen... Nos reencontramos después de cien años, y va y pasa esto..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_011",
+      "hash": "5438B71C1C74C26A",
+      "target": "¿S-Sí? Disculpe, pero tengo algo de prisa. Si quiere decirme algo, sea breve, por favor."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_012",
+      "hash": "E25F6AA904C6110E",
+      "target": "¿Su amigo se dio cuenta de que parecía preocupado y por eso me han estado buscando? ¡Qué almas tan bondadosas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_013",
+      "hash": "1522E05E9E1A0CEE",
+      "target": "He perdido algo importante─el anillo de compromiso destinado a mi amada. Me lo robó un engendro larguirucho con pinta de mono."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_014",
+      "hash": "C40A56DA54A94817",
+      "target": "Después de correr de aquí para allá logré localizar a la bestia en aquella plaza, pero no sé cómo recuperar el anillo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_015",
+      "hash": "1B7616F4608A786A",
+      "target": "Antes quizá me habría planteado pelear por él, pero, con la escasez de éter, el peligro es sencillamente excesivo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_016",
+      "hash": "31E53D79155979E1",
+      "target": "Si me abatieran y mi esencia se dispersara, es poco probable que me rehicieran en mucho tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_017",
+      "hash": "29CC18759E847F35",
+      "target": "No puedo arriesgarme. No después de que mi amada por fin haya vuelto a tomar forma tras cien años."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_018",
+      "hash": "30EE1D0F598890D2",
+      "target": "Aunque me duela, renunciaré al anillo, pero le agradezco su amable preocupación."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_020",
+      "hash": "06BC4EDE973C4BA7",
+      "target": "¡La maldita bestia sostenía en alto el anillo, burlándose de mí! Grrr, cómo me gustaría darle una lección... Un aviso: parece que le gustan los objetos brillantes. Si va a esa plaza, vigile sus pertenencias."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_040",
+      "hash": "1ED50F63029F8124",
+      "target": "Ah, es usted otra vez. ¿Quería algo más?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_041",
+      "hash": "217417DF63FDCB99",
+      "target": "¡Cielo santo, este es el anillo! ¿¡Se lo ha quitado a esa bestia!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_042",
+      "hash": "4EAE88A6B829D9FF",
+      "target": "¡Gracias! ¡Muchísimas gracias!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_043",
+      "hash": "B77E757D5EC81074",
+      "target": "Veo que ya has resuelto la situación, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_044",
+      "hash": "9836AB3D70E9DCAB",
+      "target": "Usted debe de ser el amigo que reparó en mí primero. También le debo mi gratitud."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_045",
+      "hash": "E9DF07BFEFA02D2B",
+      "target": "Me llamo Euclase. Pensaba pedirle matrimonio a mi amada con este anillo y, gracias a ustedes, podré hacerlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_046",
+      "hash": "92D3326E9430F026",
+      "target": "Vaya, vaya, eso sí que es motivo de alegría. ¿Ustedes dos se conocieron aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_047",
+      "hash": "2484297B53DCB9DD",
+      "target": "No, éramos novios en vida. Pero yo morí joven y ella no me siguió hasta décadas después."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_048",
+      "hash": "EA35BA5BDE7CF754",
+      "target": "Ni aun así pudimos reencontrarnos, porque la escasez de éter impide que se recree a todo el mundo. He tenido que esperar hasta hace nada para volver a verla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_049",
+      "hash": "14660C69DD597946",
+      "target": "Un reencuentro más allá de la muerte... Supongo que aquí algo así es posible."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_050",
+      "hash": "E503DB67BA6B9882",
+      "target": "Deduzco que acaban de llegar."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_051",
+      "hash": "21D1DAAE19062F84",
+      "target": "Aunque nuestros recuerdos se guardan en los terminales, ahora mismo menos de uno de cada diez tenemos forma."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_052",
+      "hash": "C0E4107A52B3A471",
+      "target": "Yo mismo me he reencarnado ya tres veces, y cada vez parece que somos menos. Es casi un milagro que mi amada y yo hayamos podido encontrarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_053",
+      "hash": "24950F32916BD08C",
+      "target": "Ya veo. Así las cosas, las posibilidades de coexistir con un conocido serían escasísimas─y más aún con un ser querido."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_054",
+      "hash": "26830A6CC56662FF",
+      "target": "Así es. Por eso decidí hacer lo que no logré hacer en vida: pedirle la mano."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_055",
+      "hash": "B1FDBA6973979921",
+      "target": "Gracias a su regulador, se libró de la tristeza de mi muerte. Aun así, no volvió a estar con otro hombre en toda su vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_056",
+      "hash": "F1FA6C551BD1AEBD",
+      "target": "Me contó que, aunque después no lograba recordarme, nunca pudo quitarse la sensación de que alguien muy querido había formado parte de su vida. La muy boba..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_057",
+      "hash": "4224729522D000C9",
+      "target": "El anillo encarna un anhelo que llevo mucho tiempo arrastrando, aunque sé de sobra que no es más que un constructo. Como estos cuerpos nuestros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_058",
+      "hash": "31B888CE89602A47",
+      "target": "...Una parte de mí se pregunta si esto está mal. Tampoco espero que existamos para siempre, ni siquiera de esta forma."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_059",
+      "hash": "694CB747BF3A05A8",
+      "target": "Pero poder estar de nuevo con la persona que amo y hacerla feliz... Por muy equivocado que esté este mundo, solo siento gratitud hacia la reina Sphene."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_060",
+      "hash": "0AE6E6BE0ECFD31A",
+      "target": "Y ahora, si me disculpan, voy a hacer esa proposición. Bastante la he hecho esperar ya."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_061",
+      "hash": "A074DE8573F99C72",
+      "target": "No es gran cosa, pero acéptenlo como muestra de mi agradecimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_062",
+      "hash": "B119D37930AD39C2",
+      "target": "¿Billetes?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_063",
+      "hash": "BBCB52E968C9EC46",
+      "target": "Para la góndola. Para que se mantenga el orden, aquí también hay que hacer las cosas como es debido. Muy propio de la reina Sphene, ¿no les parece?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_EUCLASE_000_064",
+      "hash": "6F99AC92AD5676C3",
+      "target": "Cuídense, amigos─¡y procuren no dejarse nada por hacer!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_065",
+      "hash": "E0EBCB56E55250E5",
+      "target": "Bueno, creo que ya va siendo hora de volver con los demás... pero ¿qué te parece si vamos en góndola?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_066",
+      "hash": "FF32BBFFB9D45CD7",
+      "target": "Imagino que ya no será posible una vez que apaguemos el terminal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_067",
+      "hash": "7CA3347982355C41",
+      "target": "Vamos, pues; busquemos una embarcación en el embarcadero."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_070",
+      "hash": "64BE44AC9429949E",
+      "target": "Ya he entregado los billetes. Aunque los barcos no son ninguna novedad para mí, ¡no puedo evitar cierta emoción!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GONDOLIER04950_000_080",
+      "hash": "649BE208696DE697",
+      "target": "Podemos zarpar cuando quieran. Cuidado con el hueco al subir."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_090",
+      "hash": "2F1CF73F3CA74799",
+      "target": "Ha estado bien volver a charlar contigo, amigo. Parece que hacía tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_091",
+      "hash": "DC649AA33F7F9ED7",
+      "target": "Después de conocer a Perpetuos como Euclase, siento que entiendo a Sphene un poco mejor."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_092",
+      "hash": "972234DD5ECFA7EB",
+      "target": "Cualquiera desearía para los suyos un futuro largo y feliz, y ella carga con ese deseo por todos sus súbditos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_093",
+      "hash": "598E91516677FE2B",
+      "target": "Pero, como dijo Krile, nosotros también tenemos gente a la que no podemos perder..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_094",
+      "hash": "1E8EA6231C2A72DA",
+      "target": "Vamos, <split(<string(gstr1)>, ,1)>. Podemos llegar a la fuente cruzando ese puente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_095",
+      "hash": "596FE09F7B62FEC1",
+      "target": "Ahora que lo miro de cerca, el reloj no tiene manecillas. Quizá porque aquí no hace falta llevar la cuenta del tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_100",
+      "hash": "F8F3AADAB74F466C",
+      "target": "¿Ya has terminado de hablar con la gente de aquí? Me encantaría oír tus impresiones."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_110",
+      "hash": "C77ADA4E3B2362A9",
+      "target": "Parece que Krile y Erenville siguen por ahí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_111",
+      "hash": "2D267F648E0DFB96",
+      "target": "Bueno, ¿qué tal? ¿Qué impresión te han dado los que has conocido?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_112",
+      "hash": "84F5F2D5ECAAAA55",
+      "target": "¡Ha estado genial! Estaban todos tan felices que hablar con ellos me ha hecho feliz a mí también."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_113",
+      "hash": "7F89482822C61025",
+      "target": "¿Y tú, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_114",
+      "hash": "E96563458923A4E5",
+      "target": "¿Unos novios reencontrados? ¡Eso es un milagro!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_115",
+      "hash": "A32A862351882AFA",
+      "target": "Milagro lo es, en cierto modo, pero el sistema se esfuerza por hacer posibles esos encuentros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_116",
+      "hash": "6E6B68B9DE081757",
+      "target": "Si te encuentras con alguien conocido, seguramente no sea por casualidad. Los terminales guardan datos sobre los anhelos no cumplidos y los usan para orquestar reencuentros como el de Euclase."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_117",
+      "hash": "617E5894E09E82EB",
+      "target": "Ya veo... Que los terminales puedan hacer eso es realmente impresionante. Pero hay una cosa que no entiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_118",
+      "hash": "ABF7652F5165D01E",
+      "target": "Según Euclase, su amada falleció décadas después que él y, sin embargo, parecían tener la misma edad."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_119",
+      "hash": "74A562FFA388F0B6",
+      "target": "Ah, sí. A la gente no se la recrea necesariamente tal y como estaba al morir."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_120",
+      "hash": "0FC5AD641346562D",
+      "target": "Sospecho que el aspecto de un Perpetuo refleja la época más feliz de su vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_121",
+      "hash": "CA5E7E79D5DA1A12",
+      "target": "¿Entonces contigo pasa lo mismo? Aunque no sabría decir qué edad tienes, con lo despacio que envejece tu gente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_122",
+      "hash": "B6E23DA7F20B04D2",
+      "target": "Si te soy sincera, no lo sé. He tenido tantas épocas felices que es difícil saber cuál es."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_123",
+      "hash": "1783749DE23D627B",
+      "target": "Soy insoportablemente curiosa. Ya sea la naturaleza o la tecnología, no puedo evitar querer saber más del mundo que me rodea."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_124",
+      "hash": "1FBB229658269A6F",
+      "target": "Se podría decir que descubrir es lo que me da alegría. Me hizo feliz en vida... y puede que haya sido una bendición después."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_125",
+      "hash": "CAB3D0A957083AF2",
+      "target": "Verás, los demás Perpetuos están contentos con lo que tienen aquí. No les entran ganas de marcharse."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_126",
+      "hash": "C289915FCB25A0BF",
+      "target": "Pero yo tenía tantas ganas de volver a ver el mundo que aprendí por mi cuenta a manejar un receptáculo y me aventuré fuera."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_127",
+      "hash": "4B768863253D6211",
+      "target": "¡Je, menuda rebelde estás hecha!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_128",
+      "hash": "9FA0F5F5FF19C451",
+      "target": "Bueno, ya basta de hablar de mí por ahora. Mientras esperamos a Krile y a Elene'shpya, tengo un favor que pediros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_129",
+      "hash": "36ED99A9E750501C",
+      "target": "Como habréis notado, casi ninguna fuente de aquí funciona. Y es que, pese a su aspecto reluciente, esta ciudad tiene siglos y está todo hecho una ruina."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_130",
+      "hash": "9ED89043E63C2EDA",
+      "target": "Por lo visto las fuentes daban espectáculos magníficos, y esperaba que pudiéramos volver a ponerlas en marcha."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_131",
+      "hash": "475A1A1EEC734D84",
+      "target": "Bastaría con darles a los controles una dosis de éter para restablecer los circuitos y encenderlas. Pero, siendo Perpetua, yo no puedo hacerlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_132",
+      "hash": "6A1D863CBBF20468",
+      "target": "Sé que es una petición egoísta, pero, al final, me gustaría regalarle el espectáculo a la gente de aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_133",
+      "hash": "3244C1636724BF48",
+      "target": "¡Déjanoslo a nosotros! ¡A mí también me encantaría ver el espectáculo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_134",
+      "hash": "7509A58475A0E2C2",
+      "target": "Gracias. Los controles están integrados en las farolas de alrededor. Si os ocupáis de unas cuantas cada uno, terminaréis en un santiamén."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_135",
+      "hash": "26CF0C76B3F3604F",
+      "target": "Cuando las fuentes estén arregladas, podemos recoger a Elene'shpya y a Krile e ir juntos al Hidroterminal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_136",
+      "hash": "783943D2BD052E67",
+      "target": "Así que ha llegado el momento... Venga, manos a la obra."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_140",
+      "hash": "6EA69A297E024DD0",
+      "target": "Este debe de ser el control."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_145",
+      "hash": "F867B43CE37D545A",
+      "target": "Parece piedra corriente, pero por dentro es electrope. Menudo lío."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_150",
+      "hash": "6C4FBB500C8B4188",
+      "target": "Dicen que los espectáculos de las fuentes son magníficos. Quizá impresionen incluso a mi conejito quisquilloso."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_170",
+      "hash": "D8BD27A45FB58882",
+      "target": "El espectáculo ha sido impresionante, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_175",
+      "hash": "4BCC182E0751EFD9",
+      "target": "Me llevo un recuerdo maravilloso. Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_KRILE_000_180",
+      "hash": "1F68EC8FA346857B",
+      "target": "Namikka parecía verdaderamente feliz..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_ERENVILLE_000_185",
+      "hash": "F73A3E1AAD6797E1",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_190",
+      "hash": "4C897010ACDD0517",
+      "target": "Solo para asegurarme, Cahciua─no vas a desaparecer cuando apaguemos este terminal, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_191",
+      "hash": "7D36FE367A0EDE5F",
+      "target": "Todavía no. Mis recuerdos están en el Aeroterminal, en la zona noroeste."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_ERENVILLE_000_192",
+      "hash": "FEDFE3260AC94DA2",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_193",
+      "hash": "EEE0FCE851DCD8F2",
+      "target": "Ya sabéis cómo manejar el terminal. Es el mismo procedimiento que con el control de la fuente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_194",
+      "hash": "45108898C88B0808",
+      "target": "Os dejo a vosotros decidir cuándo apagarlo. Al hacerlo, los Perpetuos de aquí se desvanecerán, junto con este hermoso paisaje."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_195",
+      "hash": "31162C389F6903B9",
+      "target": "Si aún queréis hablar con alguien o ver algo, mejor hacedlo antes."
+    },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_SYSTEM_000_196", "hash": "9D05F6C0F6695E1C", "target": "Una vez apagado el Hidroterminal, no será posible devolver la Ciudad de los Canales a su forma actual." },
+    { "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_SYSTEM_000_197", "hash": "42D81AB3EBFF18EA", "target": "¿Seguro que quieres apagar el terminal?" },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_GRAHATIA_000_200",
+      "hash": "7E8F61E33DBA55CA",
+      "target": "Me había hecho a la idea, pero borrar de verdad a los Perpetuos es... duro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_CAHCIUA_000_205",
+      "hash": "54AD31701378575D",
+      "target": "Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_KRILE_000_210",
+      "hash": "2E8EA1A648E08E19",
+      "target": "Este es el verdadero aspecto de la Memoria Viva..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_ERENVILLE_000_215",
+      "hash": "C938673AC06A8EAE",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_220",
+      "hash": "4EB9DE249E47558C",
+      "target": "Esto duele. Mentiría si dijera lo contrario."
+    },
+    {
+      "gameKey": "quest/049/KinGmf105_04950#TEXT_KINGMF105_04950_WUKLAMAT_000_221",
+      "hash": "0B9DD54BD78AC78E",
+      "target": "Pero ahora el único camino es hacia delante..."
+    }
+  ]
+}

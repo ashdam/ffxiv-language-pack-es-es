@@ -1,0 +1,692 @@
+{
+  "conversation": "quest/003/SubWil066_00320",
+  "questName": "Way Down in the Hole",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_1",
+      "hash": "9EDF4E91DBD70069",
+      "target": "¡Ah, <if(gnum4,la altruista aventurera,el altruista aventurero)>! Esperaba encontrarme con usted. ¿Por qué? ¡Porque hace poco llegó a mis oídos la noticia más fascinante y estoy deseando compartirla! ¿Me permite?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_2",
+      "hash": "785BF91DCCFF730A",
+      "target": "Corre el rumor de que hay una veta de mineral inmensa y sin explotar bajo las ruinas de Sil'dih."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_3",
+      "hash": "1D974481B542635F",
+      "target": "¡Pero eso no es todo! Por increíble que parezca, la Compañía ignora por completo su existencia. Y, mientras hablamos, un joven advenedizo ─un mercader hecho a sí mismo, y nada menos que de <italic(1)>Tiro de Piedra<italic(0)>─ se dispone a reclamarla!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_4",
+      "hash": "50E01C1C84BB005F",
+      "target": "El tipo se llama Wystan, y es un joven muy, <italic(1)>muy<italic(0)> ambicioso. No solo pretende hacerse con los derechos exclusivos de excavación, sino que dicen que su gran plan es usar su nueva fortuna para congraciarse con el Sacrario."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_5",
+      "hash": "141B716C24B97387",
+      "target": "Claro que los taumaturgos solo tienen en cuenta la opinión de los más ricos a la hora de redactar las leyes de Ul'dah. Si quiere que se oiga su voz, ha de estar dispuesto a pagar una fortuna."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_6",
+      "hash": "62D3512A82DBCDBF",
+      "target": "Una voz que siempre se escucha es la del señor Lolorito. Lleva mucho tiempo colmando de giles a los taumaturgos, y algunos afirman que urde nuevas leyes con la intención expresa de arruinar a sus competidores mientras protege sus propios intereses."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_7",
+      "hash": "238CF4CECE056D49",
+      "target": "Baste decir que, si Wystan cree que puede competir con gente como el Sindicato, le espera un duro despertar. Pero puede que ese momento aún quede un poco lejos. De momento, sigue adelante con sus planes y está reuniendo un equipo para inspeccionar el yacimiento."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_8",
+      "hash": "ED4B781209DDAD13",
+      "target": "Me dicen que ahora mismo está en el Cofre y el Ataúd, reclutando aventureros capaces para escoltar a sus prospectores."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ZUZUMEDA_000_9",
+      "hash": "1BBC4BE87029F3E8",
+      "target": "Warin dijo que buscaba trabajo. ¿Y si va a ver a Wystan y se ofrece voluntario para su expedición?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_15",
+      "hash": "76142403B332D72A",
+      "target": "¿Vienes a unirte? Lo siento, pero llegas tarde."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_16",
+      "hash": "8E19ADB16BC4DE12",
+      "target": "Unas Espadas de Latón que buscaban dinero extra se ofrecieron, y el equipo ya va camino de las ruinas."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_17",
+      "hash": "E72BA4B732075340",
+      "target": "Pero mira, sé que no es fácil encontrar trabajo hoy en día. Si te interesa, hay otra cosa que puedes hacer por mí."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_18",
+      "hash": "FA8520459B30CB62",
+      "target": "Hay unos niños ahí fuera... pequeños de Tiro de Piedra. Cuido de ellos cuando tengo un rato libre, así que se han acostumbrado a seguirme a todas partes, aunque les diga que no lo hagan."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_19",
+      "hash": "0261EA985D8D02B5",
+      "target": "Pero, entre supervisar la búsqueda de la veta y todo lo demás, ahora mismo apenas tengo tiempo ni de ir a la letrina, mucho menos de entretener a unos críos. ¿Puedes darles estas galletas de jengibre y convencerlos de que se vayan a casa por mí?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOA_000_30",
+      "hash": "D3C278FFF43E5F2E",
+      "target": "¡No pienso ir a ninguna parte, <if(gnum4,señora,señor)>! Además, tengo demasiada hambre para moverme, ¡así que tendrá que llevarme en brazos!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOA_000_31",
+      "hash": "7EF6EB6D0B046EAA",
+      "target": "¿¡Una <italic(1)>galleta<italic(0)>!? ...Bueno, si Wystan de verdad quiere que me vaya a casa, está bien. ¡Pero la próxima vez quiero dos!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOB_000_32",
+      "hash": "7D8DB53F0B4F2D75",
+      "target": "Me gusta jugar con Wystan. Se asegura de que nadie nos haga la vida imposible."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOB_000_33",
+      "hash": "6E36A5AD7046D1C5",
+      "target": "¿Wystan está preocupado por nosotros? Oh, no quiero que se preocupe. Soy una niña buena, así que me iré a casa."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOC_000_34",
+      "hash": "BA34A73EC24A2E78",
+      "target": "¡Pero Wystan siempre juega con nosotros! ¿Por qué no sale a jugar?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOC_000_35",
+      "hash": "20544176FF923670",
+      "target": "¡Hala, una galleta de jengibre! Mejor guardo un poco para mi hermano. ¡Ya sé... me voy a casa y me la como con él!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOD_000_36",
+      "hash": "2B1FC0BE2DAE84BF",
+      "target": "Wystan es bueno con nosotros. Me cae bien."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOD_000_37",
+      "hash": "1A6B63EE56BE9A32",
+      "target": "¿Esto es para mí? Me la quiero comer, pero también no, porque entonces se acabaría."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_KODOMOD_000_38",
+      "hash": "7063762FB5B790B8",
+      "target": "Dale las gracias a Wystan y... dile que siento haber estorbado."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_40",
+      "hash": "47D5F6742C0B6BA1",
+      "target": "Dales esas galletas a los niños y convéncelos de que se vayan a casa sin mí. Me aseguraré de que se te recompense por las molestias."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_50",
+      "hash": "C5E224E8BE7B4B44",
+      "target": "Gracias, aventurero. Ojalá pudiera hacer más. Tiro de Piedra no es lugar para un niño."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_51",
+      "hash": "7AC89A034204550D",
+      "target": "...No es que mi infancia fuera mucho más feliz. Nunca había comida suficiente, ni trabajo con que ganarla... pero desprecio de los poderosos y encumbrados, no faltaba."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_52",
+      "hash": "46DD7C4C2E30188D",
+      "target": "Recuerdo pensar que las cosas solo podían mejorar... Y ahora, tras la Calamidad y todo lo demás... que a los refugiados nos obliguen a vivir extramuros como malditos hombres bestia es una vergüenza."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_53",
+      "hash": "46D315D7A1F96D7F",
+      "target": "Dicen que con dinero suficiente aquí se pueden cambiar las leyes. ¡Así que voy a amasar una fortuna y hacer justamente eso!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_54",
+      "hash": "330E7823AC070437",
+      "target": "Compraré los derechos de excavación y montaré mi propio negocio minero. ¡Luego les daré a mis compañeros refugiados el trabajo que tanto ansían, y les pagaré con <italic(1)>justicia<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_55",
+      "hash": "CAF1CD7DC92BFF4D",
+      "target": "Las compañías mineras llevan demasiado tiempo lucrándose con nuestro sufrimiento. Pero su soberbia las ha vuelto complacientes... y eso nos brinda una oportunidad de oro."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_56",
+      "hash": "3CDC865EC363C7AB",
+      "target": "Y la aprovecharemos, aventurero... recuperaremos nuestra dignidad, y con ella nuestro lugar dentro de esas murallas."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_57",
+      "hash": "0F0F258550DD231B",
+      "target": "¡La hemos encontrado! ¡Hemos encontrado la veta! ¡Wystan, tiene que venir a verlo!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_58",
+      "hash": "CBD009A2B06A447C",
+      "target": "¿¡Ya!? ¡Increíble! ¡Partimos de inmediato!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_59",
+      "hash": "C01E7CB60E6F2001",
+      "target": "¡Deberías acompañarme, amigo mío! ¡Ven a ser testigo de cómo se hace la historia!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_TITLE",
+      "hash": "83280C17B5DBB88E",
+      "target": "El deber llama. ¿Deseas proceder con<br>“En lo hondo del pozo”?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_YES",
+      "hash": "2973C59A4F2D502D",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_INSTANCE_BATTLE_YESNO_NO",
+      "hash": "8E3AF9B80C6A5020",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_500",
+      "hash": "B53B62560BA39CD0",
+      "target": "¡Por las pelotas de Thal, chaval! ¿Una veta de mineral en mitad de una maldita <italic(1)>ciudad<italic(0)> en ruinas? ¡Serás idiota!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_501",
+      "hash": "D5DD747645B478C9",
+      "target": "¿Qué te creías que iba a pasar? ¿Que ibas a forrarte y a congraciarte con la Orden mientras los amos de Ul'dah miraban sin más? ¡<italic(1)>Nadie<italic(0)> se la juega al Sindicato!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_502",
+      "hash": "1939F2C33F6D7974",
+      "target": "\\<jadeo> \\<jadeo> ¿El... el Sindicato?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_503",
+      "hash": "1EC7ABB5D2608B00",
+      "target": "¡Ja! Por fin te ha calado, ¿eh?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_504",
+      "hash": "7749900C9BEA6E2A",
+      "target": "¡Vaya, mira esto! Parece que no <italic(1)>todos<italic(0)> tus amigos te han abandonado... ¡Qué suerte, chaval! ¡Ahora no tendrás que morir solo!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_000_505",
+      "hash": "D2B9F14CFF4F820A",
+      "target": "<colortype(547)>¡Oh, voz doliente de la creación! ¡Concede a esta humilde piedra un alma, para que despierte a la vida!<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_506",
+      "hash": "B3F80544EA62850B",
+      "target": "¿¡Quién anda soltando ese galimatías!? ¡Muéstrate!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BRASSSENTRY_000_507",
+      "hash": "A644B101CC751923",
+      "target": "¡Esto no era parte del plan! ¡Malditos infiernos! ¿¡Es que el señor Lolorito pretende matarnos a nosotros también!?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_QIB_TODO001",
+      "hash": "599ABD35AC9B8740",
+      "target": "¡Derrota al gólem de arcilla!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_BATTLETALK_01",
+      "hash": "25C01622E8B3097F",
+      "target": "Eres fuerte.<br>Pero ¿lo bastante para resistir <italic(1)>esto<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_BATTLETALK_02",
+      "hash": "69EFFC90880CAA33",
+      "target": "Sssí... ¡retuércete! ¡Retuércete en la Oscuridad eterna!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_BATTLETALK_03",
+      "hash": "FEEB2A86A268904B",
+      "target": "¡Imposible! ¡Jamás se había puesto al gólem en tal aprieto!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_000_600",
+      "hash": "AE029E6F5D347A17",
+      "target": "<colortype(547)>Que el gólem pudiera ser vencido...<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MASKEDMAGUS_000_601",
+      "hash": "25506BD341D3BEBE",
+      "target": "<colortype(547)><if(gnum4,Esa mujer,Ese hombre)> no es <if(gnum4,una aventurera corriente,un aventurero corriente)>.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_700",
+      "hash": "E5DECA139C3C97E7",
+      "target": "Maldita sea, parece que me he perdido toda la diversión."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_701",
+      "hash": "67BDC0FFFA24ED91",
+      "target": "Veo que esta vez no ha necesitado mi ayuda."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_800",
+      "hash": "C5C6B771E380EFF9",
+      "target": "Compondría una balada en su honor, pero me temo que no habría palabras que le hicieran justicia. Ni la mismísima Cantora de Ul'dah rivalizaría con su belleza."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ACTIVEGIRL_000_801",
+      "hash": "CDB963C70B6D97B4",
+      "target": "¡Ay, para ya!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_802",
+      "hash": "B59A23C394255A94",
+      "target": "A menudo he oído decir que la belleza de una flor puede mover a un hombre al amor y al anhelo, pero nunca lo creí de veras hasta que os conocí a vosotras, dos rosas del desierto."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_BURNTMERCHANT_000_803",
+      "hash": "FF355EF6B20CDD50",
+      "target": "Dicen que han atacado otra caravana más..."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MERCHANT2_000_804",
+      "hash": "6B5C6C84AEA546CA",
+      "target": "Sí, y el negocio lo está pagando. Malditos Amalj'aa... ¿Qué crees que los ha soliviantado?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_805",
+      "hash": "6386641202D221CF",
+      "target": "Otro asalto... y apuesto a que esa caravana transportaba cristales, igual que la última."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_806",
+      "hash": "9DFD87634D3531AC",
+      "target": "Si de verdad pretenden invocar a un primigenio, debemos actuar deprisa."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_ACTIVEGIRL_000_807",
+      "hash": "AB6734E19B66C81C",
+      "target": "¿Vienes, cariño?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_AGGRESSIVEGIRL_000_808",
+      "hash": "8571FFB8C4E7692B",
+      "target": "No harías esperar a una chica, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_809",
+      "hash": "6E63602DC4F638BC",
+      "target": "¡Ni pensarlo!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_810",
+      "hash": "993F3ED737E744AC",
+      "target": "Así que decidme, ¿en qué rincón de esta maravilla de ciudad os alojáis, encantadoras damas?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_811",
+      "hash": "E3D45DF5D1EB8B69",
+      "target": "A este paso, pronto el grano valdrá más que el oro."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_812",
+      "hash": "72EA169E92D286D7",
+      "target": "Fruto, sin duda, de unas cosechas insólitamente malas..."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_813",
+      "hash": "BC58D766BF03B2F0",
+      "target": "Y a <italic(1)>ti<italic(0)> te lo debemos, ¿no es así?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_814",
+      "hash": "3BE478AA3398CC40",
+      "target": "Sí, este debilitamiento del flujo etérico debe de estar ligado sin duda al descenso de Dalamud."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_815",
+      "hash": "EE4B4A52B45E43F4",
+      "target": "Y, por supuesto, a los primigenios."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_816",
+      "hash": "B1E92BDF3144F5CE",
+      "target": "Menudo embrollo. Pero no debemos perder la esperanza."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_817",
+      "hash": "24CD5BFE47AB24E2",
+      "target": "Louisoix sabrá qué hacer. Solo hemos de confiar en su juicio."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_818",
+      "hash": "49309028A85DE6E0",
+      "target": "Toda una maravilla del ingenio sharlayano... Es como si pudiera extender la mano y tocar el éter."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_819",
+      "hash": "DDC03AE051893263",
+      "target": "Hora de concentrarse... Se acabó el andar de picos pardos como antes. Los Herederos cuentan contigo."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_820",
+      "hash": "6AED782ADF700B0A",
+      "target": "Ten fe. Solo ten fe. Puedes hacerlo."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_821",
+      "hash": "5D6E29CDB1A458E8",
+      "target": "Mmm... Esta perturbación es reciente."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_822",
+      "hash": "D95B7FE9EE8430CA",
+      "target": "¿El Árbol del Sultán? Quizá Papashan sepa algo al respecto."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_900",
+      "hash": "2B6C90DE49507AC4",
+      "target": "Parece que le dieron una buena tunda. ¿Puede andar?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_901",
+      "hash": "15F6A620874E861A",
+      "target": "Soy yo. Llegué demasiado tarde. Nuestro hombre ya había abandonado el lugar. ¿El General? Muy bien. Estaré allí en breve."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_902",
+      "hash": "3F0BA018EBEE10AB",
+      "target": "Mis colegas se esforzaron mucho por darme los medios para detectar perturbaciones etéricas, pero, cada vez que encuentro una, usted parece estar en mitad de ella. Empiezo a preguntarme si no sería más sencillo limitarme a seguirle. Por desgracia, tengo asuntos en otra parte."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_903",
+      "hash": "A24CC1AEB85D7136",
+      "target": "Ande con pies de plomo, amigo mío. La trampa tan cuidadosamente urdida que ha desbaratado contaba sin duda con el visto bueno del señor Lolorito. Oí a las Espadas mencionarlo mientras huían. Créame si le digo que no es hombre con quien se pueda jugar."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_904",
+      "hash": "EF0F05844E338ED8",
+      "target": "Los enemigos de la sultana se envalentonan más cada día, y sospecho que cuentan con el apoyo de fuerzas externas."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_905",
+      "hash": "8C1CB199E8B62ADB",
+      "target": "Gracias. Si no hubieras aparecido, esos cabrones sin duda nos habrían masacrado a todos."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_906",
+      "hash": "8FD81783A587382D",
+      "target": "Me gustaría hablar más contigo, pero no es seguro que nos entretengamos aquí."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_907",
+      "hash": "95C4913D46F9037F",
+      "target": "Búscame luego en el Cofre y el Ataúd. Hasta entonces, ten cuidado."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_908",
+      "hash": "88CB272973D79F57",
+      "target": "Acompañaré a Wystan y a sus hombres. Necesitan protección... y yo necesito más información."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_909",
+      "hash": "E1BC5A4220659CE6",
+      "target": "Ah, pero ¿dónde están mis modales? Aún no me he presentado como es debido. Soy Thancred, un humilde erudito que estudia el flujo del éter en Thanalan."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_910",
+      "hash": "ADAD1E21E97640AE",
+      "target": "Es un honor y un privilegio conocerle. Espero que la próxima vez que nos veamos sea en circunstancias más propicias. ¡Hasta la vista!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_911",
+      "hash": "171329B710A6D639",
+      "target": "...Ah. Espere un momento. Se me ocurre que quizá ya nos hayamos..."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_THANCRED_000_912",
+      "hash": "713423451A46AF13",
+      "target": "No importa. ¡Que le vaya bien!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_90",
+      "hash": "8CD63445A69FCA1E",
+      "target": "Que los Doce te bendigan, amigo mío. Arriesgaste tu vida para salvar la nuestra."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_91",
+      "hash": "5E6C8BF240BD2D5A",
+      "target": "Traicionado por mis propios guardias... Dioses, fui un necio al confiar en esos hombres."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_92",
+      "hash": "8A65162DD946ABAD",
+      "target": "Lolorito es <italic(1)>dueño<italic(0)> de las malditas Espadas de Latón. Debí cuestionar sus motivos desde el principio."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_93",
+      "hash": "06F0445C15AD0681",
+      "target": "Aun así, ¡difícilmente podría haber previsto que el hombre más rico de Ul'dah me quisiera <italic(1)>muerto<italic(0)> por el atroz crimen de intentar cambiar la ley! ¡Solo soy un mercader, por los dioses!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_94",
+      "hash": "8D5FBAEFE669BC5C",
+      "target": "¡Ese cabrón despiadado! ¿Y qué hay de esa monstruosidad? ¡Eran sus <italic(1)>propios hombres<italic(0)>! ¡Es de no creérselo!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_95",
+      "hash": "A4ABC3A907268AFF",
+      "target": "Bueno, se acabó. Estoy acabado. Como me quede en Ul'dah un poco más, soy hombre muerto."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_96",
+      "hash": "DF17C70DE03F4085",
+      "target": "Mis socios, mis amigos... dioses, hasta los <italic(1)>niños<italic(0)> podrían correr peligro si no desaparezco. Y tú... maldita sea, si Lolorito se entera de que estás implicado, serás el siguiente."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_97",
+      "hash": "45D287D7767B42A1",
+      "target": "Hablaré con los demás y me aseguraré de que tu parte en esto siga en secreto. Más allá de eso, no sé qué aconsejarte... Quizá deberías buscar el consejo de la señora Momodi."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_98",
+      "hash": "379212DCFF246E3E",
+      "target": "Ha ayudado a incontables aventureros en su tiempo. Puede que ella sepa qué hacer."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_99",
+      "hash": "7CA1EA1D0C96F13B",
+      "target": "Vete ya, deprisa, amigo mío. Puede que los espías de Lolorito estén vigilando."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_110",
+      "hash": "D815C4AE49620794",
+      "target": "Tranquilícese, <split(<string(gstr1)>, ,1)>. No tiene nada de qué preocuparse. Nadie parece saber que estuvo en las ruinas."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_111",
+      "hash": "950C668EFE101A7D",
+      "target": "Wystan, en cambio, es ahora un paria... por aquí es tan bienvenido como un lobo rabioso, el pobre diablo. Baste decir que ese muchacho se buscó la ira de quien no debía."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_112",
+      "hash": "9204353D25868385",
+      "target": "El <italic(1)>señor<italic(0)> Lolorito: presidente de la Compañía Comercial de Aldenard Oriental, generoso benefactor de la Orden de Nald'thal <italic(1)>y<italic(0)> miembro del Sindicato."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_113",
+      "hash": "6E759772B0F41018",
+      "target": "Ese no ha llegado a donde está dejando cabos sueltos."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_114",
+      "hash": "9C2BD9EA8B27C0C7",
+      "target": "Por eso no le tiembla el pulso a la hora de matar a sus propios hombres."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_115",
+      "hash": "1ECD6302D8C8B8C0",
+      "target": "Demonios, aunque esas Espadas supieran lo que se les venía encima, tampoco podían negarse a cumplir las órdenes de su benefactor."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_116",
+      "hash": "AEB85AC816DF58DE",
+      "target": "\\<suspiro> No deje que esto le empañe la imagen de Ul'dah, <split(<string(gstr1)>, ,1)>... Es cierto que hay quien no teme partir cabezas con tal de lograr lo que quiere. Pero la mayoría somos gente decente que solo trata de llegar a fin de mes."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_117",
+      "hash": "679A21D0577D7D4F",
+      "target": "¿Sabe? Mucha gente le tacharía de necio de remate por arriesgar la vida para salvar a un hombre marcado..."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_118",
+      "hash": "0817A8124B431EB1",
+      "target": "Pero yo creo que hizo algo bueno, <split(<string(gstr1)>, ,1)>, y por eso se ha ganado mi respeto."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_119",
+      "hash": "3E8F3EA0F189E375",
+      "target": "Escuche: ha pasado usted por mucho últimamente. ¿Por qué no descansa un rato?"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_120",
+      "hash": "1575E1139F688F68",
+      "target": "Haré que los chicos del Reloj de Arena le preparen una habitación, invito yo. Solo tiene que hablar con Otopa Pottopa cuando le apetezca quedarse."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_121",
+      "hash": "5DFC8DE5231CD714",
+      "target": "Y, cuando recupere las ganas de aventura, plantéese aceptar algún que otro guildleve."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_122",
+      "hash": "6AA36976C067A9D6",
+      "target": "Tenemos muchas peticiones de gente de la zona que busca contratar aventureros para diversos trabajos. Sería una buena forma de sacarse unos giles extra."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_123",
+      "hash": "19CD096B1480F717",
+      "target": "Eustace puede contarle más sobre cómo funciona el sistema, así que vaya a hablar con él si le interesa."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_120",
+      "hash": "FDF91F5D3595F4D2",
+      "target": "Si no desaparezco, todos mis conocidos correrán peligro... y eso te incluye a ti, amigo mío."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_WYSTAN_000_121",
+      "hash": "EC9B896A15631916",
+      "target": "Ruego que no sufras ningún daño por mi culpa."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_00",
+      "hash": "628643B43CC1A3F6",
+      "target": "Zuzumeda quiere compartir contigo un rumor de lo más asombroso."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_01",
+      "hash": "EE0B6B924FBB6B27",
+      "target": "Se rumorea que Wystan, un mercader que vive en Tiro de Piedra, está reclutando aventureros capaces para proteger a su equipo de prospectores. Habla con él en el Cofre y el Ataúd y ofrécele tus servicios."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_02",
+      "hash": "AE2689EB391A4EA1",
+      "target": "Aunque Wystan no necesita más escoltas para la expedición, agradecería tu ayuda para convencer a un grupo de niños de Tiro de Piedra de que dejen de esperarlo y vuelvan a casa. Ofréceles las galletas de Wystan a los niños y persuádelos de que se marchen."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_03",
+      "hash": "3E4C45F7E53DFA75",
+      "target": "Tus amables palabras y tus galletas desmigajadas bastan para contentar a los niños. Hazle saber a Wystan que la situación se ha resuelto."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_04",
+      "hash": "7DED7EDEC37430E1",
+      "target": "Justo cuando Wystan te está contando sus ambiciosos planes de futuro, uno de las Espadas de Latón de la expedición irrumpe en la taberna y anuncia que han hecho un descubrimiento prometedor. Sin perder un instante, Wystan decide ir a verlo con sus propios ojos y te invita a acompañarlo en el lugar."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_05",
+      "hash": "AE2F9E7AC138B873",
+      "target": "Tu enfrentamiento con las Espadas de Latón lo interrumpe un misterioso mago enmascarado, que desata contra ti un gólem de arcilla. En la caótica batalla que sigue, logras abatir al desbocado autómata justo antes de que llegue Thancred."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_06",
+      "hash": "97E8B547E3B37E2D",
+      "target": "La presencia de Thancred desata más extrañas visiones que no aciertas a explicar. Aunque tu alma clama respuestas, no es el momento ni el lugar. Habla con Wystan, que ha vuelto al Cofre y el Ataúd."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_07",
+      "hash": "92CB9CE6F211D638",
+      "target": "Wystan comprende ahora que el señor Lolorito lo ha marcado para morir. La veta de mineral, las Espadas de Latón y el gólem parecen haber sido parte de la trampa. El mercader promete hacer cuanto pueda por ocultar tu implicación, pero también te sugiere que busques el consejo de la señora Momodi, en Quicksand, por si los espías de Lolorito ya conocen tus actos."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SEQ_08",
+      "hash": "8F65EC9A8EC2ABCE",
+      "target": "Momodi confirma que Wystan está acabado en Ul'dah, pero te asegura que nadie conoce tus actos. Aunque muchos cuestionarían la prudencia de oponerse a fuerzas tan poderosas, ella aprueba sin reservas lo que hiciste. Como recompensa, Momodi te concede alojamiento gratuito en el Reloj de Arena y permiso para aceptar guildleves."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_00",
+      "hash": "DE9B7562B7291793",
+      "target": "Hablar con Wystan"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_01",
+      "hash": "8179A1B08B94A9CC",
+      "target": "Dar galletas de jengibre a los niños"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_02",
+      "hash": "6FF84F13283B939A",
+      "target": "Hablar con Wystan"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_03",
+      "hash": "13A0E5511566FE96",
+      "target": "Seguir a Wystan hasta las ruinas de Sil'dih"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_04",
+      "hash": "64CA7E6172FEF8E1",
+      "target": "Hablar con Wystan"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_05",
+      "hash": "9861951024DE2B8D",
+      "target": "Hablar con Wystan"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_TODO_06",
+      "hash": "82BB02B808FBD1B6",
+      "target": "Hablar con Momodi, en Ul'dah"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_100_000",
+      "hash": "4439E0A62F8C558B",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_000_150",
+      "hash": "6E9D8A21940B8F62",
+      "target": "En reconocimiento de tus logros, ahora tienes acceso a los guildleves y a las habitaciones de posada."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_000_151",
+      "hash": "AEB9A068BD469F42",
+      "target": "A medida que completes misiones y emprendas nuevas aventuras, el mundo te atraerá cada vez más hacia sus misterios."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_000_152",
+      "hash": "3DEF2A43AAB51667",
+      "target": "El gran reino de Eorzea aún guarda un sinfín de caminos por recorrer y parajes por contemplar. ¡Sigue la senda del aventurero y descubre las maravillas que te aguardan!"
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_000_160",
+      "hash": "01AE4C714638AA32",
+      "target": "Ahora tienes acceso a Contenido recomendado. Esta función muestra una lista de las misiones o deberes disponibles en tu zona en este momento."
+    },
+    {
+      "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_SYSTEM_000_161",
+      "hash": "8B1CF07213BA69E3",
+      "target": "La lista de Contenido recomendado puede abrirse desde el apartado Contenido del menú principal, y también se mostrará automáticamente al iniciar sesión. Si no sabes muy bien qué hacer a continuación, esta herramienta facilita encontrar actividades adecuadas a tu clase y nivel actuales."
+    }
+  ]
+}

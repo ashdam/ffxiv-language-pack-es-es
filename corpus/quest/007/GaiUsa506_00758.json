@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa506_00758",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_00", "hash": "9BEF3F6538B7478D", "target": "Hihira quiere pedirte ayuda en su intento de socorrer a los refugiados." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_01", "hash": "0F76FD0EDC0E9667", "target": "Hihira no desea otra cosa que llevar alivio a los enfermos y débiles de la Pequeña Ala Mhigo, pero no ha logrado ganarse la confianza de los lugareños. Entrega medicina a tres refugiados dolientes en su lugar." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_02", "hash": "B044768559569805", "target": "Pese a tus mejores esfuerzos, los tercos alamhiganos han preferido prolongar su sufrimiento antes que buscar alivio en remedios de Ul'dah. Informa de tu fracaso a Hihira." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_SEQ_03", "hash": "00FFAE747865C0F0", "target": "A Hihira le entristece saber del rechazo de los alamhiganos, pero no le sorprende. Sin embargo, no es de las que se desaniman, y decide continuar con sus esfuerzos." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_TODO_00", "hash": "7DA44D5F30E9ADF8", "target": "Entregar la medicina de Hihira a los refugiados dolientes" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_TODO_01", "hash": "27DFEDF6208FF000", "target": "Informar a Hihira" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_000", "hash": "769D8A2C0B99EE08", "target": "<if(gnum4,Amiga,Amigo)>, escuche mi ruego. Como sin duda habrá observado, muchas pobres almas de este campamento padecen dolencias gravísimas. En efecto, es para llevarles alivio por lo que he hecho el viaje hasta aquí desde Ul'dah." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_001", "hash": "C5EAE3FD805A9B54", "target": "Y, sin embargo, me temo que hasta ahora mis esfuerzos han sido en vano. Los vecinos desconfían muchísimo de los forasteros... en particular de los que venimos de Ul'dah. Miran mi medicina como si fuera veneno." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_002", "hash": "B32A324906A6F1E7", "target": "Si <if(gnum4,una aventurera,un aventurero)> como usted les entregara el elixir, quizá estarían dispuestos a aceptarlo. No tengo a nadie más a quien recurrir. ¿Irá en mi lugar?" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_BEROLD_000_010", "hash": "B5E981A9DA131330", "target": "\\<tos> \\<resuello> La garganta... ¡Me arde!" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_BEROLD_000_011", "hash": "7B9A74A8DB52C065", "target": "¿Medicina, dices? ¡Bah! \\<tos> ¡Antes bebería meados de sandworm que esa bazofia uldahí! \\<resuello>" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_OTELIN_000_020", "hash": "C635044120706673", "target": "Hurgh... No puedo... r-respirar..." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_OTELIN_000_021", "hash": "8D07EDAF3DC70AFF", "target": "¡Ja! ¿Otro elixir falso preparado por esos... \\<resuello> ...matasanos uldahíes? ¡Fuera de mi vista!" },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_ARCAVIUS_000_030", "hash": "408DD4AACA190052", "target": "¿Qué quieres, <if(gnum4,forastera,forastero)>? ¿Vienes a burlarte de nuestro sufrimiento? Adelante, ríete. Ríete cuanto te plazca." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_ARCAVIUS_000_031", "hash": "17D6BF8ADAA6DDAE", "target": "\\<escupitajo> Eso es lo que pienso de vosotros, los forasteros, y de vuestra medicina. Prefiero morir con dignidad antes que deber mi vida a Ul'dah." },
+    { "gameKey": "quest/007/GaiUsa506_00758#TEXT_GAIUSA506_00758_HIHIRA_000_040", "hash": "C9911A794092311A", "target": "No hubo suerte, ya veo. \\<suspiro> Anímese, <if(gnum4,amiga,amigo)>... hizo lo que pudo. Las heridas de antaño no sanan tan fácilmente, pero no debo abandonar esta causa." }
+  ]
+}

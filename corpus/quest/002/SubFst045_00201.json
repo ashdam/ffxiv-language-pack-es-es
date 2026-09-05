@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/002/SubFst045_00201",
+  "questName": "Passing Muster",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "Veo que estás <if(gnum4,deseosa,deseoso)> de echar una mano, <split(<string(gstr1)>, ,1)>. Bien está. Pero no puedo, en conciencia, enviarte al bosque hasta comprobar que tu equipo está a la altura de la tarea." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_2", "hash": "7E5A2839548AD630", "target": "No está de más repetirlo: en los cinco años desde el alba de la Séptima Era Umbral, muchas criaturas de la Selva de los Doce se han vuelto monstruos feroces y sanguinarios. Adentrarse en el bosque sin el equipo adecuado es un suicidio." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_3", "hash": "57F5C20BC8B37322", "target": "Te sugiero que dediques un tiempo a evaluar tu equipo. Cuando consideres que tu armadura es de calidad suficiente, preséntate ante mí para la inspección." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_10", "hash": "E714CDA97A6A421A", "target": "¿Conque listos para la inspección? ¡Bien, pues! ¡Vista al frente! ¡Espalda recta!" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_11", "hash": "8F06C0BC48A539F8", "target": "Mmm... Sí, creo que das la talla." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_12", "hash": "501D7F58716C9AD0", "target": "Te sorprendería cuántos soldados jóvenes y prometedores acaban muertos por lanzarse al bosque sin ponerse antes una armadura decente." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_13", "hash": "80BE397F77217272", "target": "Tu equipo, sin embargo, debería brindarte el grado de protección necesario. Considérate <if(gnum4,lista,listo)> para el servicio, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_14", "hash": "24188576C9B8F420", "target": "\\<suspiro> Con eso encima, lo mismo te daría pasearte en cueros. Vuelve cuando consigas algo más resistente." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_00", "hash": "B5448E532464BD9A", "target": "Galfrid, instructor jefe del Bannock, desea inspeccionar tu equipo para calibrar tu preparación de cara a futuras misiones." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_01", "hash": "308C6BBF25356BAB", "target": "Para poder recibir encargos de Galfrid, primero has de reunir un equipo decente. Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior y preséntate ante el instructor jefe para la inspección." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SEQ_02", "hash": "5B9183CCFA2DDD3E", "target": "Galfrid ha determinado que tu equipo pasa la prueba. Ya puedes emprender misiones para el instructor jefe." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_TODO_00", "hash": "99196AB7AE690AB2", "target": "Presentarte ante Galfrid para la inspección" },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_4", "hash": "148842A4CB3DD269", "target": "Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior antes de volver a hablar con Galfrid." },
+    { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_SYSTEM_000_15", "hash": "A69B1BB221197CD5", "target": "Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior antes de volver a hablar con Galfrid." }
+  ]
+}

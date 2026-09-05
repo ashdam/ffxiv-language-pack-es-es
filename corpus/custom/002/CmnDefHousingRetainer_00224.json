@@ -1,0 +1,25 @@
+{
+  "conversation": "custom/002/CmnDefHousingRetainer_00224",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_TITLE", "hash": "1C020B2E8E4BB7DE", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_SALE_LIST", "hash": "2CCAED448928061D", "target": "Ver los objetos en venta." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_SALE_HISTORY", "hash": "0D0AEC62C205CAE8", "target": "Ver el historial de ventas." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_SALE_HISTORY_OPEN", "hash": "36339EB6BFDEBBE3", "target": "Cambiar la privacidad del historial de ventas. (Ajuste actual: <if([lnum1>0],Público,Privado)>)" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_WEAPON_SHOW", "hash": "BE340F78C1BD6516", "target": "Cambiar la visualización del arma. (Ajuste actual: <if([lnum1>0],Mostrada,Oculta)>)" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_POSE", "hash": "8B88DA9723F3CE64", "target": "Cambiar la pose." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_SET_RETAINER", "hash": "6F1D1DC3FA9FC2F3", "target": "Cambiar el sirviente asignado." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_UPDATE", "hash": "20BB8F381C5DBC41", "target": "Actualizar el aspecto del sirviente." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_CANCEL", "hash": "38E42696A7CEFDBC", "target": "Nada." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_SALE_HISTORY_SWITCH_DESC", "hash": "4DD7F11B61C54E16", "target": "Ten en cuenta que, si se configura como público, todos los jugadores podrán ver el historial de ventas de tu sirviente." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_SALE_HISTORY_SWITCH", "hash": "30BFE73925852962", "target": "¿Cambiar el historial de ventas de tu sirviente a <if([lnum1>0],privado,público)>?" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_ASK_YES", "hash": "CB688785F091A7F1", "target": "Sí" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_ASK_NO", "hash": "14B7041461485EEE", "target": "No" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_WEAPON_SHOW_SWITCH", "hash": "D9F658DE29E09045", "target": "¿<if([lnum1>0],Ocultar,Mostrar)> el arma de tu sirviente?" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_WEAPON_SHOW_SWITCH_YES", "hash": "9ABB3B3E89B8F935", "target": "Sí" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_WEAPON_SHOW_SWITCH_NO", "hash": "4C7407FB281A494D", "target": "No" },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_POSE_TITLE", "hash": "530ACF6FB1C87AEF", "target": "Pose <num(lnum1)>." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_POSE_CANCEL", "hash": "F5D60DB818039690", "target": "Cancelar." },
+    { "gameKey": "custom/002/CmnDefHousingRetainer_00224#TEXT_CMNDEFHOUSINGRETAINER_00224_MENU_POSE_CAPTION", "hash": "7D13AEDD7761BE34", "target": "Elige una opción. (Ajuste actual: Pose <num(lnum1)>)" }
+  ]
+}

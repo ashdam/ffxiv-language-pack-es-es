@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/029/BanKjn501_02991",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_SEQ_00", "hash": "06577B1C2D0FE07C", "target": "Zukin quiere poner a prueba tus dotes de casamentero.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no puedes avanzar con una clase o un trabajo distintos de los que tenías al aceptar la misión." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_TODO_00", "hash": "E0AA7F9D4BEA033C", "target": "Ayudar a la raya listada macho a lanzar burbujas a la raya listada hembra" },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_TODO_01", "hash": "FDB47C64D7362391", "target": "Informar a Zukin" },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_000", "hash": "AA8B4599B2D844AD", "target": "Ha llegado la época de apareamiento de las rayas listadas. Sus rituales de cortejo son largos y complejos, y empiezan con el macho lanzando un chorro de burbujas aromáticas a una hembra disponible." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_001", "hash": "5288CA524DED714F", "target": "Sin embargo, las hembras suelen rechazar los intentos de conquistarlas. El macho se desanima por ello, así que los cuidadores de rayas deben animarlos a seguir intentándolo hasta que encuentren pareja." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_002", "hash": "EFBE638FAD025256", "target": "Cerca de Sui<-->no<-->Sato hay un macho reacio a seguir con los rituales. ¿Quizá podrías ayudar a su cuidador?" },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_SYSTEM_000_011", "hash": "ECCB2A3ACB0948AF", "target": "Busca a la raya listada hembra. Puedes mover la cámara y acercar o alejar el zoom. Fija como objetivo a la raya listada hembra y lanza burbujas con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_012", "hash": "D342C6D9537DFAF6", "target": "¡Oh, qué lástima! Ha sido un buen intento, pero ella no muestra interés. Aunque parece que rechaza a todos los machos, no solo a nuestro amiguito." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_013", "hash": "9C6DC4E0D6063456", "target": "Muy bien hecho, pero puede que tenga que intentarlo unas cuantas veces más antes de que ella le preste atención." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_014", "hash": "2E2B29F57626169D", "target": "¡Mire eso! ¡Es la primera vez que la veo mostrar tanto interés! Hasta ahora había ignorado a todos los machos." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_015", "hash": "E9A615256EF8ACBB", "target": "Bueno, parece que por hoy ya ha tenido suficiente. Mejor lo dejamos también nosotros." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_100_015", "hash": "A41C27E033342C36", "target": "Nuestro joven amigo ha avanzado mucho. Su técnica mejora poco a poco. ¡Quizá no tarde en encontrar pareja!" },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_016", "hash": "A3C4EF647975CF59", "target": "Oh, ¿viene a ayudar? Llevo todo el día adiestrándolo, pero se ha vuelto huraño y poco cooperativo. Creo que un enfoque nuevo podría venirle bien. ¿Quiere intentarlo?" },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_022", "hash": "862370318B659822", "target": "Al parecer, la raya respondió bien a tu instrucción. El cuidador me dice que, si persevera, tarde o temprano encontrará pareja." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_023", "hash": "500142932A456444", "target": "Las rayas listadas son esenciales para nuestro modo de vida, pero emparejar a machos y hembras puede dar algún que otro quebradero de cabeza. La mayoría de las veces, el macho debe repetir el ritual de apareamiento una y otra vez antes de lograrlo." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ZUKIN_000_024", "hash": "03F0F4F5929F4DE6", "target": "Como se te da bien esto, quizá nos venga bien tu ayuda en los próximos días." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_SYSTEM_000_025", "hash": "DC841A8B5DAD1EC3", "target": "El macho se queda mirando a lo lejos. Con la hembra ausente, parece perdido." },
+    { "gameKey": "quest/029/BanKjn501_02991#TEXT_BANKJN501_02991_ATTENDANT02991_000_026", "hash": "FF72A80345ECFBAF", "target": "Nos quedaremos aquí practicando. Seguro que a Zukin le interesa saber cómo ha ido todo. ¡Que le vaya bien!" }
+  ]
+}

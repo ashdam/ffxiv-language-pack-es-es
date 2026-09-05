@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/SubSea012_00122",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_00", "hash": "15D27893FB3B4B14", "target": "S'dhodjbi necesita tu ayuda para preparar un manjar para Baderon." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_01", "hash": "612E1BC4E95DAF1D", "target": "S'dhodjbi quiere obsequiar a Baderon con varias sombrillas de aurelia como muestra de agradecimiento por todo su esfuerzo. Habla con Klindrael para más información sobre dónde encontrar a las criaturas." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_02", "hash": "7BAEAEA2E33F9FF9", "target": "Aunque le repugna la idea de comer aureliae, Klindrael te indica el río que hay pasada la Puerta de la Tempestad, hacia el este. Abate a las criaturas y obtén cuatro de sus sombrillas." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_03", "hash": "4D46E7BADF766305", "target": "Arrancas cuatro sombrillas viscosas de los cadáveres de las inmundas bestias. Preséntaselas a Baderon de parte de S'dhodjbi." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SEQ_04", "hash": "964DC2A1794E04B7", "target": "Parece que S'dhodjbi malinterpretó los desvaríos de borracho de su jefe, pues Baderon afirma que las sombrillas de aurelia son la comida más vil y repugnante que ha probado jamás. Aun así, el antiguo mercenario no puede evitar reírse mientras rememora sus días de gloria." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_TODO_00", "hash": "5C83DE6888D07C70", "target": "Hablar con Klindrael" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_TODO_01", "hash": "E73EE2587A61BAD2", "target": "Abatir a las aureliae" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_TODO_02", "hash": "0FE511C9873C2A1D", "target": "Entregar las sombrillas de aurelia a Baderon" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SDHODJBI_000_0", "hash": "5ECA9CA2AA9220C9", "target": "Últimamente, el pobre Baderon está tan ocupado cuidando de los demás que no ha podido cuidar de sí mismo. Se merece algo por sus esfuerzos." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SDHODJBI_000_1", "hash": "2BDAD5F6073CB511", "target": "Siempre que se le sube la bebida y empieza a hablar de los viejos tiempos, no falla en mencionar las aureliae. Parece que él y sus compañeros solían comerse a esas criaturas de vez en cuando." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SDHODJBI_000_2", "hash": "F2985A5846CD4597", "target": "Es evidente que aún guarda buenos recuerdos de aquella vida, así que se me ocurre que unas cuantas sombrillas de aurelia podrían ser algo que él agradeciera. ¿Me ayudarías consiguiendo cuatro?" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_SDHODJBI_000_3", "hash": "72CD796E104FA908", "target": "Si estás <if(gnum4,dispuesta,dispuesto)> a ayudar, habla con Klindrael, junto al Castillo de Popa. Ella sabe dónde se congregan diversas bestias salvajes." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_KLINDRAEL_000_10", "hash": "09D05DAD5B48E132", "target": "¡¿Que a Baderon de verdad le <italic(1)>gustan<italic(0)> las sombrillas de aurelia?! ¡Dioses, jamás se me habría ocurrido siquiera <italic(1)>intentar<italic(0)> comerme una de esas asquerosidades!" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_KLINDRAEL_000_11", "hash": "9B9A5082CB7354BE", "target": "Aun así, si buscas aureliae, deberías encontrar de sobra junto al río, pasada la Puerta de la Tempestad, hacia el este." },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_BADERON_000_20", "hash": "AA202FDA10F5A7FA", "target": "S'dhodjbi dijo que quizá se pasaría un aventurero a entregar algo especial. ¿Eres tú, <if(gnum4,muchacha,muchacho)>?" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_BADERON_000_21", "hash": "B01F604212141FEA", "target": "¡Ah, demonios, <if(gnum4,muchacha,muchacho)>, no tenías por qué tomarte tantas molestias!" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_BADERON_000_22", "hash": "503DFC0E8E0EFA30", "target": "¡Ajajajá! ¡Este <italic(1)>maldito<italic(0)> olor! Odio las sombrillas de aurelia desde mis tiempos de mercenario. ¡No es más que la porquería más asquerosa que me he echado a la boca en la vida!" },
+    { "gameKey": "quest/001/SubSea012_00122#TEXT_SUBSEA012_00122_BADERON_000_23", "hash": "FD98276CE6EB5875", "target": "Probamos a espolvorearla con sal y cocinarla en una hoguera, pero seguía sin ser mucho mejor que mascar madera a la deriva. Pruébala tú <if(gnum4,misma,mismo)>, <if(gnum4,muchacha,muchacho)>... ¡ya verás a qué me refiero!" }
+  ]
+}

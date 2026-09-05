@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/050/KinGzb001_05030",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SEQ_00", "hash": "9A3EFC654BBF87C6", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Tsivlu cuenta los días que faltan para poder retomar el comercio con normalidad." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TODO_00", "hash": "AE8A2D8C7727F3F9", "target": "Inspeccionar los carromatos maltrechos" },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TODO_01", "hash": "72CF5F8AB8704BE3", "target": "Hablar con Tsivlu" },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_000", "hash": "6B3A08FEE9A042F2", "target": "¡Ah, usted debe de ser <if(gnum4,la artesana,el artesano)> de Tuliyollal! Llega justo a tiempo. Hay que evaluar cuanto antes los daños que la tormenta causó a los carromatos, así que le ruego que empiece la inspección de inmediato." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_001", "hash": "B739CBE1F72CECB4", "target": "Seguro que ya lo sabe de sobra, pero compruebe si algún bastidor está agrietado, si las lonas están rasgadas o si los globos de los costados tienen algún pinchazo." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_002", "hash": "75EA299327243EFE", "target": "No podemos mover los carromatos hasta saber que son seguros. Tenga cuidado mientras los inspecciona." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_003", "hash": "0B07DD280289835D", "target": "Encontrará carromatos parados por todo el poblado. Basta con que me avise cuando termine." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_005", "hash": "076F8FD600C1421B", "target": "Cuento con usted para la inspección. Recuerde avisarme cuando haya terminado." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SYSTEM_000_010", "hash": "AC9141B6FE86AE85", "target": "Examinas con cuidado cada ilm del carromato, pero no descubres nada reseñable." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SYSTEM_000_011", "hash": "FFD71E729ED1F5AD", "target": "Adviertes que se ha acumulado agua en el interior del carromato. Si no se retira pronto, el suelo podría acabar dañado." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SYSTEM_000_012", "hash": "8F8212D3685CFCB2", "target": "Las sujeciones de la lona parecen estar aflojándose. Eso no impedirá que el carromato circule, pero repararlas haría sin duda más agradable el viaje a los pasajeros." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_SYSTEM_000_013", "hash": "54EDF76EA93344A8", "target": "Examinas con cuidado el globo, pero no encuentras pinchazos ni desgarros que impidan el viaje." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_020", "hash": "1E8BDE65DA44C9BF", "target": "¡Vaya, ha hecho un trabajo estupendo! Parece que algunos carromatos necesitarán pequeños arreglos, pero me tranquiliza saber que los daños no son graves." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_021", "hash": "9CE49B3A7FD57BA4", "target": "Por cierto... Hace un momento vino a verme <if(gnum4,una artesana diciendo que la habían llamado,un artesano diciendo que lo habían llamado)> desde Tuliyollal para ayudar con las inspecciones, y me pedía trabajo." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_022", "hash": "CFE16D4C8223C92F", "target": "Tenía tanta prisa por que revisaran los carromatos que <if(gnum4,la confundí a usted con ella,lo confundí a usted con él)>. Le ruego que me disculpe. Le agradezco muchísimo que haya tenido la amabilidad de atender mi petición." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_023", "hash": "81F2F873864EB19D", "target": "Los carromatos son una innovación de Koana. Durante sus estudios al otro lado de la sal se topó con una cosa llamada «chocobo carriage» y mandó diseñarlos a su imagen. Los globos de los costados elevan el carromato en el aire y lo dejan lo bastante ligero para que tiren de él nuestras alpacas." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_024", "hash": "AABB241E92716947", "target": "Es un invento utilísimo: nos permite recorrer los escarpados caminos de montaña de todo Tural con más seguridad y rapidez que nunca." },
+    { "gameKey": "quest/050/KinGzb001_05030#TEXT_KINGZB001_05030_TSIVLU_000_025", "hash": "E736F9C6A8C9E3EE", "target": "Gracias a usted estamos un paso más cerca de tener los carromatos listos para volver a la carretera y de recuperar cierta normalidad." }
+  ]
+}

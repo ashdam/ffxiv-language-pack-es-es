@@ -1,0 +1,328 @@
+{
+  "conversation": "quest/048/KinGmb106_04885",
+  "questName": "Lost Promise",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SEQ_00", "hash": "67C3B5EAF76E1449", "target": "Koana está impaciente por comenzar la búsqueda de Wuk Lamat." },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_00", "hash": "E446A266B003066C", "target": "Hablar con el centinela de Earthenshire" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_01", "hash": "F13F34777966FE13", "target": "Hablar con el vendedor ambulante asaltado" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_02", "hash": "F8BEE66C3624DE66", "target": "Hablar con Koana y seguir sus indicaciones" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_03", "hash": "350D8C34BBEB0C92", "target": "Hacer /happy ante el Xbr'aal de mirada amable" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_04", "hash": "D6717C7E5E1EBE80", "target": "Hablar con Koana y seguir sus indicaciones" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_05", "hash": "15F43753A2482797", "target": "Hacer /happy ante el Moblin entusiasta" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_06", "hash": "05C96EFF7B6093D6", "target": "Hablar con Koana y seguir sus indicaciones" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_07", "hash": "A21C7F914065F4AC", "target": "Hacer /happy ante el pelu alegre" },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_TODO_08", "hash": "CE0A27B0A9D6C59C", "target": "Hablar con Koana" },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_REDIROQ_000_001",
+      "hash": "A4A03A80CD27D7A6",
+      "target": "¡Esto es preocupantísimo! ¡Si Rediroq oye algo, os lo hará saber!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_002",
+      "hash": "CEA9F3DE2DF8BDF7",
+      "target": "Si Lamaty'i volvía a Earthenshire desde el oeste, tendría que haber pasado por aquí... salvo que Rediroq jura que no la vio."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_003",
+      "hash": "B8814F37C0DCA715",
+      "target": "En cuyo caso, es del todo posible que Lamaty'i nunca llegara a volver a la aldea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_004",
+      "hash": "9D80C04F7A50411E",
+      "target": "El único modo de asegurarnos es preguntar al centinela apostado en la entrada opuesta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_010",
+      "hash": "BD9E46BED8BB0FE9",
+      "target": "Si el guardia no vio a Lamaty'i, podemos estar bastante seguros de que no está en Earthenshire. No es de las que pasan desapercibidas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINGUARD04885_000_011",
+      "hash": "AC24E74472DC0901",
+      "target": "Ffff... Kooo... ¿La Tercera Promesa? El Mobli ha estado en su puesto con diligente ojovigilar: no ha visto pasar a ningún aspirante por aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_012",
+      "hash": "C8817C9264FA3CBF",
+      "target": "¿Y un Tonawawta de pelo de colores llamativos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINGUARD04885_000_013",
+      "hash": "C869762BAAB8EE22",
+      "target": "¡El Mobli sabe algo de ese! ¡Oyó aleteos de lengua sobre un vendedor ambulante Pelu en los Muchos Fuegos al que atacó en el camino un bandido pelochiflado!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_014",
+      "hash": "1E6853328D03E2B7",
+      "target": "Un bandido, decís... Gracias, habéis sido de gran ayuda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_100_014",
+      "hash": "96372BC20E7A9CE1",
+      "target": "Está claro que mi hermana no está aquí. Aunque desearía que fuera de otro modo, hemos de considerar la posibilidad de que el mensajero Tonawawta y el bandolero que describe el centinela sean la misma persona, y que Lamaty'i corra un peligro muy real."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_015",
+      "hash": "4A995B714E48B8DE",
+      "target": "Vamos, corramos a los Muchos Fuegos. Me gustaría hablar con ese vendedor, si sigue por allí."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_020",
+      "hash": "C83A90166EACDC73",
+      "target": "Aquí, <split(<string(gstr1)>, ,1)>. Este es el mercader que se topó con el bandido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINGUARD04885_100_020",
+      "hash": "DA1991E49342F1A8",
+      "target": "Ffff... Kooo... ¡El problema de bandidos de los Moblis no hace más que empeorar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_021",
+      "hash": "86402C2AABA264B4",
+      "target": "¿Había algo en lo que pudiera ayudaros...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_022",
+      "hash": "88AE5B402684C1B6",
+      "target": "Me dicen que fuisteis víctima del ataque de un bandido. ¿Podríais relatar exactamente lo ocurrido?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_023",
+      "hash": "BB947C5F7E98AF6F",
+      "target": "¡Válgame, ya me parecía a mí que os reconocía! ¡Os contaré todo lo que recuerdo, Segunda Promesa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_024",
+      "hash": "347B695E92B0C204",
+      "target": "Fue ese canalla de Wawkesa quien me emboscó."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_025",
+      "hash": "7CB017B185415DA7",
+      "target": "¿Sabéis el nombre de vuestro atacante?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_026",
+      "hash": "7EF8A2B73A3ED35F",
+      "target": "Ese pelo no admite confusión. Todos los vendedores ambulantes tenemos historias de ese famoso cabecilla de bandidos y sus rapiñas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_027",
+      "hash": "F99DA6181ADC33F5",
+      "target": "Wawkesa y su banda se rebajan a cualquier bajeza por unos pel. Y, sin presas frescas subiendo por la escalinata rota, han tenido que volverse más creativos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_028",
+      "hash": "DD57994D728A7196",
+      "target": "No es de extrañar que fuera a por Lamaty'i. Seguramente piensa pedir por ella un rescate de sangre real."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_029",
+      "hash": "0ED88CE846397CBD",
+      "target": "Espero que pronto haga sus exigencias... pero no pienso esperar. Encontraremos a ese villano primero y le entregaremos en persona el pago que merece."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_030",
+      "hash": "5F319811B555750D",
+      "target": "¿Qué os parece un pequeño engaño? Asumiré el papel de mercader acomodado para sacar a Wawkesa de su escondrijo. Y luego, cuando venga a husmear, cogemos a la rata por la cola."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_031",
+      "hash": "728726F7FEBCEEEB",
+      "target": "¡Un plan excelente! Y tengo justo las prendas adecuadas para vuestro disfraz, ¡a un precio con descuento especial, por supuesto!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_032",
+      "hash": "4CCD0B41EC9FE02E",
+      "target": "Un roce con bandidos no os ha apagado el espíritu mercantil, por lo que veo. Muy bien, acepto vuestro generoso trato."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_033",
+      "hash": "C0A489650317C537",
+      "target": "Ahora pongamos el cebo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_034",
+      "hash": "4537D454C797736F",
+      "target": "Yo te precederé en los Muchos Fuegos para hacer notar mi presencia. Tú ven detrás, alardeando ante quienes te cruces de que me pagaste una buena bolsa a cambio de una gema rara o algo así."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_035",
+      "hash": "1258E21DED02C54B",
+      "target": "Si Wawkesa está tan hambriento de monedas como dicen, un vendedor recién enriquecido debería ser un blanco irresistible. Dejamos que ataque y entonces cerramos la trampa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELUPEDDLER04885_000_040",
+      "hash": "77FB3E442635223C",
+      "target": "¡Ruego que vuestra estratagema salga bien!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_XBALAALKIND04885_000_041",
+      "hash": "6F32F9A54262A4AD",
+      "target": "¿Alguna buena noticia últimamente?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_042",
+      "hash": "BC54E0691390C5A2",
+      "target": "Ffff... Kooo... Al Mobli le gusta ser manoayuda de juravasijas, pero es trabajo agotador. ¡Espera encontrar distracciones divertidas aquí en los Muchos Fuegos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_043",
+      "hash": "7924750AE51CF3AB",
+      "target": "Siempre estoy al acecho de oportunidades nuevas: ¡hay que tener la oreja puesta si quieres triunfar en los negocios!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_044",
+      "hash": "16861CAA791B25FB",
+      "target": "Hora de interpretar nuestros papeles."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_045",
+      "hash": "9C8E45BA628EA5CD",
+      "target": "Ahí. Ese Xbr'aal."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_046",
+      "hash": "2465D110C32A3E2B",
+      "target": "Compartid con él lo <colortype(500)><edgecolortype(501)>feliz<edgecolortype(0)><colortype(0)> que os ha hecho vuestro trato imaginario conmigo. Cuando hayáis montado el número, podemos pasar a la siguiente actuación."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_050",
+      "hash": "DFBDE5A2FDA08A18",
+      "target": "Queremos que Wawkesa se fije en nosotros: alto y convincente."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_XBALAALKIND04885_000_051",
+      "hash": "7963757943E86AFA",
+      "target": "¿Puedo hacer algo por ti, amigo?"
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_100_051", "hash": "21935C1BEE1CA7D6", "target": "Tienes toda la atención del Xbr'aal de mirada amable. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_XBALAALKIND04885_000_052",
+      "hash": "82A26F1A3027DC19",
+      "target": "¿Una gema rara de ese mercader Hhetsarro, dices? ¡Envidio el beneficio que habrá sacado de semejante venta! ¡Desde que se destruyó la escalinata no he podido vender por mis rutas de siempre!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_XBALAALKIND04885_000_053",
+      "hash": "001732B81EC3685F",
+      "target": "¿Estás... <if(gnum4,confundida,confundido)>? Yo desde luego sí."
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_000_054", "hash": "D7775A8F62A6E908", "target": "El Xbr'aal no acaba de entender el mensaje que intentas transmitir. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_XBALAALKIND04885_000_060",
+      "hash": "DD9C100441F44167",
+      "target": "Yo le aconsejaría a ese mercader que vigile a los tipos sospechosos. Los rumores de buena fortuna atraen bandidos por estos lares."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_061",
+      "hash": "E3EF8B6D69C396B8",
+      "target": "Buen comienzo, pero querría asegurarme de que Wawkesa sabe de mí. Sigamos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_062",
+      "hash": "CF213FB4ABEB5796",
+      "target": "Ese Moblin de ahí parece dispuesto a conversar. El escenario es tuyo, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_070",
+      "hash": "CAE45225ABF6ED29",
+      "target": "Compartid vuestra “buena fortuna” con ese mercader Moblin también, si sois tan amable. Hay que asegurarse de que estos rumores llamen la atención de Wawkesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_071",
+      "hash": "CD5167182659FFE6",
+      "target": "Ffff... Kooo... ¿Qué puede hacer el Mobli por ti?"
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_100_071", "hash": "7B698748D0206695", "target": "Tienes toda la atención del Moblin entusiasta. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_072",
+      "hash": "1E3E3910D9BEDAE6",
+      "target": "Ffff... Kooo... ¿El Hhetsarro te vendió una piedrachispa para tu colección?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_073",
+      "hash": "4C65056FAA9994BC",
+      "target": "¡Eso explica tus gigantes sonrisagozo! ¡El Mobli se alegra de tu alegría! ¡El Mobli también envidia al mercader y todo el tintinbrillo que habrá hecho!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_074",
+      "hash": "5BADFEE1484861B3",
+      "target": "Ffff... Kooo... ¡Sea lo que sea lo que estés haciendo, al Mobli le gustaría que pararas!"
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_000_075", "hash": "6278F5E5C084FAA5", "target": "El Moblin no acaba de entender el mensaje que intentas transmitir. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_MOBLINMOOD04885_000_080",
+      "hash": "19E509E0852BC545",
+      "target": "Ffff... Kooo... Cuidado al intercambiar aleteos de lengua por aquí. ¡Hay bandoleros furtivos y codiciosos a los que les entran ojosgrandes y arrebatapillan el tintinbrillo de ese mercader... y tu piedrachispa también!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_081",
+      "hash": "D00AAB43003D45CE",
+      "target": "Con eso debería bastar... pero quizá un último acto para rematarlo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_082",
+      "hash": "8AE828CB4D0DD71B",
+      "target": "¿Veis a ese Pelu tan animado? Contadle la historia de vuestra preciosa gema y habremos acabado con esta parte de la farsa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_090",
+      "hash": "B749289B45886FED",
+      "target": "Solo esta última actuación, lo prometo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_091",
+      "hash": "4653615C3D75B3D6",
+      "target": "¡Qué gusto ver una cara sonriente! ¿Compartes el motivo? ¡Desde que pasó esa tormenta no oigo más que refunfuños y quejas!"
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_100_091", "hash": "FF9CE3BEFD319871", "target": "Tienes toda la atención del pelu alegre. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_092",
+      "hash": "837ACF5F67083E90",
+      "target": "¿¡Un vendedor ambulante de paso tenía justo la gema que buscabas para tu colección!? ¡Menudo golpe de suerte!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_093",
+      "hash": "B4F491A021D6BD85",
+      "target": "Y apuesto a que el mercader quedó igual de contento llenándose los bolsillos con tu agradecida moneda, ¿eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_094",
+      "hash": "353E0629BA2157DC",
+      "target": "En fin, me entran ganas de salir a ganar unos pel yo también. ¿Quién sabe? ¡Igual la oportunidad me encuentra a mí, como te encontró a ti!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_095",
+      "hash": "AE035CBAAC9416B7",
+      "target": "Ah, mi cliente más <if(gnum4,valiosa,valioso)>. ¡El beneficio de esa sola compra tuya me dará para semanas de ocio!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_096",
+      "hash": "54341E6B2FC1E95C",
+      "target": "Viajar con una bolsa tan gorda y sin espadachines a sueldo es tentar a la suerte, así que haré de Earthenshire mi última parada y volveré en el acto a Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_097",
+      "hash": "1C7AABAAA942A2BE",
+      "target": "¿Lo habéis visto? La rata ha venido a mordisquear."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_PELUPELULIVELY04885_000_098",
+      "hash": "2C33BD7F13818E61",
+      "target": "¿Eh? ¿¡Y esto qué se supone que es!?"
+    },
+    { "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_SYSTEM_000_099", "hash": "C8B85C6D84EDA409", "target": "El pelu no acaba de entender el mensaje que intentas transmitir. Ponte en la piel de un coleccionista <colortype(500)><edgecolortype(501)>/happy<edgecolortype(0)><colortype(0)> que ha adquirido una gema rara y cara." },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_100",
+      "hash": "817F7759EB54E870",
+      "target": "Has interpretado tu papel a la perfección, <split(<string(gstr1)>, ,1)>. <if(gnum4,Una mujer,Un hombre)> de muchos talentos, tal como describieron Thancred y Urianger."
+    },
+    {
+      "gameKey": "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_101",
+      "hash": "60281C63095A9869",
+      "target": "Ahora saquemos a Wawkesa y cerremos la trampa."
+    }
+  ]
+}

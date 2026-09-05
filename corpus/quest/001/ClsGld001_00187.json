@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/001/ClsGld001_00187",
+  "questName": "So You Want to Be a Goldsmith",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_1", "hash": "3CF19B1A27C61163", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,aventurera,aventurero)>, y <if(gnum4,bienvenida,bienvenido)> al Gremio de Orfebres. ¿Ha venido a observar a nuestros artesanos en su labor?" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_2", "hash": "2882E9DA784CFA8F", "target": "En efecto, es una maravilla ver a los orfebres transformar metales en bruto y gemas sin tallar en anillos, pendientes y collares relucientes─¡algunos de los cuales poseen propiedades mágicas, nada menos!" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_3", "hash": "052A8EE2AA7AEB61", "target": "¿Sabe? Si desea probar suerte con la orfebrería, el gremio está abierto a aventureros como usted. No se requiere experiencia previa, pues enseñamos todo lo necesario sobre el oficio. ¿Le interesaría?" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_Q1_000_1", "hash": "B173BDA9B3C3D298", "target": "¿Unirse al Gremio de Orfebres?" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_A1_000_1", "hash": "6A818E981E6E7EB9", "target": "Sí" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_A1_000_2", "hash": "FE79196078AF813C", "target": "No" },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_11", "hash": "56062A5244EAE3D3", "target": "Discúlpeme, parece que he malinterpretado su intención. Olvide lo que he dicho." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_21", "hash": "C10BEBA31DA2CC40", "target": "Vaya, esta parte siempre es <italic(1)>tan<italic(0)> incómoda. Nada me gustaría más que darle la bienvenida al gremio, pero aún está usted algo <if(gnum4,tosca,tosco)>, y necesita un mayor pulido." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_22", "hash": "F34B7D329D0755D5", "target": "Es decir, aún le falta experiencia en el mundo. Pero no dudo de que no tardará en estar <if(gnum4,lista,listo)> para empuñar el martillo de cincelar." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_SYSTEM_000_23", "hash": "62B91748CE40465B", "target": "Antes de adoptar otra disciplina, debes completar la misión de nivel 10 de tu clase inicial." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_24", "hash": "F323947FA788F26F", "target": "Me complace enormemente oírle decir eso. Como primer paso, quisiera que comprendiera el propósito de nuestro gremio." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_25", "hash": "464E4D1781E5F122", "target": "Los vastos recursos minerales de Thanalan dieron origen a una gran tradición orfebre, refinada a lo largo de las eras. Nuestras técnicas son célebres en todo el reino, y nuestras creaciones gozan de la más alta estima." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_26", "hash": "BB493FB9C4D07F40", "target": "Sin embargo, nosotros, los de Joyas de Eshtaime, la principal fuente de joyería uldahí, no nos contentamos con dormirnos en los laureles." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_27", "hash": "2666DC0F0E33697F", "target": "Deseosos de hacer avanzar nuestro oficio, volvimos la mirada hacia Oriente, el único lugar del mundo conocido cuya orfebrería, se decía, rivalizaba con la nuestra." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_28", "hash": "FE4565E25DDF39BD", "target": "Levantamos las mejores instalaciones para atraer a sus maestros hasta aquí, y fundimos sus técnicas foráneas con las nuestras. Nuestro gremio se convirtió pronto en el centro de la orfebrería eorzea." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_29", "hash": "EB09F6CFA3332670", "target": "Sí, aquí se beneficiará de la refinada sabiduría de incontables artesanos veteranos. Aprenderá a ver el potencial de sus materiales y a moldearlos a su voluntad." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_30", "hash": "985A11D3C358D6BD", "target": "Son habilidades esenciales, pues un orfebre debe afinar la vista para identificar y tasar toda clase de materiales y─cuando sea menester─reconocer las imitaciones por lo que son." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_31", "hash": "9C601BE8EAF36C7B", "target": "Se dice incluso que un maestro orfebre puede discernir la autenticidad de un hombre mismo." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_32", "hash": "FE5AA708F72F6F94", "target": "Puede que algún día llegue a poseer semejante ojo. Pero hasta la joya más magnífica comienza su vida como una piedra en bruto. Antes ha de ser tallada y pulida para poder deleitar la vista con su brillo." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_33", "hash": "72F338CB3707F537", "target": "Si desea convertirse en orfebre, habrá de pulirse a sí <if(gnum4,misma,mismo)> como puliría una gema. Requerirá mucho tiempo y esfuerzo, y no hay garantía de éxito." },
+    { "gameKey": "quest/001/ClsGld001_00187#TEXT_CLSGLD001_00187_JEMIME_000_34", "hash": "2CDEDD6D68C5FB20", "target": "Si está <if(gnum4,segura,seguro)> de que esta es la vida que busca, hable conmigo una vez más." }
+  ]
+}

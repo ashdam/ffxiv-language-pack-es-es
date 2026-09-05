@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/000/SubFst022_00097",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_SEQ_00", "hash": "D1B86B716BE9F29F", "target": "Eadbert necesita que alguien investigue los alrededores del Árbol de la Linde." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_SEQ_01", "hash": "17E1E6A8FA592202", "target": "Eadbert te pide que investigues los informes de avistamientos de Ixal cerca del Árbol de la Linde, al sureste del Molino de Hyrst. Si le ocurriera algún daño al árbol sagrado, sería una terrible tragedia." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_SEQ_02", "hash": "74C80AC361C0B86E", "target": "Un Ixal te tiende una emboscada mientras investigas el Árbol de la Linde. Tras una frenética batalla, sales victorioso. Vuelve a informar a Eadbert en el Molino de Hyrst." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_SEQ_03", "hash": "DE115996857506B2", "target": "Eadbert te cuenta que los Ixal vivían antaño en la Selva de los Doce, pero fueron expulsados hace mucho tras incurrir en la ira de los elementales. Ese es, explica, el origen del resentimiento de los hombres bestia hacia los gridanios que ahora tienen la Selva de los Doce por hogar." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_TODO_00", "hash": "E9423FDDD23BCD04", "target": "Investigar el Árbol de la Linde" },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_TODO_01", "hash": "8885D5A8855898E2", "target": "Informar a Eadbert" },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_1", "hash": "8729A03D5F73A93F", "target": "¿Te importaría acercarte al Árbol de la Linde y comprobar que todo está en orden?" },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_2", "hash": "45D71B64E44795A5", "target": "Desde tiempos antiguos, ese árbol ha velado por estos bosques con su sagrada presencia. Últimamente, sin embargo, nos llegan informes de Ixal merodeando por sus cercanías." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_3", "hash": "8DE1157B7EC61C10", "target": "No más que exploradores, apostaría, pero si llegaran a ponerle sus sucias manos encima al Árbol de la Linde..." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_4", "hash": "37027390F3FFD149", "target": "En fin, no quiero ni pensarlo. Así que te agradecería mucho que fueras al sureste, hasta el Árbol de la Linde, y comprobaras que no ha sufrido daño alguno. Ah, y si te topas con algún Ixal, ponlo en fuga." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_5", "hash": "52914F7E31E50E21", "target": "Pero ándate con ojo: los hombres pájaro no suelen marcharse sin pelea. Asegúrate de ir bien <if(gnum4,preparada,preparado)> y mantente alerta, ¿de acuerdo?" },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_10", "hash": "366CED4A1C4CEACB", "target": "¿Abatiste a un Ixal, eh? ¡Ja! ¡Esos malditos pájaros se lo pensarán dos veces antes de acercarse a nuestra aldea!" },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_11", "hash": "AA1841A05E777B76", "target": "Los Ixal habitaron antaño la Selva de los Doce, ¿sabes? Pero hace mucho despertaron la ira del bosque y fueron expulsados." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_12", "hash": "13394E131AAC5C2E", "target": "Ni que decir tiene que no les hizo gracia que los gridanios ocupáramos su lugar aquí. De hecho, no es sino ese resentimiento lo que prendió su odio hacia nosotros. Ah, pero me temo que te estoy aburriendo." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_EADBERT_000_13", "hash": "DAF363BF2562AEBB", "target": "Al defender el Árbol de la Linde, has vuelto a demostrar que eres <if(gnum4,una amiga,un amigo)> del Molino de Hyrst. Si te sobra un momento, te pido que hables con otros vecinos de la aldea. Muchos aquí agradeceríamos una mano, y no se me ocurre nadie mejor para ayudarlos." },
+    { "gameKey": "quest/000/SubFst022_00097#TEXT_SUBFST022_00097_SYSTEM_000_20", "hash": "80F392EF7B8824CD", "target": "¡Percibes una presencia hostil!" }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/007/GaiUsa703_00776",
+  "questName": "Come Highly Recommended",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_00", "hash": "4D9A924A3CA4CF55", "target": "Meffrid quiere recompensarte por tu amabilidad." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_01", "hash": "935467DFA6CAB183", "target": "Agradecido por tus muchas muestras de bondad, Meffrid te recomienda con gusto a sus camaradas de la Resistencia alamhigana. Te entrega una carta de presentación y te indica que se la enseñes a Gundobald en Pequeña Ala Mhigo." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_SEQ_02", "hash": "6C494877EAAAAB29", "target": "Gracias a la carta de Meffrid, Gundobald deja a un lado su desconfianza y te ofrece su mano en señal de amistad. Por fin podrías averiguar algo que te lleve hasta Lahabrea." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_TODO_00", "hash": "97ED0195AEA46A33", "target": "Enseñar la recomendación de Meffrid a Gundobald en Pequeña Ala Mhigo" },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_000", "hash": "AD4182357B12BD78", "target": "Ahora que las cosas están relativamente tranquilas, creo recordar que querías algo de mí." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_001", "hash": "42C1496672C9B45A", "target": "Has demostrado ser <if(gnum4,una verdadera amiga,un verdadero amigo)> de mi pueblo. Pídeme lo que quieras y será tuyo, siempre que esté en mi mano dártelo." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_002", "hash": "2EC6BA687EC04003", "target": "¿La cooperación de la gente de Pequeña Ala Mhigo? ¿Eso es todo? No seré yo quien cuestione tus deseos, por supuesto... Muy bien, te daré una carta para que se la enseñes a Gundobald." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_MEFFRID_000_003", "hash": "215372F9D4FA0619", "target": "El viejo oso fue mi mentor cuando me uní a la Resistencia. Impone a quienes no lo conocen, pero cuida de los suyos. No me cabe duda de que hará todo cuanto esté en su mano por ayudarte." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_010", "hash": "D00E1C2309437278", "target": "¿Por qué has vuelto? No eres bienvenid<if(gnum4,a,o)> aquí; creía habértelo dejado claro." },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_020", "hash": "D80ADD49E93D6D55", "target": "Tú... ¿has hablado con Meffrid? Hacía tanto que no sabía de él que lo temía muerto... ¡Alabados sean los Doce...!" },
+    { "gameKey": "quest/007/GaiUsa703_00776#TEXT_GAIUSA703_00776_GUNDOBALD_000_021", "hash": "C438EEB7760ABC13", "target": "Seas quien seas, Meffrid te tiene por <if(gnum4,amiga,amigo)>, y todo amigo de Meffrid es amigo mío. Conozco a ese desconocido enmascarado que buscas, y te diré lo que pueda." }
+  ]
+}

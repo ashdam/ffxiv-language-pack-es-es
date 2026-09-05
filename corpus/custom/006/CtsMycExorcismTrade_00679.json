@@ -1,0 +1,15 @@
+{
+  "conversation": "custom/006/CtsMycExorcismTrade_00679",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_000", "hash": "FF2C9A3EB88E1A72", "target": "Le pido disculpas, <if(gnum4,señorita,señor)>, pero debemos hacer inventario de nuestras existencias antes de solicitar más aportaciones." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q1_000_000", "hash": "A3FA4D6DD0A9BD5C", "target": "¿Qué quieres hacer? (Bozjan Clusters: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_000", "hash": "6535D87B263E7D31", "target": "Solicitar despliegue prioritario en enfrentamientos cruciales.<br>(Bozjan Clusters necesarios: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_001", "hash": "B6377CB7EDAC9E24", "target": "Intercambiar Bozjan Clusters por objetos." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_002", "hash": "F4A9C6394F70DE20", "target": "Preguntar por los Bozjan Clusters." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_A1_000_003", "hash": "FA9F61198D0F708A", "target": "Nada." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_Q2_000_000", "hash": "413D5E7B4D7B44FF", "target": "¿Solicitar despliegue prioritario en enfrentamientos cruciales?<br>(Bozjan Clusters: <num(lnum1)>)" },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_001", "hash": "76D271B41B5DCA17", "target": "Le pido disculpas, <if(gnum4,señorita,señor)>, pero para el despliegue prioritario se requiere una aportación de al menos <num(lnum1)> Bozjan Clusters." },
+    { "gameKey": "custom/006/CtsMycExorcismTrade_00679#TEXT_CTSMYCEXORCISMTRADE_00679_RESISTANCESUPPLY_000_002", "hash": "C7A2C61CEBC15489", "target": "Muy bien. En cuanto se detecte la próxima amenaza de alto nivel, nos pondremos en contacto con usted para desplegarle de inmediato." }
+  ]
+}

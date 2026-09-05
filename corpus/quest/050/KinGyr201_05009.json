@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/050/KinGyr201_05009",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SEQ_00", "hash": "1560DB290D4F6DA3", "target": "Un explorador del Ala de la Protección anda buscando a un aventurero de valía." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_TODO_00", "hash": "84F7050789C63BA7", "target": "Hablar con Bol Ogaw" },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_001", "hash": "85F75EDE9B152238", "target": "Disculpe. ¿No será usted <string(gstr1)>? <if(gnum4,La aventurera llegada,El aventurero llegado)> de allende la sal que presta su fuerza a la Tercera Promesa." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_002", "hash": "3852B9C9E21F6014", "target": "Disculpe. ¿No será usted <string(gstr1)>? <if(gnum4,La aventurera llegada,El aventurero llegado)> de allende la sal que presta su fuerza al Servidor del Alba." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_003", "hash": "D8CD62EE7C7942D9", "target": "¡Entonces es un placer! A decir verdad, llevaba tiempo queriendo conocerle. Tengo una propuesta que hacerle." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_004", "hash": "39127C609ED34BA2", "target": "Conocerá las cacerías eorzeas, ¿verdad? Aquí, en Tuliyollal, tenemos algo muy parecido. Y, habiendo oído hablar tanto de su espíritu filantrópico ─y no digamos de su capacidad para la violencia─, nos gustaría mucho reclutarle para nuestra causa." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_MAMOOLJA05009_000_005", "hash": "24DBB95CA0D601BA", "target": "Si le interesa, hable con mi colega Bol Ogaw. Ese Xbr'aal es un maestro de la caza y lleva los carteles en la plaza que domina el puerto. Dígale que le recomienda el Ala de la Protección." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_010", "hash": "26D75C789FD38F81", "target": "Vaya, ¿y usted quién es...?" },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_011", "hash": "2C8455D173A15CCF", "target": "Mmm... La postura podría pulirla un poco, pero tiene buenos ojos. Ojos que han visto unas cuantas cosas. ¿Viene a apuntarse?" },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_012", "hash": "D1F63490DE25A6BF", "target": "¡Je! ¿Que le recomienda el Ala de la Protección? Bueno, siempre andamos buscando cazadores nuevos, y si vale usted para Wuk Lamat, vale para nosotros." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_013", "hash": "2FE3DD0F16914D60", "target": "Es un placer contar con usted, <split(<string(gstr1)>, ,1)>. Supongo que más vale que empiece por las presentaciones." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_014", "hash": "5E47E6632AB21C33", "target": "¿O quizá no hace falta? Al fin y al cabo, la idea vino de su orilla del mar. Fue Koana quien nos enseñó cómo lo hacen ustedes." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_015", "hash": "E590E526F08EDDD2", "target": "Sea como sea, seré breve. Nuestra cacería funciona igual que en Eorzea. Ponemos precio a las bestias que se han vuelto enemigas del pueblo. Usted las mata, nos trae la prueba y cobra su recompensa." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_016", "hash": "7DAA5D1AA8DF2591", "target": "Le precederá la fama, pero las normas son las normas, y la norma dice que todo aspirante empieza por los carteles de principiante. No puedo dejar que <if(gnum4,cualquier moza,cualquier mozo)> sin más patrimonio que un arado y un sueño de gloria se marche tan <if(gnum4,contenta,contento)> a su perdición." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_BOLOGAW_000_017", "hash": "9584791A49D2EF14", "target": "¡Demuestre lo que vale en Tural y le daré presas más grandes y con más dientes!" },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SYSTEM_000_018", "hash": "BC7479E60ECBADC1", "target": "Ya puedes aceptar carteles de la Cacería del Alba de nivel principiante en el tablón de la Cacería del Alba de Tuliyollal." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SYSTEM_000_019", "hash": "62AB51C31D8C25F5", "target": "Al abatir a los monstruos descritos en los carteles recibirás fichas que podrás canjear por objetos exclusivos." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SYSTEM_000_020", "hash": "21E7FB88DD0DE493", "target": "Para canjear las fichas por objetos exclusivos, habla con Ryubool Ja en Tuliyollal." },
+    { "gameKey": "quest/050/KinGyr201_05009#TEXT_KINGYR201_05009_SYSTEM_000_001", "hash": "128054762FD458A9", "target": "Bol Ogaw ofrecerá nuevas misiones y carteles de la Cacería del Alba de nivel intermedio cuando alcances el nivel 94 y cumplas ciertas condiciones en la historia principal." }
+  ]
+}

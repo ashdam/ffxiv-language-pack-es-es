@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/005/ClsPgl021_00553",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_SEQ_00", "hash": "E5A73CA1AC196D5E", "target": "Hamon desea enseñarte tu primera lección." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_SEQ_01", "hash": "5E9C0512F1462EA4", "target": "Tras dar su aprobación al par de hora que cuelga de tus caderas, el maestro de gremio Hamon te ordena que salgas a abatir tres shrews, tres hornets y tres marmots." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_SEQ_02", "hash": "AEFDACE8E447C662", "target": "Has logrado abatir a las criaturas indicadas. Informa a Hamon en el Gremio de Púgiles." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_SEQ_03", "hash": "9D6FA0BDB72F6C37", "target": "Hamon está satisfecho con tu actuación contra la fauna nociva de Thanalan y te pide que te apliques en tu adiestramiento.<br><br>※La próxima misión de púgil estará disponible con Hamon al alcanzar el nivel 5." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_TODO_00", "hash": "566472019ABB36F5", "target": "Abatir a los star marmots como púgil" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_TODO_01", "hash": "A71C5CE510404B0B", "target": "Abatir a los huge hornets como púgil" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_TODO_02", "hash": "3501666B7EF28BAF", "target": "Abatir a los snapping shrews como púgil" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_TODO_03", "hash": "067EB89E6F3AAD13", "target": "Informar a Hamon en el Gremio de Púgiles" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_1", "hash": "199FACABDAE6989E", "target": "¡Tienes toda la pinta de un púgil, <if(gnum4,muchacha,muchacho)>! ¡Que empiece el aprendizaje!" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_2", "hash": "F966660460826215", "target": "Para tu primera lección, quiero que pongas a prueba tus incipientes habilidades contra las alimañas de Thanalan. Sal ahí fuera y abate tres marmotas, tres avispones y tres musarañas. Vuelve aquí cuando esté hecho." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_3", "hash": "6E5033CBA4A3B7EA", "target": "Ahora bien, no hace falta decirlo, pero espero que luches con las hora que acabo de darte. No cuenta para nada si ensartas a los bichos con una lanza o los achicharras con un hechizo, pongamos." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_10", "hash": "09469CB6D87305C8", "target": "¡Ah, ya has vuelto, y sin acusar el esfuerzo! ¡El vigor de la juventud es una auténtica bendición!" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_11", "hash": "67E92CFF62B6C010", "target": "Si quieres hacerte fuerte, no debes descuidar tu entrenamiento. En efecto, un púgil vale tanto como el número de golpes que ha asestado." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_12", "hash": "46A168BE76CF793D", "target": "Así que sal ahí fuera, <split(<string(gstr1)>, ,1)>, y deja volar los puños. Cuando llegue el momento, te enseñaré algo nuevo." },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_HAMON_000_13", "hash": "EE8822AF3773A232", "target": "No hay límite para el potencial de la juventud. ¡Aguardo con ganas verte dar la talla! ¡Fo, fo, fo!" },
+    { "gameKey": "quest/005/ClsPgl021_00553#TEXT_CLSPGL021_00553_SYSTEM_000_50", "hash": "B1460985E3EADA0D", "target": "La próxima misión de púgil estará disponible con Hamon al alcanzar el nivel 5." }
+  ]
+}

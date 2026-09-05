@@ -1,0 +1,77 @@
+{
+  "conversation": "quest/006/SubWil141_00674",
+  "questName": "Call of the Sea",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_1",
+      "hash": "5747D74012B12770",
+      "target": "Ah, <if(gnum4,mi señora emisaria,mi señor emisario)>. Confío en que su estancia en el sultanato haya sido grata. Dígame, ¿tiene acaso planes de visitar Limsa Lominsa próximamente? De ser así, tengo cierta información que podría interesarle."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_2",
+      "hash": "0961A1D92A426504",
+      "target": "Tiempo atrás acompañé al General de las Llamas a la ciudad-estado costera en visita oficial, y allí conocí a Baderon, el dueño de Drowning Wench. Ahora me avisa de que busca <if(gnum4,una aventurera capaz,un aventurero capaz)>."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_3",
+      "hash": "3D49173D68054562",
+      "target": "No se me ocurre nadie con mejores credenciales que usted. A Baderon sin duda le complacería que le ofreciera sus servicios."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_FLAME_000_10",
+      "hash": "A1FD0994EAA0C353",
+      "target": "Baderon necesita <if(gnum4,una aventurera capaz,un aventurero capaz)>, y no se me ocurre nadie con mejores credenciales que usted. Si no está ocupad<if(gnum4,a,o)> en otra cosa, quizá podría plantearse ofrecerle sus servicios."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_20",
+      "hash": "8D448E09713E7FD2",
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> a Drowning Wench! Siéntate donde quieras, <if(gnum4,muchacha,amigo)>. Enseguida estoy con—"
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_21",
+      "hash": "6AA6FC0AA391BCFB",
+      "target": "¡Vaya, vaya, pero si es <string(gstr1)> en persona!"
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_22",
+      "hash": "0163E2AB09D33A20",
+      "target": "Me dijeron que podría presentarse <if(gnum4,una aventurera,un aventurero)> de lo más <italic(1)>ilustre<italic(0)>. ¡Y resulta que esa persona eres tú, ¿eh!?"
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_23",
+      "hash": "3B2154F0A2A55EFB",
+      "target": "¿Hm? Sí, soy Baderon, en efecto. ¿Quién pregunta?"
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_24",
+      "hash": "70CF1BFA225D98F6",
+      "target": "Ah, ¿que has oído que tengo un trabajo para <if(gnum4,una aventurera capaz,un aventurero capaz)>? ¡Pues estás en lo cierto, maldita sea!"
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_BADERON_000_25",
+      "hash": "550EABF2974EEC24",
+      "target": "Eso sí, que quede claro: este no es un trabajo para pusilánimes. La cosa puede ponerse endiabladamente fea. Pero si aún te interesa, dímelo y te pongo al corriente de los detalles."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_00",
+      "hash": "D7530DD0FD63291B",
+      "target": "Bartholomew tiene información que podría interesarte."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_01",
+      "hash": "8FA65A544D639D0B",
+      "target": "Baderon, el dueño de Drowning Wench en Limsa Lominsa, necesita <if(gnum4,una aventurera capaz,un aventurero capaz)>. Habla con él si quieres saber más."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_SEQ_02",
+      "hash": "5EB84F2D25E445F7",
+      "target": "Baderon te advierte de que el trabajo entrañará un peligro considerable. Si estás decidid<if(gnum4,a,o)> a aceptarlo, vuelve a hablar con él para que te ponga al corriente."
+    },
+    {
+      "gameKey": "quest/006/SubWil141_00674#TEXT_SUBWIL141_00674_TODO_00",
+      "hash": "D94F07B732525993",
+      "target": "Hablar con Baderon en Drowning Wench, en Limsa Lominsa"
+    }
+  ]
+}

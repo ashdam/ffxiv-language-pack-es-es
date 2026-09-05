@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/012/BanAma307_01248",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_SEQ_00", "hash": "317A8317E28D8CD7", "target": "Yadovv Gah quiere arrancar el corazón a sus enemigos con fuego." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_SEQ_01", "hash": "D1461F263879D8C5", "target": "Es tradición que los Amalj'aa sean enterrados con sus armas, pues son guerreros tanto en la muerte como en la vida. A la inversa, se considera un sacrilegio que las armas de los muertos sean retiradas de sus tumbas. Yadovv Gah ya se ha encargado de ese oscuro acto; solo queda que tú expongas las armas robadas en Zahar'ak y muestres a los Flamefangs que sus hermanos caídos han sido deshonrados." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_SEQ_02", "hash": "E8A2147B63760AA3", "target": "Mientras los gritos de los Flamefangs resuenan en tus oídos, comprendes que tus monumentos a su desdicha han logrado el efecto deseado. Informa a Yadovv Gah de tu éxito." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_SEQ_03", "hash": "252A5B146D3204AC", "target": "Consciente de que otros podrían encontrar sus métodos desagradables, Yadovv Gah sostiene que, al quebrar el espíritu de sus enemigos jurados, se asegura de que sean menos propensos a buscar venganza. Si su estrategia resulta eficaz, el conflicto entre la Hermandad y los Flamefangs podría acabar antes de lo previsto." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_TODO_00", "hash": "79EA76051902CB00", "target": "<if([lnum1<lnum3],Erigir monumentos con las armas robadas en Zahar'ak,Erigir el último monumento en Zahar'ak)>" },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_TODO_01", "hash": "E9E101424B17E01B", "target": "Informar a Yadovv Gah" },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_000", "hash": "E2C9DA4FEB5E4528", "target": "Los Amalj'aa somos guerreros en la muerte, como en la vida. Por esta razón, es costumbre ser enterrado con las armas propias..." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_002", "hash": "DC2DF4514F315C5A", "target": "Armas como estas, tomadas de las tumbas de los Flamefangs. Sí, con este sacrilegio hemos traído gran deshonra sobre sus caídos. Pero no quisiera que acabara ahí." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_003", "hash": "7E3108A14A52EA73", "target": "¡Haz monumentos de lo robado para que todo Zahar'ak lo vea! Demuestra que ninguna gloria les aguarda, ni en esta vida ni en la siguiente." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_010", "hash": "FED1A109B27B30DD", "target": "No hay mayor deshonra que la que se inflige a los muertos. Si te capturan, no recibirás cuartel." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_AMALJAA_000_011", "hash": "EC1138C788A0B5D6", "target": "Esto... ¡esto es una abominación!" },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_020", "hash": "C128B7F372C1FBC3", "target": "¡Los Flamefangs lloran por sus hermanos deshonrados! Nos maldicen; nos odian. Y lo más importante: ¡nos temen!" },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_YADOVVGAH_000_021", "hash": "AA250B1611C75EE3", "target": "Rompe el cuerpo de un guerrero y ansiará venganza. Rompe su espíritu y clamará por la paz. Juzga mis métodos desagradables si quieres, pero has de saber que busco poner fin a este conflicto, no prolongarlo." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_POP_MESSAGE", "hash": "40D35B8019420929", "target": "Un lamento resuena por el desierto..." },
+    { "gameKey": "quest/012/BanAma307_01248#TEXT_BANAMA307_01248_POP_MESSAGE_000_000", "hash": "1B26D4FE18A7E965", "target": "¡El enemigo aún ronda por aquí!" }
+  ]
+}

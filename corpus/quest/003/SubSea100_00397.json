@@ -1,0 +1,72 @@
+{
+  "conversation": "quest/003/SubSea100_00397",
+  "questName": "Sky-high",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_1",
+      "hash": "E821333B6071D7B2",
+      "target": "¿Qué tal te va, <split(<string(gstr1)>, ,1)>? ¿Descansado y listo para ampliar tus horizontes?"
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_2",
+      "hash": "32F1C2AF8B7E6D6A",
+      "target": "Pues bien, tengo una idea de adónde podrías dirigirte ahora. ¿Has oído hablar del Skylift, en La Noscea Central?"
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_3",
+      "hash": "515F4314132105BF",
+      "target": "Si alguna vez has visitado el Cañón de los Susurros, seguro que has subido y bajado por él al menos una vez. Es ese enorme y condenado andamiaje adosado al Descent."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_4",
+      "hash": "4684D548A6D1CD0D",
+      "target": "Seguro que has visto a los mozos y mozas de allí usándolo para subir carga por el acantilado. Duro trabajo, y me han dicho que les vendría bien un alma emprendedora que se ocupe de los recados que ningún otro tiene tiempo de atender."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_BADERON_000_5",
+      "hash": "2402018A88907DDA",
+      "target": "Localiza al que lleva el cotarro ─un tipo llamado Wyrkrhit─ y seguro que te pondrá a trabajar en alguna que otra tarea."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_11",
+      "hash": "201D1E4CA56A843C",
+      "target": "Así que Baderon te ha mandado aquí, ¿eh? Pues considérate <if(gnum4,bienvenida,bienvenido)> al Skylift."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_12",
+      "hash": "D24389648FA82B0C",
+      "target": "Mira ese maldito acantilado, ¿quieres? Bastó una descarga de fuego infernal de aquel dragón enorme para partir el suelo en dos."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_13",
+      "hash": "0B4A203D07AE71E7",
+      "target": "Pero la carga aún tiene que pasar, así que este amasijo de madera y poleas fue nuestra solución al problema."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_WYRKRHIT_000_14",
+      "hash": "9DBB4517D020CBEE",
+      "target": "Bueno, una de ellas, al menos. Si los dioses fueran benévolos ─que no lo son─ tendría una docena más de trabajadores para lidiar con mi creciente lista de quebraderos de cabeza..."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_00",
+      "hash": "535B9834381D0F28",
+      "target": "Baderon, el dueño de Drowning Wench, tiene una sugerencia para encaminarte hacia nuevas aventuras."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_01",
+      "hash": "FCBA9DC87150311C",
+      "target": "Como el Skylift concentra toda la carga que pasa por el Descent, sus trabajadores apenas tienen tiempo de atender cualquier otra tarea que surja. Dirígete a la zona y habla con Wyrkrhit, el responsable de la operación."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_SEQ_02",
+      "hash": "50F106A73E2471F2",
+      "target": "El Skylift está desbordado por la incesante avalancha de carga que exigen las labores de reconstrucción. Ofrece cuanta ayuda puedas y contribuye a evitar que la operación se paralice."
+    },
+    {
+      "gameKey": "quest/003/SubSea100_00397#TEXT_SUBSEA100_00397_TODO_00",
+      "hash": "572902E61C44D7C6",
+      "target": "Hablar con Wyrkrhit, en el Skylift"
+    }
+  ]
+}

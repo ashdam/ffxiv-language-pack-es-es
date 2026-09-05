@@ -1,0 +1,632 @@
+{
+  "conversation": "quest/005/ManSea007_00544",
+  "questName": "Feint and Strike",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_050_1",
+      "hash": "9FC95F89B98C6EDE",
+      "target": "Me alegra tenerte a bordo, <if(gnum4,muchacha,muchacho)>. Bien, pues... ¿por dónde empiezo?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_1",
+      "hash": "4F317E5473AB35E1",
+      "target": "Cuando era más joven y más ruin, me ganaba la vida como espadachín a sueldo. En ese oficio, si querías saber qué tramaba el enemigo, tenías que aprender a leer las órdenes que les arrancabas de las manos frías y muertas a sus compañeros. Así aprendí a leer tu mensaje."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_2",
+      "hash": "A73AA485C1C3FC10",
+      "target": "A decir verdad, la escritura me resultaba de lo más familiar. Son letras <italic(1)>Sahagin<italic(0)>, <if(gnum4,muchacha,muchacho)>. Y sé de lo que hablo─he destripado a más mensajeros pescajos de los que puedo contar."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_3",
+      "hash": "96BE8A0140814EFC",
+      "target": "Pero la cosa empeora... El plan para volar la <italic(1)>Victoria<italic(0)> está todo aquí, hasta el último detalle."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_4",
+      "hash": "F476D847F3F643C2",
+      "target": "Parece que pretendían montar la de Dios en el oeste de La Noscea y luego atacar el nuevo buque insignia del Maelstrom en plena confusión."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_5",
+      "hash": "1843A7B36A9A1671",
+      "target": "La cuestión es que el ataque a la <italic(1)>Victoria<italic(0)> no fue cosa de unos cuantos piratas rebeldes─era una pieza clave del gran plan de algún desgraciado muy astuto."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_6",
+      "hash": "6A2242E79E2F454A",
+      "target": "Pero, si lo interpreto bien, el ataque se produjo demasiado pronto. Apuesto a que les entró el pánico al ver que les seguías la pista, se lanzaron a hacer el trabajo y la fastidiaron."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_7",
+      "hash": "5071598391D52371",
+      "target": "Mmm... Esos malnacidos con la cara tatuada que dicen que le pagaban al viejo de Ahtbyrm, son de los Saqueadores de la Serpiente, ¿verdad? ...Pero ninguno de su tripulación estaba allí, ¿a que no? ¿Tenían algo mejor que hacer, o qué?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_8",
+      "hash": "75DFFA5537F9D9DE",
+      "target": "...¡Por los siete infiernos! ¡Lo tenía todo del revés! Aquel lío de la <italic(1)>Victoria<italic(0)>─¡<italic(1)>eso<italic(0)> era la maldita distracción!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_9",
+      "hash": "54436C6D097A299B",
+      "target": "¡A los pescajos no les interesa el juguete del Maelstrom! Van tras las <italic(1)>personas<italic(0)>, como han hecho siempre. Están enviando a sus lacayos piratas a por un objetivo civil."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_10",
+      "hash": "CD1FD4EAAE4B1A26",
+      "target": "Esto de montar la marimorena en el oeste de La Noscea... ahí es donde será. Algo me dice que el Vencejo está a punto de recibir, ¡y de recibir fuerte!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_11",
+      "hash": "72DB2B591AF1D8DA",
+      "target": "Aquí tienes una traducción aproximada del mensaje."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_12",
+      "hash": "1F41FB673D4E7804",
+      "target": "Llévasela al comodoro Reyner, a la Torre de Coral, y dile que le espera un día ajetreado."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BADERON_000_13",
+      "hash": "05D87FF076E08A3A",
+      "target": "Ah, y échale una mano, ¿eh? Puedes estar bien seguro de que la necesitará."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_20",
+      "hash": "D632F34E44BABEFE",
+      "target": "Sí, yo soy Reyner. Ah, tú debes de ser <if(gnum4,la aventurera,el aventurero)> cuyo nombre parece estar en boca de todos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_21",
+      "hash": "75174E5A7E6C2284",
+      "target": "Mereces todo elogio por tu papel al frustrar el complot para destruir la <italic(1)>Victoria<italic(0)>. Y bien, ¿qué puedo hacer por ti hoy?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_22",
+      "hash": "196A7D5F086C369D",
+      "target": "¿Traes un mensaje urgente de Baderon? ¿Por qué me da que mis esperanzas de una <if([gnum11<12],<if([gnum11<4],noche,mañana)>,<if([gnum11<17],tarde,noche)>)> tranquila están a punto de irse cruelmente al traste? Dime, ¿qué ocurre?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_30",
+      "hash": "EC838A336FDF12AE",
+      "target": "¿¡Un asalto al Vencejo!? Pero no hemos visto nada que sugiera que los Saqueadores de la Serpiente estén concentrándose para atacar."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_31",
+      "hash": "71224E411FD7875D",
+      "target": "Aun así, sería una insensatez descartar la posibilidad─Baderon rara vez se equivoca en estos asuntos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_32",
+      "hash": "27689FCCD326B32C",
+      "target": "Movilizaré a las Casacas Amarillas para el combate de inmediato."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_33",
+      "hash": "CF24F90B1B2E409E",
+      "target": "La única cuestión es adónde enviarlas. Aunque coincido con Baderon en que el ataque al astillero pretendía ser una distracción, el Vencejo no es más que uno de los varios objetivos posibles del golpe principal."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKET_000_34",
+      "hash": "E21977A87CFF713A",
+      "target": "¡Comodoro, señor!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_35",
+      "hash": "A120F5505DDFACFD",
+      "target": "Informa."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKET_000_36",
+      "hash": "CE2E6250532BE3C3",
+      "target": "¡Son los Sahagin, señor! Han lanzado un asalto a gran escala contra el Dique Sur y amenazan con desbordar nuestras defensas en el plazo de un día. La guarnición solicita refuerzos inmediatos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_37",
+      "hash": "BE5D563718A799AD",
+      "target": "Por la Navegante... Parece que la decisión la han tomado por mí."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_38",
+      "hash": "16CA33245D31EFE1",
+      "target": "Reúne a las tropas y da la orden de marcha."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_39",
+      "hash": "EDABFDBB65D786C1",
+      "target": "Sí, los Saqueadores de la Serpiente están confabulados con los Sahagin."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_40",
+      "hash": "486E4E6431A6B56F",
+      "target": "...Lo que significa que hay muchas probabilidades de que este asalto al Dique resulte ser otra finta. Aun así, lo cierto es que no podemos permitirnos ignorarlo. Y eso deja al Vencejo vulnerable ante esos piratas traidores."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_41",
+      "hash": "9867BF7FA052BA91",
+      "target": "En momentos así es cuando desearía que los Guerreros de la Luz aún caminaran entre nosotros. Pero los deseos de nada sirven. <split(<string(gstr1)>, ,2)>, <italic(1)>tú<italic(0)> debes servir en su ausencia. Dirígete al Vencejo a toda prisa y presta tu fuerza a los escuadrones que puedo destinar a la defensa del asentamiento."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_45",
+      "hash": "260FDCA3A0C78C77",
+      "target": "¡El comodoro Reyner avisó de que recibiríamos refuerzos, pero no esperaba que te enviara a ti! Aunque bien se ve que has visto lo tuyo─te pareces poco a <if(gnum4,la mocosa,el mocoso)> de ojos como platos que conocí nada más bajar del transbordador."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_46",
+      "hash": "AA6C55B3BB297F20",
+      "target": "En cualquier caso, ¿sabes por qué luchas aquí? Este lugar─el Vencejo─lo reconstruyó gente que se mantuvo firme ante cada penuria que les echó encima la Calamidad."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_47",
+      "hash": "9A73A6354A6E3D10",
+      "target": "Y no vamos a permitir que una escoria amiga de los peces se lleve el honor de ser quienes por fin les quebraron el ánimo. No les des a esos malnacidos piratas ni un palmo de terreno, ¿me oyes?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_Q1_000_1",
+      "hash": "AF86C11A4A47B2D8",
+      "target": "El deber llama. ¿Deseas emprender<br>“Finta y estocada”?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_1",
+      "hash": "81D115B820DC67AB",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_A1_000_2",
+      "hash": "D596AD2A3B9203C7",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_GLAZRAEL_000_50",
+      "hash": "20E4EDBE5C826254",
+      "target": "¡Ahí vienen!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_DECKMAN_000_51",
+      "hash": "B1661B1EEE1EA295",
+      "target": "Un momento, creía que todos esos gusanos de la Casaca Amarilla estarían ocupados. Ese inútil no ha seguido el plan, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_HELMSMAN_000_52",
+      "hash": "F1C6655F5C512B70",
+      "target": "¿Y ahora qué? ¿Nos replegamos y esperamos a nuestros hermanos Sahagin?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BAENRYSS_000_53",
+      "hash": "EF82ED77C6043A14",
+      "target": "¡Y una mierda! ¡No vamos a volver con las manos vacías!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BAENRYSS_000_54",
+      "hash": "069015EA882A4B84",
+      "target": "¡Recordad: nada de matar a los aldeanos, o será <italic(1)>vuestra<italic(0)> sangre la que manche los altares del Señor Leviatán!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BAENRYSS_000_55",
+      "hash": "BDE7315DEB9F9C76",
+      "target": "¡A las gallinas amarillas podéis descuartizarlas a placer! ¡Esas babosas comedoras de tierra serán aplastadas bajo todo el poderío de los Saqueadores de la Serpiente!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_56",
+      "hash": "1E19F78D12B2CC55",
+      "target": "Parece que el Vencejo era el objetivo principal, después de todo, ¿eh?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_57",
+      "hash": "693C9E1E33F698BC",
+      "target": "¡Escuadrones Uno y Dos, proteged a los aldeanos! ¡Escuadrón Tres, sois la retaguardia!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_58",
+      "hash": "DBFB5EAF4BE2C035",
+      "target": "¡Los demás─recibiremos su carga sin movernos de aquí! ¡Llevémosle al comodoro noticia de nuestra victoria, o ninguna noticia en absoluto!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKETS_000_58",
+      "hash": "99737BDD0372DADD",
+      "target": "¡Por Limsa Lominsa!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_BAENRYSS_000_59",
+      "hash": "CEA0AB9FC4154DFF",
+      "target": "¡Argh! ¡Os destriparé a todas, gallinas, y bailaré sobre vuestras tripas!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_70",
+      "hash": "0E27028E07ED5217",
+      "target": "Buen combate─los Saqueadores están vencidos y dispersos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_71",
+      "hash": "CECB9906E6F64DB2",
+      "target": "Cogeré a unos cuantos hombres e iré a cazar a los rezagados. Ah, pero puede que aún queden más acechando por ahí, así que no bajes la guardia todavía."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_72",
+      "hash": "0A8DF13822091E19",
+      "target": "Ahora se aclara por qué <if(gnum4,es tan poderosa,es tan poderoso)>..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_73",
+      "hash": "D2908CCA3FB26D6F",
+      "target": "Puede que hayas derrotado al gólem, pero hoy no te irá tan bien."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_74",
+      "hash": "16D38F764A1A8691",
+      "target": "<colortype(547)>¡Oh, doliente voz de la creación! ¡Envíame una criatura del abismo, sierva sometida a mi mando, para que pueda fulminar a mis enemigos!<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_75",
+      "hash": "0A2FBD92F0E802AC",
+      "target": "Tu mera existencia pone en peligro el plan. No se te puede consentir vivir."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_MASKEDMAGUS_000_80",
+      "hash": "325B5BA2658C7D9B",
+      "target": "Unnngh... Que la sabiduría de los Dechados sea humillada... por simples mortales..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_81",
+      "hash": "7260D684240CDC6F",
+      "target": "¿“Dechados”, ha dicho? Entonces es como temía."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_82",
+      "hash": "D85E4BCE07EE837F",
+      "target": "Se los conoce como los Portadores del Caos... o <italic(1)>ascianos<italic(0)>, por darles su nombre propio."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_83",
+      "hash": "A08317B14AA51E67",
+      "target": "Parece que nuestras sospechas eran correctas─son ellos quienes han estado manipulando a las tribus bestiales."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_84",
+      "hash": "7D5D091E15D0BBAF",
+      "target": "¿Cómo? ¿Que si en Sharlayan nos hemos topado antes con ascianos?<br>...Nunca te he hablado de mi tierra natal. ¿Cómo has sabido de dónde vengo?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_85",
+      "hash": "D128CCF543D8F5A2",
+      "target": "Espera. Empiezo a comprender. Has sido <if(gnum4,bendecida,bendecido)> con un don especial."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_86",
+      "hash": "E92627C452F48259",
+      "target": "¿¡Estás bien, <if(gnum4,muchacha,muchacho)>!? Si hubiera sabido que un cabrón tan peligroso se escondía entre los matorrales, te habría dejado un escuadrón o seis para hacerte compañía."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_87",
+      "hash": "E199E65570C8778D",
+      "target": "Bueno, al menos ahora podemos dar por cerrada esta investigación de los secuestros. Esos Saqueadores eran quienes se llevaban a la gente en plena noche, y este malnacido de aquí movía todos los hilos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_88",
+      "hash": "212EB8639C56F756",
+      "target": "Un tanto simplista, pero no inexacto."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_89",
+      "hash": "2202D1290ED7E8C8",
+      "target": "Vine en cuanto sentí su presencia, pero jamás pensé que encontraría semejante escena de carnicería. Aun así, vencimos. Y gracias a tus heroicas acciones, he aprendido mucho."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_90",
+      "hash": "E5C0F83140563A51",
+      "target": "Sí, “heroicas” es la palabra. No quiero ni pensar en lo que habría pasado si no hubieras estado aquí, amigo."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_RYSSFLOH_000_91",
+      "hash": "5F8AAAF86C0FFEFD",
+      "target": "Y su ayuda también es muy de agradecer, señora Y'shtola. Le ruego que salude de nuestra parte a los Herederos."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_92",
+      "hash": "09ED51C21C1B9CCD",
+      "target": "Me alegra haber contribuido a poner lo que espero sea fin a esta inquietante oleada de secuestros."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_93",
+      "hash": "FF9911DF703AA868",
+      "target": "El hilo de tu destino forma parte de un tapiz de lo más intrigante. Quizá se nos conceda la ocasión de hablar más en un futuro cercano."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YSHTOLA_000_94",
+      "hash": "4B38052BFCE10A6B",
+      "target": "Por ahora, no obstante, debes llevar este relato en concreto a su conclusión. Te ruego que transmitas mis saludos al comodoro Reyner."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_GLAZRAEL_000_97",
+      "hash": "0E2268DDFD617D12",
+      "target": "¡Finta tras maldita finta! ¡Esos piratas se están volviendo demasiado listos, maldita sea!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKETA_000_98",
+      "hash": "19CAA090D68997B9",
+      "target": "¿Vienes a ayudar en la defensa? ¡Pues bien hallado! Qué alivio contar con tu ayuda, de verrras."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKETB_000_99",
+      "hash": "1DC1FC57AFF2E062",
+      "target": "¡Vamos, malnacidos sin agallas! ¡Veamos qué tal os va contra soldados entrenados!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_100",
+      "hash": "9EEEBAAC721A08E2",
+      "target": "¡<split(<string(gstr1)>, ,2)>, con qué impaciencia he esperado tu regreso!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_101",
+      "hash": "6C15109A5BFB2765",
+      "target": "La noticia de tus hazañas ya corre por las filas. Mis tropas y yo te debemos una gran deuda de gratitud por tu oportuna ayuda."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_102",
+      "hash": "7D751CAD4D334A56",
+      "target": "Has demostrado poseer un brazo firme, un espíritu fuerte y un juicio sensato. Ojalá Limsa Lominsa tuviera más gente como tú."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_103",
+      "hash": "66F3D9C435F52B62",
+      "target": "No me cabe duda de que algún día te unirás a las filas de los mejores aventureros de Eorzea. Es solo cuestión de tiempo."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_104",
+      "hash": "56F4B0385CD165B3",
+      "target": "Está claro que el ojo de Baderon para el potencial sigue tan afilado como siempre, aunque dudo que ni siquiera <italic(1)>él<italic(0)> te imaginara capaz de semejantes proezas."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_105",
+      "hash": "F89B1436592FCFFD",
+      "target": "¿Me harías el favor de contarme tu propia versión de los sucesos de hoy? ¡Semejantes victorias merecen ser contadas!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_110",
+      "hash": "BC24590CF893EA05",
+      "target": "Verás, Y'shtola lleva bastante tiempo colaborando con nosotros."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_111",
+      "hash": "185055BB549186CA",
+      "target": "Y estuvo más que dispuesta a ayudar a las Casacas Amarillas en la investigación de los secuestros, demostrando una vez más ser una firme aliada de Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_112",
+      "hash": "C91B3803459AE587",
+      "target": "Huelga decir que, tras tu papel al frustrar el intento de sabotaje de la <italic(1)>Victoria<italic(0)>, y el pequeño asunto de tus hazañas en el Vencejo, tú también has demostrado ser <if(gnum4,una valiosa amiga,un valioso amigo)> de la talasocracia."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_YELLOWJACKET_000_113",
+      "hash": "C418691A9239C5E0",
+      "target": "¡Almirante!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_REYNER_000_204",
+      "hash": "1FDB2D10262F3168",
+      "target": "Permíteme presentarte a la Almirante Bloefhiswyn."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400010_MERLWYB",
+      "hash": "3D07B7CB0760403F",
+      "target": "Así que esta es <if(gnum4,la aventurera,el aventurero)> de quien vengo leyendo en los informes de campo."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400020_MERLWYB",
+      "hash": "A91290BA1C987825",
+      "target": "Me resultas familiar. ¿Nos conocemos? ¿Tal vez en una entrega de medallas o algo así?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400030_MERLWYB",
+      "hash": "964C26B93B66D745",
+      "target": "¿No? ¿Tienes familia en el Maelstrom?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400040_MERLWYB",
+      "hash": "7CAFEE2D46A483ED",
+      "target": "Juraría que yo─ Pero es lo de menos. Al asunto."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400050_MERLWYB",
+      "hash": "04678010780F5617",
+      "target": "Soy Merlwyb Bloefhiswyn, Almirante de Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400060_MERLWYB",
+      "hash": "472DE2ABB37A5484",
+      "target": "En nombre de mi pueblo, te doy las gracias por las hazañas que has llevado a cabo hoy."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400070_MERLWYB",
+      "hash": "30270C4CB4D7FBEC",
+      "target": "Una muestra de nuestra gratitud. Al fin y al cabo, ¿de qué vale la buena estima sin una justa recompensa? ¡Ja!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400080_MERLWYB",
+      "hash": "FFAF5760002150E8",
+      "target": "Desde que pusiste el pie por primera vez en nuestra ciudad, mi buen amigo Baderon y el comodoro Reyner se han turnado para deleitarme con relatos de tus hazañas."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400090_MERLWYB",
+      "hash": "07AC7F0CD20E774B",
+      "target": "No exagero si digo que me causaron impresión. Acompáñame en el próximo banquete."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400100_MERLWYB",
+      "hash": "44FE1EB28F760177",
+      "target": "Un asiento de honor en el festín de celebración es lo mínimo que puedo ofrecer a <if(gnum4,la mujer,el hombre)> que frustró a los Sahagin."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400110_YELLOWJACKET",
+      "hash": "2D1C8A53A4C6A8BE",
+      "target": "¡Vaya!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400120_YELLOWJACKET",
+      "hash": "A7944E8990E31390",
+      "target": "¡Un asiento en el festín!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400130_MERLWYB",
+      "hash": "68C6C2157BAE2CFF",
+      "target": "Ah, y no llegues tarde."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_400140_MERLWYB",
+      "hash": "0C51479AC165C110",
+      "target": "Tus compañeros de mesa estarán deseosos de calibrar a su <if(gnum4,nueva heroína,nuevo héroe)>, y a algunos no les hace ninguna gracia que los hagan esperar. Hasta entonces, que camines a la luz del Cristal."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_TODO001",
+      "hash": "CD457277DF716425",
+      "target": "Derrotar a los Saqueadores de la Serpiente"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_RYSSFLOH_01",
+      "hash": "EBDF761D97F4A242",
+      "target": "¡Que no quede en pie ni un pirata de esa escoria! ¡Enseñadles cómo pelea una Casaca Amarilla!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_GLAZRAEL_01",
+      "hash": "05BC013A8BCA5F6B",
+      "target": "¡Buajajá! ¡Hora de partir algunas cabezas, <if(gnum4,aventurera,aventurero)>! ¡Empecemos por la carne de cañón de primera línea!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_RYSSFLOH_REACT_TO_VOID",
+      "hash": "E5F503C9CFCF73D9",
+      "target": "¿¡Eso es un maldito <italic(1)>ser del Vacío<italic(0)>!? ¡Manteneos firmes, muchachos!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_RYSSFLOH_02",
+      "hash": "48AB083AA49E0F4A",
+      "target": "¿¡Más de esos malnacidos!? ¡Pues venga!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_BOSS_01",
+      "hash": "511613349F6E371E",
+      "target": "Muy bien, malnacidos escorbúticos... ¡Aquí tenéis un truco que os hará ensuciaros los calzones!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_BOSS_02",
+      "hash": "572675DCF5BD9D00",
+      "target": "¡Morador del Abismo, tu amo te llama! ¡Atiende mis palabras y fulmina a mis enemigos!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_RYSSFLOH_DEAD",
+      "hash": "877EF0E5E267A5F0",
+      "target": "Maldición..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_GLAZRAEL_DEAD",
+      "hash": "03D714AB58B3F644",
+      "target": "Al menos caí peleando..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YELLOWJACKETARMYA_DEAD",
+      "hash": "0843137B7DECA361",
+      "target": "Qué frío..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YELLOWJACKETARMYB_DEAD",
+      "hash": "039598FA0D2199A6",
+      "target": "Este es mi fin..."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_GLAZRAEL_BOSS_HP25_REACT",
+      "hash": "F8717DEBE57219B0",
+      "target": "¡Seguid machacándolo! ¡No aguantará mucho más!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_TODO002",
+      "hash": "3FB39EB94117FA3B",
+      "target": "¡Derrota al mago enmascarado!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_START",
+      "hash": "CF7B8D125C5C8623",
+      "target": "¡Pronto te llevarás tus viles dones a la tumba!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_POISON",
+      "hash": "02E72459BE1225CA",
+      "target": "¡Muajajajá! ¡Retuércete mientras el veneno se abre camino por tus venas!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_01",
+      "hash": "3B3749B4F11841DE",
+      "target": "Una invitada inoportuna. No importa, ¡todos caeréis ante mí!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP60",
+      "hash": "9FBB2024D5411DA3",
+      "target": "¿¡De dónde brota este poder sobrenatural!?"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YSHTOLA_ENTER",
+      "hash": "C6B9F05F96A68908",
+      "target": "Un adversario temible... ¡pero no te enfrentarás a él <if(gnum4,sola,solo)>!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_MASKEDMAGUS_HP40",
+      "hash": "4B30D01708FAC64D",
+      "target": "¡Ningún mortal debería poseer semejante fuerza!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_QIB_YSHTOLA_MASKEDMAGUS_HP20",
+      "hash": "F3FAB99C702945E6",
+      "target": "¡Su poder mengua! ¡No le des ocasión de recuperarse!"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_00",
+      "hash": "291C056A341013FF",
+      "target": "Baderon tiene una tarea para un aventurero de confianza."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_01",
+      "hash": "434BBA67D0F05DD0",
+      "target": "Según Baderon, la misiva dirigida a Ahtzapfyn está escrita en escritura Sahagin y detalla los planes para destruir la <italic(1)>Victoria<italic(0)>. Aunque el mensaje menciona un ataque de distracción contra el Vencejo, el dueño de la Moza parece convencido de que los Saqueadores de la Serpiente mienten y de que su verdadero objetivo es el maltrecho asentamiento. Coge la nota que Baderon ha traducido a toda prisa y entrégasela al comodoro Reyner, en la Torre de Coral."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_02",
+      "hash": "4EFDAAE61D469DCB",
+      "target": "Aunque Reyner agradece la advertencia de Baderon, cree que el Vencejo es solo uno de los varios asentamientos que los Saqueadores de la Serpiente podrían planear atacar. Mientras el comodoro decide dónde desplegar sus fuerzas, llega un Casaca Amarilla con la noticia de que los Sahagin están asaltando el Dique Sur. Sin recursos para defender ambos lugares, Reyner te ordena que te des prisa en llegar al Vencejo y hables con el Casaca Amarilla Ryssfloh."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_03",
+      "hash": "099AFCCD86867A09",
+      "target": "Con la ayuda de las Casacas Amarillas, derrotas a los merodeadores Saqueadores de la Serpiente y libras a los habitantes del Vencejo de un destino peor que la muerte."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_04",
+      "hash": "D2D88A9820C252CD",
+      "target": "Según Y'shtola, los Sahagin y sus aliados piratas estaban siendo manipulados por un mago enmascarado al que ella llama «asciano». Aunque mucho sigue envuelto en misterio, en especial el extraño cristal negro que descubriste junto a los restos del mago, la verdad tras los secuestros ha salido por fin a la luz. Vuelve a la Torre de Coral e informa al comodoro Reyner."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_SEQ_05",
+      "hash": "3D34A883A6BCC21C",
+      "target": "Tu reunión con el comodoro Reyner se ve interrumpida por la aparición de la almirante Merlwyb, que te elogia por tus valientes hazañas. En reconocimiento de tus servicios a Limsa Lominsa, insiste en que asistas a un inminente banquete como <if(gnum4,invitada,invitado)> de honor. <if(gnum4,Orgullosa e intimidada,Orgulloso e intimidado)> a partes iguales, esperas con ilusión lo que promete ser una ocasión memorable."
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_TODO_00",
+      "hash": "3FB300E3AB5CDF35",
+      "target": "Entregar la nota de Baderon a Reyner"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_TODO_01",
+      "hash": "E49E67B61B62F6A3",
+      "target": "Viajar al Vencejo y hablar con Ryssfloh"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_TODO_02",
+      "hash": "CF8E6DED5BBA9AD8",
+      "target": "Informar a Reyner, en la Torre de Coral"
+    },
+    {
+      "gameKey": "quest/005/ManSea007_00544#TEXT_MANSEA007_00544_TODO_03",
+      "hash": "DB7A9CADA814CEE0",
+      "target": "Informar a Reyner, en la Torre de Coral"
+    }
+  ]
+}

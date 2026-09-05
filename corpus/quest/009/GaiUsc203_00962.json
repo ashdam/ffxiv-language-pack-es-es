@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/009/GaiUsc203_00962",
+  "questName": "The Reluctant Researcher",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_00", "hash": "45FE352EF3D7FD52", "target": "Ceana no tiene ningún deseo de viajar a las Islas de Umbra." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_01", "hash": "C2673B0C6E3F441C", "target": "Ante tu insistencia, Ceana accede a acompañarte a las Islas de Umbra para ayudarte a conseguir un corrupted crystal. Habla con el barquero para emprender el viaje." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_02", "hash": "11CA08E96173FD28", "target": "Un vistazo somero a la orilla no revela indicio alguno de muertos vivientes. Aun así, observas que a Ceana le tiemblan visiblemente las manos mientras aferra tu vasija protegida. Averigua qué la inquieta." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_03", "hash": "A368FD178D200AFE", "target": "Al final, Ceana sucumbe a su miedo y huye de vuelta al continente, aunque no sin antes devolverte tu vasija protegida e indicarte que hables con el hombre que monta guardia ante las puertas de Pharos Sirius." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SEQ_04", "hash": "11636A3163B3E5D3", "target": "Aunque Davyd comprende tus intenciones, no puede acceder a tu petición. Sería fácil dar muerte al hombre y adentrarte para hacerte con tu cristal. Sin embargo, como eso no es precisamente heroico, más te vale intentar con sinceridad hacerle cambiar de idea." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_TODO_00", "hash": "5778FD1BD7493ECF", "target": "Hablar con el barquero" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_TODO_01", "hash": "8DBB4ACE075B94C2", "target": "Hablar con Ceana" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_TODO_02", "hash": "77AE6A562D2A17CC", "target": "Mostrar la vasija protegida a Davyd" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_000", "hash": "10B9EA264BE82E46", "target": "\\<suspiro> ¡Está bien, está bien! No veo qué justifica que me arrastre en su viaje, pero, si insiste, iré yo también." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_001", "hash": "84273445EA306343", "target": "Pero, pongo a los Doce por testigo, ¡si me deja atrás para que me devore alguna horrenda abominación, yo... yo volveré para atormentarle!" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SENDO_000_010", "hash": "4BE2A3F9A7A5443A", "target": "¡Ja! «Llévame a las Islas de Umbra», ordena <if(gnum4,ella,él)>. Como si fuera tan simple como─ Ah, veo que tiene un salvoconducto. Está bien, pues suba a bordo." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_020", "hash": "A3D7CC9A553F7FAD", "target": "E-e-esto no parece tan terrible..." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_021", "hash": "C5998B5E0C299038", "target": "No digo que quisiera construirme aquí una casa de verano, pero─ Ah, al infierno con esto. Tome, coja su vasija y siga sin mí." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_022", "hash": "8F5E47683EE1E7DF", "target": "Ya ha recolectado cristales corruptos antes, ¿verdad? Así que no es que necesite mi ayuda. Hable con el hombre que custodia la puerta─seguro que le deja pasar. Y ahora, si me disculpa..." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_SENDO_000_025", "hash": "483B5CB6BE9D1EB4", "target": "¡Ja! «Llévame de <italic(1)>vuelta<italic(0)> a las Islas de Umbra», bromea <if(gnum4,ella,él)>. Como si alguien fuera a querer─ Ah, veo que habla en serio. Está bien, pues suba a bordo." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_028", "hash": "538A378CE0CEF302", "target": "¡Qué <if(gnum4,mujer,hombre)> más horrible! ¡Le dije bien claro que <italic(1)>no<italic(0)> me abandonara!" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_CEANA_000_029", "hash": "4A917E1A5CD6BF13", "target": "¿¡Y encima tiene la audacia de pedirme que le acompañe <italic(1)>otra vez<italic(0)>!? \\<suspiro> Está bien─pero no crea que voy a olvidar esto, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_DAVYD_000_030", "hash": "F2D65D709883FB54", "target": "Disculpe, <if(gnum4,señora,señor)>, pero ¿cómo ha llegado hasta aquí? El acceso a esta isla está restringido por el momento..." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_DAVYD_000_040", "hash": "C017BACA97A4278A", "target": "¿Una vieja vasija? No estoy seguro de entenderle. ...Ah, ya veo. Desea recolectar un cristal corrupto. Lo siento, <if(gnum4,amiga,amigo)>, pero puede que tenga que volver con las manos vacías." },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_Q1_000_100", "hash": "9FB123004704098C", "target": "¿Viajar a las Islas de Umbra?" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_A1_000_101", "hash": "4526F3521F5D0AE0", "target": "Sí" },
+    { "gameKey": "quest/009/GaiUsc203_00962#TEXT_GAIUSC203_00962_A1_000_102", "hash": "7D7763DD549DF08D", "target": "No" }
+  ]
+}

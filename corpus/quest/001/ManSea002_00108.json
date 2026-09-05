@@ -1,0 +1,262 @@
+{
+  "conversation": "quest/001/ManSea002_00108",
+  "questName": "Close to Home",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_1",
+      "hash": "28C738BAF1A233A8",
+      "target": "Muy bien, pues. Vamos a empezar con calma: tres tareas que te ayudarán a acostumbrarte a la vida aquí en Limsa."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_2",
+      "hash": "E0A8AB32A1BB421A",
+      "target": "Lo primero: baja un piso y pon rumbo al oeste, y verás el gran cristal reluciente que hay en medio del patio."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_3",
+      "hash": "1E54F538C9479EE9",
+      "target": "Eso es una eterita: un artilugio que te lleva de un sitio a otro en un abrir y cerrar de ojos. No hay forma más rápida de viajar... siempre que haya una eterita adonde quieras ir, claro."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_4",
+      "hash": "84DB5536D8A1B5FC",
+      "target": "Charla con la Casaca Amarilla que monta guardia ahí abajo y te soltará un buen discurso sobre cómo funciona el chisme. Pero antes de eso, acuérdate de tocarlo. Aunque suene raro, no funcionará hasta que lo hagas."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_5",
+      "hash": "BB84A409ED39C1C2",
+      "target": "Lo segundo de la lista es el mercado. Encontrarás armas, armaduras y todos los trastos de aventurero a la venta en el barrio que hay pasada la eterita."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_6",
+      "hash": "A6A8DF29A000BC23",
+      "target": "Pero no vayas tirando los giles por ahí todavía, o te desplumarán antes de que puedas decir: “¿Por qué pesa tan poco mi bolsa?”. Mejor habla con Swozblaet. Por cierto, es el cabecilla de la Liga de Mercaderes."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_7",
+      "hash": "44411CD55496E53F",
+      "target": "Dale este viejo octante y te tratará bien."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_8",
+      "hash": "1B15AC05747241AC",
+      "target": "Y como último de mis consejos, te sugiero que conozcas a otros que empuñan el hacha en el Gremio de Asaltantes."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_9",
+      "hash": "FD7CAD847D7821F9",
+      "target": "Te garantizo que aprenderás algún que otro truco para blandir ese rompecráneos tuyo si te unes a su tripulación. Blauthota, en el mostrador, es quien te pondrá en marcha."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_10",
+      "hash": "975F40E79C65FBFF",
+      "target": "¿Lo has pillado todo, <if(gnum4,muchacha,muchacho)>? Ocuparte de esas tres tareas te llevará a dar una vuelta por la ciudad y te ayudará a hacerte una idea de dónde está cada cosa. Bueno, más me vale seguir con lo mío. ¡Anda, en marcha!"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_11",
+      "hash": "83A51B5E96D56FF8",
+      "target": "¡Maldita sea! Ya voy y te mando fuera sin decirte algo importante. Esa condenada Calamidad me ha dejado la memoria hecha un desastre, te lo juro. Bueno, eso o la cerveza... En fin, cuando estés por ahí, si te cruzas con algún pobre desgraciado que parezca necesitar ayuda, plantéate escuchar su historia de penas, ¿eh?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_12",
+      "hash": "A084C3592E46B6C5",
+      "target": "Ya sé que suena a fastidio, pero nunca se sabe qué oportunidades interesantes pueden andar por ahí fuera, esperando a que tropieces con ellas. Por ejemplo, Niniya, esa de ahí, no te ha quitado el ojo de encima desde que entraste.<br>¿Por qué no le prestas oído y ves qué tiene que decir? Sí, al principio te tocará hacer recados de poca monta, pero en cuanto te ganes fama de ser <if(gnum4,una mujer,un hombre)> de fiar, los encargos se harán más difíciles y las recompensas, más generosas."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_13",
+      "hash": "A6E7F3C19475D919",
+      "target": "Si tienes tiempo, también buscaría el consejo del Smith aquí en Drowning Wench. Los mozos que ostentan ese título tienen buenos consejos para quienes empiezan en el oficio. Y <italic(1)>así<italic(0)>, <if(gnum4,muchacha,muchacho)>, es como uno se convierte en leyenda entre los aventureros."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_20",
+      "hash": "CB432098C5AEA92E",
+      "target": "Ah, otro aventurero novato. Sí, Baderon ha mandado hacia aquí a unos cuantos de los tuyos últimamente."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_21",
+      "hash": "8ECCFF8B73DA4C82",
+      "target": "Soy Sundhimal, de las Casacas Amarillas, el cuerpo encargado de velar por la paz en la ciudad. También es cosa mía orientar sobre el uso de este dispositivo. Tranquilo, seré breve."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_22",
+      "hash": "72918B5821CBBC4F",
+      "target": "Las eteritas son estructuras cristalinas que canalizan las energías etéreas. Se usan sobre todo como medio para viajar con rapidez de un lugar a otro."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_23",
+      "hash": "09EE84C862108CAC",
+      "target": "Return y Teletransporte ─los hechizos de transporte más comunes─ se sirven directamente de las eteritas y de su conexión con el flujo de éter."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_24",
+      "hash": "AF52EA8046707820",
+      "target": "Y como estos dispositivos se hallan en casi cada rincón de Eorzea, cualquier aventurero digno de tal nombre querrá localizarlas todas y sintonizarse con cada una por sí mism<if(gnum4,a,o)>."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_25",
+      "hash": "AC431EE57AE9F351",
+      "target": "En cuanto amplíes tus horizontes más allá de las murallas de la ciudad, pronto verás que sintonizarte con ellas se te vuelve algo natural."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_26",
+      "hash": "0F7130AC2032035B",
+      "target": "Aun así, no hay por qué apresurarse de forma indecorosa. Las eteritas que hay en la ciudad y sus alrededores bastarán por ahora, te lo aseguro."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SUNDHIMAL_000_27",
+      "hash": "C57FEB9450E80170",
+      "target": "Si deseas saber más sobre las eteritas o la magia de transporte, aquí estaré para responder a tus preguntas."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_31",
+      "hash": "27887D8863ED502E",
+      "target": "¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>! ¡<if(gnum4,Bienvenida,Bienvenido)> al mercado más surtido de todo el gran reino de Eorzea, donde cada estante cruje bajo el peso de maravillas llegadas de los cuatro rincones del mundo!"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_32",
+      "hash": "C4C9BBE888D6C82F",
+      "target": "¡Recorre los puestos hasta que te duelan los ojos de admirar tanta ganga increíble! Y por mucho que me encantaría explayarme sobre la calidad sin igual de nuestro género, debo atender un cargamento recién llegado a los muelles─"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_33",
+      "hash": "A3BBB705FE229770",
+      "target": "¿Hm? ¿Traes un obsequio de parte de Baderon? ¿Qué podría ser─ ¡Ah! ¡Mi octante! ¡Por la Navegante, debí de dejármelo en Drowning Wench, junto con la paga de una semana y unas cuantas campanadas de recuerdos de borrachera!"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_34",
+      "hash": "B3BF835CDC640DBD",
+      "target": "¡Te agradezco muchísimo que me lo devuelvas! Verás, esta herramienta es un recuerdo de mis días como capitán de barco. Ni que decir tiene que tu buena acción merece recompensa, ¿y qué mejor recompensa que la sabiduría de un maestro mercader?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_35",
+      "hash": "5F045A1FE7FCFAAD",
+      "target": "Si lo que buscas es equipo de aventurero sencillo y resistente, no tienes que ir más allá de los brazos este y oeste del Callejón de los Buhoneros."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_36",
+      "hash": "89B82EF124AAE600",
+      "target": "Por si lo dudas, cada gil que inviertas en armas y armaduras será dinero bien gastado. A fin de cuentas, la aventura es, por su propia naturaleza, un oficio peligroso."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_37",
+      "hash": "1EF966C0F3CF3186",
+      "target": "Ni que decir tiene que el Callejón de los Buhoneros presume de puestos especializados en las herramientas de cuanta disciplina marcial puedas imaginar."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_38",
+      "hash": "7849F02313282636",
+      "target": "Y a apenas unos pasos hay bazares y boticarios que abastecerán con creces todas tus necesidades de pociones y consumibles."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_39",
+      "hash": "9CABD96AC3B928CF",
+      "target": "Nuestros agentes de buen ojo consiguen una variedad de géneros francamente apabullante durante sus estancias en costas lejanas, así que conviene familiarizarse con el tipo ─y el precio─ de los artículos que ofrece cada puesto."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_40",
+      "hash": "0ABB16011F58EA04",
+      "target": "Tal conocimiento te será muy útil si tu bolsa anda ligera o tu tiempo escasea."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SWOZBLAET_000_41",
+      "hash": "4E1C7540FB84A771",
+      "target": "Ah, pero una instrucción de palabra como esta solo te aprovecha hasta cierto punto. La experiencia siempre ha sido la maestra más segura, aunque no la más amable. Te invito a explorar los mercados por tu cuenta."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_50",
+      "hash": "B5ACE33B50D0B8E9",
+      "target": "Hola, <if(gnum4,aventurera,aventurero)>. Sientes curiosidad por el Gremio de Asaltantes, ¿eh?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_51",
+      "hash": "C757B889D0719457",
+      "target": "Toda hacha que valga la pena necesita las dos manos en el astil y un filo capaz de partir el mástil de una galera. Esa es el arma que nuestros miembros aprenden a manejar con engañosa rapidez y previsible contundencia."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_52",
+      "hash": "09993F8B18BD95FC",
+      "target": "¿Te interesa oír más, <if(gnum4,muchacha,muchacho)>? Entonces, ¿por qué no te cuento la versión corta de la historia de cómo se fundó el gremio y ya seguimos a partir de ahí?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_53",
+      "hash": "E3E1BFD87EA84C47",
+      "target": "Todo empezó con los barcos, ¿sabes? ¿Que qué tienen que ver los barcos con las hachas, preguntas? Pues bien, construirlos sería endiabladamente difícil sin una herramienta robusta con la que talar árboles y sacar madera."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_54",
+      "hash": "D9D174120C79C395",
+      "target": "Y como solo la Navegante sabe cuándo un barco topará con una tormenta o algo peor, es lógico que el carpintero de a bordo lleve un hacha. Sí, todo empezó construyendo y reparando barcos. ¿Qué? ¿Te aburro?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_55",
+      "hash": "7D86B6125EA43957",
+      "target": "Hmph. Como iba diciendo, cualquier herramienta a bordo puede convertirse en arma, y el hacha era perfecta para engancharse a la borda de un navío enemigo, desatarse en un remolino de acero y, en general, arrasar con todo cuanto te rodea."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_56",
+      "hash": "B4CA57FB967E3910",
+      "target": "A medida que más marinos adoptaban el hacha como arma predilecta, el sangriento arte del merodeador empezó a tomar forma... sobre todo entre los piratas, donde la fuerza y la destreza decidían tu lugar en el mundo."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_57",
+      "hash": "463E1461484C1B14",
+      "target": "Con la mira puesta en reunir tripulaciones de asaltantes listos para la batalla, los piratas empezaron a enseñar a sus nuevos reclutas la forma correcta de blandir un hacha. Y <italic(1)>así<italic(0)> fue como nació el Gremio de Asaltantes."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_58",
+      "hash": "988E924706A47196",
+      "target": "Pero en cuanto se firmó el Acuerdo de Galadion para unir al Maelstrom y a los piratas contra los enemigos de Limsa, todo cambió por completo."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_59",
+      "hash": "5B2519A655D56207",
+      "target": "El acuerdo en sí fue un fracaso, claro, pero el Gremio de Asaltantes ya nunca volvió a ser el mismo: lo tomaron, lo reestructuraron y lo purgaron de todo elemento pirata. Renació como una institución dedicada solo a enseñar el combate con hacha."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_60",
+      "hash": "4454592DD5C05106",
+      "target": "Y los miembros de este nuevo Gremio de Asaltantes tampoco eran degolladores movidos por la codicia: eran guerreros que buscaban emplear su destreza marcial por el bien de la sociedad."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_61",
+      "hash": "14D859084D58CD8C",
+      "target": "Si dominar el hacha es lo que anhela tu corazón, no encontrarás mejor palestra en la que practicar tus mandobles."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BLAUTHOTA_000_62",
+      "hash": "69AB7045A92F7625",
+      "target": "Piénsatelo y luego dime si te apetece unirte a nuestras filas. Algo me dice que te veré más a menudo muy pronto, <if(gnum4,muchacha,muchacho)>."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_70",
+      "hash": "C51F92C48DC058D8",
+      "target": "Ah, aquí estás, <split(<string(gstr1)>, ,1)>. ¿Qué tal la vuelta por la ciudad? ¿La has disfrutado?"
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_71",
+      "hash": "B6707EC49F837AA3",
+      "target": "Si piensas establecerte en Limsa Lominsa, esa no será la última vez que visites esos tres lugares."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_72",
+      "hash": "2AC73172C97046A6",
+      "target": "Y ahora que ya tienes una idea de qué hay dónde, puedes empezar a explorar el resto de la ciudad."
+    },
+    {
+      "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_BADERON_000_73",
+      "hash": "3CBDA1FC3CF2FD8A",
+      "target": "Has demostrado tener buen oído para escuchar, <if(gnum4,muchacha,muchacho)>. Quédate con el viejo Baderon y llegarás lejos."
+    },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SEQ_00", "hash": "C6545CD341D62B9C", "target": "Baderon, dueño de Drowning Wench, quiere que realices tres tareas que te ayudarán a aprender los fundamentos de la aventura." },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SEQ_01", "hash": "1DF1699CCAB4F7BC", "target": "Baderon te ha encomendado tres tareas. Mientras recorres Limsa Lominsa, prueba a acercarte a los ciudadanos que parezcan necesitar ayuda." },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SEQ_02", "hash": "B69673D919A59B6A", "target": "Has completado las tres tareas. Vuelve a informar a Baderon en Drowning Wench." },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SEQ_03", "hash": "FDF4934F0028B000", "target": "Baderon te explica que los tres lugares que visitaste tendrán un papel destacado en tu vida de aventurero. Atiende bien sus consejos y aléjate cada vez más conforme crezca tu experiencia." },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_TODO_00", "hash": "423058EAE0FFB2BC", "target": "Sintonizarte con la eterita de las cubiertas inferiores" },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_TODO_01", "hash": "62635052A7B926F1", "target": "Escuchar la explicación de Swozblaet sobre los mercados" },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_TODO_02", "hash": "D1713E1E67991EB3", "target": "Visitar el Gremio de Asaltantes" },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_TODO_03", "hash": "8ED0D3BE70D0DC11", "target": "Informar a Baderon en Drowning Wench" },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SYSTEM_000_14", "hash": "A18BF9FB6B3438A6", "target": "Para salir de Drowning Wench, debes aceptar la misión «Hacerse un nombre» hablando con Niniya." },
+    { "gameKey": "quest/001/ManSea002_00108#TEXT_MANSEA002_00108_SYSTEM_000_28", "hash": "BF9EE9EF7ECBBC64", "target": "Te sintonizas con la eterita.<br>¡Ya puedes usar el hechizo Return!" }
+  ]
+}

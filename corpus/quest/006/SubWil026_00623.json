@@ -1,0 +1,92 @@
+{
+  "conversation": "quest/006/SubWil026_00623",
+  "questName": "Takin' What They're Givin'",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_1",
+      "hash": "3E1F78E355216C88",
+      "target": "Mira qué nos ha traído el coeurl. Me alegro de verle, <split(<string(gstr1)>, ,1)>. Le preguntaría qué le trae por aquí, pero creo que los dos ya sabemos la respuesta."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_2",
+      "hash": "33D34827818B18D0",
+      "target": "En fin, ¿acaso le he fallado alguna vez? Espere, no responda a eso..."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_3",
+      "hash": "8A238B045138288E",
+      "target": "Resulta que conozco a un tal Dadanen que necesita una mano. Es comerciante de oficio: vende piedras preciosas a quienes en Ul'dah tienen con qué comprarlas."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_4",
+      "hash": "61F552D43376CCF6",
+      "target": "Me ha pedido que le mande a cualquiera que busque trabajo. Puede encontrarlo en Horizon, si le apetece."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_5",
+      "hash": "7E6CFBDE6411CF12",
+      "target": "Está en Thanalan occidental, ojo. Cruce el puente al norte del Cruce del Escorpión y el camino le llevará hasta allí."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_100_5",
+      "hash": "7FD9213F3B15464B",
+      "target": "Conociendo los círculos en los que se mueve, puede que también tenga algún chisme sobre la familia real que le interese."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_6",
+      "hash": "1E850B6E9DF5B9B2",
+      "target": "¿Y por qué no aprovechar un chocobo porteador para el viaje a Horizon? Si tiene giles para ello, claro."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_7",
+      "hash": "0573367E9BEB758B",
+      "target": "Encontrará los establos de chocobos justo enfrente de mis Quicksand. Busque a Mimigun; él le pondrá al corriente."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_MOMODI_000_8",
+      "hash": "48FE7961E7E75CDA",
+      "target": "Bueno, ¡andando entonces! ¡Que no tengo todo el día para llevarle de la manita!"
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_DADANEN_000_10",
+      "hash": "EA2AE6C700FE7C6D",
+      "target": "<split(<string(gstr1)>, ,1)>, ¿me equivoco? Sí, Momodi me dijo que te esperara, y aquí estás."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_DADANEN_000_11",
+      "hash": "652D7363BD2CAE07",
+      "target": "<if(gnum4,Bienvenida,Bienvenido)> a Horizon, un asentamiento comercial que recibe mercancías del puerto de la Bahía de las Vísperas, al oeste. Y vaya si comerciamos: no pasa un día sin que bulla de mercaderes y funcionarios."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_DADANEN_000_12",
+      "hash": "262F069081025AEA",
+      "target": "Nos tienen a todos correteando sin parar, ya te digo. Tanto que ojalá tuviera patas de chocobo en lugar de las mías. Por eso le pedí a Momodi que me enviara a cualquier alma que buscara trabajo."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_DADANEN_000_13",
+      "hash": "BD7FEB4225DB0614",
+      "target": "Bien saben los Doce que por aquí hay de sobra por hacer. Vuelve a hablar conmigo cuando estés <if(gnum4,lista,listo)> para resultar de alguna utilidad."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_SEQ_00",
+      "hash": "0315E43438AF5DF9",
+      "target": "Momodi, de Quicksand, tiene noticia de un trabajo para un aventurero dispuesto."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_SEQ_01",
+      "hash": "14675D51A9ED7D20",
+      "target": "Momodi te informa de que Dadanen, un mercader que comercia con piedras preciosas, busca la ayuda de un aventurero capaz. Viaja al asentamiento de Horizon, en Thanalan occidental, y mira qué trabajo ofrece."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_SEQ_02",
+      "hash": "52F7B61098CBB152",
+      "target": "Dadanen te cuenta que, por su papel de centro comercial, en Horizon siempre hay trabajo que encontrar. Date una vuelta por el asentamiento y mira qué te ofrece."
+    },
+    {
+      "gameKey": "quest/006/SubWil026_00623#TEXT_SUBWIL026_00623_TODO_00",
+      "hash": "DD8278ACA71035D3",
+      "target": "Hablar con Dadanen, en Horizon"
+    }
+  ]
+}

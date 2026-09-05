@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/026/StmBdz016_02650",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_SEQ_00", "hash": "03B8C41DFA0EB8BB", "target": "Este Hyur hambriento no sabe de dónde saldrá su próxima comida." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_00", "hash": "9E7DB7BDDC824122", "target": "Hablar con el Hyur hambriento" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_01", "hash": "B7778EECD8494550", "target": "Colocar las bombas de humo en los lugares indicados y dispersar las nubes de mosquitos" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_TODO_02", "hash": "52D121B8426DA713", "target": "Informar al Hyur hambriento" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_000", "hash": "92CA0F1331CFA134", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>. ¿Te apetece ayudarme con un recado?" },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_001", "hash": "29023A312EF6B35F", "target": "Vine hasta aquí desde Ala Gannha a comprar comida, pero acaban de decirme que aquí tampoco ha habido cosecha." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_002", "hash": "3C64AA9888022CAF", "target": "Pensé en ver qué plantas silvestres podía recoger en su lugar. Pero la zona que tenía en mente es hogar de un enjambre de mosquitos." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_003", "hash": "4AC7DA2C1A2D643A", "target": "Si crees que estás a la altura, me gustaría pedirte que te ocupes de esos bichos. Si te animas, reúnete conmigo en Ala Gannha." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_010", "hash": "6F58FE7D73033D7A", "target": "Gracias por venir." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_011", "hash": "65A359AAEDC7F2F6", "target": "Como sin duda sabrás, a los insectos no les hace mucha gracia el humo. Decidí fabricar unas bombas de humo para espantarlos con la pólvora que usamos para cortar piedra." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_012", "hash": "15CE0DBAFDF37044", "target": "Úsalas para ocuparte de esos bichos. Los encontrarás al oeste del pueblo." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_020", "hash": "7E69DA87F1C6F5D7", "target": "Usa las bombas de humo para ocuparte de esos bichos. Los encontrarás al oeste del pueblo." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_040", "hash": "9CA2A0E63DD07FA6", "target": "¿Ya has terminado? Fantástico." },
+    { "gameKey": "quest/026/StmBdz016_02650#TEXT_STMBDZ016_02650_MAN02650_000_041", "hash": "F68C72DE63CD472F", "target": "Aquí tienes tu recompensa por la ayuda. Yo me marcho ya a recoger las plantas que pueda." }
+  ]
+}

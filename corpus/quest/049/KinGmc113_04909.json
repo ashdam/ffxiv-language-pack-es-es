@@ -1,0 +1,529 @@
+{
+  "conversation": "quest/049/KinGmc113_04909",
+  "questName": "Road to the Golden City",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_00", "hash": "4351128AC6152948", "target": "Ketenramm, leyenda viva y explorador eorzeo extraordinario, quiere charlar." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_01", "hash": "DFD2CE0726794FC3", "target": "Ketenramm os ha invitado a ti y a tus camaradas a su hogar, que se encuentra cerca. No puedes evitar fijarte en el sutil matiz de sus iris de camino a la Morada de Ojiazul..." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_02", "hash": "F8728D4E39BD7A57", "target": "Al hablar con el viejo amigo de su padre, Wuk Lamat descubre ciertos paralelismos entre el vínculo de Ketenramm con Gulool Ja Ja y el suyo propio con los Herederos. Los camaradas son valiosos, desde luego, sobre todo cuando pueden deducir la ubicación del dorado premio que uno busca. Krile comparte su creciente sospecha de que la legendaria ciudad podría hallarse en los bosques de Yak T'el, así que el grupo decide pedir información a los ahora cordiales ciudadanos mientras repone sus provisiones de viaje." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_03", "hash": "432B673BB421E8E3", "target": "Según Erenville, Ketenramm y su mentor se conocen, pero el espigador se muestra tan reservado como siempre a la hora de compartir detalles de su vida personal. Se excusa para ir a reunirse con los demás junto a la eterita." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_04", "hash": "E4125D55031FF34D", "target": "Reabastecido pero aún sin pistas, vuestro grupo vuelve a reunirse. Por suerte, Miilal Ja decide pagar tu amabilidad para con su comunidad revelando todo lo que sabe sobre la ciudad dorada, mientras Zereel Ja hace ostensiblemente la vista gorda. Todos los rincones del Corazón de Ja Tiika han sido cartografiados a fondo salvo el Skydeep Cenote, el último lugar de descanso de incontables vidas jóvenes perdidas. Al comparar el testimonio de Miilal Ja con los de Hunmu Rruk y Vorporlor, parece casi seguro que por fin has descubierto la ubicación de la ciudad. Con la blessed scale de Bakool Ja Ja en la mano, os ponéis en marcha hacia el Descenso de Gok Draak..." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_05", "hash": "A9A042B6102792E1", "target": "Las puertas del cenotafio se alzan imponentes ante ti y el aire está cargado de olor a tierra, agua y antigüedad. Vuestro grupo eleva plegarias por las almas de los difuntos antes de hacer lo que debéis para llevar el rito de sucesión a su fin.<br><br>※Para reclutar a tus PNJ acompañantes para esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si quieres completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_06", "hash": "101AFD0AEBEE7A9B", "target": "En los recovecos más profundos del cenote, dais con una gran puerta cerrada con lo que Krile reconoce como un sello sharlayano. Cuando Wuk Lamat coloca sus tablas completas sobre el pedestal dispuesto para ello, la puerta se abre y deja al descubierto una sala extraordinaria. La piedra negra y las luces brillantes parecen casi allaganas a primera vista, pero sus diferencias no tardan en superar a las similitudes.<br><br>En el otro extremo de la sala hay una puerta inactiva pero, antes de que nadie pueda comentarla, la atronadora risa del Servidor del Alba anuncia su llegada. Se deja para más adelante seguir hablando de este último misterio, pues la inminente celebración reclama la atención de todos. Wuk Lamat ha descubierto la entrada a la ciudad dorada y ha completado con éxito el rito de sucesión." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_07", "hash": "3E4D16273018D62A", "target": "Aunque tus preguntas superan con creces las pocas respuestas que has obtenido sobre la ciudad dorada, tendrán que esperar. Por ahora, vuestro grupo regresa a Tuliyollal para un descanso más que merecido y para celebrar los logros de Wuk Lamat." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SEQ_08", "hash": "BD4B7B52CD9D4A47", "target": "Wuk Lamat se ha adelantado al palacio para preparar su ceremonia de ascensión. Entre tanto, tu grupo de amigos, agotado pero feliz, parece listo para un baño y una siesta." },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_00", "hash": "A58546DF37847BCA", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_01", "hash": "9624BEE81F2BB16B", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_02", "hash": "83976E8C7222FBC7", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_03", "hash": "8EAF0684DE288CEA", "target": "Montar en la imponente bestia" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_04", "hash": "445C8B6FC03046EA", "target": "Entrar en el Skydeep Cenote" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_05", "hash": "FD8AB803002D3EDC", "target": "Entrar en el Skydeep Cenote" },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_TODO_06", "hash": "FE90FEF9DD9B599E", "target": "Hablar con Alphinaud" },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_001",
+      "hash": "79659C7180BA3C0A",
+      "target": "Tankwa <italic(1)>sí<italic(0)> que se parece a algunos marinos eorzeos que he visto, ¡pero jamás habría adivinado que era <italic(1)>Ketenramm<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_002",
+      "hash": "2DFD774D82A0A5A3",
+      "target": "Deberíamos hablar con Ketenramm antes que nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_003",
+      "hash": "BE9B5BC61808D80B",
+      "target": "Es la primera vez que veo a Ketenramm. Un roegadyn de manual."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_004",
+      "hash": "ED7DDD7AF6506FCB",
+      "target": "De todas las cosas que esperaba descubrir en Tural, el marino más legendario de Eorzea no estaba entre ellas..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALISAIE_000_005",
+      "hash": "E22CC7D76733E74C",
+      "target": "Nunca es tarde para soltar los prejuicios. Por difícil que parezca, se puede."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_006",
+      "hash": "85D775BE1D670EE7",
+      "target": "Este no es sitio para una charla como es debido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_007",
+      "hash": "75EC30561097E208",
+      "target": "Mi cabaña está justo al norte de la ciudad. “La Morada de Ojiazul”, que la llaman por aquí, por estos ojazos míos que deslumbran."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_010",
+      "hash": "67516EE62A56EDA8",
+      "target": "Cuatro paredes y un techo, nada más, pero a la mayoría le basta. Poneos cómodos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_011",
+      "hash": "6E15DAF387F14C2B",
+      "target": "Me pregunto cuánto hace que se instaló aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_012",
+      "hash": "C9E70341A092D6E4",
+      "target": "Este hombre valora su intimidad..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_013",
+      "hash": "53F4CF727A1C3FDA",
+      "target": "He oído que, cuando Ketenramm desapareció, exploradores de toda Eorzea se unieron para buscarlo. Pero dudo que se les ocurriera mirar aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALISAIE_000_014",
+      "hash": "6806A9371491025D",
+      "target": "Una residencia bastante humilde para un explorador legendario. Yo me esperaba una mansión decorada con tesoros exóticos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_015",
+      "hash": "F82950EDD22ABE9D",
+      "target": "¿Por qué elegiste asentarte en Mamook? Precisamente acogedores con los de fuera no han sido─seas explorador legendario o lo que sea."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_016",
+      "hash": "602031B837EC010D",
+      "target": "Razón de más para no quitarles ojo. Aunque, viendo cómo te los has ganado, me parece a mí que voy a tener menos que vigilar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_017",
+      "hash": "6AA57E0102066C32",
+      "target": "Estoy aquí por encargo de Gulool Ja Ja, para asegurar que se mantenga la paz que tanto le costó. Y, de paso, para recordarle a Zereel Ja su deber como elector, por si lo hubiera olvidado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_018",
+      "hash": "829E516C6F848C95",
+      "target": "¿Mi viejo te ordenó quedarte aquí? No es forma de tratar a un invitado de honor..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_019",
+      "hash": "34BBED5EF96B5412",
+      "target": "Je. Yo diría que a estas alturas soy algo más que un “invitado” de tu padre. ¿O es que no viste el sepulcro en lo alto de Worqor Zormor?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_020",
+      "hash": "64336B3CAF509FEC",
+      "target": "Es verdad... ¡“Ketenramm” era uno de los nombres!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_100_021",
+      "hash": "52F93A5B46FE672A",
+      "target": "Tu padre y yo peleamos hombro con hombro en muchas batallas, y Valigarmanda no fue más que uno de nuestros triunfos. Él y yo somos hermanos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_021",
+      "hash": "9981E4CF3EECED8D",
+      "target": "Así que cuando tu hermano te dice que montes guardia, montas guardia. Confías en su criterio y en su firmeza─aunque eso signifique quedarte fuera de alguna que otra pelea."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_022",
+      "hash": "A2A025F45C0EB1A2",
+      "target": "Seguro que entiendes un vínculo así, ¿no? Rodeada como estás de todas estas caras despiertas y entusiastas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_023",
+      "hash": "FB5C6BC9D0DCC9A5",
+      "target": "Lo entiendo. Mis compañeros son mi fuerza─y gracias a ellos entiendo lo que papá esperaba de esta nación. Lo que debo seguir protegiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_024",
+      "hash": "7B8A2D77CA51DC74",
+      "target": "Pues demuestra que estás lista para el trono, Wuk Lamat. ¡Encuentra la ciudad dorada!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_025",
+      "hash": "C615E77AD138B961",
+      "target": "Vaya que sí. ¡Con estos a mi lado, hasta desenterrar una leyenda debería ser un juego de niños!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_026",
+      "hash": "BD90B1A6DE89628C",
+      "target": "Sobre todo porque creo que yo ya lo he hecho."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_027",
+      "hash": "86B4C099509C70FF",
+      "target": "¿¡Tú sola!? ¿¡Cómo!? ¿¡Cuándo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_028",
+      "hash": "68EAD68E3BE22BA9",
+      "target": "Bueno, como sabéis, a los electores se les prohíbe dar ventaja injusta a los aspirantes."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_029",
+      "hash": "112C9A63B7EF1703",
+      "target": "Así que, cuando Hunmu Rruk se negó a revelar <italic(1)>por qué<italic(0)> mi abuelo pasó por Iq Br'aax hace veinte años, su silencio dijo mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALISAIE_000_030",
+      "hash": "378D393A374EC4D5",
+      "target": "¿Crees que la visita de Galuf tuvo algo que ver con la ciudad dorada?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_031",
+      "hash": "08F73E80D528244E",
+      "target": "Exacto. Es más: solo los Yok Huy que vivieron en Yak T'el tuvieron aquellos sueños dorados."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_032",
+      "hash": "B45892F7A459E19F",
+      "target": "Se sabe que quienes tienen aptitud mágica reciben visiones al exponerse a ciertos estímulos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_100_032",
+      "hash": "E6D7E4A281AA37C0",
+      "target": "Y si las facultades de Gurfurlur son mínimamente representativas, lo arcano no le es ajeno a los Yok Huy..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_200_032",
+      "hash": "B7E14AEC038D0BE4",
+      "target": "Lo que significa que los soñadores de antaño debieron sus experiencias a sus cualidades innatas y a su cercanía con la propia ciudad. Aquí, en estos bosques."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_033",
+      "hash": "B43CEEDE5C4753C5",
+      "target": "Entonces solo hay que registrar Yak T'el de arriba abajo, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_034",
+      "hash": "15F8394D8EC70C95",
+      "target": "Nos convendría acotar la búsqueda. A tal fin, propongo que volvamos a Mamook y hagamos averiguaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_035",
+      "hash": "EFDF63853A1BB25D",
+      "target": "Ya que estamos allí, podemos aprovechar todos para ocuparnos de los preparativos de viaje necesarios. Cuando todos estéis listos, reunámonos en la eterita."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_036",
+      "hash": "7F42F1A725C98DD7",
+      "target": "...Tú eres el chico de Cahciua, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_037",
+      "hash": "D2F1573366AF5C5E",
+      "target": "Me habló de ti. Dijo que te había encargado encontrar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_038",
+      "hash": "CDB21E477960759E",
+      "target": "Así es. Puede que hasta lo consiga, a pesar de mis esfuerzos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_039",
+      "hash": "50445E8EE5072DFC",
+      "target": "Había empezado a pensar que era una empresa de necios. Mi propia búsqueda infructuosa de joven así lo demostraba."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_040",
+      "hash": "6958EB890BA5C8C1",
+      "target": "Y aquí estás, más viejo y más sabio, haciendo el necio otra vez."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_041",
+      "hash": "BDF0E18AA6868D88",
+      "target": "Cortesía de la compañía que llevo frecuentando, quizá. Wuk Lamat no es la única que ha crecido gracias a sus compañeros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_042",
+      "hash": "0570217C4B2D9D27",
+      "target": "La encontraremos. Juntos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KETENRAMM_000_043",
+      "hash": "CF7002B1A6785E7D",
+      "target": "Je. ¿Fui yo alguna vez así de joven...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_052",
+      "hash": "80148A21F21E8B86",
+      "target": "¿Me has esperado? Parece que Ketenramm conoce a mi mentora, así que nos hemos quedado charlando un rato más."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_053",
+      "hash": "49C1A5CCF45F4079",
+      "target": "Alphinaud dijo de vernos junto a la eterita, así que allí nos vemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_060",
+      "hash": "F3975FA1DB94A574",
+      "target": "Los mercaderes no han tenido inconveniente en repararme el equipo y venderme suministros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_061",
+      "hash": "9671E105C07020DD",
+      "target": "Cuesta creer que alguna vez se resistieran a ayudar a los visitantes."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_062",
+      "hash": "04F9AC0BD7E83084",
+      "target": "¡Je, je! ¡No te vas a <italic(1)>creer<italic(0)> cuántos najool me han dado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_063",
+      "hash": "B9B1AFA0FB913D67",
+      "target": "Ahora solo nos hace falta una pista que nos apunte en la dirección correcta. ¡Ciudad dorada, allá vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_064",
+      "hash": "CA8390F15BEF3445",
+      "target": "Creo que eso sí puedo ofrecéroslo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_065",
+      "hash": "E6B7D2C709C0F80A",
+      "target": "Tengo una corazonada de dónde puede estar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_066",
+      "hash": "876F98F12311E554",
+      "target": "¡Miilal Ja! ¿¡Y-y Zereel Ja!? ¿Habéis venido a ayudarnos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ZEREELJA_000_067",
+      "hash": "0F4F56879F8BBDB7",
+      "target": "Como elector, tengo prohibido hablar de la ciudad dorada. ...Pero mi esposa no está sujeta a esa limitación."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_068",
+      "hash": "37854C8A1F252085",
+      "target": "Entonces te agradeceríamos muchísimo cualquier cosa que puedas contarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_069",
+      "hash": "FCC8C227772DD0E8",
+      "target": "Nuestra gente lleva siglos viviendo aquí. No hay rincón de este bosque que no conozcamos a fondo─salvo uno."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_070",
+      "hash": "BEF6833F289D6362",
+      "target": "¿Recordáis el lugar que os enseñé, donde mi hijo confesó la verdad de los hermanos benditos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_071",
+      "hash": "73C43481EC179EED",
+      "target": "Ese muelle de piedra está a la entrada del Skydeep Cenote. El último descanso de los niños que perdimos por nuestro fanatismo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_100_071",
+      "hash": "DEFB66CAF0A47202",
+      "target": "A muy pocos se les permite pasar de las puertas del cenotafio, y no hemos explorado sus rincones más hondos. Si la ciudad dorada está en Yak T'el, bien podría estar escondida ahí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_072",
+      "hash": "5CDF9B62D5616CBC",
+      "target": "¿Nos permitiréis buscarla?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ZEREELJA_000_073",
+      "hash": "0FE490FE90B55E7A",
+      "target": "...No tengo motivo para negárosla."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ZEREELJA_000_074",
+      "hash": "81E743DA1AEDD8C2",
+      "target": "Ya no dependeremos de los hermanos benditos, ni ocultaremos los sacrificios hechos para concebirlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ZEREELJA_000_075",
+      "hash": "41874D90B90AD454",
+      "target": "El cenote ya no está bajo nuestra protección. Es un camposanto lúgubre... y nuestros niños merecen algo mejor. Sus cuerpos serán trasladados a un lugar de sosiego y paz."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_076",
+      "hash": "D1DB932EF7A6C79A",
+      "target": "Seguro que Bakool Ja Ja lo agradecería. Y aquí estamos para echar una mano en lo que sea, si la necesitáis."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_077",
+      "hash": "F335AE30CE15DCDC",
+      "target": "Tu padre también visitó el cenote, ahora que lo pienso."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_078",
+      "hash": "D3C19282FD37959B",
+      "target": "De eso hace ya muchos años, pero fue un asunto sonado por el extranjero que traía consigo. Un mago, creo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_079",
+      "hash": "39E7E6B6659134FA",
+      "target": "¿¡De verdad!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ZEREELJA_000_080",
+      "hash": "1ED9C226BCF7705D",
+      "target": "El Servidor del Alba no reveló sus razones, pero descendió más allá de nuestro cenotafio y se adentró en las viejas canteras Yok Huy."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_081",
+      "hash": "D016FB961575D60D",
+      "target": "Sin duda las mismas que excavaron los soñadores de Vorporlor."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_082",
+      "hash": "56CFEB36C307E937",
+      "target": "Entonces la ciudad dorada tiene que estar ahí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_083",
+      "hash": "CA01B0925D5F536F",
+      "target": "¡En lo hondo del Skydeep Cenote!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_084",
+      "hash": "EBD75353FA4F7920",
+      "target": "Gracias a los dos. ¡Salimos ahora mismo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_085",
+      "hash": "50E9942ACF6525F8",
+      "target": "Encontraréis una o dos bestias aladas por el Descenso de Gok Draak. Ellas os llevarán abajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_MIILALJA_000_086",
+      "hash": "B68DB677C09E6720",
+      "target": "Creo en ti, Tercera Promesa. Serás una Servidora del Alba magnífica."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_087",
+      "hash": "3CCF79275E4158D4",
+      "target": "Ya está, gente. ¡Al Skydeep Cenote!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_Q1_000_090",
+      "hash": "20B8DC34F60681D9",
+      "target": "¿Montar la bestia hasta el Skydeep Cenote?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_POPMESSAGE_000_091",
+      "hash": "4E6B42154BAEFFC0",
+      "target": "¡De un poderoso salto, la bestia alza el vuelo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_092",
+      "hash": "3C7C92784C9F3075",
+      "target": "Este es el cenotafio. Lo que significa que al otro lado de estas puertas está..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_093",
+      "hash": "EE5E9AE31A853C23",
+      "target": "Rito de sucesión o no, perturbar las almas que descansan aquí se siente mal."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_094",
+      "hash": "55A0F5DA0A2A83D7",
+      "target": "Lo sé... pero no puedo dar marcha atrás. Presentemos nuestros respetos, al menos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_095",
+      "hash": "2F909E6988A7040B",
+      "target": "Vamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_096",
+      "hash": "FB333C507815A13D",
+      "target": "Estoy lista para completar mi viaje."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_100",
+      "hash": "BEF1405049DD978A",
+      "target": "Lo confieso: afrontaba mi deber de guía con no poco hastío."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_101",
+      "hash": "65B42B38D1693CD9",
+      "target": "Sabía que nuestro viaje podía cambiar el rumbo de mi nación, pero... no pensé que fuera a cambiar el rumbo de mi propia vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_Q2_000_000",
+      "hash": "044D430B65F3AF81",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_A2_000_001",
+      "hash": "0B329B38B5B110F4",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_A2_000_002",
+      "hash": "08CDF329BB58832E",
+      "target": "Formar grupo y entrar en el Skydeep Cenote."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_A2_000_003",
+      "hash": "54A2DB3848101099",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_WUKLAMAT_000_102",
+      "hash": "F0CFF6F1F2994684",
+      "target": "Una parte de mí se entristece al ver acabar nuestro viaje... ¡pero tengo que ver qué nos espera ahí dentro!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_103",
+      "hash": "2892C10E16DD967C",
+      "target": "Wuk Evu, Mablu... cuánta gente nos ha ayudado a llegar a este momento. ¡Honremos su generosidad y encontremos por fin la ciudad dorada!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_104",
+      "hash": "FAAA1DACDD69FC6F",
+      "target": "Los cenotafios tienen fama de atraer criaturas maléficas. Debemos extremar la cautela."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALISAIE_000_105",
+      "hash": "80005A0B08816F68",
+      "target": "No sé qué hay ahí abajo, pero tengo ganas de verlo con mis propios ojos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_PESHEKWA_100_120",
+      "hash": "642C348746563966",
+      "target": "Esperábamos con impaciencia su regreso sano y salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ERENVILLE_000_120",
+      "hash": "2C17D5A3FF8C945D",
+      "target": "Aquello no se parecía en nada a lo que imaginaba de joven... ¿Desde cuándo existe un sitio así en Yok Tural?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_121",
+      "hash": "405AB2BEBCF1E2C6",
+      "target": "Ahora entiendo por qué recurrieron a los Discípulos de Baldesion..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_KRILE_000_122",
+      "hash": "56E3FCADBE07CA32",
+      "target": "¿Pero a qué conclusiones llegó mi abuelo? No solo sobre esa piedra, sino sobre esa puerta..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALISAIE_000_123",
+      "hash": "7992283F4F537F70",
+      "target": "Da la sensación de que tenemos más preguntas que al salir. Pero, por ahora, volver de una pieza ya es motivo suficiente de celebración."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_124",
+      "hash": "1D961D781B190C59",
+      "target": "Bueno, lo hemos conseguido. Hemos llevado a Wuk Lamat a la victoria en el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_125",
+      "hash": "FC154B294B7C7FB2",
+      "target": "Como a mí, imagino que a ti te quedan no pocas preguntas sobre la ciudad dorada, pero tendrán que esperar a que nuestra aspirante se acomode en su nuevo papel."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_126",
+      "hash": "6E56143D6084B1DF",
+      "target": "Mientras hablamos, ella se prepara para la ceremonia de ascensión de vuelta en el palacio. Tengo entendido que se celebrará dentro de unos días."
+    },
+    {
+      "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_ALPHINAUD_000_127",
+      "hash": "48361F841346301E",
+      "target": "Entretanto, disfrutemos todos de un descanso bien merecido."
+    },
+    { "gameKey": "quest/049/KinGmc113_04909#TEXT_KINGMC113_04909_SYSTEM_000_130", "hash": "F09DBE853D7B9664", "target": "Ya puedes entrar en el Skydeep Cenote con un grupo de avatares de PNJ. Para usar esta función, abre la interfaz <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, situada en <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)> del menú principal." }
+  ]
+}

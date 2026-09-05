@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/000/SubSea906_00059",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_00", "hash": "93D283E50CE6FA63", "target": "Swygskyf cree que estás listo para unirte a un guildhest." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_01", "hash": "6A5BBFBE27459545", "target": "Los guildhests son operaciones especiales organizadas por los Gremios de Aventureros y supervisadas por los custodios de combate. Para saber más sobre lo que implican los guildhests, habla con el guardián de batalla Tiroro." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SEQ_02", "hash": "77AA15F0F4B11AA8", "target": "El guardián de batalla Tiroro explica que los guildhests pondrán a prueba tu capacidad de colaborar con otros para lograr un objetivo común. A menos que te conformes con vivir tus aventuras para siempre en soledad, quizá te convenga participar en estas operaciones al menos una vez." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TODO_00", "hash": "92C88EFBE4BAC283", "target": "Hablar con el guardián de batalla Tiroro" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_01", "hash": "E10798DEF7D95A5C", "target": "Por cierto, <if(gnum4,una aventurera recia,un aventurero recio)> como tú quizá quiera echarle un ojo a los guildhests." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SWYGSKYF_000_02", "hash": "126CA84EC24392CA", "target": "Habla con el guardián de batalla Tiroro y te dará los detalles. No te preocupes, <if(gnum4,muchacha,muchacho)>: yo la pondré en su sitio si tiene alguna duda sobre tu capacidad." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_01", "hash": "2DC86BE6911289F2", "target": "Las noticias vuelan en el Vencejo. ¿Viene a informarse sobre los guildhests?" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_02", "hash": "1F52CDB15698CC6C", "target": "¿Que qué es un guildhest? Pues es un <italic(1)>encargo<italic(0)> emitido por el <italic(1)>Gremio<italic(0)> de Aventureros, ¿capta? Cuando una tarea que llega a oídos del gremio es un poco grande de más para una leve, pero no lo bastante para que intervenga una Gran Compañía, se declara guildhest y se me manda a mí." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_03", "hash": "2C460DC47F8BC0E1", "target": "Pero que la falta de grandeza no la engañe. Las tareas son de todo menos simples. La mayoría se desarrollan en espacios angostos, y <italic(1)>todas<italic(0)> exigen un trabajo en equipo preciso entre usted y sus compañeros de batalla." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_04", "hash": "065A21061848088C", "target": "¿Y qué saca a cambio de poner el cuello en el tajo? Aparte de una sonrisa radiante del guardián de batalla Tiroro Tiro, claro. Fama, fortuna, lo de siempre." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_TIRORO_000_05", "hash": "0806CE446A3DC021", "target": "Así pues, ¿supongo que se unirá a nuestra próxima operación?" },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_006", "hash": "13AAF1AAFA721BAE", "target": "¡Has desbloqueado el Buscador de Contenido! Esta función te permite emprender misiones multijugador sin tener que formar un grupo por tu cuenta." },
+    { "gameKey": "quest/000/SubSea906_00059#TEXT_SUBSEA906_00059_SYSTEM_000_007", "hash": "ED30EE0ECF1C222E", "target": "Para abrir la interfaz del Buscador de Contenido, selecciona <colortype(500)><edgecolortype(501)>Buscador de Contenido<edgecolortype(0)><colortype(0)> dentro de <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)> en el <colortype(500)><edgecolortype(501)>menú principal<edgecolortype(0)><colortype(0)>." }
+  ]
+}

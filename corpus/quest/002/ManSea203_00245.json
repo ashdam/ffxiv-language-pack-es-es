@@ -1,0 +1,447 @@
+{
+  "conversation": "quest/002/ManSea203_00245",
+  "questName": "It's Probably Pirates",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_5",
+      "hash": "7E6E2F23564A8D56",
+      "target": "Te agradezco que te tomes el tiempo de echarme una mano. Bueno, seguro que andas <if(gnum4,ocupada,ocupado)>, así que iré al grano."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_6",
+      "hash": "E15EF6CC3830ACD6",
+      "target": "Corre la voz de que unos tipos de aspecto sospechoso han estado entrando y saliendo a escondidas de la Gruta Marina de Sastasha, y necesito a alguien de fiar que se acerque al norte de Puerto Ale y averigüe quiénes son y qué se traen entre manos."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_7",
+      "hash": "CAE1CBCCA6AD4642",
+      "target": "No suena a gran cosa, ya lo sé..."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_8",
+      "hash": "F602375E745BABE4",
+      "target": "Pero desde aquel feo asunto del Vencejo, la gente anda algo inquieta. Bueno, digo “algo”... Poco les falta para hacérselo encima cada vez que cruje una maldita tabla del suelo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_9",
+      "hash": "447A8DB6428225BF",
+      "target": "Y no hace tanto que los piratas al servicio de los pescajos nos hicieron una visita de lo más inoportuna, así que la gente está algo nerviosa."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_10",
+      "hash": "6B9241EEDE9E2B6A",
+      "target": "Si me lo permites, maese Baderon, con gusto lo detallaré."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_11",
+      "hash": "EE61271D27CF804E",
+      "target": "Vaya, vaya, pero si es el mismísimo Casaca Amarilla al mando. ¿A qué debo este raro honor, comodoro Reyner? ¿Vienes a comprobar que mi clientela se porta bien─o solo tienes sed?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_12",
+      "hash": "D7A419FD2DEDA59E",
+      "target": "Ninguna de las dos, en realidad. He venido a darte la bienvenida de vuelta a Limsa Lominsa, <split(<string(gstr1)>, ,1)>. Me alegra que hayas regresado."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_13",
+      "hash": "DC653D7F475FEC56",
+      "target": "Ninguna de las dos, en realidad. Me informaron de que habías solicitado a un aventurero para asistir en mi investigación, y he venido a ofrecer la información que he podido espigar de los informes recientes."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_14",
+      "hash": "84A5D0993626AEE7",
+      "target": "A lo largo de la última luna se ha avistado en varias ocasiones un navío desconocido frente a la costa de Puerto Ale, en las inmediaciones de las Islas de Umbra."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_15",
+      "hash": "F9ABAE73C9C3D186",
+      "target": "Esta información llegó a mi conocimiento apenas unas semanas después de que un escuadrón de mis propios soldados completara una patrulla rutinaria de la región, la Gruta Marina de Sastasha incluida."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_16",
+      "hash": "7CDCB4CCE9B45387",
+      "target": "Su registro reveló poco, salvo que una familia de coeurls se había instalado en las cuevas. Nada de que preocuparse, en resumen."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_17",
+      "hash": "630E957A698339A0",
+      "target": "No obstante, a la luz de los últimos acontecimientos, parecería prudente registrar Sastasha de nuevo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_18",
+      "hash": "DA31BE6F8A6CA281",
+      "target": "Pero con los Sahagin poniendo a prueba nuestras defensas a diario, me resisto a encomendar la tarea a las escasas fuerzas de que dispongo. Nuestra línea ya está bastante tensa de por sí."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_19",
+      "hash": "4A6DA4E6C3353AA8",
+      "target": "Por eso he buscado los servicios de un aventurero competente que lleve a cabo la investigación en nuestro lugar. Cualquier ayuda que puedas ofrecer en este asunto será muy de agradecer."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_20",
+      "hash": "56E349F6843272E2",
+      "target": "Entonces, queda decidido."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_REYNER_000_21",
+      "hash": "A8C022273C78D199",
+      "target": "Sastasha se halla en el oeste de La Noscea. Para instrucciones más detalladas de cómo llegar, te sugiero que consultes a V'mellpa. La encontrarás en el embarcadero de la cubierta inferior."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_22",
+      "hash": "9CD4CFB224E3E152",
+      "target": "¡Ya has oído al hombre! ¡Buena suerte, <if(gnum4,muchacha,muchacho)>!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_VMELLPA_000_25",
+      "hash": "04505736C27E6F28",
+      "target": "¿Viene por la investigación del comodoro Reyner? Entonces querrrá tomar el transbordador con destino a Puerto Ale."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_VMELLPA_000_26",
+      "hash": "D75A840757CFB673",
+      "target": "Una vez llegue al oeste de La Noscea, más le valdrrrá pasarse por la Sala de los Novatos antes de meterse a lo loco en Sastasha."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_VMELLPA_100_26",
+      "hash": "E8B03290EC12D9CB",
+      "target": "El Gremio de Aventureros regenta la Sala, y sus gentes le prepararrrán─le adiestrarán en las técnicas que necesitará para enfrentarse a los peligros que sin duda le aguardan en la gruta."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_VMELLPA_100_27",
+      "hash": "616418760660DAAC",
+      "target": "La Sala está de camino a Sastasha, justo al norte de Puerto Ale. Entre y uno de sus aventureros curtidos le echarrrá una mano. ¡Mucha suerte, amigo!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_VMELLPA_000_27",
+      "hash": "B3AF40F0D5F65A86",
+      "target": "Le digan lo que le digan, prepárese para toparse con piratas. Nunca faltan esos malnacidos. Al fin y al cabo, esto <italic(1)>es<italic(0)> Limsa Lominsa..."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_100_30",
+      "hash": "3B0C9D5D3A2B9CD0",
+      "target": "Ah, usted debe de ser <if(gnum4,la aventurera,el aventurero)> de quien avisaron las Casacas Amarillas. Tengo entendido que va a adentrarse en las profundidades de la Gruta Marina de Sastasha."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_100_31",
+      "hash": "1A131A91CF0D2294",
+      "target": "Se rumorea que los ocupantes de esas cuevas son tan numerosos como sanguinarios. Digan lo que digan los relatos épicos, adentrarse en semejante guarida de salvajismo en solitario sería el colmo de la insensatez. No: necesitará compañeros."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_100_32",
+      "hash": "4AC99BE0C918976F",
+      "target": "¡Y necesitará el adiestramiento que aquí, en la Sala de los Novatos, podemos ofrecerle! Le recomiendo encarecidamente que estudie los fundamentos del combate en grupo antes de proseguir con su misión."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_101_32",
+      "hash": "344379E06F2AE7D0",
+      "target": "El Smith de aquí se encarga de los horarios de entrenamiento. Hable con él y podrá inscribirse en ejercicios adaptados a su campo de especialidad concreto."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_100_33",
+      "hash": "0E6C95C612733E59",
+      "target": "Cuando haya dominado todo lo que nuestros instructores tienen que enseñar, será hora de volver a poner rumbo al norte. Preséntese ante el explorador Casaca Amarilla a la entrada de la Gruta Marina de Sastasha; él le facilitará los detalles de su cometido."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AIDE00675_100_34",
+      "hash": "075FD98781882390",
+      "target": "Cuando haya afilado sus destrezas y aguzado la mente, prosiga hacia el norte. El explorador Casaca Amarilla apostado ante la Gruta Marina de Sastasha tendrá los detalles de su misión."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_30",
+      "hash": "BB1A8CEA04A53DF0",
+      "target": "Dime que te envía una Casaca Amarilla y no que has salido a dar un paseo sin más. No aguanto más esta maldita espera. ¿A que sí? Gracias a los dioses."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_31",
+      "hash": "AEC3A41BF876B951",
+      "target": "Supongo que ya sabes lo del barco que se ha visto merodeando por las Islas de Umbra, ¿no?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_32",
+      "hash": "85D123C85B9B0DCD",
+      "target": "Estamos ojo avizor ante cualquier actividad pirata desde que se avistó ese navío, por si una tripulación de degolladores tuviera una guarida cerca."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_33",
+      "hash": "EC0FCBDE4C72603F",
+      "target": "Así que, cuando nos llegó la noticia de que se había visto a hombres de dudosa catadura entrar y salir de Sastasha, no nos sorprendió del todo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_34",
+      "hash": "B95A972BDC28CA1F",
+      "target": "Aún no los he visto con mis propios ojos, pero si esta panda pertenece a esos Saqueadores de la Serpiente amigos de los pescajos..."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_35",
+      "hash": "B51D45106D97B701",
+      "target": "Bueno, puedes imaginarte el pánico que cundirá. Los secuestros siguen aún frescos en la memoria de la gente."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_36",
+      "hash": "31609972221F67BD",
+      "target": "En fin, tu tarea es fisgar por las cuevas y averiguar con exactitud con quién nos las vemos. Mientras lo haces, yo montaré guardia aquí fuera... rezando por que no te topes con ningún tatuaje azul en la cara."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AVERE_000_40",
+      "hash": "1565CE4B3907332B",
+      "target": "¿Por qué demonios has tardado tanto, Edda? Si mi bolsa iba escasa, ¡bien podrías haber usado algo de tu propio maldito dinero para conseguir lo que necesitamos!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AVERE_000_41",
+      "hash": "7EB27386D5D51FA5",
+      "target": "Nunca has valido más que lo que llevas en los bolsillos─¡bien saben los dioses que apenas eres capaz de curar un rasguño!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AVERE_000_42",
+      "hash": "0B481217972F064B",
+      "target": "Nos hicimos aventureros para aceptar los grandes encargos y llevarnos las grandes recompensas. ¿Cómo vamos a lograrlo si ni siquiera eres capaz de tener nuestras provisiones en orden?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AVERE_000_43",
+      "hash": "1635FDAFD13004D4",
+      "target": "¿Hm? ¡Es <italic(1)><if(gnum4,ella,él)><italic(0)>─con quien hablaba Baderon!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_AVERE_000_44",
+      "hash": "79FABA76922B292A",
+      "target": "¡Bueno, ya veremos quién se lleva la gloria! ¡Este trabajo debería haber sido nuestro desde el principio!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_LIAVINNE_000_50",
+      "hash": "807160ADF650FD85",
+      "target": "¡Buajajajá! Edda, eres tan lenta que perderías una carrera contra una babosa de árbol."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_PAIYOREIYO_000_55",
+      "hash": "F4FC4DBB9B31C40C",
+      "target": "Esto es perfecto para nuestra primera salida como grupo─deambular por las cuevas, levantar unas cuantas piedras... ¿Qué dificultad podría tener?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_PAIYOREIYO_000_56",
+      "hash": "11AF4F5A056EF783",
+      "target": "Jamás pensé que nuestra primera visita al Gremio de Aventureros nos brindaría una forma tan sencilla de ganar fama y fortuna."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_EDDA_000_60",
+      "hash": "4FBE02DF26D8BBF6",
+      "target": "\\<ahogo> ¡L-lo siento, Avere! ¡He venido tan rápido como he podido!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_EDDA_000_61",
+      "hash": "BF6AADAF95D839BE",
+      "target": "Intenté regatear con el mercader, pero dos pociones fue lo máximo que conseguí con el dinero que me diste. ¡No tenía ni idea de lo <italic(1)>caras<italic(0)> que eran!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ISILDAURE_000_65",
+      "hash": "A937AC1727EE2419",
+      "target": "Ah, <if(gnum4,otra aventurera,otro aventurero)>. ¿Usted también ha venido a desentrañar los misterios de Sastasha?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ISILDAURE_000_66",
+      "hash": "7B5C5ACA7857897D",
+      "target": "He recorrido este vasto reino durante más estaciones de las que me atrevo a contar, y aun así Eorzea sigue sorprendiéndome con su belleza y esplendor."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ISILDAURE_000_67",
+      "hash": "3BDC278E56F11962",
+      "target": "Nuestros viajes no terminan al alcanzar riquezas o fama. Es una sed inextinguible de lo desconocido lo que nos empuja una y otra vez hacia lo salvaje."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ISILDAURE_000_68",
+      "hash": "37C17210C879B903",
+      "target": "Aunque explorara el mundo durante mil años, jamás me cansaría de esta vida."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ALIANNE_000_70",
+      "hash": "C84F122FF8BE818E",
+      "target": "El abuelo y yo somos compañeros de viaje."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ALIANNE_000_71",
+      "hash": "0386EC46B99E5367",
+      "target": "Viajamos allá donde el viento nos lleva y nos empapamos de todas las maravillas que este mundo tiene que ofrecer."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ALIANNE_000_72",
+      "hash": "F8943EE3714780A3",
+      "target": "Solo un aventurero puede comprender la dicha de semejante libertad─la de descubrir lugares ocultos y vivir imágenes y sonidos que pocos llegarán a conocer."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_ALIANNE_000_73",
+      "hash": "4F9A37910A95288B",
+      "target": "Los años empiezan a pasarle factura al viejo, ¡pero ninguna fuerza salvo la muerte misma saciará su apetito de aventura!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_75",
+      "hash": "21D86D18234C659F",
+      "target": "No se puede consentir que los pescajos y sus lacayos Saqueadores de la Serpiente establezcan una base permanente en estas tierras."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_YELLOWJACKET_000_76",
+      "hash": "61A00E0AC09EA7E5",
+      "target": "Debes descubrir la verdad sobre quién o qué acecha en estas cuevas, <if(gnum4,aventurera,aventurero)>. ¡La paz del oeste de La Noscea puede depender de ello!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_80",
+      "hash": "6A78F384FDA1DC41",
+      "target": "Sí, ese encargo estaba en la lista. “Estaba”, ojo. Me temo que ese barco ya ha zarpado, amigo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_81",
+      "hash": "97E3FFC693BBB586",
+      "target": "Ah. ¿Sería usted <if(gnum4,la aventurera,el aventurero)> que aceptó el encargo de investigar Sastasha?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_82",
+      "hash": "A7E788C948EA19E9",
+      "target": "Hmpf. Al parecer, ese barco no solo ha zarpado, sino que ya regresa a puerto sin un rasguño tras la travesía. Una lástima. Nos demoramos demasiado con este."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_EMANAFA_000_83",
+      "hash": "FDFC81B63A5453D5",
+      "target": "No pasa nada. La rueda seguirá girando y otra oportunidad nos llegarrrá."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_84",
+      "hash": "7D6994CFCB37B5A0",
+      "target": "Tienes razón, por supuesto. ¡Pero no habrá descanso hasta que alcancemos nuestra meta, por elevada que sea!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_KIKINA_000_85",
+      "hash": "A8DD7B8431AD6045",
+      "target": "¡Ni pegar ojo, gran líder!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_86",
+      "hash": "ACC17E9F3885297B",
+      "target": "Nuestro fin, por si lo duda, es obrar hazañas tales que nos ganen un lugar en las canciones de toda taberna de Eorzea. Queremos escribir una leyenda que inspire a aventureros aún por nacer a seguir nuestro brillante ejemplo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_87",
+      "hash": "FC3A7B23AAF15E6A",
+      "target": "¿Tiene usted una meta así? Grande o pequeña, no importa. Basta con tener una estrella que alcanzar y <italic(1)>llegará<italic(0)> más alto."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_88",
+      "hash": "A8CB51DDBB9652B2",
+      "target": "Un propósito puede sostenerle en tiempos de penuria. No pierda de vista la recompensa y, con el tiempo, superará todos los obstáculos."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_DOLOROUSBEAR_000_89",
+      "hash": "48A8E3468F784B1E",
+      "target": "No se le ocurriría entrar en batalla sin ropa, ¿verdad? ¡Pues las metas son como las armas y la armadura del espíritu! ¡Le deseo fortuna en sus empresas, <if(gnum4,mi señora,mi señor)>!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_90",
+      "hash": "E7438AF8B4BC53D5",
+      "target": "¿Ya de vuelta? Con todos los miembros en su sitio y una historia que contar, apostaría."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_91",
+      "hash": "3020F6F5A1695048",
+      "target": "¿Pescajos? Y yo que pensaba que solo tendrías que partir un cráneo pirata o tres. Por los siete infiernos... Te das la vuelta cinco malditos minutos y los escamosos ya han montado el chiringuito en la puerta de tu casa..."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_92",
+      "hash": "FCA698F96B73B637",
+      "target": "Aun así, por lo que oigo los dejaste hechos pedazos, así que no creo que lleven a cabo la fechoría que planeaban─salvo que planearan servirse de pasto a la fauna de Sastasha, claro. ¡En fin, bien está lo que bien acaba!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_93",
+      "hash": "E083F051ACB5CBCE",
+      "target": "Gracias por arrojar algo de luz sobre este misterio. Sabía que sacarías el trabajo adelante, <if(gnum4,muchacha,muchacho)>─¡como siempre!"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_94",
+      "hash": "14F214468A4AA107",
+      "target": "En nombre de Limsa, te agradezco que hayas arrojado algo de luz sobre este misterio. Has estado a la altura de tu reputación, y no podría pedir más que eso."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_95",
+      "hash": "36C0018D076BA10E",
+      "target": "Bueno, apuesto a que te mueres por descansar, pero por si acaso no... ¿te interesaría aceptar otro trabajo? Da la casualidad de que me ha llegado un encargo de nuestro gremio hermano de Gridania, ¿sabes?"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_96",
+      "hash": "7D0886C5B97A3F97",
+      "target": "Parece que la gente del bosque necesita <if(gnum4,una aventurera,un aventurero)> que sepa resolver las cosas."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_97",
+      "hash": "35F5EAD9ACD2C4F9",
+      "target": "Para que pidan ayuda así, puedes apostar a que la tarea no será un paseo por un claro soleado. Pero después de cómo te encargaste de nuestra plaga de pescajos, dudo que haya algo que no puedas manejar."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_BADERON_000_98",
+      "hash": "5CA09740576C2450",
+      "target": "Pégame un grito cuando estés <if(gnum4,lista,listo)> y te lo explico todo."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_00",
+      "hash": "35A8946FB8CCBFED",
+      "target": "Baderon, el dueño de Drowning Wench, necesita a un aventurero capaz."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_01",
+      "hash": "7F35127FC450B86E",
+      "target": "Baderon y el comodoro Reyner han solicitado tu ayuda con una investigación. Se ha avistado un extraño navío frente a la costa de Puerto Ale y la posterior aparición de un grupo de hombres de aspecto peligroso en la Gruta Marina de Sastasha tiene muy preocupadas a las Casacas Amarillas. Habla con V'mellpa en el embarcadero de la cubierta inferior y recibe indicaciones sobre la ubicación de las cuevas."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_02",
+      "hash": "734C30846F756BA9",
+      "target": "V'mellpa te ha sugerido que visites la Sala de los Novatos antes de continuar tu viaje a Sastasha. Dirígete al edificio del Gremio de Aventureros situado al norte de Puerto Ale y habla con la aventurera curtida."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_03",
+      "hash": "55731577EDABA10A",
+      "target": "Has concluido tu instructiva visita a la Sala de los Novatos. Continúa hacia el norte y habla con el Casaca Amarilla apostado ante la entrada de Sastasha."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_04",
+      "hash": "5F8879BE261971A0",
+      "target": "A las Casacas Amarillas les preocupa que los hombres de aspecto siniestro vistos entrar en Sastasha puedan pertenecer a los Saqueadores de la Serpiente, los aliados piratas de los Sahagin. Registra las cuevas y comprueba si tales sospechas tienen fundamento.<br><br>※Puedes explorar Sastasha con otros jugadores mediante el Buscador de Contenido, o con un grupo de PNJ mediante el Apoyo en Contenido. Ambos sistemas son accesibles desde el menú principal y también desde el punto de entrada de la mazmorra."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_05",
+      "hash": "06C56AF69B064635",
+      "target": "Has descubierto una guarida de piratas en las profundidades de Sastasha. Tal como temían las Casacas Amarillas, parece que los Saqueadores de la Serpiente y sus amos Sahagin usan las cuevas como base para sus infames operaciones. Vuelve a Limsa Lominsa sin demora e informa de tus hallazgos a Baderon, en Drowning Wench."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SEQ_06",
+      "hash": "D8A428E7F5B552E3",
+      "target": "Tras escuchar tus hallazgos, Baderon expresa su satisfacción con tu trabajo y menciona otra tarea que podría interesarte. Parece que el Gremio de Aventureros de Gridania desea contratar los servicios de un aventurero curtido. Prepara tu equipo y luego habla con Baderon cuando estés <if(gnum4,lista,listo)> para emprender la siguiente etapa de tu viaje."
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_TODO_00",
+      "hash": "7D32640B71399098",
+      "target": "Hablar con V'mellpa"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_TODO_01",
+      "hash": "CBB7035813AE81E8",
+      "target": "Hablar con la aventurera curtida, en la Sala de los Novatos"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_TODO_02",
+      "hash": "71C8C14169653CA3",
+      "target": "Hablar con el Casaca Amarilla, en la entrada de Sastasha"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_TODO_03",
+      "hash": "130D972C178611E0",
+      "target": "Explorar Sastasha"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_TODO_04",
+      "hash": "217182E0ED169CB0",
+      "target": "Hablar con Baderon, en Drowning Wench"
+    },
+    {
+      "gameKey": "quest/002/ManSea203_00245#TEXT_MANSEA203_00245_SYSTEM_100_000",
+      "hash": "330664ACFABA3BC6",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    }
+  ]
+}

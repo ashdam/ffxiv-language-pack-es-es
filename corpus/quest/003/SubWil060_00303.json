@@ -1,0 +1,107 @@
+{
+  "conversation": "quest/003/SubWil060_00303",
+  "questName": "Step Nine",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_CICIDOA_000_1",
+      "hash": "3A48BAB3CD96A338",
+      "target": "Es usted <if(gnum4,aventurera,aventurero)>, ¿verdad? Si no está ocupad<if(gnum4,a,o)> en otra cosa, tengo un favor que pedirle. He resuelto saldar una deuda de gratitud que tengo con el dueño del Cofre y el Ataúd."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_CICIDOA_000_2",
+      "hash": "486477BF29710D6F",
+      "target": "Con tal fin, he adquirido en las Plantaciones Reales una calabaza prodigiosamente prieta─un producto particularmente popular."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_CICIDOA_000_3",
+      "hash": "78000736EFD52E14",
+      "target": "Por desgracia, no puedo abandonar este lugar para recoger y presentar la preciada calabaza. Verá, el cargamento que espero de las Minas de Nanawa lleva retraso."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_CICIDOA_000_4",
+      "hash": "11FAFA172F846F89",
+      "target": "Le rogaría que recogiese la calabaza en mi lugar y la llevara sana y salva al Cofre y el Ataúd. Entregue este recibo de compra a Gagari, en las Plantaciones Reales, y ella se la dará."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_CICIDOA_000_5",
+      "hash": "8B6F7D0C30C259CE",
+      "target": "Le pido disculpas por encomendarle una tarea que lleva tanto tiempo, ¡pero le agradezco de veras su ayuda!"
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_GAGARI_000_10",
+      "hash": "4A3D8DDE4C230FDA",
+      "target": "Como Cicidoa no venga pronto, este espécimen espectacular pasará su mejor momento, con lo bonito que es..."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_GAGARI_000_11",
+      "hash": "D8FAECDFCE88C416",
+      "target": "Ah, ¿así que es usted quien va a entregar este decadente deleite? Puedo asegurar con confianza que cualquier gastrónomo agradecería tan grandioso regalo."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_GAGARI_000_12",
+      "hash": "10623F7F551CFF3A",
+      "target": "Aquí tiene la calabaza. Espero que sea del agrado de Roger."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_GAGARI_000_13",
+      "hash": "3CFFB539D227A41A",
+      "target": "El género fresco escasea un poco por estos lares y, por eso, siempre estamos desbordados de demanda."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_GAGARI_000_14",
+      "hash": "08A9555F4890F086",
+      "target": "Sabe cómo llegar al Cofre y el Ataúd, ¿verdad? Está pasado el puente, al noroeste. Busque un sitio donde holgazanean los obreros del lugar."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_ROGER_000_50",
+      "hash": "C44784A9BE68A5D3",
+      "target": "¿Algo de beber, <if(gnum4,muchacha,muchacho)>? Por tu dinero no encontrarás mejor cerveza ni licor que en mi local."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_ROGER_000_51",
+      "hash": "56653937491CBE71",
+      "target": "¿Qué me dices? ¿El pequeñajo de Cicidoa te pidió que me trajeras esto? ¡Ja! Je, así que hasta ese borrachín malhablado sabe lo que es el remordimiento. Me juego algo a que es por aquella vez que me lo llevé a casa a rastras, borracho perdido."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_ROGER_000_52",
+      "hash": "E6934B872BC2B96F",
+      "target": "Pero ¡demonios, una calabaza de las Plantaciones Reales como Dios manda! Me muero por ver qué hacen los cocineros con ella."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_ROGER_000_53",
+      "hash": "98C51DACA8D1F5FE",
+      "target": "Los chicos de aquí se zampan cantidades bestiales de carne, y empieza a notárseles en la salud. Vendrá bien meterles más verdura en el buche─suponiendo que consiga que esos cabezotas prueben algo nuevo. ¡Gracias por la ayuda, <if(gnum4,muchacha,muchacho)>!"
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_00",
+      "hash": "C6F47A5A92516F85",
+      "target": "Cicidoa necesita a un aventurero de fiar para entregar un regalo en el Cofre y el Ataúd."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_01",
+      "hash": "576838E69C705AE6",
+      "target": "Para saldar una deuda de gratitud, Cicidoa quiere regalarle a Roger una calabaza que ha comprado en las Plantaciones Reales."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_02",
+      "hash": "4A860F2DC0AE420B",
+      "target": "La calabaza cultivada en las Plantaciones Reales es tan prodigiosamente prieta como prometían. Entrégasela a Roger, en el Cofre y el Ataúd."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_SEQ_03",
+      "hash": "B45702CDE180F206",
+      "target": "Roger te agradece la entrega de la calabaza. Cree que a su clientela le vendrá bien una dieta más equilibrada, aunque queda por ver si aceptarán el nuevo menú."
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_TODO_00",
+      "hash": "8B98105279868E8F",
+      "target": "Presentar el recibo a Gagari"
+    },
+    {
+      "gameKey": "quest/003/SubWil060_00303#TEXT_SUBWIL060_00303_TODO_01",
+      "hash": "B4B77B805FEE6D1C",
+      "target": "Entregar la calabaza a Roger"
+    }
+  ]
+}

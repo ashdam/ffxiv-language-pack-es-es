@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/008/GaiUsb002_00809",
+  "questName": "Tales from the Tidus Slayer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_00", "hash": "313FA7F0540B2859", "target": "Trachtoum está deseando deleitarte con historias de sus días de gloria." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_01", "hash": "E2C4FFEC02EB3574", "target": "Aunque Trachtoum asegura haber combatido a un temible primigenio llamado «Titón», no puedes evitar dudar de su relato. Él nota enseguida tus recelos y se niega a revelar la estrategia secreta de la Compañía... a menos que destruyas un nido de ratas salvajes junto a uno de los molinos de fuera. Si quieres derrotar a Titán, no te queda más remedio que acceder a sus exigencias." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_02", "hash": "4C99C2AAC1689E76", "target": "Aniquilas a las alimañas sin esfuerzo y destruyes su nido. Vuelve con Trachtoum y dile que está hecho." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_SEQ_03", "hash": "85594810659FE029", "target": "Al parecer, Trachtoum te ha usado para hacer un trabajo que le habían encomendado a él. Pese a lo irritante de la revelación, tendrás que tragarte el orgullo e insistirle para sacarle más información." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TODO_00", "hash": "90320B9D15E1CC40", "target": "Destruir el nido de ratas" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TODO_01", "hash": "FA54EC3418B47CD3", "target": "Informar a Trachtoum" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_000", "hash": "D8679ECF94DC02F0", "target": "¡Ja, ja, ja! Así que quieres oír cómo la Compañía de Héroes venció a un primigenio, ¿eh?" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_001", "hash": "BE0719728DC52601", "target": "Déjame adivinar: te refieres a ese cabrón de Titón, ¿no?" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_002", "hash": "19A808B7C6998D10", "target": "¡Ah, ojalá hubieras estado allí para verlo!" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_003", "hash": "7AA070EA57C7380F", "target": "¡Fue una lucha épica, como las leyendas de antaño! " },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_004", "hash": "C94C4F0370CEA3F6", "target": "¡Los muchachos y yo lo estuvimos peleando tres días con sus noches, ya lo creo!" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_005", "hash": "62D0A57324CA221B", "target": "La tierra temblaba a cada paso de Titón, y cuando te golpeaba, <if(gnum4,chica,chaval)>, era como un cañonazo en la barriga. ¡<italic(1)>Uuurgh<italic(0)>! ¡Así, tal cual!" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_006", "hash": "D2E1EF5D0047F460", "target": "Oye, ¿a qué viene esa cara? ¡Soy un maldito héroe, para que lo sepas! ¡Aquí la gente canta mis alabanzas! No me digas que solo te interesan las tácticas secretas con las que vencimos al viejo Titón..." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_007", "hash": "DEA32A1597A68CC7", "target": "¡Bah! Pues qué pena, porque ahora no me siento generoso. Si tan desesperado estás, ¿por qué no me haces el favor de matar a esas ratas que han hecho un nido junto al molino, justo al sur de aquí? ¡Eso, hazlo y luego hablamos!" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_020", "hash": "6898FB7D3FA3292B", "target": "¿Eh? ¿Así que las bestezuelas están muertas? ¡Buen trabajo, <if(gnum4,aventurera,aventurero)>!" },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_TRACHTOUM_000_021", "hash": "D8D447217637B33B", "target": "Me ahorraste la molestia de... ah, déjalo." },
+    { "gameKey": "quest/008/GaiUsb002_00809#TEXT_GAIUSB002_00809_POP_MESSAGE_000", "hash": "B10C61ECF50D3DAC", "target": "¡Un chillido agudo rasga el aire!" }
+  ]
+}

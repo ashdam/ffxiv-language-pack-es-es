@@ -1,0 +1,20 @@
+{
+  "conversation": "custom/001/CmnDefHousingGardeningPlant_00151",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_NONE", "hash": "CCAB9C186590BCCD", "target": "En este arriate no hay nada." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_END_EVENT", "hash": "982DF79E51B0873D", "target": "Salir" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_SEED", "hash": "F7C8800E8B5414F5", "target": "Plantar semillas" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_SET_FERTILIZER", "hash": "9ACA837C5E4421BF", "target": "Abonar el cultivo" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_CARE", "hash": "A0E8DB0523EA897B", "target": "Cuidar el cultivo" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_DISPOSE", "hash": "A7B39923BFAE173F", "target": "Arrancar el cultivo" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_HARVEST", "hash": "3498505EE9E39847", "target": "Cosechar el cultivo" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEAD", "hash": "E98835BDC8DAB767", "target": "<sheet(Item,lnum1,9)><br>Este cultivo no tiene remedio." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_VIGOROUS", "hash": "FD13A6BF76927879", "target": "<sheet(Item,lnum1,9)><br>Este cultivo va muy bien." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_DEPRESSED", "hash": "47D14136C559A6BC", "target": "<sheet(Item,lnum1,9)><br>Este cultivo ha conocido días mejores..." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_TALK_RIPE", "hash": "1D93D9BD24F8BEBD", "target": "<sheet(Item,lnum1,9)><br>Este cultivo está listo para cosechar." },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE", "hash": "B356B4C71D855519", "target": "¿Seguro que deseas arrancar este cultivo?" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_YES", "hash": "A479BD8196E118A9", "target": "Sí" },
+    { "gameKey": "custom/001/CmnDefHousingGardeningPlant_00151#TEXT_CMNDEFHOUSINGGARDENINGPLANT_00151_ASK_DISPOSE_NO", "hash": "85F2E622D36B2ED3", "target": "No" }
+  ]
+}

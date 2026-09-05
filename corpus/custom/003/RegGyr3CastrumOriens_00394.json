@@ -1,0 +1,19 @@
+{
+  "conversation": "custom/003/RegGyr3CastrumOriens_00394",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_000", "hash": "CE37753774F19AD4", "target": "Vaya, pero si es <if([gnum52>0],<string(gstr1)> del Maelstrom,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<string(gstr1)> de las Llamas Inmortales)>)>. ¿En qué puedo servirle?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_Q1_000_000", "hash": "44182CE90CABD391", "target": "¿Qué vas a preguntar?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_001", "hash": "ED26681D8B742580", "target": "¿A qué te dedicas aquí?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_002", "hash": "4421F1C5FCECD3AD", "target": "¿Qué clase de lugar es este?" },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_A1_000_003", "hash": "8F392CDBBA4368BB", "target": "Nada." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_010", "hash": "3AE0B8EE13EDD750", "target": "Tras asegurar la muralla, se apostó aquí a cierto número de soldados de la Alianza por si los imperiales tomaban represalias." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_011", "hash": "0656063F7CFD497B", "target": "Cada una de las naciones, Ishgard incluida, ha enviado tropas para apoyar nuestros esfuerzos aquí." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_012", "hash": "2A9638A9CBC26DF1", "target": "Como cabía esperar, los procedimientos militares difieren de un ejército a otro, lo que, hay que reconocerlo, ha causado algún problema. Aun así, los garleanos no han demostrado aún estar a la altura de nuestras fuerzas combinadas." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_020", "hash": "DAE34F57F692EFD7", "target": "Castrum Oriens fue construido en un principio por los garleanos como guarnición para las tropas encargadas de mantener la Muralla de Baelsar." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_021", "hash": "7E4464516A8BC50D", "target": "Cuando llegaron, las gentes que antaño ocupaban las aldeas cercanas se vieron obligadas a huir, y la mayoría buscó refugio en Gridania." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_022", "hash": "BDF602B5CEC39EB1", "target": "Por desgracia, no es la primera vez que estas tierras son testigo de semejante derramamiento de sangre. Hace casi cien años, el rey de Ala Mhigo intentó expandir el territorio de su nación. Sus intentos de invadir tierras gridanianas desembocaron en lo que se conoció como la Guerra del Otoño." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_023", "hash": "CA8F50F661886E91", "target": "Al final, con la ayuda de Limsa Lominsa, Ul'dah e incluso Ishgard, Gridania infligió a Ala Mhigo una derrota aplastante." },
+    { "gameKey": "custom/003/RegGyr3CastrumOriens_00394#TEXT_REGGYR3CASTRUMORIENS_00394_SONSTELOT_000_024", "hash": "4CB97DF4BB763E7A", "target": "Casi cuesta creer que la Alianza trabaje ahora por salvar Ala Mhigo en vez de luchar contra ella como hizo hace tanto tiempo." }
+  ]
+}

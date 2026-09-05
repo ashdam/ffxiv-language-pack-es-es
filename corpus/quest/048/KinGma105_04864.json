@@ -1,0 +1,405 @@
+{
+  "conversation": "quest/048/KinGma105_04864",
+  "questName": "The Rite of Succession",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SEQ_00", "hash": "46F85DA8E48B44D3", "target": "Erenville ha estado esperando con paciencia tu llegada." },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_00", "hash": "9401AF429F99A2A1", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_01", "hash": "E4A16EFE482CD7D5", "target": "Hablar con Alphinaud" },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_02", "hash": "BB69D84EED3D10F6", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_03", "hash": "51A6290825F25FB8", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_TODO_04", "hash": "0A53FCB7D5CBCF2F", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_001",
+      "hash": "4A77E5AB78462123",
+      "target": "Uy, luego podría pedirle a Namikka que me cocine algo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_002",
+      "hash": "66136EE6F5B9409C",
+      "target": "Hay muchísimas calles estrechas y retorcidas. Pero, aunque te pierdas, basta con seguir subiendo y acabas llegando al palacio."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_003",
+      "hash": "A31E676121E1D9FD",
+      "target": "De camino aquí vimos a un Mamool Ja de dos cabezas. Otro aspirante en el rito de sucesión, según Erenville."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_004",
+      "hash": "CA9B6B7E45187D7B",
+      "target": "La comida es increíble. Un Mamool Ja que pasaba nos dejó probar una fruta llamada “chirimoya” y estaba sublime."
+    },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_005", "hash": "5A91C6BAD79369EE", "target": "Al hablar con Erenville, se reproducirán varias escenas cinemáticas seguidas." },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_006", "hash": "57FB4733FEE203DF", "target": "Se recomienda que reserves tiempo suficiente para ver estas escenas de principio a fin." },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_008",
+      "hash": "8E98988B261B6281",
+      "target": "Yo les he enseñado la ciudad a los gemelos lo mejor que he podido en tan poco tiempo."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_009",
+      "hash": "2860A311A1FC7E2A",
+      "target": "Su entusiasmo desbocado lo puso difícil. Siempre había algo que les llamaba la atención y los lanzaba callejón abajo a investigar. Como pastorear a un par de coeurls rebeldes."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_010",
+      "hash": "BD2180C27A0CAA33",
+      "target": "Je, lo entiendo perfectamente. A mí me pasó lo mismo con Sharlayan."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_011",
+      "hash": "EE037AB641FB3133",
+      "target": "Bueno, pues ya toca ver el palacio por dentro. Papá querrá saber que he vuelto y conocer a los aliados que he elegido."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_100_011",
+      "hash": "1B2CF6226796B8BA",
+      "target": "Aunque, con lo impulsivo que es, no hay forma de saber lo que nos espera..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_012",
+      "hash": "CBCB40C26E3EE5EB",
+      "target": "No sé qué mueve a Zoraal Ja, pero lo envuelve como un incendio..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_013",
+      "hash": "AA7704D9CD1551BF",
+      "target": "Como acabas de ver, Wuk Lamat no tiene un gran ejército de partidarios. Al menos, todavía no."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_014",
+      "hash": "9FC6140FE7C4C7ED",
+      "target": "Así que Koana, la Segunda Promesa, quiere desarrollar su país mediante las innovaciones de Sharlayan. Dado su historial, supongo que no debería sorprender."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_015",
+      "hash": "BBF22BD08E2B8497",
+      "target": "Ese aspirante bicéfalo, Bakool Ja Ja, trata a todos como seres inferiores. Si llegara a Servidor del Alba pondría a los Mamool Ja por encima de las demás razas, igual que el Imperio garleano privilegiaba a los de sangre pura."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_016",
+      "hash": "14E8372C0ADAF93B",
+      "target": "Bueno, adiós al breve reencuentro que tenía en mente. Papá no es de perder el tiempo cuando decide actuar."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_017",
+      "hash": "B55DE94726951DEB",
+      "target": "Yo ya estoy acostumbrada, claro, pero a los demás suele pillarlos desprevenidos. En fin, deberíamos hablar de cómo vamos a encontrar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_018",
+      "hash": "B9F6AAB509D5BC25",
+      "target": "Lo único que tenemos son las siete tablillas y su relación con la Saga de Tuliyollal..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_019",
+      "hash": "2E1495AD87702739",
+      "target": "¿Puedo sugerir que empecemos comparando las tablillas con las columnas? Podríamos buscar discrepancias entre ellas."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_020",
+      "hash": "5F0A615844649D95",
+      "target": "Buena idea. ¡Vamos a echar un vistazo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_021",
+      "hash": "28266B3E3DC9008C",
+      "target": "Hm. A simple vista parecen iguales..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_022",
+      "hash": "1FE3C431D9B43CC6",
+      "target": "Preparar tablillas labradas con tanto detalle para cada aspirante habrá exigido un esfuerzo y una previsión considerables. Deberíamos tomarlo como un recordatorio de que este “rito” no es cosa de broma."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_023",
+      "hash": "8CF9A3B7B993EBDC",
+      "target": "No esperaba que las cosas avanzaran <italic(1)>tan<italic(0)> deprisa, pero no me quejo. Al fin y al cabo, el rito es el motivo por el que estamos aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_024",
+      "hash": "2E058B07B9C7E59B",
+      "target": "No pienso rendirme hasta que encontremos la ciudad dorada. Por Wuk Lamat y por mí misma."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_025",
+      "hash": "DB1C0BBCF4217A79",
+      "target": "Ya estamos todos."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_026",
+      "hash": "0E68B10DBC19B172",
+      "target": "Wuk Lamat, las tablillas, si eres tan amable."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_027",
+      "hash": "0E4D7833F315C253",
+      "target": "¡Por supuesto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_030",
+      "hash": "6FF392D41C7547DD",
+      "target": "¿Todos tenéis una tablilla? Pues comparémoslas con sus columnas correspondientes. Estad atentos hasta a la diferencia más pequeña..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_031",
+      "hash": "809A40ABA33F3968",
+      "target": "Salvo que se me escape algo, los glifos parecen idénticos."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_032",
+      "hash": "CBAF37A8329235F8",
+      "target": "Con la única diferencia de que las tablillas tienen huecos donde encajan las piedras clave."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_033",
+      "hash": "EB0732F683BD1AFF",
+      "target": "Bien, ya hemos comprobado que las escenas son las mismas. ¿Y ahora qué?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_034",
+      "hash": "3A3439FD5B4C2493",
+      "target": "El Servidor del Alba dijo que debíamos recorrer de nuevo el camino que él anduvo al unir a los pueblos de Tural, y que encontraríamos siete electores por el camino..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_035",
+      "hash": "565D73D46F44C56A",
+      "target": "Entonces tenemos la respuesta delante: el camino de papá está todo trazado en la Saga de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_036",
+      "hash": "4C9C9FCDD167D79A",
+      "target": "Los sucesos que retratan los glifos... ¿sabemos en qué lugares exactos ocurrieron?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_037",
+      "hash": "5368B047AE5A3E7B",
+      "target": "Si alguno queda cerca, podríamos ir y buscar a un elector. Eso confirmaría que vamos por buen camino."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_038",
+      "hash": "B6A8D1EFFF34E07E",
+      "target": "Hm, déjame pensar... El Cantar de los Juncos fue en el poblado Hanuhanu de aquí cerca."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_039",
+      "hash": "17ADAC100E45B7F5",
+      "target": "Papá me llevó allí una vez. Era temporada de fiestas y el poblado entero estaba lleno de alegría."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_040",
+      "hash": "FE2A88FF73BC77AD",
+      "target": "También está el Cantar del Oro. Ese fue en el poblado Pelupelu, que queda más o menos a la misma distancia."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_041",
+      "hash": "FF1E6E18152B169D",
+      "target": "Antes de ir a ningún sitio, deberíamos preguntar por el estado del camino."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_042",
+      "hash": "E9F796770CB17253",
+      "target": "Mientras recorríamos la ciudad oí hablar mucho de la tormenta que atravesamos en el mar. Por lo visto asoló Yok Tural hace unos días."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_043",
+      "hash": "027F68D95BD10055",
+      "target": "Como nuestros caminos no están tan bien pavimentados como los de Eorzea, sufren más con los desastres naturales. Si queremos evitar perder tiempo en un sendero cortado, propongo dedicar un rato a preguntar."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_044",
+      "hash": "7231DCD29F5E9D5E",
+      "target": "Si lo que necesitamos es información..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_100_044",
+      "hash": "EB10E9DFEB005BEF",
+      "target": "¡Dejádmelo a mí! ¡Yo os traigo la información!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_045",
+      "hash": "11D9E2498B4CE910",
+      "target": "...Sería prudente asegurarnos de que vamos preparados para el viaje. Os llevo al alojamiento que he reservado."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PESHEKWA_100_050",
+      "hash": "84421C8DC2BB5E35",
+      "target": "¡Bienvenidos a las Cabinas de Proa!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_050",
+      "hash": "F4D45D48DD965869",
+      "target": "¡Oh, qué casitas tan bonitas, y sobre el agua!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_051",
+      "hash": "7CB063A47232763D",
+      "target": "Qué alivio tener el alojamiento resuelto de antemano."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_052",
+      "hash": "E7C99A68C79E3DA1",
+      "target": "Wuk Lamat dijo que nos “traería la información”. Me pregunto a qué se refería..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_053",
+      "hash": "2705A8E8F3BCD4A7",
+      "target": "Eso es, la reserva está a nombre de Wuk Lamat. Si no le importa, le dejo a mis compañeros."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PESHEKWA_000_054",
+      "hash": "E4208435EC0C9ECB",
+      "target": "Por supuesto, señor."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_055",
+      "hash": "0A818A43FC1E4CE4",
+      "target": "Voy a localizar a la Tercera Promesa. Cuando hayáis terminado de ordenar el equipo, nos veis fuera de Xbalyav Ty'e."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PESHEKWA_000_056",
+      "hash": "CF06C0FBC7C435BA",
+      "target": "Saludos, visitantes de Tuliyollal, ¡y bienvenidos a las Cabinas de Proa!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PESHEKWA_000_057",
+      "hash": "418BA6FD05C5573A",
+      "target": "Cuando lo deseen, los acompaño a sus habitaciones."
+    },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_060", "hash": "02ABDDEB54BE4892", "target": "¿Esperar a tus compañeras y emprender el rito de sucesión?" },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_061",
+      "hash": "12C5A091590A9582",
+      "target": "Cómo no, la que más ganas tiene de salir eres tú, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_062",
+      "hash": "F4625210683EC4E5",
+      "target": "Pero ¿dónde estarán Erenville y Wuk Lamat...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_063",
+      "hash": "541874FDB45941A3",
+      "target": "Ah, bien, ya estáis todos."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_064",
+      "hash": "4E9DD1E0E7E9DAA8",
+      "target": "¿Quiénes son tus acompañantes?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_065",
+      "hash": "FA1FFB7913A7AACA",
+      "target": "Como necesitábamos información, pensé: ¿de quién mejor que de los propios lugareños? Estos dos son de los poblados que estamos pensando visitar."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_066",
+      "hash": "4F752FCA541EE8C0",
+      "target": "Al menos hay que reconocerte la iniciativa."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_067",
+      "hash": "07A52602ADB843C8",
+      "target": "¿Cómo que “al menos”?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_HANUHANUCOLLABORATOR4864_000_068",
+      "hash": "CCF5A3927B6F0C58",
+      "target": "Es un honor que la Tercera Promesa busque mi consejo."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PELUPELUCOLLABORATOR4864_000_069",
+      "hash": "0B5FF52FF59D6854",
+      "target": "Yo también respondo encantado a sus preguntas. Todo encuentro puede ser una oportunidad de negocio."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_070",
+      "hash": "09F9FE8C72D467AC",
+      "target": "¡Gracias a los dos por la ayuda!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_071",
+      "hash": "CEAF2FE3E092BA52",
+      "target": "Ah, antes de empezar: sin duda habrá más ocasiones en que tengamos que actuar por separado, así que os he traído esto a los dos."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_072",
+      "hash": "1989FFEF140C594E",
+      "target": "¿Y esto qué es?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_073",
+      "hash": "9D1A0F467916B988",
+      "target": "Se llama linkpearl: una gema que se extrae de una concha especial. Al enlazarlas, permiten hablar a grandes distancias."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_074",
+      "hash": "2E0C559D02534090",
+      "target": "¿En serio? ¡Qué cosa más práctica!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_076",
+      "hash": "033A6F2050ADE9C1",
+      "target": "Nos vendrá muy bien en el viaje. Y hablando de eso, ¡vuelvo a presentaros a mis dos nuevos amigos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_KRILE_000_080",
+      "hash": "FA2EF431DB44280F",
+      "target": "¿Con quién crees que deberíamos hablar primero?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ERENVILLE_000_081",
+      "hash": "DE436BC5083C55FC",
+      "target": "Wuk Lamat no tendrá la experiencia ni los logros de sus hermanos, pero se le da bien la gente. Para ella, encontrar quien quiera colaborar es tan simple como pedirlo."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALPHINAUD_000_082",
+      "hash": "AFE853BD499AEB6E",
+      "target": "Incluso de cerca, los Hanu se parecen notablemente a los Vanu. Aparte de esas plumas tan brillantes, claro."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_ALISAIE_000_083",
+      "hash": "FC5D22DABAAAE702",
+      "target": "¿Hay algún motivo para que todos los Pelupelu lleven esas máscaras...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_HANUHANUCOLLABORATOR4864_000_084",
+      "hash": "CBEAA982C5A04CD8",
+      "target": "Por favor, pregunte lo que sea. Le contaré encantado lo que sé."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_PELUPELUCOLLABORATOR4864_000_085",
+      "hash": "D5C1E2AB280BF066",
+      "target": "Qué golpe de suerte, forjar este vínculo con el palacio. Ojalá sea el principio de una sociedad provechosa..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_086",
+      "hash": "E04766526AEC187F",
+      "target": "En la Saga de Tuliyollal salen varios clanes de Tural. Dos de ellos, los Hanuhanu y los Pelupelu, tienen poblados relativamente cerca de la ciudad, así que he traído a un representante de cada uno."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_087",
+      "hash": "67D3E8C0C532FAE2",
+      "target": "Como ya dije, los Hanu son gente alegre que adora sus fiestas. Aparecen en el Cantar de los Juncos, y su poblado natal, Ok'hanu, está en Kozama'uka."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_088",
+      "hash": "4C1BF8F7F7326A9E",
+      "target": "El otro, el más bajito, es de los Pelu, un clan con cabeza para los negocios que viene de Urqopacha. Aparecen en el Cantar del Oro y fabrican todo tipo de maravillas en Wachunpelo, su poblado."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_089",
+      "hash": "B7B71D37EAC47247",
+      "target": "Y ahora, en cuanto a decidir qué poblado visitamos primero..."
+    },
+    {
+      "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_WUKLAMAT_000_090",
+      "hash": "C159968504BA7BA6",
+      "target": "¿Por qué no pones a trabajar ese instinto de <if(gnum4,aventurera,aventurero)> que tienes, <split(<string(gstr1)>, ,1)>? ¡Elige tú el destino!"
+    },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_091", "hash": "70F5E07F56153156", "target": "Al completar esta misión, el escenario principal se bifurcará en dos rutas de misiones." },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_092", "hash": "C1E1A44D41279D70", "target": "Aceptar la misión del hanu servicial te impedirá temporalmente aceptar la del pelu cordial, y viceversa." },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_093", "hash": "A6A0F027787D60D6", "target": "La segunda ruta de misiones estará disponible con el PNJ correspondiente en cuanto completes la serie de misiones de la primera ruta." },
+    { "gameKey": "quest/048/KinGma105_04864#TEXT_KINGMA105_04864_SYSTEM_000_094", "hash": "2BAD6328F46174C3", "target": "Además, ni el desarrollo de la historia ni las recompensas de las misiones se verán afectados por la ruta que elijas al principio. ¡Habla con el PNJ que prefieras y emprende el camino del rito de sucesión!" }
+  ]
+}

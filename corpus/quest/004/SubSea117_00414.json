@@ -1,0 +1,417 @@
+{
+  "conversation": "quest/004/SubSea117_00414",
+  "questName": "Victory in Peril",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_0",
+      "hash": "645CE69E206EF4DD",
+      "target": "Estoy preocupada, <split(<string(gstr1)>, ,1)>. Parece que los piratas que te encargué investigar se están moviendo."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_1",
+      "hash": "9B7C55D54682C85D",
+      "target": "Se acercan cada vez más al astillero, así que debo suponer que su objetivo es la propia <italic(1)>Victoria<italic(0)>."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_2",
+      "hash": "3177FD65ACBBEA4D",
+      "target": "Ese barco es el símbolo de todo aquello en lo que Limsa Lominsa aspira a convertirse, y no permitiré que esos viles rufianes le pongan un solo dedo en el casco."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_3",
+      "hash": "D38A4118B9C09DD3",
+      "target": "¡Debemos apresarlos antes de que pongan en marcha sus planes! Y tú, <split(<string(gstr1)>, ,1)>, eres <if(gnum4,la mujer,el hombre)> ideal para ello."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_4",
+      "hash": "30329033D9922038",
+      "target": "Sin tu valiosa ayuda, me temo que no puede garantizarse la seguridad del astillero."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_5",
+      "hash": "0C8AAB232BF0FECE",
+      "target": "Hace apenas unos instantes, mis guardias han presentado informes sobre actividad sospechosa en la zona. Te ruego que empieces escuchando de primera mano el relato de alguno de ellos."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_6",
+      "hash": "4BEC9463EEFC3493",
+      "target": "No importa con quién decidas hablar, pero asegúrate de interrogar a Urswyrst en la puerta delantera o a C'nangho en la trasera."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_7",
+      "hash": "C19728AB6DB72371",
+      "target": "Interroga a cualquier presunto saboteador que encuentres en el transcurso de tu investigación. Comunícame directamente todo lo que averigües."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_10",
+      "hash": "E0228A335450C31C",
+      "target": "¿Ghimthota te ha enviado para seguir la pista de mi informe?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_11",
+      "hash": "572A7A22F8E03FFF",
+      "target": "Pues no hace mucho vi a un tipo de mala pinta escabulléndose por lo alto del risco cerca del Corazón Vacío, justo ahí enfrente."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_URSWYRST_000_12",
+      "hash": "B8D90CDFE252F4C8",
+      "target": "Puede que siga por allí. Si tienes tiempo, <if(gnum4,aventurera,aventurero)>, te agradecería mucho que subieras a echar un vistazo."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_20",
+      "hash": "7BA4794B9091A2A3",
+      "target": "Saludos. Me alegra tener otra mano a bordo para reforzar la segurrridad."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_21",
+      "hash": "36F86C7EF027F58E",
+      "target": "Los dioses saben que nuestros inforrrmes seguirían acumulando polvo en la mesa de Ghimthota de no ser por la ayuda de personas como usted."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_000_22",
+      "hash": "356B4ED9B093B29F",
+      "target": "Hablando de informes, vi a uno de esos piratas roñosos merrrodeando por el acantilado cerca del Corazón Vacío. Yo que usted iría a echar un vistazo antes de que borre sus huellas."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CORSAIRFOLLOWA_000_30",
+      "hash": "51A20FB4CEE0057E",
+      "target": "Bah, ¿conque me has visto? Pues llegas tarde─lo que ha de pasar ya está pasando."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_Q1_000_1",
+      "hash": "BD8CCEB267485F85",
+      "target": "El deber llama. ¿Deseas emprender<br>“La Victoria en peligro”?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_A1_000_1",
+      "hash": "A228FDF10C316AB7",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_A1_000_2",
+      "hash": "E1462DD2627AF5A3",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_40",
+      "hash": "B6020F5FF713EF7C",
+      "target": "Así que me has encontrado a uno de esos piratas, ¿eh?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_41",
+      "hash": "C123DEDAE5ECD89F",
+      "target": "Sabía que eras <if(gnum4,la aventurera,el aventurero)> a quien pedir ayuda."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_42",
+      "hash": "CBA9068D9EA2572C",
+      "target": "Pero ¿qué estarán tramando esos bribones? “Lo que ha de pasar ya está pasando”...?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_MAELSTROM_000_43",
+      "hash": "A288D37CCA1E1E51",
+      "target": "¡Capitana! Ungh... Problemas... en el astillero... \\<jadeo>"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_44",
+      "hash": "C9D9D1B7DE24B123",
+      "target": "Con calma, soldado. ¿Quién te ha hecho esto?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_MAELSTROM_000_45",
+      "hash": "A0F92AC3F1D7C248",
+      "target": "\\<jadeo> Piratas... De la nada... \\<tos> Me han dado de lleno..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_46",
+      "hash": "51D1E3791695FF2F",
+      "target": "¡Dioses de las profundidades, no estamos preparados para esto!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_47",
+      "hash": "67498DF4C26F2CC6",
+      "target": "Los piratas, soldado, ¿cuántos son?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_MAELSTROM_000_48",
+      "hash": "5F0F1E787FAF81A7",
+      "target": "No sabría decir... Más de los que podría contar deprisa... Parecían llevar... explosivos..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_49",
+      "hash": "E6F850CC0770C085",
+      "target": "¿¡Explosivos!? ¡Entonces no hay tiempo que perder!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_50",
+      "hash": "43F9F5B34270E6A5",
+      "target": "<split(<string(gstr1)>, ,1)>, ya has oído la situación. ¡Dirígete al astillero y planta cara a esos intrusos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_51",
+      "hash": "975AC96576D5C1ED",
+      "target": "Yo atenderé las heridas de este hombre y luego te seguiré."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_52",
+      "hash": "2A75C296472E6347",
+      "target": "¡Date prisa, vamos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_60",
+      "hash": "D0B50971BBBCD52E",
+      "target": "¡Gajajajá! ¡Jamás pensé que sería tan fácil! Sigo sin fiarme de esos escurridizos malnacidos, pero ¡su plan ha salido a pedir de boca!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_61",
+      "hash": "75B9FF52FD8D5DF5",
+      "target": "¡Padre! ¿¡Qué demonios haces, grandísimo majadero!?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_62",
+      "hash": "C80DC276BCB4699F",
+      "target": "Cierra el pico, chaval."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_63",
+      "hash": "AC9533456A94F177",
+      "target": "Esto terminará pronto. Ya solo queda volar en astillas este feo montón de madera podrida."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_64",
+      "hash": "C39CAD4BE29AA037",
+      "target": "¿¡Por qué harías semejante cosa!? ¿Tienes idea de lo importante que es este barco? ¿De lo que representa?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_65",
+      "hash": "5C7792A101A5F63B",
+      "target": "¡Ya lo creo, y eso lo hace aún más dulce! ¡Lo que haga falta para meterle algo de sensatez a mi traicionero hijo, que me clavó un puñal por la espalda!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_66",
+      "hash": "26D5515218323C53",
+      "target": "¡Imagínate, un hijo <italic(1)>mío<italic(0)> dejando la vida pirata para hacerse carpintero naval! ¡Y encima construyendo un maldito navío del Maelstrom! ¿¡Qué, por el vasto océano de Llymlaen, te juntó con esos santurrones de mierda!?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_67",
+      "hash": "AE6013DF41F4B3B0",
+      "target": "¡El que no tiene ni pizca de sensatez eres tú, Padre! ¿No lo ves? Los piratas tuvieron sus días de gloria, ¡pero esa era ya terminó!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_69",
+      "hash": "4DD1DD35A2304F1A",
+      "target": "¡Ah! Me preguntaba por qué Ahtbyrm nunca hablaba de su padre. Jamás lo habría imaginado..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_70",
+      "hash": "0D94198269F703FD",
+      "target": "Este barco es todo un símbolo, sí─de todo lo que se torció en el mundo. ¡Y pienso hacerlo añicos en cien mil pedazos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414AHTBYRM_000_71",
+      "hash": "9B7B4B10D4F56BAB",
+      "target": "¡Ghimthota! ¡<split(<string(gstr1)>, ,1)>! ¡Dadle una buena tunda a esta babosa de mar hinchada y aseguraos de que no le pase nada a la <italic(1)>Victoria<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_80",
+      "hash": "A2495CDB28A0C95B",
+      "target": "Debo... debo de estar haciéndome viejo, para dejar que <if(gnum4,una aventurera novata,un aventurero novato)> me gane la partida."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_81",
+      "hash": "A9183D6FB3C3FA4C",
+      "target": "Padre..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_000_82",
+      "hash": "F35EFF59538AA14D",
+      "target": "\\<tos> Menudo barco más grande. Grande... y de aspecto siniestro. ¿Y eso lo has hecho tú...?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_90",
+      "hash": "B7745D4A56785114",
+      "target": "Te doy las gracias, <split(<string(gstr1)>, ,1)>. Me estremezco al pensar qué habría sido de la <italic(1)>Victoria<italic(0)> sin tu intervención."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_91",
+      "hash": "7F95483999E119E9",
+      "target": "\\<suspiro> Los piratas lo han dejado todo hecho un desastre─más vale que me ponga a arreglar los diques."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_92",
+      "hash": "DBCA4745CDC61FAE",
+      "target": "...Y a mis pensamientos tampoco les vendría mal un poco de orden. Mi padre siempre tuvo el don de poner mi vida patas arriba."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_000_93",
+      "hash": "9F081B8B29FBDF9A",
+      "target": "Te ruego que transmitas mi agradecimiento─y mis disculpas─a Ghimthota."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_100",
+      "hash": "EB1B1B424484992A",
+      "target": "¿Cómo te encuentras, <split(<string(gstr1)>, ,1)>? No sé cómo agradecerte el papel que desempeñaste para evitar esta locura."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_101",
+      "hash": "81F1EF0DA5762319",
+      "target": "Defendiste algo más que un simple barco─salvaste de un final violento la esperanza naciente de Limsa Lominsa. El día fue tuyo."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_102",
+      "hash": "356A3E9B2A9666C3",
+      "target": "Parece que nuestro régimen de seguridad necesitará muchas mejoras si de verdad queremos mantener el astillero a salvo."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_103",
+      "hash": "3BEBB3F7A8A0008A",
+      "target": "...¿Ahtbyrm se disculpa? Bueno, supongo que entiendo por qué se sentiría responsable de los actos de su padre. De todos los implicados, este incidente fue el más duro para él."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_104",
+      "hash": "B1E1DBF834F5277D",
+      "target": "Pero, con el tiempo, creo que llegará a una única conclusión: la forma más apropiada de superar su angustia es ver la <italic(1)>Victoria<italic(0)> terminada y surcando el agua."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_105",
+      "hash": "434B627B0E72ADA4",
+      "target": "Ah, por cierto, los piratas que derrotamos han sido entregados a las Casacas Amarillas. Los hombres de Reyner se harán cargo de la investigación."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_000_106",
+      "hash": "CB180F25DF669EB3",
+      "target": "No obstante, antes de que las Casacas Amarillas intervinieran, recuperamos un objeto de lo más insólito. Si dispones de tiempo, quisiera pedirte otro favor..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_QIB_TODO001",
+      "hash": "20B9E1B49CFC57AD",
+      "target": "¡Derrota a los piratas y protege la <italic(1)>Victoria<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_01",
+      "hash": "4039E9794ECA1E17",
+      "target": "¡Padre, esto es una locura!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_02",
+      "hash": "07AF6F8B3C52B781",
+      "target": "¡Un pirata no abandona sus tesoros!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_03",
+      "hash": "53C460819475CFA3",
+      "target": "Mi padre... ¡Tenéis que detenerlo!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_04",
+      "hash": "DE15DC0B9FC6D592",
+      "target": "Dejádnoslo a nosotros.<br>¡<split(<string(gstr1)>, ,1)>, C'nangho, conmigo!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_MAMOOJA_BATTLETALK_11",
+      "hash": "D23CF24576654088",
+      "target": "¡Según lo acordado, Ahtzapfyn!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_12",
+      "hash": "8F8EB9A7D16E96D4",
+      "target": "¿¡Merrrcenarios Mamool Ja!?"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_13",
+      "hash": "DC6D203B1D4A12A3",
+      "target": "Yo me encargo de los Mamool Ja. Tú concéntrate en Ahtzapfyn."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_21",
+      "hash": "AF4398E30D766E71",
+      "target": "¡No tienes ni idea de con quién te estás metiendo!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTZAPFYN_BATTLETALK_22",
+      "hash": "461E56447F18F2B2",
+      "target": "¡Y ahora, apártate de mi maldito camino!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_AHTBYRM_BATTLETALK_23",
+      "hash": "D079FE7C9993BA11",
+      "target": "¡Por favor! ¡No podéis dejar que gane!"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_31",
+      "hash": "6C0AC8ADCE7DB8BF",
+      "target": "¡Alerta, <if(gnum4,aventurera,aventurero)>!<br>Ahtzapfyn tiene un brillo de locurrra en la mirada..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_GHIMTHOTA_BATTLETALK_41",
+      "hash": "CCD796C2450F1C3C",
+      "target": "Proteged el barco..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_CNANGHO_BATTLETALK_42",
+      "hash": "3C6DEECF15753AA5",
+      "target": "Capitana, yo... agh..."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_00",
+      "hash": "4F8B34235C5DF455",
+      "target": "Ghimthota, capitana de la guardia de los Astilleros de Moraby, desea tu ayuda para lidiar con posibles intrusos."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_01",
+      "hash": "2276BAB54CFD73BB",
+      "target": "Ghimthota está convencida de que una banda de piratas traidores pretende sabotear la <italic(1)>Victoria<italic(0)>. Habla con Urswyrst, en la puerta delantera, o con C'nangho, en la trasera, para enterarte de cualquier actividad sospechosa."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_02",
+      "hash": "CD9AAAF9B85AD13E",
+      "target": "Has hablado con uno de los guardias y has oído un informe sobre un posible saboteador. Dirígete al acantilado del Corazón Vacío y averigua qué se está tramando."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_03",
+      "hash": "836E19C071513132",
+      "target": "Has encarado al marinero sospechoso, que se despide con unas palabras que te ponen los pelos de punta. Vuelve a toda prisa a los Drydocks e informa a Ghimthota."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_04",
+      "hash": "3807AAD8AB26EA75",
+      "target": "Has logrado evitar la destrucción de la <italic(1)>Victoria<italic(0)>. Sin embargo, ha salido a la luz que el líder de los piratas, Ahtzapfyn, es en realidad el padre de Ahtbyrm. Habla con el atribulado capataz y comprueba cómo se encuentra."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_05",
+      "hash": "E51B754B0C53D594",
+      "target": "Aunque pone al mal tiempo buena cara, está claro que Ahtbyrm ha quedado hondamente afectado por la inesperada aparición de su padre. Vuelve con Ghimthota y transmítele el agradecimiento y las disculpas de Ahtbyrm."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_SEQ_06",
+      "hash": "17570917269D7C16",
+      "target": "Ghimthota parece convencida de que retomar pronto el trabajo en la <italic(1)>Victoria<italic(0)> aliviará no tardando el atribulado corazón de Ahtbyrm. La capitana de la guardia te agradece la ayuda y menciona que los aspirantes a saboteadores han sido entregados a las Casacas Amarillas. Con todo, se ha hecho un descubrimiento importante que quisiera comentar contigo."
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_TODO_00",
+      "hash": "56EE9181C6F7E28C",
+      "target": "Hablar con uno de los guardias"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_TODO_01",
+      "hash": "D297B19C02BD5511",
+      "target": "Encontrar al marinero de mirada huidiza"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_TODO_02",
+      "hash": "E20451E686E4434E",
+      "target": "Informar a Ghimthota, en los Astilleros de Moraby"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_TODO_03",
+      "hash": "7B2A58F8AEBEF0F0",
+      "target": "Hablar con Ahtbyrm"
+    },
+    {
+      "gameKey": "quest/004/SubSea117_00414#TEXT_SUBSEA117_00414_TODO_04",
+      "hash": "630324CE9419EDF4",
+      "target": "Hablar con Ghimthota"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/002/SubFst071_00221",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_SEQ_00", "hash": "0570B2956496C22B", "target": "Qina Lyehga, la representante del Gremio de Aventureros para los guildleves locales en la Cabaña de los Hawthorne, busca a un aventurero que se encargue de guildleves." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_SEQ_01", "hash": "1E2CF759A3D16186", "target": "Antes de dejarte suelto con los guildleves locales, Qina Lyehga exige que demuestres tus capacidades. Completa su guildleve de prueba y demuestra que estás a la altura." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_SEQ_02", "hash": "17049695E47AD836", "target": "Has completado con éxito el guildleve de prueba. Preséntate ante Qina Lyehga en la Cabaña de los Hawthorne." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_SEQ_03", "hash": "0CCEFFF5F3C3117F", "target": "Superado su guildleve de prueba, Qina Lyehga está convencida de que sirves para la tarea. Por ello, ahora puedes aceptar otros guildleves de la representante del Gremio de Aventureros en la Cabaña de los Hawthorne." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_TODO_00", "hash": "E087DC4D27FF3C39", "target": "Completar el guildleve de prueba asignado por Qina Lyehga" },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_TODO_01", "hash": "85D91A6E060A9DA4", "target": "Informar a Qina Lyehga en la Cabaña de los Hawthorne" },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_1", "hash": "C81553A950508BE6", "target": "Saludos, <if(gnum4,aventurera,aventurero)>. Soy Qina Lyehga, representante de guildleves del Gremio de Aventureros." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_2", "hash": "4CF93F932DACDFCC", "target": "Si busca trabajo, las buenas gentes que residen cerca de la Cabaña de los Hawthorne me han confiado un sinfín de tareas que estoy deseando asignar a héroes aguerrridos." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_3", "hash": "FE3777101C41704D", "target": "<italic(1)>Aguerrridos<italic(0)>, repito. Muchos de estos levequests no son para pusilánimes ni para los de cuerpo frágil. Antes de mandarle a adentrarse en los parajes salvajes, debo ver qué clase de aventurero ha llegado a mi puerta, por así decirlo." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_4", "hash": "A8D970BC1B2432CA", "target": "Empecemos con un guildleve de prueba, ¿le parece? ¿Qué tal este?" },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_5", "hash": "C3C98FAD39493BEF", "target": "Excelente. Solo tiene que hacerle un <colortype(500)><edgecolortype(501)>beckon<edgecolortype(0)><colortype(0)> al silfo para ayudarlo a llegar a su destino." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_SYSTEM_000_6", "hash": "F98CD65B00B30F81", "target": "Usa la emote <colortype(500)><edgecolortype(501)>beckon<edgecolortype(0)><colortype(0)> para guiar al silfo sano y salvo hasta el destino. Quizá te resulte cómodo añadir la emote a tu hotbar antes de empezar el guildleve." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_10", "hash": "FC97C34FCD8A8D6F", "target": "Empiece el levequest en cuanto esté <if(gnum4,lista,listo)>." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_15", "hash": "4822F8A591F4877C", "target": "¿Ha completado todo lo que había que completar? Entonces solo queda un paso: ¡recoger su recompensa!" },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_20", "hash": "C1031B5B89DFADB5", "target": "Ha empezado el guildleve de prueba, ¿verdad? Le deseo suerrrte en su tarea." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_25", "hash": "E26029613A484CC1", "target": "Semejante diligencia aceptable y competencia general son justo las cualidades que más admiro." },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_26", "hash": "CC82793B82B7C115", "target": "Ahora que me he convencido de que posee el nivel de destreza necesario, siéntase libre de examinar los guildleves que tengo disponibles. ¡Espero con ganas noticias de sus futuras hazañas!" },
+    { "gameKey": "quest/002/SubFst071_00221#TEXT_SUBFST071_00221_QINALYEHGA_000_30", "hash": "C26A03668A0D6AAF", "target": "Le deseo suerrrte en su tarea." }
+  ]
+}

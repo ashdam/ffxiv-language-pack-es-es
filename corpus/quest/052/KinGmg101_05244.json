@@ -1,0 +1,525 @@
+{
+  "conversation": "quest/052/KinGmg101_05244",
+  "questName": "A Royal Invitation",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_00", "hash": "8F34D0CCAF64CD0C", "target": "Bol Wuruq tiene ganas de saber cómo te ha ido." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_01", "hash": "0DC949D18CDF6CEA", "target": "Con Tuliyollal disfrutando de un periodo de relativa paz, la encargada de las Cabinas de Proa te sugiere que te des el capricho de un plato de tacos en el cercano Xbalyav Ty'e. Se dice que la cocina de Br'uk Evu no tiene rival, y es probable que en su taberna haya un asiento libre con tu nombre." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_02", "hash": "2C598950C1F5E836", "target": "Br'uk Evu te recibe con su característica hospitalidad y toma tu comanda. Buscas una mesa donde sentarte mientras preparan tu comida." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_03", "hash": "F3D5D09A5F728440", "target": "Mientras te dispones a disfrutar de la comida, oyes sin querer una conversación entre un padre y su hijo; este último tiene dificultades para adaptarse a la vida en la capital tras treinta años en Alexandria. Justo cuando ambos deciden afrontar el problema en familia, Wuk Lamat se acerca a darles consejo. Al parecer, su situación es común, pues les habla de un grupo creado para ayudar a los turalíes que regresan a adquirir las aptitudes necesarias para la vida fuera de la cúpula. Satisfecha de haber ayudado a sus súbditos, el Juramento de la Resolución deja su mesa y por fin repara en ti, sentado cerca. Tras ponerse un poco al día, menciona que ella y Koana tienen algo que tratar contigo en el palacio. Con la curiosidad de saber qué querrán los Servidores del Alba, aceptas acudir a su encuentro." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_04", "hash": "0A08B2AF5049737D", "target": "Llegas a Sunperch, pero el guardián de la puerta te informa de que Koana está ocupado con asuntos urgentes. Te pide que esperes dentro hasta que regrese el Juramento de la Razón." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_05", "hash": "01CB500B451A9BE9", "target": "Al entrar en la sala del trono, ves que también esperan varios de los antiguos Herederos. Intercambiáis brevemente noticias sobre vuestros respectivos asuntos antes de que Koana entre en la cámara y explique el motivo de la convocatoria: se celebrará un funeral por la reina Sphene en Alexandria, y pregunta si los presentes desean asistir. Por razones personales y políticas, Wuk Lamat decide presentar sus respetos como representante de Tuliyollal y pide que tú y tus aliados la acompañéis para vigilar el desarrollo del acto. Decidido el plan, debéis partir hacia Solución Nueve, donde Gulool Ja y Oblivion ultiman los preparativos de la ceremonia." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SEQ_06", "hash": "66E91783090D1A01", "target": "Gulool Ja agradece que todos hayáis podido asistir al funeral, planeado con la ayuda de unos registros históricos recuperados hace poco. Estos registros indican que antaño se depositaban flores como ofrenda a los alejandrinos difuntos, así que se están repartiendo flores a todos los asistentes. El joven rey sabrá dónde recogerlas." },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_TODO_00", "hash": "558AA711A5505846", "target": "Hablar con Br'uk Evu" },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_TODO_01", "hash": "A86FDF5A5F323885", "target": "Buscar una mesa en Xbalyav Ty'e" },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_TODO_02", "hash": "DFB316AAD59A1A28", "target": "Hablar con el guardián de la Legión del Alba" },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_TODO_03", "hash": "F7E500FAB97ED823", "target": "Hablar con el guardián de la Legión del Alba" },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_TODO_04", "hash": "EDFE18D7DE9A0E93", "target": "Hablar con Gulool Ja en la Trastienda" },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BOLWURUQ_000_001",
+      "hash": "E7D5DD0F17DD4694",
+      "target": "Ah, siempre es un placer, <split(<string(gstr1)>, ,1)>. ¿Ha podido descansar últimamente?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BOLWURUQ_100_008",
+      "hash": "F9A8D70DA81FEF17",
+      "target": "Maravilloso. Con lo <if(gnum4,ocupada,ocupado)> que ha estado, con el rito de sucesión entre otras cosas, merece la ocasión de conocer Tuliyollal con más calma."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BOLWURUQ_000_009",
+      "hash": "FCCB082593018C78",
+      "target": "Probar los tacos de Xbalyav Ty'e es una de esas maneras. Se hacen a la manera tradicional, van cargaditos de relleno y están sublimes. Si le entra el hambre, el dueño, Br'uk Evu, se ocupará de usted."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BOLWURUQ_000_010",
+      "hash": "BF465B5C0A74939B",
+      "target": "Ahhh, hablar de los tacos de Xbalyav Ty'e me ha dado antojo... Si tiene tiempo y el estómago vacío, ¡vaya a comerse unos por mí!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_100",
+      "hash": "83246C5A1D7E66A8",
+      "target": "¡Vaya, pero si es <split(<string(gstr1)>, ,1)>! ¿Hoy vienes <if(gnum4,sola,solo)>?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_101",
+      "hash": "093647A87EA443D6",
+      "target": "Ya veo, ya veo. Si te apetecen unos tacos, invita la casa. Considéralo un agradecimiento por todo lo que has hecho por Tuliyollal."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_102",
+      "hash": "07656D810B2EDE4C",
+      "target": "Ya veo, ya veo. Si te apetecen unos tacos, invita la casa. Considéralo una muestra de gratitud por tu ayuda para recuperar aquellos tesoros."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_103",
+      "hash": "605DC31284E7EBF6",
+      "target": "Ya veo, ya veo. Si te apetecen unos tacos, invita la casa. Considéralo un agradecimiento por haber acabado con el Paso de los Libertos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_107",
+      "hash": "55E3671AD7BA0AB5",
+      "target": "Anda, busca una mesa. Te llevo la comida en cuanto esté lista."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_BRUKEVU_000_110",
+      "hash": "D460C75067675328",
+      "target": "Tu amigo pelirrojo se ha vuelto un habitual. Raro es el día que no se lleva uno para el paseo de la mañana."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244A_000_200",
+      "hash": "000F2BD9AF1BD110",
+      "target": "Sigues adorando los tacos, ¿no? Je, cuando cumpliste cinco años te comiste tantos que después casi no podías moverte. ¿Te acuerdas?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_201",
+      "hash": "853C2A529A58CE9B",
+      "target": "No, la verdad es que no. Para mí de eso hace treinta años..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244A_000_202",
+      "hash": "B46080767C90D8FB",
+      "target": "Ya... Perdona, a mí también me resulta raro. Anteayer eras un crío agarrado a la falda de tu madre camino de Yyasulani... y ahora eres un hombretón con la cara llena de pelo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244A_000_203",
+      "hash": "FDE3AB8B32725203",
+      "target": "Aun así, supe que eras mi hijo en cuanto te vi. Seguimos siendo familia, y siempre puedes contar conmigo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_204",
+      "hash": "A392F8E076D77735",
+      "target": "Contar... Ahora mismo parece que es lo único que hago. Contigo y con todo el mundo. En mi nuevo trabajo ni siquiera sé encender un fuego sin ayuda..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_205",
+      "hash": "D0532DCE323D51FA",
+      "target": "Allá en Alexandria teníamos electrope. Si necesitaba fuego, bastaba con pulsar un botón. Lo teníamos todo al alcance de la mano."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_206",
+      "hash": "334CB3C30216B0F8",
+      "target": "Pero aquí soy un inútil. Un cocinero que no sabe ni encender el fogón. Cómo me miraban los demás en la cocina... Por los dioses, nunca había pasado tanta vergüenza."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244A_000_207",
+      "hash": "050A6EFF0C0586E3",
+      "target": "Siento oír eso... Ya me habían contado historias, pero parece que la vida dentro de la cúpula es muy distinta."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_208",
+      "hash": "179577D7D5B7CC49",
+      "target": "Mi mujer y mis hijos─pensaba traerlos cuando las cosas se asentaran, pero, a este paso..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244A_100_208",
+      "hash": "98DE0D196D13B5D6",
+      "target": "Yo digo que los traigas. Si son tu familia, también son la mía. Haré lo que haga falta para que salga bien."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_209",
+      "hash": "51ACDEDB5DF5E3AA",
+      "target": "No pretendía escuchar, pero parece que os cuesta readaptaros a la vida en Tuliyollal."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_210",
+      "hash": "59044B52249422F0",
+      "target": "¿¡J-Juramento Wuk Lamat!?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_211",
+      "hash": "77E55A6A2F899294",
+      "target": "Para ayudar a gente como vosotros hemos creado un grupo de apoyo en el Ala de la Reflexión. Allí podéis aprender lo que hace falta para vivir fuera de la cúpula."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_212",
+      "hash": "052BE3A876C34FE6",
+      "target": "Sé que no es fácil volver. Pero confío en que allí os lo pongan más fácil."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_MAN05244B_000_213",
+      "hash": "96E452138A8D915A",
+      "target": "¡Eso es justo lo que necesito! Sin duda buscaré ese grupo─¡y me traeré a mi familia! ¡Gracias!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_214",
+      "hash": "9421BE9B37728237",
+      "target": "¡Anda, mira quién está aquí! Justo iba a buscarte, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_100_214",
+      "hash": "C535B2D2DB7E2184",
+      "target": "No te importa la compañía, ¿verdad? A mí también me vendría bien picar algo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_215",
+      "hash": "9061AFA9E5835268",
+      "target": "Ahhh, ¡los tacos de aquí nunca decepcionan!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_216",
+      "hash": "C9B3E0227231D894",
+      "target": "Bueno, ¿y qué has estado haciendo últimamente?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_Q3_000_000",
+      "hash": "715DE920E2A590A4",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A3_000_001",
+      "hash": "1B32E2D22EDA2231",
+      "target": "He estado explorando Tural con mi fiel alpaca."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A3_000_002",
+      "hash": "ADDACB3833AB92DC",
+      "target": "He estado recuperando sueño."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A3_000_003",
+      "hash": "0145266520DBC344",
+      "target": "He estado echando una mano por Wachumeqimeqi."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A3_000_004",
+      "hash": "A1EFDDFA600D4645",
+      "target": "He estado trabajando para recuperar unos artefactos robados."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A3_000_005",
+      "hash": "70F0BCDC807156B2",
+      "target": "He estado haciéndome un nombre en el Arcadion."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_218",
+      "hash": "FC38D255D5EDBC1E",
+      "target": "Je, je, me alegro de que ese demonio escupidor te sirva bien y de que sigas disfrutando de las vistas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_100_218",
+      "hash": "66364FA9005AF074",
+      "target": "Con todo lo que hemos pasado, no te culpo. Pero, cuando te hayas hartado, seguro que te mueres por volver al meollo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_200_218",
+      "hash": "E100BA0882E7A62A",
+      "target": "He oído historias sobre alguien que estaba ayudando a los comercios. Viendo lo bien que les va ahora, está claro que has hecho un gran trabajo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_300_218",
+      "hash": "582FDA1FB85C0077",
+      "target": "He estado revisando los informes de la Legión del Alba. Con mis deberes, no puedo perseguir criminales en el extranjero, así que necesitaba a alguien que se ocupara. ¡Y me alegro de que seas tú!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_400_218",
+      "hash": "FD5221F3FAF1982F",
+      "target": "¿¡Estás peleando en la arena de Alexandria!? Enfrentándote a rivales duros, apuesto a que has afinado aún más tus habilidades."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_219",
+      "hash": "651AC659BC28F8BF",
+      "target": "En cuanto a mí, los deberes del palacio me tienen ocupada. Pero, en cuanto encuentro un momento, me gusta pasear por las calles y hablar con la gente."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_220",
+      "hash": "BDABF70BF9128502",
+      "target": "Así entiendo mejor los problemas que tienen y se los comento a Koana para buscar soluciones."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_221",
+      "hash": "761344FC66CBCA0A",
+      "target": "Justo venía de uno de esos paseos. Y, como te decía, esperaba encontrarte."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_222",
+      "hash": "5F71BD60E2F64121",
+      "target": "Koana y yo queremos hablar contigo de una cosa─como Servidores del Alba. ¿Tienes tiempo para venir al palacio?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_223",
+      "hash": "FB32ECC9160EB637",
+      "target": "Genial. Yo me adelanto. Ven a reunirte con nosotros cuando termines aquí."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_250",
+      "hash": "D81EDB2B5FA46983",
+      "target": "Parece que Koana se ha ido a alguna parte. Lo siento..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SUNPERCHGATEKEEPER_000_300",
+      "hash": "5BEA6399C7312969",
+      "target": "<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>, es siempre un honor. El Juramento Koana se ha ausentado para atender un asunto urgente, pero no tardará en reunirse con vos dentro."
+    },
+    { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SYSTEM_000_301", "hash": "F4E09CE74E63CD6B", "target": "¿Ir a Sunperch?" },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_400",
+      "hash": "E72AED0A350EAD8B",
+      "target": "Anda, ¿vosotros también estáis aquí?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_401",
+      "hash": "7D2650C99B6BC06D",
+      "target": "Nos convocó el Juramento Koana. Aunque, a decir verdad, Alphinaud y yo lo vemos bastante a menudo últimamente."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALPHINAUD_000_402",
+      "hash": "54AAF249450B5E3D",
+      "target": "Nos pidió que compartiéramos nuestro conocimiento de la cultura de Radz-at-Han, con la esperanza de reforzar aún más vuestra alianza. Nos complació acceder, por supuesto."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GRAHATIA_000_403",
+      "hash": "E816DED9723A91E5",
+      "target": "A Krile y a mí también nos convocaron. Por lo demás, hemos seguido con nuestro trabajo, recopilando información sobre la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_404",
+      "hash": "2F11CEE8B7D335AA",
+      "target": "Mi abuelo emprendió su investigación hace veinte años. Con nuestro informe, terminaremos lo que él empezó."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_405",
+      "hash": "FF43108B58DB24C4",
+      "target": "Por si te lo preguntas, Thancred y Urianger se han ido a retomar su recorrido por Tural."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_406",
+      "hash": "94E6657D06447942",
+      "target": "Y'shtola, mientras tanto, ha vuelto a investigar el viaje entre mundos. Estuvo aquí hace unos días para pedirle permiso a Koana para estudiar la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_407",
+      "hash": "F147BAE5DBDAD0F5",
+      "target": "Por cierto, mencionó que en algún momento quiere echarle un vistazo a la llave que tú custodias."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_408",
+      "hash": "4897A80273462C80",
+      "target": "Si la mirada que tenía sirve de indicio, te sugiero que te prepares para cuando venga a buscarte. Lo más probable es que te tenga un buen rato con ella."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALPHINAUD_000_409",
+      "hash": "DEF56CAB090F4537",
+      "target": "En cuanto a Estinien... no sabemos ni dónde está ni qué hace. Hay cosas que nunca cambian."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_410",
+      "hash": "23D00233B7C80508",
+      "target": "Disculpad la tardanza."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_411",
+      "hash": "5ADC404C583F90B3",
+      "target": "No es nada. Hemos aprovechado el rato para ponernos al día."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_412",
+      "hash": "D572C3987214BDFE",
+      "target": "Bueno, ¿en qué podemos ayudarte? Espero que los presentes bastemos para lo que necesites."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_413",
+      "hash": "51EF6606F9BFA54D",
+      "target": "El asunto por el que os he convocado atañe a Alexandria."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_414",
+      "hash": "C9040E171487D42B",
+      "target": "Pronto se celebrará un funeral de Estado en Solución Nueve para llorar el fallecimiento de la reina Sphene. El rey Gulool Ja y su gobierno nos han invitado a asistir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_415",
+      "hash": "DCF13863875E51EC",
+      "target": "Aunque quedan cuestiones sin resolver entre nuestras naciones, como el trato de Yyasulani, no veo motivo para no asistir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GRAHATIA_000_416",
+      "hash": "F76A1E3FAA196535",
+      "target": "Durante generaciones, los alejandrinos vivieron sin siquiera ser conscientes de la muerte. No esperaba que conservaran ritos funerarios."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_417",
+      "hash": "1605085F30F8A53E",
+      "target": "Por lo visto, los miembros de Oblivion desenterraron registros de ceremonias que se celebraban en la Alexandria de antaño. Fueron ellos quienes propusieron honrar así a la reina."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_418",
+      "hash": "D62ABDCB19F1076B",
+      "target": "Muy propio de esa gente pensar en esas cosas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_419",
+      "hash": "3904F6BC1C086D36",
+      "target": "La gente de Alexandria ya no olvida a los muertos. Se enfrentan por primera vez a la idea de la muerte. Sospecho que nuestros amigos querían hacer algo por ellos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_420",
+      "hash": "239AD8E2C7938AE7",
+      "target": "Aunque Sphene no fuera más que un simulacro, era aun así un pilar para su pueblo. El dolor de su pérdida debe de ser profundo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_421",
+      "hash": "97B8DFE3BF15B2E0",
+      "target": "En efecto. Un funeral dará a los alejandrinos la ocasión de reunirse a expresar su dolor, para poder superarlo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_422",
+      "hash": "0E1D88E818B3701F",
+      "target": "Al principio dudaba, pero he decidido ir. No solo para estar con Gulool Ja, sino para cerrar este capítulo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_423",
+      "hash": "3DD87436D1D69E7E",
+      "target": "Si he pedido vuestra presencia ha sido, sencillamente, para saber si deseáis asistir al funeral. Al fin y al cabo, vosotros también conocisteis a Sphene..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_Q1_000_000",
+      "hash": "F958AEE9F023E001",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A1_000_001",
+      "hash": "9E469A991DE098C2",
+      "target": "Creo que yo también debería ir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A1_000_002",
+      "hash": "567B15E2CA1EDFF8",
+      "target": "A veces me pregunto si no habría habido otro camino..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_A1_000_003",
+      "hash": "56BC9BA7BD36FCE4",
+      "target": "No sería apropiado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_425",
+      "hash": "475ED50B6D17AC66",
+      "target": "Porque te consideras responsable de su muerte, deduzco. Pero esa no es una carga que lleves <if(gnum4,sola,solo)>."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_426",
+      "hash": "4AFFDBB4C3DF04A7",
+      "target": "Te propongo esto. Como Juramento, yo asistiré al funeral en representación de Tuliyollal. Mientras, tú puedes ir a título personal y velar por la gente mientras hace su duelo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_427",
+      "hash": "755CB87249C801BE",
+      "target": "A mí me pasa igual. Pero tomamos nuestras decisiones y somos responsables de lo que salga de ellas. Como Juramento, asistiré al funeral a título oficial. Debo ser testigo del dolor del pueblo alejandrino."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_428",
+      "hash": "4CBB2EB3C9054A4F",
+      "target": "Me gustaría que estuvieras allí para velar por todo, como hiciste durante todo el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_429",
+      "hash": "B05CD9362AD13B2D",
+      "target": "Por el papel que tuviste en su muerte, deduzco. Pero no teníamos elección. Había que impedir que matara a incontables inocentes."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_430",
+      "hash": "1F8216D4BC2BBDB2",
+      "target": "No te obligaré a asistir al funeral si te incomoda. Pero, mientras yo represento a Tuliyollal a título oficial, me gustaría que estuvieras allí para velar por todo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_431",
+      "hash": "7549942A86D7AEB6",
+      "target": "Creo que los demás también deberíamos ir. Sea cual sea el motivo, el hecho es que privamos a Alexandria de una gobernante querida."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_432",
+      "hash": "451599F4E7175E8A",
+      "target": "Es de justicia que recordemos quién fue Sphene, para su pueblo y para los demás, así que déjanos acompañarte."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_433",
+      "hash": "7C32C828B6AC99DB",
+      "target": "Pues decidido. Vayamos a Solución Nueve y busquemos a Gulool Ja en la Trastienda."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_435",
+      "hash": "175DAD1B3B597A31",
+      "target": "Aunque lo ideal sería que yo también asistiera al funeral, dadas las circunstancias creo que lo mejor es que nos represente Lamaty'i."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_440",
+      "hash": "361114CBF99D05DB",
+      "target": "Además, tengo que estar aquí para supervisar las reparaciones de la ciudad, que están llevando más tiempo del previsto. Cuando esa obra termine, por fin nos plantearemos instalar tronos nuevos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KOANA_000_445",
+      "hash": "EBA1151B2EFF061A",
+      "target": "Pero tener aún aquí el trono de mi padre... Me hace sentirlo cerca. No me importa que siga un tiempo más."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GEODE_000_450",
+      "hash": "83F0800C4EA7F747",
+      "target": "Qué bien que hayas venido. Esperamos mucha asistencia al funeral─el recinto no dará para todos a la vez."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GEODE_000_455",
+      "hash": "00AF36E0F9FD34BF",
+      "target": "Pero el altar seguirá ahí para quienes no puedan estar durante la ceremonia. Nosotros mismos pensamos ir a presentar nuestros respetos después."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SHALE_000_460",
+      "hash": "39D577E2F524AD51",
+      "target": "Me alegra que te llegara la invitación. Como quizá hayas oído, pudimos encontrar datos sobre costumbres funerarias olvidadas entre los registros antiguos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SHALE_000_465",
+      "hash": "37D8B206699C4E52",
+      "target": "Parece que los conservaron quienes lamentaban la pérdida de cultura provocada por la proliferación de los reguladores. Agradecemos su previsión."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GULOOLJA_000_500",
+      "hash": "82A2A32FB232171C",
+      "target": "¡Ah, habéis venido al funeral!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_501",
+      "hash": "0BBAD03DB808B198",
+      "target": "Claro. Aunque la única que participará oficialmente soy yo. Los demás velarán por el desarrollo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_502",
+      "hash": "5A25DD6C2ED38513",
+      "target": "Bueno, ¿cómo has estado? Ha pasado un tiempo desde mi última visita."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GULOOLJA_000_503",
+      "hash": "CD82497A19EAD4B0",
+      "target": "Estoy bien. Shale siempre me está enseñando cosas nuevas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GULOOLJA_000_504",
+      "hash": "F26A0C74393DCDFD",
+      "target": "Últimamente he aprendido sobre los sistemas de Everkeep y los soldados mecánicos. Es lo que necesito saber para usar bien mi autoridad."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_WUKLAMAT_000_505",
+      "hash": "D368495CC7BCD2D0",
+      "target": "Estudioso como siempre, ya veo. Como premio te he traído gateau au chocolat. Es un tipo de tarta. Creo que te gustará."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_GULOOLJA_000_506",
+      "hash": "2F4B90D1245B0C92",
+      "target": "Gracias, Lamaty'i. Y gracias por venir. Nunca he estado en un funeral, así que estoy menos nervioso contigo aquí."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_ALISAIE_000_507",
+      "hash": "AFC1E32826633B18",
+      "target": "Por curiosidad, ¿cuál es la costumbre en Alexandria? En nuestro mundo es habitual ofrecer flores a los difuntos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SHALE_000_508",
+      "hash": "B331BC330C9D79E7",
+      "target": "Según los registros, aquí es más o menos igual. Se repartirán flores a todos los asistentes."
+    },
+    {
+      "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_KRILE_000_509",
+      "hash": "E3D45723EEE6B92F",
+      "target": "Teniendo en cuenta que todos los mundos fueron uno solo, bien podría ser que la costumbre de ofrecer flores tenga el mismo origen antiguo. Fascinante, ¿no os parece?"
+    }
+  ]
+}

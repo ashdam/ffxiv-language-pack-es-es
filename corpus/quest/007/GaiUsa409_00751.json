@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa409_00751",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_00", "hash": "A884A50C4CF2DA71", "target": "A Helmhart, del Viaducto, le vendría bien la ayuda de un aventurero con un problema de lo más peliagudo." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_01", "hash": "643FD533C5F76789", "target": "Helmhart padece una grave dolencia física que requiere tratamiento inmediato. Abate phurbles por los alrededores del Viaducto para obtener tres frascos de sangre de phurble y entrégaselos a Helmhart a toda prisa." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_02", "hash": "B710AFAAE42CB06D", "target": "Has logrado obtener los frascos de sangre de phurble requeridos. Apresúrate a volver con Helmhart y entrégaselos antes de que su estado empeore." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_03", "hash": "7D1717E21767ACD6", "target": "Helmhart prepara un potente tónico capilar con la sangre de phurble que recuperaste. Aplícaselo generosamente en la cabeza para que sus cabellos vuelvan a brotar." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_SEQ_04", "hash": "18BE98091AFC8D14", "target": "Tras aplicar el tónico capilar a su reluciente calva, Helmhart se regocija con el agradable hormigueo que le produce. Está por ver si tiene algún efecto más allá de eso." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_00", "hash": "9F93B70CF6928004", "target": "Abatir phurbles para obtener su sangre" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_01", "hash": "7F19BA91ED6C9252", "target": "Entregar los frascos de sangre de phurble a Helmhart" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_TODO_02", "hash": "03E057CF867FB9AC", "target": "Aplicar el tónico capilar en la cabeza de Helmhart" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_000", "hash": "8ED6ED6AF8F9D21A", "target": "¡Usted! ¡Sí, usted! ¡<if(gnum4,Aventurera,Aventurero)>! ¡Necesito que me traiga tres frascos de sangre de phurble, y a toda prisa!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_001", "hash": "A88EC72CDDB16105", "target": "¿Que dónde encontrar sangre de phurble, pregunta? ¡De los phurbles, por supuesto! ¡Rápido! ¡Es cuestión de vida o muerte!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_020", "hash": "1814C12E56466203", "target": "¿Y bien? ¿Ha traído la sangre de phurble que le pedí? Si es así, ¡démela, y rapidito!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_025", "hash": "F50CB7A5C362FD47", "target": "¡Por fin! <if(gnum4,Amiga,Amigo)>, ¡es usted un regalo del cielo! Veamos, ¿cómo era? Ah, sí... remover dos veces, una pizca de saliva, agitar tres veces más y... ¡voilà!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_026", "hash": "64894260F2CF2754", "target": "Bueno, ¿a qué espera, <if(gnum4,amiga,amigo)>? ¡Coja una buena pella y empiece a extenderla, que mi cuero cabelludo pide socorro a gritos! Ah, y procure no dejarse ningún hueco." },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_030", "hash": "1E3942F34F2EFE8E", "target": "¡Ooh! ¡Ahhh! ¡Ahhhhhhhhh!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_031", "hash": "D9B33E79D7D5A88A", "target": "¡Vaya, cómo hormiguea! ¡Si ya noto cómo se me abren los poros! ¡En un santiamén tendré una melena al viento de un fulm de larga!" },
+    { "gameKey": "quest/007/GaiUsa409_00751#TEXT_GAIUSA409_00751_HELMHART_000_032", "hash": "DE62B80EBD936B25", "target": "No sé cómo agradecérselo, <if(gnum4,amiga,amigo)>. Con el sol pegando como pega por estos lares, una calva es una dolencia potencialmente mortal." }
+  ]
+}

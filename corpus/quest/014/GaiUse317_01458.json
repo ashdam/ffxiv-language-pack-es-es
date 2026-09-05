@@ -1,0 +1,172 @@
+{
+  "conversation": "quest/014/GaiUse317_01458",
+  "questName": "Heretical Harassment",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SEQ_00",
+      "hash": "6AD77810E3013DEB",
+      "target": "Minfilia parece deseosa de darte la bienvenida de vuelta al Peaje del Aparecido."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SEQ_01",
+      "hash": "D03BEEF44361ACDB",
+      "target": "Minfilia expresa su preocupación por que el bullicioso caos en torno al comienzo oficial de la compañía de prueba de Alphinaud haya sometido a una presión excesiva a Slafborn y a sus esfuerzos por supervisar la creciente población del Peaje del Aparecido. Sal fuera y ofrece tu ayuda al veterano soldado."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SEQ_02",
+      "hash": "6D357FCB6717A677",
+      "target": "Aparentemente impasible ante la llegada de los reclutas, Slafborn asegura estar más preocupado por tu interminable carga de trabajo. Sin embargo, mientras resta importancia a tus inquietudes, un grupo de aventureros heridos interrumpe la conversación. Pronto averiguas que los aventureros —y las provisiones que se les había encomendado escoltar— fueron asaltados por una banda de herejes de Coerthas cerca de la frontera con Mor Dhona. Slafborn te pide que viajes a Coerthas y ayudes a la casa Fortemps a dar con el cargamento robado destinado a los colonos del Peaje del Aparecido. Dirígete al Campamento Cabeza del Dragón y visita al señor Haurchefant."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SEQ_03",
+      "hash": "1963DFF25F9E9126",
+      "target": "Llegas al Campamento Cabeza del Dragón y encuentras al señor Haurchefant aún ignorante del motivo de tu visita. Explica la situación al cabeza de la casa Fortemps y hablad sobre qué debe hacerse..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_TODO_00",
+      "hash": "9EB91FBD56CED71D",
+      "target": "Hablar con Slafborn en el Peaje del Aparecido"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_TODO_01",
+      "hash": "C14D56651E7501A4",
+      "target": "Hablar con Haurchefant en el Campamento Cabeza del Dragón"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_MINFILIA_000_000",
+      "hash": "89BF852462B1A2B2",
+      "target": "Saludos, <split(<string(gstr1)>, ,1)>. Alphinaud me dice que todo está dispuesto para poner en marcha su compañía de prueba; sin duda los Herederos agradeceremos contar con el apoyo de semejante organización."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_MINFILIA_000_001",
+      "hash": "D425E2AAE2AC6BF7",
+      "target": "La ceremonia inaugural se celebrará aquí, en el Refugio de las Piedras. Tataru colabora con Alphinaud para que todo esté a punto, así que me temo que los reclutas se han quedado por el momento a su aire."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_MINFILIA_000_002",
+      "hash": "C953302CD9541014",
+      "target": "Últimamente han llegado bastantes caras nuevas al Peaje del Aparecido, y me pregunto si Slafborn no se verá desbordado. ¿Querrías hablar con él y ver si necesita algo?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_MINFILIA_000_010",
+      "hash": "528CBDC6CA6553C1",
+      "target": "¿Querrías hablar con Slafborn y ofrecerte a aliviarle la carga? El pueblo ya estaba a rebosar de aventureros, refugiados y demás, y me temo que la llegada de los reclutas de Alphinaud no ha hecho sino sumarse al caos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_020",
+      "hash": "8CE88BDF1C0E2905",
+      "target": "¿Qué puedo hacer por ti, <split(<string(gstr1)>, ,1)>? Pensaba que estarías <if(gnum4,ocupada,ocupado)> echando una mano con ese nuevo brazo de los Herederos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_021",
+      "hash": "B2E0468FEB750948",
+      "target": "¡Ja! Apenas noté llegar a tus reclutas; fue un mero goteo comparado con la avalancha de cazatesoros que pasan por aquí a diario."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_022",
+      "hash": "223535B88848F910",
+      "target": "Aunque agradezco tu ofrecimiento, es más bien <italic(1)>tu<italic(0)> carga lo que me preocupa. Me dicen que esta compañía de prueba responderá directamente ante la Antecesora, así que confío en que eso te suponga menos trabajo a la larga."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_023",
+      "hash": "31BE87E7C1CA0C65",
+      "target": "¡Slafborn! El cargamento... No pudimos..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_024",
+      "hash": "C1BF0F9A7EFB96DC",
+      "target": "¡Por los dioses, mujer! ¿Qué ha ocurrido?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_025",
+      "hash": "927251117A79C1DD",
+      "target": "Nosotros... \\<tos> Traíamos un cargamento al Peaje del Aparecido; provisiones destinadas a la labor de los colonos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_026",
+      "hash": "099F4A316849063A",
+      "target": "Pero, justo cuando intentábamos entrar en Mor Dhona, nos asaltaron unos bandidos. Yo... \\<tos> \\<tos> Creo que puede que fueran herejes."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_027",
+      "hash": "4703EF1050F4DCD5",
+      "target": "Eran muchos... Demasiados. Solo escapamos con vida abandonando los suministros. ¡Le rogamos que nos perdone!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_028",
+      "hash": "A01C75C87751249C",
+      "target": "No hay nada que perdonar. Las provisiones pueden reponerse, pero los soldados con cabeza escasean. Descansad; haré que venga alguien a atender esas heridas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_029",
+      "hash": "A600B2E4B93DCC4C",
+      "target": "Qué hacer..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_030",
+      "hash": "354807D12149E116",
+      "target": "Si hay herejes de por medio, esto probablemente sea más que un simple robo. Habrá que informar a Ishgard."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_031",
+      "hash": "3B0F27C8E56795F3",
+      "target": "¿De dónde procedían estos suministros?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_032",
+      "hash": "C752822C26D41460",
+      "target": "De la casa Fortemps; recogimos las provisiones en el propio Campamento Cabeza del Dragón."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_033",
+      "hash": "CD2DBCFEFC65BDD5",
+      "target": "Entendido. Me aseguraré de que se les ponga al corriente de lo sucedido."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_034",
+      "hash": "025A9B9494D5876C",
+      "target": "<split(<string(gstr1)>, ,1)>, ¿no tenías tú buena relación con los caballeros de la casa Fortemps?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_035",
+      "hash": "A29FD2756A08F3C6",
+      "target": "Les enviaré un mensaje de inmediato, por supuesto, pero también quisiera que viajaras hasta allí y ofrecieras tus considerables talentos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_036",
+      "hash": "8EB4BFEF67CC2756",
+      "target": "...Sí, ya sé que contradigo lo que antes deseaba, aliviarte la carga, pero necesito a alguien capaz de resolver este incidente como es debido: nuestras buenas relaciones con Ishgard son demasiado importantes para arriesgarlas con medias tintas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_037",
+      "hash": "FBAB12DE82F2EF7F",
+      "target": "Gracias por tu comprensión. Estoy seguro de que el señor Haurchefant se alegrará de contar con tu ayuda."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_SLAFBORN_000_040",
+      "hash": "B0FCABACF307F093",
+      "target": "Enviaré un mensaje al Campamento Cabeza del Dragón para informar al señor Haurchefant del ataque, así como de tu inminente llegada. Que la buena fortuna te acompañe, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HONBUBOUKENSHA01354_000_045",
+      "hash": "3C5BAE668F3D6D2A",
+      "target": "Nunca había fracasado tan por completo en una misión. Pero aquellos herejes se abalanzaron sobre nosotros como demonios invernales..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HAURCHEFANT_000_050",
+      "hash": "A67B2F707A6E0011",
+      "target": "¡Vaya, vaya, pero si es mi <if(gnum4,buena amiga,buen amigo)> <string(gstr1)>! ¿Te apetece un plato de karakul asado? ¿Un poco de vino especiado?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HAURCHEFANT_000_051",
+      "hash": "0998A466A5B1C509",
+      "target": "¿No? Ah, ya veo que no has venido a mi salón simplemente para escapar del frío cortante."
+    },
+    {
+      "gameKey": "quest/014/GaiUse317_01458#TEXT_GAIUSE317_01458_HAURCHEFANT_000_052",
+      "hash": "E68877527D52B79A",
+      "target": "De hecho, estaba a punto de abrir un mensaje urgente del Peaje del Aparecido, y sospecho que el momento de tu llegada no es casualidad..."
+    }
+  ]
+}

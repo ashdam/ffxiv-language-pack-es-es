@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/010/GaiUsc801_01025",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_00", "hash": "74DCA06E26B54F33", "target": "Radolf quiere que prestes tu ayuda a la causa del Maelstrom." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_01", "hash": "787498CB537A898F", "target": "En el Refugio de las Arenas, te enteras por Radolf de que el Maelstrom necesita la ayuda de los Herederos. Habla con Falkbryda en el Campamento Valle de la Calavera sobre la necesidad de someter la amenaza Sahagin." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_SEQ_02", "hash": "320F1B5E9EDE5DBC", "target": "Falkbryda agradece tu ayuda, dado el peligro inminente de estar en la vanguardia contra la temible tribu bestial." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_TODO_00", "hash": "10656219ABD4CCA7", "target": "Hablar con Falkbryda en el Campamento Valle de la Calavera" },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_000", "hash": "3892412E08A1401D", "target": "Recurro a usted como <if(gnum4,compañera Heredera,compañero Heredero)>, <split(<string(gstr1)>, ,1)>, para que ayude a nuestros aliados a alcanzar un objetivo común." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_001", "hash": "2A373C92AF0754EC", "target": "El Maelstrom necesita cuanta espada pueda reunir para frenar el avance de los Sahagin." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_RADOLF_000_002", "hash": "942C07DD86777BBA", "target": "Le imploro que viaje al Campamento Valle de la Calavera, trate el asunto con Falkbryda y aporte el remedio que pueda." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_010", "hash": "7650135FAB199EE0", "target": "Si has venido buscando a Falkbryda del Maelstrom, enhorabuena: la has encontrado. Aunque supongo que, en verdad, soy yo quien te buscaba a ti." },
+    { "gameKey": "quest/010/GaiUsc801_01025#TEXT_GAIUSC801_01025_FALKBRYDA_000_011", "hash": "3EC1F646F2042F3C", "target": "El Campamento Valle de la Calavera domina el frente Sahagin, con esas hordas chupamares justo bajo su huesuda nariz. Somos el dique contra la marea creciente de la barbarie." }
+  ]
+}

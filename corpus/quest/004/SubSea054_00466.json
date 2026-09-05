@@ -1,0 +1,187 @@
+{
+  "conversation": "quest/004/SubSea054_00466",
+  "questName": "Double Dealing",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_00",
+      "hash": "C161330A15E2377B",
+      "target": "Staelwyrn teme que su saco de naranjas no llegue al puesto de La Thagran según lo previsto."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_01",
+      "hash": "8684E04EDAAFF11C",
+      "target": "Sevrin se ha largado con un saco de naranjas con la intención de trapichearlas con los goblins. Staelwyrn te pide que busques a Sevrin y uses con él la emoción /dudar, para obligarlo así a obrar como es debido."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_02",
+      "hash": "7253543D36EE4F7C",
+      "target": "Sevrin admite abiertamente haberse llevado las naranjas para su propio provecho, pero de momento no le preocupa que lo hayan descubierto. Su trato con los goblins se ha torcido y sus compinches están en apuros. Te pide que los saques del atolladero."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_03",
+      "hash": "D072DE7D2C149A09",
+      "target": "Has salvado a los colegas de Sevrin de un aciago destino a manos de los goblins atracadores. Informa a Sevrin de que están bien y recuérdale el saco de naranjas del que se apropió."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_04",
+      "hash": "9A1ACCD230CCBB09",
+      "target": "Sevrin te agradece haber salvado a sus secuaces, pero no se disculpa por el intento de robo ni por su cobardía. Aun así, sin ganas de empezar otra pelea, te permite llevarte aquello a lo que viniste. Recupera el saco de naranjas."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_05",
+      "hash": "728559AA7F05B090",
+      "target": "Has conseguido las naranjas. Llévaselas a su legítimo destinatario, Ossine, en el puesto de La Thagran."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_06",
+      "hash": "FAE27CC4B1B28AF0",
+      "target": "A juzgar por la reacción de Ossine, no es la primera vez que Sevrin intenta una jugarreta semejante. Vuelve a la Granja Summerford y relata a Staelwyrn todo lo sucedido."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEQ_07",
+      "hash": "87AA52EC8B56CD7C",
+      "target": "Una vez más, Staelwyrn agradece tu honrado esfuerzo. También lamenta que la deslealtad de Sevrin quizá no tenga ya remedio. Quedas debidamente <if(gnum4,advertida,advertido)> de que vigiles al granuja siempre que ande cerca."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_00",
+      "hash": "FBB8FCA26B609C29",
+      "target": "Encarar a Sevrin y usar con él la emoción /dudar"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_01",
+      "hash": "0AEBC2A312EB42CF",
+      "target": "Salvar a los secuaces de Sevrin"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_02",
+      "hash": "2ABA019F0568583F",
+      "target": "Hablar con Sevrin"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_03",
+      "hash": "2494204B8335CCCB",
+      "target": "Recuperar el saco de naranjas"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_04",
+      "hash": "D0257D38F5F728D3",
+      "target": "Entregar el saco de naranjas a Ossine, en el puesto de La Thagran"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_TODO_05",
+      "hash": "7737F355377E86E7",
+      "target": "Informar a Staelwyrn, en la Granja Summerford"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SYSTEM_100_000",
+      "hash": "DFEA0E7367A4AF24",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_1",
+      "hash": "B4DCF4FDBE1437B2",
+      "target": "Me duele decirlo, pero todo el gil del mundo no puede comprar lealtad. Hay quienes, como tú, son de fiar. Pero luego están los otros..."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_2",
+      "hash": "1D89415C5EE21F1C",
+      "target": "Hasta ahora no me ha quedado más remedio que confiar en ese charlatán de Sevrin, aun cuando soy <italic(1)>muy consciente<italic(0)> de que ha estado haciendo negocios turbios a mis espaldas. Más de una vez me han llegado rumores de tratos indebidos con goblins."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_3",
+      "hash": "C80BFD628C3A9383",
+      "target": "No me sorprendería lo más mínimo que estuviera pasando <italic(1)>ahora<italic(0)> mismo. No hace ni una campanada, se esfumó un saco de naranjas, y Sevrin con él. Quiero que encuentres a ese cabrón y lo encares por mí, <split(<string(gstr1)>, ,2)>. Estoy seguro de que hay gato encerrado, así que asegúrate de <colortype(500)><edgecolortype(501)>dudar<edgecolortype(0)><colortype(0)> de todo lo que salga de su boca."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_11",
+      "hash": "0B0A971E6F3A7CC0",
+      "target": "¡Malditos infiernos! ¡Estoy en el estrecho sin remo y a la deriva!"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_12",
+      "hash": "538E822C7ED449C1",
+      "target": "¿Y ahora qué? ¿Staelwyrn te ha enviado a por las naranjas? Bah... Así que el viejo cabrón lo sabía desde el principio... Argh, ¿qué más da ya?"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_13",
+      "hash": "C532CCBBD7A085F4",
+      "target": "Escucha, tú eres de esos aventureros mojigatos, ¿no? ¡Ve a rescatar a mis colegas de esos goblins tramposos! Están ahí mismo, junto a la hoguera."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_21",
+      "hash": "81A1739B0B3BE2B5",
+      "target": "¡Salva a mis colegas y, por la Navegante, tendrás tu saco de golosinas antiescorbuto!"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_AYLMER_000_31",
+      "hash": "FAEA000C792A5B86",
+      "target": "Te debo una. Yo mismo me habría escapado de no ser porque Sevrin me apartó de un empujón."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_EYRIMHUS_000_31",
+      "hash": "EB9EA2492E4EECDC",
+      "target": "¿Sevrin te ha enviado? ¡Ja! Por cómo salió pitando de aquí, ¡estaba seguro de que nos había vendido!"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SOZAIRARZAI_000_31",
+      "hash": "BECC256E32E35CE4",
+      "target": "¡Si no hubieras venido, me habrían cocinado el dodo! Mmm... dodo asado."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_41",
+      "hash": "1368E7AADC1948DA",
+      "target": "Salvaste a mis colegas y, por eso, te debo una."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_42",
+      "hash": "371EF4EAB8FF99F1",
+      "target": "Supongo que debería avergonzarme de no haber podido limpiar mi propio estropicio..."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_SEVRIN_000_43",
+      "hash": "B52731519FEE3DB7",
+      "target": "...¡Pero un pirata no conoce la vergüenza! ¡No tengo reparo alguno en faltar a mi palabra! Solo te doy este saco porque me caes bien. Llévaselo a Ossine y dale recuerdos de mi parte."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_OSSINE_000_51",
+      "hash": "6DFC3B8B07A4B1C7",
+      "target": "¿Qué tenemos aquí? ¿Una entrega de la Granja Summerford, y a tiempo? ¡Ja! ¡Siempre hay una primera vez para todo!"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_OSSINE_000_52",
+      "hash": "190F04421826EB9D",
+      "target": "Vaya, mira eso... ¡Y no falta ni una sola! Lo único que no ha llegado son esos recaderos, y a <italic(1)>ellos<italic(0)> no los echo de menos ni pizca."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_OSSINE_000_53",
+      "hash": "DF1B76A5C27EFE4F",
+      "target": "Aquí tienes el pago íntegro de Staelwyrn. ¡De <italic(1)>ti<italic(0)> sí me fío para que le llegue!"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_61",
+      "hash": "53726E3D06358766",
+      "target": "¡De vuelta de una pieza! Menos mal. ¿Qué tal te ha ido, <split(<string(gstr1)>, ,2)>?"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_62",
+      "hash": "2100602D0516CDCC",
+      "target": "¡Ah, esto es lo que buscaba! Parece que está todo lo que se me debía, sí. Aunque te mentiría si dijera que no había albergado más esperanzas puestas en Sevrin."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_63",
+      "hash": "4D95FA497E22819E",
+      "target": "Estaba incluso dispuesto a pasar por alto que se llevara su tajada, pero vendernos a todos por esos goblins dejados de la mano de los dioses... \\<suspiro>"
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_STAELWYRN_000_64",
+      "hash": "539EF0CFE6117121",
+      "target": "Harías bien en andarte con ojo cerca de ese tramposo de poca monta. Si es capaz de dejar a sus propios colegas por muertos, no hay forma de saber qué te haría a <italic(1)>ti<italic(0)>."
+    },
+    {
+      "gameKey": "quest/004/SubSea054_00466#TEXT_SUBSEA054_00466_POP_MESSAGE",
+      "hash": "149AD64C32D9F103",
+      "target": "¡Percibes una presencia hostil!"
+    }
+  ]
+}

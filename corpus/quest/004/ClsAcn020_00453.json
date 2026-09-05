@@ -1,0 +1,85 @@
+{
+  "conversation": "quest/004/ClsAcn020_00453",
+  "questName": "Way of the Arcanist",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SEQ_00",
+      "hash": "F8007B96FD30FB1E",
+      "target": "Murie quiere confirmar tu deseo de unirte al Gremio de Arcanistas."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SEQ_01",
+      "hash": "877DDCEE90D1AEFE",
+      "target": "Aunque lo habitual es presentarse ante el maestro del gremio, Murie te explica que el líder de los arcanistas no está disponible por ahora. En su lugar, debes hablar con la maestra del gremio en funciones, Thubyrgeim."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SEQ_02",
+      "hash": "29D901F161E34CC4",
+      "target": "Thubyrgeim quiere que demuestres tu compromiso con el estudio de la magia arcana mediante una prueba sencilla. Viaja a las Tierras Bajas de La Noscea y abate tres Wharf Rats, tres Aureliae y tres Little Ladybugs."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SEQ_03",
+      "hash": "C68B92D9CE85FE7B",
+      "target": "Has abatido a las criaturas indicadas. Regresa al Gremio de Arcanistas y habla con Thubyrgeim, que te espera."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SEQ_04",
+      "hash": "5D9CF61EEEFC49CA",
+      "target": "Con tu prueba preliminar superada, Thubyrgeim, maestra del gremio en funciones, te da oficialmente la bienvenida a las filas del Gremio de Arcanistas. Sigue el consejo de la Roegadyn y continúa perfeccionando tus habilidades y tácticas de magia arcana enfrentándote a las criaturas salvajes.<br><br>※La próxima misión de arcanista estará disponible con Thubyrgeim al alcanzar el nivel 5."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_TODO_00",
+      "hash": "C17A14D2A4649AB2",
+      "target": "Hablar con Thubyrgeim"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_TODO_01",
+      "hash": "02F233D8347015B8",
+      "target": "Abatir Wharf Rats"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_TODO_02",
+      "hash": "45C25F9FDE665692",
+      "target": "Abatir Aureliae"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_TODO_03",
+      "hash": "0C859E18CA1CAC6C",
+      "target": "Abatir Little Ladybugs"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_TODO_04",
+      "hash": "2B651BA22F89C6BE",
+      "target": "Informar a Thubyrgeim en el Gremio de Arcanistas"
+    },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_MURIE_000_000", "hash": "1FEACFFBC440ACF4", "target": "¿Y bien? ¿Has decidido inscribirte en nuestro gremio? ¿O acaso te intimida ahora la idea de pensar en exceso?" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_MURIE_000_005", "hash": "95172BDB2F08BB71", "target": "Por supuesto, eres libre de meditar tu decisión durante todo el tiempo que quieras. Aquí estaré esperando, por si eliges abrazar una vida de esfuerzo académico." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_MURIE_000_010", "hash": "D610EC4AED351152", "target": "Tu buen juicio es digno de elogio. Ahora bien, lo habitual sería que te presentara a nuestro maestro del gremio para que le comunicaras tus intenciones en persona..." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_MURIE_000_011", "hash": "93DDEDE28105BE90", "target": "Sin embargo, por circunstancias extraordinarias, ahora mismo está... ilocalizable. En su lugar, puedes hablar con la señora Thubyrgeim, que ha asumido toda la responsabilidad de dirigir el gremio mientras tanto." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_MURIE_000_012", "hash": "E4A8EE9015EB95F3", "target": "La encontrarás justo ahí, junto a las estanterías. No seas tímid<if(gnum4,a,o)>: aunque su mente es aguda y crítica, su trato es siempre de lo más acogedor." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_020", "hash": "0CF897E5E7640B29", "target": "Sí, soy Thubyrgeim. Bienvenid<if(gnum4,a,o)> al Gremio de Arcanistas. Como Murie te habrá explicado, ejerzo de maestra del gremio en funciones hasta que nuestro díscolo líder regrese. Supongo que nuestra recepcionista también te habló de los orígenes del arte, ¿no?" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_021", "hash": "A59F77A8738FB6FB", "target": "Permíteme, pues, explayarme sobre su naturaleza. La magia arcana aprovecha las energías vivas del éter. Quizá la prueba más evidente de ello sea nuestra capacidad de manifestar a la entidad arcana Carbuncle, y la clase de magia que este aliado etéreo emplea a nuestras órdenes." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_022", "hash": "E5B8C6255476BBDC", "target": "El núcleo de la disciplina, no obstante, reside en la búsqueda de soluciones definitivas a cualquier posible dilema. Incluso en el campo de batalla ─no, <italic(1)>especialmente<italic(0)> en el campo de batalla─, este principio prevalece." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_023", "hash": "2AFAAEAC82DDB04E", "target": "Si uno desea asegurar la cuestión de la victoria, debe aplicar la estrategia más eficaz. A un arcanista se le mide por <if(gnum4,su,su)> capacidad de analizar con calma la situación a cada instante y responder con los hechizos más apropiados a su alcance." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_024", "hash": "B3BB6019D93CABB9", "target": "El estudio de la magia arcana pondrá a prueba tus facultades mentales hasta la perplejidad. ¿Estás dispuest<if(gnum4,a,o)> a razonar para salir de un aprieto tras otro?" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_Q1_000_000", "hash": "779D13A9A7AA5727", "target": "¿Preparad<if(gnum4,a,o)> para razonar?" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_A1_000_001", "hash": "E33D24461138B2F5", "target": "Sí" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_A1_000_002", "hash": "3EB1A47754B9F984", "target": "No" },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_030", "hash": "E7725E62D85BBC76", "target": "Ya veo. Aunque te felicito por llegar a esa conclusión <italic(1)>antes<italic(0)> de unirte al gremio, debo admitir cierta decepción. Si cambiaras de parecer, no dudes en buscarme de nuevo." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_035", "hash": "C5477E1E33846833", "target": "Una respuesta inequívoca; de las que más me gustan. Veamos ahora si la claridad de tus palabras se corresponde con la agudeza de tu mente." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_036", "hash": "73F85D436EF9A1A7", "target": "En las Tierras Bajas de La Noscea encontrarás, entre otras, tres especies de alimañas: wharf rats, little ladybugs y aureliae. Te pido que emplees tu destreza en la magia arcana para eliminar tres de cada tipo de criatura." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_037", "hash": "EB32A2D976337416", "target": "Sal de la ciudad por la Puerta de la Tempestad y no tardarás en toparte con abundantes objetivos. Mientras mantengas la concentración, no creo que estos adversarios te causen a ti ni a tus incipientes aptitudes mayores dificultades." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_038", "hash": "97748DF7025A2334", "target": "Cuando regreses tras superar esta prueba preliminar, te daré la bienvenida como miembro oficial del Gremio de Arcanistas. Que tu juicio siga siendo raudo y claro." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_040", "hash": "E7FD7D909FD49A80", "target": "Veo que las criaturas de más allá de las murallas apenas supusieron una amenaza para ti. Es, pues, un gran placer reconocer formalmente tu iniciación en el gremio. Desde este día, puedes portar con orgullo el título de “arcanista”." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_100_040", "hash": "08D66C338AD55936", "target": "Y para conmemorar la ocasión, te obsequio con este cuaderno de caza." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_101_040", "hash": "6B4938061755CEA4", "target": "Los enemigos señalados en sus páginas se han elegido específicamente para poner a prueba tus aptitudes en la magia arcana. Cuando idees una nueva estrategia o táctica, tendrás a mano una fuente de adversarios con los que probarla." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_041", "hash": "5CD99CFF0E0A1ED9", "target": "Te sugiero que sigas adentrándote en tierras salvajes y no dejes de pasar las páginas de tu grimorio: no hay mejor maestra que la dura experiencia." },
+    { "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_THUBYRGEIM_000_042", "hash": "02DF33C01D61FD3D", "target": "Y cuando sientas que puedes mandar sobre Carbuncle con la misma facilidad con la que mueves tus propios miembros, vuelve a mí para recibir más instrucción. Aquí estaré esperando." },
+    {
+      "gameKey": "quest/004/ClsAcn020_00453#TEXT_CLSACN020_00453_SYSTEM_000_043",
+      "hash": "280F88CC59DDD1F9",
+      "target": "La próxima misión de arcanista estará disponible con Thubyrgeim al alcanzar el nivel 5."
+    }
+  ]
+}

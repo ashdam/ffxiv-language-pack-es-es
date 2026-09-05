@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/006/SubSea902_00694",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_00", "hash": "58B6955697B22B20", "target": "Orwen, el representante del Gremio de Aventureros para los guildleves locales en Puerto Ale, busca a un aventurero que se encargue de guildleves." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_01", "hash": "AD10650EB7CD3642", "target": "Para calibrar tu capacidad de encargarte de los diversos guildleves que ofrece, Orwen exige que lleves a cabo una tarea preliminar." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_02", "hash": "44E108462660F902", "target": "Has completado con éxito el guildleve de prueba. Preséntate ante Orwen en Puerto Ale." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_03", "hash": "756214CAB39CCF8C", "target": "Orwen confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores de Puerto Ale. Demuestra tu valía como aventurero y sigue encargándote de los guildleves que ofrece." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_00", "hash": "83C666F33D015CA6", "target": "Completar el guildleve de prueba de Orwen" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_01", "hash": "E6BE1C3BBE961CCE", "target": "Informar a Orwen" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_1", "hash": "8202653A0A9E6D81", "target": "¿Necesitas trabajo, <if(gnum4,muchacha,muchacho)>? Me llamo Orwen y soy representante del Gremio de Aventureros. ¿Ves el sombrero?" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_2", "hash": "CC8311856EB1B282", "target": "Llevo un registro de las tareas que los lugareños necesitan que se hagan, y luego las reparto entre los aventureros que parecen capaces." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_3", "hash": "592F0E7DAF64591C", "target": "Bueno, capaz <italic(1)>pareces<italic(0)>, pero al último pardillo que juzgué lo bastante duro le arrancó la cara un maldito wharf rat. Tienes que demostrarme que puedes con mis encargos." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_4", "hash": "1E49FE8B3989FCA9", "target": "Échale un ojo a esta tarea. ¿Te parece algo que podrías hacer?" },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_5", "hash": "958821C0BFF0B53F", "target": "De acuerdo, entonces. Tienes que hacer <colortype(500)><edgecolortype(501)>beckon<edgecolortype(0)><colortype(0)> a tu cliente, Memeroon, para ayudar a guiarlo hasta su destino." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SYS_000_6", "hash": "AE535A2A84C9145D", "target": "Usa el emote /beckon para guiar a tu cliente sano y salvo hasta el destino. Puede resultarte cómodo añadir el emote a la barra de acciones antes de empezar el guildleve." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_10", "hash": "5F039B165CD670C0", "target": "Puedes empezar el guildleve cuando estés listo." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_15", "hash": "0FC61E9F4BEA3664", "target": "¿Has completado la tarea? Entonces solo te queda recoger tu recompensa." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_20", "hash": "A89E79DB186ACA24", "target": "¿Con que has empezado mi guildleve de prueba? Buena suerte, <if(gnum4,muchacha,muchacho)>." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_25", "hash": "9DC35BAA408FC765", "target": "Sí, me parece que eres lo bastante duro para encargarte del resto de mis guildleves." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_26", "hash": "D5A35C8B87BD9B12", "target": "Puerto Ale es un importante centro de comercio de la región, y no faltan tareas por hacer. Tengo ganas de verte marcar la diferencia aquí, aventurero." }
+  ]
+}

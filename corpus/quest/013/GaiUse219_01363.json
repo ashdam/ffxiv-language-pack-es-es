@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/013/GaiUse219_01363",
+  "questName": "Through the Maelstrom",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_00", "hash": "281C1891E4504B67", "target": "Yugiri tiene el aire de una mujer rebosante de gratitud." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_01", "hash": "163C4692C83B0E24", "target": "Antes de despedirse de ti para estudiar las técnicas de combate de la hermandad secreta, la siempre cortés Yugiri te pide que transmitas su gratitud a Minfilia. A falta de algo mejor que hacer, regresa al Refugio de las Piedras, en el Peaje del Aparecido, y hazle llegar sus sentimientos a la Antecesora." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_SEQ_02", "hash": "51E233FE91D4963F", "target": "Llegas al Refugio de las Piedras, <if(gnum4,decidida,decidido)> a transmitir las palabras de agradecimiento de Yugiri, pero, antes de que puedas hacerlo, Minfilia se pone a exteriorizar sus pensamientos sobre los acontecimientos recientes. A partir del fenómeno que observó en los instantes previos a la invocación de Leviatán, la Antecesora está convencida de que la verdadera naturaleza del Eco y el secreto para derrotar a los ascianos están ya al alcance de la mano. Sin embargo, justo cuando resuelve pasar a la acción, Urianger irrumpe en el solario con funestas noticias: la Isla de Val, hogar de los Discípulos de Baldesion, ha sido destruida por un hechizo de poder semejante al de Ultima..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_TODO_00", "hash": "47AEB8E9E1000491", "target": "Hablar con Minfilia en el Refugio de las Piedras" },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_000", "hash": "63242D7B9E3194AA", "target": "Mucho y más ha sucedido desde que contemplé Eorzea por primera vez desde la cubierta del galeón. Baste decir que no imaginaba que se me invitaría a tomar parte en su noble lucha." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_001", "hash": "AEC891E09C56FBD6", "target": "Pero perdóneme, le he entretenido demasiado. Sin duda tiene asuntos apremiantes de los que ocuparse. Tenga por seguro que ya no necesito escolta en estas tierras." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_002", "hash": "F86D0DD7D2EE8359", "target": "Cuando vuelva a ver a la señora Minfilia, le ruego que le transmita mi más humilde agradecimiento. Ojalá pudiera hacerlo en persona, pero he de cumplir mi promesa a la Almirante. Hasta que volvamos a vernos, <if(gnum4,Guerrera,Guerrero)> de la Luz." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_YUGIRI_000_010", "hash": "D48F9491FD22037F", "target": "Cuando vuelva a ver a la señora Minfilia, le ruego que le transmita mi más humilde agradecimiento. Hasta que volvamos a vernos, <if(gnum4,Guerrera,Guerrero)> de la Luz." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDA01362_000_020", "hash": "B77997F90E5683C2", "target": "Caray, hace <italic(1)>siglos<italic(0)> que Thancred dejó plantadas a las Hermanas. Lo que daría por volver a trabajar con ese viejo granuja, como en los viejos tiempos..." },
+    { "gameKey": "quest/013/GaiUse219_01363#TEXT_GAIUSE219_01363_UNDERGROUNDB01362_000_030", "hash": "C790FCEBE78F34D2", "target": "¿Arte de combate del Lejano Oriente, eh? ¡He de decir que me pica bastante la curiosidad!" }
+  ]
+}

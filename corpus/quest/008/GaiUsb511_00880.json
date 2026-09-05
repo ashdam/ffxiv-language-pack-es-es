@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb511_00880",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_00", "hash": "E15C68CE9EC5ABA6", "target": "Dedeju necesita tu ayuda para remendar un humilde hábito de lino." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_01", "hash": "8F115F4F1F4F094A", "target": "Dedeju, una tejedora que trabaja desde la Iglesia de San Adama Landama, ha recibido el encargo de remendar una vestidura para el padre Iliud. Por desgracia, la vestidura está más desgastada que tela tiene Dedeju. Aguda como una aguja y firme como un pespunte, te ordena ir a la Estación de Maleza Negra, en el centro de Thanalan, a recoger lino gastado de un mercader de confianza." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_02", "hash": "2B189A1373193077", "target": "El mercader te da el lino y también una breve incursión en el curioso arte del remiendo. Entrega la tela a Dedeju y a ver qué más puedes aprender." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_SEQ_03", "hash": "121BA1F754C34146", "target": "Dedeju toma la tela con palabras de agradecimiento. Mientras sus hábiles dedos retejen rápidamente la vestidura, menciona que en su día reparó una prenda chamuscada que se creía perteneciente al guardián del cementerio Marques..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_00", "hash": "AAB65A8A1510D84E", "target": "Recoger un retal de lino andrajoso de un escrupuloso tendero en la Estación de Maleza Negra" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_TODO_01", "hash": "270635894F1CF30B", "target": "Dar el lino a Dedeju" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_000", "hash": "EBEE45AEFCEDDB54", "target": "¡Pssst! ¿Eres esa <if(gnum4,aventurera,aventurero)> que hace maravillas? Hoy puedes hacer unas cuantas para mí. Verás, el padre me pidió que remendara esta vestidura, pero mira, tanto la trama como el tejido se han ido ahí y ahí. Voy a necesitar más tela de la que tengo." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_001", "hash": "4881DE1C4BD59A12", "target": "Ahora mismo hay un mercader en la Estación de la Maleza Negra; te dará lo que necesito. ¡Date prisa, al centro de Thanalan que vas!" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_010", "hash": "B5B1FA7EC64F99EA", "target": "¿Viene de parte de Dedeju? Me preguntaba adónde se habría metido. El otro día pasé por su tienda... iba a invitarla a una taza de té. Se perdió uno bueno, una punta ámbar de Coerthas." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_ENPC_000_011", "hash": "20EA9948709662E8", "target": "Lo de siempre, supongo. El lino andrajoso, sí, <if(gnum4,señora,señor)>. Ahora, no me malinterprete. Es agradable y suave, así que ella puede sacar los hilos y volver a tejer lo que remienda. Aquí tiene." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_020", "hash": "6A1899F653E61364", "target": "¡Ahí estás! ¿Conseguiste lo que necesito?" },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_021", "hash": "7E85F9A44E0BF155", "target": "¡Te lo agradezco un montón, <if(gnum4,aventurera,aventurero)>! Ahora veremos lo ágiles que son estos dedos. El padre dijo que lo necesita muy pronto. Va a salir por algún asunto de sacerdote..." },
+    { "gameKey": "quest/008/GaiUsb511_00880#TEXT_GAIUSB511_00880_DEDEJU_000_022", "hash": "2169EB2AB6DD79E5", "target": "Aunque esto es pan comido comparado con el último encargo, ¡y perdona el vocabulario! Era grande como una casa y estaba más chamuscado que la cena de una fulana. Lo trajo el padre Iliud, pero tenía pinta de ser para ese tipo, el guardián del cementerio." }
+  ]
+}

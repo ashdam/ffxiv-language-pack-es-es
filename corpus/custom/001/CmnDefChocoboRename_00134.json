@@ -1,0 +1,12 @@
+{
+  "conversation": "custom/001/CmnDefChocoboRename_00134",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_UNQUALIFIED", "hash": "3470033D62E59598", "target": "No puedes realizar esta acción mientras tu compañero esté presente." },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_TITLE", "hash": "B45F25D7F8B35D54", "target": "Cambia el nombre de tu chocobo personal." },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_CAPTION", "hash": "66FECB21722B94B6", "target": "Nombre del chocobo:" },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_MES0", "hash": "C71AAB326A029DDC", "target": "Los nombres deben tener entre 2 y 20 caracteres alfabéticos y pueden incluir apóstrofos, pero no guiones." },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_PROMPT_MY_CHOCOBO_RENAME_SUCCESS", "hash": "BA637EA4D528A3C6", "target": "Tu chocobo ahora se llama <string(lstr1)>." },
+    { "gameKey": "custom/001/CmnDefChocoboRename_00134#TEXT_CMNDEFCHOCOBORENAME_00134_MY_CHOCOBO_RENAME_STABLE", "hash": "E9B39DD666D664CC", "target": "No puedes realizar esta acción mientras tu chocobo esté en la cuadra." }
+  ]
+}

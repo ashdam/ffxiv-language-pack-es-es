@@ -1,0 +1,13 @@
+{
+  "conversation": "custom/002/CmnGscGATENotice_00242",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR", "hash": "FD7B88F2C0827767", "target": "¡Saludos, <if(gnum4,señora,señor)>! Nuestro próximo evento programado, «<switch(lnum2,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>», se celebrará <switch(lnum3,en Wonder Square East,en Event Square,en Round Square,en el Cactpot Board)>. ¡Todos los invitados pueden participar!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM", "hash": "746A3F97B7FD9DC6", "target": "El próximo GATE se celebrará a las <settime(lnum1)><if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:<sec(t_min)> <if([t_hour>=12],p.m.,a.m.)> <switch(lnum3,en Wonder Square East,en Event Square,en Round Square,en el Cactpot Board)>." },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION", "hash": "79E522FBF747BEE9", "target": "¡Saludos, <if(gnum4,señora,señor)>! Si desea participar en «<switch(lnum1,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>», ¡dese prisa en llegar a <switch(lnum2,Wonder Square East,Event Square,Round Square,el Cactpot Board)>!" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY", "hash": "683E3913965B82D0", "target": "¿Desea participar en este GATE?" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_GO", "hash": "7D3221CB748459DA", "target": "Sí" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL", "hash": "FE0EFFEADC4A7FCE", "target": "No" },
+    { "gameKey": "custom/002/CmnGscGATENotice_00242#TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION", "hash": "B8A59832A9FE541E", "target": "¡Saludos, <if(gnum4,señora,señor)>! «<switch(lnum1,Cliffhanger,Vase Off,Skinchange We Can Believe In,The Time of My Life,Any Way the Wind Blows,Leap of Faith,Air Force One,The Slice Is Right)>» se está celebrando ahora mismo <switch(lnum2,en Wonder Square East,en Event Square,en Round Square,en el Cactpot Board)>. Si desea presenciarlo, ¡debe ir allí ya, antes de que termine el evento!" }
+  ]
+}

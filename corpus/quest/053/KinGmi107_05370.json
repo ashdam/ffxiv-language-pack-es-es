@@ -1,0 +1,331 @@
+{
+  "conversation": "quest/053/KinGmi107_05370",
+  "questName": "One of Our Own",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SEQ_00", "hash": "621A46799C3CFEFD", "target": "Sphene está decidida a tomar parte en la batalla que se avecina." },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_00", "hash": "AC0727182294C576", "target": "Hablar con Gossan en el Parque de la Praxis" },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_01", "hash": "6582E45D1AF38548", "target": "Hablar con Sphene" },
+    { "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_TODO_02", "hash": "2BEE90D6EEAD11E6", "target": "Hablar con Y'shtola en el nodo telúrico mnémo" },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GULOOLJA_000_001",
+      "hash": "02C2ACF891E40E43",
+      "target": "Shale está de mal humor desde que volvimos. Creo que no le gustó lo que dijo Calyx... Pero no te preocupes, ¡haré lo posible por animarla!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_005",
+      "hash": "74489F5BB62AB855",
+      "target": "Les he pasado a nuestros compañeros la versión corta de los hechos para que todos podamos prepararnos para lo que viene."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_010",
+      "hash": "2E109D9911252812",
+      "target": "Es hora de acabar con esto. Calyx no parará hasta que <italic(1)>nosotros<italic(0)> lo paremos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ERENVILLE_000_015",
+      "hash": "17C5CA72608E7CC8",
+      "target": "La situación ahí fuera no es la mejor... Pero al menos habéis vuelto sanos y salvos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SHALE_000_020",
+      "hash": "6B4D2EC43E694107",
+      "target": "Es una pena que dar puñetazos a un Perpetuo no le haga daño. Me encantaría reorganizarle esa cara tan serena..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_030",
+      "hash": "F685F4E413226FD2",
+      "target": "<split(<string(gstr1)>, ,1)>... Hemos puesto a Erenville al corriente de todo lo ocurrido y hemos avisado a los demás."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_100_030",
+      "hash": "4A9B9E2D0BD4D0F0",
+      "target": "Ahora solo nos queda decidir cuáles serán nuestros próximos pasos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_031",
+      "hash": "67576FE9E7DC0A89",
+      "target": "Calyx te ha ofrecido la oportunidad de enfrentarte a él directamente..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_100_031",
+      "hash": "16C4D26E786AA626",
+      "target": "Y aunque se parece mucho a meterse de cabeza en una emboscada, no tenemos mucha elección. Si queremos destruir los recuerdos que, según parece, guarda en los niveles superiores del Meso Terminal, allí es adonde debemos ir."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SHALE_110_031",
+      "hash": "3C760B6CE0A9A77B",
+      "target": "Aunque sigo molesta por que me robaran mi momento, hice igualmente mis deberes..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SHALE_120_031",
+      "hash": "4847B844591E9C3D",
+      "target": "Puedo confirmar que el relé que encontramos sí transmitía datos de vigilancia a un aparato situado en algún punto de la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_032",
+      "hash": "49FCA88507C6E93C",
+      "target": "Cuando vayas a luchar contra Calyx, te ruego que me dejes luchar a tu lado."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_033",
+      "hash": "706141BAB0E1F7AC",
+      "target": "Déjame luchar por la memoria de Otis y Zelenia, y por esa otra Sphene en la que pude haberme convertido. Pero, sobre todo, ¡por mi amado reino y por un mañana alegre!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_Q1_000_000",
+      "hash": "B578A15479D01B8C",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_A1_000_001",
+      "hash": "44628AD2C00A2D67",
+      "target": "Siempre ha sido tu lucha tanto como la nuestra, o más."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_A1_000_002",
+      "hash": "36D1B6A2F9B65559",
+      "target": "Claro, ¡pero nada de heroicidades temerarias!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_A1_000_003",
+      "hash": "1075C16C471DA813",
+      "target": "Si la cosa se pone fea, yo te protegeré."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_035",
+      "hash": "97CB4EDD13CB57FE",
+      "target": "Gracias por entender lo que esto significa para mí."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_036",
+      "hash": "964AE967D36FF53C",
+      "target": "Sí, lo entiendo. Prometo no exponerme ni exponer al grupo a peligros innecesarios."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_037",
+      "hash": "C108BC8B7CFB84A1",
+      "target": "Te tomo la palabra. Pero yo también te protegeré a ti... porque eso es lo que hacen los compañeros."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_038",
+      "hash": "831DC1C400CCBD39",
+      "target": "Yo también voy contigo. Ya sabes mis razones."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_039",
+      "hash": "073023D41956A66C",
+      "target": "Ni falta hace decirlo, pero tus compañeros Herederos también tienen toda la intención de acompañarte a la batalla."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_040",
+      "hash": "88F13188AE01E3A0",
+      "target": "Alisaie y los demás fueron tan tajantes al respecto que ya han partido hacia la Memoria Viva. Yo estoy más que lista para hacer lo mismo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ERENVILLE_000_041",
+      "hash": "895E7BD2FE58FD50",
+      "target": "Yo seguiré patrullando las calles por si hay señales de problemas, sobre todo de quienes llevan neorregulador."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SHALE_000_042",
+      "hash": "37FB937ED9766752",
+      "target": "Si necesitas algo de mí, estaré a la espera aquí, en la Trastienda."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GULOOLJA_000_043",
+      "hash": "27E83F77C22AF9F2",
+      "target": "Yo también quiero ir con vosotros, pero sé que no puedo. He aprendido que a veces hay que tener paciencia y confiar en los amigos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_044",
+      "hash": "7C9AFEABD0BD880A",
+      "target": "Ah, <split(<string(gstr1)>, ,1)>. Krile y yo creemos que deberíamos hablar con Gossan antes de partir hacia la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_045",
+      "hash": "FED0E38CA7C00EB3",
+      "target": "Bajo la dirección de Calyx, Preservación ha moldeado la sociedad de Alexandria durante siglos. Derribarlo tendrá consecuencias graves, y hay que avisar a los responsables de lo que pretendemos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_046",
+      "hash": "11B40332DD953A9A",
+      "target": "Justificaciones aparte, estaremos actuando contra los deseos de todos los que quieren convertirse en Perpetuos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_047",
+      "hash": "B7290A1A72308791",
+      "target": "Exacto. No sabemos si Gossan aprobará o rechazará el rumbo que hemos elegido, pero, en cualquier caso, marcharnos sin decir nada estaría mal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_048",
+      "hash": "79C7FA0FABDBE2C1",
+      "target": "Vamos, deberíamos ponernos en marcha. Primero Resolución, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GULOOLJA_000_049",
+      "hash": "B19675C4416D2B71",
+      "target": "¡Tened cuidado! ¡Nos vemos cuando todo acabe!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_SHALE_000_050",
+      "hash": "E30003FE07BACA97",
+      "target": "Como he dicho, estaré lista y esperando por si me necesitáis. Vosotros aseguraos de volver de una pieza."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GULOOLJA_000_055",
+      "hash": "FC11AA73C5EAE98C",
+      "target": "Haré lo que pueda por ayudar a Shale y a Erenville. Puede que no sea mucho, ¡pero las cosas pequeñas suman si haces suficientes!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_060",
+      "hash": "AB6B976A6EB0F0A1",
+      "target": "Los funcionarios del gobierno deben de estar recibiendo exigencias de todas partes. No envidio la posición de Gossan."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_065",
+      "hash": "7B724C74A82C89F9",
+      "target": "Veo que Gossan lleva neorregulador. Seguro que tiene cosas que decir al respecto..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_070",
+      "hash": "1FA6F263952A3C6A",
+      "target": "El ambiente está cargado de inquietud, y no menos alrededor del propio Gossan."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ERENVILLE_000_075",
+      "hash": "76EBDDB2793AD819",
+      "target": "Hasta gente de mi aldea ha empezado a llevar neorregulador. Solo espero que no acabe mal..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GOSSAN_000_080",
+      "hash": "E36C49E0A167508C",
+      "target": "Es un alivio verme libre de mis dudas. Hasta que no me quité el regulador no me di cuenta de lo mucho que me pesaba."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_085",
+      "hash": "9063E46F811B2403",
+      "target": "Sphene debe de estar encantada de que sus compatriotas la acojan así. Por ellos, tenemos que traerla de vuelta sana y salva."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_090",
+      "hash": "B109D97848CD8424",
+      "target": "Me alegro de que hayamos podido escuchar la voluntad del pueblo alejandrino. ¡Ahora nos toca a nosotros llevar el resto hasta el final!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_STRIKA_000_095",
+      "hash": "20BAAC131CF13E74",
+      "target": "Hola, ¿os acordáis de mí? ¿La cazadora de los Campos del Trueno? Ha pasado tiempo, pero nos conocimos cuando acababais de llegar a la cúpula."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_STRIKA_000_096",
+      "hash": "92D997923103C225",
+      "target": "Hemos estado hablando con Lithander y los demás y, gracias a unos argumentos muy convincentes, nos hemos hecho a la idea de que tenemos que empezar a responsabilizarnos del futuro de nuestro país."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_STRIKA_000_097",
+      "hash": "E4E4C0EBA08665CD",
+      "target": "Hay quienes, como nosotros, dependen del regulador para trabajar, y otros que aún no están listos para renunciar a lo que tienen... pero todos compartimos el deseo de mejorar las cosas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_100",
+      "hash": "A305F98FE4599918",
+      "target": "Todos han sido tan cálidos y acogedores... Los alejandrinos son, como siempre, un pueblo firme."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_101",
+      "hash": "DC2CFF9B998DF98A",
+      "target": "Qué contenta estoy de haber vuelto a casa..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_102",
+      "hash": "A0F6F1019DFD234D",
+      "target": "Gracias, Gossan. Esa decisión no debió de ser fácil de tomar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GOSSAN_000_103",
+      "hash": "76C93E2F0E7271E3",
+      "target": "Ojalá pudiera decir que el valor para ello salió de mí. El empujón final vino de los ciudadanos de Alexandria y de su valentía al dar el primer paso hacia el cambio."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_104",
+      "hash": "63D27D83F302372E",
+      "target": "Hablando de eso, ¿puedo pedirte que guardes ese neorregulador bajo llave donde nadie pueda cogerlo? Así los registros no deberían llegar a la cifra objetivo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GOSSAN_000_105",
+      "hash": "B9F1EB34EE701E84",
+      "target": "Lo haré con mucho gusto, aunque me temo que no servirá de nada. Según nuestros últimos sondeos, el número de neorreguladores en circulación supera los cinco mil declarados."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GOSSAN_000_106",
+      "hash": "619FC14CC9AFE69D",
+      "target": "Supongo que las unidades sobrantes contemplan a quienes, como yo, han cambiado de idea o dudan en registrarse."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_107",
+      "hash": "32C35443E355828A",
+      "target": "Ah... Eso suena mucho a algo que haría Calyx. Bueno, tendremos que enfrentarnos a él de todos modos, así que no hay por qué retrasar lo inevitable. ¡Rumbo a la Memoria Viva!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ALPHINAUD_000_110",
+      "hash": "2484E47821F4E2A5",
+      "target": "Me alegra volver a reunirme con vosotros. Tuve que ausentarme un momento para disponer cierta medida de precaución..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ALISAIE_000_115",
+      "hash": "011A77C60BABA5FF",
+      "target": "La última vez tuve que esperar en el cenote, ¡pero ahora nada me impide sumarme a esta pelea!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_GRAHATIA_000_120",
+      "hash": "C94539132CC6AF55",
+      "target": "Hemos estado todos tan ocupados que parece una eternidad desde la última vez que nos reunimos así. ¡He de decir que formamos un grupo formidable!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_KRILE_000_125",
+      "hash": "0748534396A17123",
+      "target": "Venir aquí me recuerda a mis padres. Al valor que me dieron..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_130",
+      "hash": "32ECF5A682E70B09",
+      "target": "Parece que fueron Alphinaud y Alisaie quienes le explicaron a Koana que teníamos que entrar en el cenote. ¡Y él nos pidió que tuviéramos muchísimo cuidado, cómo no!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_135",
+      "hash": "400A71E28B8704BA",
+      "target": "Apenas desperté aquí y ya perdí el conocimiento. Ahora que puedo disfrutar del todo del silencio amable de este lugar, se me saltan las lágrimas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_YSHTOLA_000_140",
+      "hash": "9FE82883BDD03D96",
+      "target": "Ah, qué bien ver a nuestros compañeros enteros y ceñidos para la batalla."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_YSHTOLA_000_141",
+      "hash": "AFE33664C26C426F",
+      "target": "En cuanto a nosotros, nos hemos adelantado para inspeccionar el terreno. No hay cambios dignos de mención... salvo en el propio Meso Terminal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_WUKLAMAT_000_142",
+      "hash": "F385D459CF78B53F",
+      "target": "¿Cómo? ¿Qué le ha pasado al Meso Terminal?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_YSHTOLA_000_143",
+      "hash": "1C93C66400FAB5EB",
+      "target": "El muro se ha retirado y ofrece una cómoda entrada al interior de la estructura. Ese acceso no existía la última vez que estuvimos aquí, así que Calyx habrá manipulado desde entonces el electrope del terminal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_YSHTOLA_000_144",
+      "hash": "0D0AC37C95750734",
+      "target": "Todo para facilitar su amabilísima invitación a los niveles superiores."
+    },
+    {
+      "gameKey": "quest/053/KinGmi107_05370#TEXT_KINGMI107_05370_ORIGINALSPHENE_000_145",
+      "hash": "EDFB617A9FC4F33E",
+      "target": "Una invitación que estoy deseando aceptar... Por todos los que aman Alexandria, no cederé ni los dejaré en la desesperación."
+    }
+  ]
+}

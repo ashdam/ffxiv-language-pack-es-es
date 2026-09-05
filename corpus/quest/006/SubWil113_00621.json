@@ -1,0 +1,97 @@
+{
+  "conversation": "quest/006/SubWil113_00621",
+  "questName": "For the Children",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_1",
+      "hash": "2CCE3D021FFA8AD7",
+      "target": "La hermana Ourcen... No puede ser. Aunque bien es cierto que <italic(1)>suele<italic(0)> ir sola al Bazar Dorado, y no es raro verla hablando con los niños. Pero... no. No podría ser ella... ¿o sí?"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_2",
+      "hash": "800C266E69AC5D9D",
+      "target": "Mmm... \\<suspiro> Me cansan ya estas sospechas. Sé que hay un niño en particular al que ella tiene cariño. Busca al muchacho, <split(<string(gstr1)>, ,1)>, y mira a ver si le sonsacas algo sobre lo que hace Ourcen."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_CHILD_000_10",
+      "hash": "8650AA652998BCDC",
+      "target": "¡Ayuda, por favor! ¡La hermana Ourcen salió sola y no ha vuelto!"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_CHILD_000_11",
+      "hash": "E980E6A18FC7383E",
+      "target": "Siempre me lee aquí mismo, cosas sobre Thal, la Orden y el más allá. Le dije que había perdido mi cosita brillante y fue a buscarla. ¿Y si los monstruos de ahí fuera le hacen daño? ¡Encuéntrela, por favor!"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_CHILD_000_20",
+      "hash": "3A064E4FB80FB8DE",
+      "target": "¿Y si los monstruos de ahí fuera le hacen daño a la hermana Ourcen? ¡Encuéntrela, por favor!"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_OURCEN_000_30",
+      "hash": "FA2C3AAE9144D949",
+      "target": "Usted... Usted es <if(gnum4,la,el)> de la iglesia. Menos mal que llegó cuando lo hizo. Parece que vuelvo a estarle agradecida."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_OURCEN_000_31",
+      "hash": "6A689E249623B2C8",
+      "target": "¿Habló con el niño? Sí, en fin, logré encontrar su baratija perdida. Es un anillo que su madre le dio antes de morir. Me encargaré de devolvérselo sano y salvo."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_POP_MESSAGE",
+      "hash": "A6CF1DE6C78D43FA",
+      "target": "¡Percibes una presencia hostil!"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_60",
+      "hash": "040C24D4998785BE",
+      "target": "¿Atacaron a la hermana Ourcen a las afueras del Bazar Dorado? Que los dioses no lo quieran... Le reservaré una habitación en la posada por si necesita descansar."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_ISEMBARD_000_61",
+      "hash": "D1214E5FFB4CF708",
+      "target": "¿Buscando los recuerdos de unos huérfanos? ¿Y arriesgando de paso su propio bienestar? Desde luego, no son las viles fechorías que Thancred quería hacernos creer."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_00",
+      "hash": "06544886DB326295",
+      "target": "A Isembard le preocupan las dudas que se ciernen sobre la integridad de la hermana Ourcen."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_01",
+      "hash": "BDDDF1614F484D90",
+      "target": "Isembard se niega a creer que la hermana Ourcen esté detrás de las misteriosas desapariciones del Campamento Huesos Secos. Con ese fin, te pide que hables con uno de sus niños preferidos en el Bazar Dorado para saber más de sus actividades."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_02",
+      "hash": "E2EBB5CF6CAB807E",
+      "target": "Al llegar al Bazar Dorado, te dicen que la hermana Ourcen salió hace un rato a buscar el tesoro perdido del niño. Temiendo por su seguridad, el niño te suplica que vayas a buscarla."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_03",
+      "hash": "503783DB31EA4571",
+      "target": "Has salvado a Ourcen de un destino atroz a manos de unos soldados no muertos. Tras expresarte su gratitud, se despide y regresa al Bazar Dorado. Vuelve al Campamento Huesos Secos y cuéntale a Isembard todo lo sucedido."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_SEQ_04",
+      "hash": "0B6F2993EFBF9669",
+      "target": "Después de que ella arriesgara la vida para recuperar el recuerdo del huérfano, Isembard está más convencido que nunca de que la hermana Ourcen no tiene nada que ver con las desapariciones."
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_00",
+      "hash": "E4A4CAE832DAF831",
+      "target": "Hablar con el golfillo desaliñado en el Bazar Dorado"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_01",
+      "hash": "7506B8FAC5B2CCCB",
+      "target": "Salvar a la hermana Ourcen"
+    },
+    {
+      "gameKey": "quest/006/SubWil113_00621#TEXT_SUBWIL113_00621_TODO_02",
+      "hash": "B6FCC85F329B3726",
+      "target": "Informar a Isembard en el Campamento Huesos Secos"
+    }
+  ]
+}

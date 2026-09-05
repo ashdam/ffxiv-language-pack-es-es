@@ -1,0 +1,112 @@
+{
+  "conversation": "quest/038/XxaWil063_03852",
+  "questName": "Prudence at This Junction",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_ROGER_000_000",
+      "hash": "1E72D8C588180991",
+      "target": "Corre la voz de que la Estación de Maleza Negra anda muy falta de gente. Las Antorchas de Piedra de allí no tienen ni un momento de paz."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_ROGER_000_001",
+      "hash": "757A2A5D9DA3DA1B",
+      "target": "Un tipo llamado Warin busca reforzar sus filas para uno o dos encargos de corta duración. Si te apetece embolsarte unos giles de más, podrías hacer cosas mucho peores."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_010",
+      "hash": "F99ED957618D360D",
+      "target": "¿Buscando trabajo, quizá? Si es así, no podías haber llegado en mejor momento."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_011",
+      "hash": "37BB4329C76740CC",
+      "target": "Las Antorchas de Piedra somos mercenarios contratados por la Compañía Minera Amajina e Hijos para proteger sus intereses. Nuestra principal tarea aquí es mantener las vías libres de alimañas, y para eso necesitamos tu ayuda."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_012",
+      "hash": "0F69A0EB71754F33",
+      "target": "Eso sí, te advierto: es un trabajo que puede ponerse feo, y más feo aún si vas mal preparad<if(gnum4,a,o)>."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_013",
+      "hash": "B4072C46191D0C6B",
+      "target": "Una sola pieza de equipo puede ser la diferencia entre la vida y la muerte. No pienso cargar en la conciencia con haber mandado a un aventurero mal equipado a una muerte prematura."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_014",
+      "hash": "9AB51CD20B338225",
+      "target": "Asegúrate de tener las armas y la armadura en condiciones. Cuando estés list<if(gnum4,a,o)>, preséntate ante mí otra vez."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_020",
+      "hash": "0492570F2403FA20",
+      "target": "¿Y bien, list<if(gnum4,a,o)> para la inspección?"
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_030",
+      "hash": "F0998704884040D6",
+      "target": "¡Por los dioses, <if(gnum4,mujer,hombre)>! ¿Cómo diablos sobreviviste a los antlings yendo tan mal equipad<if(gnum4,a,o)>? No puedo mandarte con la conciencia tranquila a enfrentarte a bestias salvajes hasta que tengas el equipo en condiciones."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_040",
+      "hash": "918EF8F42617211D",
+      "target": "Bien. Todo parece estar en orden."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_041",
+      "hash": "4F185308D5D73342",
+      "target": "Pero que sepas que nada está garantizado en este mundo. El destino es caprichoso, después de todo. En cualquier caso, aventureros capaces como tú no abundan, y no quisiera que tiraras tu vida por la borda."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_WARIN_000_042",
+      "hash": "4FCD8585E3D50850",
+      "target": "He tenido que enterrar a demasiados camaradas que hicieron caso omiso de las grietas en sus lorigas y las abolladuras en sus yelmos. Sea a lo que sea que te enfrentes, no desdeñes la importancia del equipo."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_00",
+      "hash": "0B2E4CC49E79AA94",
+      "target": "Roger, por su oficio, se entera de toda clase de informaciones, algunas de las cuales podrían serte útiles."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_01",
+      "hash": "4AFE563B3066E88E",
+      "target": "Roger intuye que estás hecho para gestas mayores que entregar calabazas. Te sugiere que hables con Warin, de las Antorchas de Piedra, que necesita ayuda de algún tipo."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_02",
+      "hash": "EF1FAD6C3D21EC02",
+      "target": "Warin, mercenario profesional de primera, recluta aventureros dispuestos y capaces para ayudar a defender las propiedades de la Compañía Minera Amajina e Hijos. Sin embargo, no está dispuesto a contratar a quien vaya mal preparado para esta tarea potencialmente peligrosa e insiste en examinar de cerca tu equipo antes de empezar. Equípate la cabeza, el cuerpo, las manos, las piernas y los pies con equipo de nivel de objeto 5 o superior y preséntate ante él para que te inspeccione."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SEQ_03",
+      "hash": "B8BAFEFB6BEB2456",
+      "target": "Una sola pieza de equipo puede marcar la diferencia entre la vida y la muerte. Satisfecho ya de que vas convenientemente equipado, Warin está listo para asignarte una tarea."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_TODO_00",
+      "hash": "F7EB3BAA9E7508CD",
+      "target": "Hablar con Warin"
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_TODO_01",
+      "hash": "E6E1D0451DB2F5A7",
+      "target": "Presentarte ante Warin para la inspección"
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SYSTEM_100_000",
+      "hash": "AC4CBF2C6C906CEC",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SYSTEM_000_015",
+      "hash": "B0A039D7FBA24C8A",
+      "target": "Equípate la cabeza, el cuerpo, las manos, las piernas y los pies con equipo de nivel de objeto 5 o superior antes de volver a hablar con Warin."
+    },
+    {
+      "gameKey": "quest/038/XxaWil063_03852#TEXT_XXAWIL063_03852_SYSTEM_000_031",
+      "hash": "F11EE182F5C8C2E2",
+      "target": "Equípate la cabeza, el cuerpo, las manos, las piernas y los pies con equipo de nivel de objeto 5 o superior antes de volver a hablar con Warin."
+    }
+  ]
+}

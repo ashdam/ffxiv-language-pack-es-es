@@ -1,0 +1,25 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceRetire_00232",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_TALK_ACTOR_02", "hash": "917A458D75FA9CDD", "target": "...<string(lstr1)>, ¿verdad? Si eso es lo que desea, <if(gnum4,señora,señor)>, así se hará." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_Q1", "hash": "1A7EEBCB66B45FEF", "target": "¿Retirar a <string(lstr1)>?<br>※Los chocobos retirados no pueden volver a inscribirse como chocobos de carreras." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_A1", "hash": "55DF1A551609813F", "target": "Sí" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_A2", "hash": "55B7AF4B2F2CF177", "target": "No" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_01", "hash": "E4472DCE6643AD35", "target": "Veo que está decidido. Muy bien. ¿Qué palabras de despedida tiene para su chocobo?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_001_02", "hash": "25E308711A634BEE", "target": "Elogiar una aptitud adquirida de un chocobo la convertirá en una aptitud innata, que podrá transmitirse de generación en generación." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_Q1", "hash": "DE6C3957D3D286C0", "target": "¿Qué vas a decir?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_A1", "hash": "7F45747F8A62F9CB", "target": "Buen trabajo, chocobo. Buen trabajo." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_A2", "hash": "35CBF8D5DBD61429", "target": "Adiós, viejo amigo. Nunca te olvidaré─ni tu dominio de <sheet(ChocoboRaceAbility,lnum1,0)>, que nos llevó a la victoria." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_A3", "hash": "9E54B7AA79E600FA", "target": "¡No, todavía no! ¡No estoy listo para despedirme!" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_01", "hash": "1D062178F13BCA97", "target": "...Su chocobo disfrutará de una vida de lujo─de eso puede estar seguro." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_02", "hash": "B367D3D59664B547", "target": "Como recordatorio, procure no perder su certificado de chocobo retirado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_002_03", "hash": "8A9C92DB0F0DF9A6", "target": "Si desea concertar un apareamiento, deberá presentárselo a Katering, en las Monturas de Regalo del Moguri." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_RETIRE_003_01", "hash": "4F2A54F0B6048B75", "target": "Muy bien. Ya no tiene que preocuparse más por este." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_ERROR_001_01", "hash": "633A28118E2A8378", "target": "Le ruego que me disculpe, <if(gnum4,señora,señor)>, pero parece que ahora mismo va cargado hasta arriba. Quizá debería ordenar sus pertenencias antes de tratar este asunto conmigo." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_ERROR_001_02", "hash": "1397286F8676659C", "target": "No puede retirar un chocobo sin espacio en su inventario para guardar el certificado de chocobo retirado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_TALK_ACTOR", "hash": "CEF225DF7292171F", "target": "Si eso es lo que desea, <if(gnum4,señora,señor)>, así se hará." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_ERROR_002_01", "hash": "A78B9BE1119BEFE7", "target": "Qué extraño. Dijo que deseaba retirar un chocobo, ¿verdad? Pues según mis registros, no tiene ningún chocobo de carreras inscrito." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRetire_00232#TEXT_CMNGSCCHOCOBORACERETIRE_00232_ERROR_002_02", "hash": "82B17FA7E482A25D", "target": "Solo puede retirarse un chocobo de carreras inscrito con un rango de 40 o superior." }
+  ]
+}

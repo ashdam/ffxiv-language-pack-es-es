@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/SubFst038_00175",
+  "questName": "Surveying the Damage",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_1", "hash": "837709541D346C34", "target": "Menudo bochorno... Envié a un recluta del Bannock a una expedición de agrimensura, y el muy cobarde volvió grupas y huyó al primer indicio de peligro." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_2", "hash": "03C1BA4A47764AE6", "target": "¡Así <italic(1)>no<italic(0)> es como atendemos las peticiones de los conjuradores! Y, por si tan pobre papel fuera poco, el mentecato gallina dejó atrás el instrumental de agrimensura que había prestado la mismísima Oyente Pauline." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_3", "hash": "74553320899E2F31", "target": "Mientras yo intento inculcar algo de agallas a este supuesto «soldado», ¿te importaría recuperar el instrumental de agrimensura y devolvérselo a la Oyente Pauline, en la Cabaña de Gabineaux?" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_MONRANGUIN_000_4", "hash": "999D05DF3B2F9131", "target": "Según el lastimero relato de mi recluta, debería haber un registro de mediciones, una cuerda de agrimensor y dos cajas de instrumentos de agrimensor desperdigados por el interior de una cueva al sur de aquí. \\<suspiro> Milagro que el muy necio no perdiera hasta las botas... Ejem. Que la Matrona te guarde." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_10", "hash": "7201FED6E9014160", "target": "¿Sí? ¿En qué puedo ayudarle?" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_11", "hash": "1084E8B0DC61B5E0", "target": "¿Oh? Pero si este es el instrumental que dejé a los soldados del Bannock..." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_12", "hash": "0EEBD59BF71E8DB0", "target": "¿Huyó al primer indicio de peligro, dice? Ya veo...<br>En fin, no todo está perdido: parece que el recluta logró completar la agrimensura. Los registros son, de hecho, bastante detallados." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_13", "hash": "37BC0A3F96B205D4", "target": "Con los cambios que trajo la Calamidad, juzgué prudente enviar a la Orden de la Doble Víbora en varias expediciones para cartografiar la topografía de la región. Quiso la fortuna que los oficiales vieran en estas tareas una excelente ocasión para instruir a soldados inexpertos." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_PAULINE_000_14", "hash": "FE327C08B38C680E", "target": "Ya no podemos fiarnos de lo que antaño sabíamos de la Selva de los Doce. Si queremos sobrevivir a estos tiempos turbulentos, hemos de reconocer de nuevo nuestro entorno y discernir mejor las amenazas. Manténgase alerta, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_00", "hash": "AB89D4B356E9334D", "target": "Un guardia de la Aguja de Gilbert llamado Monranguin necesita que recuperes el instrumental de agrimensura que un recluta asustado dejó atrás en una cueva." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_01", "hash": "1D3B9BAEAF387B82", "target": "Recupera de la cueva un registro de mediciones, una cuerda de agrimensor y dos cajas de instrumentos de agrimensor." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_02", "hash": "2B6A762CF2EABB2D", "target": "Has recuperado todo el instrumental de agrimensura. Devuelve el equipo a Pauline, en la Cabaña de Gabineaux." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_SEQ_03", "hash": "C4A3578AF96FFA10", "target": "La Calamidad ha alterado drásticamente la geografía del bosque, lo que ha llevado a una conjuradora llamada Pauline a pedir a la Orden de la Doble Víbora que realice reconocimientos topográficos. Da la casualidad de que cartografiar los cambios del terreno en el territorio hostil de la Selva de los Doce brinda excelentes oportunidades de adiestramiento a los nuevos reclutas." },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_00", "hash": "2D1FD79696EB3F9C", "target": "Recuperar el registro de mediciones" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_01", "hash": "34D390518CCB0192", "target": "Recuperar las cajas de instrumentos de agrimensor" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_02", "hash": "E4C6247A428A0B49", "target": "Recuperar la cuerda de agrimensor" },
+    { "gameKey": "quest/001/SubFst038_00175#TEXT_SUBFST038_00175_TODO_03", "hash": "68A3943D10F4E1C7", "target": "Devolver el instrumental de agrimensura a Pauline, en la Cabaña de Gabineaux" }
+  ]
+}

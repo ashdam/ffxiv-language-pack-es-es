@@ -1,0 +1,80 @@
+{
+  "conversation": "quest/006/ManFst303_00683",
+  "questName": "Wood's Will Be Done",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_1", "hash": "F0F70DBB526ABE56", "target": "El protocolo exige que le informe de quiénes somos y de qué hacemos, tras lo cual le invitaré a prestar un juramento por su propia voluntad. ¡Ejem!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_2", "hash": "FEB59E71C2389E16", "target": "La Orden de la Doble Víbora es la Gran Compañía de Gridania." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_3", "hash": "A6D63C3D5EB8EDC8", "target": "Reúne los recursos militares, económicos y tecnológicos de nuestra nación, para que podamos mantenernos firmes en los momentos de mayor adversidad, cuando nuestra propia supervivencia pende de un hilo." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_4", "hash": "C535FA34EEC70D00", "target": "Nuestra orden se formó en los días previos a la Calamidad, dispuesta a combatir al Imperio garleano y a hacer frente a las tribus bestiales y sus primigenios. Ni que decir tiene que nuestra lucha continúa hasta el día de hoy." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_5", "hash": "86EDE983B74DCE79", "target": "La Gran Vidente Kan<-->E<-->Senna es la comandante suprema de nuestras fuerzas. Bajo su sabio liderazgo, protegemos al pueblo de Gridania y la santidad de la Selva de los Doce." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_6", "hash": "E1BAB018B8BCF3FF", "target": "Como las serpientes entrelazadas que adornan nuestro estandarte, que los nacidos del bosque se afanen al unísono con los amigos venidos de lejos para que la paz reine siempre en Gridania." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_7", "hash": "9FBAA44E5983BFF0", "target": "Al hacerlo, honramos la voluntad de los elementales, y la suya es la voluntad del bosque." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_8", "hash": "F8C80836E91FD935", "target": "Y bien, <string(gstr1)>, le pido que nos entregue su juramento de lealtad, del modo que considere oportuno." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_Q1_000_1", "hash": "0D9B2694C8CFCDFC", "target": "¿Qué juramento harás?" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_A1_000_1", "hash": "326B9561C7C95724", "target": "¡Hágase la voluntad del bosque!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_A1_000_2", "hash": "3726AC6B92C7203D", "target": "¡Abatiré a nuestros enemigos y beberé su sangre!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_A1_000_3", "hash": "9EB7DDEB4019C206", "target": "¡Mi vida por la Gran Vidente!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_A1_000_4", "hash": "2F8B463993226009", "target": "..." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_9", "hash": "1283866F83DC808D", "target": "Así que conoce las palabras de nuestra Gran Compañía. Muy bien. Unidos por esta creencia común, esforcémonos por preservar todo lo bueno de esta gran nación." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_10", "hash": "C456D36E7CB63CD9", "target": "Eh... ya. Tomo debida nota de su fervor. Que este le dé fuerzas mientras se esfuerza por preservar todo lo bueno de esta gran nación." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_11", "hash": "9A410D33518D1049", "target": "La Gran Vidente es un alma bondadosa y gentil que antepone el bienestar de su pueblo a todo lo demás. Su fe en ella está bien puesta." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_12", "hash": "A4BE6F269C7BB212", "target": "Los elementales no necesitan palabras para conocer su corazón, y no albergo duda de que resultará ser <if(gnum4,una firme servidora,un firme servidor)> de ellos." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_13", "hash": "56C98417673017A3", "target": "Por la autoridad que se me ha conferido, le asigno el rango de soldado serpiente de tercera clase." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_14", "hash": "F4BE2F04EDBCEDD8", "target": "Ahora es <if(gnum4,una mujer,un hombre)> de la Orden de la Doble Víbora. Adelante, soldado <split(<string(gstr1)>, ,2)>, y haga cuanto traiga paz a la Selva de los Doce y honor a nuestro nombre." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_20", "hash": "AB174D6441899F61", "target": "¿Me oyes, <split(<string(gstr1)>, ,1)>? Soy Minfilia." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_21", "hash": "6845B2842AE9928B", "target": "Un oficial de la Orden de la Doble Víbora se puso en contacto conmigo con la noticia de tu alistamiento. Mi enhorabuena, soldado <split(<string(gstr1)>, ,2)>." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_22", "hash": "92AFA7B42BC195B6", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas una Serpiente de Gridania, ¡no eres menos <if(gnum4,Heredera,Heredero)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_023", "hash": "0331EA66AF1A4B0C", "target": "¿La llamada lejana de un amigo en apuros, quizá?" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SERPENTPERSONNEL_000_024", "hash": "E3AB81E1A4857561", "target": "Puesto que se le necesita en otra parte, no le entretendré más. No obstante, le sugeriría hablar con el alto comandante serpiente Vorsaile Heuloix antes de partir. Puede que le preste ayuda para el viaje que le aguarda." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_030", "hash": "26B34213C2D6B2AB", "target": "¡Bienvenido de vuelta! ¡Parece que no perdiste el tiempo en poner tus habilidades a trabajar!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_031", "hash": "CDF268F7E3A0C9D6", "target": "¿Que cómo lo sé? Pues el oficial de reclutamiento llamó para deleitarme con el relato de tus heroicidades. ¡El orgullo en su voz era palpable!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_032", "hash": "E634C9400EEDAD04", "target": "Los Herederos somos muy afortunados de tenerte con nosotros, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_033", "hash": "5AA4E587BC73BAA6", "target": "Verás, la última vez que hablamos te dije que quería que conocieras a unos amigos, ¿verdad? Pues bien, olvidé mencionar que ya os conocéis." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_034", "hash": "28CE126FF510772B", "target": "Tataru... hazlos pasar, por favor." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_TATARU_000_035", "hash": "C53EC231BA987A9F", "target": "¡Por aquí, señores!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_BIGGS_000_036", "hash": "9E7FE9FCD7D19C30", "target": "Gracias otra vez por sacarnos de aquel embrollo. Te debemos la vida." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_BIGGS_000_037", "hash": "836BC69EE1340B36", "target": "Aunque no creo que nos hayamos presentado como es debido. Yo soy Biggs." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_WEDGE_000_038", "hash": "9E1A34F6A01C98BB", "target": "Y-Y yo soy... soy..." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_BIGGS_000_039", "hash": "D1CB5EF1C470920C", "target": "¡Por los dioses, hombre, suéltalo ya!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_WEDGE_000_040", "hash": "864792E64AB84D6B", "target": "¡W-Wedge, a tu servicio!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_041", "hash": "1E5EDBF70FCD445E", "target": "Me complace decir que Biggs y Wedge se quedarán con nosotros una temporada." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_042", "hash": "47AF384D92AB14C0", "target": "Los artilugios impulsados por magitek, como las aeronaves, son cada vez más vitales para las ciudades<-->estado de Eorzea. Como parte neutral, se juzgó que los Herederos debíamos ser los custodios de esta tecnología." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_043", "hash": "6CBC3DD151BE72FB", "target": "Por supuesto, para ello necesitábamos el conocimiento de expertos. Así que solicitamos la ayuda de las Forjas de Garlond, que muy amablemente nos enviaron a dos de sus mejores ingenieros." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_044", "hash": "5DEAF0814416A022", "target": "Nuestra feliz familia sigue creciendo. En nombre de los Herederos, ¡os doy la bienvenida al Refugio de las Arenas!" },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_045", "hash": "0096400C42BC1E6C", "target": "Como toda alma aquí presente, amo Eorzea." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_046", "hash": "8E6625D802CF4413", "target": "Y me considero afortunada de que se me haya dado esta oportunidad de estar junto a todos vosotros y luchar por el futuro del reino." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_MINFILIA_000_047", "hash": "D71F15109ADE96DB", "target": "Jamás había conocido tal plenitud... tal felicidad." },
+    { "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_GUIDE_000_200", "hash": "07ED9F6238A0F552", "target": "¡Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>! La señora Minfilia te espera dentro." },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SEQ_00",
+      "hash": "5887F0980D563431",
+      "target": "El oficial de personal está listo para completar tu incorporación a las filas."
+    },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SEQ_01",
+      "hash": "EB57693517F56F56",
+      "target": "Has jurado servir a la Gran Compañía de Gridania, la Orden de la Doble Víbora. Apenas unos instantes después de que te asignen tu nuevo rango, Minfilia te contacta por linkpearl y solicita tu presencia. Vuelve al Refugio de las Arenas."
+    },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SEQ_02",
+      "hash": "CFC9CC1F9AFB0190",
+      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Herederos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
+    },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_TODO_00",
+      "hash": "118F68E3736F9875",
+      "target": "Hablar con la Heredera del Séptimo Amanecer en el Refugio de las Arenas"
+    },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SYSTEM_000_025",
+      "hash": "CFF1A25FCA6D41B7",
+      "target": "Ya puedes aceptar la misión «Mi pequeño chocobo (Doble Víbora)» hablando con Vorsaile Heuloix."
+    },
+    {
+      "gameKey": "quest/006/ManFst303_00683#TEXT_MANFST303_00683_SYSTEM_000_026",
+      "hash": "ECC7311E753FD81B",
+      "target": "Debes completar esta misión para poder avanzar hasta el final de la historia principal de A Realm Reborn."
+    }
+  ]
+}

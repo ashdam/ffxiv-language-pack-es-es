@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/001/SubWil006_00165",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_00", "hash": "C6BEF00ED64B5FB1", "target": "Zazarikku necesita a un aventurero que recoja un encargo del Gremio de Orfebres." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_01", "hash": "81246E0547D8B54A", "target": "Para hacer un deslumbrante debut en el Coliseo, Zazarikku necesita lucir su mejor aspecto. Presenta su recibo de compra a Jemime en el Gremio de Orfebres y recoge su diadema." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_02", "hash": "9E0993289A59D865", "target": "Jemime explica que la diadema aún no está lista porque el gremio se quedó sin granates. Te pide que expliques la situación a Crooked Haft en el Gremio de Mineros para que agilice su próximo envío de granates." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_SEQ_03", "hash": "2EA75E76DA712619", "target": "Crooked Haft se burla de la obsesión del gladiador por el estilo, pero accede a hacer todo lo posible para que el Gremio de Orfebres reciba los granates necesarios." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TODO_00", "hash": "F6E905B82857DFFF", "target": "Presentar el recibo de compra a Jemime" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TODO_01", "hash": "CFDFAE45B575C355", "target": "Hablar con Crooked Haft" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_000", "hash": "585190A13AC9C98C", "target": "¿Has venido a desearme suerte? Te lo agradezco, pero no hay de qué preocuparse." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_001", "hash": "1A375BA36E855422", "target": "¿¡Qué!? ¿¡No sabes quién soy!? ¿¡La próxima gran sensación que está a punto de llegar al Coliseo!?" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_002", "hash": "AA242701AE6541A8", "target": "Zazarikku es mi nombre, y en los próximos días no oirás hablar de otra cosa que de mis hazañas. Hasta se me ha ocurrido un título: ¡el Gladiador Granate!" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_ZAZARIKKU_003", "hash": "6CF4950EB57C1D66", "target": "Ah, que me acuerdo: aún no he recogido la diadema que encargué en el Gremio de Orfebres. No te importaría ir a por ella, ¿verdad?" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_000", "hash": "748864C31135A240", "target": "Tengo pensado echarme una jarra, así que dese prisa y diga qué quiere." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_001", "hash": "F4EA2AF0DBE60BEB", "target": "...¿¡Que quiere <italic(1)>cuántos<italic(0)> malditos granates!? Por los siete infiernos, <if(gnum4,muchacha,hombre)>, ¡no crecen en los árboles!" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_002", "hash": "8829A4232F49D834", "target": "Y, más que eso, ¡este chaval que se cree el próximo Franz el Hermoso debería preocuparse menos por el estilo y más por el manejo de la espada!" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_CROOKEDHAFT_003", "hash": "78ADC3ED0B64DCA3", "target": "En fin, cumpliré con mi parte para que el mocoso quede engalanado con todos los malditos granates que pueda pagar. Y, si muere en su primer combate, bueno, al menos dejará un cadáver bien bonito." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_000", "hash": "455539ED94191ED9", "target": "¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, aventurero! ¿En qué puedo servirle?" },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_001", "hash": "EA904FA4C8E7E792", "target": "¿La diadema de Zazarikku? Un momento, <if(gnum4,señorita,señor)>." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_002", "hash": "390DC1F304FF6ED6", "target": "Ay, esto es <italic(1)>tan<italic(0)> embarazoso. Me temo que fabricar la diadema conforme a las especificaciones exactas de Zazarikku ha resultado algo difícil." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_003", "hash": "5B0FF145A12E1CEE", "target": "Nos quedamos sin granates a mitad del trabajo y aún estamos esperando el próximo cargamento." },
+    { "gameKey": "quest/001/SubWil006_00165#TEXT_SUBWIL006_00165_TALK_JEMIME_004", "hash": "9623E95B1507178F", "target": "Odio pedírselo, pero ¿podría explicarle la situación a Crooked Haft, en el Gremio de Mineros? Según mis registros, debía entregar las gemas ayer. ¿Quizá se le pasó?" }
+  ]
+}

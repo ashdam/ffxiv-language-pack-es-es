@@ -1,0 +1,405 @@
+{
+  "conversation": "quest/048/KinGma104_04863",
+  "questName": "A Saga in Stone",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_SEQ_00", "hash": "75572819B96A04A3", "target": "Krile observa con curiosidad los pilares de piedra." },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_TODO_00", "hash": "784BFA5B7FFC6EB2", "target": "Informarse sobre los pilares de piedra" },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_TODO_01", "hash": "B7851F9716581C28", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_TODO_02", "hash": "4A6EA871A879461E", "target": "Hablar con Br'uk Evu" },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_TODO_03", "hash": "85B4AB5C4B4BC08A", "target": "Hablar con Krile" },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_TODO_04", "hash": "50D46AEBE3F18111", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_001",
+      "hash": "0F0B062D01679B38",
+      "target": "Je, este sitio le ha robado la atención a Krile."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_005",
+      "hash": "EA0B407DBE580855",
+      "target": "¿Qué tienen de especial estas columnas, si se puede saber?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_100_005",
+      "hash": "E81744AC1199F2D0",
+      "target": "A simple vista parecen adornos de piedra corrientes."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_200_006",
+      "hash": "EBD075EC7477B1A2",
+      "target": "¡Pero si las miras <italic(1)>bien<italic(0)> de cerca, verás que son algo mucho más interesante!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_020",
+      "hash": "A5EF704829465151",
+      "target": "Supongo que deberíamos hacer lo que dice Wuk Lamat."
+    },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_SYSTEM_100_010", "hash": "43332A87FA830622", "target": "El siguiente evento no se puede omitir. Quizá te convenga cancelar cualquier solicitud pendiente del Buscador de Contenido." },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_Q3_000_000",
+      "hash": "D22F8B688C9BB975",
+      "target": "¿Inspeccionar las columnas de piedra?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_010",
+      "hash": "5DBFF2A5A92680C3",
+      "target": "¿Dibujos...? Espera, no, ¡son glifos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_011",
+      "hash": "05B602D419E21C4B",
+      "target": "Parecen contar una serie de historias, y en muchas sale un Mamool Ja de dos cabezas. ¡Oh! Entonces este tiene que ser..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_012",
+      "hash": "4634A1E4ADFFF52E",
+      "target": "Exacto. Recoge las hazañas de mi padre, Gulool Ja Ja, y su viaje para unir estas tierras. ¡La llamamos la Saga de Tuliyollal!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_013",
+      "hash": "F15D5285DC743594",
+      "target": "Las gestas que realizó y los lazos que forjó, todo inmortalizado en piedra."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_014",
+      "hash": "FAF11A720DB97C46",
+      "target": "No hay mejor manera de saber cómo nació Tuliyollal. ¡Estudiadlas todo lo que queráis!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_020",
+      "hash": "30665312F2085F96",
+      "target": "Las cuatro columnas más cercanas cubren la primera mitad de los viajes de papá. Empecemos por esas."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_021",
+      "hash": "1C81D53E52377B44",
+      "target": "Si ya has acabado con la primera mitad, ¡podemos pasar a la segunda!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_Q10_000_000",
+      "hash": "DF230DC1DB8B1835",
+      "target": "¿Ver la segunda mitad de las columnas?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_022",
+      "hash": "C695C294F06C862A",
+      "target": "¿Aún no quieres seguir? ¡No pasa nada! No me importa repetir las historias."
+    },
+    { "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_SYSTEM_000_023", "hash": "9430AADB4DB9E1FB", "target": "Habla con Wuk Lamat para ver la segunda mitad de los pilares." },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_024",
+      "hash": "BDEA9D97ABFFCED8",
+      "target": "Y estas cuatro componen el resto de la saga."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_030",
+      "hash": "C79CCAE8BD27361C",
+      "target": "Esta columna cuenta el Cantar de la Hermandad. Muestra la escena en que papá recibió en audiencia al explorador extranjero, Ket... no sé qué. Nunca me acuerdo del nombre."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_031",
+      "hash": "AD582EE42493E2B7",
+      "target": "¿Te refieres a “Ketenramm”?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_032",
+      "hash": "EFB5C1C26E82E36B",
+      "target": "Ah, ese mismo. La llegada de Ketenramm a Tural fue lo que empujó a papá a emprender su propio viaje."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_033",
+      "hash": "5811B6DA9C0712EE",
+      "target": "Dicen que llegaron a ser amigos íntimos, hermanos de espíritu ya que no de sangre. Pero nadie sabe qué fue del explorador con los años."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_034",
+      "hash": "B4FB8DD54D1518D5",
+      "target": "La desaparición de Ketenramm también es un misterio en Eorzea. Los registros dicen que viajó entre nuestras tierras y las vuestras un tiempo, y luego se supone que se perdió en el mar."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_035",
+      "hash": "9C3C4D7106F1263E",
+      "target": "Esta cuenta el Cantar del Festín. Como habrás adivinado, la figura que aparece aquí es de los Xbr'aal, como yo."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_036",
+      "hash": "B120A7699D7DD146",
+      "target": "Durante décadas, los Xbr'aal y los Mamool Ja estuvieron en guerra por el control del bosque de Yak T'el."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_037",
+      "hash": "0E4AE970FAEFD57A",
+      "target": "Lo que hizo papá para acabar con ese conflicto se considera desde entonces el primer paso de la fundación de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_038",
+      "hash": "6C2FD443584DF100",
+      "target": "En Bozja hay un clan de Hrothgar llamado Helions. En su sociedad, las mujeres gobiernan como reinas y los hombres las sirven con devoción."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_039",
+      "hash": "334141C87B7D7DF0",
+      "target": "Y aquí en Tural, en cambio, los Xbr'aal parecen tener el mismo estatus ellos y ellas. Qué drásticamente puede variar la cultura según el lugar."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_040",
+      "hash": "C0EBC4EC0C406E2E",
+      "target": "Aquí tenemos el Cantar de los Juncos. Es la historia de cuando papá visitó a los Hanuhanu en su aldea de Kozama'uka."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_041",
+      "hash": "B8DA249D42CC7686",
+      "target": "Ah, el pueblo que Alphinaud casi confunde con los Vanu Vanu, de no ser por el plumaje de colores. Pasó bastante tiempo entre los Vanu del Mar de Nubes, así que no extraña que se interesara por vuestros paisanos."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_042",
+      "hash": "8AB4FF0BB298328F",
+      "target": "No sé cómo serán vuestros Vanu, pero nuestros Hanu son gente alegre y risueña. Celebran una fiesta cada año: muy famosa, y divertidísima."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_043",
+      "hash": "3C8B7A8A59459E80",
+      "target": "Eh, a ver... Esta es el Cantar de las Vasijas, que muestra a los Moblin de Kozama'uka."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_044",
+      "hash": "5FF96B76D997F21F",
+      "target": "Llevarán máscaras raras y sonarán amortiguados al hablar, pero la orfebrería en oro y plata que venden es la mejor que encontrarás. Lo de los Moblin es el regalo por excelencia."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_045",
+      "hash": "41E6704C6E341693",
+      "target": "Está claro que los Vanu no son el único pueblo con parientes lejanos en Tural..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_046",
+      "hash": "2EC1D4BB44917C58",
+      "target": "El Cantar del Oro. Esta columna muestra a uno de los Pelupelu, cuya tierra natal está en Urqopacha."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_047",
+      "hash": "603451BF8FA5EEB1",
+      "target": "Como crearon nuestra moneda, a los Pelu se los conoce con razón como el clan mercader. Llevan los mercados de Tuliyollal, y sus vendedores ambulantes se ven por todo Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_048",
+      "hash": "FF7E0A41B1F5E974",
+      "target": "¡Que su tamaño no te engañe! Podrán parecer niños, pero tras esas máscaras de pico hay comerciantes astutos y calculadores."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_049",
+      "hash": "76D56132F174592A",
+      "target": "Ah, el Cantar de las Pruebas... Ese grandullón es de los Yok Huy, el más grande de los pueblos de Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_050",
+      "hash": "5EE43F35E638E922",
+      "target": "Estos gigantes usaron una vez su enorme tamaño y su fuerza para levantar un dominio que abarcaba todo Yok Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_051",
+      "hash": "2CBD0D24A59DD62F",
+      "target": "Tras someter las tierras del sur, miraron al norte y pusieron la vista en Xak Tural. Recordarás ese puente inmenso que construyeron pasada la puerta de Xak Tural..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_052",
+      "hash": "1277F28CFC83BC9E",
+      "target": "Pero, un tiempo después de iniciar la campaña del norte, sencillamente... se rindieron. Abandonaron las tierras conquistadas y se retiraron a las montañas de Urqopacha. Ni siquiera he visto nunca a uno de los suyos pisar la ciudad."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_053",
+      "hash": "59F2F62BCD352039",
+      "target": "Era un pueblo con el poder y el ingenio para alzar un templo en la cima de un monte y tender un puente de piedra sobre el mar. ¿Qué los llevaría a renunciar a sus ambiciones y a su lugar en la historia de Tural...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_054",
+      "hash": "6826287033E126DC",
+      "target": "¡Uy, esta es mi favorita: el Cantar del Hielo! ¡Muestra la batalla contra el legendario tural vidraal, Valigarmanda!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_055",
+      "hash": "27F9C4A1EEE76BA0",
+      "target": "Te lo explico. Un tural vidraal es una criatura que ha vivido mucho más allá de su vida natural y ha despertado a un poder sobrenatural."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_056",
+      "hash": "4FD02EBF44135B3E",
+      "target": "Tataru describió los auspicios del Lejano Oriente de forma parecida. ¿Podría ser el mismo fenómeno?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_057",
+      "hash": "FFFCCBD41E629428",
+      "target": "A Valigarmanda lo apodaron la Ruina del Cielo, nombre ganado por la destrucción y el terror que traía a Tural cada vez que despertaba de su letargo."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_058",
+      "hash": "4B0213EBE40C7A72",
+      "target": "¡Pero hace unos ochenta años su reinado de ruina llegó a su fin! Tras una lucha durísima, papá y sus compañeros lograron vencer al vidraal furioso y lo sellaron en las montañas de Urqopacha."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_059",
+      "hash": "D92EC050AD5C6472",
+      "target": "Aun con esa fama, Valigarmanda es también un símbolo de poder. Por eso verás su figura en el emblema nacional de Tuliyollal y adornando los estandartes del palacio."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_060",
+      "hash": "6DEAAFD7D20529EB",
+      "target": "Oh, esta está sin labrar."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_061",
+      "hash": "C7237477955D87EF",
+      "target": "Papá dice que dejó una columna en blanco para el próximo capítulo de la historia de Tuliyollal. Sea lo que sea."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_062",
+      "hash": "E4BA9F0C4DDABE79",
+      "target": "Bueno, pues ahí lo tienes. Espero que ahora entiendas mejor nuestra nación. Si quieres repasar algo, dímelo sin más."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_Q1_000_000",
+      "hash": "574E6A529BD7C574",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_A1_000_001",
+      "hash": "ACB99632BA10BDEC",
+      "target": "Creo que ya me hago una idea."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_A1_000_002",
+      "hash": "CA4C503399D22F5E",
+      "target": "Quizá otro vistazo rápido..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_064",
+      "hash": "59BC67C41CD43D1E",
+      "target": "¡Me alegra oírlo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_065",
+      "hash": "DB9BF2EA00288185",
+      "target": "¿Sabes qué? De repente me ha entrado un hambre feroz... Normal, con lo poco que me quedaba dentro. ¡Pero creo que ya estoy en condiciones de comer otra vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_066",
+      "hash": "EFF012734B47B6C7",
+      "target": "¡Así que vamos a probar algo típico de aquí! ¡Venid, os llevo al mejor restaurante de la ciudad!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_067",
+      "hash": "BDB763994F4C4245",
+      "target": "¡Eso suena de maravilla!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_068",
+      "hash": "7B02E0563F5F83A4",
+      "target": "¡Claro! ¡Tómate todo el tiempo que necesites!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_069",
+      "hash": "6A196D64D5E6AA71",
+      "target": "¿Ya has tenido bastante historia?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_Q2_000_000",
+      "hash": "BD67028D9C345BC8",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_A2_000_001",
+      "hash": "FC850DC1BD4CFA86",
+      "target": "¡Sí, gracias!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_A2_000_002",
+      "hash": "77E4C7D47A8173CF",
+      "target": "Quizá un vistazo más."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_080",
+      "hash": "0E203075A8E70BDC",
+      "target": "Qué local tan encantador. Me recuerda al Bismarck de Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_090",
+      "hash": "6F7C86E8A9C6D35B",
+      "target": "¿Habéis probado los tacos alguna vez? ¡Un clásico de Tuliyollal! Se hornea una tortilla crujiente de harina de maíz y se rellena de carne y verdura."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_091",
+      "hash": "D8431FED561E146B",
+      "target": "Los venden en un montón de tiendas y puestos, pero como los hacen aquí, en Xbalyav Ty'e, en ningún sitio."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_092",
+      "hash": "4596D7A78A8A6ADD",
+      "target": "¡Y necesito uno delante ya mismo! ¡Bajemos y pidámosle al viejo Br'uk Evu!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_100",
+      "hash": "8EC10BC0A51B97ED",
+      "target": "Este es Br'uk Evu, el dueño. Que su aspecto anodino no te engañe: ¡haciendo tacos es el mejor artesano de todo Tural!"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_105",
+      "hash": "2D4ED751FC9CC365",
+      "target": "¡Todos los platos tienen una pinta deliciosa! A riesgo de sonar como Wuk Lamat, solo con ver tanta buena cocina me entra un hambre voraz."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_110",
+      "hash": "295F020A3C662134",
+      "target": "Los tacos que Br'uk Evu preparó con tanto cariño se han echado a perder, y todo por culpa de ese bruto de Bakool Ja Ja..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_120",
+      "hash": "14555709C80B1732",
+      "target": "Tenía ganas de probar la cocina auténtica de Tuliyollal, pero deberíamos darnos prisa y reunirnos con Alphinaud y los demás en el palacio."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_121",
+      "hash": "371D626789B3542C",
+      "target": "De acuerdo. Hay una buena cuesta hasta arriba, pero puedes subir desde el Barrio Resplandeciente o incluso por el lado este de la Arteria de las Garras, si lo prefieres."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_122",
+      "hash": "0CF4E0B1D4F3F1C4",
+      "target": "Ahora que ya te haces una idea de cómo es la ciudad, te dejo que llegues por tu cuenta a Vollok Shoonsa."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_123",
+      "hash": "A1A66CD2E989C922",
+      "target": "Ay, mi pobre barriga vacía..."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_ERENVILLE_000_130",
+      "hash": "4AEF684B7722F354",
+      "target": "¿Le vas cogiendo el aire a la ciudad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_KRILE_000_135",
+      "hash": "8CECECA539CA7AE3",
+      "target": "Hay muchísimas calles estrechas y retorcidas. Pero, aunque te pierdas, basta con seguir subiendo y acabas llegando al palacio."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_ALPHINAUD_000_140",
+      "hash": "1D1EE03F23020CCF",
+      "target": "De camino aquí vimos a un Mamool Ja de dos cabezas. Otro aspirante en el rito de sucesión, según Erenville."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_ALISAIE_000_145",
+      "hash": "A5A17E9FD8DBAB5C",
+      "target": "La comida es increíble. Un Mamool Ja que pasaba nos dejó probar una fruta llamada “chirimoya” y estaba sublime."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_150",
+      "hash": "EDF928FCA57B5160",
+      "target": "Ya has llegado. Bien. Entonces estamos todos."
+    },
+    {
+      "gameKey": "quest/048/KinGma104_04863#TEXT_KINGMA104_04863_WUKLAMAT_000_151",
+      "hash": "CE9157FE7D66F42D",
+      "target": "Sigo con hambre suficiente para comerme un colibrí asado entero, ¡pero el rito no va a esperarnos eternamente!"
+    }
+  ]
+}

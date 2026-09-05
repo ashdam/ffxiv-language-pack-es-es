@@ -1,0 +1,18 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceForgetAbility_00229",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR_02", "hash": "DF248D8AD87E2B3D", "target": "¿Desea que <string(lstr1)> olvide una aptitud? Muy bien, si es tan amable de indicar la aptitud no deseada..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_Q1", "hash": "686FDE8903BCBD6A", "target": "¿Seguro que desea que su chocobo de carreras olvide <sheet(ChocoboRaceAbility,lnum2,0)>?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A1", "hash": "E985DE77A6B03416", "target": "Sí" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_A2", "hash": "7F116C2FC8F6A5AB", "target": "No" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_001_DONE", "hash": "51027DC9C75ADEAC", "target": "Y con esto, el proceso está completo. Espero que sea de su agrado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_TALK_ACTOR", "hash": "BF203A8D8B82E5A5", "target": "¿Desea que su chocobo de carreras olvide una aptitud? Muy bien, si es tan amable de indicar la aptitud no deseada..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_01", "hash": "84A73AF67932EFEA", "target": "No, esto no puede ser, ¿verdad? Según mis registros, ni siquiera tiene un chocobo de carreras inscrito." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_001_02", "hash": "AD7B7D6BA04C760F", "target": "Los chocobos de carreras no pueden olvidar aptitudes hasta que se hayan inscrito oficialmente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_01", "hash": "28D4646693C6E0BB", "target": "Se acordó de traer un frasco de lethe water, ¿verdad? Si no, me temo que no podemos continuar." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_002_02", "hash": "1A6086F6EB8A548B", "target": "Las aptitudes no pueden olvidarse sin lethe water, que puede comprarse al vendedor de aperos y forraje en el mostrador de carreras." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_01", "hash": "6B9F2E5204DEB2A8", "target": "Hm. Por lo que veo, su chocobo de carreras no tiene ninguna aptitud que pueda olvidar." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceForgetAbility_00229#TEXT_CMNGSCCHOCOBORACEFORGETABILITY_00229_ERROR_003_02", "hash": "FC4872C2378ED92F", "target": "Las aptitudes innatas son permanentes. Solo pueden olvidarse las aptitudes adquiridas." }
+  ]
+}

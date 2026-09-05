@@ -1,0 +1,16 @@
+name: "Validate"
+
+on:
+  pull_request:
+
+permissions: {}
+
+jobs:
+  validate:
+    uses: "ashdam/ffxiv-language-pack-ci/.github/workflows/validate.yml@main"
+    permissions:
+      contents: "read"
+      pull-requests: "write"
+    with:
+      language: "es-es"
+    secrets: "inherit"

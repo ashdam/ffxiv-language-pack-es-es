@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/040/LucKsa212_04028",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SEQ_00", "hash": "3EA9E3558108402A", "target": "Annes busca reliquias de cierto tipo, y sospecha que tú puedes saber dónde encontrarlas." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_00", "hash": "16DC5CAC8C0FEAE8", "target": "Entrar en Delubrum Reginae" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_TODO_01", "hash": "24D11A1C9C768BA5", "target": "Entregar la enigmatic Bozjan relic a Annes en Gangos" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_100_000", "hash": "3CE29BE09A486F27", "target": "Para emprender esta misión, debes haber acumulado <kilo(lnum2,\\,)> de mettle." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_100_001", "hash": "778E632952104C05", "target": "Actualmente has acumulado <kilo(lnum2,\\,)> de mettle." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_000", "hash": "03621DECAA679E3D", "target": "¡Blade <split(<string(gstr1)>, ,2)>! Es un placer <if(gnum4,conocerla,conocerlo)>. Me llamo Annes." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_001", "hash": "CEE3F347683466FB", "target": "Zlatan me ha hablado mucho de sus dificultades trabajando con Gerolt. N-no es que <italic(1)>él<italic(0)> sea difícil de tratar, ojo. Ejem. También me ha contado todo sobre sus hazañas en el frente sur." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_002", "hash": "E07E9CD46A84DDB5", "target": "Y por eso mismo estoy aquí. Creo que mi investigación sobre las herramientas y armas de la antigua Bozja podría serle de ayuda." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_003", "hash": "60723B2546A49582", "target": "Las ruinas del palacio bozjano recién descubiertas están, sin duda, plagadas de reliquias así. Si llegara a explorar sus profundidades, le agradecería enormemente que trajera cuanto encontrara." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_004", "hash": "D85E4F975C8551F2", "target": "Buen viaje, Blade <split(<string(gstr1)>, ,2)>. Espero su regreso con interés." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_100_005", "hash": "57CC72E057667468", "target": "Esta misión puede completarse una vez por semana; su estado se restablece cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p.m.,a.m.)> (hora terrestre)." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_000_005", "hash": "68BC5EDF4D53D5BA", "target": "El objeto que busca Annes se obtiene al completar la incursión «Delubrum Reginae»." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_SYSTEM_000_006", "hash": "4E365C5F4413DB7B", "target": "Para entrar en Delubrum Reginae, habla con Sjeros en Gangos." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_010", "hash": "05E2A8035F23B8C3", "target": "Me alegra <if(gnum4,verla,verlo)>, Blade <split(<string(gstr1)>, ,2)>. Las reliquias que recuperó de las ruinas han sido de gran ayuda para mi investigación." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_011", "hash": "F766D91121CA4929", "target": "Puesto que parece tener bastante talento para desenterrar antigüedades, quizá podría ampliar la búsqueda, por así decirlo, para incluir utensilios usados en rituales bozjanos. Sin duda serían una bendición para nuestro trabajo." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_012", "hash": "339AD6FF183FB190", "target": "Naturalmente, algunas reliquias son más útiles que otras, así que las que no necesitemos para nuestro trabajo son suyas." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_020", "hash": "A66922925359AFA1", "target": "Le agradecería mucho cualquier reliquia que encuentre que pudiera haberse usado en rituales antiguos. Pero tenga cuidado ahí abajo. Puede haber toda clase de trampas para proteger el lugar." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_050", "hash": "6DC5F9191D76DBC7", "target": "¡Ha vuelto! Y de una pieza, por lo que veo. ¿Pudo recuperar algo de interés en las ruinas?" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_060", "hash": "344AAFCBC2CABE5A", "target": "Extraordinario. Sencillamente extraordinario. Vaya, ¿y esto qué es...?" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_061", "hash": "A9195603880B217F", "target": "Parece que se ha colado una especie de moneda antigua entre los enseres que ha traído. Aunque a los coleccionistas les fascine esta moneda antigua, queda fuera de nuestro campo de estudio, así que puede quedársela." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_062", "hash": "66ADE716C46DC98D", "target": "En cualquier caso, nos ha dado más que suficiente con lo que trabajar por ahora. Gracias, Blade <split(<string(gstr1)>, ,2)>." },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_070", "hash": "E35486B3D8775DE7", "target": "Tiene buen ojo para las antigüedades, Blade <split(<string(gstr1)>, ,2)>. Vaya, ¿y esto qué es...?" },
+    { "gameKey": "quest/040/LucKsa212_04028#TEXT_LUCKSA212_04028_ANNES_000_071", "hash": "0734B75A0F40F4BC", "target": "¡Más monedas! Como acordamos, puede hacer con ellas lo que quiera. Gracias de nuevo por toda su ayuda." }
+  ]
+}

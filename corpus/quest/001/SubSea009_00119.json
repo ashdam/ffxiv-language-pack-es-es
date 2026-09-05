@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/001/SubSea009_00119",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_00", "hash": "0406D461D484EC05", "target": "Ginnade busca ayuda con un problema creciente en Limsa Lominsa." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_01", "hash": "67DB1ECF6186BCD4", "target": "Ginnade te ha confiado una lista de personas desaparecidas. Entrégasela a N'delika, a quien encontrarás dando la bienvenida a los viajeros recién llegados en la Sala del Baluarte, en las cubiertas inferiores." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_SEQ_02", "hash": "1E1E1FB37BE2394A", "target": "Pese a su apariencia, N'delika es miembro de los Casacas Amarillas, encargada de vigilar de cerca a todo aquel que entra y sale de la ciudad." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_TODO_00", "hash": "8B95CD5E7926AC27", "target": "Entregar la lista de personas desaparecidas a N'delika en la Sala del Baluarte" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_0", "hash": "4BE6815DC5AFA1F9", "target": "Un número alarmante de ciudadanos ha desaparecido últimamente, aunque sospecho que ya habrá oído los rumores." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_GINNADE_000_1", "hash": "259BEE9CF3781B70", "target": "Es esencial que constatemos que están a salvo. Con ese fin, he preparado una lista a partir de los informes de los ciudadanos. ¿Sería tan amable de entregársela a mi colega en la Sala del Baluarte? N'delika se llama. Gracias de antemano, amigo." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_10", "hash": "964F5F1B430B1F16", "target": "¡<if(gnum4,Bienvenida,Bienvenido)> a Limsa Lominsa! Si hay algo que quiera saber, no dude en─<br>...¿Hm? ¿Dice que tiene algo para mí? ¿Una lista de personas desaparecidas? No sé si le sigo..." },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_11", "hash": "4DD950E9230D8EEA", "target": "(Gracias por traer la lista; me aseguraré de memorizar estos nombres. Si alguno de los desaparecidos reaparece, puede contar con que yo lo detecte.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_12", "hash": "266A508910A603DD", "target": "(La mayoría de la gente entra en la ciudad por la Deriva del Céfiro, lo que significa que ha de pasar por la Sala del Baluarte. Por eso monto guardia aquí sin descanso, y de incógnito, para estar atenta a cualquier actividad sospechosa.)" },
+    { "gameKey": "quest/001/SubSea009_00119#TEXT_SUBSEA009_00119_NDELIKA_000_13", "hash": "B269FC54761DFD57", "target": "(Llevo tanto tiempo haciendo esto que se me ha vuelto muy buen ojo para la gente. Si hay tipos turbios merodeando por ahí, puede estar <if(gnum4,segura,seguro)> de que sabré distinguirlos. Je, je, je.)" }
+  ]
+}

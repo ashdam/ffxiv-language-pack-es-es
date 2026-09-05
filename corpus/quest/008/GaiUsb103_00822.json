@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/008/GaiUsb103_00822",
+  "questName": "When the Worm Turns",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_00", "hash": "E1B13F454304DBCF", "target": "U'odh Nunh por fin está dispuesto a hablarte del ingrediente que buscas." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_01", "hash": "80ACD40F75F1A046", "target": "El ingrediente que buscas es la carne de un Wellwick worm. Estas criaturas son rarísimas y hay que hacerlas salir antes de poder abatirlas. Para ello, U'odh Nunh te sugiere que mates a un angler y uses su cadáver como cebo." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_02", "hash": "2AD6D8E44B573E2A", "target": "Has conseguido el cadáver de angler necesario. Colócalo sobre la cresta de arena del este, en pleno territorio de los Wellwick worm." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_03", "hash": "982169253F71D253", "target": "La trampa está lista y ahora solo te queda esperar. Cuando aparezca el Wellwick worm, abátelo y recoge su carne." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_04", "hash": "AFCABE66CC3D136B", "target": "Aunque la bestia era en verdad temible, no fue rival para ti. Vuelve a los Manantiales Olvidados y muéstrale tu premio a U'odh Nunh." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_SEQ_05", "hash": "187E7ABA49E73C4E", "target": "U'odh Nunh ha de preparar antes la carne, pero promete enviarla a Wheiskaet a tiempo para el banquete. Como no conoce la ubicación del tercer ingrediente, tendrás que volver a Costa del Sol y hablar con el antiguo capitán para saber más. Sin embargo, antes de que puedas partir, U'odh Nunh tiene un último favor que pedirte." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_00", "hash": "79BB99A689E4899B", "target": "Matar a un angler y recoger su cadáver" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_01", "hash": "51D22D7AB74F58B2", "target": "Colocar el cadáver en territorio de Wellwick worm" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_02", "hash": "F3E78360EF319274", "target": "Acechar a un Wellwick worm" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_TODO_03", "hash": "157139F4A2BA5DC0", "target": "Mostrar tu premio a U'odh Nunh" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_000", "hash": "AEE84565D7E64D2B", "target": "Qué lástima que no nos conociéramos cuando aún estaba en la Compañía de Héroes. Habrrrías sido un buen recluta." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_001", "hash": "082370854931F37B", "target": "Pero de nada sirve darle vueltas a lo que no puede ser. Tienes un Wellwick worm que cazar." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_002", "hash": "004DE1705A17C0F4", "target": "Los sandworm reptan sin recato por las dunas del desierto, pero los Wellwick worm son mucho menos numerrrosos. La rareza alimenta la demanda, y por eso su carne se aprecia mucho como manjar." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_003", "hash": "11F1252BBE60A068", "target": "La única forma de atrrrapar a tu presa es tentarla con algo a lo que no pueda resistirse." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_004", "hash": "DB2BAEA2522F471E", "target": "Estos gusanos se ceban con las crrriaturas más pequeñas del Sagolii. Yo elegiría como cebo el cadáver de un angler recién matado." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_005", "hash": "92EA06E172731A6F", "target": "Al este hay una zona plagada de angler. Te la marcaré en el mapa, junto con el lugar donde los Wellwick worm se avistan con más frrrecuencia." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_006", "hash": "0AA4CF4070E937DC", "target": "Ten cuidado: la sangrrre sumirá al gusano en un frenesí devorador. Si te faltan aptitudes, te devorará a ti también." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_030", "hash": "C63BAC89C57D868F", "target": "Tienes buen aspecto. ¿Cazaste a tu presa, pues?" },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_035", "hash": "96E8CFD870EF8C04", "target": "Tus dotes de <if(gnum4,cazadora,cazador)> rivalizan con las de nuestrrros mejores. Aplaudo tu éxito, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_036", "hash": "C6E88059D3A194D1", "target": "La carne tendrá que ahumarse bien antes de que se la envíe a Wheiskaet. No te prrreocupes: tienes mi palabra de que la recibirá a tiempo para el banquete." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_037", "hash": "3B81B31372AE8ADA", "target": "Estarás deseando conseguir el tercer ingrrrediente. Lamento decir que no sé nada de su ubicación. Por ahora, vuelve a Costa del Sol y pide consejo a Wheiskaet." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_UODHNUN_000_038", "hash": "3DD433A99E982E77", "target": "Ah, pero esperrra un momento. Ya que pronto verás de nuevo al capitán, hay algo que me gustaría que le entregaras de mi parte." },
+    { "gameKey": "quest/008/GaiUsb103_00822#TEXT_GAIUSB103_00822_POP_MESSAGE_000", "hash": "28E24DF306769EC6", "target": "La arena que rodea el cadáver de angler empieza a palpitar y vibrar..." }
+  ]
+}

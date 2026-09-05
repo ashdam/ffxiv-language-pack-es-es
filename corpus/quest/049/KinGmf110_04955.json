@@ -1,0 +1,599 @@
+{
+  "conversation": "quest/049/KinGmf110_04955",
+  "questName": "Leafing through the Past",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SEQ_00", "hash": "21101086D05952E7", "target": "Krile está deseosa de aprender sobre el pueblo Milalla." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_00", "hash": "303B32AEC67AB3E9", "target": "Otear el lugar indicado" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_01", "hash": "09D03203650027E1", "target": "Hablar con el guía mecánico" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_02", "hash": "A899B26CF5B8D5B1", "target": "Hablar con el guía mecánico tras encender los pebeteros correctos" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_03", "hash": "021843322489284F", "target": "Hablar con el guía mecánico" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_04", "hash": "D3C0B6512254D764", "target": "Volver a hablar con el guía mecánico" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_05", "hash": "7F1E1A03A8B08957", "target": "Hablar con Krile" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_06", "hash": "FD1E42FC17F03028", "target": "Hablar con Cahciua" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_TODO_07", "hash": "4F644D6A8659E989", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_001",
+      "hash": "28A84DCF4FB6ABFB",
+      "target": "¡Ha salido genial! Y tú, <split(<string(gstr1)>, ,1)>─¡menudo sentido del equilibrio tienes!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_005",
+      "hash": "825CCC7D272D8D03",
+      "target": "Aunque no supiera a nada, el helado ha sido un festín para la vista. Me alegro de que haya servido para relajar la tensión."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_010",
+      "hash": "2CA52B9479A66256",
+      "target": "Como nos dijeron mis padres, la caverna del interior del volcán es un lugar para aprender sobre la antigua tierra natal de los Milalla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_011",
+      "hash": "B62C9D24876DF0DB",
+      "target": "Pero espero que también nos aporte otro tipo de información."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_012",
+      "hash": "A29EAE2D0F9C629F",
+      "target": "En concreto, información sobre Preservación."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_013",
+      "hash": "3B7A7E5F9C7A0B88",
+      "target": "Preservación... Los científicos que investigaban la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_014",
+      "hash": "CA1BD6E3906FFD75",
+      "target": "Y que, antes de eso, crearon a los Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_015",
+      "hash": "84BFAA93D864137E",
+      "target": "Como la Memoria Viva es probablemente obra suya también, imagino que habrán filtrado con cuidado cualquier dato sobre sí mismos, pero aun así quiero estar atenta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_016",
+      "hash": "7898917C92CB1C16",
+      "target": "Yo lo apoyo, claro. Ya que la llave perteneció a los Milalla, no está de más aprender sobre ellos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_017",
+      "hash": "744DF7E30ABC7B8F",
+      "target": "¡Venga, entremos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_020",
+      "hash": "C59CC637C0D92EE0",
+      "target": "¡Así que esto es lo que hay aquí dentro!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_025",
+      "hash": "FC0E7243328D529A",
+      "target": "Estos paneles contienen información sobre los Milalla. Se parece mucho a un museo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_030",
+      "hash": "5E7240CD023F64B8",
+      "target": "Este sitio tiene aspecto de ruina antigua, pero supongo que también es una ilusión."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_040",
+      "hash": "77FB3255A3DEC32B",
+      "target": "Qué ambiente tan místico. ¿Así era la tierra natal de los Milalla?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_041",
+      "hash": "AEE23065D4BBFA71",
+      "target": "¡Tilín, tilín! ¡Correcto!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_042",
+      "hash": "090F2BEB8D46F57C",
+      "target": "¿¡Q-Qué pasa!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_043",
+      "hash": "7FC3B13609CBFD04",
+      "target": "El antiguo hogar del pueblo Milalla se ha recreado aquí con todo lujo de detalles gracias al prodigio del electrope. Solo se ha ajustado la escala para acomodar a gentes de todas las proporciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_044",
+      "hash": "9B2CEA0A86EB145D",
+      "target": "Ah, pero he olvidado presentarme. Soy la guía de estas instalaciones, los Pasos de la Oradora. Será un placer atenderles mientras emprenden su viaje educativo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_045",
+      "hash": "4AF0ADA3BE05B52F",
+      "target": "¿Hasta hay una guía? Qué consideración."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_046",
+      "hash": "E50A38F29F559EBA",
+      "target": "Muy bien. Mientras paseamos, si hay algo que no entendamos, no dudaremos en preguntarle."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_047",
+      "hash": "F5CE9453918FF8AA",
+      "target": "¡Bzzzt! ¡Incorrecto!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_048",
+      "hash": "A98698E11D10D238",
+      "target": "Las visitas a nuestras instalaciones son un recorrido con preguntas, así que la respuesta correcta es: seguir las instrucciones de su guía. ¡O sea, servidora!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_049",
+      "hash": "97B6B98D569F41F6",
+      "target": "Esto pinta a ser un coñazo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_050",
+      "hash": "4377236E01DDD4F1",
+      "target": "Seguro que resulta instructivo y entretenido. Dejemos que nos guíe."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_051",
+      "hash": "0AB5211235B4F9D5",
+      "target": "¡Muy bien, señora! He registrado a los cuatro como visitantes. ¡Pasen por ese corredor hasta la sala del fondo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_055",
+      "hash": "03EF0D609D340C20",
+      "target": "¡La pared está iluminada! ¡Qué bonito!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_060",
+      "hash": "6AEC89136D4BD9A6",
+      "target": "¿Ese dibujo será un motivo Milalla...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_065",
+      "hash": "D04EFB803D2BA858",
+      "target": "A juzgar por lo elaborado de la decoración, este era un lugar importante para los Milalla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_070",
+      "hash": "BB02A8BB2ACC8015",
+      "target": "¡Su atención, por favor!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_071",
+      "hash": "D20FECE1C23BA7F7",
+      "target": "Se encuentran en un santuario de los Milalla, un pueblo migrante que vagó hasta hallar tierras nuevas que llamar suyas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_072",
+      "hash": "9BAB6469C2714BA3",
+      "target": "Según el folclore, procedían de un paraíso de verano eterno. Por desgracia, no tuvieron más remedio que abandonarlo cuando una gran calamidad congeló hasta los mares."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_073",
+      "hash": "7B1A6BF36F745B15",
+      "target": "La Oradora, su líder espiritual, los guio a un lugar seguro, y aquí se la venera junto a la reliquia sagrada que empuñó. Aquí celebraban ritos dedicados al sueño de volver algún día a su hogar ancestral."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_074",
+      "hash": "210C4B1F5B5A8DFD",
+      "target": "Una reliquia sagrada... Esa debe de ser la llave que se usa para iniciar la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_075",
+      "hash": "AA539A59457248D5",
+      "target": "¿Fusión interdimensional...? ¡Si existiera un poder tan prodigioso, no quiero ni imaginar las grandes hazañas que permitiría lograr!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_076",
+      "hash": "49C49BAA4BDA9D78",
+      "target": "¡Y ahora, es la hora del cuestionario de historia!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_077",
+      "hash": "B83C7C50077372D4",
+      "target": "Uf, ya empezamos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_078",
+      "hash": "3A03DEC8C10F539A",
+      "target": "En esta sala hay cuatro braseros, cada uno acompañado de un panel con una afirmación."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_079",
+      "hash": "50CE61ACB615A2CD",
+      "target": "Si creen que una afirmación es cierta, deben encender su brasero manejando el panel. Sencillo, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_080",
+      "hash": "FDEB6BDA442651F5",
+      "target": "Sin más dilación, ¡designen a un representante y comiencen!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_081",
+      "hash": "49F4D0BB86442922",
+      "target": "Si nadie se opone, que haga los honores <split(<string(gstr1)>, ,1)>. Anda, échale un vistazo a los paneles, <if(gnum4,amiga,amigo)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_085",
+      "hash": "1632D2E78534A35B",
+      "target": "Todas las afirmaciones podrían ser ciertas, ¿no? ¿¡O incluso falsas!? ¡Agh, la intriga me está matando!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_090",
+      "hash": "DF184F771533E56E",
+      "target": "Diría que los paneles de la sala anterior también pueden dar pistas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_095",
+      "hash": "79B25FEA2BBAD693",
+      "target": "Que un soldado mecánico haga de guía permite suponer que Preservación conocía la información que aquí se presenta y no ponía objeciones a divulgarla."
+    },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_100", "hash": "404F579624D1C79B", "target": "Hace mucho, nuestro pueblo moraba en islas de verano eterno, donde las flores florecían sin cesar. Mas la eternidad no perduró, pues una calamidad convirtió las fértiles aguas en yermo hielo." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_101", "hash": "330BD98A9943742F", "target": "La declaración parece concordar con las palabras del guía." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_102", "hash": "D21B31AAE8679750", "target": "Orando con fervor sobre la reliquia sagrada, la Portavoz abrió un portal por el que huyó nuestro pueblo. Sin embargo, solo ella hubo de quedarse atrás para sostener el poder." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_103", "hash": "7C292757920ADB83", "target": "Aunque la declaración se parece a lo que oíste del guía, no recuerdas que la Portavoz se quedara atrás." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_104", "hash": "B2FA9B6F17FA38BD", "target": "Gracias a nuestro don innato para los cálculos arcanos, los Milalla no solo transformamos el electrope en una herramienta milagrosa, sino que además sobresalimos en su estudio. Así, pese a ser en origen forasteros, gozamos del favor de los gobernantes de muchas naciones." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_105", "hash": "B01D90BAB71F94D8", "target": "El guía no mencionó nada de lo dicho en esta declaración. Tendrás que hallar otras fuentes para comprobar su veracidad." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_106", "hash": "F3B46DAF5A69B966", "target": "Cuando los rayos amenazaron el mundo, los Milalla recurrimos de nuevo a nuestra reliquia. Invocando su poder, abrimos un portal y regresamos a nuestra antigua tierra natal." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_107", "hash": "8591D23FA2E37393", "target": "Aunque la declaración se parece a lo que oíste del guía, no recuerdas que los Milalla regresaran a su tierra natal." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_108", "hash": "4D063C6E4EA702A5", "target": "El pebetero está apagado. ¿Quieres encenderlo?" },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_109", "hash": "D11309FF15F2B1AF", "target": "El pebetero está encendido. ¿Quieres apagarlo?" },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_120",
+      "hash": "C64A3DD38F189850",
+      "target": "¡Recuerden que deben encender los braseros cuyas afirmaciones consideren ciertas! ¿Están listos para que se juzguen sus respuestas?"
+    },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_100_120", "hash": "31163E7E4775C56B", "target": "¿Someterte al veredicto con los pebeteros tal como están ahora?" },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_121",
+      "hash": "73155CA4DAF5FCCA",
+      "target": "¡Muy bien! ¡Que comience el juicio!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_122",
+      "hash": "EC393F31C9955471",
+      "target": "¡Han acertado─y además al primer intento! ¡Asombroso!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_123",
+      "hash": "5F020A0E6A8785B1",
+      "target": "¡Tilín, tilín! ¡Han acertado! ¡Enhorabuena!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_124",
+      "hash": "23B147D41A65639B",
+      "target": "¡Buen trabajo, <split(<string(gstr1)>, ,1)>! ¡Sabía que podías!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_125",
+      "hash": "F407FF344D63DB15",
+      "target": "Tomada al pie de la letra, la información de aquí sugeriría que los Milalla simplemente emigraron de una tierra lejana."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_126",
+      "hash": "3CFB96DD25D18BD3",
+      "target": "Pero nosotros sabemos más. Conocemos la existencia de los reflejos, de las calamidades umbrales y de la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_127",
+      "hash": "CFB3D2E980A3DDF2",
+      "target": "Para un suceso que congeló los mares, me viene a la mente la Quinta Calamidad Umbral─la que inauguró la Era de la Escarcha Eterna."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_128",
+      "hash": "2DB74B3513701B88",
+      "target": "Y la leyenda cuenta que, durante esa era, toda la población de las islas del mar del sur desapareció de la noche a la mañana."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_129",
+      "hash": "ADFD5AF93CCF68B0",
+      "target": "<split(<string(gstr1)>, ,1)>─en el curso de tus aventuras, ¿habrás sabido algo de esta leyenda?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_130",
+      "hash": "9677BD29E7114551",
+      "target": "¿No solo visitaste un santuario del pueblo olvidado de Aloalo, sino que además luchaste contra una estatua de la Oradora?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_131",
+      "hash": "B26D44448320056B",
+      "target": "Las cosas que haces no dejan de asombrarme..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_132",
+      "hash": "5C86B42216EE3687",
+      "target": "El arte de la magia arcana también hunde sus raíces en los cálculos de los isleños del mar del sur. No podemos concluir que ese pueblo fueran los Milalla, pero hay semejanzas suficientes para sostener la teoría."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_133",
+      "hash": "7EFDA0376801E3E4",
+      "target": "¡Ejem! Si ya han reflexionado a gusto, pasemos a la siguiente sala. ¡Les espera otra pregunta!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_134",
+      "hash": "16381998B02C6BBA",
+      "target": "¿Cuántos cuestionarios de estos hay...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_137",
+      "hash": "D968246D3FD32A8A",
+      "target": "¡Bzzzt! ¡Mala elección!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_138",
+      "hash": "D5D198528F41BC56",
+      "target": "Pueden volver a intentarlo, eso sí. Piensen bien en lo que han aprendido y plantéense repasar los paneles de la primera sala."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_139",
+      "hash": "A1E1D9A4FEA59AD3",
+      "target": "Les daré una pequeña pista: dos de las afirmaciones son ciertas, ¡y no están una al lado de la otra!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_140",
+      "hash": "0FEB37DE41E2DE26",
+      "target": "¿¡Q-Qué son todas estas caras gigantes!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_145",
+      "hash": "4A228E0221631E94",
+      "target": "Parece que estas máscaras tienen varias expresiones."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_150",
+      "hash": "0AF0D4B57FBE5AEA",
+      "target": "Me pregunto qué representarán estas máscaras..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_160",
+      "hash": "26E29821FBC49EB7",
+      "target": "Hemos llegado al lugar más enigmático del museo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_161",
+      "hash": "80711D529CCD26B8",
+      "target": "Aunque se lo conoce como el Descanso de las Oradoras, todo lo demás sigue siendo un misterio. Nadie sabe qué función tenía─ni siquiera los propios Milalla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_162",
+      "hash": "4A7EE7525A041179",
+      "target": "Qué curioso..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_163",
+      "hash": "314969B536C1E08F",
+      "target": "¿Verdad que sí? Algunos apuntan que este lugar es pura invención del diseñador de las instalaciones─que en realidad no existía en la tierra natal de los Milalla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_164",
+      "hash": "41FB5AAC66A15B6E",
+      "target": "Se cree, no obstante, que los adornos de la pared son máscaras que representan las emociones humanas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_165",
+      "hash": "EF9BB0F8B0548FEE",
+      "target": "¡Y eso nos lleva a la última pregunta! Es sencilla: ¿cuántos tipos de máscaras hay?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_166",
+      "hash": "7FA56C76980DE628",
+      "target": "¿¡Ya es la última!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_167",
+      "hash": "41FFD0AFEC31FD73",
+      "target": "Mmm... Algo me dice que no va a ser tan sencillo como parece..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_168",
+      "hash": "944D1AED7E58D170",
+      "target": "Tómense todo el tiempo que necesiten. Aquí estaré cuando tengan la respuesta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_170",
+      "hash": "6CB2F6AA0444A334",
+      "target": "Espera, ¿qué...? ¡Agh, no paro de perder la cuenta!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_175",
+      "hash": "392CB9174C7C734D",
+      "target": "Igual tengo que pedirle un pincel a Krile..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_180",
+      "hash": "BAEE6FD3CBAA6477",
+      "target": "Tres. La respuesta es tres... creo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_185",
+      "hash": "B2225991CCEE22A3",
+      "target": "Máscaras que representan emociones... Es solo una idea, pero, si emociones y recuerdos están unidos de raíz, ¿serán la forma Milalla de expresar los distintos rostros de la Memoria Viva?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_190",
+      "hash": "A0D6ACC2381E79C3",
+      "target": "Entonces, ¿cuántos tipos de máscaras hay? ¿Ya tienen la respuesta?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_Q1_000_000",
+      "hash": "CC645F02F4531354",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_A1_000_001",
+      "hash": "7A383A62810AAAF2",
+      "target": "Dos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_A1_000_002",
+      "hash": "217686EB48D42A52",
+      "target": "Tres."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_A1_000_003",
+      "hash": "D1725F44ACEECD45",
+      "target": "Cuatro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_A1_000_004",
+      "hash": "64911DD61B47485B",
+      "target": "Cinco."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_A1_000_005",
+      "hash": "7B30F430FF120F4A",
+      "target": "Eh, necesito volver a mirar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_192",
+      "hash": "E1375B1FE3AFEEA8",
+      "target": "¡Me temo que no es correcto! Prueben a contar otra vez... ¡o déjense llevar por el corazón!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_193",
+      "hash": "385428E2FDB3BFFF",
+      "target": "Su respuesta es cuatro. ¿Y los demás?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_194",
+      "hash": "54F995D5BCE39AC4",
+      "target": "¿¡En serio!? ¡Yo creía que eran seis!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_195",
+      "hash": "C7789AF946ED2DA9",
+      "target": "Como <split(<string(gstr1)>, ,1)>, yo también creo que son cuatro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_196",
+      "hash": "8A3BFC73D6C13029",
+      "target": "¡Y yo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_197",
+      "hash": "ED775799231DCFFC",
+      "target": "Y la respuesta correcta es..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_198",
+      "hash": "5010A82CC69F509B",
+      "target": "¡Cuatro! ¡Enhorabuena a los tres!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_199",
+      "hash": "4DFAFA486A929399",
+      "target": "¡Maldita sea! ¿Dónde diablos me habré equivocado?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_200",
+      "hash": "6C790E2A8F395A4A",
+      "target": "¡Y con esto concluye el recorrido con preguntas de los Pasos de la Oradora!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GUIDINGROBOT04955_000_201",
+      "hash": "13F7DC646F19ACCB",
+      "target": "Les agradezco su visita de hoy, ¡y espero con ganas la próxima!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_210",
+      "hash": "532DE726C6CE7964",
+      "target": "Si puedo confiarte algo, <split(<string(gstr1)>, ,1)>... He estado inquieta desde que decidí acompañarte a Tural."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_211",
+      "hash": "20C26CE6DD5BDC9C",
+      "target": "Tenía miedo de lo que pudiera descubrir. Quizá no averiguara nada─o peor, que mis padres no me querían."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_212",
+      "hash": "6A4B57A05A195A40",
+      "target": "Pero ahora sé la verdad, y no podría ser más feliz."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_213",
+      "hash": "1EA2AC6B2CB4F92F",
+      "target": "Me alegro de haberme dedicado a la pictomancia. Y me alegro de haber reunido el valor para decir que quería acompañarte."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_214",
+      "hash": "69584A10005F7E52",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>, por confiarme tu vida y por recorrer todo este camino conmigo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_215",
+      "hash": "385613F6DB0C7AFB",
+      "target": "...Bueno, ¡eso es todo lo que quería decir! Llegaré hasta el final─o mejor dicho, llegaremos juntos hasta el final."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_216",
+      "hash": "41AC1C1F19835EE7",
+      "target": "Perdona por entretenerte. ¡Vamos, alcancemos a los demás!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_220",
+      "hash": "C69EB628D13C36B9",
+      "target": "Erenville todavía no ha llegado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_225",
+      "hash": "FC890F9C9583E0B8",
+      "target": "Qué gente tan encantadora, Robor y Alayla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_230",
+      "hash": "537F1BB3614A7FEB",
+      "target": "No te preocupes, estaré bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_CAHCIUA_000_240",
+      "hash": "DC84C3D373C3EE83",
+      "target": "Los demás me lo han contado todo. Me alegro de que Krile haya podido despedirse como es debido de sus padres."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_CAHCIUA_000_241",
+      "hash": "A870FCE6255ADF79",
+      "target": "Y bien, os hago esta pregunta por penúltima vez..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_CAHCIUA_000_242",
+      "hash": "5A828A919071726F",
+      "target": "¿Estáis listos para apagar el terminal?"
+    },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_243", "hash": "CD1080BB309D6560", "target": "Una vez apagado el Piroterminal, no será posible devolver el Asilo Volcánico a su forma actual." },
+    { "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_SYSTEM_000_244", "hash": "F9565E48D2DAE175", "target": "¿Seguro que quieres apagar el terminal?" },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_CAHCIUA_000_245",
+      "hash": "FCCD55F9D33B1C77",
+      "target": "Ahora que Elene'shpya se ha unido a nosotros, vayamos a la última zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_GRAHATIA_000_250",
+      "hash": "6AD12483A2A43AFF",
+      "target": "Solo queda una zona..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_255",
+      "hash": "75B970E8BF7B1809",
+      "target": "Puede que sus recuerdos hayan desaparecido, pero su amor estará conmigo siempre..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_ERENVILLE_000_260",
+      "hash": "6D872ABD67796EEC",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_WUKLAMAT_000_270",
+      "hash": "10A2F3BC65CA6CBC",
+      "target": "¿Estás bien, Krile?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_271",
+      "hash": "17D6668EAAC3486F",
+      "target": "Sí. Decidí seguir adelante pasara lo que pasara."
+    },
+    {
+      "gameKey": "quest/049/KinGmf110_04955#TEXT_KINGMF110_04955_KRILE_000_272",
+      "hash": "BE67173425AD5782",
+      "target": "Y he tenido el valor para hacerlo gracias a todos vosotros. Gracias, de todo corazón."
+    }
+  ]
+}

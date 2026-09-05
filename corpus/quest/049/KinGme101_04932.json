@@ -1,0 +1,715 @@
+{
+  "conversation": "quest/049/KinGme101_04932",
+  "questName": "Embracing Oblivion",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_SEQ_00", "hash": "6663A0260AA2AD7D", "target": "Cahciua te observa con una curiosidad preocupada." },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_SEQ_01", "hash": "0DD54543DBFE30E6", "target": "Tras darte una visión general del uso de las almas en Alexandria, Cahciua os pide que volváis al escondite de su grupo en el Cielo Térreo. Pero, antes de hacerlo, Wuk Lamat quiere hablar con el grupo, así que os reunís junto a la entrada del túnel." },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_SEQ_02", "hash": "0C15F066EDE0F09F", "target": "Wuk Lamat propone cooperar con Oblivion para conseguir la información que necesitáis para plantar cara al enemigo. Aunque Erenville recela de ello y dice que quizá no sea su madre quien está detrás de la máquina, el resto del grupo está dispuesto a correr el riesgo. Tomada la decisión, todos os adentráis en el túnel para uniros a vuestros posibles colaboradores." },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_SEQ_03", "hash": "682D6E5B1027EB8C", "target": "Cuando Wuk Lamat expone su caso a Cahciua, pronto se hace evidente que el deseo de colaborar es más que mutuo. Así es como unís fuerzas con Oblivion y empezáis de inmediato a trazar planes para sacar a Zoraal Ja de su escondite. Consciente de su arraigado anhelo de superar a su padre, Wuk Lamat propone golpearlo cuando se canse de esperar y decida invadir Tuliyollal de nuevo. Hasta entonces, debéis prepararos para la batalla conociendo la tecnología que da poder a vuestro enemigo. Con ese fin, Cahciua se ofrece a llevaros a la sede principal de Oblivion, en el interior de Everkeep, pero antes prestas atención a Geode, que quiere presentar a su cuadrilla." },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_SEQ_04", "hash": "33D84512DBF7DCA8", "target": "Además del propio Geode, te presentan a las gemelas Nostalgia y Wayakkwe, que comparten su trágico motivo para unirse a la lucha contra Zoraal Ja. Al parecer, el Mamool Ja ha hecho poco por ganarse el cariño de la gente de Alexandria desde que se convirtió en su gobernante..." },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_TODO_00", "hash": "9C17A0CD1828CAF1", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_TODO_01", "hash": "ABBEBAB530A3EBD4", "target": "Hablar con Cahciua en el escondite del Cielo Térreo" },
+    { "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_TODO_02", "hash": "845C7F3997461BB9", "target": "Hablar con Geode" },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_001",
+      "hash": "875F74755DE5F68D",
+      "target": "Habiendo visto de primera mano la belleza del mar etéreo, sencillamente no puedo aceptar lo que han hecho aquí en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_002",
+      "hash": "5EA80759ACFE3349",
+      "target": "Entiendo que forma parte de su cultura, pero no por ello resulta menos desconcertante."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_003",
+      "hash": "00B7D5F88F960D97",
+      "target": "Cuando Emet-Selch hablaba de civilizaciones sorprendentes en otros reflejos, me pregunto si pensaba en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_004",
+      "hash": "2928BAC02D338C10",
+      "target": "Sphene aparenta la misma edad que Alisaie y Wuk Lamat, pero ahora me pregunto si estos reguladores tendrán algo que ver con eso."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_005",
+      "hash": "BDDB6D4A6994015D",
+      "target": "Los reguladores le dan a Zoraal Ja una ventaja aterradora, y ese es solo uno de los aparatos que ha conseguido..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_006",
+      "hash": "B7B3D1B7E6A5AD1D",
+      "target": "Si queremos tener alguna posibilidad de vencerlo, tenemos que aprender todo lo posible sobre la tecnología de la que dispone."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_020",
+      "hash": "993314AB0E499277",
+      "target": "Confío en que hayáis entendido algo mejor el uso de las almas en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_021",
+      "hash": "63FD0F6503C27AC5",
+      "target": "Impacta, lo sé─a mí también me desbordó al principio. Imagino que necesitaréis tiempo para digerirlo todo, pero de momento volvamos al Cielo Térreo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_022",
+      "hash": "A2F9E3F0E86C5CFF",
+      "target": "A este paso..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_023",
+      "hash": "9AC2E6C3FB09C184",
+      "target": "Hay algo que quiero hablar con todos. Tomémonos un momento antes de entrar en el túnel."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_025",
+      "hash": "6774A36C335E75AC",
+      "target": "Entiendo el argumento de que deberíamos tener la mente abierta si esta práctica es parte esencial de su cultura. Pero cada fibra de mi ser se rebela contra ella..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_026",
+      "hash": "A14F69473F287455",
+      "target": "Me pregunto qué querrá hablar Lamaty'i..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_027",
+      "hash": "810119928909C086",
+      "target": "Está bien que hayamos podido ver de primera mano cómo se usan los reguladores. Recurrir incluso a las almas de las bestias... Me estremece imaginar cuán poderoso podría llegar a ser Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_028",
+      "hash": "3626AEEF4C4E9B68",
+      "target": "Pensar que todos llevan treinta años viviendo aquí. El tiempo suficiente para acostumbrarse a esta forma de vida..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_030",
+      "hash": "D11B46BC395823E0",
+      "target": "Siento retrasarnos, pero tengo algunas ideas que necesito compartir."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_031",
+      "hash": "9D8780005D8211FF",
+      "target": "Tanto en tecnología... como en valores... está claro que hay un abismo entre Tuliyollal y Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_032",
+      "hash": "BD174433ADF6B0F6",
+      "target": "Y mientras Zoraal Ja lo sabe todo de nosotros, nosotros apenas sabemos nada de en qué se ha convertido."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_033",
+      "hash": "9305DB2A5ABDBCE8",
+      "target": "En efecto... Ni siquiera hemos visto lo que hay dentro de esa torre enorme, Everkeep."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_034",
+      "hash": "77295AA8207DCE5C",
+      "target": "Por eso quiero haceros una propuesta."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_035",
+      "hash": "752F53C259650025",
+      "target": "Que trabajemos con Cahciua y los suyos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_036",
+      "hash": "F3427FCF4C03A8D5",
+      "target": "Necesitamos aprender todo lo que podamos sobre el enemigo. La vía más rápida sería aliarnos con Oblivion."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_037",
+      "hash": "C5AC42202868D69C",
+      "target": "Acabamos de conocerlos, lo sé, y no deberíamos confiar tan a la ligera. Pero el hecho es que comparten nuestro deseo de detener a Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_038",
+      "hash": "D5128C1D7BE50D20",
+      "target": "Sphene también afirma estar enfrentada al Rey de la Resolución. ¿Puedo preguntar por qué prefieres cooperar con Oblivion?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_039",
+      "hash": "B2DE42C57683901A",
+      "target": "Es sencillo, la verdad. Su líder es la madre de Erenville."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_040",
+      "hash": "C030F7ADE8429365",
+      "target": "En cambio, sienta lo que sienta Sphene, es una gobernante de esta nación. Trabajar con ella entraña más riesgo y hay menos motivos para creer en su palabra."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_041",
+      "hash": "5141CB1BC0E0FCF5",
+      "target": "Buen argumento. Y conociendo a Zoraal Ja, hemos de suponer que su acuerdo con Sphene no se hizo sin algún cálculo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_042",
+      "hash": "B7254A4C9B1B352B",
+      "target": "Yo solo sé que sería reconfortante tener aliados en este reino tan extraño."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_043",
+      "hash": "1AE15CE21A8C8DDB",
+      "target": "Creo que todos estaríamos de acuerdo en que cualquier ayuda sería bienvenida."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_044",
+      "hash": "6F7B7E6488FB61CA",
+      "target": "Un momento. No hay garantía de que sea realmente mi madre quien está detrás de esa máquina."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_045",
+      "hash": "DFD7C1AE53BFA61C",
+      "target": "Sin verla en carne y hueso, no podemos descartar que sea una argucia."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_046",
+      "hash": "EAD44586941F081E",
+      "target": "Si resulta ser una trampa, no solo nos ponemos en peligro nosotros, sino todo Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_047",
+      "hash": "396B3B64EEEAED82",
+      "target": "Como dices, no tenemos pruebas de que sea realmente Cahciua."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_048",
+      "hash": "5759CD6DA6E89013",
+      "target": "Pero hago mi propuesta plenamente consciente de ello."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_049",
+      "hash": "52C73E012BB4A6C5",
+      "target": "Tanto si vamos a la guerra como si buscamos la paz, necesitamos aprender todo lo que podamos. Si no, no podemos aspirar a hacer nada que valga."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_050",
+      "hash": "0325701A0062B674",
+      "target": "Tal como están las cosas, sabemos muy poco de este reino. Hay que remediarlo. Tenemos que estudiar al enemigo y, llegado el momento, acabar con Zoraal Ja de una vez por todas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_051",
+      "hash": "90BB41D919A3DB6F",
+      "target": "Y además..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_052",
+      "hash": "BCBE9DF55F0C45B8",
+      "target": "Yo confío en <italic(1)>ti<italic(0)>, Erenville. Siempre has tenido un instinto excelente, afilado en los años que te formaste con tu madre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_053",
+      "hash": "6CBB55F2CEE8EF34",
+      "target": "¿Y si me equivoco? ¿Y si el sentimiento me nubla el juicio?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_Q1_000_000",
+      "hash": "D57734B66BB8B5CE",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_A1_000_001",
+      "hash": "9BF19BC98D4438FC",
+      "target": "Si es una trampa, ya la afrontaremos cuando salte."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_A1_000_002",
+      "hash": "19809331B82290EE",
+      "target": "Yo también confío en ti."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_055",
+      "hash": "844D3988082E45C4",
+      "target": "\\<suspiro> Contigo siempre es igual..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_056",
+      "hash": "E72746901CCED0AF",
+      "target": "Está bien. Si lo tienes decidido, no diré nada más."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_057",
+      "hash": "174DF99B54EC50D2",
+      "target": "Pues está decidido. ¡Entremos y consigamos unos cuantos aliados nuevos!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_100_057",
+      "hash": "40D803869A482488",
+      "target": "Aunque estoy totalmente a favor de ocuparnos de Zoraal Ja, hay que pensar en cómo pueden afectar nuestros actos a los alejandrinos de a pie. Al fin y al cabo, ellos no son el enemigo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_110_057",
+      "hash": "AA9C1951D40CF856",
+      "target": "Estoy de acuerdo con Wuk Lamat. Es una apuesta tanto si decidimos trabajar con la gente de aquí como si no, y más conocimiento siempre es mejor que menos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_058",
+      "hash": "D3FA10006F17654C",
+      "target": "El Juramento de la Resolución posee convicción y flexibilidad a partes iguales. Si los relatos son ciertos, aprendió mucho durante el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_100_058",
+      "hash": "7F42DF8906493DAD",
+      "target": "No estoy acostumbrado a verla tomar decisiones como una gobernante. Aunque mejor eso que la indecisa de antes."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_059",
+      "hash": "669AEFD96E394878",
+      "target": "Con los recursos de que disponen, confío en que Cahciua y los suyos sean unos aliados estupendos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_060",
+      "hash": "4E6D9CC7B6505398",
+      "target": "Cahciua, hay algo que tengo que deciros a ti y a los tuyos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_061",
+      "hash": "C751C269EB390E05",
+      "target": "Hemos venido aquí sin otro motivo que acabar con Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_062",
+      "hash": "6315A7931850B710",
+      "target": "Pero... creía que era tu hermano."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_063",
+      "hash": "D4F337574F1BD6EB",
+      "target": "¿De verdad piensas matar a alguien de tu propia sangre?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_064",
+      "hash": "88ECC863B558F146",
+      "target": "Alguien de mi sangre invadió nuestra nación y asesinó a nuestra gente. Como Juramento de la Resolución, me corresponde a mí pedirle cuentas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_065",
+      "hash": "66F6BE0FBD0B715C",
+      "target": "Estoy preparada para hacer lo que deba, y no vacilaré cuando llegue el momento."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_066",
+      "hash": "0F3049A6782071A8",
+      "target": "Igual que nosotros, tú y los tuyos os oponéis a Zoraal Ja. Por eso propongo que trabajemos juntos para detenerlo de una vez por todas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_067",
+      "hash": "ACCD4D1C4B566C5B",
+      "target": "Sé que es repentino. Que es una apuesta confiar en alguien a quien acabas de conocer."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_068",
+      "hash": "4341A9CD8C56F739",
+      "target": "Pero yo confiaría en la convicción de cualquiera que comparta mi objetivo. Así que luchad conmigo, os lo ruego."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_069",
+      "hash": "3E8A5D0EFB0A695D",
+      "target": "Como dices, nuestros objetivos coinciden. Y no dudo lo más mínimo de tu determinación."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_070",
+      "hash": "E92AFEFD780DD1F7",
+      "target": "Si no lo hubieras propuesto tú, lo habría propuesto yo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_071",
+      "hash": "8E19F656BCF56917",
+      "target": "A decir verdad, nos ha costado ir solos. Hemos reunido información de sobra, pero nos falta fuerza para dar un paso decisivo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_072",
+      "hash": "E4869D668DF6E29B",
+      "target": "Además, ¿cómo <italic(1)>no<italic(0)> íbamos a confiar en vosotros?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_073",
+      "hash": "854731330D0AEB11",
+      "target": "Mi único hijo va con vosotros─mi conejito quisquilloso. No necesito más razón que esa."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_074",
+      "hash": "FEC63C4AC750C3CA",
+      "target": "Pues decidido. ¡Por una colaboración fructífera!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_075",
+      "hash": "C0D713CBC123DB9F",
+      "target": "¡Gracias, Cahciua, gracias a todos! ¡Juntos lograremos grandes cosas, estoy segura!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_076",
+      "hash": "6CBB3160CF43904D",
+      "target": "Pues no perdamos tiempo. Nos preguntábamos dónde para Zoraal Ja. ¿Hay un palacio dentro de esa torre?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_077",
+      "hash": "AC137DAC5BE31E68",
+      "target": "Más o menos. El rey reside en el nivel más alto. Pero, mientras que a la reina Sphene le gusta salir en público, él apenas se deja ver."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_078",
+      "hash": "B75D354D80C6B0D8",
+      "target": "Es más: sus movimientos son alto secreto. Ni siquiera sus oficiales tienen acceso a esa información. Si alguien sabe dónde está en un momento dado, solo puede ser la reina."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_079",
+      "hash": "B35E68523E0C14A5",
+      "target": "Aunque no sepamos dónde está, Zoraal Ja acabará marchando otra vez sobre Tuliyollal. Ahí es cuando podremos ir a por él."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_080",
+      "hash": "CE6AF3A1E19650E7",
+      "target": "El inconveniente es que tendríamos que esperar a que se produjera la invasión. Habría inocentes en peligro."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_081",
+      "hash": "ABA89727A49534A3",
+      "target": "También existe la posibilidad de que lo deje todo en manos de sus esbirros y no dirija al ejército en persona."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_082",
+      "hash": "E8B7DC6E25E8164D",
+      "target": "No. Saldrá al campo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_083",
+      "hash": "FB7E15E93CC4D742",
+      "target": "¿Qué te hace estar tan segura?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_084",
+      "hash": "EF6E57C3D133FEFE",
+      "target": "Mi hermano siempre ha ansiado superar a nuestro padre. Por eso atacó Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_100_084",
+      "hash": "BFE806D451ABDB24",
+      "target": "Después de esperar treinta años, lo primero que quiso hacer fue demostrar su fuerza recién adquirida."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_085",
+      "hash": "1F9DF5D3869993B9",
+      "target": "Pero matar a papá no lo dejó satisfecho. Así que ahora está empeñado en demostrar que es más fuerte que Koana y que yo, que lo vencimos en el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_086",
+      "hash": "3D53DDAFA9F87F6C",
+      "target": "Me retó a acabar con él. Quiere un duelo para demostrarle a todo el mundo que es superior al Servidor del Alba, y no dejará que sus esbirros le arrebaten ese placer."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_087",
+      "hash": "B4E432B6EB32EEBA",
+      "target": "¿Y por qué no ha aparecido para darte esa oportunidad? Seguro que sabe que estamos aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_088",
+      "hash": "42F5358D1421029B",
+      "target": "Eso solo puedo suponerlo. Quizá quiera deslumbrarnos con su maravilloso reino. Pero si no se digna a aparecer, lo obligaremos a hacerlo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_089",
+      "hash": "48A755C4005B197C",
+      "target": "Mientras reunimos información, no haremos ningún movimiento para atacarlo. No mostraremos el menor interés en un enfrentamiento."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_090",
+      "hash": "AEBE2D809D390B8B",
+      "target": "Conociéndolo, se cansará de esperar y volverá su atención hacia Koana. Atacará Tuliyollal otra vez, como dijo que haría."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_091",
+      "hash": "A8B18F142D7308F0",
+      "target": "Ya veo... Si crees que es el mejor camino, no tenemos objeciones."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_092",
+      "hash": "C472A8179ACF22C6",
+      "target": "Cualquier campaña contra Tuliyollal exige que Zoraal Ja conduzca sus fuerzas a través de la Vanguardia. Pondremos vigías que la observen día y noche."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_093",
+      "hash": "AAD7299C6FD4D906",
+      "target": "Es una estrategia viable, desde luego... Pero si seguimos adelante con ella, deberíamos avisar a los de fuera."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_094",
+      "hash": "A5D413B032A4150F",
+      "target": "Cierto. Necesitarán tiempo para preparar sus defensas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_095",
+      "hash": "30E323AEEEC79A82",
+      "target": "Yo me encargo encantado de coordinarnos. Ya estoy en contacto regular con Y'shtola y me aseguraré de mantener informados a nuestros compañeros."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_096",
+      "hash": "4F4F2D337B2CA06E",
+      "target": "La Vanguardia dejádnosla a nosotros. Avisaremos al primer indicio de movimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_097",
+      "hash": "C6939A5B4C1DDABB",
+      "target": "Parece que tenemos un plan."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_098",
+      "hash": "DB71DBE1C7639AE9",
+      "target": "Mientras esperamos a que Zoraal Ja se mueva, haríais bien en prepararos para la batalla, y eso empieza por familiarizaros con la tecnología que lo hace fuerte."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_099",
+      "hash": "C2F7C17B56136B14",
+      "target": "Con ese fin, os llevaré al cuartel general de Oblivion."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_100",
+      "hash": "8D84D42D2105C60A",
+      "target": "¿Ah, sí? Creía que era este sitio."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_101",
+      "hash": "2B66E739617665DA",
+      "target": "\\<risita> Os impresionará saber que estamos justo dentro de esa torre, en el distrito residencial de Solución Nueve."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_102",
+      "hash": "A0DA1187573FB28A",
+      "target": "Esconder un árbol en el bosque, por así decirlo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_103",
+      "hash": "D4428C31F114A99E",
+      "target": "La única cuestión es cómo pasaros por el control..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_104",
+      "hash": "4A22CFC80C2D768C",
+      "target": "Ah, sobre eso. Sphene dijo que se ocuparía de que pudiéramos entrar sin problemas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_105",
+      "hash": "F818D740F670AEDF",
+      "target": "¿Eso dijo? Curioso. Se supone que no tiene esa autoridad sobre los centinelas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_106",
+      "hash": "2899D604BAA409E7",
+      "target": "Si mal no recuerdo, sus palabras fueron que nos registraría como invitados."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_000_107",
+      "hash": "9706E4D0DF2DCA5E",
+      "target": "Ya veo. Entonces quizá lo tengamos fácil."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_CAHCIUA_100_107",
+      "hash": "8A6483EEAAB7814E",
+      "target": "Cuando estéis listos, venid a verme a la entrada de la torre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_108",
+      "hash": "B30742C4C5F2DB41",
+      "target": "Antes de que salgáis, dadnos un momento para presentarnos como es debido, ¿eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_109",
+      "hash": "F051790CA6707A82",
+      "target": "Al fin y al cabo, conviene saberse los nombres cuando se trabaja juntos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ALISAIE_000_110",
+      "hash": "256AD12E8AB604B5",
+      "target": "Entre los amigos nuevos y lo de entrar en la torre, no puedo evitar estar un poco emocionada."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_111",
+      "hash": "9417C1A588E06E72",
+      "target": "(¿Son cosas mías o Erenville y Cahciua son polos opuestos de carácter?)"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GRAHATIA_000_112",
+      "hash": "1853B14F08E702ED",
+      "target": "La información que poseen Cahciua y los suyos nos será muy útil."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_113",
+      "hash": "BDE0B7431316548D",
+      "target": "...Da escalofríos oír la voz de mi madre saliendo de esa máquina tan peculiar."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_114",
+      "hash": "F8FC6274DA7F99EF",
+      "target": "Si este no es su cuartel general, no me imagino cómo será el de verdad..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_115",
+      "hash": "EAED3CCB55C048E2",
+      "target": "Si Cahciua confía en ustedes, ¡nosotras también!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WAYAKKWE_000_116",
+      "hash": "96A23C111CA66F87",
+      "target": "Esto... E-Encantada de conocerlos..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_120",
+      "hash": "4715A27DCE55D827",
+      "target": "Aunque Oblivion tiene agentes por todas partes, nosotros somos el grupo principal de aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_121",
+      "hash": "D6928FCDAB61FD93",
+      "target": "Yo soy Geode, el responsable de este escondite."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_122",
+      "hash": "645466D1748576C4",
+      "target": "Y las gemelas de ahí detrás, jóvenes pero de fiar, son Nostalgia y Wayakkwe."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_123",
+      "hash": "E14EB2262D5CC835",
+      "target": "¡Yo soy Nostalgia! Es un placer conocerlos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_124",
+      "hash": "1F117976029EC544",
+      "target": "Mi hermana y yo nacimos y nos criamos dentro de la barrera."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_125",
+      "hash": "589CBBC3FA0D4AF2",
+      "target": "Llevamos tres años en Oblivion, y nuestras tareas principales son la vigilancia y el aprovisionamiento."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_126",
+      "hash": "0F812BCF60A4B382",
+      "target": "¿Gemelas, eh? Eso explica el parecido. Wayakkwe es un nombre Tonawawta, si no me equivoco."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_127",
+      "hash": "D23D9BF75DAD696B",
+      "target": "Así es. Nuestra madre era de Tuliyollal y nuestro padre, alejandrino. Quisieron honrar ambas culturas."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_KRILE_000_128",
+      "hash": "03AF9708460DACF3",
+      "target": "Son nombres preciosos."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WAYAKKWE_000_129",
+      "hash": "7EDBCF99BFE795E1",
+      "target": "G-Gracias. Aunque no tengo recuerdos de mi madre, me gusta pensar que llevo una parte de ella conmigo."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_130",
+      "hash": "03B0BF67E05A2663",
+      "target": "Y bien, ¿qué os hizo decidiros a entrar en Oblivion?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_131",
+      "hash": "7E4C633CA191C3B1",
+      "target": "Queríamos vengar a nuestro padre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_132",
+      "hash": "59BB34F750C8FDED",
+      "target": "Se llamaba Ambrose, y hace años se lo llevaron tras un altercado con un soldado por una discusión."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_133",
+      "hash": "71A9B7534225AF65",
+      "target": "Fue un incidente menor, así que al principio nos aferramos a la esperanza de que lo soltaran. Pero, cuando pasaron meses sin noticias suyas ni de él, tomamos la decisión de quitarnos los reguladores."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_134",
+      "hash": "75F237543D71F65C",
+      "target": "Ya habíamos perdido los recuerdos de nuestra madre. No queríamos perder también los de nuestro padre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_135",
+      "hash": "453D4811728021F3",
+      "target": "Ahora todos se han olvidado de él─todos los que lo conocieron..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_136",
+      "hash": "9E44CEB00CFEBFB3",
+      "target": "Será cabrón... ¡Ni siquiera aquí le importa su propia gente!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_137",
+      "hash": "FFA069B86E1D4B50",
+      "target": "Un tiempo después se nos acercó un miembro de Oblivion. Con la esperanza de hacer justicia por nuestro padre, nos unimos a la organización."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_138",
+      "hash": "87D99A4FA4549E43",
+      "target": "Lo siento, no pretendía ensombrecer el ambiente..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_139",
+      "hash": "2385E9BB397BFD01",
+      "target": "No, no, te agradezco que nos lo cuentes. Juntos vengaremos a vuestro padre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_140",
+      "hash": "B40E703B09ACE19D",
+      "target": "Gracias. Algo me dice que ustedes tienen lo que hace falta."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_NOSTALGIA_000_141",
+      "hash": "3559D587DC515D4D",
+      "target": "Preséntate tú también. ¡Venga!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WAYAKKWE_000_142",
+      "hash": "3236A66B489A56C8",
+      "target": "Esto... En mi caso es prácticamente la misma historia."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WAYAKKWE_000_143",
+      "hash": "9AE61EEF8B38EE30",
+      "target": "Y aunque el mío es un nombre Tonawawta, no tengo la menor idea de cómo son las cosas fuera de la barrera."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WAYAKKWE_000_144",
+      "hash": "7F79CA24450EBD2E",
+      "target": "Sueño con ir a verla con mis propios ojos. La tierra natal de nuestra madre."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_WUKLAMAT_000_145",
+      "hash": "552BF247F8A15FB9",
+      "target": "Cuando se restablezca la paz, tienes que venir de visita. Las tierras salvajes son preciosas, la comida está deliciosa y la gente es amabilísima. ¡Te va a encantar!"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_146",
+      "hash": "E2022D9963A0BDBA",
+      "target": "Y esos somos los de aquí. A los demás los conoceréis en la Trastienda─ese es nuestro cuartel general. Algunos son un poco excéntricos, pero todos tienen buen corazón."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_147",
+      "hash": "B10DB3CEE630CE7B",
+      "target": "Ah, Elene'shpya. Una última cosa."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_148",
+      "hash": "822CD5D78DF921D3",
+      "target": "No es exactamente asunto mío decirlo, pero gracias por venir a buscar a Cahciua. Habla tanto de ti que está claro lo importante que eres para ella."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_ERENVILLE_000_149",
+      "hash": "B13D15310D9065E4",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_150",
+      "hash": "98271E55494B8C20",
+      "target": "Eso es todo. Pórtate bien con tu madre mientras puedas, ¿eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGme101_04932#TEXT_KINGME101_04932_GEODE_000_151",
+      "hash": "2A80525745D43D31",
+      "target": "Bueno, ya os dejamos ir. Usad este escondite como queráis."
+    }
+  ]
+}

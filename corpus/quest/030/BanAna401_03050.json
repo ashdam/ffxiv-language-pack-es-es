@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/030/BanAna401_03050",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_SEQ_00", "hash": "8D827521655FCD63", "target": "Eshana tiene una tarea para un aventurero servicial.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptarla." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_00", "hash": "78C8E2B34A227998", "target": "Arrojar el polvo de olor acre sobre las hogueras de señales" },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_TODO_01", "hash": "04C8718545B3314B", "target": "Informar a Eshana" },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_000", "hash": "6FA36C76E141F885", "target": "¿Te sientes servicial, <split(<string(gstr1)>, ,1)>? Ha llegado la hora de llamar a las patrullas, pero no puedo abandonar mi puessto. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_001", "hash": "5EF2E75566A1B0F3", "target": "Te agradecería que salieras y arrojaras este polvo sobre nuestras hogueras de señalesss: el humo hará saber a nuestras esssoltas que llegan patrullas frescas a relevarlas. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_003", "hash": "9D823CF3D05360FA", "target": "Toma. Marcaré en tu mapa los lugares donde se hallan las hogueras. Una tarea nimia, lo sé, pero agradezco tu ayuda de todos modos. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_SYSTEM_000_010", "hash": "28E5C057EDFB3844", "target": "Oyes la voz de una essolta alertada procedente de la dirección del río Velodyna." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERA03050_000_011", "hash": "DBED06A1C571F830", "target": "¡Ah, por fin! Me muero por una buena taza de té y <if([gnum11<12],<if([gnum11<4],un cómodo rincón donde sssentarme,un rincón a la sombra)>,<if([gnum11<17],un rincón a la sombra,un cómodo rincón donde sssentarme)>)>. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERA03050_000_012", "hash": "D2BF748596169F5B", "target": "Espero que la próxima esssolta tenga más suerte que yo rastreando a ese gran antlion... Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERB03050_000_013", "hash": "B997D8060F8FC2D8", "target": "¿Ya? Mi informe será aburrido, pero sssupongo que esos son los más bienvenidos. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ANANTASOLDIERB03050_000_014", "hash": "9976D8F9C3A59968", "target": "Hora de volver. De todos modos, tenía que volver a afilar mi hoja. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_SYSTEM_000_015", "hash": "93BCD516302381E8", "target": "Oyes el batir de alas de un grifo que se acerca desde la dirección de Virdjala..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_SYSTEM_000_017", "hash": "769E57D4E51C04D6", "target": "Oyes el paso firme de unas botas que se acercan desde la dirección de Virdjala..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_RESISTANCESOLDIERC03050_000_018", "hash": "EE1736B52E98DDB2", "target": "\\<tos> Uf, eso hace que se te salten las lágrimas de lo lindo. ¡Gracias por la señal!" },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_020", "hash": "BB46178B1FBA03AD", "target": "Gracias. Nuestras patrullas se extienden a lo largo y ancho de la frontera, y mantener las líneas de comunicación puede ser difícil. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_021", "hash": "BB82A2008B33E3D6", "target": "Los grifos vuelan raudos, por supuesto, pero una hoguera de señales hace el trabajo aún más rápido. Aunque el humo apeste a montón de marid... ejem, en fin, qué se le va a hacer. Sss..." },
+    { "gameKey": "quest/030/BanAna401_03050#TEXT_BANANA401_03050_ESHANA_000_022", "hash": "1F21EFEA2343B1F8", "target": "Si no te importa estirar las piernas, seguramente me vendrá bien tu ayuda la próxima vez que llamemos a las esssoltas. Sss..." }
+  ]
+}

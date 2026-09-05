@@ -1,0 +1,182 @@
+{
+  "conversation": "quest/014/GaiUse312_01453",
+  "questName": "What Little Gods Are Made Of",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_SEQ_00",
+      "hash": "641D00B9EC2E48C9",
+      "target": "El teniente de la serpiente está listo para ponerte en camino."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_SEQ_01",
+      "hash": "4F053FAF3CED02F6",
+      "target": "Tras escuchar el relato de tu batalla con Ramuh, el teniente de la serpiente te insta a informar directamente a Kan-E-Senna. Regresa a Gridania y habla con el conjurador silencioso para acceder al Estrado del Loto."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_SEQ_02",
+      "hash": "6BB42D0BCB02831A",
+      "target": "Describes a la Gran Vidente tu encuentro con la deidad guardiana de los silfos. Las palabras de Ramuh parecen calar en Kan-E-Senna, incapaz de refutar la afirmación del Señor del Rayo de que, dondequiera que el hombre deambule, la oscuridad le sigue de cerca. Sales del Estrado del Loto al término de tu audiencia, dejando a la líder de Gridania inquieta y pensativa pese a la noticia de tu victoria. Informa de los detalles de tu reunión a Papalymo, que te aguarda en el Altar de Nophica."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_SEQ_03",
+      "hash": "2E7CE5D980BEC9D7",
+      "target": "A diferencia de la Gran Vidente, Papalymo parece satisfecho con el desenlace. Regresa al Refugio de las Piedras e informa a Minfilia."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_SEQ_04",
+      "hash": "0FB0626F04F4D961",
+      "target": "Tras escuchar tu informe, Minfilia insinúa que tiene noticias propias. Antes de revelar nada más, sin embargo, la Antecesora te sugiere que primero escuches el último descubrimiento de Urianger sobre la naturaleza de la inmortalidad de los ascianos. ¿Será que el erudito ha dado con un medio de lograr la destrucción permanente de los Paragones?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_TODO_00",
+      "hash": "6CAD07450CFD0CED",
+      "target": "Hablar con Kan-E-Senna en el Estrado del Loto"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_TODO_01",
+      "hash": "443E5D05D99AAF36",
+      "target": "Hablar con Papalymo en el Altar de Nophica"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_TODO_02",
+      "hash": "8E5ADD82E36E0BA4",
+      "target": "Hablar con Minfilia en el Refugio de las Piedras"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LIEUTENANT01448_000_000",
+      "hash": "B6EDC0CD819DDFCB",
+      "target": "La Gran Vidente querrá conocer sus vivencias de primera mano."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LIEUTENANT01448_000_001",
+      "hash": "6D0AD5940E321AC5",
+      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica le estará esperando. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LIEUTENANT01448_000_010",
+      "hash": "715AFC9FFB67C9BE",
+      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica aguardará su llegada. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_DOORMANLOTUS_000_020",
+      "hash": "1B14DBE9BBE94C16",
+      "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,honorable Heredera,honorable Heredero)>. Quienes conocíamos su misión aguardábamos con ansia su regreso. La Gran Vidente le espera dentro."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_Q1_000_021",
+      "hash": "4CE363A28DF2076A",
+      "target": "¿Ir al Estrado del Loto?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_A1_000_022",
+      "hash": "41DCE4681BF51EA9",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_A1_000_023",
+      "hash": "2090F78850D3E398",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_YDA_000_030",
+      "hash": "69452E9B48499BC1",
+      "target": "¡Tendrías que haber visto a Maxio cuando volvimos al Pequeño Solaz! Decir que estaba agradecido se queda corto. ¡Creí que le iba a arrancar la mano a Papalymo de tanto estrechársela!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_PAPALYMO_000_035",
+      "hash": "44F04B9D2F461220",
+      "target": "¡Ah, <if(gnum4,la heroína,el héroe)> del momento! No hagamos esperar a la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_THANCRED_000_040",
+      "hash": "C08C4AFA2ED260AC",
+      "target": "Me atrevo a pensar que mi presencia fue más ayuda que estorbo durante nuestros apuros con Leviatán, pero esta vez... En fin, ¡hasta yo tengo mis días malos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_YSHTOLA_000_045",
+      "hash": "7DE6B823D767B587",
+      "target": "Parece que, después de todo, la valoración que Yda hizo de la situación tenía su mérito. Quizá no debería apresurarme tanto a descartar su intuición..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_PAPALYMO_000_60",
+      "hash": "78B5A684B9AA77D0",
+      "target": "Y así concluye otra misión de las que amedrentan, ¿eh, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_PAPALYMO_000_061",
+      "hash": "CC95D30035454393",
+      "target": "Había esperado que se pudiera persuadir al señor Ramuh solo con palabras pero, aun así, no puedo sino admirar la destreza con que respondiste al súbito desafío del primigenio."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_PAPALYMO_000_062",
+      "hash": "EB4538BE5CBF0DE0",
+      "target": "Y parece que Urianger también quedó complacido con el desenlace. ¿Qué me dices, <split(<string(gstr1)>, ,1)>? ¿Volvemos a reunirnos en el Refugio de las Piedras y reflexionamos sobre las lecciones del día?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_PAPALYMO_000_070",
+      "hash": "3E248A17FD6AAAEB",
+      "target": "Seguro que Minfilia está deseando oír más sobre tus aventuras. Volvamos al Refugio de las Piedras y pongamos en orden nuestras ideas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_MINFILIA_000_080",
+      "hash": "1BFB94EA8898E535",
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>! ¡La noticia de tu trascendental encuentro con el señor Ramuh te precede!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_MINFILIA_000_081",
+      "hash": "26B2DE826BDF85D6",
+      "target": "Con gusto compartiría noticias mías, pero los descubrimientos de Urianger tienen prioridad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_MINFILIA_000_082",
+      "hash": "7A5A732D786FB21E",
+      "target": "Al presenciar cómo derrotabas al Señor del Rayo, nuestro docto compañero tuvo una profunda revelación sobre la naturaleza de la inmortalidad de los ascianos. Reunámonos y comentemos juntos sus observaciones."
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ASCIANA01453_000_200",
+      "hash": "4681BCD24AAAFD24",
+      "target": "<colortype(547)>El Señor del Rayo ha regresado al éter, igual que Leviatán antes que él.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ASCIANB01453_000_201",
+      "hash": "57301C223D362A58",
+      "target": "<colortype(547)>La aquiescencia de Ramuh fue de lo más... intrigante.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ASCIANC01453_000_202",
+      "hash": "A9DC981C4E97DB7A",
+      "target": "<colortype(547)>Infierno, vórtice, peñasco, remolino y rayo. Todos han sido ya humillados por <if(gnum4,la Guerrera,el Guerrero)> de la Luz.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ASCIAND01453_000_203",
+      "hash": "AFF15C5F54503FBB",
+      "target": "<colortype(547)>El potencial ilimitado del hombre... <if(gnum4,La sierva,El siervo)> de Hydaelyn se vuelve más <if(gnum4,poderosa,poderoso)> cada día.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ELIDIBUSEORZEA_000_204",
+      "hash": "75D873FA28351075",
+      "target": "<colortype(547)>Y, sin embargo, <if(gnum4,ella,él)> prospera a un gran coste para su señora... cuya fuerza es harto finita. Siete veces han sobrevivido las multitudes a la Reunificación, pero sus almas se han vuelto débiles y macilentas...<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_ELIDIBUSEORZEA_000_205",
+      "hash": "1A980C1ACAE88F91",
+      "target": "<colortype(547)>Y, aun mientras los debilita, el Ardor fortalece a nuestro señor. Solo resta cultivar la fuerza de los dotados... forjar la llave final.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_206",
+      "hash": "3E2038A281BCA868",
+      "target": "<colortype(547)>...Y esa es la tarea a la que consagramos todos nuestros esfuerzos.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_207",
+      "hash": "731E8178EA398205",
+      "target": "<colortype(547)>Las semillas divinas siempre tendieron a germinar en el fértil suelo de Eorzea. Solo hemos de guiar a los hombres hasta el campo, y de sus ávidas manos surgirá una nueva deidad.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LAHABREAEORZEA_000_208",
+      "hash": "4625222199DD2AEA",
+      "target": "<colortype(547)>Lo que fue hecho añicos volverá a forjarse... y el único dios verdadero regresará.<colortype(0)>"
+    }
+  ]
+}

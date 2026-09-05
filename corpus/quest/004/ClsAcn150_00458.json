@@ -1,0 +1,128 @@
+{
+  "conversation": "quest/004/ClsAcn150_00458",
+  "questName": "Over the Rails",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_00",
+      "hash": "8869D8C9D7D207FD",
+      "target": "Thubyrgeim, maestra del gremio en funciones, aguarda la llegada de los miembros de la partida de inspección."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_01",
+      "hash": "256EFB28F46CC6C6",
+      "target": "Ahora que todos los miembros de la partida de inspección de la Aduana de Mealvaan están reunidos e informados, la inspectora K'lyhia está lista para partir. Reúnete con la inspectora y los mercenarios a las afueras de Puerto Ale y prepárate para abordar el buque mercante <italic(1)>Estrella del Alba<italic(0)>."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_02",
+      "hash": "9008ACE782A84C60",
+      "target": "Para llegar hasta el <italic(1)>Estrella del Alba<italic(0)>, primero debes abordar la pequeña embarcación de transporte amarrada al final del muelle. Habla con el patrón del bote de desembarco y anúnciale la llegada de la partida de inspección."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_03",
+      "hash": "FDEC2EEA7969EE7D",
+      "target": "Has derrotado a los matones enviados a impedir la inspección. Habla de nuevo con el patrón."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_04",
+      "hash": "01385003968550EE",
+      "target": "Has asegurado el muelle para tus compañeros. Dirígete al bote de desembarco y aguarda la llegada de la inspectora K'lyhia y los dos mercenarios."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_05",
+      "hash": "014F4E2D472D0A37",
+      "target": "Tras una descomunal batalla con la tripulación del <italic(1)>Estrella del Alba<italic(0)>, logras llegar ante la escotilla que conduce a la bodega. Pero justo cuando K'lyhia se dispone a comenzar su inspección, se ve de pronto ante el terrible capitán del barco. Con su grimorio arrojado por la borda y el juicio nublado por el espantoso hombre que tiene delante, la inspectora pierde el conocimiento. No te queda más remedio que abandonar la tarea. Regresa al Gremio de Arcanistas e informa a Thubyrgeim de tu fracaso."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_06",
+      "hash": "5BC49656AB7F57A3",
+      "target": "Thubyrgeim te revela que el capitán del <italic(1)>Estrella del Alba<italic(0)> es un pirata desterrado llamado Doesmaga, y que no es la primera vez que la inspectora sufre a sus manos. Aunque K'lyhia no ha sufrido lesiones físicas duraderas, su mente puede necesitar algún tiempo para recuperarse de la conmoción del encuentro. La maestra del gremio en funciones te pide que canalices tus emociones en tu entrenamiento y despejes la mente para tus próximos deberes.<br><br>※La próxima misión de arcanista estará disponible con Thubyrgeim al alcanzar el nivel 20."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_00",
+      "hash": "581172339A19EA2A",
+      "target": "Hablar con K'lyhia a las afueras de Puerto Ale"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_01",
+      "hash": "58E349D0A17656A8",
+      "target": "Hablar con el patrón del bote de desembarco"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_02",
+      "hash": "94AEDC5A293BE519",
+      "target": "Hablar con el patrón del bote de desembarco"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_03",
+      "hash": "D29CD7E4A99D20EE",
+      "target": "Esperar junto al bote de desembarco"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_04",
+      "hash": "109A91594EE7E834",
+      "target": "Informar a Thubyrgeim en el Gremio de Arcanistas"
+    },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_000", "hash": "318AA299CED7AFCE", "target": "Los merrrcenarios Geissfryn y Aersthota han venido a ayudar con la inspección." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_001", "hash": "5B9CF1FF8B14E8B4", "target": "Ambos son veteranos a la hora de escoltar a K'lyhia en sus deberes más peligrosos." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_GEISSFRYN_000_002", "hash": "DA90C843F26D0974", "target": "Bien hallad<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Mis hechizos están a tu disposición." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_003", "hash": "A5E4EBCF10B17502", "target": "No va a ser la primera vez que esperamos jaleo, pero mientras sigamos las tácticas de la inspectora ─y mantengamos la cabeza fría─, saldremos bien parados." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_004", "hash": "694BA6FDCF957C71", "target": "El <italic(1)>Estrella del Alba<italic(0)> se dispone a atracar en Puerto Ale. No obstante, afrontaremos nuestro prrrimer reto antes incluso de subir a bordo." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_005", "hash": "79C3A2A09492C550", "target": "Es casi seguro que el “barco mercante” ha contratado a uno o dos matones para abordarnos en el muelle: calculo la prrrobabilidad en un 98 %. Verás, la tripulación quiere evitar atacarnos en cubierta, pues eso sería casi pregonar sus intenciones criminales a los cuatro vientos." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_006", "hash": "6AA51083E9E1F228", "target": "Ahora bien, una vez logremos franquear las barandillas, nos toparemos con una cubierta abarrotada de marineros armados. Para un grupo pequeño como el nuestro, la estrategia más eficaz será incapacitar a los enemigos de uno en uno lo más rápido posible: cada adversario que derribemos es un arma menos alzada contra nosotros. Es imperativo que no nos dejemos enredar en múltiples escaramuzas prolongadas, no sea que nos veamos desbordados. A esto lo llamo la “Táctica Martillazo”." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_007", "hash": "0EEE4A7A00136BC5", "target": "“La estrrrategia es una herramienta para moldear la propia situación hasta convertirla en la realidad deseada.” Ten presentes esas palabras, <split(<string(gstr1)>, ,1)>. Es hora de partir: reagrupémonos ante las puertas principales de Puerto Ale." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_010", "hash": "6268A85B79584AF9", "target": "Manos a la obrrra. <split(<string(gstr1)>, ,1)>, te ruego que informes al timonel del muelle de que estamos listos para efectuar nuestra inspección." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_011", "hash": "C8DAE9F3A78777A5", "target": "Si se recurre a la violencia, deberás ejecutar la Táctica Martillazo. No lo olvides: tus tácticas son a la vez tu escudo y tu arma." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_012", "hash": "7302DE04D596A0FE", "target": "Por favor, informa al timonel del muelle de nuestra llegada. Toda agresión debe repelerse con la Táctica Martillazo." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_GEISSFRYN_000_013", "hash": "87353DF985FF3B34", "target": "La inspectora estará a salvo con nosotros." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_014", "hash": "FFE4131A5901098A", "target": "¡Contamos contigo pa' abrirnos paso hasta el bote de desembarco!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SENDOU_000_015", "hash": "5F5A4974E9AF8042", "target": "¿Vienes con la gente de la Aduana de Mealvaan? Yo... ¡Ah, maldita sea, <italic(1)>sabía<italic(0)> que habría problemas!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SENDOU_000_016", "hash": "CECC3C230D341A88", "target": "¡E-Estás sol<if(gnum4,a,o)> en esto, <if(gnum4,muchacha,muchacho)>!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SENDOU_000_020", "hash": "65AB272B4A74C0B2", "target": "¡Vaya! Me alegra ver que sabes defenderte. Encontrarás el bote de desembarco ahí abajo, al final de esta rampa. ¡Aunque yo no pienso tomar parte en lo que venga a continuación!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_025", "hash": "60CF024201532357", "target": "Con gran destreza, <split(<string(gstr1)>, ,1)>. Una vez más, me recuerdas a nuestro maestro del gremio." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_026", "hash": "BA9F88332107E2BC", "target": "Gracias a tu eficaz respuesta, podremos comenzar esta inspección antes de lo que había calculado. Abordaremos el navío mercante ahí, en la bahía." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_027", "hash": "45966C3B62D6CFB6", "target": "Aersthota, ¿te encargas del timón? El <italic(1)>Estrella del Alba<italic(0)> nos aguarda." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_31", "hash": "0A9B31E7A7C6C649", "target": "Puesto que su comité de bienvenida en el muelle no logró disuadirnos, prrreveo ─con una probabilidad del 85 %─ que nuestra llegada incitará más belicosidad." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_32", "hash": "DFDFD974C19C91FC", "target": "Nuestro objetivo, no obstante, no es intercambiar golpes, sino acceder a la bodega. Quizá nos convenga emplear la “Táctica Cabezazo”." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_33", "hash": "F2D9032261BFEF87", "target": "El propósito de nuestros adversarios es ganar tiempo para arrojar al mar los bienes sospechosos. No pienso concederles ese tiempo. Nos abriremos paso a la fuerza hacia la bodega de carga lo más rápido que podamos." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_34", "hash": "702ECFEFE68A851C", "target": "Es una táctica plagada de riesgos, pero que tu presencia hace posible. ¿Comenzamos?" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TALK_KLYHIA_000_35", "hash": "AF2ACCAE2CDA7792", "target": "Soy la inspectora jefa K'lyhia. ¡Por la autoridad de la Aduana de Mealvaan, exijo que entreguen sus mercancías para su inspección!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TALK_SUIFU_000_36", "hash": "2F4EDE7C45AC4EDB", "target": "Vaya, vaya, no podíais llegar en peor momento, señorita. La puerta 'e la bodega está toa oxidá, ¿veis? La condená no hay quien la abra. Vais a tener que volver otro día, cuando hayamos arreglao los goznes." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TALK_KLYHIA_000_37", "hash": "D6ABDC4C1001359C", "target": "Veré esa carga <italic(1)>ahora<italic(0)>. Todo navío que entre en un puerto de Limsa Lominsa está obligado por ley a someterse a una inspección rutinaria." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TALK_SUIFU_000_38", "hash": "272705A30C573B93", "target": "¿La ley, dices? Muchachos, me parece que es hora de que nuestros “invitados” sufran un pequeño accidente. ¡Tiradlos por la borda!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_51", "hash": "D981AC022E457F85", "target": "¡Una demostración magistral, <split(<string(gstr1)>, ,1)>! Por fin podemos acceder a su carga." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_52", "hash": "6E511B043FF11657", "target": "¡Uf!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_53", "hash": "5961A5DCF212448D", "target": "¿Qué tenemos aquí? Uno de los perrillos falderos de la zorra de la Almirante, corretean'o por mi barco." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_54", "hash": "CDD114B94E1E271D", "target": "Eres igualito que tu ama: siempre metiendo las narices don'e no te llaman." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_54", "hash": "595408F1B803B646", "target": "N-No... ¡no puede ser!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_55", "hash": "1C9F58364BCBE6CE", "target": "Ja. Has reconocido esta cara bonita, ¿eh?" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_56", "hash": "8317DCBE1C2752C8", "target": "P-Pero... te atraparon... Te desterraron..." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_57", "hash": "5C8EDC86456A2ECC", "target": "¡Inspectora! ¿Estás herida? ¿Puedes levantarte?" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_58", "hash": "0789B380AC5E574F", "target": "¡A-Atrás! ¡Aléjate de mí!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_59", "hash": "144E7DC3F5A83938", "target": "¡Inspectora, por favor, cálmate! ¿Cuáles son tus órdenes?" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_60", "hash": "31EC840BB0F894E6", "target": "Ya me he cansa'o de tus lloriqueos. Y <italic(1)>desde luego<italic(0)> me he cansa'o de estos malditos libros. Está claro que no aprendes na' de ellos." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_61", "hash": "F1308D4D09595AA6", "target": "¡Me parece que es hora de que recibas una lección <italic(1)>distinta<italic(0)>!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_62", "hash": "1A1F7012AEFE3C06", "target": "¡Aaaaaah!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_63", "hash": "28D88C84D4554B36", "target": "¡K'lyhia! ¡Que Nophica nos ampare, se ha desmayado! ¡Debemos retirarnos!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_GEISSFRYN_000_64", "hash": "25E7D24A5495697A", "target": "¡<split(<string(gstr1)>, ,1)>, rápido! ¡De vuelta al bote! ¡Nosotros llevaremos a la inspectora!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_DOSWMAGA_000_65", "hash": "1048CAF6BD43725D", "target": "¡Eso es! ¡Volved arrastrán'oos con vuestra ama, perros inútiles! ¡Gahahahaha!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_69", "hash": "FC9E12A4D99B5CE2", "target": "Nosotros cuidaremos de K'lyhia. Más te vale volver al Gremio de Arcanistas e informar a la señora Thubyrgeim." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_070", "hash": "6D218F1395A89B9D", "target": "Me alegra verte bien, <split(<string(gstr1)>, ,1)>. Geissfryn me avisó de tus penurias. Un giro desafortunado de los acontecimientos, pero dado el infame malnacido al que te enfrentaste, podría haberte ido mucho peor." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_071", "hash": "EF9DAE07D56DB506", "target": "¿Has oído hablar del pirata Doesmaga? Fue desterrado de Limsa Lominsa hace años, pero parece que ha decidido desafiar las órdenes de la Almirante." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_072", "hash": "8C3C443138621DA8", "target": "¡Y una vez más se atreve a ponerle la mano encima a la inspectora K'lyhia! La pobre muchacha debió de quedar aterrorizada. Si hubiera sabido que Doesmaga iba a bordo de ese barco, jamás le habría asignado ese deber." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_073", "hash": "419CD4895C106AE7", "target": "La inspectora quizá necesite algún tiempo para recuperarse: para K'lyhia, ese hombre es una pesadilla hecha carne." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_074", "hash": "C5CFD33BC3E8FE45", "target": "Aunque sus heridas físicas pronto sanarán, poco podemos hacer para aliviar el daño a su mente. ¿Estás preocupad<if(gnum4,a,o)>? ¿Enfadad<if(gnum4,a,o)>, quizá? Aprovecha esa energía y canalízala en tu entrenamiento. Predigo que pronto volveremos a necesitar tus habilidades." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_POP_MESSAGE", "hash": "FBF6BC92FE9A470D", "target": "¡Percibes una presencia hostil!" },
+    {
+      "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_002_TODO_1",
+      "hash": "1E99BE8EEFE363FC",
+      "target": "¡Derrota a la tripulación del <italic(1)>Estrella del Alba<italic(0)>!"
+    },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_01", "hash": "4CF32C02713C0D56", "target": "¡Iniciamos la Táctica Cabezazo!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_02", "hash": "077B629FA7ACB8ED", "target": "¡<split(<string(gstr1)>, ,1)>!<br>¡Es el momento de que brille Topaz Carbuncle!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_06", "hash": "38F739626FF4D52A", "target": "¡Hay que proteger a nuestro sanador por encima de todo!" },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_AERSTHOTA_BATTLETALK_DEAD", "hash": "0EA576E0B84E9898", "target": "Demasiados. Son demasiados..." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_GEISSFRYN_BATTLETALK_DEAD", "hash": "5A81048A73F9D63D", "target": "Debo aprender... a curar... mis propias heridas..." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_QIB_KLYHIA_BATTLETALK_DEAD", "hash": "3C23C0815F47A56D", "target": "Este escenario no era del todo inesperado..." }
+  ]
+}

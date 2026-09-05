@@ -1,0 +1,31 @@
+{
+  "conversation": "custom/001/CmnDefAchievementReward_00107",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_001", "hash": "2B976CE8D4508355", "target": "Hola, jovencito. Qué amable eres al hacerle un poco de compañía a un anciano chocho como yo. Dime, ¿te gustan los relatos? A mí me gusta un buen relato, sobre todo los verídicos contados por quienes los vivieron. Si tienes alguno propio que compartir, soy todo oídos." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q1_01", "hash": "DA892CFD8F01B999", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_01", "hash": "5D2F2458E450CBCC", "target": "Aceptar la recompensa de logro." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_02", "hash": "5E225F3E99C67EA7", "target": "Preguntar por Jonathas." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_03", "hash": "A2D205B55D3A00A4", "target": "Nada." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A1_04", "hash": "D8FD83291FF541EB", "target": "Canjear certificados de logro." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_010", "hash": "3A960A4939A78579", "target": "De joven tuve el honor de trabajar como escriba de la corte. Sí, en los buenos tiempos, cuando mis ojos eran agudos y la familia real aún ostentaba verdadero poder en Ul'dah." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_011", "hash": "DBD11954C54799AA", "target": "No parecía pasar un día sin que el palacio real estallara en un arcoíris de colores con funciones fastuosas y opíparos banquetes. Hoy, en cambio, lo que más me deleita son los relatos verídicos de aventura y arrojo." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_012", "hash": "F3D23A25CC398658", "target": "Si has llevado a cabo alguna gesta de la que te sientas orgulloso, me gustaría mucho que la compartieras conmigo. Puede que hasta te dé algo a cambio." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_013", "hash": "A83E65B686B18198", "target": "Completar ciertos logros te reportará una recompensa, que puedes recoger hablando con Jonathas." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_010_031", "hash": "45B20D68D47AEBCA", "target": "Cada logro completado otorga puntos de logro, y acumular cierta cantidad te reportará un achievement certificate." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_JONATHAS_000_030", "hash": "1F7B9CA3E08C6F4C", "target": "Has llevado a cabo hazañas suficientes para tener a los bardos cantando toda una vida, <if(gnum4,muchacha,muchacho)>. Semejante logro no debería quedar sin reconocimiento, y para eso quiero que tengas esto. Considéralo una muestra de mi más alta estima." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_031", "hash": "116D15C33C0797A6", "target": "Tus puntos de logro acumulados te han hecho merecedor de un achievement certificate." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_032", "hash": "37347483A0D34E24", "target": "Los certificados pueden canjearse por una recompensa especial a tu elección hablando con Jonathas." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_Q4_01", "hash": "DA640115075B3106", "target": "Elige una categoría de logros." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_01", "hash": "8CC0BF668FCDC3E5", "target": "<sheet(AchievementKind,1,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_02", "hash": "846F416ED5B6C559", "target": "<sheet(AchievementKind,2,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_03", "hash": "B95823976323FD69", "target": "<sheet(AchievementKind,3,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_04", "hash": "E5B4055B95E7535D", "target": "<sheet(AchievementKind,4,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_05", "hash": "1B0841AA1DC54859", "target": "<sheet(AchievementKind,5,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_07", "hash": "0AC0074E7E0FFFEA", "target": "<sheet(AchievementKind,8,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_08", "hash": "5462FDC87EABB989", "target": "<sheet(AchievementKind,11,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_09", "hash": "FAF3409A9D44499E", "target": "<sheet(AchievementKind,12,0)>." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_TERREMIAUX_A4_10", "hash": "B7105CE8118271C5", "target": "Cancelar." },
+    { "gameKey": "custom/001/CmnDefAchievementReward_00107#TEXT_CMNDEFACHIEVEMENTREWARD_00107_SYSTEM_000_041", "hash": "CFB4BFE092B1FC6D", "target": "Las recompensas también pueden canjearse directamente desde el menú Achievements, en la sección Character del menú principal." }
+  ]
+}

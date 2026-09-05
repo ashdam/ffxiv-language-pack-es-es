@@ -1,0 +1,381 @@
+{
+  "conversation": "quest/048/KinGmb102_04881",
+  "questName": "Lending a Helphand",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_00", "hash": "7EFD126C6D8696EC", "target": "Rakorok necesita ayuda para entender al juravasijas Kaahe." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_01", "hash": "80A704A4911C4336", "target": "Rakorok se ha visto al cargo del juravasijas Kaahe, pero no tiene ni idea de qué podría querer o necesitar el artesano para estar más a gusto en Earthenshire. Tras advertir de que los ayudamanos no interpelan directamente a los juravasijas, el atareado Moblin os pide a ti y a Wuk Lamat que observéis a Kaahe e intentéis averiguar sus deseos." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_02", "hash": "8064287E429F1D42", "target": "Entras en el taller y adviertes varias cosas que podrían estar afectando a la capacidad de Kaahe para concentrarse en su trabajo. Tras echar un buen vistazo, tú y Wuk Lamat volvéis a salir para compartir vuestras observaciones con Rakorok." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_03", "hash": "18E4061257EB948D", "target": "Wuk Lamat señala tres factores que probablemente estén entorpeciendo la labor creativa de Kaahe. El primero son las comidas ardientes del artesano, que un Hhetsarro cualquiera no apreciaría y de las que Wuk Lamat hablará con el cocinero de los Moblin. El segundo es el estado de las herramientas de Kaahe, un descuido que Rakorok se alegra de corregir. El tercero tiene que ver con el sofocante calor del interior del Workpot, que se te encarga aliviar rescatando un «draftyshard» de los restos de barcos cercanos. Según Rakorok, deberías poder divisar el túnel que lleva a los bajíos en cuestión justo a las afueras de la aldea." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_04", "hash": "B4ABA774158607F4", "target": "Tu búsqueda de la entrada del túnel se ve interrumpida un momento por Koana y Thancred, que han salido a recoger hierbas para tratar a los Moblin heridos. Reflexionando sobre la delicada situación de Earthenshire, Koana parece preocupado por cómo la tecnología sharlayana podría mejorar la vida de su pueblo. Cuando ambos se marchan, no tardas en distinguir el paso rocoso que buscabas, al sureste de la aldea, tal como describió Rakorok." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_05", "hash": "891F90094BE56612", "target": "Vadeas los bajíos y recoges un cristal de aspecto de viento de entre los restos esparcidos por la zona. Con el «draftyshard» en la mano, ya puedes volver a Earthenshire, donde te espera Rakorok." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_06", "hash": "7BACB35DAFC47377", "target": "Reanimado por vuestras ofrendas de buena comida, herramientas nuevas y una brisa reconfortante, Kaahe se pone de inmediato a crear una exquisita lámpara de aceite. Entonces llega Koana para informar a Wuk Lamat del inminente comienzo de la prueba y no puede evitar quedar impresionado por el trabajo del juravasijas. Rakorok, por su parte, también parece muy satisfecho con el drástico cambio de actitud de Kaahe." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_07", "hash": "E7D00A66D7071444", "target": "Wuk Lamat coincide con el agradecido Rakorok en que es importante saber todo lo posible sobre la gente a la que quieres ayudar. Con esa lección reciente, os preparáis para afrontar la inminente Prueba de las Vasijas." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_00", "hash": "0EBE6D1BE7442E65", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_01", "hash": "863A691E4AF47E30", "target": "Hablar con Rakorok" },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_02", "hash": "AF5E6061C6576D8C", "target": "Otear en busca de un túnel desde el punto de observación" },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_03", "hash": "8C7C8D1E540AD5B6", "target": "Buscar un draftyshard" },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_04", "hash": "C381094A2AF6E3C8", "target": "Entregar draftyshard a Rakorok" },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_TODO_05", "hash": "6F31CDFD57865565", "target": "Hablar con Rakorok" },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_001",
+      "hash": "0895918B7E08A6C0",
+      "target": "Primero resolvemos este problema a los Moblin y luego vemos lo de completar su prueba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_003",
+      "hash": "35F30DCB9674C120",
+      "target": "Ffff... Ffffkooo... Lo que Rakorok necesita son manosayuda nuevas que creen buenvivir para el juravasijas Kaahe."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_004",
+      "hash": "36E8CD4FC9B61A1A",
+      "target": "La manoayuda asignada a Kaahe se hirió durante la lluviarrocas, así que Rakorok tomó el relevo... pero no sabe nada de Kaahe."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_005",
+      "hash": "BC61CC371FDCFF9A",
+      "target": "¿Qué quiere Kaahe? ¿Qué necesita Kaahe? ¡Las manosayuda no molestan a los juravasijas con preguntas derechas! Nuestro trabajo es observar y anticipar, ¡preparar las cosas con adivinapensar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_006",
+      "hash": "60885CDB81109A2D",
+      "target": "Por favor, adivinapensad con Rakorok. ¡Averiguad qué le falta a Kaahe para que podamos dárselo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_007",
+      "hash": "6ADD99DCCAE553DD",
+      "target": "¡Cuenta con nosotros!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_009",
+      "hash": "79C184D29D306B81",
+      "target": "Kaahe es solo uno de muchos juravasijas que necesitan cuidados. Trabajamos toda la noche sin dormir ni descansar, ¡pero somos muy pocos para tanto!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_100_010",
+      "hash": "B7ADF7A75321C439",
+      "target": "Aquí es donde trabaja Kaahe, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_200_010",
+      "hash": "D4433102B19462E6",
+      "target": "Pues echemos un vistazo dentro."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_010",
+      "hash": "F93DBFCA5CEF5E47",
+      "target": "Ese debe de ser Kaahe. Sería mucho más rápido si pudiéramos hablar con él, pero por lo visto aquí no se hacen así las cosas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_011",
+      "hash": "9D2A91B789319555",
+      "target": "Tendremos que dejarlo en paz y probar suerte con eso del “adivinapensar”."
+    },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_012", "hash": "7044D966173950D4", "target": "Observa el taller. Puedes mover la cámara y acercar o alejar el zoom. Fija un punto de interés y examínalo con más detalle con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_021",
+      "hash": "7EBD40BFAE0B5ECA",
+      "target": "Vale, tras mirarlo todo bien, creo que me hago una idea de qué cosas querría Kaahe para mejorar sus condiciones de trabajo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_022",
+      "hash": "CC1DDF23771DF500",
+      "target": "Volvamos fuera a hablar con Rakorok."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_024",
+      "hash": "E7FD16206FC6533C",
+      "target": "¡Venga, contémosle a Rakorok lo que hemos observado!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_025",
+      "hash": "AAF45DE7CB1EE033",
+      "target": "Ffff... Kooo... ¿Habéis hecho vuestras observaciones? ¿Qué habéis adivinapensado?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_026",
+      "hash": "7210F211833ACF30",
+      "target": "Lo primero, me fijé en que Kaahe no ha tocado la comida, y con el estómago vacío no se concentra uno bien."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_027",
+      "hash": "2737CA4CA41B86A2",
+      "target": "¿Quizá la cocina no es de su gusto?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_028",
+      "hash": "7DF020C8D871D633",
+      "target": "¡Pero nuestra comida es muy bocagusta! ¿Por qué no querría comerla?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_029",
+      "hash": "58EEA66D0C11CF06",
+      "target": "¡Ay, pero Rakorok no está seguro de nada en cuanto a los gustos de Kaahe!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_030",
+      "hash": "474EA38AABAC7123",
+      "target": "En eso puedo ayudarte. Mi hermano Koana también es Hhetsarro y, aunque cada cual tiene sus preferencias, hay algunas que suelen compartir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_031",
+      "hash": "C174303B683FEA5F",
+      "target": "Como la aversión a los platos ardiendo. Si se lo llevaron así, Kaahe seguramente no pudo comer hasta que se enfriara y, al volver a él, lo encontró frío y poco apetecible."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_032",
+      "hash": "550BFCEB30433D03",
+      "target": "¡La solución más simple es servir platos que sepan bien a cualquier temperatura!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_033",
+      "hash": "706EBF1FB9ADA378",
+      "target": "¡A Rakorok nunca se le habría ocurrido! ¿Le importaría a la Tercera Promesa explicarle estas cosas a nuestro cocinero?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_034",
+      "hash": "E0C3EEB9FEDA09FD",
+      "target": "En absoluto. Pero no creo que esa fuera la única razón de que Kaahe no se concentrara."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_035",
+      "hash": "5A683ED2B22D4866",
+      "target": "La tierra Hhetsarro es cálida y seca, pero hasta Kaahe parecía sufrir delante de ese horno. ¿Hay algún modo de refrescar el taller?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_036",
+      "hash": "652E0D8AEE8674E3",
+      "target": "Ah, podríamos probar con un cristalbrisa. ¡Dan una brisa deliciosa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_037",
+      "hash": "982FE382E9E70615",
+      "target": "¿Sabes dónde podemos conseguir uno?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_038",
+      "hash": "FEE19FD51FD6F5B9",
+      "target": "Podéis recogerlos en los Arrecifes sin Retorno. Hay allí muchos barcos viejos, abandonados por quienes renunciaron a buscar la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_039",
+      "hash": "483A05A7B819B65F",
+      "target": "Así que los rescatamos de los pecios. ¿Podrías encargarte tú, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_040",
+      "hash": "99F28277B56EBFA6",
+      "target": "Ah, y una cosa más. Por lo que vi, las limas y sierras de Kaahe estaban muy gastadas. ¿Quizá tocaría un juego de herramientas nuevo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_041",
+      "hash": "514CF6C4B93FA1B4",
+      "target": "¡Aaah! ¡Rakorok estaba demasiado ocupado acopiando materiales, un descuido serio que corregirá! ¡Suministrar buenas herramientas para el buenvivir es responsabilidad de una manoayuda!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_042",
+      "hash": "80292EC9E8B1912A",
+      "target": "¡Pues todos tenemos trabajo! Nos vemos aquí cuando acabemos nuestras tareas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_043",
+      "hash": "076F5AFA99ECDCAA",
+      "target": "¡Los Arrecifes sin Retorno están pasados los peñascos, por un túnel al sureste! ¡Deberías ver el paso nada más salir de la aldea!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_045",
+      "hash": "1648D75384D1FA39",
+      "target": "Eres <split(<string(gstr1)>, ,1)>, ¿verdad? ¿Qué te trae por aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_046",
+      "hash": "E5803C7947F0BBEA",
+      "target": "Ah, el asunto de cuidar a los juravasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_047",
+      "hash": "070FCB37809F899A",
+      "target": "Cuando me plantearon ese mismo problema, sugerí que encargaran el trabajo a artesanos de Sharlayan. La calidad estaría garantizada, al fin y al cabo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_048",
+      "hash": "17292320EF111B7E",
+      "target": "Sin embargo, a los Moblin no les gustó la idea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_049",
+      "hash": "9792FC033FA1D6F0",
+      "target": "Sin duda sería más eficaz recurrir a un colectivo formado de manera uniforme. No entiendo su fijación con los contratos individuales..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_THANCRED_000_050",
+      "hash": "913CD89FB0F24C83",
+      "target": "Quizá la costumbre cobre más sentido en cuanto empecemos la Prueba de las Vasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_THANCRED_000_051",
+      "hash": "E883ABF89313894A",
+      "target": "Hasta entonces nos han considerado poco aptos para ayudar en lo de las “manosayuda” y nos han encargado atender a los heridos. De hecho, volvíamos de conseguir hierbas para Urianger."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_052",
+      "hash": "8127B5F6BDA4201A",
+      "target": "Los asentamientos de Kozama'uka también han quedado aislados por la destrucción de la tormenta. ¿Qué habría sido de los heridos si no hubiéramos encontrado el modo de llegar?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_053",
+      "hash": "340E346492BC92FC",
+      "target": "Si llego a ser Servidor del Alba, uno de mis primeros actos será establecer rutas comerciales fiables con la capital. Cuando imagino cuánto bien podemos hacer con tecnología de Sharlayan..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_054",
+      "hash": "DB57C23B294A2225",
+      "target": "Disculpad, tengo mucho en que pensar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_055",
+      "hash": "C09B7ABCF44488EE",
+      "target": "Si nos disculpáis."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_THANCRED_000_056",
+      "hash": "D88A9A0FB71AB039",
+      "target": "Nos volveremos a ver pronto, seguro. Cuídate, <split(<string(gstr1)>, ,1)>."
+    },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_057", "hash": "82C0A1A9BCB988E9", "target": "Divisas la boca del túnel. Cruza el pasadizo hasta los Shoals of No Return y recupera el «draftyshard»." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_058", "hash": "58B52AB9ED18DB69", "target": "Esta esquirla cristalina está ligeramente caliente al tacto. No parece ser el wind crystal que buscas." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_059", "hash": "91536B363F33EAFB", "target": "Esta esquirla cristalina se nota húmeda en la mano. No parece ser el wind crystal que buscas." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_100_059", "hash": "9515579FC0EFC92D", "target": "Esta esquirla cristalina emana un suave susurro de viento. Parece que has encontrado el cristal que Rakorok te mandó rescatar." },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_200_059",
+      "hash": "214D1BD52738904E",
+      "target": "Ffff... Ffffkooo... ¿Es una brisa fresca lo que siente Rakorok?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_060",
+      "hash": "0EFBB69509F0F800",
+      "target": "¡Sí! ¡Gracias por buscahallar un cristalbrisa! Rakorok lo añadirá al juego de herramientas nuevas que ha traído."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_061",
+      "hash": "DD0AE2E1665CE2CC",
+      "target": "¡Y yo traigo buenas nuevas de comida! El cocinero ha preparado un festín digno del Hhetsarro más exigente, ¡y viene de camino mientras hablamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_062",
+      "hash": "3E743747DBA85792",
+      "target": "Entremos a ver qué le parecen a Kaahe nuestros esfuerzos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_063",
+      "hash": "A2B6D82150E27BE0",
+      "target": "Me preguntaba qué ocasión merecía tantas visitas..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_064",
+      "hash": "206611E995228733",
+      "target": "Una buena comida, herramientas nuevas y una bienvenida fuente de aire fresco: ¡ahora recuerdo por qué firmé un pactovasija!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_065",
+      "hash": "CCAF131A70EDA8B5",
+      "target": "Os agradezco vuestras amables atenciones. Dadme un momento o dos y os corresponderé con una pieza digna de un juravasijas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_066",
+      "hash": "19DE48B18C155523",
+      "target": "Una lámpara de aceite para alumbrar los salones de Vollok Shoonsa. La factura satisface la fama de calidad de Earthenshire, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_067",
+      "hash": "6DBC59E6D136A73F",
+      "target": "Ffff... Kooo... ¡Qué lustre! ¡Qué brillo! ¡Un regalo digno del Servidor del Alba de verdad!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_068",
+      "hash": "8EDEA280B7737E19",
+      "target": "Me alegra que os guste. Visto el tiempo que he perdido hasta ahora, espero seguir creando a este ritmo mejorado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_069",
+      "hash": "BFD49018C261DDC5",
+      "target": "¡Para eso firmé un contrato, al fin y al cabo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_070",
+      "hash": "F0C480DB7A99BD48",
+      "target": "Perdonad la interrupción."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_071",
+      "hash": "082350CC00B472B7",
+      "target": "Lamaty'i, me dicen que la electora considera pasada la crisis y está lista para encomendarnos la prueba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_072",
+      "hash": "75F8D21EF6CE505E",
+      "target": "¡Estupenda noticia! ¡Gracias por avisarme!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_073",
+      "hash": "900DF38F14294F78",
+      "target": "Así que esta es la obra de un juravasijas. Es en verdad una pieza magistral."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_074",
+      "hash": "82D639E3458D09A0",
+      "target": "Gracias por vuestras palabras de elogio, Segunda Promesa. Me inspiré en la belleza natural de Kozama'uka y busqué capturarla en mi trabajo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_075",
+      "hash": "E9A733E1A7A31783",
+      "target": "Me preguntaba por qué los Moblin no montaban sin más un taller en la ciudad, y ahora tengo la respuesta..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_076",
+      "hash": "A16EC5C0F25723EC",
+      "target": "Ni los orfebres de Sharlayan podrían replicar con facilidad semejante arte."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_077",
+      "hash": "913F13CB35371582",
+      "target": "No se crean grandes cosas si falta el impulso creativo. Tuliyollal, por fortuna, no anda escasa de inspiración. Quien quiera aprender los fundamentos de un oficio hará bien en estudiarlo allí."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KAAHE_000_078",
+      "hash": "9CFFE0DA1C9917C3",
+      "target": "Me crie entre Hhetsarro más tradicionales que la mayoría, y el ingenio compartido de los distintos pueblos de Tural me abrió los ojos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_079",
+      "hash": "5764923996A1F42E",
+      "target": "¿Vivisteis como un Hhetsarro tradicional? Yo guardo pocos buenos recuerdos de la vida nómada..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_085",
+      "hash": "E927F3B7C336DABA",
+      "target": "Probé una ración del plato que preparamos para Kaahe. ¡Estaba tan bueno que repetí!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_086",
+      "hash": "0E66E2993B1FF5AB",
+      "target": "Ojalá pudiera olvidar aquella época..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_087",
+      "hash": "2CB683FE246AE95C",
+      "target": "Ffff... Ffffkooo... ¡Rakorok os está muy agradecido!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_088",
+      "hash": "9443651CED893CBD",
+      "target": "Os agradezco tanto el trabajo duro como el ingenioso adivinapensar. ¡Cuando se trata de manoayudar, conocer a los juravasijas sí que importa!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_089",
+      "hash": "E2DF4DFF225683D5",
+      "target": "Bueno, eso vale para casi cualquiera que conozcas. Es una lección que me han metido a martillazos varias veces ya en este viaje."
+    }
+  ]
+}

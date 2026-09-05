@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/006/SubWil500_00638",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_00", "hash": "9D6BC80F0C5270F0", "target": "Swynbroes desea difundir los secretos de la creación de materia." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_01", "hash": "1788FF63C2B4A298", "target": "En la Hoguera, Swynbroes se ofrece a enseñarte a extraer materia de equipo muy usado. Habla de nuevo con él para comenzar tu aprendizaje." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SEQ_02", "hash": "C843754FD487DD19", "target": "Ya estás <if(gnum4,instruida,instruido)> en las artes de la extracción de materia. Pon en práctica lo aprendido y extrae materia de una vieja pieza de equipo." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_TODO_00", "hash": "1F770C17B0A9296A", "target": "Hablar con Swynbroes" },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_000", "hash": "76D7A8D86C4AC882", "target": "¿Qué diría si le dijera que los objetos inanimados pueden poseer un alma? Pues pueden, aunque le cueste creerlo, si bien el alma en cuestión no es la suya propia, sino la de su <italic(1)>dueño<italic(0)>." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_001", "hash": "BC6CCC4840BB1164", "target": "Mediante un servicio fiel, las armas y armaduras que empleamos llegan a albergar nuestra energía espiritual. Así es como formamos un <italic(1)>vínculo espiritual<italic(0)> con ellas." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_002", "hash": "B1CE4E2AF462370B", "target": "Esta energía espiritual puede extraerse y convertirse en materia, un tipo especial de cristal que puede engarzarse en el equipo para mejorar sus propiedades." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_003", "hash": "61AAA79180150464", "target": "Estoy muy versado en las artes de la extracción de materia. Si desea aprender más sobre el proceso, será un placer enseñarle." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_010", "hash": "24C4E154FC32119C", "target": "¿Está <if(gnum4,lista,listo)> para comenzar su aprendizaje? Bien. Como ya habrá deducido, la materia es la forma cristalizada de la energía espiritual de cada uno." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_011", "hash": "627EBED364274E2D", "target": "Como esta energía se deriva de la psique de un individuo (una bestia voluble en el mejor de los casos), cabe esperar cierta variabilidad en su producción. En la práctica, esto significa que no conocerá las propiedades exactas de una piedra hasta que la sostenga en la mano." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_012", "hash": "BB668E319F218D1A", "target": "Ahora bien, la materia por sí sola no le concederá gran cosa. Su poder debe canalizarse, ¿comprende?, y eso se logra engarzándola en el equipo. Sepa, no obstante, que hacen falta las manos diestras de un artesano para engarzar materia." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SWYNBROES_013", "hash": "89A31ABC91790EC4", "target": "Siempre puede buscar a otros para que engarcen la materia por usted, pero si prefiere hacerlo <if(gnum4,usted misma,usted mismo)>, le recomiendo que hable con F'hobhas. El engarce es <italic(1)>su<italic(0)> especialidad." },
+    { "gameKey": "quest/006/SubWil500_00638#TEXT_SUBWIL500_00638_SYSTEM_014", "hash": "22EB495213FCF6F2", "target": "Si deseas retirar la materia de un objeto, resalta su icono y selecciona Retrieve Materia. Existe la posibilidad de recuperar la materia." }
+  ]
+}

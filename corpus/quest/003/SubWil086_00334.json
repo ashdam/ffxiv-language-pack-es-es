@@ -1,0 +1,57 @@
+{
+  "conversation": "quest/003/SubWil086_00334",
+  "questName": "Storms on the Horizon",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_000",
+      "hash": "70E8841FBEAD8C7A",
+      "target": "¡Eh, aventurero! ¿Te importaría llevarnos un recado a la Cala del Creciente?"
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_001",
+      "hash": "3516F9C2ABAC77E6",
+      "target": "Verás, el capitán Baldewyn está preparando una celebración para los taumaturgos, y quiere agasajarlos con la mejor comida y bebida. Solo lo mejor para nuestros distinguidos invitados, ¿eh?"
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_NUNUZOFU_002",
+      "hash": "740186E941C3E93B",
+      "target": "Ve hacia el suroeste, al pueblo, y dile a Raffe que ha de entregar una buena remesa de pescado fresco en Horizon para el banquete."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_010",
+      "hash": "1545209B3765452D",
+      "target": "¿P-pescado fresco para el capitán Baldewyn? ¡Por supuesto, <italic(1)>por supuesto<italic(0)>! Haremos cuanto podamos, <if(gnum4,señora,señor)>."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_011",
+      "hash": "2646FEF1629161BC",
+      "target": "P-por desgracia, estos días la pesca ha sido pobre por lo bravo del mar. Pronto deberían volver más barcas, pero no puedo prometer que su captura sea de su agrado."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_RAFFE_012",
+      "hash": "32E3B452E29C15BC",
+      "target": "¡Pero no se preocupe, <if(gnum4,señora,señor)>! ¡El capitán tendrá su pescado! ¡Se lo juro!"
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_00",
+      "hash": "38544DB0A46BE483",
+      "target": "Nunuzofu quiere que lleves un recado a la Cala del Creciente."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_01",
+      "hash": "30DFF4BBD8242AC9",
+      "target": "El capitán Baldewyn desea celebrar un banquete para un grupo de taumaturgos de visita. Para el plato principal necesita pescado fresco de la Cala del Creciente. Nunuzofu te pide que transmitas la petición del capitán a Raffe, el pescador."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_SEQ_02",
+      "hash": "11565142BAAE3485",
+      "target": "Aunque los pescadores de la Cala del Creciente han tenido una mala racha estos días, Raffe jura que el capitán tendrá su pescado. Tu cometido en el pueblo ha concluido, pero la nerviosa reacción de Raffe ante la petición del capitán Baldewyn te ronda la cabeza. Quizá deberías hablar con otros habitantes de la Cala del Creciente por si algo va mal."
+    },
+    {
+      "gameKey": "quest/003/SubWil086_00334#TEXT_SUBWIL086_00334_TODO_00",
+      "hash": "34F3A832240A0181",
+      "target": "Hablar con Raffe en la Cala del Creciente"
+    }
+  ]
+}

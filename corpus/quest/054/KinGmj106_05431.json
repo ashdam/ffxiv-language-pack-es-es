@@ -1,0 +1,135 @@
+{
+  "conversation": "quest/054/KinGmj106_05431",
+  "questName": "In Her Heart",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_SEQ_00", "hash": "3D085FDC0759DF1E", "target": "Eyaney parece preocupada por Krile." },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_TODO_00", "hash": "66289268A5116170", "target": "Buscar a Krile en el lugar indicado" },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_TODO_01", "hash": "58F5489A1B9043A5", "target": "Hablar con el vecino afable" },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_TODO_02", "hash": "5E1FE75459F1BE71", "target": "Hablar con Krile" },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_TODO_03", "hash": "09F2DB74E0E4E83C", "target": "Volver a hablar con Krile" },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_TODO_04", "hash": "33DE4183F9A06DFD", "target": "Hablar con Eyaney" },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_100_001",
+      "hash": "74BA2421F1615798",
+      "target": "Los invitados siempre son bienvenidos en Treno. ¡Espero que la estancia les resulte agradable!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_EYANEY_000_001",
+      "hash": "A3C45578BD8FA281",
+      "target": "Krile está tardando... Como no conoce la ciudad, si le pasara algo no sabría adónde acudir."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_EYANEY_000_002",
+      "hash": "5D9A2A7101CA5D5C",
+      "target": "¿Podrías ir a ver cómo está? Salió en dirección al ayuntamiento."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_EYANEY_000_011",
+      "hash": "EC743295B87FDB04",
+      "target": "Por suerte puedo confirmar que no corre peligro inmediato: acabo de poner el detector en marcha otra vez y no ha captado ninguna señal nueva."
+    },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_SYSTEM_000_021", "hash": "114C1D66DA1F509A", "target": "Aunque hay varias personas de baja estatura por aquí, ninguna parece ser Krile." },
+    { "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_SYSTEM_000_022", "hash": "688B73531F37D786", "target": "Quizá alguna de ellas la viera pasar..." },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_031",
+      "hash": "59B791C7587346D9",
+      "target": "Se le ve un poco <if(gnum4,perdida,perdido)>, <if(gnum4,muchacha,muchacho)>. ¿Puedo ayudarle en algo?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_Q1_000_032",
+      "hash": "94361064A713F6D0",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_A1_000_001",
+      "hash": "AFF1ECF9BD198A98",
+      "target": "¿Ha visto a una mujer con capucha amarilla?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_A1_000_002",
+      "hash": "596D51461C7873C4",
+      "target": "Busco a una amiga mía Milalla..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_033",
+      "hash": "A11B6FEFE6B99104",
+      "target": "¿Una Milalla? He visto unas cuantas hoy, je. Pero si es amiga suya..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_034",
+      "hash": "D02D20EFF84ADE45",
+      "target": "Supongo que se refiere a Krile. Hemos tenido una buena charla hace un rato."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_035",
+      "hash": "DF0CE1074FF43CB9",
+      "target": "¡Y encima me salvó el pellejo! No me puedo creer que no viera ese lightning sprite hasta que lo tuve encima..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_036",
+      "hash": "790EE654245A6E86",
+      "target": "Gracias a ella salí sin un rasguño."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_037",
+      "hash": "27A2EF4E420CAEC2",
+      "target": "Un poco incómodo, ponerse a charlar después de eso. Y hacía tiempo que no hablaba con alguien a quien no conociera de toda la vida..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_038",
+      "hash": "87457364398269A7",
+      "target": "Es una muchacha amable. Sabe poner a la gente a gusto, como Miayli. Disfruté bastante contándole cosas de la ciudad."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_039",
+      "hash": "D65150871975EB44",
+      "target": "Cuando terminamos de hablar, se fue hacia el canal. Aunque tenía un aire melancólico y no supe por qué..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_040",
+      "hash": "23902C2FBC96BF04",
+      "target": "No creí que fuera por algo que yo hubiera dicho, pero, si lo era, sabía que hablar más no ayudaría. Así que la dejé marchar."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_041",
+      "hash": "E744122B14946A15",
+      "target": "Me da que ahora agradecería la compañía de un buen amigo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_RESIDENT05431_000_051",
+      "hash": "B7F5D9EBAB707558",
+      "target": "Buen sitio para pensar, ese canal. Quizá por eso fue hacia allí."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_KRILE_000_061",
+      "hash": "27EBA7388CDA5A22",
+      "target": "Gracias por escucharme. Ahora me da un poco menos de miedo enfrentarme a la respuesta, sea cual sea."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_KRILE_000_062",
+      "hash": "42A2F2BEA17F2253",
+      "target": "Y cuando la encuentre, espero que estés ahí."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_KRILE_000_063",
+      "hash": "048AE2D40FE3D3F3",
+      "target": "...Pero ya hemos hecho esperar bastante a Eyaney. Volvamos deprisa."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_KRILE_000_071",
+      "hash": "ABD7A2599BEC0116",
+      "target": "Por nimio que fuera, creo que el trabajo que hemos hecho me ha ayudado a entender mejor Treno. Al fin y al cabo, son los incontables gestos pequeños de muchísima gente cada día los que hacen que un lugar sea lo que es."
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_EYANEY_000_081",
+      "hash": "7980A4679BD9B965",
+      "target": "¡Me alegro de que hayáis vuelto sin un rasguño!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj106_05431#TEXT_KINGMJ106_05431_EYANEY_000_082",
+      "hash": "2B9EAA924DBE5876",
+      "target": "Ahora podemos descansar hasta que vuelva mi hermano. Con vuestro amigo escoltándolo no puede meterse en muchos líos... salvo que vuelva a caerse por las escaleras de la ciudad, supongo."
+    }
+  ]
+}

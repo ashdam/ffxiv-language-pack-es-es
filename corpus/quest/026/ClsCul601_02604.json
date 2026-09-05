@@ -1,0 +1,64 @@
+{
+  "conversation": "quest/026/ClsCul601_02604",
+  "questName": "Flavors of the Far East",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SEQ_00",
+      "hash": "F7553BF614BE7278",
+      "target": "Lyngsath tiene un visitante que querría presentarte."
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SEQ_01",
+      "hash": "A09259A5DF9FA589",
+      "target": "Lyngsath te recibe con la noticia de que ha venido alguien que desea conocer al cocinero más laureado del gremio: tú mismo. Como tú, el individuo en cuestión es aventurero y cocinero, y por ello te ve como una inspiración. Dirígete a la zona de comedor del Bismarck y busca a un hombre llamado Raulf."
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SEQ_02",
+      "hash": "280DA44C19ADECC6",
+      "target": "Raulf te cuenta sus esfuerzos por ser a la vez aventurero y cocinero, pero compaginar dos carreras le ha dado resultados mediocres. Reconociendo sus límites, ha resuelto centrarse puramente en las artes culinarias y ha aceptado un puesto en el café de Rowena. Para distinguirse en esta atestada profesión, pretende incorporar platos del Lejano Oriente al menú y atender a la población domana local. Sin embargo, admite que no es tarea fácil dominar una cocina extranjera, y por eso ha acudido a ti en busca de ayuda. Si estás dispuesto a prestar tu experiencia, dirígete al Peaje del Aparecido y busca a Raulf en la Casa de los Esplendores de Rowena."
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SEQ_03",
+      "hash": "20135EAB76E11F64",
+      "target": "Raulf está entusiasmado de que hayas aceptado ayudarlo. Usando sus contactos, averiguará qué desean comer los domanos del lugar. Hasta que identifique un plato prometedor que probar, sigue aplicándote en tu oficio, preparado para adentrarte en lo culinariamente desconocido.<br><br>※La próxima misión de cocinero estará disponible con Raulf al alcanzar el nivel 63."
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_TODO_00",
+      "hash": "BE13E4EF01FA7451",
+      "target": "Hablar con Raulf"
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_TODO_01",
+      "hash": "0E7679E59BB2627C",
+      "target": "Hablar con Raulf en el Peaje del Aparecido"
+    },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_LYNGSATH_000_000", "hash": "B6D9C2E7A5284E0C", "target": "Ah, justo a tiempo, <if(gnum4,chica,chico)>. Ha venido alguien que quiere conocer a <if(gnum4,nuestra cocinera más laureada,nuestro cocinero más laureado)>.<br>...Ese eres <italic(1)>tú<italic(0)>, so memo." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_LYNGSATH_000_001", "hash": "C33DEDD1FB5D8ADF", "target": "Modestia asquerosa aparte, tu visitante dice que es un aventurero que se metió a cocinar por ese lado, no muy distinto de ti. Por eso, te ve como una especie de inspiración." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_LYNGSATH_000_002", "hash": "22441678BF7E57C8", "target": "En fin, sé bueno y ve a saludarlo, ¿quieres? Lo encontrarás por la zona del comedor, un tipo fornido que se llama Raulf." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_LYNGSATH_000_005", "hash": "CE6F1025BD593189", "target": "Tu visitante está por la zona del comedor, un tipo fornido que se llama Raulf. Sé bueno y ve a saludarlo." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_010", "hash": "84B1D04A7B4A4FF9", "target": "¡Por Rhalgr, es usted de verdad! ¡<if(gnum4,La famosa,El famoso)> <string(gstr1)> en carne y hueso!" },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_011", "hash": "04B21B6590DF956D", "target": "Primero supe de usted por sus hazañas como aventurer<if(gnum4,a,o)>, y ya me quedé bastante impresionado. ¡Pero luego me enteré de que además era <if(gnum4,una cocinera de renombre,un cocinero de renombre)>, y supe que tenía que conocerle sí o sí!" },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_012", "hash": "3714584EEFADC686", "target": "Verá, durante un tiempo yo también intenté abrirme camino como aventurero y cocinero a la vez, pero pronto se hizo evidente que estaba repartiendo demasiado mi limitado talento." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_013", "hash": "69154A9F85EFB2DB", "target": "Así que decidí decirle adiós a la vida de aventurero y acepté un puesto en el café de la señora Rowena, en el Peaje del Aparecido." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_014", "hash": "B29AD6E85B249ED9", "target": "La cosa es que, con distracciones o sin ellas, no es fácil triunfar como cocinero. Es una profesión abarrotada, como sin duda sabrá apreciar, y, si quiero hacerme un nombre, no puedo cocinar lo mismo que cocinan todos los demás. No: necesito adentrarme en territorio inexplorado." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_015", "hash": "B59477300429629E", "target": "Con ese fin, se me ocurrió una idea brillante. ¡Incorporaría platos del Lejano Oriente a nuestra carta y atendería a los residentes domanos del Peaje del Aparecido! Prometedor, ¿verdad? ¡Verdad!" },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_016", "hash": "F4976FA11E2100B9", "target": "La cosa es que, idea brillante o no, no es fácil aprender una cocina extranjera, y la del Lejano Oriente es de lo más extranjero que hay. Está claro que voy a necesitar ayuda, y de la clase que ha viajado mucho. Así que decidí recurrir <if(gnum4,a la cocinera aventurera más consumada,al cocinero aventurero más consumado)> que conozco: usted, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_017", "hash": "15073E77994DC1EE", "target": "Ahora bien, entiendo que es usted <if(gnum4,una mujer muy ocupada,un hombre muy ocupado)> y que acabamos de conocernos. Si dice que no, no se lo tendré en cuenta. Pero, si tuviera la amabilidad de echarle una mano a un colega, le esperaré en el Peaje del Aparecido." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_LYNGSATH_000_019", "hash": "37A7B0FD82635D98", "target": "¿Conque el tipo se dispone a servir platos del Lejano Oriente? Me parece una buena oportunidad para que amplíes tu repertorio. Yo que tú, le echaría una mano a ese tal Raulf." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_020", "hash": "2C821C1B9C0FF388", "target": "¡Ha... ha venido! No me había hecho ilusiones, ¡pero ha venido de verdad! Contar con la ayuda de <if(gnum4,una cocinera consumada,un cocinero consumado)> como usted es un sueño hecho realidad. Gracias a los Doce... y gracias a usted." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_021", "hash": "F7435AC4F399CF2A", "target": "Sin más dilación, ¡pongámonos a cocinar! ...Es lo que me gustaría decir, pero aún tengo que decidir qué plato del Lejano Oriente probar." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_022", "hash": "CBE876FC33D8B6E5", "target": "Si pudiera esperar un poco, averiguaré qué se les antoja a los domanos. Tengo contactos, así que no debería ser difícil, pero, hasta que tengamos el nombre de un plato, siéntase libre de atender sus asuntos." },
+    { "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_RAULF_000_023", "hash": "638813D15BE0DA43", "target": "Una vez más, permítame darle las gracias por su ayuda, <split(<string(gstr1)>, ,1)>. Es un gran honor poder trabajar con la única persona de la historia que ha logrado un diez perfecto en el Dellemont d'Or. Aunque quizá yo no esté a su nivel —ni de lejos—, ¡prometo hacerlo lo mejor que pueda y arrimar el hombro!" },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SYSTEM_000_025",
+      "hash": "03D55B5D538793FF",
+      "target": "La próxima misión de cocinero estará disponible con Raulf al alcanzar el nivel 63."
+    },
+    {
+      "gameKey": "quest/026/ClsCul601_02604#TEXT_CLSCUL601_02604_SYSTEM_000_026",
+      "hash": "A55FADF3FF0D94F0",
+      "target": "Los requisitos para emprender las misiones siguientes pueden consultarse en tu diario."
+    }
+  ]
+}

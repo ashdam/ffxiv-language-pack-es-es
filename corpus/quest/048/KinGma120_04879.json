@@ -1,0 +1,684 @@
+{
+  "conversation": "quest/048/KinGma120_04879",
+  "questName": "For All Turali",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_00", "hash": "0B51E1E655577F8C", "target": "Wuk Lamat se pregunta cómo le irá a Fonjeantaine." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_01", "hash": "7DA32368F79508D0", "target": "A Wuk Lamat le pica la curiosidad por saber si Fonjeantaine cumplirá su propósito de ejercer su oficio en Tuliyollal. Sugiere volver a Wachumeqimeqi para ver si ya ha hablado con Ropli." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_02", "hash": "0B58DDBE1C592B75", "target": "Llegas a tiempo de ver cómo Fonjeantaine reúne el valor y, tras explicarle su situación a Ropli, el orfebre consigue trabajo como artesano en Wachumeqimeqi. Nada más agradecerte tu amable apoyo, recibes una llamada por linkpearl de Erenville. Al parecer ha terminado de hacer los preparativos necesarios para vuestro traslado a la aldea Moblin." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_03", "hash": "049D6571E8099175", "target": "Para consternación de Wuk Lamat, resulta que Erenville ha requisado una gran embarcación con forma de gabarra que ha de ser remolcada por una plácida criatura marina conocida como punutiy. Entonces Koana aparece sin previo aviso, junto a sus colaboradores hasta ahora ocultos: Thancred y Urianger. Tus compañeros Herederos parecen encantados ante la perspectiva de competir contra sus camaradas Arcontes; sin embargo, no es momento para tal competición, pues la Segunda Promesa no viajará por el río. Koana y su séquito no tardan en marcharse, y te dejan preparándote para los posibles peligros de un viaje por Ihuykatumu.<br><br>※Para reclutar a tus PNJ acompañantes para esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si quieres completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_04", "hash": "1005EACE4CCE7B96", "target": "La contienda te lleva ahora a Kozama'uka. Pero lo que os aguarda en la travesía por el río está por ver..." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_05", "hash": "5766414A66B3F4D8", "target": "Vuestros planes para defender la barcaza no tardan en ponerse a prueba cuando Bakool Ja Ja suelta criaturas salvajes desde su propia gabarra para acosaros y hostigaros. Irritado por vuestra destreza, el de dos cabezas dirige entonces su atención al punutiy, hiere a la criatura y daña la proa de la embarcación. Así, Erenville se ve obligado a varar el barco mientras tú te adelantas a explorar.<br><br>Un peligroso rodeo por una mina Yok Huy abandonada os hace encontraros con Koana y su séquito; y, aunque el encuentro no llega a las manos, aun así retrasa vuestro avance. Al final, salís cerca del río, donde se reúnen de nuevo con vosotros Erenville, Alisaie y el punutiy ya recuperado.<br><br>Vuestro grupo se pone de nuevo en marcha y llega enseguida a Dock Tumu. Animada por ti y por tus compañeros a bajar la guardia, parece que Wuk Lamat tiene mucho en que pensar mientras os dirigís al cercano campamento de montaña..." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_06", "hash": "845BCECEFC998659", "target": "Wuk Lamat ordena sus ideas, al fin convencida de que compartir su carga no solo se acepta, sino que se fomenta. El campamento en lo alto del Flight of We Wingless debería ser un lugar cómodo para que confiese cómo se siente de verdad." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_07", "hash": "EA1E822C987260C1", "target": "Una pregunta inocente de Alisaie lleva a Wuk Lamat a contar la historia de su infancia con Gulool Ja Ja, que culmina con la sensación de insuficiencia que siente al compararse con sus consumados hermanos. Sin embargo, con tu ayuda y la de Krile, la Tercera Promesa llega a comprender mejor qué es lo que de verdad la impulsa. Decide continuar su viaje y conocer mejor a su amada nación y a sus pueblos mientras recorre un camino propio." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SEQ_08", "hash": "805C8DCD8DABC60E", "target": "Al compartir sus preocupaciones con sus camaradas, Wuk Lamat siente como si le hubieran quitado un peso enorme del pecho y por fin puede respirar hondo. Libre de la carga de sus propias expectativas, está deseosa de seguir adelante." },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_00", "hash": "74D777276EE7F939", "target": "Hablar con Fonjeantaine" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_01", "hash": "4F3B64D83B5C8D29", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_02", "hash": "C392C9999CC28124", "target": "Entrar en Ihuykatumu" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_03", "hash": "764D0FF3F3502472", "target": "Entrar en Ihuykatumu" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_04", "hash": "597803BB039D41F0", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_05", "hash": "188D7A7337C51080", "target": "Hablar con Alphinaud" },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_TODO_06", "hash": "154D17DC3534A932", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_001",
+      "hash": "65B81A64121D3BCB",
+      "target": "No puedo evitar preguntarme si Fonjeantaine cumplirá. ¡A ver si de verdad ha ido a hablar con Ropli!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_002",
+      "hash": "0D5F61C5B96A0B2A",
+      "target": "Nuestro merodeador parece otro hombre. Ni siquiera sé si <italic(1)>es<italic(0)> el mismo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_100_002",
+      "hash": "BEEF36C67CA06487",
+      "target": "¡Tú puedes, Fonjeantaine!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_003",
+      "hash": "9E7F0B2D3246A03A",
+      "target": "Han sido amables viniendo, pero no se preocupen. ¡He encontrado el valor!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_004",
+      "hash": "C1A1706FD087B6DD",
+      "target": "Os ruego que disculpéis mi conducta de antes."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_005",
+      "hash": "C61031775200611C",
+      "target": "Me llamo Fonjeantaine y soy orfebre de Ul'dah, en la lejana Eorzea."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_006",
+      "hash": "96C6D5806AC83F04",
+      "target": "Sé que es mucho pedir, pero me gustaría seguir ejerciendo mi oficio aquí, en Wachumeqimeqi, ¡si me aceptáis! Solo pido la oportunidad de dar felicidad a otros con mis creaciones."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_007",
+      "hash": "04EC5775195AFC0D",
+      "target": "Conque era eso. Buscabas trabajo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_008",
+      "hash": "12AF1F0916A731B9",
+      "target": "Date por contratado. Wachumeqimeqi siempre necesita artesanos y artesanas con oficio."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_009",
+      "hash": "2A938F5EE50E2717",
+      "target": "Yo me encargo del papeleo. ¿Puedes empezar mañana?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_010",
+      "hash": "6EBE170B5F2FDDA1",
+      "target": "¡Sí! ¡Sí, por supuesto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_011",
+      "hash": "24C99C32165CD35C",
+      "target": "He de daros las gracias otra vez por vuestro consejo, tan sabio como oportuno."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_012",
+      "hash": "1129C0BFA423854A",
+      "target": "No sé yo si serví de mucho..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_013",
+      "hash": "326DBF0B3D230734",
+      "target": "Sí que sirvió. Si no hubierais venido a hablar conmigo, no habría tenido ese momento de tan necesaria reflexión."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_014",
+      "hash": "AEBB3A6339555788",
+      "target": "Los preparativos están hechos. Venid a verme a la entrada del Puerto de la Marea Alta."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_015",
+      "hash": "93BE5211C1DD26FE",
+      "target": "Ah, casi se me olvida. ¿Tienes lista mi hacha, Ropli?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_016",
+      "hash": "B849F59FCBE40C6F",
+      "target": "Lista y esperando. Contemplad el toque sublime de un artesano de Wachumeqimeqi."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_017",
+      "hash": "D6E2A7B41F5B97CC",
+      "target": "¡Vaya, está tan afilada y mortal como el primer día! ¡Gracias!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_018",
+      "hash": "B64BCB766BF2590F",
+      "target": "Bueno, suerte, Fonjeantaine. Avísame si te vuelve a entrar la duda: te la quito hablando encantada."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_019",
+      "hash": "241B3F1C0D2A8C88",
+      "target": "Y nosotros al puerto. ¡No querríamos hacer esperar a Erenville!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ROPLI_000_020",
+      "hash": "07CACEF683B52035",
+      "target": "Siempre es buen día cuando se suma un artesano nuevo. Avísame si hay algo más en lo que pueda ayudarte."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_FONJEANTAINE_000_021",
+      "hash": "75ADB6FF7CE0FA7E",
+      "target": "Ya no me exijo un listón imposible. Lo único que importa es la alegría que mi oficio pueda dar a otros."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_022",
+      "hash": "FDDE2704B3B0B5C1",
+      "target": "Me pregunto cuál será ese medio de transporte alternativo de Erenville..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_023",
+      "hash": "64E513DF4B2AC000",
+      "target": "He recorrido los mercados de la bahía y he encontrado pendientes casi idénticos al mío. Parecen ser un amuleto de viaje común, tal como decía Mablu."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_024",
+      "hash": "52BD8BCDF7913699",
+      "target": "Yo he vuelto a examinar la Gesta de Tuliyollal. Si seguimos a este paso, pronto estaremos cara a cara, o más bien cara a rodilla, con esos enormes Yok Huy. Me dicen que algunos superan en altura hasta al corpulento Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_025",
+      "hash": "F27DEF45E23780E5",
+      "target": "Tanta espera me dio hambre, así que probé un taco de Xbalyav Ty'e y otro de Tía Tii. Creo que prefiero los sabores más picantes de Tiisol."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_030",
+      "hash": "9D9762BB1481F05E",
+      "target": "¡Basta de secretismo! ¿¡Cuál es ese gran plan tuyo!?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_031",
+      "hash": "D0E697C36BA08262",
+      "target": "Mira allí. <italic(1)>Ese<italic(0)> es mi gran plan."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_032",
+      "hash": "8AB0904D4B61E6B1",
+      "target": "¿¡Qué... qué <italic(1)>es<italic(0)> eso!?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_033",
+      "hash": "AEFB8413546B1442",
+      "target": "Es un punutiy. Tirará de nuestro barco río arriba."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_034",
+      "hash": "E5CF0F2FD3E45A18",
+      "target": "¿Y cómo sabemos que no se revolverá y nos hundirá...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_035",
+      "hash": "9AE25811940A7176",
+      "target": "Son criaturas mansas y tímidas. En su mayor parte. Es poco probable que arme jaleo si no le das motivo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_036",
+      "hash": "5C14D7E4715B556F",
+      "target": "Primero alpacas, ahora punutiys. Este viaje depende mucho de los animales."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_037",
+      "hash": "C6A0980216EA71C3",
+      "target": "Pues démonos por contentos de tener a un experto en animales como guía."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_038",
+      "hash": "77BB915925AB5527",
+      "target": "¿Pero tenía que ser mi vieja némesis? Otro barco..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_039",
+      "hash": "7077D0C7D667BC4B",
+      "target": "Vaya, te tenía por alguien a la altura del reto. ¿Me equivocaba?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_040",
+      "hash": "8BDD3FF545DF2227",
+      "target": "Uf..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_041",
+      "hash": "D8BCDD74265F524E",
+      "target": "Hace mucho, cuando aún ardían las luchas entre clanes, los habitantes de Kozama'uka usaban estos barcos fluviales para cruzar rápido territorio hostil."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_042",
+      "hash": "77E16B5F9B9DE8A8",
+      "target": "Pero, con Tural en paz, apenas se usan, así que pude tomar prestado uno de los pocos que quedan."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_043",
+      "hash": "B0FE9D08ED3CA77C",
+      "target": "Pensé en un dirigible, pero los pilotos me advirtieron de que las corrientes ascendentes junto a las cataratas complicarían el aterrizaje."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_044",
+      "hash": "470B0B578AA45FF6",
+      "target": "Dijiste que tomaste prestado “uno”, y sin embargo parece haber varios en el agua..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_045",
+      "hash": "98670FF31C0A4CAD",
+      "target": "¡Koana!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_046",
+      "hash": "CE1BF4A3CDFAF700",
+      "target": "Lamaty'i. Vais río arriba, supongo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_047",
+      "hash": "C405AA67626B6029",
+      "target": "Eso parece. ¿Significa que ya tienes dos piedras clave? No me creo lo bien que te las has apañado emprendiendo la contienda solo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_048",
+      "hash": "0397F3673259D61C",
+      "target": "Nunca estuve solo. He tenido mi propio séquito desde el principio."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_049",
+      "hash": "35EE28E33E1FF236",
+      "target": "Amigos, ha pasado... bueno, no tanto tiempo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_050",
+      "hash": "654D115C0188F130",
+      "target": "¡Thancred! ¡Urianger! ¿¡Qué hacéis aquí!?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_051",
+      "hash": "83177129560E3C09",
+      "target": "Escoltar a una Promesa, igual que vosotros."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_052",
+      "hash": "844C8FE5D3211215",
+      "target": "Oí hablar mucho de los incomparables Arcontes durante mi tiempo en el Studium. En cuanto se confirmó la contienda, pensé: ¿a quién mejor reclutar? Contacté con el escolarca, que me presentó a estos dos caballeros."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_URIANGER_000_053",
+      "hash": "13627E9A0FFA5E38",
+      "target": "La Segunda Promesa puso condiciones precisas: quienes fueran sus asistentes habrían de contar con dotes probadas de supervivencia y con dominio de las artes arcanas."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_URIANGER_000_054",
+      "hash": "31EFE3C99E48B1A3",
+      "target": "Y así recibimos la llamada Thancred y yo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_055",
+      "hash": "0AB3627A5624A807",
+      "target": "Mis estudios se centraron en tecnología que mi pueblo pudiera usar sin más, como los inventos nacidos de la magitek o de la buena ingeniería."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_056",
+      "hash": "EE27E1909E82082B",
+      "target": "En lo tocante a la magia, solo cubrí los fundamentos."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_057",
+      "hash": "785FA2507AC9B8D8",
+      "target": "Conociéndoos a los dos, imagino que tuvisteis otras razones para aceptar el encargo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_058",
+      "hash": "AB65DC2F99A7B4C4",
+      "target": "Unas cuantas. La nación de Tuliyollal abarca un continente entero. Según quién gane el trono, el mundo podría hundirse otra vez en la inestabilidad."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_059",
+      "hash": "FEDF5DAF4732E63E",
+      "target": "Siempre nos hemos esforzado por preservar la paz. ¿Cuál es nuestro sitio, si no aquí y ahora?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_060",
+      "hash": "BA16BB644445D2C2",
+      "target": "Hicimos los deberes, claro, y nos aseguramos de con quién trabajábamos antes de aceptar. A veces es más opaco que Urianger, pero resulta sorprendentemente..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_061",
+      "hash": "9B864A7D94AED575",
+      "target": "¡Suficiente con eso! ¡Hemos de seguir camino!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_062",
+      "hash": "0ED79DF5CCA9FE38",
+      "target": "Esperad. Tengo una pregunta antes de que os vayáis."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_063",
+      "hash": "E6C9EDB687C2A5E5",
+      "target": "Koana y Wuk Lamat compiten por el trono. Como séquito de Koana, ¿significa que estáis dispuestos a derrotar a todos sus rivales... incluidos nosotros?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_064",
+      "hash": "EADEA1453B90121A",
+      "target": "Hemos jurado hacer cuanto esté en nuestra mano para que Koana gane esta contienda, aunque suponga competir contra nuestros propios camaradas."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_THANCRED_000_065",
+      "hash": "D221CB1EF19B7515",
+      "target": "No pensamos guardarnos nada, y esperamos lo mismo de vosotros."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_066",
+      "hash": "8A2A81A342096F57",
+      "target": "¡Y no os defraudaremos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_067",
+      "hash": "A3AE58CC31E71DE2",
+      "target": "Creía que ibais en barco..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KOANA_000_068",
+      "hash": "EEBF7A5D0668A3FB",
+      "target": "Si hasta <italic(1)>tú<italic(0)> te has visto obligada a viajar por agua, los demás harán lo mismo. Prefiero caminar antes que arriesgarme a un enfrentamiento en una barcaza con goteras y sin retirada posible."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_069",
+      "hash": "6881D3B3495DFE22",
+      "target": "Es verdad que no soporto los barcos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_070",
+      "hash": "355FF2741DC7457D",
+      "target": "¡Pero me fío de la ruta que ha elegido Erenville!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_071",
+      "hash": "7A46AFAA0C5A0E35",
+      "target": "Dejadme a mí el manejo del punutiy. Pero, si nos ataca otra fauna, puede que me cueste mantenerla a raya. Haced lo posible por atraerlos lejos, tan lejos de la proa como podáis."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_072",
+      "hash": "1C95A29D1405D820",
+      "target": "Entonces nos quedaremos en cubierta montando guardia. Aunque quizá sea prudente que al menos uno de nosotros se siente delante con Erenville, por si acaso."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_073",
+      "hash": "2D766895787E0CE2",
+      "target": "Yo quiero quedarme en cubierta. Tengo ganas de poner a prueba mi pictomancia..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_074",
+      "hash": "C15CDDAA215F422C",
+      "target": "¡Y aprovecharé cualquier ocasión para demostraros que sé defenderme en el campo de batalla!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_075",
+      "hash": "B782351F2E06C927",
+      "target": "Entonces Krile montará guardia con <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_076",
+      "hash": "3F19B2FB495F1765",
+      "target": "Entonces Krile montará guardia con <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_077",
+      "hash": "3555B124537D159E",
+      "target": "Yo le haré compañía a Erenville, entonces. Con mi espada respondo a las amenazas más rápido que Alphinaud."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_078",
+      "hash": "C947F6717DCD1D83",
+      "target": "Gracias. Si estalla una pelea, intentaré no estorbarte."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_079",
+      "hash": "E1876B5CC4E0B2C9",
+      "target": "Yo procuraré prestar ayuda donde haga falta."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_080",
+      "hash": "EA676036088B36DB",
+      "target": "¡Eso también sé hacerlo yo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_081",
+      "hash": "FA2BBC027CEED616",
+      "target": "Con eso cubrimos casi todo. Asegurad el equipo y subid al barco cuando estéis listos."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_BAKOOLJAJA_000_082",
+      "hash": "8935D44AC4582484",
+      "target": "Jehehehe..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_BAKOOLJAJA_000_083",
+      "hash": "20907C6B8202BA66",
+      "target": "¡Que empiece la caza!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_Q1_000_000",
+      "hash": "C7CCA2BFCF6208E9",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_A1_000_001",
+      "hash": "601BE7816844C1E5",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_A1_000_002",
+      "hash": "F153FC99D1657812",
+      "target": "Formar grupo y entrar en Ihuykatumu."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_A1_000_003",
+      "hash": "42239794A245D538",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_090",
+      "hash": "20366E9C3ECDB6C0",
+      "target": "No podemos pasarnos el día debatiendo los peligros que vienen: ¡tenemos una contienda que ganar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_091",
+      "hash": "A0B1D59069E242C4",
+      "target": "Como dijo Koana, una vez en el barco habrá poco sitio para pelear y ninguno para huir. Debemos estar preparados para toda clase de amenazas."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_092",
+      "hash": "E67C5CAE222A2EDD",
+      "target": "¡Esta será una buena ocasión para que veas hasta dónde ha llegado mi entrenamiento!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_095",
+      "hash": "34754519FC9F9767",
+      "target": "Tomaremos este bote pequeño para abordar el navío grande con el punutiy."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_096",
+      "hash": "7CBDCB61D7358F6C",
+      "target": "Koana decidió que la ruta fluvial era muy arriesgada, pero me pregunto cómo pensarán viajar los demás aspirantes..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_110",
+      "hash": "FD4FFA1CD59182ED",
+      "target": "Temía que no lográramos alcanzaros."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_111",
+      "hash": "1CFD3756480C1D40",
+      "target": "Esas cavernas que cruzasteis las excavaron los Yok Huy buscando oro. Por toda esta región quedan restos de sus excavaciones."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_112",
+      "hash": "97885950A083E69F",
+      "target": "Agradezco la lección, oh sabio guía, pero ¿vamos a... ugh... atracar pronto?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_113",
+      "hash": "24141BBB008FD709",
+      "target": "Nuestro viaje fluvial casi ha terminado. Como prueba, basta con que mires al frente..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_114",
+      "hash": "FF73FECAE3BC7121",
+      "target": "Las cataratas ya impresionaban de lejos, pero esto es casi demasiado..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_115",
+      "hash": "A059566370AD8730",
+      "target": "Sí, asombroso... Ahora dejadme bajar, por favor..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_116",
+      "hash": "79F2C978A5B4BE62",
+      "target": "No... no más barcos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_117",
+      "hash": "6EAAC9FA62CE3D37",
+      "target": "¿Estás...? Ah, no, no estás bien."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_118",
+      "hash": "8148F9F9414C6290",
+      "target": "Me sorprendería que lo estuviera. Aun sin las náuseas, estamos todos agotados."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_119",
+      "hash": "878B7FAA3548B562",
+      "target": "Hay un refugio de montaña cerca, un sitio de descanso para quienes suben la escalinata. Propongo que lo usemos."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_120",
+      "hash": "545F6FA84405624E",
+      "target": "Sería un respiro muy bienvenido."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_121",
+      "hash": "6783E0CE741D2CAD",
+      "target": "¿Tienes fuerzas para un paseo corto, Wuk Lamat? También podemos descansar por el camino..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_122",
+      "hash": "5530BCDDFB57FD74",
+      "target": "Maldita sea todo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_123",
+      "hash": "38F7B5AB190EBB53",
+      "target": "Una Promesa debe ir en cabeza, no lloriquear y quejarse como un gatito enfermo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_100_123",
+      "hash": "67E29F43F6542C8B",
+      "target": "Wuk Lamat..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_124",
+      "hash": "25B8D994E85C0360",
+      "target": "...No me hagáis caso, hablan las náuseas. Estoy bien, de verdad. Id delante. Yo os sigo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_125",
+      "hash": "F7DD0BF6983A3643",
+      "target": "Muy bien. Pero, si me permites decir una cosa..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_126",
+      "hash": "63C57DD2F72B25B8",
+      "target": "Que seas una Promesa o aspirante al trono no significa que no puedan verte penar. No tienes por qué cargar sola con esto, así que no dudes en hablarnos. Siempre estamos dispuestos a escuchar."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_127",
+      "hash": "32104B1CBDFCA0F8",
+      "target": "Pero, Krile, yo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_Q2_000_000",
+      "hash": "72B0343AAC143F24",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_A2_000_001",
+      "hash": "790B314522D8B8E8",
+      "target": "¡Todo el mundo puede ser débil alguna vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_A2_000_002",
+      "hash": "826F8D27A8F10C87",
+      "target": "Apoyarse en otros es una destreza que todo líder necesita."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_128",
+      "hash": "FBAFC04B350EF3B4",
+      "target": "¿Tú también, <split(<string(gstr1)>, ,1)>...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_129",
+      "hash": "A08B950C69BA6EE5",
+      "target": "Siempre he creído que este era problema mío y de nadie más, pero quizá tengáis razón..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_100_129",
+      "hash": "81FC38D45F1F4120",
+      "target": "Está bien. Hablaré de... cosas. Dadme solo un momento para ordenar las ideas."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_200_129",
+      "hash": "4F447A8C29AFC0B4",
+      "target": "Claro. El tiempo que necesites."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_300_129",
+      "hash": "5FB24DB92A9A0127",
+      "target": "Te esperaremos en el refugio cuando estés lista."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_125",
+      "hash": "D058D8AFDADC0BDA",
+      "target": "Mucho tiempo he sentido que no podía decirle a nadie cuándo estaba perdida o dolida, que admitir debilidad mancharía el nombre de papá."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_126",
+      "hash": "18575551B2633D9E",
+      "target": "Pero, si decís que estáis dispuestos a escuchar, entonces... <italic(1)>sí<italic(0)> hay cosas de las que querría hablar."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_100_126",
+      "hash": "8C3EC098CBD8AA4F",
+      "target": "Vamos, alcancemos a los demás."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_130",
+      "hash": "58B1608ED1197B11",
+      "target": "Ahora que he decidido contarlo, me pongo nerviosa..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_131",
+      "hash": "132063CE72949DAE",
+      "target": "A este sitio lo llaman los Muchos Fuegos por el flujo constante de vendedores ambulantes y viajeros que acampan aquí tras subir la escalinata."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_132",
+      "hash": "C7E68742BFBF9A46",
+      "target": "Parece un lugar acogedor para que Wuk Lamat baje la guardia. Sé que no puede serle fácil."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_133",
+      "hash": "E2A7DF5031DD64F0",
+      "target": "Este lado de la región es muy distinto de donde viven los Hanu. Solo los colores llamativos de la vegetación..."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_134",
+      "hash": "9241EBA384C16350",
+      "target": "Deberíamos parar aquí a pasar la noche."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_135",
+      "hash": "E8862BD36438F9B6",
+      "target": "Entiendo las ganas de seguir adelante, pero necesitamos reponernos de esa castigadora aventura fluvial."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_136",
+      "hash": "B93F4CA16A1E8E33",
+      "target": "Pues instalémonos. Hará falta una hoguera para cocinar, y hay comida que preparar."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ERENVILLE_000_140",
+      "hash": "F4A7D24D192DC81E",
+      "target": "Da gusto ver a Wuk Lamat más segura de sí misma."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_KRILE_000_141",
+      "hash": "3CEE8083EE6F1E86",
+      "target": "Me alegra que pudiéramos dedicar un rato a hablarlo todo. Wuk Lamat parece mucho más contenta."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALPHINAUD_000_142",
+      "hash": "294415B8B2B3DB5F",
+      "target": "Tengo alguna experiencia con la presión del liderazgo, y con derrumbarme bajo su peso, como bien sabes. Si algo bueno puede decirse que salió de mis fracasos, espero que sea mi capacidad de ayudar a otros a evitar errores parecidos."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_ALISAIE_000_143",
+      "hash": "2273ED07C747D2BA",
+      "target": "Da igual que a Wuk Lamat le den miedo las alpacas o se maree en barco. Eso no cambia quién es ni lo que significa para su pueblo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_144",
+      "hash": "4D434593FF804782",
+      "target": "Poder decir esas cosas me ha aliviado muchísimo. Es como si me hubieran quitado una piedra del pecho y por fin pudiera respirar hondo."
+    },
+    {
+      "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_WUKLAMAT_000_145",
+      "hash": "3BA420FFB2DC4852",
+      "target": "No quiero volver a cargarme así. Quiero ser mejor... <italic(1)>seré<italic(0)> mejor. Por mí y por mi gente."
+    },
+    { "gameKey": "quest/048/KinGma120_04879#TEXT_KINGMA120_04879_SYSTEM_000_150", "hash": "55D6AC7464C2ACA5", "target": "Ya puedes entrar en Ihuykatumu con un grupo de avatares de PNJ. Para usar esta función, abre la interfaz <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, situada en <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)> del menú principal." }
+  ]
+}

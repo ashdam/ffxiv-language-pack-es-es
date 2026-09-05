@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/003/SubFst059_00380",
+  "questName": "Threat Level Elevated",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ROSELINE_000_1", "hash": "9FCCE8465242036A", "target": "No podemos permitir que otros centinelas pasen por alto avistamientos similares─han de saber lo que hemos averiguado. Con ese fin, he preparado esta carta con todo lo que sabemos sobre nuestro misterioso desconocido." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ROSELINE_000_2", "hash": "CC3FCA62F051E9AF", "target": "Necesito que se la muestres a mis camaradas por todo el Sudario. Cuando cada centinela haya memorizado los detalles, haz que escriban su nombre al pie como confirmación." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ROSELINE_000_3", "hash": "BCAA4EFB934D7B2D", "target": "Empieza por Elmar, en el Bannock; luego busca a Bernard en las puertas orientales de los Prados de Rama Torcida. Ellos deberían transmitir la información a los demás." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ROSELINE_000_4", "hash": "86986371C8E1BB18", "target": "Por último, asegúrate de que Eylgar vea la carta. Monta guardia dentro de las cuadras, así que, si el propósito de este desconocido es dañar a los chocobos, quizá tenga que ser Eylgar quien lo impida en persona." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_11", "hash": "BD9D20EB505B97FB", "target": "No tiene pinta de haber venido a entrenar..." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_12", "hash": "015A6D0BEB3312E2", "target": "Una figura sombría... Entendido. Daré aviso tanto a los reclutas como a los centinelas." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_13", "hash": "9E44B69C4E5AB8EF", "target": "Déjeme estampar mi firma... listo, con eso bastará." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_ELMAR_000_14", "hash": "DB92859ED17EBFC2", "target": "Si sigue el camino hacia el sur, encontrará a Bernard junto al puente que lleva a Rama Torcida. Que los dioses le acompañen, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_21", "hash": "7E370AD4BAFD65AC", "target": "¿Tiene algún asunto conmigo, <if(gnum4,aventurera,aventurero)>?" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_22", "hash": "3B34138C8478D756", "target": "Roseline hace bien en ser cauta. Que este desconocido se acerque tanto y, aun así, se esfuerce tanto por pasar inadvertido resulta muy sospechoso. Está claro que tiene planes para Rama Torcida." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_23", "hash": "8F4E1D3713C54AAF", "target": "Agradecemos la ayuda. Debo escribir mi nombre aquí, ¿verdad?" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_BERNARD_000_24", "hash": "00AED6FDA3D3FFC6", "target": "Y... tenga, tómela. Encontrará a Eylgar en las cuadras, pasada la eterita." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_31", "hash": "FDA17F1B9DE67DCA", "target": "Cuidado con las aves, <if(gnum4,aventurera,aventurero)>. Se ponen nerviosas con los desconocidos." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_32", "hash": "E30C8C7AB1E7DDEC", "target": "¿Qué es esto? Un desconocido sombrío cerca del Olvido de la Matrona... Ya se lo ha mostrado a Bernard y a Elmar, por lo que veo. Bien, bien." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_EYLGAR_000_33", "hash": "70B1211400DD8FDD", "target": "Entonces solo queda informar al personal de aquí. No todos somos Vigías del Bosque, cierto, pero hasta nuestros mozos de cuadra no dudarían en tomar las armas para defender a estos chocobos." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_00", "hash": "3D4BD6784AB640D7", "target": "Roseline quiere que adviertas a otros centinelas de las actividades del desconocido." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_01", "hash": "A42134901603073D", "target": "Roseline te confía una carta que detalla todo lo que ha averiguado sobre el sospechoso desconocido. Te pide que compartas la información con otros centinelas y los animes a estar atentos a figuras similares. Muestra la carta a Elmar, un centinela del Bannock." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_02", "hash": "73DB70D6D01B6B9A", "target": "Elmar agradece el aviso y afirma que dará parte a los demás centinelas y reclutas del Bannock. Ve ahora a las puertas orientales de los Prados de Rama Torcida y muestra la carta a Bernard." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_03", "hash": "1EFFFC111A332EBE", "target": "Bernard te agradece que entregaras el mensaje de Roseline y te remite a Eylgar, dentro del recinto. Búscalo en los establos de chocobos y muéstrale la carta." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_SEQ_04", "hash": "205A3D8E8447A239", "target": "Eylgar se alegra de tus esfuerzos por advertir a los demás centinelas. Te asegura que, si ese desconocido intentara dañar a los chocobos, tendría que vérselas no solo con los Vigías del Bosque, sino con todo el personal de los Prados de Rama Torcida." },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_TODO_00", "hash": "B23362AF78F50710", "target": "Mostrar el mensaje de Roseline a Elmar" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_TODO_01", "hash": "3C8580E24115FBDE", "target": "Mostrar el mensaje de Roseline a Bernard" },
+    { "gameKey": "quest/003/SubFst059_00380#TEXT_SUBFST059_00380_TODO_02", "hash": "E6FB8D31CD6E3C49", "target": "Mostrar el mensaje de Roseline a Eylgar" }
+  ]
+}

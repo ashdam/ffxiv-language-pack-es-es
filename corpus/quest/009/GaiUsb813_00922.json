@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/009/GaiUsb813_00922",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_00", "hash": "7C269FEEC526E15A", "target": "Papawazu quiere ofrecerte otro encargo y la oportunidad de admirarlo, si te apetece." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_01", "hash": "E99FF62FA27FA1DF", "target": "El cargamento de ceruleum procesado por fin se reanudará, para satisfacción de todas las partes... bueno, salvo los coblyns, pero las criaturas de su calaña no tienen voz, y las muertas menos aún. Lleva la noticia a Syntgoht, en la Lonja de la Avenida Zafiro." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SEQ_02", "hash": "4CCC2CBE460B6D6E", "target": "Syntgoht está aliviado, aunque contrariado por la subida de precios. Cuando la mercancía le llegue dentro de unos días, debería poder a su vez atender sus pedidos." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_TODO_00", "hash": "3441980856DBC1DD", "target": "Hablar con Syntgoht en la Lonja de la Avenida Zafiro" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_000", "hash": "342134E769F1EE58", "target": "¡En <italic(1)>fin<italic(0)>! El ceruleum debe fluir. Basta de retrasos en los envíos... ¡otro golpe genial de Papawazu! Oh, ¿eso es una pluma? ¿Para mi gorro? ¡Vaya, muchísimas gracias!" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_PAPAWAZU_000_001", "hash": "D0597DAA1C09FE4F", "target": "Asíii que puede decirle a Syntgoht que su envío llegará en apenas unos días. <italic(1)>Por<italic(0)> desgracia, habrá una levísima subida de precio. Recargo de seguridad, ¡ya sabe! Todo el mundo lo hace." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_010", "hash": "F956CAC886DF7903", "target": "¡Bienvenid<if(gnum4,a,o)>, <italic(1)>bienvenid<if(gnum4,a,o)><italic(0)>! ¿Qué se le ofrece a alguien de buen... oh, es usted, <split(<string(gstr1)>, ,1)>. ¿Ha hablado con Papawazu? ¡No me diga! ¿Dijo que sería cuestión de días?" },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_011", "hash": "7E24D6085414D488", "target": "Así que, mi <if(gnum4,querida señora,querido señor)>, me dice que van a enviar lo que se me debe pero cobrando más por ello. Les deseo a Amajina y a <italic(1)>todos<italic(0)> sus hijos que disfruten de mi gil. Ojalá les dé gota." },
+    { "gameKey": "quest/009/GaiUsb813_00922#TEXT_GAIUSB813_00922_SYNTGOHT_000_012", "hash": "9B9B49A1A7D8DE11", "target": "Le agradezco de veras que haya resuelto esto, y nada menos que con ese buitre de Papawazu. ¡Un intermediario perspicaz como yo lo recordará, tenga por seguro, para futuros encargos!" }
+  ]
+}

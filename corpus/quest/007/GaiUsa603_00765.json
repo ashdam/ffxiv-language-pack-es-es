@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/007/GaiUsa603_00765",
+  "questName": "Killing Him Softly",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_SEQ_00", "hash": "E70E389DDA7AEA09", "target": "Meffrid necesita ayuda para atender a un hermano herido." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_SEQ_01", "hash": "CA10C30F36BA431E", "target": "Uno de los hombres de Meffrid necesita tratamiento urgente para una herida, pero los vecinos de la aldea se niegan a mover un dedo. Debes persuadir a Albreda para que los convenza de ayudarlo." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_SEQ_02", "hash": "D9CE442303BEA0FC", "target": "Aunque la vida de su compatriota corre peligro, Albreda no es capaz de desoír la voluntad de los elementales. En su lugar, te pide que consultes con la Oyente de la aldea, una mujer llamada Charline." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_SEQ_03", "hash": "65B1A22C2D62DF2A", "target": "Pese a tus sinceras súplicas, Charline no cede; la voluntad de los elementales es absoluta, y no habrá auxilio para los Alamhiganos. Temes con toda el alma tener que volver con Meffrid con tan aciagas noticias." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_SEQ_04", "hash": "14935EA09FB2177E", "target": "Como es comprensible, el veredicto disgusta a Meffrid, que emplea unas cuantas lindezas para expresar su opinión sobre los elementales. ¿No habrá otra manera de ayudarlo a él y a los suyos?" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_TODO_00", "hash": "9E45DD25BF31B486", "target": "Hablar con Albreda" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_TODO_01", "hash": "C2E1A5608A5ACC6C", "target": "Hablar con Charline" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_TODO_02", "hash": "271F704BAC78F3E5", "target": "Informar a Meffrid" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_000", "hash": "948CCA205EDC0D5A", "target": "Sí, soy Meffrid, un orgulloso miembro de la Resistencia alamhigana." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_001", "hash": "3E463F3FFEFC06DD", "target": "¿Qué asuntos te traen conmigo, aventurer<if(gnum4,a,o)>?" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_NPCA_000_002", "hash": "8F03A143E55A4B69", "target": "¡C-Capitán! Es... ¡es Gallien, señor! ¡La herida se le ha infectado y arde de fiebre! ¡No creo que le quede mucho tiempo!" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_002", "hash": "122EB728B08B5DB5", "target": "¡Malditos dioses! Pedí ayuda a los aldeanos─me puse de rodillas y <italic(1)>supliqué<italic(0)>─, ¡pero se negaron a mover un dedo! ¡Si Gallien muere, su sangre caerá sobre ellos!" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_003", "hash": "E7A82E1E5C5D6C8C", "target": "Estos cobardes del Molino de la Cantera hacen la vista gorda ante nuestra desgracia, pero puede que a Albreda sí la escuchen. Me temo que la rabia me impedirá convencer a nadie como es debido ahora mismo. Sé que apenas nos conocemos, pero es cuestión de vida o muerte. ¡Por favor, aventurer<if(gnum4,a,o)>, ve a verla e inténtalo!" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_ALBREDA_000_010", "hash": "19BA6FEEEA989122", "target": "¿Que uno de los de Meffrid está grave, dice? Lo... lo siento, pero no hay nada que yo pueda hacer." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_ALBREDA_000_011", "hash": "32E1F59A0559F667", "target": "Quiero ayudar, de verdad que sí─son de mi tierra, al fin y al cabo─, pero eso significaría ir contra la voluntad de los elementales." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_ALBREDA_000_012", "hash": "06EB560F6233C969", "target": "Llevo en el Molino de la Cantera el tiempo suficiente para saber lo <italic(1)>terribles<italic(0)> que pueden llegar a ser esos seres. No podría perdonarme que desterraran a todos por mi culpa." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_ALBREDA_000_013", "hash": "3B53F6B27A947AB7", "target": "Si hay alguien que pueda ayudarle, esa es Charline, la Oyente de la aldea. Si le plantea el asunto, puede que le escuche... aunque yo no me haría muchas ilusiones." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_CHARLINE_000_020", "hash": "147D956CC984BA58", "target": "¿Desea ayudar a los Alamhiganos? Posee un noble corazón, aventurer<if(gnum4,a,o)>, pero me temo que no tengo autoridad para concederle su deseo." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_CHARLINE_000_021", "hash": "619AD95D25137E82", "target": "Esa autoridad corresponde únicamente a los elementales, guardianes eternos de la Selva de los Doce. Todos los forasteros, sean niños de pecho u hombres hechos y derechos, son juzgados durante una noche para determinar si merecen un lugar bajo las frondas." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_CHARLINE_000_022", "hash": "234227BE9866B772", "target": "Por desgracia, la petición de los Alamhiganos ha sido rechazada. Por dura que parezca, no tienen permiso para gozar de los dones del bosque. Así ha sido desde tiempos inmemoriales, y así seguirá siendo." },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_030", "hash": "F9ABA44C90AB933E", "target": "¿¡Así que es así como va a ser!? ¡Para el caso, esa maldita Oyente bien podría matar a Gallien con sus propias manos!" },
+    { "gameKey": "quest/007/GaiUsa603_00765#TEXT_GAIUSA603_00765_MEFFRID_000_031", "hash": "7E92DA4C3D032058", "target": "¡Me cago en los elementales y en su maldita voluntad! ¡Estoy deseando que la Resistencia se largue de este sitio!" }
+  ]
+}

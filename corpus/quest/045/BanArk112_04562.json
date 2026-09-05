@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/045/BanArk112_04562",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_SEQ_00", "hash": "24BBD039DC56050A", "target": "Maru no deja que nada se desperdicie.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o un job distintos de los que tenías al aceptarla." },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_TODO_00", "hash": "FCCA275342EFFBFA", "target": "Entregar los sacos de restos de cocina" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_TODO_01", "hash": "44965C22A2AC4C25", "target": "Informar a Maru" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_MARU_000_001", "hash": "76692965B50D787C", "target": "¡<split(<string(gstr1)>, ,1)>! Justo <if(gnum4,la mujer,el hombre)> que necesito. No te da asco nada, ¿verdad?" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_MARU_000_002", "hash": "6F6F3787129D9A5F", "target": "Tengo dos sacos de restos de cocina que hay que entregar. ¿Te importa?" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_MARU_000_003", "hash": "9475CD7F87BE3E85", "target": "...¡No me mires así! La basura de uno es el tesoro de... bueno, eso es asunto suyo, ¿no? En fin, uno va para un alquimista del Great Work y el otro para un criador de hamsa en Palaka's Stand. ¡Rápido, antes de que goteen!" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_010", "hash": "F0450C82B687A6EE", "target": "¡<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>! Justo a quien deseaba ver. ¿Y traes algo para mí?" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_011", "hash": "786C4231DD09272E", "target": "¡Sí, sí! ¡Qué deliciosos desechos! Rezumando potencial alquímico... ¡chorreando valor medicinal!" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_012", "hash": "9E358F7566F492DB", "target": "Pero dejemos eso. Permíteme una consulta: ¿has experimentado algún fenómeno corporal peculiar últimamente? ¿Lesiones embarazosas? ¿Estiramientos anormales? ¿Encogimientos preocupantes? ¿Somnolencia nocturna, o hambre perpetua, o una aguda conciencia de los pelos de tu...?" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_AVIDALCHEMIST04562_000_013", "hash": "505373C858D07144", "target": "¡Oh, pero me he olvidado de mí mismo! ¡Mis disculpas, <if(gnum4,mi querida señora,mi querido señor)>! Solo pretendía ofrecerte unos brebajes experimentales... o, mejor dicho, <italic(1)>revolucionarios<italic(0)>, por si los deseas. ¡La próxima vez, quizá! ¡No te entretengo!" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_014", "hash": "2AC75055523E59A9", "target": "¡<if(gnum4,La chica,El chico)> de los Jinetes de Hipopótamos! Gracias por hacer el viaje." },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_015", "hash": "4772EB6600CBC61B", "target": "Qué amable eres al compartir tus restos de verdura. ¡A nuestros hamsa no hay nada que les guste más!" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_016", "hash": "4BF289A099D3CCEA", "target": "Ver a nuestros preciosos hamsa atiborrarse de pienso hasta quedar redondos, blandos y listos para el matadero... se te hace la boca agua, ¿verdad? \\<sorbo> Diría que un banquete se impone... para agradecerte tu generosidad, ¡claro! Voy a afilar el hacha." },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_YOUNGHANSAKEEPER04562_000_017", "hash": "9A2BB1BD123FEB29", "target": "Ah, ¿tienes otros planes? Bueno, tú dime el día y sacaremos los asadores..." },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_MARU_000_020", "hash": "129F9B9A96ACA63E", "target": "Gracias por encargarte de eso. ¿No sienta bien saber que nuestras sobras no se desperdician?" },
+    { "gameKey": "quest/045/BanArk112_04562#TEXT_BANARK112_04562_MARU_000_021", "hash": "38FC923F2E09BB9A", "target": "En cuanto a ese alquimista y ese criador... bueno, son gente apasionada, ¿eh? ¡Y grandes admiradores tuyos! ...¿No lo había mencionado?" }
+  ]
+}

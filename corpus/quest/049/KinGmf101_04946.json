@@ -1,0 +1,524 @@
+{
+  "conversation": "quest/049/KinGmf101_04946",
+  "questName": "A New Family",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SEQ_00", "hash": "FA6A9DBCFEDB93F3", "target": "Wuk Lamat busca las palabras para decírselo a Shale." },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_00", "hash": "C75D5777446D477E", "target": "Esperar frente al palacio en Tuliyollal" },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_01", "hash": "E55E615680F8BB04", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_02", "hash": "547C713D85CAC95C", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_03", "hash": "3DE073517CD22D88", "target": "Hablar de nuevo con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_04", "hash": "B0E2FD219C92A066", "target": "Hablar con Koana" },
+    { "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_TODO_05", "hash": "FA2BB7E0725A1C54", "target": "Volver a hablar con Koana" },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_001",
+      "hash": "C3B906A9F40A1A8B",
+      "target": "Estoy bien. No hace falta que te preocupes por mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_010",
+      "hash": "FF834BE7EED4D00E",
+      "target": "Lo siento mucho, pero no sabemos con certeza qué le pasó a Cahciua. Los demás están intentando averiguar lo que pueden."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_011",
+      "hash": "2C73D43AD1344986",
+      "target": "Ay, Cahciua... Sabíamos que este día llegaría, pero ojalá hubiéramos podido al menos despedirnos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_012",
+      "hash": "133F8211731DEFEC",
+      "target": "Entonces lo sabías... Que ya se había ido."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_013",
+      "hash": "8BFDD5102212AE5E",
+      "target": "Sí. Todos lo sabíamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_014",
+      "hash": "9DBE65C40016E1D4",
+      "target": "Cahciua nos prohibió decir nada. Quería contárselo a ustedes ella misma cuando llegara el momento."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_015",
+      "hash": "4F3219AF2024BB9A",
+      "target": "Supongo que se debatía sobre cómo revelarle la verdad a Erenville."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_016",
+      "hash": "CB32D12706FCF5AC",
+      "target": "Ya veo... No creo que nadie pueda reprocharle que callara."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_017",
+      "hash": "810227BD7F1B4BB9",
+      "target": "Pero dime─¿cómo está la gente? ¿Se han olvidado ya de Zoraal Ja?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_018",
+      "hash": "E9B73A60482A8189",
+      "target": "No, todavía lo recuerdan. Nos preguntamos si será consecuencia de que la puerta de la cima esté cerrada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_019",
+      "hash": "040473C9447AD3AD",
+      "target": "La mayoría no sabe nada de lo ocurrido. Les aliviará saber que el rey ha sido derrotado, pero al mismo tiempo es probable que cunda el pánico si se enteran de que la reina ha desaparecido."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_020",
+      "hash": "9123F26D495DAC0F",
+      "target": "Ahora mismo Geode está contactando con los distintos órganos de gobierno, pero seguramente lo mejor sea mantenerlo todo en secreto una temporada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_021",
+      "hash": "D3F8ABE9BE5C8354",
+      "target": "De acuerdo. Cuando hayamos resuelto todo esto, se lo explicaré yo misma a la gente. Lo considero mi deber."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_022",
+      "hash": "465EA5CB34C4C9E1",
+      "target": "Y el ejército mecánico de Zoraal Ja, ¿qué ha sido de él ahora que él ya no está?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_023",
+      "hash": "BBEFA718E60836D8",
+      "target": "Ah, sí, sobre eso..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_024",
+      "hash": "BDB0BD01FEAC0769",
+      "target": "En el momento en que creemos que Zoraal Ja falleció, la autoridad del rey parece haberse transferido a Gulool Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_025",
+      "hash": "83EC4127797B23F9",
+      "target": "¿¡Quieres decir que Gulool Ja es el nuevo rey!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_026",
+      "hash": "E3AA27DD379F3BDE",
+      "target": "Aunque hace falta una coronación para que sea oficial, de momento el sistema lo reconoce como sucesor de su padre."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_027",
+      "hash": "7E744A2A94303752",
+      "target": "Pero... yo no quiero esto. No quiero ser rey."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_028",
+      "hash": "E1D6EDA3B8ED448D",
+      "target": "No es una decisión que tengas que tomar ahora mismo. Pero, dado que esa autoridad incluye el mando del ejército, tampoco puedes cederla a la ligera."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_029",
+      "hash": "828122427FCEF048",
+      "target": "Ya lo pensaremos juntos más adelante, pero por ahora quiero que la conserves. Lo que te ha dejado tu padre..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_030",
+      "hash": "4917AD0A8649F95D",
+      "target": "...Si tú lo dices."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_031",
+      "hash": "663BD767DC478F84",
+      "target": "Oye... ¿estás bien, Lamaty'i?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_032",
+      "hash": "C52CF5FF527AC235",
+      "target": "¿Eh...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_033",
+      "hash": "448812CA04F2A919",
+      "target": "Uf, ¿qué es esto? ¿Por qué no puedo...? ¡Agh!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_034",
+      "hash": "2AF37167D0AEA6FB",
+      "target": "A pesar de todo lo que ha pasado─de todas las cosas terribles que hizo mi hermano─sigo sin saber qué sentir hacia él... ¿Qué me pasa?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_Q1_000_000",
+      "hash": "07308F001A0E7B43",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_A1_000_001",
+      "hash": "28942DDC590C198D",
+      "target": "Es perfectamente normal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_A1_000_002",
+      "hash": "A8B81449F45AEAAC",
+      "target": "Solo necesitas un poco de tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_036",
+      "hash": "C7985721401801E1",
+      "target": "¿Tú crees? Me fío de tu palabra..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_037",
+      "hash": "DC5D4EA64E354B5F",
+      "target": "Por ahora tenemos la situación controlada. ¿Por qué no vuelven a Tuliyollal a descansar mientras los demás se ocupan de la investigación?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_038",
+      "hash": "212BAB833EDC881F",
+      "target": "¿Sabes qué? Creo que eso haré. Me vendrá bien ver cómo están las cosas en casa y ponerme al día con Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_039",
+      "hash": "5BC242934A4A5D1C",
+      "target": "¡Eh! ¿Y por qué no venís vosotros dos también?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_040",
+      "hash": "01B83123F9EE4E40",
+      "target": "Pero... ¿no me odiará todo el mundo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_041",
+      "hash": "3D04D00460DC2567",
+      "target": "Claro que no. Puede que al principio duden un poco, pero yo los pondré en su sitio."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_042",
+      "hash": "EB9A95AF8E89F16F",
+      "target": "Además, quiero presentarte a Koana. Como nueva familia."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_043",
+      "hash": "75C3A4166E11BE44",
+      "target": "¿¡D-De verdad!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_044",
+      "hash": "B81CC75F0DA23C2B",
+      "target": "¡De verdad! Bueno, si a ti te parece bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_045",
+      "hash": "02A0BB1C18E8134F",
+      "target": "¡Sí que quiero! ¡Sí que quiero!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_046",
+      "hash": "77A0A77ACB48BBE1",
+      "target": "¡Pues en marcha! Iremos directos al palacio a ver a Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_SHALE_000_050",
+      "hash": "6F411CB0F8DBC21E",
+      "target": "Descansen bien─se lo han ganado. Yo, por mi parte, me mantendré al margen una temporada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_060",
+      "hash": "19FA2C4E618D6675",
+      "target": "Yo soy yo mismo... ¡Sí que lo soy!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_065",
+      "hash": "89BC26F3F247FCD7",
+      "target": "Aunque sabía que todo iba bien, ver a Lamaty'i con mis propios ojos me reconforta igualmente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_070",
+      "hash": "89D06227ED59758D",
+      "target": "Dentro de la cúpula estaba, en efecto, el reino de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_071",
+      "hash": "16AA090570A71C83",
+      "target": "Un reino que gobernaba junto a Sphene. Él como Rey de la Resolución y ella como Reina de la Razón."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_072",
+      "hash": "8B591EFB859F0924",
+      "target": "Igual que tú y yo aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_073",
+      "hash": "701FE776D813BD5E",
+      "target": "Su gente lleva una vida muy distinta a la nuestra. Pero, como nosotros, la viven al máximo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_074",
+      "hash": "8AEA5A92817A10FF",
+      "target": "Y Sphene tiene mucho que ver con eso. Es una gobernante atenta y cercana que trata a todos como si fueran de la familia."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_075",
+      "hash": "E5981FA7467FF037",
+      "target": "Tú y ella debisteis de llevaros bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_076",
+      "hash": "E88713519E3A89DF",
+      "target": "Así fue... Pero, por amor a su pueblo, ha elegido el camino equivocado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_077",
+      "hash": "4DAFFBD3FFC87258",
+      "target": "Son buena gente, los alejandrinos... Nos acogieron en sus casas y nos trataron con amabilidad y respeto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_078",
+      "hash": "EEE30984883C870E",
+      "target": "Pero Zoraal Ja los masacró. Masacró a quienes debía proteger, para sus propios fines."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_079",
+      "hash": "2C6894FB30903D1F",
+      "target": "Por los dioses... Cuéntame cómo llegó a suceder esto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_080",
+      "hash": "DBB727C40FEF45AF",
+      "target": "Padre..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_085",
+      "hash": "B8CF6CBDCE9A44BF",
+      "target": "Que un rey haga daño a su propio pueblo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_090",
+      "hash": "0EBF314F945B7210",
+      "target": "Cuando su ataque a Tuliyollal fracasó, Zoraal Ja buscó más poder. Así que ordenó ejecutar a su gente y cosechó sus almas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_091",
+      "hash": "695FD1C73F6CBE46",
+      "target": "¿Qué lo llevó a cometer semejante atrocidad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_092",
+      "hash": "8CBAC46139559405",
+      "target": "Decía que quería someter el mundo entero a su dominio. Pero eso solo era un medio para alcanzar su verdadero deseo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_093",
+      "hash": "763E02B5EC96F29F",
+      "target": "Mi abuelo... Era un gran hombre, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_094",
+      "hash": "655F1EAF9FAF1F69",
+      "target": "Puede que... puede que mi padre quisiera demostrar que era él mismo. Que no era solo el hijo de un gran hombre."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_095",
+      "hash": "50C33F098B41D924",
+      "target": "Diría que tienes razón. Como Hijo Resiliente, heredero legítimo de nuestro padre, cargaba con el peso de las expectativas. Un peso claramente mayor de lo que ninguno de nosotros había imaginado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_096",
+      "hash": "1EACC2FF1105FB28",
+      "target": "Seguramente por eso era como era. Y por eso no me quería a mí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_097",
+      "hash": "A97DA3EB20426DC1",
+      "target": "Maldita sea... Si nos hubiéramos esforzado más por llegar hasta él..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_098",
+      "hash": "1D09B48F349675A1",
+      "target": "\\<suspiro> Sigamos caminando."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_100",
+      "hash": "27391ECA99399FD2",
+      "target": "Lo que hizo mi padre estuvo mal. Había que detenerlo. Pero... me alegro de haber podido conocer un poco a la persona que era."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_105",
+      "hash": "8D842ED57547D5F4",
+      "target": "De pequeño envidiaba a mi hermano. Pero puede que esa envidia también fuera un peso para él."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_110",
+      "hash": "69892758A89EBC41",
+      "target": "Zoraal Ja se había vuelto inimaginablemente poderoso. Solo con la ayuda de <split(<string(gstr1)>, ,1)> conseguimos derrotarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_111",
+      "hash": "EF389531F3C322DD",
+      "target": "Y ahora tengo una responsabilidad con la gente de Alexandria. Y sobre todo con Gulool Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_112",
+      "hash": "D5C8CC0199C75F27",
+      "target": "¡...!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_113",
+      "hash": "045E8B2E2DB739E0",
+      "target": "Te lo prometí, ¿no? Que seríamos familia. Y no es solo por obligación. Desde que te conozco, te he cogido mucho cariño."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_114",
+      "hash": "771878AE395F39A5",
+      "target": "Puede que no seas mi sobrino de sangre, pero somos familia hasta el final. Siempre estaremos ahí para ayudarnos el uno al otro, ¿a que sí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_115",
+      "hash": "DFC395E2463F5216",
+      "target": "¡Sí!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_116",
+      "hash": "73688C887ADF107E",
+      "target": "Tú también, <split(<string(gstr1)>, ,1)>. Después de todo lo que hemos pasado, ya somos prácticamente familia."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_117",
+      "hash": "B5FCC064E72CC01A",
+      "target": "¿¡Cómo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_118",
+      "hash": "C99E8450BDD20090",
+      "target": "¿Cómo que “cómo”? Cuanta más familia, mejor, ¿no crees? ¡Vamos, entremos en el cuartel!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_120",
+      "hash": "92319366553E9837",
+      "target": "¡Yo también quiero ser familia tuya, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_125",
+      "hash": "11BC61EF3810ACF1",
+      "target": "¡Como hizo papá al acogernos, yo quiero agrandar mi familia! A ti tampoco te vendría mal algo más de familia, ¿verdad, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_150",
+      "hash": "E89C1BBA8BC37A42",
+      "target": "Me alegra haber podido escuchar lo que ocurrió dentro de la cúpula."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_151",
+      "hash": "B6D1C9CDFE1859D3",
+      "target": "Pero siento que hayas tenido que cargar con un peso tan grande, Lamaty'i..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_152",
+      "hash": "B79429B7DDD2A403",
+      "target": "No lo sientas. Como Juramento de la Resolución, era algo que tenía que hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_153",
+      "hash": "8A985DAA02012BB5",
+      "target": "¡Además, fue tu ingeniosa estrategia la que mantuvo a salvo Tuliyollal!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_154",
+      "hash": "96D0382BB5615D14",
+      "target": "¡Pedirte que gobernaras conmigo fue sin duda una de mis mejores ideas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_155",
+      "hash": "B8C886861D775E8D",
+      "target": "Si pudimos repeler a los invasores fue porque luchamos todos como uno solo─y aun así únicamente con la ayuda de Vrtra y los suyos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_156",
+      "hash": "5648ABFC32BF7248",
+      "target": "Gracias a la intercesión de Alphinaud y Estinien, pudimos forjar enseguida una alianza con Radz-at-Han."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_157",
+      "hash": "DD4764E397F27741",
+      "target": "Y cuando los dragones aparecieron en nuestros cielos, sentí que era eso─la Tuliyollal que tú habías imaginado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_158",
+      "hash": "F957CD3AF257D0C3",
+      "target": "Tenemos una gran deuda con nuestros nuevos aliados, y espero que algún día podamos saldarla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_159",
+      "hash": "8229E2E5F8D94700",
+      "target": "Desde luego. Cuando haya resuelto todo esto, deberíamos ir a darles las gracias en persona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_160",
+      "hash": "457DEA4833029D5F",
+      "target": "<split(<string(gstr1)>, ,1)> ya me lo había contado, pero todavía te queda trabajo por hacer, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_161",
+      "hash": "196258E3D99EBD04",
+      "target": "Sí. Tengo que encontrar a Sphene."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_162",
+      "hash": "97CE78C8ECDCC4B6",
+      "target": "Hizo daño a nuestra gente para que la suya pudiera vivir. Pero, mientras me enfurecía por lo que había hecho, me di cuenta de algo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_163",
+      "hash": "6E3F6354EA016151",
+      "target": "Que Tuliyollal esté a salvo no significa que pueda desentenderme de lo que le ocurra a Alexandria. Esa forma de pensar es la que llevó al conflicto en los viejos tiempos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_164",
+      "hash": "EA8BD5085384BE0D",
+      "target": "Quiero ayudar al pueblo alejandrino a vivir en paz y felicidad. Y la única manera de lograrlo es impedir que Sphene siga su camino."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_166",
+      "hash": "5A09FD2DB125562C",
+      "target": "Muy bien, Lamaty'i. Solo prométeme que te cuidarás."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_167",
+      "hash": "A2DCF63A2F0CED3B",
+      "target": "Te lo prometo, Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_GULOOLJA_000_170",
+      "hash": "7AA81379BDF75069",
+      "target": "Ojalá pudiera hacer algo para ayudar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_175",
+      "hash": "36AE1591DF88C81F",
+      "target": "Qué bien sienta estar en casa, aunque sea solo un rato. Gracias por acompañarme, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_180",
+      "hash": "00034965AEFC6319",
+      "target": "\\<suspiro> Aunque me lo esperaba, no puedo evitar preocuparme."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_181",
+      "hash": "45EC9955836F868C",
+      "target": "Siento tener que marcharme otra vez tan pronto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_182",
+      "hash": "34E459FE86437E2A",
+      "target": "Pero, dejando a Sphene aparte, puede que algunos de los nuestros estén entre los Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_WUKLAMAT_000_183",
+      "hash": "CEB0894BBCA9DF87",
+      "target": "No puedo quedarme de brazos cruzados y dejárselo todo a los demás."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_184",
+      "hash": "5D73CF5AC8656BB9",
+      "target": "Lo entiendo. Aquí lo tengo todo bajo control, así que haz lo que debas hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf101_04946#TEXT_KINGMF101_04946_KOANA_000_185",
+      "hash": "89CB60C0D08354E9",
+      "target": "<split(<string(gstr1)>, ,1)>. Por todo lo que has hecho por nosotros─por nuestra nación y por nuestra familia─temo no poder expresar nunca la gratitud suficiente. Pero gracias, de todo corazón."
+    }
+  ]
+}

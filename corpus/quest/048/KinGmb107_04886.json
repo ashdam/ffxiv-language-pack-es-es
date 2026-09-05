@@ -1,0 +1,245 @@
+{
+  "conversation": "quest/048/KinGmb107_04886",
+  "questName": "A Brother's Duty",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_SEQ_00", "hash": "56D5F5852EC35DDC", "target": "Koana quiere ejecutar la fase final de su plan." },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_00", "hash": "463B2B2342ED57F7", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_01", "hash": "6C8319676A01FD21", "target": "Derrotar a los bandidos" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_02", "hash": "8DD4A70AC937C575", "target": "Hablar con Koana" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_03", "hash": "134A5E0347517EF7", "target": "Otear la zona desde el punto de observación" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_04", "hash": "859B95D612760F05", "target": "Seguir a Wawkesa sin que te vean" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_05", "hash": "3F098DA7D2B3FCCD", "target": "Seguir al Hoobigo sospechoso sin que te vean" },
+    { "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TODO_06", "hash": "A600CD009A2FA944", "target": "Hablar con Koana" },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_001",
+      "hash": "2DA1618D81706009",
+      "target": "Ejecutemos la fase final del plan."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_002",
+      "hash": "5825DED3121D62EF",
+      "target": "Saldré hacia Earthenshire solo y desarmado, para vender mejor el papel de mercader indefenso. Suponiendo que Wawkesa vigile, seguramente esperará a algún tramo solitario del camino antes de abordarme."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_003",
+      "hash": "51685ACE65EEDDAA",
+      "target": "Contaré con que me sigáis de cerca, oculto hasta que llegue el momento de cerrar la trampa sobre nuestro rey de los bandidos. Recordad solo una cosa: lo necesitamos vivo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_010",
+      "hash": "F9BF8230ACDE0350",
+      "target": "Wawkesa <italic(1)>nos dirá<italic(0)> qué ha hecho con Lamaty'i."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_011",
+      "hash": "C82BD9590EA76E63",
+      "target": "He oído que el negocio te ha ido bien, señor mercader. ¿Qué tal si compartes algo de las ganancias?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_012",
+      "hash": "82B9F903E3BCE42D",
+      "target": "¡Y con “algo” quiero decir hasta la última moneda que tengas!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_013",
+      "hash": "16BD6825098A784C",
+      "target": "T-tú eres el coleccionista de gemas... Ah, ya veo de qué va esto. ¡Nos han engañado!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_014",
+      "hash": "F93A284C36D4781F",
+      "target": "¡Escupo en tu ojo! ¡Muchachos, matad a estos vidraal!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_015",
+      "hash": "9AB0FC19125DD842",
+      "target": "Alimaña escurridiza. Tendremos que interrogar a sus secuaces."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_016",
+      "hash": "FB7F576F6F56FBBD",
+      "target": "Si eres tan amable, <split(<string(gstr1)>, ,1)>. Te ruego que los dejes capaces de hablar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_020",
+      "hash": "604902CA7763EEAA",
+      "target": "Os ayudaría, pero, ay, voy desarmado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_500",
+      "hash": "6C4BC895705A8D4B",
+      "target": "<if(gnum4,Ella,Él)> es demasiado fuerte..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_SHETONATHIEF04885_000_501",
+      "hash": "8FD295C9FC5C3CA2",
+      "target": "¡Agh!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_TONAWAWTATHIEF04885_000_501",
+      "hash": "5E196209353321B4",
+      "target": "Uf..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_030",
+      "hash": "DEA25BA0225DEE08",
+      "target": "Esperaba hablar con vuestro jefe, pero supongo que los tres tendréis que servir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_SHETONATHIEF04885_000_031",
+      "hash": "E2D2143F45E1BAB3",
+      "target": "Espera... ¡Ese es la Segunda Promesa! ¿¡Qué quieres de nosotros!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_032",
+      "hash": "AC1967C293663936",
+      "target": "¿Crees que me asusta un título elegante? Me llevaré tus orejas reales de trofeo... ¡en cuanto me suelte de estas cuerdas!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_033",
+      "hash": "ABFAF92198B346B9",
+      "target": "Sé que vuestra banda está detrás del secuestro de mi hermana. Decidme dónde está."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_SHETONATHIEF04885_000_034",
+      "hash": "9C781DDC1C87DEF0",
+      "target": "¡Cómete la mierda de 'paca, amigo de la sal! ¡De nosotros no sacarás respuestas!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_035",
+      "hash": "53C5045E50D9D8EE",
+      "target": "¡Eso es! ¡No te servimos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_036",
+      "hash": "FAB630A43043C9B2",
+      "target": "<italic(1)>No juguéis conmigo.<italic(0)> ¿¡Dónde está Wuk Lamat!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_037",
+      "hash": "679DDD99C7DAFC2D",
+      "target": "Se me agota deprisa la paciencia. Hablad ahora o morid. Vosotros elegís."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_038",
+      "hash": "D86983DF64F7F322",
+      "target": "\\<trago> N-nos contrataron para pillar a la Tercera Promesa, nada más. No sabemos adónde se la llevaron..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_039",
+      "hash": "6F72FCC810C7F666",
+      "target": "¿Contrataron? ¿Quién?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HHETSARROTHIEF04885_000_040",
+      "hash": "D7C6A791467B418C",
+      "target": "Eso tampoco nos lo dijeron. Solo lo sabe Wawkesa: es él quien aceptó el encargo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_041",
+      "hash": "13A820354F348595",
+      "target": "Vaya, parece que necesitábamos a su cabecilla, después de todo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_042",
+      "hash": "3C3E8287C4B86FEE",
+      "target": "En cuanto disponga que la Legión del Alba se haga cargo de estos criminales, avisaré a Thancred y sus dotes de rastreo. ¿Pero quizá podríais perseguir a Wawkesa mientras tanto?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_043",
+      "hash": "9FB5B6F38386CF23",
+      "target": "El bandido corría en dirección este. Si dais con él, os sugiero que lo sigáis en vez de forzar un enfrentamiento: puede que nos lleve adonde tienen retenida a Lamaty'i."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_050",
+      "hash": "053C9B424AC18E12",
+      "target": "Id tras Wawkesa. Yo vigilaré a estos malandrines hasta que la Legión del Alba pueda hacerse cargo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_Q1_000_000",
+      "hash": "1ED8D6FBD0C3CD62",
+      "target": "¿Intentar seguir a Wawkesa?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_063",
+      "hash": "0BD5E850C6596C39",
+      "target": "¡Por fin! Mi dinero, dádmelo ya. ¡Puede que la Legión del Alba ya nos esté buscando!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_064",
+      "hash": "76F9A2B9C642CA3B",
+      "target": "Cálmate. Nosotros también tuvimos lo nuestro para encontrar un escondrijo adecuado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_065",
+      "hash": "A0E1866BC580C856",
+      "target": "B-bien..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_066",
+      "hash": "4AC202B563A972D3",
+      "target": "Hemos terminado. ¡Coge tu premio y déjame fuera del resto!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_067",
+      "hash": "F6790BE6DA1485F3",
+      "target": "Cuánta hostilidad. Andabas mal de monedas y yo te ofrecí un empleo lucrativo por pura <italic(1)>bondad<italic(0)> de mi corazón."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_068",
+      "hash": "2AD94F8F981BD2A0",
+      "target": "¿¡Bondad!? ¡Nos habéis traído encima una tempestad negra!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_WAWKESA_000_069",
+      "hash": "E1B14A1948C8C8CD",
+      "target": "Con una mirada supe que <if(gnum4,esa mujer,ese hombre)> era <if(gnum4,una asesina,un asesino)>. <if(gnum4,Una carnicera,Un carnicero)>. Un demonio salado en carne y hueso."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_070",
+      "hash": "B934451958819438",
+      "target": "Ah, ahórrame tus balidos de miedo. ¡Venga! Escabúllete ya, antes de que el mercenario aterrador venga a reclamar tu cabeza."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_THANCRED_000_071",
+      "hash": "8E3D05B848ED5E11",
+      "target": "Koana me ha dado la noticia. ¿Ha encontrado al secuestrador, entonces? ¿Cuál es la situación?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_THANCRED_000_072",
+      "hash": "8541A38B68FB056A",
+      "target": "¿Y crees que a los bandidos los contrató este Hoobigo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_THANCRED_000_073",
+      "hash": "5EA30DC3113D8E05",
+      "target": "Bien, estrategia nueva. Olvida a Wawkesa y pégate al rastro del Mamool Ja. No queremos poner en peligro a la Tercera Promesa, así que mantén la distancia hasta que sepamos seguro que la tienen."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_THANCRED_000_074",
+      "hash": "DEA95EBCF2B0735C",
+      "target": "Te alcanzaré en cuanto pueda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_Q2_000_000",
+      "hash": "516D0B3CA2305AD6",
+      "target": "¿Intentar seguir al Hoobigo sospechoso?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_090",
+      "hash": "7CD602CF1102E444",
+      "target": "Habré puesto el rescate de Lamaty'i por delante de mi propio avance, pero no lo toméis por que haya renunciado a la contienda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_091",
+      "hash": "4781AB11DC7B4105",
+      "target": "Entendéis lo importante que es ella para mí. Y, sin embargo, por muy unidos que estuviéramos, habría tomado esta misma decisión."
+    },
+    {
+      "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_KOANA_000_092",
+      "hash": "498CAD70693BF14C",
+      "target": "Al fin y al cabo, si soy incapaz de salvar a mi hermana y ganar el trono a la vez, entonces no soy digno de heredar el pesado manto de nuestro padre."
+    }
+  ]
+}

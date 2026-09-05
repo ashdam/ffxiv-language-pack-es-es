@@ -1,0 +1,167 @@
+{
+  "conversation": "quest/014/GaiUse306_01447",
+  "questName": "Stories We Tell",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_00",
+      "hash": "07206223023261DA",
+      "target": "Las recientes revelaciones pesan mucho en el ánimo de Alphinaud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_01",
+      "hash": "649AE2DFEF2D7DEE",
+      "target": "Mientras tú y Alphinaud debatís vuestro siguiente paso, te reencuentras con la niña de Tiro de Piedra. Al enterarse de tu deseo de dar con el mercader que reclutó a sus padres, te ha buscado con la esperanza de que la lleves hasta ellos. Aunque es evidente que no le apetece, Alphinaud se ofrece a ayudar a la niña en su búsqueda. Poco después, Minfilia se pone en contacto contigo y te pide que regreses al Refugio de las Piedras de inmediato. La situación en la Selva de los Doce ha empeorado, y es probable que te pidan que intervengas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_02",
+      "hash": "1544ADDCA44AF368",
+      "target": "Minfilia se alegra de saber que tú y Alphinaud estáis bien, y dice que está lista para informarte de la última amenaza. Avísala cuando estés listo para que pueda convocar a los demás Herederos al solario."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_TODO_00",
+      "hash": "AC050E787B188CBC",
+      "target": "Hablar con Minfilia en el Refugio de las Piedras"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_000",
+      "hash": "232808F7EC329942",
+      "target": "Debería alegrarme de conocer la verdad y, sin embargo... la idea de que todo este caos sea fruto del ansia de poder de un solo hombre me revuelve las entrañas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_001",
+      "hash": "9495EE513920AC9D",
+      "target": "¿Cuánto tiempo crees que pensaban ocultar la existencia de Omega a los Herederos? Que siquiera sintieran la necesidad de hacerlo es de lo más inquietante."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_002",
+      "hash": "30E65FB959712593",
+      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de la Doble Víbora,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_003",
+      "hash": "DCF194A2777F7783",
+      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Por fortuna, ya te encuentras en buena posición para hacerlo, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Mantennos informados de cualquier novedad en Carteneau."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_GUARD01447_000_004",
+      "hash": "00293AFFC309CA10",
+      "target": "¡Largo de aquí, mocosa! ¡Este no es lugar para niños!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ELE_000_005",
+      "hash": "E5AC91B35B57A2DE",
+      "target": "\\<sorbe> \\<sollozo> Lo... lo siento..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ELE_000_006",
+      "hash": "A91431AE61D9749C",
+      "target": "Yo... \\<sorbe> Te estaba buscando, <if(gnum4,señorita,señor)>. Dijiste que buscabas al hombre que se fue con mis padres. \\<sollozo>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_007",
+      "hash": "DA9635D195219252",
+      "target": "¿Conoces a esta niña?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_008",
+      "hash": "104DC3D0CD415161",
+      "target": "¿Así que también visitó Tiro de Piedra? Ya veo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ELE_000_009",
+      "hash": "F832122110C60D9A",
+      "target": "¿Encontraste al hombre? ¿Estaban mis padres con él?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_010",
+      "hash": "29BCF9B1BB5629AA",
+      "target": "Me temo que no."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_011",
+      "hash": "39C860060E492522",
+      "target": "...Sin embargo, se me ocurren varios sitios donde podrían estar. Si quieres, podemos ir a buscarlos juntos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ELE_000_012",
+      "hash": "B4448B1D84639C02",
+      "target": "¿De verdad? ¿Me ayudarás a buscar, señor?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_013",
+      "hash": "6FF633735573B4CF",
+      "target": "Claro. Pero antes debo terminar de hablar con <if(gnum4,mi amiga,mi amigo)>. <if(gnum4,Ella,Él)> me está contando un secreto, ¿sabes?, y nadie más puede escuchar. ¿Podrías esperarme junto a aquella columna? Solo será un momento."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ELE_000_014",
+      "hash": "B3A42435391B36AF",
+      "target": "¡Vale, señor! ¡Te espero!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_015",
+      "hash": "3908F48DFAF11062",
+      "target": "...La llevaré a Quicksand. Quizá Momodi sepa qué hacer."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_016",
+      "hash": "B75253863D7F4877",
+      "target": "\\<suspiro> Una legión de garleanos, un primigenio famélico de éter... hasta tratar con un <italic(1)>asciano<italic(0)> sería preferible a esta farsa."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_017",
+      "hash": "DA44202C0AD6829B",
+      "target": "A veces temo que Minfilia sea demasiado ambiciosa. Corremos de aquí para allá respondiendo a las amenazas según surgen, sin reparar en la tensión que ello supone para nuestros limitados recursos... y para nosotros mismos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_018",
+      "hash": "B0D47D54C47DD9F1",
+      "target": "Quizá haya llegado el momento de un cambio..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_019",
+      "hash": "0D83276856281748",
+      "target": "<split(<string(gstr1)>, ,1)>, soy Minfilia. Sé que es repentino, pero he de pedirte que regreses al Peaje del Aparecido con la debida premura."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_020",
+      "hash": "A976A841D9027AC5",
+      "target": "La situación en la Selva de los Doce ha empeorado. Te lo explicaré en detalle cuando llegues."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_021",
+      "hash": "B50663ACF98509C0",
+      "target": "¿La Selva de los Doce? ¿Entonces se ha confirmado la amenaza de primigenio de la que habló antes? No he recibido informes de actividad de los Ixal, lo que deja... ¿a los silfos?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_022",
+      "hash": "B942BD8F70254DCB",
+      "target": "Ve, <split(<string(gstr1)>, ,1)>. Sabes tan bien como yo que la aparición de un primigenio tiene prioridad sobre todo lo demás."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_023",
+      "hash": "6354EB8F6CEC4BB7",
+      "target": "Ah, y cuando llegues, informa a la Antecesora de que, aunque agradezco su preocupación, no debe temer por mi seguridad. Soy más que capaz de protegerme yo solo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MESSENGER01447_000_025",
+      "hash": "E514090B6787274D",
+      "target": "Vengo de parte de la Gran Vidente a solicitar la ayuda de vuestra orden. La Antecesora ya ha sido informada de la situación."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_030",
+      "hash": "FDE8E6F9E3C25740",
+      "target": "Es un alivio verte <if(gnum4,sana y salva,sano y salvo)>, <split(<string(gstr1)>, ,1)>. Las últimas noticias de Ul'dah eran de lo más inquietantes."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_031",
+      "hash": "5B90897BB0A877E4",
+      "target": "...Está claro que la única herida que sufrió Alphinaud fue en su orgullo. Sin duda sanará en poco tiempo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_032",
+      "hash": "AE955FC724E54522",
+      "target": "Los demás Herederos deberán estar presentes en esta reunión. Si estás <if(gnum4,lista,listo)> para empezar, los convocaré ahora."
+    }
+  ]
+}

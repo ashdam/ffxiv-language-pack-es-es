@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/006/SubWil115_00624",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_00", "hash": "576EADF4629AC291", "target": "Tutusi, del Campamento Huesos Secos, necesita a alguien que le consiga unos solomillos de myotragus." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_01", "hash": "A9E2BB3AB50D4B51", "target": "Tutusi y Zozoru desean ofrecer a un hombre gravemente herido un festín de filetes de myotragus para lo que quizá sea su última comida. Abate myotragus nannies y obtén los solomillos necesarios para cumplir su deseo." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_02", "hash": "77D2FEA24C8197FD", "target": "Has obtenido cinco solomillos de myotragus. Entrégaselos a la hermana Zozoru en la posada del Campamento Huesos Secos." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_03", "hash": "0DF2D6375DD0467D", "target": "Lamentablemente, el hombre que ansiaba el festín de filetes ha sucumbido a sus heridas. Vuelve con Tutusi para darle la mala noticia." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_SEQ_04", "hash": "F0F9679106FBBF70", "target": "Tutusi te insta a no dejar que te atormente el deseo incumplido del moribundo. En el negocio de la muerte siempre hay trabajo que hacer, y los mercaderes del Campamento Huesos Secos no se permiten el lujo del duelo." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_00", "hash": "4ED175750AF39387", "target": "Obtener solomillos de myotragus nannies" },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_01", "hash": "A1DEB5AC6E3A2F5F", "target": "Entregar los solomillos de myotragus a la hermana Zozoru" },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TODO_02", "hash": "03685651B40A863F", "target": "Informar a Tutusi" },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_1", "hash": "BB415D33A69F45FA", "target": "¿Viene a llorar a alguien, <if(gnum4,señorita,señor)>? ¿Ha perdido a un ser querido?<br>...Ah, ya veo, no es más que <if(gnum4,otra buena aventurera,otro buen aventurero)> que llega a nuestro puesto." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_2", "hash": "A13C77A6E6A7B6D6", "target": "Bueno, en ese caso, tengo una aventura para usted. ¿Qué le parece si se acerca a las llanuras del este y me saca cinco piezas de solomillo de unas myotragus nannies?" },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_3", "hash": "734A0F0163AD97AF", "target": "En la posada cuidamos de un hombre herido que está al borde de la muerte. Nada nos gustaría más que ofrecerle un festín de jugosos solomillos de myotragus para lo que bien podría ser su última comida." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_4", "hash": "0BD741EFB12488B7", "target": "En cuanto tenga los solomillos, lléveselos directamente a la hermana Zozoru, en la posada." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_10", "hash": "EF8B182102050672", "target": "Baje la voz, por favor. ¿Qué asunto le trae por aquí?" },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_11", "hash": "C32B0DFD533D4F30", "target": "¿Solomillos de myotragus? Supongo que la envía Tutusi. Gracias por sus esfuerzos, <if(gnum4,amiga,amigo)>..." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_12", "hash": "83CEE3A8891F2546", "target": "...Pero me temo que llega demasiado tarde. El hombre para quien eran estos filetes ha sucumbido a sus heridas hace apenas unos instantes." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_ZOZORU_000_13", "hash": "88E981DA46ADD993", "target": "No se desespere, se lo ruego. Ahora banquetea con Thal. Y Thal ha visto hoy la bondad que hay en usted." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_20", "hash": "E5E8FDE60D4EF9E0", "target": "¿Ha muerto? \\<suspiro> Hizo una buena obra, <if(gnum4,amiga,amigo)>. De nada sirve angustiarse por el orden en que pasan las cosas. Lo que importa es que pasan... y nada de lo que pasa escapa a la mirada de los dioses." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_21", "hash": "C0C9C5E0B4843278", "target": "Hay un cementerio justo al lado de Huesos Secos. Mucha gente trae hasta aquí a sus muertos y moribundos. Muchos los abandonan sin más para ahorrarse la molestia y el coste de un entierro." },
+    { "gameKey": "quest/006/SubWil115_00624#TEXT_SUBWIL115_00624_TUTUSI_000_22", "hash": "5D6CCC31BD72A8B8", "target": "Este pobre desdichado, al menos, tenía familia que acudió a su lado. Cuente eso como una suerte. Sencillamente le había llegado la hora de atender la llamada de Thal. Más vale dejarlo estar y seguir adelante. Hay negocio que atender. Parcelas, tumbas, embalsamamientos, lápidas. Nada en esta vida es gratis... ni siquiera la muerte." }
+  ]
+}

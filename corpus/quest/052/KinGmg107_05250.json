@@ -1,0 +1,424 @@
+{
+  "conversation": "quest/052/KinGmg107_05250",
+  "questName": "Crossroads",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_00", "hash": "84B1A620BC2D352E", "target": "Incapaz de quedarse quieta, Wuk Lamat está lista para volver a toda prisa a Alexandria." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_01", "hash": "39DA8C350F063B52", "target": "Apenas sacas con Wuk Lamat el tema de regresar a la cúpula, Erenville pregunta por los detalles de vuestros asuntos allí. Da la casualidad de que él también está considerando una estancia en Alexandria, para hallar el modo de ayudar a los afectados por la crisis. Así pues, partís juntos hacia la Trastienda, con su entrañable figurita de Cahciua a cuestas." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_02", "hash": "DDB51A155661179F", "target": "Llegas en el momento perfecto para conocer los frutos del trabajo de Shale: una serie de diarios de audio grabados por la propia Teeshal Ja, que detallan sus sentimientos por Zoraal Ja y el rechazo de este hacia el hijo de ambos. Aunque estas perturbadoras revelaciones abrumarían incluso a un adulto, Gulool Ja pone al mal tiempo buena cara e incluso agradece a los presentes que lo hayan ayudado a conocer por fin la verdad de su nacimiento." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_03", "hash": "BB341C805C615975", "target": "Respondidas las preguntas de Gulool Ja, Shale puede dedicarse ya a otros asuntos, como la incursión investigadora de Y'shtola en la Memoria Viva. Las dos parten sin mucho aspaviento, dejándoos a ti y a tus demás compañeros a vuestro aire." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_04", "hash": "22927F556E8EBE5D", "target": "Como tu principal preocupación, aparte de Gulool Ja, es difundir la reanudación del servicio ferroviario, hablas con Geode, quien a su vez te sorprende con la noticia de que muy poca gente tiene intención de hacer el viaje a Tuliyollal. Teniendo en cuenta cuántos expresaron antes su deseo de hacerlo, es sin duda un extraño cambio de ánimo, y tú y Wuk Lamat decidís averiguar qué lo ha provocado." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_05", "hash": "7130648D90A6C750", "target": "Al acercarte a una multitud congregada cerca del lugar del funeral de Sphene, su discurso deja claro que no solo no han asimilado su desazón existencial en tu ausencia, sino que se han sumido en un pánico aún mayor por su mortalidad. Grande es su alegría, pues, cuando su amada reina Sphene aparece de pronto con una solución: convertir a la gente en Perpetuos mediante neorreguladores, para que no teman ya a la muerte. Dado que fuiste pieza clave en la destrucción de la Reina de la Razón, tú y Wuk Lamat sospecháis de inmediato un engaño, y vuestra duda no hace sino crecer cuando “Sphene” menciona la salvedad de que, por ahora, la dádiva que propone solo se extenderá a cinco mil ciudadanos. Pese a las protestas de Wuk Lamat, nadie se suma a vuestro escepticismo, pues los alejandrinos parecen aquejados de una amnesia colectiva y no guardan recuerdo alguno de su muerte ni del funeral posterior..." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SEQ_06", "hash": "341C9FB926F63D97", "target": "Como nada se gana con seguir dando el espectáculo al cuestionar las afirmaciones de la reina, te reúnes de nuevo con tus compañeros en la Trastienda, allí a esperar más información de los miembros de Oblivion sobre el terreno. Tendréis que proceder con cautela hasta que sepáis más sobre la entidad que porta el rostro de Sphene." },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_TODO_00", "hash": "A8A66D5CF2E6F9E8", "target": "Hablar con G'raha Tia en la Trastienda" },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_TODO_01", "hash": "2E01AFACEB6A7D47", "target": "Hablar con Y'shtola" },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_TODO_02", "hash": "32F0B0F06C8B2005", "target": "Hablar con Geode" },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_TODO_03", "hash": "DCFCEDD3B73A84AF", "target": "Hablar con Wuk Lamat en el nodo telúrico Nueve" },
+    { "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_TODO_04", "hash": "8EAF4804ABAF2FBA", "target": "Hablar con Krile" },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_001",
+      "hash": "C01EE6D2D2688F77",
+      "target": "No será como lo imaginé en su día... pero quizá algún día hagamos juntos ese viaje en tren a Yyasulani."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_010",
+      "hash": "CB7B350694B2FF61",
+      "target": "Bueno, puede que Shale ya haya avanzado algo. Y, en cualquier caso, deberíamos correr la voz de que el ferrocarril ha vuelto al servicio."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_011",
+      "hash": "9452837294DFD167",
+      "target": "¿Shale? ¿En qué la tenéis trabajando?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_012",
+      "hash": "58A78D3BD31FE745",
+      "target": "La madre de Gulool Ja..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_013",
+      "hash": "BF8A3E7C458865DE",
+      "target": "Yo sentiría lo mismo en su lugar. Lo <italic(1)>he<italic(0)> sentido. Hay preguntas que duelen si se quedan sin respuesta..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_014",
+      "hash": "64535868420D0E87",
+      "target": "No hace falta que me miréis así. La Cahciua que conocimos quizá fuera solo un simulacro, pero su recuerdo era real."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_015",
+      "hash": "66FEF4E95A170E96",
+      "target": "No necesito buscar lo que dejó atrás, porque me lo dejó a mí. Y lo llevaré siempre conmigo..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_016",
+      "hash": "CB173C569F1BAC4B",
+      "target": "Hablando de cosas que llevas encima..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_017",
+      "hash": "91723F4C0CE7C43B",
+      "target": "¿Eso es una Cahciua en miniatura?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_018",
+      "hash": "2302448C0ECD883F",
+      "target": "¿¡Qué!? ¡No!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_019",
+      "hash": "16DA7F5D298E6305",
+      "target": "No es más que un detalle de Alexandria. Los amigos de Oblivion no aceptaban un no por respuesta, y me pareció un recuerdo tan bueno como cualquier otro..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_020",
+      "hash": "765A7EE298D78581",
+      "target": "Lo que tú digas... Por si sirve de algo, a <italic(1)>mí<italic(0)> me parece una forma bonita de llevarla contigo de viaje."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_021",
+      "hash": "7063432E12BBA360",
+      "target": "...Ya. En fin. Ahora os vais a la cúpula, ¿no?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_022",
+      "hash": "AA0B1A80DA4E984E",
+      "target": "Se me ha ocurrido acompañaros un tiempo. A ver si puedo hacer algo por la gente de allí. Por mucho que haya cambiado, sigo considerándolo mi hogar."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_023",
+      "hash": "885B72BEFAA7FA1B",
+      "target": "¡Pues claro! Te ponemos al día por el camino."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_025",
+      "hash": "AFFC4E009039C195",
+      "target": "Parece que hemos llegado en buen momento."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_030",
+      "hash": "E93FFBB3F965EED8",
+      "target": "¡Erenville lleva puesta su Cahciua! Eso me hace feliz."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_035",
+      "hash": "48E21363EF74C90B",
+      "target": "Así que Zoraal Ja llevaba a cabo investigaciones secretas en Yuweyawata... Guardo algún recuerdo de ese lugar de cuando era niño."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_040",
+      "hash": "54287D83A00F0A46",
+      "target": "Debes de estar <if(gnum4,agotada,agotado)>. ¿Salgo a por un tónico energético?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_000_045",
+      "hash": "99EF4B29A3EDD64D",
+      "target": "Me alegra que hayáis vuelto. No querríamos hacer esperar a Gulool Ja más de lo necesario."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_050",
+      "hash": "20F5BA9688C70B9A",
+      "target": "Ver a Erenville siempre me hace acordarme de Cahciua... y no lo querría de otro modo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_051",
+      "hash": "D478B29F662549EB",
+      "target": "A los muertos hay que recordarlos; de eso estoy firmemente convencido. La madre de Gulool Ja también se lo merece."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_100",
+      "hash": "3F4D9A93CD9F28F0",
+      "target": "...Una solución sencilla y a la vez elegante. Y así el ferrocarril vuelve a estar en marcha."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_101",
+      "hash": "867A15B024D7F0B1",
+      "target": "Mientras tanto, Shale casi ha terminado de procesar los datos. Podrá compartir sus hallazgos con nosotros de un momento a otro."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_102",
+      "hash": "7B9D747FF85723D2",
+      "target": "...Interrumpo algo, deduzco."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_103",
+      "hash": "556F9B740F5E7EFD",
+      "target": "¡Vaya, Y'shtola! ¿Qué te trae por aquí?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_104",
+      "hash": "AF76E6FF0751D18F",
+      "target": "Por ahora ya he visto suficiente de la puerta del Skydeep Cenote, así que traslado mi investigación a la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_105",
+      "hash": "31772EED381794C8",
+      "target": "Y, estando allí, se me ocurrió que me convendría la compañía de alguien experto en electrope."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_000_106",
+      "hash": "2CBC746269F2DF7F",
+      "target": "A mí también me gustaría echarle un buen vistazo a ese lugar. Puedo acompañarte en cuanto terminemos aquí."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_107",
+      "hash": "627E2702118D28E0",
+      "target": "Y, no vayas a temer que lo haya olvidado: en cuanto avance con la Memoria Viva, la llave que custodias será lo siguiente que examine."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_110",
+      "hash": "84245565ABFA8290",
+      "target": "...Puede que te cueste creerlo, pero, hasta el rito de sucesión, Zoraal Ja fue un buen hermano para mí. Siempre. Y yo pensaba que papá era el mejor padre que se podía pedir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_111",
+      "hash": "2D602B26D75DA9CE",
+      "target": "No quiero pensar que el tiempo que pasamos juntos como familia fuera mentira. Pero, del mismo modo, la amargura que mi hermano guardaba dentro era más que real..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_115",
+      "hash": "2F878343B4AC5EDB",
+      "target": "No pasa nada. Quería saber más de mis padres, y ahora ya lo sé. Y no me arrepiento."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_116",
+      "hash": "F63645F02B920E0B",
+      "target": "Os tengo a Lamaty'i, a Koana y a ti, <split(<string(gstr1)>, ,1)>. Ya no me siento solo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_120",
+      "hash": "7B27FD81CDFBA674",
+      "target": "Por muy buena cara que ponga Gulool Ja, me imagino que le llevará tiempo hacerse a la idea."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_121",
+      "hash": "7865FA5442D07016",
+      "target": "Pero es fuerte. No hace falta que te preocupes demasiado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_125",
+      "hash": "C74E4E67D0C57FC3",
+      "target": "¿Que por qué dejaría un registro así? No puedo estar segura, pero creo que Teeshal Ja simplemente quería que alguien supiera lo que sentía. Que la entendiera."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_130",
+      "hash": "0E7C68FE191FF900",
+      "target": "Si la cúpula no hubiera aparecido, la historia de Teeshal Ja habría sido muy distinta. Aunque si habría sido más feliz o no, eso no sabría decirlo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_000_135",
+      "hash": "57E74515F7D0B75D",
+      "target": "Teeshal Ja también dejó registros escritos. Los recopilaré para Gulool Ja. Quizá algo en ellos le sirva de consuelo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_140",
+      "hash": "A3B9696798E25730",
+      "target": "Menudo desastre..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_200",
+      "hash": "E8056ADC1087F871",
+      "target": "“Es mejor saber”... Una respuesta profunda, viniendo de alguien tan joven."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_100_200",
+      "hash": "16D2A3071431FE37",
+      "target": "Aunque ojalá no tuviera que serlo, Gulool Ja es en verdad más sabio de lo que le corresponde por edad."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_201",
+      "hash": "A8D5EA0B8CA84801",
+      "target": "Y aun así, uno nunca deja de necesitar compañeros de fiar. Tiene suerte de tenerte."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_100_201",
+      "hash": "751E3A3D56F51C0A",
+      "target": "Gracias, Shale. Gracias a ti he podido oír la historia entera de mi madre."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_200_201",
+      "hash": "F868BCDA68EE6E11",
+      "target": "La oíste porque tuviste el valor de escucharla, Gulool Ja. Si has de recordar una sola cosa, recuerda esa."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_SHALE_000_202",
+      "hash": "51F9C46EDD30EB8A",
+      "target": "Bien─ya que he compartido cuanto puedo por ahora, estoy lista para partir hacia la Memoria Viva cuando tú lo estés."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_203",
+      "hash": "7CC1CEF5FAAF5F7E",
+      "target": "Pienso ser exhaustiva, así que tendremos que parar a por suministros por el camino."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_000_204",
+      "hash": "DEFBA4C9B816939B",
+      "target": "Dicho lo cual, prometo que no nos quedaremos demasiado. Sé que todos tenemos mucho de lo que ocuparnos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_YSHTOLA_100_204",
+      "hash": "E57AEA9EEE4CADD1",
+      "target": "Por ahora, hasta la vista."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_205",
+      "hash": "4E4A686E9D5C233F",
+      "target": "Ahora que el ferrocarril está listo, me gustaría hacerme una idea de cuánta gente piensa volver antes de que regresemos a Tuliyollal."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_210",
+      "hash": "7A1C63BC9F37C0E5",
+      "target": "¿Le irá bien a Shale ahí fuera? En todo el tiempo que estuvo con los datos no la vi descansar ni una vez..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_215",
+      "hash": "51CBC773417B95DC",
+      "target": "Me quedaré por aquí un rato. Avísame si me necesitas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_220",
+      "hash": "24E4992821E6AC88",
+      "target": "Nadie lo diría al verlas, pero Shale e Y'shtola son tal para cual. Dos almas incansables e incorregibles..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_225",
+      "hash": "5904CFC66AD2469E",
+      "target": "Los gemelos aún no han vuelto. Espero que todo vaya bien."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_300",
+      "hash": "5FC24F8692511BE4",
+      "target": "Una cosa, antes de que os vayáis."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_301",
+      "hash": "E0437761C7081181",
+      "target": "Nuestra red ya está difundiendo lo del ferrocarril. Esperábamos que la gente se peleara por subirse al primer tren de vuelta..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_302",
+      "hash": "1286F06A5B2EB79A",
+      "target": "Pero la reacción ha sido justo la contraria. Muy pocos parecen dispuestos a marcharse de Alexandria a corto plazo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_303",
+      "hash": "8FC471FFA16F6F0A",
+      "target": "¿Cómo? Cuando hablamos antes dijiste que muchos de Tuliyollal se morían por reunirse con sus amigos y su familia."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_304",
+      "hash": "F1C3C5F21F4989E2",
+      "target": "¿Quizá les preocupa atravesar la Vanguardia? Si es eso, podríamos turnarnos para acompañarlos..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_305",
+      "hash": "66F8D0DB03E4E0CE",
+      "target": "En cualquier caso, tenemos que hablar con la gente nosotros mismos. Empecemos por el nodo telúrico Nueve."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_310",
+      "hash": "C3F75137EF8200DF",
+      "target": "Ahora que el ferrocarril vuelve a funcionar, será mucho más fácil visitar Tuliyollal. También estaría bien volver a ver a Koana."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_315",
+      "hash": "B717E14BA44D0B9B",
+      "target": "Le he pedido a Geode que me ponga al día de todo lo que ha pasado últimamente en la cúpula. Si me entero de algo interesante, no dejaré de contároslo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_320",
+      "hash": "ECDCBB45819FE797",
+      "target": "La gente estaba tan inquieta por quedarse en Alexandria... No puedo evitar preguntarme qué habrá provocado un cambio de parecer tan repentino."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_325",
+      "hash": "D7D976DFD3058F97",
+      "target": "Quizá nosotros también nos demos una vuelta por ahí fuera."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_330",
+      "hash": "3CBBA7A45C78F20D",
+      "target": "Estoy tan sorprendido como vosotros. Antes todos tenían ganas de hacer las maletas y ahora, que el viaje es posible, ¿les da pereza?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_100_400",
+      "hash": "729871FC7DA17FD5",
+      "target": "Puede que todavía haya gente reunida en el Parque de la Praxis. Probemos allí primero."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_400",
+      "hash": "6229C91A2BD011FE",
+      "target": "En serio, ¿¡qué ha sido eso!?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GULOOLJA_000_405",
+      "hash": "8975AA896EA91DEA",
+      "target": "¿Que la reina Sphene ha vuelto? ¿Cómo?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ERENVILLE_000_410",
+      "hash": "64E184AB80C67F83",
+      "target": "A Sphene la borraron. Si ha vuelto, entonces ¿los Perpetuos...?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ALPHINAUD_000_415",
+      "hash": "6CA805927983D5FB",
+      "target": "Nos hemos enterado de la proclamación de la Reina de la Razón. Los rumores se han extendido por el distrito como la pólvora."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ALISAIE_000_420",
+      "hash": "B459BB851EEE9808",
+      "target": "¿Así que viste a Sphene con tus propios ojos? Entonces no era otra persona..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_425",
+      "hash": "4F86DDE8D1836216",
+      "target": "Sin el Meso Terminal, ¿cómo pretende crear nuevos Perpetuos? Debemos contactar con Y'shtola cuanto antes."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GEODE_000_430",
+      "hash": "A755CFD64ABBF0FE",
+      "target": "Todavía no hay nada que contar, pero tenemos ojos y oídos por toda Everkeep y la Herencia Recobrada."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_500",
+      "hash": "31E4C7E839010219",
+      "target": "Solo alcanzamos a oír la proclamación desde lejos, pero puedo asegurarte que el mensaje sobre los neorreguladores se recibió con toda claridad."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ALISAIE_000_501",
+      "hash": "A4B1A705132CAFB2",
+      "target": "No pudo ser Sphene. Debería haber quedado destruida cuando se apagó el Meso Terminal..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ALPHINAUD_000_503",
+      "hash": "308CB985C63F3EB8",
+      "target": "...Sin que un solo alejandrino lo presenciara. Puesta ante ellos una figura idéntica que dice ser su amada reina, no sorprende que prefieran creer que sigue viva."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_ALPHINAUD_000_504",
+      "hash": "9DA6B342D263367E",
+      "target": "Lo inquietante, sin embargo, es que nieguen que el funeral se celebrara en su honor. Es como si les hubieran borrado los recuerdos..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_GRAHATIA_000_505",
+      "hash": "21CCDD51E61634E9",
+      "target": "Dado que los miembros de Oblivion no se han visto afectados, lo más probable es que sea obra de los reguladores. Pero ¿por designio de quién?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_506",
+      "hash": "AF7F1E4012123D5A",
+      "target": "Alguien lo bastante listo como para hacerse pasar por la Reina de la Razón. Bajo esa apariencia, aunque algunos sospechen el engaño, casi toda Alexandria estará de su parte."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_WUKLAMAT_000_507",
+      "hash": "B2779D520BA6D3F2",
+      "target": "Tenemos que averiguar quién es <italic(1)>en realidad<italic(0)>."
+    },
+    {
+      "gameKey": "quest/052/KinGmg107_05250#TEXT_KINGMG107_05250_KRILE_000_508",
+      "hash": "D69A8DCA0FAA99E9",
+      "target": "Aunque estoy completamente de acuerdo, deberíamos evitar llamar más la atención de la que ya hemos llamado. Habrá que tener paciencia hasta que la red de Oblivion dé con una pista... o hasta que nuestra autoproclamada reina dé su siguiente paso."
+    }
+  ]
+}

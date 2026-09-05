@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa901_00796",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_00", "hash": "025B15CCB75986BB", "target": "Aeluuin quiere pedirte que hagas una entrega especial." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_01", "hash": "C6D4E0298AF96901", "target": "Aeluuin te ha encomendado entregar comidas a tres prospectores en el Risco de los Buscadores: Laughing Fury, Vavapu y Ademar." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_02", "hash": "22C695C058056B2C", "target": "Los tres prospectores se pusieron loquísimos de contentos al recibir sus tan esperadas comidas. Informa a Aeluuin de que ya no pasan hambre." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_SEQ_03", "hash": "D396EA4EF8FA75E3", "target": "Aeluuin se alegra sinceramente de oír que los prospectores del Risco de los Buscadores disfrutaron de sus comidas. Está claro que el posadero se preocupa mucho por sus clientes." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_TODO_00", "hash": "5ECEA81CF539D050", "target": "Entregar las comidas a los prospectores" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_TODO_01", "hash": "5E6D1E6422D61905", "target": "Informar a Aeluuin" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_000", "hash": "942298B2627680A2", "target": "<if(gnum4,Mi querida señora,Mi buen hombre)>, me atrevo a decir que es usted más de fiar que todos mis empleados juntos. Para bien o para mal, eso significa que tengo otro encargo para usted." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_001", "hash": "55577D2A1F2CAE5F", "target": "Tengo aquí tres cestas de comida que hay que entregar en el Risco de los Buscadores. Después de que el último aventurero se zampara él solo tres cajas y se largara sin pagar su cuenta, necesito a alguien de confianza." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_LAUGHINGFURY_000_010", "hash": "69ECEA0260639BE3", "target": "Cavar en busca de oro día y noche sí que me abre el apetito. ¿Ya es hora de <if([gnum11<12],<if([gnum11<4],cenar,desayunar)>,<if([gnum11<17],comer,cenar)>)>?" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_LAUGHINGFURY_000_015", "hash": "71446A6C42F02EB0", "target": "¿Una de las cestas de comida especiales del maestro Aeluuin? ¡Vaya, pues no le hago ascos, no!" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_VAVAPU_000_030", "hash": "B6F3826D6B53C9F5", "target": "¡Ay! ¿Es que mi tripa no va a dejar de rugir? ¡Tripa! ¡Te lo ordeno! ¡Deja de rugir!" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_VAVAPU_000_035", "hash": "E37CA258D4E31FBA", "target": "¿De parte de Aeluuin, dices? ¡Mi tripa y yo te quedamos muy agradecidas!" },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_ADEMAR_000_050", "hash": "5090E6004CC1F0C6", "target": "Maldito aventurero cerdo, robándoles la comida a hombres honrados y trabajadores..." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_ADEMAR_000_055", "hash": "8CD28B1D987A4F9D", "target": "¿Puedo creer lo que ven mis ojos!? Gracias, amigo. Da gusto saber que en <italic(1)>algunos<italic(0)> aventureros todavía se puede confiar." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_070", "hash": "D12FC0B23DDF702D", "target": "Las famosas cestas de comida de Aeluuin dieron en el clavo, ¿eh? ¡Ya me lo imaginaba! Los prospectores del Risco de los Buscadores no cavan solo por su fortuna personal, ¿sabe?: cada onza de oro ayuda a que esta región prospere y florezca. Me alegra devolverles el favor." },
+    { "gameKey": "quest/007/GaiUsa901_00796#TEXT_GAIUSA901_00796_AELUUIN_000_071", "hash": "43A7409EBAFB7FA1", "target": "Ha hecho por mí mucho más de lo esperado, y por ello tiene mi gratitud. La próxima vez que le apetezca una cerveza, una charla o simplemente un respiro del camino, sepa que siempre hay un sitio para usted aquí, en el Corcho Flotante." }
+  ]
+}

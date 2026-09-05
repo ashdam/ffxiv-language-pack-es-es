@@ -1,0 +1,96 @@
+{
+  "conversation": "quest/020/ClsCul530_02044",
+  "questName": "A Spoonful Less Sugar",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_00",
+      "hash": "5ADDA5B5F6D740EF",
+      "target": "Melkoko tiene noticias para ti sobre el Dellemont d'Or."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_01",
+      "hash": "5581FF5E51C6AC0E",
+      "target": "Una entusiasmada Melkoko te informa de que el Bismarck ha sido elegido como sede del Dellemont d'Or. Un miembro del comité del concurso ha venido al restaurante a inscribir a los participantes. Melkoko te pide que le des tu nombre y hagas oficial tu participación."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_02",
+      "hash": "56970E23304162F7",
+      "target": "Te has inscrito como participante en el Dellemont d'Or. Vuelve con Melkoko al Miembro Ausente."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_03",
+      "hash": "1CA0460424A59293",
+      "target": "Melkoko recibe con aprobación el informe de tu exitosa inscripción. Solo queda prepararse para el concurso, y Melkoko tiene enseguida un reto para ayudarte a entrar en forma. Una comensal no consigue decidirse por un postre, y tu tarea es preparar algo que agrade a su paladar. Busca a la comensal, una timonel de las Sirenas Sanguinarias, y pregúntale por sus preferencias."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_04",
+      "hash": "982648782D886967",
+      "target": "La timonel te explica su dilema: no soporta las cosas dulces, pero debe aprender a comerlas para conservar su relación. Lleva a Melkoko la noticia de los peculiares requisitos de la comensal."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_05",
+      "hash": "09DB979F5F7D309A",
+      "target": "Al oír tu informe, Melkoko concluye enseguida que la timonel simplemente siente aversión por lo desconocido. Así pues, en lugar de ceñirse a los deseos de la clienta, sugiere que prepares algo sin ningún reparo dulce. Prepara una Sohm Al tart y una taza de Ishgardian tea, y preséntaselas a Melkoko."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_06",
+      "hash": "BE671B2EE8426F69",
+      "target": "Cediendo a la insistencia implacable de Melkoko, la timonel prueba con cautela tu Sohm Al tart y tu Ishgardian tea. Para su asombro y deleite, encuentra ambos deliciosos. Habiendo vencido así su miedo a los dulces, se marcha muy animada, con la esperanza de que las cosas salgan bien entre ella y su galán. Tras verte en acción, Melkoko espera el Dellemont d'Or con aún más ilusión.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 55."
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_00",
+      "hash": "F1C08CA5A6EE338D",
+      "target": "Hablar con el miembro del comité del concurso"
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_01",
+      "hash": "48757680122D50CF",
+      "target": "Hablar con Melkoko"
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_02",
+      "hash": "87FFDDE1369BD55B",
+      "target": "Hablar con la timonel de las Sirenas Sanguinarias"
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_03",
+      "hash": "C8DEA37CE25C78B9",
+      "target": "Informar a Melkoko"
+    },
+    {
+      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_04",
+      "hash": "47BCC0EE81069F39",
+      "target": "Elaborar una Sohm Al tart y una taza de Ishgardian tea <sheet(Addon,9,0)> y entregarlas a Melkoko"
+    },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_000", "hash": "5D80ADDBBD76AE64", "target": "¡Buenas noticias, <split(<string(gstr1)>, ,1)>: el Bismarck ha sido elegido para acoger el Dellemont d'Or! ¿Qué mejor lugar para cocinar que la propia cocina de uno?" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_001", "hash": "1F474E13A240D88D", "target": "Un miembro del comité del concurso ha venido al Gremio de Cocineros a inscribir participantes. ¡Ve y dale tu nombre ahora mismo, por favor!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_005", "hash": "6D19F250ABA21701", "target": "Un miembro del comité del concurso ha venido al Gremio de Cocineros a inscribir participantes para el Dellemont d'Or. ¡Ve y dale tu nombre ahora mismo, por favor!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TAIKAIIIN_000_010", "hash": "F5EA988285AEB75C", "target": "Saludos, buen<if(gnum4,a,o)> <if(gnum4,señora,señor)>. ¿Ha venido a inscribirse para competir en el Dellemont d'Or?" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TAIKAIIIN_000_011", "hash": "94BFA66C9CC2EA1E", "target": "...<string(gstr1)>, ¿es correcto? Muy bien, <if(gnum4,señora,señor)>. Esperamos verle el día del concurso." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TAIKAIIIN_000_015", "hash": "5C42644DABA1CED3", "target": "Esperamos verle el día del concurso." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_020", "hash": "069783235EFFDF05", "target": "¿Ya has inscrito tu nombre? ¡Excelente! Ahora solo te queda prepararte para el concurso. Hablando de eso, tengo una tarea que te ayudará a ponerte en forma." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_021", "hash": "894FE96D36FFF81A", "target": "Una de nuestras comensales desea tomar postre, pero no hay nada de su gusto en la carta. Lleva una hora entera ahí sentada, incapaz de decidirse." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_022", "hash": "CE8CAB21C6D5C8AA", "target": "Como <if(gnum4,la mejor cocinera,el mejor cocinero)> del gremio, creo que sabrás preparar algo a la altura de su paladar. Para empezar, convendrá que le preguntes por sus preferencias. Es la timonel de la mesa de la derecha, por si no lo había mencionado ya." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_025", "hash": "DF58AECF76A1AB93", "target": "Te agradecería que prepararas un postre a la altura del paladar de la timonel. Para empezar, convendrá que le preguntes por sus preferencias." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_030", "hash": "F6D36D70A671FBBE", "target": "Uf, todos estos dulces tienen una pinta demasiado...¡<italic(1)>dulce<italic(0)>!<br>...¡Oye, no me metas prisa! ¡No sé decidirme bajo presión!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_031", "hash": "8FD5C0596B397DCB", "target": "¿Eh? ¿Me harás un postre que no está en la carta? ¡Eres un regalo del cielo<if(gnum4,\\, hermana,)>!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_032", "hash": "F43218FC97B92BF8", "target": "Verás, la cosa es así: no soporto las cosas dulces. Me dan ganas de vomitar. El caso es que he conocido a un hombre perfecto en todo menos en una cosa: el tío tiene el diente más goloso de este lado de Vylbrand." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_033", "hash": "2FAC94FC7051687A", "target": "Si lo nuestro va a funcionar, tengo que aprender a comer dulces. O a reprimir las arcadas, al menos. Por eso estoy aquí: para entrenarme. Además, es mi primera vez, así que sé amable conmigo, ¿eh? Hazme algo que no sea tan dulce." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_035", "hash": "2EBC93FABAA506E7", "target": "Además, es mi primera vez, así que sé amable conmigo, ¿eh? Hazme algo que no sea tan dulce." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_040", "hash": "76E75B2156D132E1", "target": "...¿He oído bien? ¿Dice que no le gustan los dulces? ¡Ah, menuda bobada! ¡Apuesto a que solo teme lo que no conoce!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_041", "hash": "7956D3BEDBF20CE5", "target": "¿Ser amable? ¡Y un cuerno! ¡Vamos a darle algo tan descaradamente dulce que le saque de dentro toda esa incredulidad!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_042", "hash": "255BC933FD0A021B", "target": "¡Una Sohm Al tart hecha con una auténtica montaña de nata fresca y azúcar, acompañada de una intensa taza de Ishgardian tea! ¡Ese es tu encargo, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_044", "hash": "F5759BF0F1B47B6C", "target": "Y bien, ¿cómo van esa Sohm Al tart y ese Ishgardian tea?" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_045", "hash": "5F3CD90C8A5D43B7", "target": "...¡Hurrrgh! ¡E-Esto tiene una pinta dulce que es pecado! ¿¡Qué pasó con lo de ser amable!?" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_046", "hash": "6EC37EA0086C4204", "target": "¡Escucha bien! ¡<split(<string(gstr1)>, ,1)> resulta ser <if(gnum4,una de las mejores cocineras,uno de los mejores cocineros)> de Eorzea! ¡Deberías sentirte honrada de que <if(gnum4,ella,él)> cocine para tu triste pellejo! Y, además, ¿¡quieres que lo tuyo con tu hombre funcione o no!?" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_047", "hash": "C66AEB7DC6A45292", "target": "¡Vale, vale! ¡Lo probaré! \\<sollozo>" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_048", "hash": "F6655103AE8FF11C", "target": "¡Maldita sea, estaba <italic(1)>buenísimo<italic(0)>! La castaña no era ni de lejos tan empalagosa como esperaba, y la nata de debajo fue una grata sorpresa. Era dulce, sí, pero no <italic(1)>demasiado<italic(0)> dulce. Y había algo más, además. ¿Cuerpo? ¿Profundidad? Bah, no sé cómo demonios se llama." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_KAIZOKUJOSHI2044_000_049", "hash": "E9C05058BCEE86F8", "target": "En cuanto al té, me lo bebí de un trago, como apuro mi cerveza. ¡No hay mucho más que decir de eso! Ahhh, ¡ya no les tengo miedo a los dulces, y todo gracias a vosotros dos! ¡Lo mío con mi hombre va a funcionar, estoy segura!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_050", "hash": "30F423C6DFD52ABF", "target": "¡Lo has conseguido, <split(<string(gstr1)>, ,1)>! ¡Has convertido a una escéptica! Al moderar el dulzor del puré de castañas, la ayudaste a superar su miedo irracional y así la introdujiste en todo un nuevo mundo de sabores. Ay, esto sí que me trae recuerdos..." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_051", "hash": "49D30751C9819549", "target": "Habrás deducido por mi lenguaje pintoresco que antaño fui miembro de las Sirenas Sanguinarias. Por desgracia, era propensa al mareo, y nunca se me pasó. Como resultado, acabé en tierra firme, sirviendo mesas en el Miembro Perdido." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_052", "hash": "9AA76992ADD740D6", "target": "Al principio detestaba el trabajo. Odiaba que me hubieran arrebatado mis sueños, solo porque no era capaz de mantener el contenido del estómago en su sitio. Fue entonces, mientras me revolcaba en la autocompasión, cuando probé por primera vez la cocina de H'mhasi Tia. Me hizo saber que aquí formaba parte de algo especial." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_054", "hash": "FB912CD659917607", "target": "Por aquel entonces, H'mhasi Tia era un hombre sencillo con una pasión sencilla. Quería estar en la cima de su oficio, y trabajó sin descanso para llegar. Pero entonces lo logró, ¡y aquello lo convirtió en un engreído saco de mierda enamorado de sí mismo!" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_055", "hash": "D242720BBBA37514", "target": "...Ejem. Disculpa de nuevo. Mis viejos modales tienden a aflorar cuando me acaloro. En cualquier caso, ¡gracias por tu ayuda de hoy! Ahora que te he visto en acción, ¡aguardo el Dellemont d'Or con aún más deleite!" }
+  ]
+}

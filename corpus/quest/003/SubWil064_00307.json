@@ -1,0 +1,82 @@
+{
+  "conversation": "quest/003/SubWil064_00307",
+  "questName": "Out of House and Home",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_1",
+      "hash": "FAF1F76CF7F304CB",
+      "target": "Pues manos a la obra, ¿no?"
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_2",
+      "hash": "8F83684AEE4207B8",
+      "target": "Cada día pasan por esta estación vagones cargados de mena─pero no sin incidentes."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_3",
+      "hash": "37E6226278CABFEA",
+      "target": "Los vagones que van y vienen de la Estación, al sur, deben cruzar un túnel junto al Mirador de Fesca─un túnel donde a algún <italic(1)>genio<italic(0)> se le ocurrió meter un almacén de mena, creando las condiciones ideales para un nido de coblyns."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_4",
+      "hash": "A84CDB4F8F79F32B",
+      "target": "Así que ahora esas bestias amantes de la mena se han instalado en un túnel que cavamos <italic(1)>nosotros<italic(0)>, ¡y prácticamente les servimos la comida en la puerta!"
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_5",
+      "hash": "E69FC9224CB689D6",
+      "target": "Pero se acabó. Dentro del túnel en cuestión hay una grieta estrecha donde se esconden los coblyns. Usa este cúmulo de mena de plata para atraer a esos bichos y luego acaba con ellos."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_10",
+      "hash": "8C664853163FE35B",
+      "target": "¡Bien hecho! No será tarea fácil mantener el túnel libre de coblyns, pero nuestros vagones deberían poder circular sin molestias por un tiempo."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_11",
+      "hash": "E3917C53CEF53FD1",
+      "target": "Las interrupciones en los envíos de mena amenazan no solo los intereses de la Compañía Minera Amajina e Hijos, sino los de la propia Ul'dah. Bien podrían compararse estas vías con venas que transportan la sangre vital de nuestra nación."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_WARIN_000_12",
+      "hash": "CD3DEA4720FDBEAB",
+      "target": "Ojalá tuviéramos más <if(gnum4,mujeres,hombres)> como tú para echar una mano."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_POP_MESSAGE",
+      "hash": "48F4BF21BA4ABEAC",
+      "target": "Un leve sonido de patas correteando empieza a resonar en el túnel..."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_00",
+      "hash": "625E4602AEAA6169",
+      "target": "Warin tiene trabajo para un aventurero dispuesto a exterminar a los coblyns que atacan los vagones de mena."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_01",
+      "hash": "A9ADB13AD4A07A9D",
+      "target": "Un enjambre de coblyns ha empezado a atacar los vagones de mena dentro de un túnel al sur de la Estación de Maleza Negra. Warin te ha dado un cúmulo de mena de plata que debes usar para atraer a las criaturas y darles muerte."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_02",
+      "hash": "B0177D0EB7B0B390",
+      "target": "Has purgado el túnel de la presencia de coblyns, asegurando así los futuros envíos. Vuelve a la Estación de Maleza Negra e informa a Warin de tu éxito."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_SEQ_03",
+      "hash": "D69B4E6ABE296C36",
+      "target": "Gracias a tu destreza marcial, la mena seguirá fluyendo para saciar el insaciable apetito de mineral de Ul'dah."
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_00",
+      "hash": "1F3B4647241E21F9",
+      "target": "Atraer a los coblyns y darles muerte"
+    },
+    {
+      "gameKey": "quest/003/SubWil064_00307#TEXT_SUBWIL064_00307_TODO_01",
+      "hash": "618ECF20B3170F57",
+      "target": "Informar a Warin"
+    }
+  ]
+}

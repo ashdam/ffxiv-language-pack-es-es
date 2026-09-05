@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/001/SubSea010_00120",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_00", "hash": "9EDA6645F18E9F46", "target": "N'tanmo necesita ayuda para mantener la ciudad luminosa y alegre." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_01", "hash": "70D51BEA374928A5", "target": "Incapaz de abandonar su puesto, N'tanmo te ha encargado inspeccionar las farolas de la ciudad. Rellénalas con aceite para farolas antes de que se queden secas." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_02", "hash": "5E7FB52D452FE63C", "target": "Has rellenado todas las farolas vacilantes. Habla con Sisipu en el Gremio de Pescadores para recibir más aceite para farolas." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SEQ_03", "hash": "6E6AD270D809540C", "target": "Descubres que N'tanmo tiene por costumbre endosar sus obligaciones a los aventureros novatos, para gran disgusto de Sisipu. Sin embargo, intuyes que en la frustración de Sisipu hay más de lo que parece." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_00", "hash": "577E7B2173B33B07", "target": "Rellenar las farolas vacilantes con aceite para farolas" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_TODO_01", "hash": "065401D9B3ABAA3B", "target": "Hablar con Sisipu en el Gremio de Pescadores" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_0", "hash": "6B4B5C53DAEC9D88", "target": "Parece que ya se ha ganado el favor de los Casacas Amarillas. ¡Es usted <if(gnum4,una aventurera modelo,un aventurero modelo)>, un dechado entre sus semejantes!<br>...Eh, ¿cree que podría hacerme un favor?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_1", "hash": "CAFE130F3431C9A3", "target": "Verá, se supone que tengo que ir a llenar de aceite todas las farolas para que sigan encendidas toda la noche. Pero, con este asunto de las personas desaparecidas, no puedo, sin más, abandonar mi puesto." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_2", "hash": "7943C5AFA2E96207", "target": "Si pudiera ocuparse de las farolas en mi lugar, le estaría <italic(1)>eternamente<italic(0)> agradecida." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_NTANMO_000_3", "hash": "E051749DA889560F", "target": "Ah, y cuando termine, por favor, recoja más aceite de Sisipu, en el Gremio de Pescadores. Aquí andamos escasos, y ella se encarga de nuestras existencias." },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_10", "hash": "87B02B15D9F21651", "target": "...¿Que está haciendo <italic(1)>qué<italic(0)>?! \\<suspiro> ¿Qué voy a hacer yo con esa chica?" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_11", "hash": "6C042C1CB6574166", "target": "¡Tiene el descaro de pedirme trabajo, soltándome monsergas sobre sus ahorros, solo para endosárselo al primer aventurero que pasa!" },
+    { "gameKey": "quest/001/SubSea010_00120#TEXT_SUBSEA010_00120_SISIPU_000_12", "hash": "A06FA2DDF103DC83", "target": "¡Ser joven y guapa <italic(1)>no<italic(0)> te da licencia para escaquearte de tus responsabilidades! Sí, tendrá su aceite, vaya que sí... ¡y una buena reprimenda de propina!" }
+  ]
+}

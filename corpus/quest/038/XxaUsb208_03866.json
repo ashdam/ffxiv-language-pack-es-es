@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/038/XxaUsb208_03866",
+  "questName": "What Do You Mean You Forgot the Wine",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SEQ_00", "hash": "6C5B26D60BA643E8", "target": "Wheiskaet quiere felicitarte por un trabajo bien hecho." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SEQ_01", "hash": "611B637AEE700BCF", "target": "Wheiskaet aplaude tu desempeño, pero aún se niega a revelarte los secretos de Titán. Antes de poder enfrentarte al Señor de los Riscos en combate, debes conseguir una botella del mejor vino de la mano de Shamani Lohmani, otro antiguo miembro de la Compañía. Wheiskaet te entrega una nota con los detalles del pedido, que te ahorrará el trabajo de memorizar nombres de vino difíciles de pronunciar." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SEQ_02", "hash": "220874B75AA3E095", "target": "Shamani Lohmani deduce de inmediato tus intenciones con su impresionante olfato. Tras explicar cómo lo ha hecho, ya está listo para hablar de negocios." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_TODO_00", "hash": "199C08DE76078AFE", "target": "Entregar la nota a Shamani Lohmani en Puerto Vino" },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SYSTEM_100_000", "hash": "A99BA474F4624940", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_WHEISKAET_000_000", "hash": "A3F674F2E01E1FE3", "target": "Bravo, <split(<string(gstr1)>, ,1)>. Gracias a ti, nuestros invitados tendrán el honor de un banquete maravilloso." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_WHEISKAET_000_001", "hash": "19F14D84E1066615", "target": "Pero ¿de qué sirve un festín exótico sin un aperitivo igual de exquisito?" },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_WHEISKAET_000_002", "hash": "6482846438DEA599", "target": "Por suerte, sé exactamente a quién pedírselo. Ponte rumbo a Puerto Vino y busca a Shamani Lohmani, otro antiguo miembro de la Compañía." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_WHEISKAET_000_003", "hash": "1B57F89E4CBE3079", "target": "Solo tienes que darle esta hoja de pedido. Él se encargará del resto." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_WHEISKAET_000_004", "hash": "A6565069D0B4D8AF", "target": "Ah, y por si te preguntas si esto es solo una treta para poner a prueba tu paciencia, te aseguro que <italic(1)>sí<italic(0)> necesito ese vino de verdad. Y ya que estás allí, dale recuerdos a Shamani Lohmani." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_020", "hash": "054A69EABAD6451D", "target": "...Sudor, mugre y sangre. Sí, huele usted a sangre. <if(gnum4,Una aventurera,Un aventurero)>, si no me equivoco. ¿Qué le trae a Puerto Vino?" },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_021", "hash": "6EF1CF7567568344", "target": "¿Un pedido? Déjeme adivinar: una petición del mejor caldo que pueda reunir." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_022", "hash": "DE76676E2B0B75AB", "target": "\\<olfatea> \\<olfatea> El papel huele a mantillo y a perfume. Costa del Sol. Y también está el... \\<tos>... inconfundible olor a queso de goblin..." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_023", "hash": "77781A4BB98066D8", "target": "Sí, el señor Gegeruju no se conformaría con menos que lo mejor. Dyrstweitz y su brigada deben de estar muy ocupados preparando un festín exótico, de ahí que haya decidido recurrir a un aventurero." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_024", "hash": "D7C0BF2CB5EE240B", "target": "Ah, pero quizá esté confundido. Esta demostración de deducción no pretendía impresionarle." },
+    { "gameKey": "quest/038/XxaUsb208_03866#TEXT_XXAUSB208_03866_SHAMANILOHMANI_000_025", "hash": "F642FF94FB257AF3", "target": "Cuando uno pierde la vista, se ve obligado a compensarlo de otros modos. Pero mis asuntos no le interesan: solo desea hablar del vino, imagino." }
+  ]
+}

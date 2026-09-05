@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/001/SubFst041_00197",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_00", "hash": "552B72D8DDD61165", "target": "Maurelin, un soldado de la Doble Víbora del Bannock, busca a un voluntario que reúna materiales usados en el adiestramiento de los reclutas." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_01", "hash": "974D86364BBAEC8B", "target": "Recoge cuatro caparazones de los gigantescos bog yarzons, con aspecto de insecto, que habitan en el río al sur del Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_02", "hash": "4AF49FC59FC01AB6", "target": "Has recogido los caparazones de bog yarzon. Entrégaselos a Mariustel en el Bannock." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_SEQ_03", "hash": "2EC5AB7FEF4EA449", "target": "Mariustel piensa usar los caparazones que le has traído en la próxima tanda de ejercicios de instrucción. Una vez que los reclutas aprendan a despachar mejor a un bog yarzon, mantener un perímetro seguro alrededor del campamento parecerá una tarea mucho menos abrumadora." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_00", "hash": "F6020FB83E88FC04", "target": "Abatir bog yarzons y obtener sus caparazones" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_TODO_01", "hash": "CD0D63C3FA48B8F5", "target": "Entregar los caparazones de bog yarzon a Mariustel en el Bannock" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_1", "hash": "6EE06BE097E9F589", "target": "Eh, <if(gnum4,aventurera,aventurero)>. Si busca trabajo, no busque más." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_2", "hash": "4AFC0207902E4C0C", "target": "El instructor Mariustel necesita a un voluntario que le traiga unos caparazones de bog yarzon para que practiquen los reclutas." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MAURELIN_000_3", "hash": "9158BE77E7AD6742", "target": "Encontrará yarzons en el río al sur de aquí. Cuando haya arrancado los caparazones a cuatro de esas criaturas, lléveselos al instructor." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_10", "hash": "5D5427CC37AE6B4C", "target": "¿Ha venido a entrenar?" },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_11", "hash": "EBEA7F82CC7684BB", "target": "¿Eh? ¿No es un recluta nuevo? Entonces ¿qu...? ¡Ah, los caparazones de yarzon que mandé requisar a Maurelin! Veo que al menos ha aprendido a delegar." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_12", "hash": "A87E44A3A8B94F86", "target": "Ahora que tengo estos caparazones, puedo poner a mis reclutas ejercicios especializados. Ya son diestros dando en el blanco, claro, pero necesitan saber en la práctica <italic(1)>dónde<italic(0)> es más vulnerable un monstruo como el yarzon." },
+    { "gameKey": "quest/001/SubFst041_00197#TEXT_SUBFST041_00197_MARIUSTEL_000_13", "hash": "4C069A36D048407B", "target": "Gracias a su esfuerzo, no dudo de que les irá bastante mejor contra esas criaturas cuando llegue el momento. Debería estar <if(gnum4,orgullosa,orgulloso)> de sí <if(gnum4,misma,mismo)>: tanto ellos como el Bannock están más seguros gracias a su ayuda." }
+  ]
+}

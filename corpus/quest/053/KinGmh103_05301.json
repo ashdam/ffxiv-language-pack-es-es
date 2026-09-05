@@ -1,0 +1,608 @@
+{
+  "conversation": "quest/053/KinGmh103_05301",
+  "questName": "In Search of Meaning",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SEQ_00", "hash": "737BFDE706426781", "target": "Sphene te mira con aire de disculpa." },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_TODO_00", "hash": "3DD04254D9AB9851", "target": "Hablar con Gulool Ja" },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_TODO_01", "hash": "DED8FAD89E1F0DEE", "target": "Usar /rally con el ciudadano afligido" },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_TODO_02", "hash": "DE4B20E11FFAAE12", "target": "Hablar con Sphene para que ella y Gulool Ja te acompañen" },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_TODO_03", "hash": "BA5DA419C461A07A", "target": "Entregar los keepsakes a los ciudadanos mientras Sphene y Gulool Ja te acompañan" },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_TODO_04", "hash": "DE3BDE7ACCAED55B", "target": "Entregar el keepsake al ciudadano jovial mientras Sphene y Gulool Ja te acompañan" },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_001",
+      "hash": "92E495416E3BE5A7",
+      "target": "Si tenéis problemas o cualquier otra cosa de la que queráis hablar, aquí me tenéis para escucharos."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_002",
+      "hash": "7641BE0D798F09AF",
+      "target": "Estaban preocupados por no tener neorreguladores, pero Lamaty'i los ha animado."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_010",
+      "hash": "42CF3F5C940F765A",
+      "target": "Perdóname. No pretendía ensombrecer el ambiente."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_011",
+      "hash": "2AADD929240A695C",
+      "target": "Aun así, me siento mejor por haberte contado cómo me siento. Gracias."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_012",
+      "hash": "971BFA838ADA6EC5",
+      "target": "Siento no estar siendo muy buena guía. No suelen abordarme tan a menudo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_013",
+      "hash": "C2EB698654E6EE59",
+      "target": "No pasa nada. La gente ha pasado por muchísimo. Es normal que busquen consuelo y seguridad en alguien de quien se fían."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_014",
+      "hash": "60895D1FA25016D5",
+      "target": "Además, he podido relajarme con un café delicioso y charlar de maravilla con <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_015",
+      "hash": "96BBC5B10F67F754",
+      "target": "Te agradezco la comprensión."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_016",
+      "hash": "88FF2EF97846596C",
+      "target": "Bueno, ¿y ahora adónde...? Podríamos echar un vistazo a la Arcada Nexus, pero eso puede esperar a cuando de verdad necesitemos algo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_017",
+      "hash": "EB0D048337983B55",
+      "target": "En ese caso, volvamos a la zona recreativa. En Vera Vista hay mucho que ver."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_018",
+      "hash": "50DE69D72CF00618",
+      "target": "Oye, ¿estás bien?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_019",
+      "hash": "A431F99779099718",
+      "target": "Ya estaba así cuando llegamos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_020",
+      "hash": "F1372702A92FFD09",
+      "target": "Ugh..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_030",
+      "hash": "9416641D8DDBC348",
+      "target": "Está muy pálido... Tenemos que buscarle un sitio donde descansar."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_031",
+      "hash": "3A2997472BFD7FDE",
+      "target": "\\<jadeo> Gracias..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_032",
+      "hash": "6334ACB77CEF8CFC",
+      "target": "Venía a ocuparme de un asunto... cuando me vino de golpe el recuerdo de haber muerto aquí... Sé que el peligro ha pasado, pero el terror no se va..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_033",
+      "hash": "6ADF5240F74736D5",
+      "target": "\\<suspiro> Con todo el consuelo que he ofrecido a otros en mi trabajo, no consigo consolarme a mí mismo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_034",
+      "hash": "5F80BE1E297432C4",
+      "target": "Los reguladores y las almas que usaban para ahorrarse el horror de la muerte acabaron sometiéndolos a ella una y otra vez. Ojalá hubiéramos acudido antes en su ayuda..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_035",
+      "hash": "D34AF4CAEBCDE7D8",
+      "target": "Pero ahora estamos aquí. Podemos darle a este hombre el consuelo que él no puede darse."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_036",
+      "hash": "F83AA7A88B9D983B",
+      "target": "Puede que físicamente esté ileso, pero las heridas que no se ven también necesitan tiempo para sanar..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_037",
+      "hash": "9E0BC561B6631239",
+      "target": "Ya veo... Cuando atacaron los soldados, él..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_040",
+      "hash": "528D95DC5AD1F01A",
+      "target": "Por más que lo intento, no logro quitarme este miedo... El valor me ha abandonado por completo..."
+    },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SYSTEM_000_041", "hash": "729FF5BCB6A2FA28", "target": "El ciudadano está sobrecogido por el miedo. Quizá necesite que alguien le levante el ánimo con <colortype(500)><edgecolortype(501)>rally<edgecolortype(0)><colortype(0)> para recuperarse." },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_050",
+      "hash": "D11430728DE4A3E2",
+      "target": "Gracias, ya me siento mejor... Sus ánimos eran justo lo que necesitaba..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_051",
+      "hash": "B6F1724BF9682E19",
+      "target": "Ah, pero ¿dónde están mis modales? Me llamo Malachite y soy acompañante."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_052",
+      "hash": "6C14474DE9E3C76C",
+      "target": "¿Acompañante? Sois los que os ocupabais de quienes ya no tenían mucho tiempo de vida, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_100_052",
+      "hash": "FC45039D4C9EC5E7",
+      "target": "Pero, con todo lo que ha pasado, me imagino que tus obligaciones habrán cambiado."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_053",
+      "hash": "541FEF6158621A9E",
+      "target": "Así es. Ya no atendemos a los moribundos. Solo después de que fallecen al cuidado de sus familias trasladamos sus restos a un almacén del gobierno."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_054",
+      "hash": "5F7ADB3C4661B5B1",
+      "target": "¿Un almacén? ¿Para qué?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_055",
+      "hash": "8CCDA30215BC08AD",
+      "target": "De ahora en adelante habrá que enterrar a los difuntos─pero, como aún no se han decidido los detalles, de momento los cuerpos deben conservarse en frío."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_056",
+      "hash": "0645EDB577B59955",
+      "target": "No lo sabía... Había oído que hay cementerios cerca de la ciudad sumergida, pero, igual que los funerales, las costumbres funerarias se habrán olvidado hace mucho."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_057",
+      "hash": "F32DB7F33B6DA451",
+      "target": "¿Ha venido a hacer de acompañante? Si es así, podríamos ayudarle."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_058",
+      "hash": "B77C621426D171DD",
+      "target": "En realidad no estoy aquí de manera oficial, así que me resisto a molestarles más. Pero, ya que lo preguntan, les explicaré a qué he venido."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_059",
+      "hash": "8BAAC3D801BAA2BE",
+      "target": "He empezado a llevar los efectos personales de los difuntos a sus familias. Aunque sus recuerdos se hayan confiado a la nube, yo aún recuerdo dónde vivieron."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_060",
+      "hash": "981E6B2410C75BA4",
+      "target": "La norma era deshacerse de todas las pertenencias─cualquier otra cosa estaba terminantemente prohibida. Pero me entristecía verlas tiradas como basura, así que empecé a guardar a escondidas lo que podía."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_061",
+      "hash": "D98C05A7FD043FD9",
+      "target": "Por supuesto, entiendo que no todos comparten mi sentir, y dejo en manos de las familias decidir qué hacer con esos objetos. Unos aceptan mis entregas; otros las rechazan."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_062",
+      "hash": "9D69CF572AF320F3",
+      "target": "No sabría decir si hago lo correcto, pero creo que a las familias hay que darles la posibilidad de elegir."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_063",
+      "hash": "F5BD6A214D136CCC",
+      "target": "Ah... Entonces antes no la tenían..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_100_063",
+      "hash": "612FFF0C86551AE4",
+      "target": "Es importante pensar en lo que la gente nos deja. Quiero ayudar."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_100_064",
+      "hash": "4E82400BEBE24BC6",
+      "target": "¿Tú también quieres ayudar, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_Q1_000_065",
+      "hash": "24F81B5A979E5F8C",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A1_000_001",
+      "hash": "6F73F9C47DBD26D6",
+      "target": "¡Las entregas son mi especialidad!"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A1_000_002",
+      "hash": "4CB7087BBB0B2BA7",
+      "target": "Supongo que sí..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_066",
+      "hash": "B2FD9EBEF81C18AC",
+      "target": "Se lo agradezco de veras. Bien, hay cuatro objetos que entregar aquí, en la zona recreativa. Se los dejo a su cuidado."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_MALACHITE_000_067",
+      "hash": "37253043D5A89DF7",
+      "target": "Mientras tanto, yo iré al sector residencial a hacer las entregas de allí. Cuando terminen, reúnanse conmigo aquí─me gustaría saber cómo reaccionaron las familias."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_068",
+      "hash": "9A43D43EDC7BAC59",
+      "target": "¿Sabéis? En Tuliyollal también ha habido gente con episodios parecidos por el trauma del asedio..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_WUKLAMAT_000_069",
+      "hash": "83BA816B1FBA3065",
+      "target": "¿Os importa si voy con Malachite, solo para vigilarlo? Siempre que podáis con esas entregas sin mí, claro."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_100_069",
+      "hash": "8F6FB3A05A7DBDBC",
+      "target": "¡Tranquila, tranquila! Seguro que agradece la compañía."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_070",
+      "hash": "9AF129EF32A5CFC2",
+      "target": "¡Venga, vamos a llevar estos recuerdos a las familias!"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_080",
+      "hash": "46EEF5D280F9DF85",
+      "target": "Entonces, ¿hay cuatro objetos en total que entregar?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_081",
+      "hash": "C9CC09E5FF183C70",
+      "target": "Eso es. Tres para gente de Vera Vista y uno para alguien que está cerca de la Jarra de Neón. Vayamos en ese orden."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_082",
+      "hash": "BB2CE3E3DD0D8A5E",
+      "target": "¿Te importaría hablar tú, <split(<string(gstr1)>, ,1)>? Me temo que mi voz podría delatar quién soy..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_083",
+      "hash": "8FA541A67EC782C4",
+      "target": "Tú delante. Vamos justo detrás de ti."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_Q2_000_087",
+      "hash": "5C39BB212726DFD5",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A2_000_001",
+      "hash": "B3FDE8BF5DA7DAAF",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A2_000_002",
+      "hash": "FCE8BD2AEBE2FCDC",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A2_000_003",
+      "hash": "2C98C4E2BC33F4D7",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_088",
+      "hash": "8B74D572FA3D26DE",
+      "target": "Ya había oído que los acompañantes también vacían las casas de los difuntos. Con razón se puso a pensar en sus pertenencias."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_089",
+      "hash": "8258E5D41E2434AE",
+      "target": "Aunque ya no estén, los recuerdos de nuestros seres queridos nos permiten volver a conectar con ellos en espíritu. Seguro que quienes reciban estos objetos los guardarán como un tesoro."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A2_000_090",
+      "hash": "1B29E155066AB2A4",
+      "target": "<colortype(548)>Hablar de Vera Vista.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_091",
+      "hash": "AC75AD82EE375B38",
+      "target": "La gente de Vera Vista al principio daba miedo, pero la mayoría son muy amables."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_092",
+      "hash": "32EC69A6BAEC2D00",
+      "target": "Ahora, cuando veo a alguien desmayado en la calle, me preocupa si estará bien..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_093",
+      "hash": "B835A33E1A04BFAF",
+      "target": "Ver los edificios así, uno tras otro, me recuerda a la vieja villa del castillo. Con el bullicio que hay aquí, entiendo que Oblivion pueda pasar desapercibida."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A2_000_094",
+      "hash": "52FB16D378062D2F",
+      "target": "<colortype(548)>Hablar de las máquinas expendedoras.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_095",
+      "hash": "348FBCD14043D0C4",
+      "target": "El tónico energético favorito de Genolt es de fórmula especial, no como los que venden aquí. Quería probarlo, pero Shale no me dejó."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_096",
+      "hash": "2D9BCB66E8D9C2CD",
+      "target": "¿Así que en estas máquinas se pueden comprar bebidas? Es maravilloso. Siempre he creído que la tecnología debe desarrollarse en beneficio del pueblo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_Q3_000_097",
+      "hash": "D3BB75A7DBBAE396",
+      "target": "¿Seguro que quieres separarte de tus acompañantes?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_098",
+      "hash": "4F5833F11CFB6E92",
+      "target": "¿Te ha surgido algo? Vale, te esperamos donde empezamos."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_099",
+      "hash": "132F2D6EE13012E5",
+      "target": "Si tienes asuntos urgentes, atiéndelos, por favor. Yo mientras disfrutaré de las vistas."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_100",
+      "hash": "491E96D28BD387EB",
+      "target": "¡Ahí estás! Venga, vamos a entregar los recuerdos."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_ORIGINALSPHENE_000_101",
+      "hash": "D0D40BAC970F9697",
+      "target": "¿Ya has resuelto tus asuntos? Pues ocupémonos de los nuestros."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_100_110",
+      "hash": "7E862D4FBC2EEB36",
+      "target": "¿Eh? ¿Necesitas algo?"
+    },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SYSTEM_000_110", "hash": "59F1880B3A4D3BB7", "target": "Deberías llevar contigo a Sphene y a Gulool Ja antes de completar la entrega." },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_000_112",
+      "hash": "34F8C3B748A6575F",
+      "target": "¿Eh? ¿Necesitas algo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_000_113",
+      "hash": "E094DEB666D3FF5A",
+      "target": "¡Ah, así que os manda Malachite! Fue muy considerado. Cuando se ofreció a traerme el recuerdo, insistió en que no tenía por qué aceptarlo si no me sentía cómodo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_000_114",
+      "hash": "B9FED752B42EDB0D",
+      "target": "Entiendo que algunos digan que no, pero yo no podría. No cuando es algo que perteneció a mis padres... a los que ahora comprendo que no volveré a ver."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_000_115",
+      "hash": "45B51875381B50BD",
+      "target": "Tener almas de repuesto no nos salva de lo inevitable. Siempre ha sido así. Pero ahora me sorprendo dándole vueltas a mil cosas. Como cuánto tiempo más podré andar haciendo el tonto con mis hermanos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDA05301_000_116",
+      "hash": "90668FC057293E23",
+      "target": "...Pero no os voy a aburrir con mis divagaciones. ¡Gracias por traerme el objeto, y saludad a Malachite de mi parte!"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_100_117",
+      "hash": "6EEBC8667F54272A",
+      "target": "¿Qué pasa? Si vienes a venderme algo, no me interesa."
+    },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SYSTEM_000_117", "hash": "6FCB401A2C6CE127", "target": "Deberías llevar contigo a Sphene y a Gulool Ja antes de completar la entrega." },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_119",
+      "hash": "BA050339E6653303",
+      "target": "¿Qué pasa? Si vienes a venderme algo, no me interesa."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_120",
+      "hash": "3506D7F6DAD2678F",
+      "target": "Ahhh, has traído el recuerdo. Gracias. Tenía ganas de tenerlo, con la esperanza de que me ayudara a recordar... pero parece que no hay suerte."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_121",
+      "hash": "4115D16EA659CEBD",
+      "target": "Su dueño está muerto y nunca será uno de esos “Perpetuos” de los que nos habla la reina Sphene. Es triste pensarlo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_122",
+      "hash": "EF1579B8461B9299",
+      "target": "Aun así, no sé si yo querría convertirme en Perpetua. Si se hacen metiendo tus recuerdos en un cuerpo nuevo hecho de éter, ¿no significa que aun así hay que morir primero?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_123",
+      "hash": "BE5DDF0596B2E0FC",
+      "target": "La idea de no tener que preocuparme por las almas era tentadora, así que me alegré de recibir un neorregulador, pero desde entonces no he tenido más que dudas..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDB05301_000_124",
+      "hash": "C66A6EB3C10E30CF",
+      "target": "Si lo recomienda la propia reina Sphene, quiero creer que todo irá bien, pero aun así... \\<suspiro> Perdona, necesito despejarme."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_100_125",
+      "hash": "3FD0DBA6A1F3B1D7",
+      "target": "Ah, hola. ¿Nos conocemos?"
+    },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SYSTEM_000_125", "hash": "CB3E95CBD28A83F6", "target": "Deberías llevar contigo a Sphene y a Gulool Ja antes de completar la entrega." },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_000_127",
+      "hash": "C2E7A88B3FD4DC8D",
+      "target": "Ah, hola. ¿Nos conocemos?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_000_128",
+      "hash": "B49C9B5E5814B459",
+      "target": "Ah, así que este es el recuerdo... La verdad es que he dudado mucho sobre si debía aceptarlo. Al fin y al cabo, perteneció a alguien que <italic(1)>murió<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_000_129",
+      "hash": "E68BF44D051F597A",
+      "target": "Me ha hecho pensar en lo que le hicimos a Tuliyollal. Ni siquiera sabía que habíamos matado a tanta gente suya hasta el funeral... ¿Y si deciden tomar represalias?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_130",
+      "hash": "CDE59CCE7A581516",
+      "target": "Lamaty'i─Wuk Lamat jamás haría eso. Ella y todos en Tuliyollal saben que el culpable del ataque fue mi padre, no el pueblo alejandrino."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_000_131",
+      "hash": "9EA3F67BE9C04443",
+      "target": "Ay, lo siento... No pretendía hacerte hablar mal de tu padre."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_BEREAVEDC05301_000_132",
+      "hash": "D03AABD31AD368AD",
+      "target": "Es solo que... no puedo dejar de angustiarme con la muerte, y saber que se están quedando sin neorreguladores lo empeora. Ya no sé qué hacer..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_133",
+      "hash": "A8B628EA0DF38AEA",
+      "target": "Ya están todos los de Vera Vista. Vamos a la Jarra de Neón."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_100_140",
+      "hash": "5D7CBB4D2687280F",
+      "target": "¿Eh? ¿Me hablas a mí?"
+    },
+    { "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SYSTEM_000_140", "hash": "64F361E91698BE04", "target": "Deberías llevar contigo a Sphene y a Gulool Ja antes de completar la entrega." },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_142",
+      "hash": "A20A7C5AE12283BE",
+      "target": "¿Eh? ¿Me hablas a mí?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_144",
+      "hash": "6AC32E76073DCEBA",
+      "target": "Ah, ya, esto. No puedo decir que me despierte ningún recuerdo... pero sí me resulta familiar por alguna razón."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_100_144",
+      "hash": "2579F6ABEF4E4E0C",
+      "target": "Oye, tú también me suenas. ¿De qué te conozco...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_145",
+      "hash": "9BB7BAF8E93ED8BD",
+      "target": "¡Ah, claro! ¡Eres <if(gnum4,la aspirante,el aspirante)> sin mejoras─no, <italic(1)><if(gnum4,la campeona,el campeón)><italic(0)>!"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_146",
+      "hash": "B550FA71CF7FF16A",
+      "target": "No sé cómo recalcarte lo increíble que es lo que has logrado sin usar almas de fieras. Es un auténtico honor conocerte─aunque no sea la primera vez, ahora me doy cuenta..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_147",
+      "hash": "F67A5E4D83D43C12",
+      "target": "Ahhh, ya me acuerdo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_148",
+      "hash": "6F1EF296EF329D74",
+      "target": "Fue en la estación de infusión del sector gubernamental... y no fue mi mejor momento, como recordarás."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_Q4_000_149",
+      "hash": "D082ADE77A595A0B",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A4_000_001",
+      "hash": "577A76FDFE7615F1",
+      "target": "Eres el luchador del Arcadion que estaba desesperado por conseguir almas."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A4_000_002",
+      "hash": "6A1A542701426B30",
+      "target": "¡Eres el que le gritó a Sphene a la cara!"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_A4_000_003",
+      "hash": "90AFB035C133E4E1",
+      "target": "¿Seguro que nos hemos visto antes...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_150",
+      "hash": "5C178ADCDFA9AA0C",
+      "target": "Eso es... Siento que tuvieras que verme así."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_151",
+      "hash": "D4ABAB4D991EC438",
+      "target": "Y-ya me disculpé, ¿no? Estaba tan desesperado que no razonaba..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_152",
+      "hash": "6170007995CF3EA6",
+      "target": "Ah, bueno... Da igual. Mejor si no recuerdas lo desesperado y grosero que estuve."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_153",
+      "hash": "89DACEAEA929D55B",
+      "target": "En fin, ya que nos conocemos como es debido, me llamo Lithander."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_154",
+      "hash": "DE92EC097F8DA1EB",
+      "target": "Antes luchaba en el Arcadion, pero ya no. Me tomé en serio las palabras de la reina Sphene y busqué un trabajo nuevo, uno donde puedo aprovechar lo que sé de preparación física."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_155",
+      "hash": "3D213D9FF6D52EE0",
+      "target": "Como sabes, mucha gente resultó malherida cuando los soldados mecánicos se descontrolaron, y he estado ayudando con su rehabilitación. Nunca me habría imaginado haciendo esto, pero aquí estamos."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_156",
+      "hash": "97066C4688EC6EED",
+      "target": "No hay mucha gente que pueda ayudar a otros como tú. Creo que lo que haces es genial."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_157",
+      "hash": "1C1ED689975C3954",
+      "target": "Je, gracias. Anima oír eso."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_158",
+      "hash": "18F8D9028C7B5E42",
+      "target": "Hay un tipo que tiene que volver a aprender a andar. Hacerse Perpetuo le resolvería los problemas, pero está decidido a superarlos por las malas, con el cuerpo que tiene."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_159",
+      "hash": "91AB57E0079F8C87",
+      "target": "Verlo me hizo valorar de otra manera mi propio cuerpo. Es un regalo de mis padres─una cosa resistente que ha sobrevivido a la arena─y tengo que cuidarlo mejor."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_160",
+      "hash": "2A42D03935B5AE77",
+      "target": "Soy el único Hoobigo de escamas azules aparte de mi padre. Lamaty'i me lo dijo una vez."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_100_160",
+      "hash": "FBA300C349B2080E",
+      "target": "No sé qué pensaba mi padre de eso. Y hay veces en que duele pensar en lo que compartimos."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_GULOOLJA_000_161",
+      "hash": "59A82823E3554A47",
+      "target": "Aun así, no quiero perderlo. Aunque pudiera tener el mismo aspecto siendo Perpetuo, jamás tiraría este cuerpo."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_162",
+      "hash": "B3EA2B1F27478F04",
+      "target": "Me imagino que a casi todos les costaría hacerlo. Solo de pensarlo, todo el asunto ese de hacerse Perpetuo me da mala espina..."
+    },
+    {
+      "gameKey": "quest/053/KinGmh103_05301#TEXT_KINGMH103_05301_SOLUTIONNFIGHTER_000_163",
+      "hash": "A36F6FFB3D9D6F79",
+      "target": "Ah, pero tengo que volver al trabajo. Ha estado bien charlar con vosotros─y gracias por la entrega."
+    }
+  ]
+}

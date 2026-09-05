@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/040/SubGsc109_04081",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_SEQ_00", "hash": "01195BFFF470F45C", "target": "A la empleada del Gold Saucer se le iluminan los ojos al verte." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_SEQ_01", "hash": "07BED14DE0472DA9", "target": "Según la empleada del Gold Saucer, el propietario del parque de atracciones desea hablar contigo, y se te indica que lo esperes junto a la entrada de Card Square." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_SEQ_02", "hash": "1F28547E88521E3F", "target": "En reconocimiento al amor que profesas al Triple Triad, demostrado en tu magnífica colección de cartas, Godbert Manderville te otorga un premio especial: la magicked card. Así recompensado por tus esfuerzos, esperas con ilusión muchas más rondas de diversión con batallas de cartas." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_TODO_00", "hash": "B30E56D0BEB3EBB0", "target": "Esperar junto a la entrada de Card Square" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_INFORMATION04081_000_000", "hash": "B25BD6ABE87237B7", "target": "¡Ah, <if(gnum4,mi señora,mi señor)> <split(<string(gstr1)>, ,1)>! ¡Nuestro propietario lleva un tiempo queriendo hablar con usted!" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_INFORMATION04081_000_001", "hash": "6FB622670C142425", "target": "Mandaré a buscarlo de inmediato, si es tan amable de esperar junto a la entrada de Card Square." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_010", "hash": "19CF82EB2A38CEA3", "target": "¡Ah, ahí está... <if(gnum4,la de dedos fuertes y a la vez delicados,el de dedos fuertes y a la vez delicados)>! Siempre un bálsamo para los ojos cansados... y para los músculos agarrotados, <if(gnum4,amiga,amigo)>." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_011", "hash": "E27F9DA294584B11", "target": "Se preguntará por qué deseaba hablar con usted. Verá, un pajarito me contó que es <if(gnum4,la dueña,el dueño)> de una magnífica colección de cartas de Triple Triad." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_012", "hash": "2BFE08F224C64ABF", "target": "Deseoso de contemplarla con mis propios ojos, ordené a mi personal que me avisara la próxima vez que viniera... y aquí está. Y bien, ¿tendría la amabilidad de mostrarme sus cartas?" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_013", "hash": "F35632AB78B45C9C", "target": "Je, je, tenía muchas ganas de esto..." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_014", "hash": "5AB016A31345700A", "target": "¡Oho, una carta rarísima, desde luego! Ha hecho muy bien en conseguirla." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_015", "hash": "355E824C5E460B5A", "target": "...¿Hm? Me precio de conocer todas las cartas, pero esta... esta no la conozco. Tiene algo extrañamente <italic(1)>ultraterreno<italic(0)>..." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_016", "hash": "2BFB1DA66670C860", "target": "En cualquier caso, los rumores no exageraban. Habría que ir muy lejos para encontrar a alguien que presuma de mazos más robustos. Cualquiera que se enfrente a usted lo tendrá crudo. ¡Sí, muy crudo!" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_017", "hash": "B20CEA3698AE39E1", "target": "Solo puedo imaginar el esfuerzo que habrá costado reunir una colección tan espectacular." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_Q1_000_000", "hash": "E2D1074453390700", "target": "¿Qué vas a decir?" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_A1_000_001", "hash": "4C018C48E7610895", "target": "Digamos que con una vez basta..." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_A1_000_002", "hash": "E05125F2B8FDDCC2", "target": "¡No fue nada!" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_018", "hash": "18E15442E5576EEA", "target": "Jo, jo, jo, que hasta usted admita haberse esforzado tanto. Y, sin embargo, ningún logro es tan dulce como el que pone a prueba sus límites." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_019", "hash": "0A55BBB5A5C02A38", "target": "Jo, jo, jo, si alguien podía hacer que pareciera fácil, sería usted, cómo no." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_020", "hash": "56D02BF6099817C5", "target": "Y bien, tras maravillarme con sus cartas, no he podido evitar reflexionar sobre lo lejos que ha llegado este pequeño juego." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_021", "hash": "EAFB8C8178CCC4DD", "target": "Trascendiendo fronteras, se ha extendido a cada rincón del mundo para llevar alegría a todos, sin importar diferencias como la raza o el credo." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_022", "hash": "E287C8BDA11F7D18", "target": "¡E imaginar el viaje épico al que le habrá llevado, todos los emocionantes encuentros que habrá tenido, me produce más placer del que las palabras pueden expresar!" },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_023", "hash": "D4081FCDAA2DC6E8", "target": "En reconocimiento de su tremenda hazaña y del amor que profesa al juego, deseamos obsequiarle con un premio especial." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_024", "hash": "D39EBC0E622DB676", "target": "Considérelo tan solo una pequeña muestra de la gran estima en que le tenemos." },
+    { "gameKey": "quest/040/SubGsc109_04081#TEXT_SUBGSC109_04081_GODBERT_000_025", "hash": "88884F0382211988", "target": "¡Que, a lomos de su forma tan grata y familiar, siga persiguiendo nuevos horizontes en el mundo de Triple Triad!" }
+  ]
+}

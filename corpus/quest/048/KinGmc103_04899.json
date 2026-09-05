@@ -1,0 +1,383 @@
+{
+  "conversation": "quest/048/KinGmc103_04899",
+  "questName": "A History of Violence",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_SEQ_00", "hash": "17CF5093E6A221AF", "target": "Koana tiene la expresión de alguien decidido a encontrar plátanos." },
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_TODO_00", "hash": "7935FBC568E9D357", "target": "Hablar con el cocinero alegre" },
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_TODO_01", "hash": "16338F27281BAE7F", "target": "Hablar con Koana" },
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_TODO_02", "hash": "27545E6418D1FC21", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_TODO_03", "hash": "6F81B457F59AD1E8", "target": "Hablar con Wuk Evu" },
+    { "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_TODO_04", "hash": "2D766FDC65CB7E69", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_001",
+      "hash": "796095829558279F",
+      "target": "¿Ibruq especiado envuelto en hojas de najool? ¡A mí eso me suena a combinación ganadora!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_005",
+      "hash": "318397AC609EA50E",
+      "target": "Veamos si hay hojas de najool que conseguir en el poblado."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_006",
+      "hash": "0701F55E1F3370A7",
+      "target": "Quizá se pueda convencer al cocinero que mencionó Urianger para que nos ceda unas cuantas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_010",
+      "hash": "0D9A407FAD669953",
+      "target": "¡Un horno subterráneo! Este tiene que ser el cocinero del que hablaba Urianger."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_015",
+      "hash": "D4DBC58541434ECB",
+      "target": "Hmm... En efecto, aquí la tierra está dispuesta como una especie de horno. Fascinante."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_020",
+      "hash": "C9296BDEE686CC6D",
+      "target": "¡Ah, hola otra vez! ¿Necesitabais algo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_021",
+      "hash": "742F665C0EE29F56",
+      "target": "¡Hojas de najool! Para fines <italic(1)>distintos<italic(0)> del xibruq pibil, naturalmente..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_022",
+      "hash": "70392DDEE021FE43",
+      "target": "Por desgracia, acabo de gastar las últimas. Tendréis que bajar a los bosques de abajo si queréis más."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_100_022",
+      "hash": "B0A1D2C895EB2EA7",
+      "target": "La Arboleda de Golmajiik da las mejores hojas de najool que encontraréis. Las variedades silvestres que a veces se ven en los mercados de la ciudad no admiten comparación."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_023",
+      "hash": "399944AEAFEA45DE",
+      "target": "Entiendo... Esperaba evitar una travesía tan larga, pero si no hay otra forma de conseguir el ingrediente, iremos al Corazón de Ja Tiika."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_HUNMURRUK_000_024",
+      "hash": "8BD22263B6ABBAE1",
+      "target": "Permitidme ahorraros el viaje."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_HUNMURRUK_000_025",
+      "hash": "06E62217FE5BE4F6",
+      "target": "Para llegar allí hay que pasar por la Travesía de Ty'iinbek, y se ha derrumbado. Por la tormenta reciente, imagino."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_026",
+      "hash": "975E31187193F743",
+      "target": "¿Qué? ¡Pero entonces no podemos conseguir las hojas de najool!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_027",
+      "hash": "8D07B152FB241110",
+      "target": "...Pero sí que <italic(1)>podemos<italic(0)>, ¿verdad? Si no hubiera otra forma de conseguirlas, habríais suspendido esta prueba o cambiado su objetivo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_HUNMURRUK_000_028",
+      "hash": "ECC73AB6A6C34994",
+      "target": "Quizá..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_HUNMURRUK_100_028",
+      "hash": "37BC6A4D4F3E8195",
+      "target": "En fin, disculpad la interrupción, pero al oír vuestra conversación no he podido evitar intervenir."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_200_028",
+      "hash": "8826F373923C1265",
+      "target": "Muy amable. ¿Algún consejo de última hora que quieras compartir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_HUNMURRUK_300_028",
+      "hash": "899F2FA705B06B53",
+      "target": "Solo que afrontéis la Prueba del Festín con el estómago vacío. Puede que el xibruq pibil os resulte un plato delicioso, pero difícil de terminar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_400_028",
+      "hash": "7C191B3EFDD2F94D",
+      "target": "¡Je! ¡Qué ganas!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_029",
+      "hash": "68FA4D9BC5D49B9F",
+      "target": "Aun así... si aquí no hay hojas y no podemos ir a por más, ¿cómo se supone que vamos a reunir todos los ingredientes?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_030",
+      "hash": "7660BFF813C4A6D4",
+      "target": "Estas pruebas están pensadas para que entendamos mejor a los pueblos y las culturas de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_031",
+      "hash": "CC084E237C7E9438",
+      "target": "Así que quizá haya algo del xibruq pibil que aún no sabemos. Algo relevante más allá de su receta o sus ingredientes."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_032",
+      "hash": "EE55D89C4796BE7E",
+      "target": "Ah, ya veo... ¡Como quién fue el primero en hacerlo─su historia, ese tipo de cosas!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_033",
+      "hash": "25FA5948A86A43AF",
+      "target": "¡Ejem! Si os interesa la historia de Yak T'el, deberíais empezar por la vieja guerra."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_034",
+      "hash": "E389F1D4A69FBEB9",
+      "target": "Entre los Xbr'aal y los Mamool Ja, ¿no?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_035",
+      "hash": "80387AE6C689BE19",
+      "target": "Estos bosques han sido testigos de siglos de guerra, y la prueba sigue ahí, como una cicatriz en la tierra."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_036",
+      "hash": "50BC93B22D903F35",
+      "target": "Conocer el final de aquel derramamiento de sangre es conocer el xibruq pibil."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_037",
+      "hash": "03732897C0C65C54",
+      "target": "¿Eh? ¿Qué tiene que ver el ibruq al vapor con un derramamiento de sangre?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_038",
+      "hash": "08916FD4E0C8E2DA",
+      "target": "Esa es precisamente la pregunta que debemos responder. Por irritante que parezca el rodeo, no se me ocurre otra forma de abordar esta prueba."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_039",
+      "hash": "C0190FA81D61BA96",
+      "target": "En tal caso, quizá queráis visitar el emplazamiento de un asentamiento arruinado por la guerra. El poblado de Ilyon Asoh─está a poca distancia hacia el este."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_040",
+      "hash": "4BA02F1A3A7B66F3",
+      "target": "¿El poblado de Ilyon Asoh? ¡Entendido! Gracias por la ayuda."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_041",
+      "hash": "7D826BD09C64C3F0",
+      "target": "¡Venga, vamos a ver ese sitio!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_XBALAALCOOKS04898_000_050",
+      "hash": "01AFA24030EFE286",
+      "target": "Me dijeron que no hablara del xibruq pibil. La historia de nuestro pueblo y los─\\<tos>─<italic(1)>acontecimientos importantes que la jalonan<italic(0)> son otra cosa."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_055",
+      "hash": "0C3009835B552F65",
+      "target": "Todo el mundo sabe que hubo una guerra entre los Mamool Ja y los Xbr'aal. Pero puede que a mí, eh... se me hayan olvidado algunos detalles."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_060",
+      "hash": "27D70CCF261EF9EC",
+      "target": "El poblado de Ilyon Asoh debe de estar más al este."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_061",
+      "hash": "11E710F0E287670D",
+      "target": "Sigamos deprisa. Por lo que sabemos, nuestros competidores podrían estar pisándonos los talones."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_070",
+      "hash": "0FB8EF07A8411A1E",
+      "target": "Este lugar parece olvidado por el tiempo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_075",
+      "hash": "348324E614F3E500",
+      "target": "Así que este es el poblado de Ilyon Asoh... o lo que queda de él."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_076",
+      "hash": "C2DF9D746B8E0D0D",
+      "target": "Fue un lugar de luz y de vida. De hecho, mi bisabuelo lo llamaba su hogar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_077",
+      "hash": "9FB2AE853107105A",
+      "target": "¡Wuk Evu! ¡No sabía que estabas en Yak T'el!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_078",
+      "hash": "A2B05890E87F7052",
+      "target": "Estaba recogiendo madera en Iq Br'aax cuando oí que la Tercera Promesa se dirigía a este lugar de tan honda importancia histórica."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_079",
+      "hash": "920690B342642BCE",
+      "target": "Vi al instante otra ocasión de resultar útil, así que os seguí hasta aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_080",
+      "hash": "F277D06BB0CB0036",
+      "target": "Wuk Evu es un carpintero de ribera que nos echó una mano en la Prueba de los Juncos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_081",
+      "hash": "B31B4DED7ADB0B8A",
+      "target": "Un placer. Sois miembro del séquito de la Tercera Promesa, supongo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_082",
+      "hash": "C987AD43E6574D5E",
+      "target": "Por el momento, supongo que sí. Me llamo Koana. Encantado de conoceros."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_083",
+      "hash": "C54857B358A010C5",
+      "target": "¡Koana! Buen nombre, ese. ¡Un nombre conocido! ¿Dónde lo habré oído...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_084",
+      "hash": "442CC6C0867044A4",
+      "target": "¿¡Koana!? ¿¡El de la Segunda Promesa de Tuliyollal!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_085",
+      "hash": "D8DC01D8638D2FAB",
+      "target": "¡Pensar que me he dirigido al propio hijo del Servidor del Alba como a un vasallo cualquiera! Semejante falta de respeto no tiene excusa. Por favor, tomad vuestra pistola y─"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_086",
+      "hash": "28E14ADBD0EF2605",
+      "target": "¡Venga ya, otra vez no!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_087",
+      "hash": "6CD3A336979F91DA",
+      "target": "No me ofende, así que no le deis más vueltas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_088",
+      "hash": "3DC1CBF76C699BBF",
+      "target": "Muy bien, entonces. No le daré más vueltas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_089",
+      "hash": "2102DAF4A0E6CE29",
+      "target": "Y-y como un reloj... Al menos es constante, ¿no?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_090",
+      "hash": "6915FC7CF7E073A6",
+      "target": "Tengo entendido que queréis aprender sobre el xibruq pibil. El Xbr'aax Rax me prohíbe revelar información alguna sobre su preparación, pero con gusto compartiré lo que sé de la historia de Yak T'el."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_091",
+      "hash": "965E56B830D8C00B",
+      "target": "¡Te lo agradeceríamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_092",
+      "hash": "D4B1A27B4194B84D",
+      "target": "En su sentido más básico, el conflicto entre los Xbr'aal y los Mamool Ja fue una guerra por la tierra."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_093",
+      "hash": "F019956359A95A03",
+      "target": "Los Mamool Ja viven en el bosque bajo, donde el dosel espeso tapa el sol y el suelo es ingrato para los cultivos. Eso los llevó a codiciar el bosque alto─el hogar de los Xbr'aal─y lanzaron una campaña decidida para hacerse con él."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_094",
+      "hash": "8EC17F685223773D",
+      "target": "Pero la ventaja siempre acompaña a quien está más alto, y las fuerzas Xbr'aal llevaron la delantera frente a los invasores, rechazándolos una y otra vez."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_095",
+      "hash": "C6D33BA5E57C52DB",
+      "target": "Pero, como atestigua el estado de este poblado, la marea acabó cambiando. ¿Qué lo provocó?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_096",
+      "hash": "FDA8A5455D8B9786",
+      "target": "Algo que conocéis de sobra: los hermanos benditos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_097",
+      "hash": "6BCD20C8E770916B",
+      "target": "Debéis entenderlo. Los Mamool Ja fueron en su día un pueblo tan en guerra consigo mismo como con los demás."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_098",
+      "hash": "D95466173CCA432A",
+      "target": "Los Hoobigo, los Boonewa y los Doppro buscaban cada uno imponerse a los otros, incluso mientras combatían a los Xbr'aal."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_099",
+      "hash": "7357B09268730D9C",
+      "target": "En un intento de estrechar lazos y desalentar las luchas internas, los líderes Hoobigo y Boonewa concertaron un matrimonio entre sus hijos. Sin embargo, aquella medida política alteró el curso de la historia de un modo que nadie habría podido imaginar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_100",
+      "hash": "69290755D958FE9F",
+      "target": "Durante mucho tiempo se creyó que las parejas de clanes distintos no podían tener hijos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_101",
+      "hash": "2E446111ADE0933B",
+      "target": "Pero entonces ocurrió. Llegó una criatura que compartía la sangre de los Hoobigo y de los Boonewa─un Mamool Ja bicéfalo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_102",
+      "hash": "BB7C907CEAAC3020",
+      "target": "Dotado de una fuerza física tremenda y de una gran destreza mágica, creció hasta convertirse en un guerrero poderoso y acabó alzándose como el primer Autarca─soberano de los tres clanes."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_103",
+      "hash": "DEEA1D4780940254",
+      "target": "Tales cualidades predisponen a cualquiera al mando. Aunque el carácter sea otro cantar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_104",
+      "hash": "D4F2C2FB9C356D5F",
+      "target": "Bajo el gobierno del Autarca, los Mamool Ja, recién unidos, se volvieron una fuerza temible, y la guerra pronto llegó a su punto crítico."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_105",
+      "hash": "492FB62F9BCFAFE8",
+      "target": "Creo que lo mejor es que veáis los resultados en persona. Visitemos otro campo de batalla de aquella época y allí continuaré el relato."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_110",
+      "hash": "4306761F01C29756",
+      "target": "¿Qué pasó aquí...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_115",
+      "hash": "38D10AC396316B89",
+      "target": "Por los Doce..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKEVU_000_120",
+      "hash": "4E5A69211E6071D8",
+      "target": "Espero haber servido lo suficiente a la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_KOANA_000_125",
+      "hash": "F2AC4DC4631EB042",
+      "target": "Jamás imaginé que nuestro padre fuera decisivo en la invención del xibruq pibil..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_130",
+      "hash": "FB04D8B8639602B6",
+      "target": "Papá sí que estuvo a la altura de sus palabras. Recorrió la tierra y aprendió de las mil culturas de nuestra gente."
+    },
+    {
+      "gameKey": "quest/048/KinGmc103_04899#TEXT_KINGMC103_04899_WUKLAMAT_000_131",
+      "hash": "D7F796AAC4834AEF",
+      "target": "Y ahora nosotros estamos haciendo lo mismo..."
+    }
+  ]
+}

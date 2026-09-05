@@ -1,0 +1,68 @@
+{
+  "conversation": "quest/038/XxaUsa002_03856",
+  "questName": "We Come in Peace",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_000", "hash": "E091B6AF9706FC0E", "target": "¡Vaya, pero si es <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, presentándose al servicio! Ese es el celo que me gusta ver en una joven Serpiente emprendedora." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_001", "hash": "4F03D54A16FC2865", "target": "Salud, <if(gnum4,aventurera,aventurero)>. Le doy la bienvenida al Cuartel General de la Doble Víbora. ¿Busca entrelazar su destino con la Doble Víbora?" },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_YDA_000_002", "hash": "401B47B592C9A802", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, ¡comandante! Siento decepcionarle, pero hoy nos trae otro asunto." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_003", "hash": "22F4C2299A6FF254", "target": "Yda y Papalymo, siempre es un placer veros a los dos. Mis hombres me dicen que últimamente hacéis misiones en nombre de los Herederos." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_PAPALYMO_000_004", "hash": "810686B541824908", "target": "Así es, comandante. Un pajarito nos dijo que la Doble Víbora necesitaba nuestra destreza aventurera." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_005", "hash": "72F6561B0285E372", "target": "Sí, vuestro pajarito canta con razón. Sin duda habréis oído que estamos investigando a los silfos... esa curiosa tribu bestial que tiene su hogar en las profundidades de la Selva de los Doce." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_006", "hash": "9AFE1BEDE1267FD5", "target": "Los silfos son, en su mayoría, gente pacífica... para gran alegría de la Gran Vidente, que no desea ver a su pueblo enredado en otra guerra estéril." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_007", "hash": "B4EB9EACCFA1176A", "target": "La Doble Víbora piensa igual, y es precisamente por eso por lo que la relación de los silfos con el primigenio Ramuh ha hecho saltar las alarmas en nuestras filas." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_008", "hash": "A040CF21B6172B59", "target": "Por amistosos que parezcan, los hombres bestia siempre serán hombres bestia." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_009", "hash": "FB45A6BB75D41B93", "target": "Si existe siquiera un atisbo de posibilidad de que la invocación del primigenio altere el equilibrio entre Gridania y las tribus sílficas, es una posibilidad que no podemos ignorar." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_PAPALYMO_000_010", "hash": "9FF1521DF32977EA", "target": "Más vale prevenir que curar, en efecto." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_011", "hash": "1B2E34E30463043F", "target": "¿Atacamos a Ramuh o dejamos a los silfos a su aire? Esa es la cuestión, y me encuentro sin conocimiento suficiente para llegar a una respuesta." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_012", "hash": "49364369EA9B901E", "target": "Abundan las opiniones en Gridania, pero escuchar solo la propia es uno de los mayores errores que puede cometer un comandante." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_013", "hash": "96ABCD5337546A6A", "target": "Quisiera oír a la otra parte —los propios silfos— y busco un intermediario imparcial que me sirva de enlace. Ahí es donde entráis vosotros, los Herederos." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_014", "hash": "FE24DD0760CF64FB", "target": "Los silfos del Pequeño Solaz siguen sin estar subyugados y han mantenido muchos diálogos productivos con nuestro pueblo. Quisiera oír sus opiniones sinceras sobre sus hermanos subyugados." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_015", "hash": "613E94600101FCDE", "target": "Dicho esto, os insto a extremar la cautela. La tradición y la etiqueta sílficas se parecen poco a las nuestras. No convendría que un <italic(1)>faux pas<italic(0)> cultural se interpusiera en un parlamento productivo." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_016", "hash": "F035C2EE48B7D197", "target": "De camino al Pequeño Solaz, os toparéis con la Cabaña de los Hawthorne. El oficial destinado allí podrá ilustraros sobre cómo ganaros el favor de los silfos. Que vuestra expedición sea provechosa." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_PAPALYMO_000_017", "hash": "E82DA5CF73EC75B9", "target": "¿Una charla amistosa con los silfos? Debería ser una distracción bastante agradable." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_PAPALYMO_000_018", "hash": "374CDC136B455DF6", "target": "La Cabaña de los Hawthorne, ¿no? Creo que el transbordador que parte del Embarcadero de Poniente debería llevarnos directos allí." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_YDA_000_019", "hash": "7320A91B610FBD63", "target": "¡Una charla amistosa, sí! Espero que sea tan sencillo como dices, Papalymo." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_MITAINIE_000_020", "hash": "2654835DFA485034", "target": "Sí, el transbordador atracado al pie de esta colina os llevará al otro lado del lago, a la Sudario Oriental." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_MITAINIE_000_021", "hash": "8BBCBC853B892999", "target": "Una vez en tierra, id hacia el este y deberíais encontrar la Cabaña de los Hawthorne sin mucha dificultad." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_AMELAIN_000_030", "hash": "7BF79F1D4DC7213E", "target": "En efecto, soy Amelain, de la Doble Víbora. Tengo entendido que estáis aquí para conocer a los silfos, ¿no es así?" },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_AMELAIN_000_031", "hash": "3D3A38759A64644E", "target": "Con todo lo caprichosos que son, son gente recelosa. Sobre todo desde que el Imperio ha llegado a la Selva." },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_AMELAIN_000_032", "hash": "8833AE5B96A52C69", "target": "Pero ganaos su confianza y son tan amistosos como cualquiera. Tienen sus rarezas, pero ¿quién no las tiene?" },
+    { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_AMELAIN_000_033", "hash": "5D48FFF4D87BA4DA", "target": "Si queréis saber más, haríais bien en hablar con el dueño de esta cabaña, Rolfe. Ha <italic(1)>olvidado<italic(0)> más sobre los silfos de lo que yo sabré jamás." },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_SEQ_00",
+      "hash": "8BF3E27B69828D93",
+      "target": "El comandante Vorsaile Heuloix aguarda la ayuda de los Herederos."
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_SEQ_01",
+      "hash": "07E2F045E567E065",
+      "target": "Vorsaile Heuloix quiere que te comuniques directamente con los silfos y averigües sus verdaderas intenciones respecto al primigenio Ramuh. Para evitar malentendidos culturales, primero debes viajar a la Cabaña de los Hawthorne y recibir una explicación sobre la cultura sílfica del oficial destinado allí. Habla con Mitainie, junto al Embarcadero de Poniente, en la Vieja Gridania, para organizar el transporte."
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_SEQ_02",
+      "hash": "718EC2D911950392",
+      "target": "Mitainie te ha indicado que tomes el transbordador desde el Embarcadero de Poniente para llegar a la Sudario Oriental. Una vez allí, solo tendrás que dirigirte al este para encontrar la Cabaña de los Hawthorne, donde hallarás a Amelain, de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_SEQ_03",
+      "hash": "0D675F4B1E583AAD",
+      "target": "Amelain te ha informado de que Rolfe Hawthorne conoce bien la cultura sílfica y debería tener las respuestas que buscas."
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_TODO_00",
+      "hash": "035C9C782F41AB53",
+      "target": "Hablar con Mitainie en el Embarcadero de Poniente"
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_TODO_01",
+      "hash": "B90C332428EFA6A6",
+      "target": "Hablar con Amelain en la Cabaña de los Hawthorne"
+    },
+    {
+      "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_SYSTEM_100_000",
+      "hash": "BB2786F3EC6480E1",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    }
+  ]
+}

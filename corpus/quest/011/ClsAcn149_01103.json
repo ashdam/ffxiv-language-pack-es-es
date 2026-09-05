@@ -1,0 +1,54 @@
+{
+  "conversation": "quest/011/ClsAcn149_01103",
+  "questName": "Topaz Teachings",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_00",
+      "hash": "A9FFFF46AEA9EC64",
+      "target": "Thubyrgeim, maestra del gremio en funciones, quiere informarte de una tarea importante."
+    },
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_01",
+      "hash": "D76806A9706D4B7A",
+      "target": "Thubyrgeim te informa de que la inspectora K'lyhia ha solicitado tu presencia en otra inspección oficial. Sin embargo, tu participación tiene una condición. Dirígete a la sala de prácticas del Gremio de Arcanistas y habla con la inspectora Miqo'te para que te lo explique todo."
+    },
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_02",
+      "hash": "2E61BF8C90E0883D",
+      "target": "K'lyhia te explica que, para ayudarla en la próxima inspección, deberás adquirir la geometría arcana necesaria para invocar a Topaz Carbuncle. Habla con Thubyrgeim y pídele que te enseñe la técnica necesaria."
+    },
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_03",
+      "hash": "2A53F2ECAC94193E",
+      "target": "Thubyrgeim te ha enseñado el método para invocar a Topaz Carbuncle. Aprovecha las habilidades de tu nuevo familiar para garantizar una inspección exitosa... y segura."
+    },
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_00",
+      "hash": "7948E66D9DA6D814",
+      "target": "Hablar con K'lyhia"
+    },
+    {
+      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_01",
+      "hash": "6B9C3A3E4E9C9C9E",
+      "target": "Hablar con Thubyrgeim"
+    },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_001", "hash": "C8DAF118393D7705", "target": "Pareces cansad<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. ¿Duermes bien? El razonamiento puede resentirse sin suficiente descanso y recuperación." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_002", "hash": "88B7170E1BC58CCD", "target": "Si te consideras en condiciones para el servicio, baja a la sala de entrenamiento. La inspectora jefa K'lyhia ha pedido que la acompañes en otra inspección oficial." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_003", "hash": "6627D83709F29046", "target": "Hay, no obstante, un requisito para tu participación. La inspectora te explicará la situación." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_020", "hash": "4F876F1AF9D3A6D1", "target": "Empezaba a pensar que había calculado mal, <split(<string(gstr1)>, ,1)>. Gracias por venir. Prrronto abordaré un navío mercante sospechoso de contrabando." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_021", "hash": "6D147A0099CEB535", "target": "Todos los barcos mercantes que utilizan los puertos de Limsa Lominsa están sujetos a la inspección de los agentes de la Aduana de Mealvaan: es una rutina que realizo a diario." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_022", "hash": "D743FA77C12D3DC4", "target": "En el caso de los contrabandistas, no obstante, hay un 75 % de prrrobabilidades de toparse con... resistencia. Por eso agradecería tu compañía durante este encargo." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_023", "hash": "947BB18492E1EE90", "target": "Es ahora cuando debemos hablar del requisito del que se te informó: aunque tengo plena confianza en tu pericia marcial, es imperativo que primero adquieras la capacidad de invocar a Topaz Carbuncle. Ese conocimiento se te concederá supeditado a que aceptes este deber." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_Q1_000_000", "hash": "F37478DC7A224E6F", "target": "¿Aceptas este deber?" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_A1_000_000", "hash": "56177A55F802D1E9", "target": "Sí." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_A2_000_002", "hash": "49DDEE79281361A9", "target": "No." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_025", "hash": "945EBE60163BCF8D", "target": "Entonces lamento que se te deba negar el método para invocar a Topaz Carbuncle. ¿No lo reconsiderarás?" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_030", "hash": "9AAED5DF1018FE20", "target": "Muy bien. La entidad arcana a la que da forma la geometrrría del topacio ampliará aún más tus capacidades ofensivas." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_031", "hash": "A1656B4562357B68", "target": "Con semejante aliado a tus órdenes, incluso los enemigos más duros flaquearán ante ti. De hecho, no podríamos llevar a cabo estas peligrosas inspecciones por sorpresa sin su apoyo." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_032", "hash": "C5DAF8CA5AD64996", "target": "Por favor, vuelve con la señora Thubyrgeim e infórmale de tu participación. Me uniré a ti en cuanto termine unos últimos ajustes a mis fórmulas tácticas." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_KLYHIA_000_035", "hash": "E7CE773BC8A9F2FD", "target": "Por favor, pide a la señora Thubyrgeim que te enseñe la geometría de Topaz Carbuncle. Me uniré a ti después de revisar mis cálculos estratégicos." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_040", "hash": "C61257DFA73B8FEB", "target": "¿Has accedido a acompañar a la inspectora? Entonces te instruiré con gusto en el uso de Topaz Carbuncle." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_041", "hash": "FB7EB36E660BC6DB", "target": "No dudes en emplear a esta entidad en combate si la inspección se tuerce." }
+  ]
+}

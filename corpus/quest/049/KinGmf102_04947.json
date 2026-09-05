@@ -1,0 +1,304 @@
+{
+  "conversation": "quest/049/KinGmf102_04947",
+  "questName": "In Pursuit of Sphene",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SEQ_00", "hash": "D35C5FF407DE2ABA", "target": "Wuk Lamat quiere ir a ver a sus soldados." },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_TODO_00", "hash": "9AD2B1439EBB6464", "target": "Hablar con Koana" },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_TODO_01", "hash": "1E2893C5B0E815B0", "target": "Volver a hablar con Koana" },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GULOOLJA_000_000",
+      "hash": "7609A030CC5DC614",
+      "target": "Ojalá pudiera hacer algo para ayudar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_001",
+      "hash": "A04AE78BE4FF8E42",
+      "target": "Tengo entendido que Zoraal Ja no reservó ningún alma para revivir durante el combate. Imagino que su orgullo no le permitía otra cosa..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_003",
+      "hash": "A61483AEAEF16E8B",
+      "target": "Bueno, ya he puesto a Koana al día. Ahora vamos a hablar con los sold─ ...¿Eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_004",
+      "hash": "DA1FBDA152FF30CA",
+      "target": "¿De quién será?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_005",
+      "hash": "895018C20CADCA28",
+      "target": "¿Sí? ...Eso es, <split(<string(gstr1)>, ,1)> está conmigo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_006",
+      "hash": "D3B79DC99CF8245D",
+      "target": "...¿Ah, sí? En ese caso, quedamos en el Alcázar del Sol. ¡Hasta ahora!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_007",
+      "hash": "053F848BEEA729EB",
+      "target": "Y'shtola viene de camino. Me atrevo a esperar que haya encontrado la manera de seguir a Sphene."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_008",
+      "hash": "DC105488C715A1E1",
+      "target": "Si queréis adelantaros al Alcázar del Sol, yo me acerco un momento a saludar a nuestros soldados."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_010",
+      "hash": "638ADE90D26FAD86",
+      "target": "Perdonad la espera."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_011",
+      "hash": "825427F81A75E76A",
+      "target": "Estáis todos aquí. Entonces eso quiere decir..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GRAHATIA_000_012",
+      "hash": "998BD8A553610849",
+      "target": "Sí. Creemos haber encontrado la manera de viajar al reflejo al que se ha retirado Sphene."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_000_013",
+      "hash": "01ABFE8AF038D6ED",
+      "target": "Yo estaba ocupada echando una mano en Solución Nueve, así que tampoco conozco los detalles."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_000_014",
+      "hash": "B389EC88D128CEAF",
+      "target": "¿Podrías empezar por el principio, Y'shtola?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_015",
+      "hash": "0865C3596AC418AB",
+      "target": "Según las propias palabras de Sphene, la puerta que había sobre Everkeep se abrió y se cerró mediante el poder de la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_016",
+      "hash": "EFC8D1ABD4A78AF2",
+      "target": "Y fue el artefacto conocido como la llave lo que le permitió controlarla."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KRILE_000_017",
+      "hash": "7B1C3F1D80637001",
+      "target": "Según Ketenramm, la llave llegó conmigo al Origen hace veinte años."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KRILE_000_018",
+      "hash": "2E66BE775F60D9EF",
+      "target": "Desde entonces se guardó aquí, en el palacio, hasta que Zoraal Ja la robó y la usó en Yyasulani para fusionar una parte de nuestro mundo con este reflejo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_019",
+      "hash": "8AF0C778BB83D9A4",
+      "target": "Tras la muerte de Zoraal Ja, Sphene se hizo con la llave y desapareció por la puerta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_020",
+      "hash": "BD382B7AB1D391E2",
+      "target": "Pero ¿adónde llevaba exactamente esa puerta? Buscando la respuesta, volvimos a examinar la Origénesis─e hicimos un descubrimiento asombroso."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_021",
+      "hash": "E4EC797099239009",
+      "target": "Como todos sabéis, debería haber habido un nivel más en la cima de Everkeep."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_010_021",
+      "hash": "207C723876A10FD9",
+      "target": "El duodécimo nivel─la morada real del Rey de la Resolución."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SHALE_020_021",
+      "hash": "D5037DFFDF751F88",
+      "target": "Exacto. Pero, cuando llegaron allí, vieron que no existía."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SHALE_000_022",
+      "hash": "37F91FB91BD96DA8",
+      "target": "Intrigados, analizamos los registros de la Origénesis para ver adónde se enviaban los recuerdos de los difuntos. Y resulta que iban <italic(1)>a través<italic(0)> de la puerta, al desaparecido duodécimo nivel."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_023",
+      "hash": "8C02EFB278E56B32",
+      "target": "Solo ese nivel debía de quedar fuera de la región fusionada, y por eso se quedó atrás."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_000_024",
+      "hash": "9C724DE3DEDBE5D6",
+      "target": "Entonces eso significa..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_Q1_000_025",
+      "hash": "2E7B6062CBD23A25",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_A1_000_026",
+      "hash": "4AC928B3D76FED36",
+      "target": "El reflejo al que ha huido Sphene es el suyo propio."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_A1_000_027",
+      "hash": "A97D5EF1439DB3F0",
+      "target": "¡Alphinaud, si eres tan amable!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_028",
+      "hash": "BAD63B219046D788",
+      "target": "En efecto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_029",
+      "hash": "370ACD448BBD3C90",
+      "target": "Es el mundo natal de Sphene, y allí ha regresado, para reunirse con los recuerdos de sus ciudadanos difuntos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALPHINAUD_000_030",
+      "hash": "38C69E076BAF83AE",
+      "target": "Significa que más allá de la puerta no hay un reflejo cualquiera, sino aquel del que procedía originalmente Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALPHINAUD_000_031",
+      "hash": "21250C91DC51057C",
+      "target": "Es el mundo natal de Sphene, y allí ha regresado, para reunirse con los recuerdos de sus ciudadanos difuntos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GRAHATIA_000_032",
+      "hash": "D631C995A3DCAB07",
+      "target": "Pero, como la llave está con ella al otro lado, no tenemos forma de volver a abrir la puerta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_033",
+      "hash": "5B924220343DD2CC",
+      "target": "Perdonad, pero yo creía que ya sabíamos que se había ido a casa─o al menos a mí me parecía evidente. Lo que quiero saber es cómo vamos a seguir a Sphene si la puerta de aquí está cerrada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KRILE_000_034",
+      "hash": "55521613A54797A5",
+      "target": "Usamos otra puerta. Y da la casualidad de que sabemos dónde hay una."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_000_035",
+      "hash": "49B4CB071DB80CEF",
+      "target": "¡El Skydeep Cenote!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KRILE_000_036",
+      "hash": "84DB5853BC795471",
+      "target": "Sí. Todo indica que la puerta de allí lleva al mundo del que venimos los alejandrinos y yo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_ALISAIE_000_037",
+      "hash": "A00550109F1B494F",
+      "target": "Pero, suponiendo que sea cierto, ¿cómo la abrimos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KRILE_000_038",
+      "hash": "36EA75F4DDF0AA55",
+      "target": "Eso es lo que vamos a averiguar, usando el código de este pendiente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SHALE_000_039",
+      "hash": "BD9D31F28B9DA901",
+      "target": "Como recordarán, el pendiente de Krile es en realidad un dispositivo de almacenamiento de datos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SHALE_000_040",
+      "hash": "8C2E2DD1B1C741E0",
+      "target": "Al analizarlo apareció un código─algo que sirve para controlar un artilugio, y de los grandes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GRAHATIA_000_041",
+      "hash": "1D640F79E828508C",
+      "target": "Dadas las circunstancias de la llegada de Krile al Origen, creemos que dicho artilugio es la puerta a la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GRAHATIA_000_042",
+      "hash": "32DC30F6E75A1F60",
+      "target": "Reconozco que es una conjetura fundada, pero tenemos bastantes esperanzas de que funcione."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_043",
+      "hash": "E828CD18BE5290CF",
+      "target": "Avanzar tanto en tan poco tiempo... ¡Sois increíbles de verdad!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_YSHTOLA_000_044",
+      "hash": "016325F7506178F8",
+      "target": "No podríamos haberlo hecho solos. El mérito es de los miembros de Oblivion, que consiguieron la información que necesitábamos, y de Shale en particular."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_045",
+      "hash": "0F03ED5713A1B48A",
+      "target": "¡Pues parece que el plan está listo! ¡Al Skydeep Cenote!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GULOOLJA_000_020",
+      "hash": "33FBD888B390DD0D",
+      "target": "¿Todavía no nos vamos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_025",
+      "hash": "397FDA482F924316",
+      "target": "Ya he informado a los oficiales de la Legión del Alba de mis intenciones. Apoyan nuestra empresa sin reservas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_030",
+      "hash": "8DADCFFA362CE8B1",
+      "target": "Disculpa, <split(<string(gstr1)>, ,1)>, ¿me concedes un momento antes de que partáis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_031",
+      "hash": "3C1A17F57B8794FF",
+      "target": "¡Ah! ¿Ya vas a darle eso a <if(gnum4,ella,él)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_032",
+      "hash": "C9B87E6E230FB1A9",
+      "target": "Sí. Había pensado guardarlo para más adelante, pero, a la vista de los acontecimientos, creo que este es el momento."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_033",
+      "hash": "1A1A5909407ABFF1",
+      "target": "Como dice Lamaty'i, tengo algo para ti. Acompáñame, por favor, a la Bahía Comerciante."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_GULOOLJA_000_035",
+      "hash": "9E99C4C2AA3E6EFF",
+      "target": "¿Son todo tiendas? ¡Qué distinto es de Solución Nueve!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_040",
+      "hash": "582433289CDDBB23",
+      "target": "Je, je, ¡espero que te guste!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_050",
+      "hash": "0E67ECC1F406FE86",
+      "target": "Que Tuliyollal esté a salvo se debe en no poca medida a tu valor. Como muestra de nuestro agradecimiento, he encargado un equipo especial para ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_051",
+      "hash": "B9713E92B064E22E",
+      "target": "Aunque resulte insuficiente como expresión de gratitud, ruego que te sirva bien en la misión que te espera."
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_WUKLAMAT_000_052",
+      "hash": "5C404CF01791B392",
+      "target": "Por lo visto lleva tecnología extranjera. ¡Cosas de Koana, cómo no!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_KOANA_000_053",
+      "hash": "A050E11CB6213361",
+      "target": "Mewazunte, ahí al lado, guarda el equipo. Basta con que se lo pidas y te lo sacará."
+    },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SYSTEM_000_100", "hash": "40FBF4E932AA456D", "target": "Ahora puedes obtener equipo específico de cada job de manos de Mewazunte." },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SYSTEM_000_101", "hash": "1D1AA0F198662CBD", "target": "Las armas y el equipo que obtengas pueden equiparse al nivel 99. No obstante, todas las características de los objetos quedarán sujetas a la sincronización de nivel de objeto." },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SYSTEM_000_102", "hash": "A74F6CA17C821F2B", "target": "Al alcanzar el nivel 100 con el trabajo correspondiente, estos objetos dejarán de estar sincronizados." },
+    { "gameKey": "quest/049/KinGmf102_04947#TEXT_KINGMF102_04947_SYSTEM_000_103", "hash": "354969270670C5F2", "target": "Además, el equipo podrá teñirse una vez completadas las misiones de rol asociadas a dicho trabajo." }
+  ]
+}

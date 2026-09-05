@@ -1,0 +1,12 @@
+{
+  "conversation": "shop/LotteryExchangeShopWksTreasure",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_TITLE", "hash": "916383336B5F7D78", "target": "Tasación de registros antiguos" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_UI_NOITEM", "hash": "D856004C4826FE34", "target": "No hay nada que mostrar." },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_TITLE", "hash": "1F7057ABA9842F1F", "target": "Compensación" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_RESULT_UI_NEXT", "hash": "EE8A28BD4866CB81", "target": "Siguiente" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_SINGLE", "hash": "F6E86B70FBBC309E", "target": "¿Tasar <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopWksTreasure#TEXT_LOTTERYEXCHANGESHOPWKSTREASURE_CONFIRM_MULTI", "hash": "DDCE53E3C2771B9F", "target": "¿Tasar <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" }
+  ]
+}

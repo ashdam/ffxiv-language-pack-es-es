@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/033/LucKza026_03368",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_SEQ_00", "hash": "1C4B73105A9C46F6", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>El guardia ojeroso parece sufrir de falta de sueño." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_00", "hash": "C9260E782BF86C2F", "target": "Hablar con el guardia ojeroso" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_01", "hash": "69A231E1D78B3C6D", "target": "Usar la cerbatana para abatir ghilman desde el lugar indicado" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_TODO_02", "hash": "5976F5D378B4508C", "target": "Hablar con el guardia ojeroso" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_000", "hash": "3815D2BFB1C4FBC2", "target": "Es usted uno de los amigos de Alisaie, ¿verdad? Tengo entendido que los suyos tienen buena mano para acabar con bestias molestas." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_001", "hash": "7EA26EA4BFFE49AC", "target": "No sé si eso incluye lo sobrenatural, pero unos cadáveres andantes llamados ghilman andan sembrando el caos junto a la entrada sur. Agarran a cualquiera que se acerque demasiado y lo arrastran bajo la arena." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_002", "hash": "E773EBFDBAD5A27B", "target": "Yo mismo estuve a punto de caer víctima de ellos, y tuve suerte de escapar. El caso es que, al huir, se me cayó el colgante de mi madre, y haría cualquier cosa por recuperarlo. Ella fue paciente aquí, ¿sabe?, y es lo único que me queda para recordarla." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_003", "hash": "81C1BC4E29BF9CB5", "target": "Por suerte, hemos descubierto que unos dardos encantados disparados con cerbatana devuelven a los ghilman al infierno del que salieron reptando." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_004", "hash": "40D779011DEFCB98", "target": "Mi plan es entrar corriendo y coger el colgante mientras usted dispara a esos malditos muertos vivientes desde lejos. Entonces, ¿me ayudará?" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_005", "hash": "5334BEF2C883BA6F", "target": "¡Sabía que lo haría! Vamos, acabemos con esto." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_100_010", "hash": "08A379F192A1F95A", "target": "Estoy casi seguro de que se me cayó el colgante junto a aquellas ruinas de allí. En cuanto lo encuentre, volveré corriendo a la posada. Mientras tanto, necesito que mantenga a los ghilman lejos de mí. ¡Allá vamos!" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_SYSTEM_200_010", "hash": "C9D907FE5F77BEA5", "target": "Si aparecen ghilman, dispárales con los dardos encantados. Puedes mover la cámara, así como acercar y alejar el zoom. Apunta al ghilman y usa la cerbatana con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_020", "hash": "9FD5C797EAA7C5F6", "target": "¡Ja, ja! No les ha gustado nada, ¿eh? Y lo mejor de todo: ¡he recuperado el colgante!" },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_021", "hash": "46FF1BB55B98B25D", "target": "¿Sabe? Nunca había visto tan buena puntería con una cerbatana. Aunque el secreto está en los dardos. Se desenterraron en las ruinas de Nabaath Areng." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_022", "hash": "6E62DA4F95365D57", "target": "Según los historiadores, estos mismos dardos los usaban los Nabaath para destruir a los ghilman hace ya muchísimos años. De hecho, había reservas enteras de ellos." },
+    { "gameKey": "quest/033/LucKza026_03368#TEXT_LUCKZA026_03368_GUARD03368_000_024", "hash": "15B26C65C50E4E00", "target": "En fin, ya basta de historia antigua por hoy. Más importante aún: ¡quiero darle las gracias por todo lo que ha hecho! Acepte esto en señal de agradecimiento y déle recuerdos a Alisaie de mi parte." }
+  ]
+}

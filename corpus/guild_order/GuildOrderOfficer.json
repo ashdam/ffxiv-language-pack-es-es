@@ -1,0 +1,27 @@
+{
+  "conversation": "guild_order/GuildOrderOfficer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_00", "hash": "0CDA8E91FEE4C12F", "target": "Retirarse de la operación en solitario." },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_01", "hash": "279C841744E6F822", "target": "Retirar al grupo de la operación." },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_MENU_02", "hash": "339D983CB2DA9BF4", "target": "Volver al servicio." },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_TITLE", "hash": "4DB4E674B7DFA529", "target": "Se le expulsará del grupo. ¿Desea continuar?" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_YES", "hash": "8C0CE5C7F0F5801A", "target": "Sí" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_ME_MENU_NO", "hash": "CA17FD3CAA7B411C", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_TITLE", "hash": "CBD0C20B96369806", "target": "¿Abandonar la misión actual?" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_YES", "hash": "FC209D191FD7244F", "target": "Sí" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_PARTY_MENU_NO", "hash": "2D04B023FF8DDE40", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_TITLE", "hash": "9E7CF4AA2C652AFB", "target": "¿Está seguro?" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_YES", "hash": "0F1F868FFC1944FE", "target": "Por supuesto" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RETURN_CONFIRM_MENU_NO", "hash": "7A9A55909F9B12C2", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_RET_SUCCESS_SYSTEM_TALK_00", "hash": "B1CD000F6154A54A", "target": "Abandonará la instancia cuando todos los miembros del grupo hayan recogido su recompensa." },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_TITLE", "hash": "73F7688897896B1E", "target": "¿Marcharse sin su grupo?" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_YES", "hash": "A5294DE2ADE6B9E8", "target": "Sí" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_MENU_NO", "hash": "696F2A6B980A62E4", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_TITLE", "hash": "FBA5C8DB431ABAF1", "target": "Se le expulsará del grupo. ¿Desea continuar?" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_YES", "hash": "8145736891D746F3", "target": "Sí" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_AFTER_RWD_RETURN_MENU_NO", "hash": "C4D94D4BE3CD216B", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_00", "hash": "74593C64CFD084B1", "target": "Se ha añadido una bonificación a su recompensa por completar el guildhest por primera vez como <if([gnum68==10],<sheet(ClassJob,gnum68,0)>,<if([gnum68==14],<sheet(ClassJob,gnum68,0)>,<if([gnum68==5],<sheet(ClassJob,gnum68,0)>,<if([gnum68==26],<sheet(ClassJob,gnum68,0)>,<if([gnum68==33],<sheet(ClassJob,gnum68,0)>,<sheet(ClassJob,gnum68,0)>)>)>)>)>)>." },
+    { "gameKey": "guild_order/GuildOrderOfficer#TEXT_GUILDORDEROFFICER_FIRST_BONUS_SYSTEM_TALK_01", "hash": "2CFB8D11B5F6DDD2", "target": "<if(lnum1,Se añade otra,Se añade una)> bonificación porque su grupo completó la operación <switch(lnum2,con muy pocas caídas en combate,sin una sola caída en combate)>." }
+  ]
+}

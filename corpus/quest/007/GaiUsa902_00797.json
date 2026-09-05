@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/007/GaiUsa902_00797",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_00", "hash": "12258195541F9C79", "target": "Ademar está a oscuras y necesita la ayuda de un aventurero." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_01", "hash": "BE59409E9601549F", "target": "Ademar ha agotado sus existencias de aceite de linterna, lo que le imposibilita prospectar de noche. Consíguele una fuente de luz alternativa debilitando bright balloons y capturándolos luego con sus lámparas." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_02", "hash": "B19222D47822FAA1", "target": "Has logrado fabricar dos lámparas de globo. Entrégaselas a Ademar." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_SEQ_03", "hash": "EFC6A40BF4E36BE3", "target": "Ademar te da las gracias y enseguida vuelve a su excavación. La vida de prospector deja poco tiempo para la charla ociosa." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_00", "hash": "4CE0098DA67E29C2", "target": "Debilitar y luego capturar bright balloons con las lámparas" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_TODO_01", "hash": "0686AC5603340C02", "target": "Entregar las lámparas a Ademar" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_000", "hash": "07B1F2AFE55C4081", "target": "Te lo ruego, ayúdame, amigo. Me he quedado sin combustible para la lámpara, y me temo que no aguantaré <if([gnum11<12],<if([gnum11<4],toda la noche,hasta bien pasado el ocaso)>,<if([gnum11<17],hasta bien pasado el ocaso,toda la noche)>)>." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_001", "hash": "E630D441ED4FA1BA", "target": "Yo no lo he probado, pero he oído que se pueden fabricar lámparas improvisadas encerrando esos balloons voladores dentro de estas lámparas de aquí. Claro que igual hay que persuadirlos un poco antes de que entren, ya me entiendes." },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_020", "hash": "C6EEA05C28D6B2F8", "target": "¿Has podido fabricarme unas lámparas, amigo?" },
+    { "gameKey": "quest/007/GaiUsa902_00797#TEXT_GAIUSA902_00797_ADEMAR_000_025", "hash": "C98A3A8622D9178D", "target": "Eres un regalo del cielo. Gracias a ti, <if([gnum11<12],<if([gnum11<4],puedo volver a mi excavación,esta noche estaré excavando hasta bien pasado el ocaso)>,<if([gnum11<17],esta noche estaré excavando hasta bien pasado el ocaso,puedo volver a mi excavación)>)>. ¡Hay oro en esas colinas, hiii-ho!♪" }
+  ]
+}

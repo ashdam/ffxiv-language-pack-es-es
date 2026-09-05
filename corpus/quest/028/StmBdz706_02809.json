@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/028/StmBdz706_02809",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_SEQ_00", "hash": "43023CBE236FA256", "target": "La soldado menuda necesita los ojos avizores de un héroe." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_TODO_00", "hash": "37F39C44745B260E", "target": "Hablar con la soldado menuda en Monzen" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_TODO_01", "hash": "62263E1BC8E7B814", "target": "Explorar la zona indicada en busca del emblema de ginkgo" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_TODO_02", "hash": "F4B03CCC91D15058", "target": "Hablar con la soldado menuda" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_TODO_03", "hash": "E995B8EBB0C2CFC6", "target": "Hablar con la soldado menuda" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_TODO_04", "hash": "19FE77B60EA3C4B4", "target": "Hablar con la soldado menuda" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_000", "hash": "2F284085B28D0E2F", "target": "<if(gnum4,Heroína,Héroe)> de Eorzea, un momento. No me conoce, no soy más que una entre muchos aquí, pero le imploraría su ayuda en un... asunto personal." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_001", "hash": "6AF022301E59C19A", "target": "Tras años de duro dominio imperial, la antigua y noble cultura de Doma ha empezado a desvanecerse. Con la esperanza de preservar una pequeña parte para la posteridad, llevo un tiempo buscando cierto tomo." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_002", "hash": "BCCE030270F4A36C", "target": "Por desgracia, como no reporta ningún beneficio inmediato a nuestra causa, mis camaradas se han mostrado poco cooperativos con mis esfuerzos." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_003", "hash": "6F3276BCD00D861F", "target": "Si mis propios compatriotas no quieren ayudarme, pensé que quizá lo hiciera un visitante. Si está dispuest<if(gnum4,a,o)>, le ruego que se reúna conmigo en Monzen." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_010", "hash": "7175935D892374D2", "target": "Gracias por venir. Ahora bien, no conviene ausentarse demasiado, así que pongámonos manos a la obra de inmediato." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_011", "hash": "A86FDD4C129B70A5", "target": "En algún lugar de Monzen hay una mansión que ostenta un emblema de ginkgo. Ahí debería encontrarse el tomo. Quisiera que buscara ese emblema conmigo." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_SYSTEM_000_020", "hash": "143C4EC21F12BA14", "target": "Un emblema de ginkgo adorna la cancela." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_SYSTEM_000_021", "hash": "41C98E8EAC519432", "target": "No hay ningún emblema de ginkgo en la zona." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_030", "hash": "672798CA68EC2E71", "target": "¿Ha encontrado la mansión? ¡Iré allí de inmediato!" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_040", "hash": "8250B7F5F7331AD3", "target": "¡Ya lo tengo, <split(<string(gstr1)>, ,1)>! ¡El tomo!" },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_041", "hash": "532CA9409E288226", "target": "Ah, me encantaría examinarlo ahora mismo, pero ya va siendo hora de volver. Mi turno está a punto de empezar, y además queda el asunto de agradecérselo como es debido." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_050", "hash": "63E483A86534DE60", "target": "Desde entonces he hojeado el tomo, y su valor es incalculable. Las palabras no bastan para expresar mi gratitud." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_051", "hash": "B44FA822C22F6588", "target": "El nombre no le sonará, pero este tomo perteneció en su día a un difunto señor de la familia Rokuyari. Cuando renunció a ese cargo, dedicó su tiempo al estudio de las hierbas." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_052", "hash": "4C3A6DEA9FB04AD3", "target": "En este tomo consignó innumerables variedades de plantas, incluidas las que él mismo descubrió, y detalla con esmero sus múltiples propiedades. Ese saber será, sin duda, de gran provecho para todos los domanos." },
+    { "gameKey": "quest/028/StmBdz706_02809#TEXT_STMBDZ706_02809_LADYSOLDIER02809_000_053", "hash": "65D41DA42A308512", "target": "De nuevo, permítame darle las gracias. De todo corazón." }
+  ]
+}

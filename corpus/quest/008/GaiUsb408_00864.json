@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/008/GaiUsb408_00864",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_00", "hash": "7C3C658F97F92D8B", "target": "Está claro que el comandante Bloeidin ha llegado a confiar en tu habilidad y discreción." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_01", "hash": "FE7432F1B509A1E9", "target": "El comandante del Maelstrom Bloeidin habla de avistamientos recientes de Kobold cerca del Campamento Mirador y quiere enviarte a investigar. Registra los lugares indicados cerca del campamento y abate a cualquier Kobold tan desafortunado como para toparse contigo." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_02", "hash": "302A82516836A9A4", "target": "Has adornado la ladera con los restos de enemigos vencidos. Sin embargo, es hora de dejar este deporte de fanfarrones e informar al comandante Bloeidin." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_SEQ_03", "hash": "88832B70F0D5CBF2", "target": "La estima del comandante del Maelstrom por ti crece con cada misión. Aun así, está intranquilo, pues los exploradores kobold le remueven un recuerdo todavía vago..." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_00", "hash": "0DD65D8B2CF24A0B", "target": "Registrar los lugares indicados y abatir Kobold" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_TODO_01", "hash": "DA1E9C96C27AD70B", "target": "Informar a Bloeidin" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_000", "hash": "0A8789F257D25534", "target": "Bien hallado, <split(<string(gstr1)>, ,1)>. Gracias por las otras veces... no eres blando, eso te lo concedo. Tengo un trabajo que requiere <if(gnum4,una chica dura,un chico duro)> para matar: buscar exploradores kobold." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_001", "hash": "87A40B6C5358DC02", "target": "Mis muchachos dicen que hay al menos tres en algún punto de la colina. Sabes cuidarte solo, ¿no?" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_020", "hash": "6EBE918764F2D313", "target": "Te eché el catalejo en cuanto supe que había pelea. ¡Te tenía calada como <if(gnum4,una fiera,un bruto)>! ¿Seguro que no quieres dejar el camino y unirte a nosotros aquí? ¡Kobolds hay de sobra para todos!" },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_BLOEIDINL_000_021", "hash": "DCCCD4F5E02C4DE9", "target": "Hay algo vagamente familiar en esos kobolds de los que te ocupaste. Juraría que he visto antes a algunos moverse de esa manera. Ya me vendrá a la memoria... si es que nos queda siquiera ese tiempo." },
+    { "gameKey": "quest/008/GaiUsb408_00864#TEXT_GAIUSB408_00864_POP_MESSAGE_000", "hash": "0030821E015F8B65", "target": "¡Te llega un tufo a tierra y metal!" }
+  ]
+}

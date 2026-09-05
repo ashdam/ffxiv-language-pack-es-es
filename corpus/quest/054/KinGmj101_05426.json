@@ -1,0 +1,172 @@
+{
+  "conversation": "quest/054/KinGmj101_05426",
+  "questName": "With the Winds",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_00", "hash": "C4E7EBA6F1C447AE", "target": "Alphinaud tiene algo que quiere contarte." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_01", "hash": "BB1517CA1A26CAA3", "target": "Con Calyx derrotado y sus planes deshechos, es hora de que tú y tus compañeros penséis en el futuro. Aunque queda pendiente investigar la injerencia de los ascianos en los sucesos históricos del Noveno, Y'shtola se ofrece a seguir trabajando con Shale para sacar a la luz cualquier secreto que persista, dejando a Alphinaud y Alisaie libres para retomar sus esfuerzos por ayudar a las gentes de Garlemald. A través de una repentina llamada por linkpearl, te enteras de que Erenville también partirá pronto hacia tierras lejanas, así que te apresuras a la Trastienda a recoger a Shale, que sin duda querrá despedirse a su vez." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_02", "hash": "D84FD77386099E15", "target": "Encuentras a Shale exactamente donde esperabas: en su puesto de la Trastienda. Para sorpresa de tus compañeros, se deja apartar de su trabajo sin apenas resistencia. Al parecer, los documentos recuperados del complejo de contención aún necesitan tiempo para descifrarse, así que está libre para atender asuntos personales, como despedir a un taciturno Viera." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_03", "hash": "27EE6D3C0C7EB2FB", "target": "Llegas al Puerto de Marea Alta y encuentras a Erenville resignado a su suerte, aunque aun así protesta simbólicamente por ser objeto de cariñosas despedidas. Ahora solo queda esperar a que Alphinaud y Alisaie se os unan." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_04", "hash": "855B9DA582F9E5EC", "target": "Quienes se quedan en Tural ofrecen sentidas despedidas y promesas de futuros reencuentros a quienes parten. Mientras los despedís, el barco que lleva a Erenville, Alphinaud y Alisaie se va empequeñeciendo hasta ser un puntito en el horizonte, antes de desaparecer por completo." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SEQ_05", "hash": "DEF1A2D4111A3766", "target": "Lo que viene ahora, junto con tu papel en ello, sigue siendo incierto. Por lo que parece, sin embargo, Krile tiene una idea..." },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_TODO_00", "hash": "1CB07BCAA394B5EC", "target": "Hablar con Shale en la Trastienda" },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_TODO_01", "hash": "FAF44C8DEF14E045", "target": "Hablar con Erenville en el Puerto de Marea Alta" },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_TODO_02", "hash": "91BD05D1594F6884", "target": "Esperar en el punto de encuentro" },
+    { "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_TODO_03", "hash": "EA724C318CB81534", "target": "Hablar con Krile" },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_YSHTOLA_000_001",
+      "hash": "02BA40CFF8E2B0C2",
+      "target": "Me dicen que Shale es la nueva líder de Oblivion. No hay nadie mejor para continuar el legado de Cahciua y Geode."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_KRILE_000_002",
+      "hash": "5F3CF688C66DFA93",
+      "target": "Impaciente como siempre, nuestro Alphinaud. Espero que lo haya pensado bien... sobre todo en lo tocante a la ira de su hermana."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_KRILE_000_003",
+      "hash": "C10DA01B310FCB8F",
+      "target": "Puede que ella sepa de sobra que ninguna queja lo hará cambiar de idea, pero eso no significa que no vaya a echarle una buena bronca."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_GRAHATIA_000_004",
+      "hash": "48075105DB845077",
+      "target": "Parece que hubiera pasado una eternidad desde la última vez que nos reunimos aquí."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_005",
+      "hash": "78115C9D79FDA256",
+      "target": "Me consuela saber que algunos de vosotros os quedáis. ¡Me sentiría bastante desamparada si os fuerais todos de golpe!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_011",
+      "hash": "27456B1E0CED5F0C",
+      "target": "¿Qué hay de nuevo, <split(<string(gstr1)>, ,1)>? No me creo que hayas traído semejante séquito solo para saludar."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_012",
+      "hash": "9D97F01D5882AC9A",
+      "target": "Así que tienen tantas ganas de ponerse en marcha, ¿eh?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_013",
+      "hash": "3C130B54F4168605",
+      "target": "Me apunto. Al fin y al cabo, les debo un agradecimiento en nombre de Oblivion."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_YSHTOLA_000_014",
+      "hash": "CF66B4D47E336257",
+      "target": "Y yo que pensaba que protestarías por tener que separarte de tu trabajo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_015",
+      "hash": "B66BBE0CBADC4F44",
+      "target": "Aunque tengo curiosidad por ver qué sale cuando encajen todas las piezas, la mayoría de los archivos que hemos desenterrado están cifrados. Poco más puedo hacer hasta que el sistema termine con ellos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_016",
+      "hash": "3B1587F302FB97A6",
+      "target": "...Además, a diferencia de nuestros amigos, el Complejo de Contención 10-29 no se va a ninguna parte."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_YSHTOLA_000_017",
+      "hash": "8726DBA767521301",
+      "target": "En otras palabras, ¿no tendremos respuestas <if([gnum11<12],<if([gnum11<4],esta noche,hoy)>,<if([gnum11<17],hoy,esta noche)>)>?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_018",
+      "hash": "DC569B7862E63D9A",
+      "target": "Me temo que no. Todavía va para rato."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_019",
+      "hash": "614C5640BFBF09AB",
+      "target": "¿Salimos entonces hacia Tuliyollal sin más demora? Hasta la resistencia de Lamaty'i tiene un límite..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_GRAHATIA_000_020",
+      "hash": "E6C74AA48EE855C6",
+      "target": "¡Sin más demora, pues!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_YSHTOLA_000_031",
+      "hash": "00B5560859AE7591",
+      "target": "A pesar de sus protestas, dudo que Alisaie nos haga esperar mucho."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_KRILE_000_032",
+      "hash": "DC3F9DE3EF68241B",
+      "target": "Raha parece absorto en un asunto de gran importancia. Quizá esté pensando en rezarle a Llymlaen por una travesía segura."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_GRAHATIA_000_033",
+      "hash": "C3E607CD08D9CB07",
+      "target": "¿Qué clase de tacos me llevo a la vuelta? El aroma es demasiado tentador para ignorarlo..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_034",
+      "hash": "093F7B928F45AAD3",
+      "target": "Tuliyollal es una delicia para la vista. Cuelgan telas estampadas donde nosotros usaríamos neón, pero la ciudad no resulta menos luminosa."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_WUKLAMAT_000_035",
+      "hash": "35A1CEC8E988E6B7",
+      "target": "Koana y Gulool Ja no han podido venir, pero los dos os mandan saludos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_036",
+      "hash": "ACD4C5E2CC96EED5",
+      "target": "Ojalá tuviéramos esta brisa marina dentro de la cúpula. Podríamos simularla, supongo, pero no hay nada como lo auténtico."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ERENVILLE_000_041",
+      "hash": "4AD9051AADD28471",
+      "target": "Ojalá no montarais tanto alboroto... No me van las despedidas emotivas."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ERENVILLE_000_042",
+      "hash": "7E6A3F8CEFC0A6A9",
+      "target": "Al menos Alphinaud y Alisaie tuvieron la deferencia de avisarme de sus planes por linkpearl. <italic(1)>Cierta<italic(0)> gente que conocemos habría salido de un cajón a mitad de travesía..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ERENVILLE_000_043",
+      "hash": "A914E4865A5E38DA",
+      "target": "En cualquier caso, esperaré aquí hasta que terminen sus preparativos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ERENVILLE_000_051",
+      "hash": "F9708F20B43C20E1",
+      "target": "Se agradecerá algo de compañía para el viaje de vuelta."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_YSHTOLA_000_061",
+      "hash": "0A9BDA17D7E53D93",
+      "target": "Con tantos encuentros y despedidas, pocas veces tenemos ocasión de despedirnos como es debido. Ha sido agradable tomarse el tiempo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_GRAHATIA_000_062",
+      "hash": "1C5A20C51100C877",
+      "target": "Aunque disfruto de la compañía, los viajes en solitario también tienen su encanto. Y viajar por mar <italic(1)>sí<italic(0)> que es relajante..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_ORIGINALSPHENE_000_063",
+      "hash": "0EC1E26EC52F2ACD",
+      "target": "Con Alisaie y Alphinaud difundiendo la noticia de Alexandria, pronto tendremos ocasión de establecer relaciones con otras naciones. Debo prepararme para tratar con sus dirigentes."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_SHALE_000_064",
+      "hash": "0328AED2CBB3D16E",
+      "target": "Me alegro de haber podido despedirlo. A Cahciua también le habría alegrado."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_KRILE_000_071",
+      "hash": "6D97A31BBFCD1D54",
+      "target": "Ahora nos toca a nosotros dar el siguiente paso."
+    },
+    {
+      "gameKey": "quest/054/KinGmj101_05426#TEXT_KINGMJ101_05426_KRILE_000_072",
+      "hash": "97BBF92E5B7365CE",
+      "target": "La cuestión es en qué dirección, y de eso me gustaría hablar contigo."
+    }
+  ]
+}

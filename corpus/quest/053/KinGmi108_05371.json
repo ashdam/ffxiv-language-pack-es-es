@@ -1,0 +1,571 @@
+{
+  "conversation": "quest/053/KinGmi108_05371",
+  "questName": "A Terminal Invitation",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_00", "hash": "68213DEF03ED3EE1", "target": "Y'shtola quiere dirigirse al Meso Terminal." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_01", "hash": "B9E90AC6E35E08C5", "target": "Tras un breve reencuentro con tus compañeros junto a la eterita de la Memoria Viva, Y'shtola considera que el grupo está reunido y listo para proceder. El Meso Terminal, a oscuras, se alza a lo lejos, aguardando vuestra llegada." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_02", "hash": "830CF6BA6BB9741A", "target": "Al llegar al pie del terminal, Sphene revive su reciente despertar. Da las gracias a quienes han preservado el espíritu de su amada Alexandria, pasada y presente, y juntos reafirmáis vuestro compromiso de luchar contra los despiadados designios de Calyx. La abertura en el muro de la estructura reluce con energía dorada, invitándote a adentrarte y enfrentarte al artífice del creciente dilema mortal de Alexandria...<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_03", "hash": "0B12533C9299F278", "target": "Has derrotado a las entidades Perpetuas que Calyx ha enviado contra ti y has asegurado un camino a las alturas del Meso Terminal. Ahora debes ascender a la cúspide de la estructura para poner fin a esta calculada confrontación.<br><br>※Si abandonas la zona, podrás regresar por la entrada al pie del Meso Terminal." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_04", "hash": "69FE9E4882A4C094", "target": "Calyx te felicita por tu perseverancia al llegar hasta él. Sin embargo, como te empeñas en negarte a entregar la llave, procede a invocar una entidad concebida con el único fin de derrotarte. La cámara se oscurece con un frío que cala hasta los huesos, y el miedo a la muerte inevitable que emana de los ciudadanos subyugados de Alexandria alimenta la manifestación de un aterrador ser primigenio. Aunque el dispositivo que contiene los recuerdos de Calyx está tentadoramente cerca, primero debes vértelas con este horror cuyo abrazo no promete sino tinieblas eternas.<br><br>※Si abandonas la zona, podrás regresar por la entrada al pie del Meso Terminal.<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_05", "hash": "CAEE6A29CC7CC9E6", "target": "Luchando como uno solo, triunfáis sobre el primigenio invocado, y sientes cómo el manto de miedo se levanta de vuestros acosados corazones. Es hora de poner fin a las ambiciones perpetuas de Calyx y regresar con tus compañeros a los paseos de la Memoria Viva." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_06", "hash": "F26CA6428B250EFA", "target": "Golpeas el banco de memoria, solo para descubrir que lo protege una poderosa barrera. Mientras Calyx se burla de tus esfuerzos, el aire se vuelve denso, y el peso del pavor mortal se abate de nuevo sobre ti. Con tono seco y académico, Calyx explica que la experiencia de la muerte no ha hecho sino fortalecer su creación: que se alzará una y otra vez hasta que el éter de rayo que impregna su mundo asolado se agote hasta la última chispa. Sin embargo, su promesa de recuerdos perdurables lleva a Sphene a rememorar el verdadero significado de esas palabras y el consuelo que pretendían ofrecer. Con la ayuda de Shale, difunde un mensaje de esperanza por toda Alexandria, insuflando ánimo a los ciudadanos e interrumpiendo el flujo de plegarias hacia el primigenio. Aprovechando su debilidad momentánea, vuestro grupo divide sus esfuerzos: una mitad combate a la entidad y la otra trabaja para derribar la barrera que protege el dispositivo. El ataque combinado de Wuk Lamat y Sphene hace añicos por fin el escudo de energía, mientras Alisaie asesta el golpe mortal a vuestro debilitado enemigo. Calyx solo puede vigilar el avance de su transferencia de memoria con silenciosa desesperación mientras entras en acción, y tu golpe decisivo hace que el banco de memoria estalle en una espectacular explosión. Tras esta destrucción, Calyx se ha esfumado de la existencia, y una exhausta Wuk Lamat se desploma en el suelo, cumplida su promesa." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_07", "hash": "F06A16DDBF2F6F0F", "target": "Sales del terminal con Wuk Lamat inconsciente, y Alphinaud concluye que su paciente vivirá para ver un nuevo amanecer, aunque pasará ese día y muchos otros guardando cama. Con Preservación ya sin ser una amenaza, se ofrece a quedarse hasta que Koana, el Juramento de la Razón, venga a recogerla. Entretanto, tú y tus camaradas debéis regresar a los Arrabales y empezar la labor de poner de nuevo en orden a Alexandria y a sus gentes." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SEQ_08", "hash": "77B832871D2AD74F", "target": "Tras la invocación del primigenio, queda claro que todos los que adoptaron los neorreguladores han caído bajo el influjo de la entidad. El gobierno y los ciudadanos de Alexandria se han unido para poner bajo custodia a los afectados, pero quizá tranquilice a Sphene ver el estado de la gente de primera mano." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_00", "hash": "6BD737832CA8E7D1", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_01", "hash": "E2A6D349B99FB5E9", "target": "Entrar en el Meso Terminal" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_02", "hash": "A77DD2A05A980A14", "target": "Entrar en el Meso Terminal" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_03", "hash": "FD64DA59D61C12BB", "target": "Derrotar a Necron" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_04", "hash": "E58F34E57800AB15", "target": "Derrotar a Necron" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_05", "hash": "F801EDA281DD1ED5", "target": "Hablar con Alphinaud" },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_TODO_06", "hash": "925F0FA1CD01B306", "target": "Hablar con Sphene en los Arrabales" },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_001",
+      "hash": "0140A04F3386FD11",
+      "target": "Me alegra volver a reunirme con vosotros. Tuve que ausentarme un momento para disponer cierta medida de precaución..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_005",
+      "hash": "5A917E5E6E7C7166",
+      "target": "La última vez tuve que esperar en el cenote, ¡pero ahora nada me impide sumarme a esta pelea!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_010",
+      "hash": "5DF838C828FD8C3D",
+      "target": "Hemos estado todos tan ocupados que parece una eternidad desde la última vez que nos reunimos así. ¡He de decir que formamos un grupo formidable!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_015",
+      "hash": "16D5782B7C779BE4",
+      "target": "Venir aquí me recuerda a mis padres. Al valor que me dieron..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_020",
+      "hash": "3C26588A773EC661",
+      "target": "Parece que fueron Alphinaud y Alisaie quienes le explicaron a Koana que teníamos que entrar en el cenote. ¡Y él nos pidió que tuviéramos muchísimo cuidado, cómo no!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_025",
+      "hash": "7B420B2C0F740C3A",
+      "target": "Apenas desperté aquí y ya perdí el conocimiento. Ahora que puedo disfrutar del todo del silencio amable de este lugar, se me saltan las lágrimas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_030",
+      "hash": "100CE2A11E66A8BA",
+      "target": "Creo que todos los que estaban decididos a venir están presentes. ¿Nos dirigimos al terminal?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_031",
+      "hash": "48483FC535BB5377",
+      "target": "No querríamos hacer esperar a nuestro insistente anfitrión."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_035",
+      "hash": "8393E6324328DBC2",
+      "target": "Una existencia perpetua en pos de la evolución de la humanidad... Entiendo lo que persigue, pero no qué lo impulsa a hacerlo con tanta crueldad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_040",
+      "hash": "8F8E510683548295",
+      "target": "Así que aquí es donde se guardaban los recuerdos de la anterior reina."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_041",
+      "hash": "BA53378FE9BD9A16",
+      "target": "Y ella misma intentó borrarlos... Aun siendo Perpetua, su determinación era tal que mató su propio corazón para convertirse en la máquina fría que creía que debía ser."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_045",
+      "hash": "92AEF10A351ACEE5",
+      "target": "Cuando apagamos todos los terminales secundarios, vimos desvanecerse a los Perpetuos. No creo que aquello fuera una función montada para engañarnos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_046",
+      "hash": "BBFA53F31582CB57",
+      "target": "Con el Meso Terminal, en cambio... Ya estaba apagado cuando volvimos del dominio virtual."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_047",
+      "hash": "CE95A88C723D1332",
+      "target": "Aunque me cueste admitirlo, es posible que en nuestra ausencia nos ocultaran su verdadero aspecto. Por eso debemos llevar esta historia a su desenlace con nuestras propias manos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_050",
+      "hash": "C9AE751BCB81B2F4",
+      "target": "No se me había ocurrido que se pudiera entrar en el terminal. Aunque, pensándolo bien, tiene sentido: una estructura para crear Perpetuos requeriría un mantenimiento hecho por manos de carne y hueso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_055",
+      "hash": "830C8A0946BB8FE3",
+      "target": "Recuerdo poco de mi despertar. La parálisis aún persistía y apenas podía enfocar la vista..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_060",
+      "hash": "26B0F32BAD611F22",
+      "target": "La Memoria Viva está impregnada del denso éter de rayo del Noveno. Esa energía omnipresente debe de ser lo que el terminal usa como fuente de alimentación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_070",
+      "hash": "0A042CDABCE5216F",
+      "target": "Bueno, aquí estamos otra vez, ante otra batalla que decidirá el destino de Alexandria."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_071",
+      "hash": "C91577DE7DCB5F16",
+      "target": "Dormí aquí durante cuatro siglos. Al despertar, descubrí que el mundo que conocía había cambiado."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_072",
+      "hash": "032606AFB2E4D948",
+      "target": "Al principio estaba aterrada. No reconocía absolutamente nada y pensé que todo lo que amaba se había convertido en polvo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_073",
+      "hash": "16A9E0B235779231",
+      "target": "Y sin embargo, bajo esa superficie extraña, mucho seguía igual."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_074",
+      "hash": "EB85240D3B3BC586",
+      "target": "Por eso doy las gracias a Otis y Zelenia y a sus caballeros reales, que se jugaron la vida por defender nuestra forma de vivir."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_075",
+      "hash": "7E6048D261701D16",
+      "target": "Doy las gracias a cada alejandrino que creyó en nuestro futuro y transmitió nuestro legado."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_076",
+      "hash": "210DC8C8A1FD27B3",
+      "target": "Doy las gracias a mi otro yo, que tanto amó este reino nuestro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_077",
+      "hash": "30FCC5E8A59CA343",
+      "target": "Y os doy las gracias a vosotros, por prender esta esperanza en mi corazón. Este valor para volver a tomar las armas y luchar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_078",
+      "hash": "F97A58D710CA6AC1",
+      "target": "Así que plantemos cara juntos y luchemos por lo que nos es querido."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SPHENE_100_078",
+      "hash": "DD01BAD917CD685A",
+      "target": "La reina Sphene, bondadosa y dulce, era demasiado débil para servir a su pueblo. Por eso ya no lo servirá más."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SPHENE_110_078",
+      "hash": "F21BA31F10937773",
+      "target": "Libre de conciencia, me convertiré en una soberana que <italic(1)>sí<italic(0)> pueda proteger Alexandria. Una devoradora de mundos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_Q1_000_000",
+      "hash": "C3F2BB6BD61A1C08",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A1_000_001",
+      "hash": "E3C672D3765FCF65",
+      "target": "Resistiremos y lucharemos codo con codo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A1_000_002",
+      "hash": "246F546E113A88BD",
+      "target": "Estaremos a la altura del reto que la Sphene Perpetua no pudo superar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_080",
+      "hash": "071B3EDD2955B73D",
+      "target": "Te lo agradezco de corazón. Y seguro que Otis y Zelenia nos acompañarán en espíritu."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_081",
+      "hash": "FB890904D1EB015C",
+      "target": "Eso haremos. Su deseo de que Alexandria perdure es uno que cumpliré con gusto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_082",
+      "hash": "FF1F90E778038ED2",
+      "target": "Entremos y acabemos con esto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_083",
+      "hash": "A1189B36248E0B77",
+      "target": "En los niveles superiores de este terminal aguarda el aparato que guarda los recuerdos de Calyx. Nos toca subir hasta allí y destruirlo de una vez por todas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_084",
+      "hash": "0213FAF2B948C374",
+      "target": "Sí, hay que poner un punto final definitivo. No permitiremos que haga más daño a Alexandria ni que se lleve la llave."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_085",
+      "hash": "DB0E0C6D8AF232DD",
+      "target": "La reina se la confió a <split(<string(gstr1)>, ,1)> por buenas razones. Y además, sería una auténtica tragedia ceder una reliquia con tanto potencial de estudio."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_086",
+      "hash": "E8E9FA60A7B0FB3D",
+      "target": "Por lo visto, Calyx cree que ya sabe de lo que eres capaz. ¡Te animo a corregir esa suposición equivocada!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_087",
+      "hash": "FFB2D56C06AC699B",
+      "target": "Estoy completamente de acuerdo, aunque aun así aconsejo prudencia. Que se atreva a invitarnos denota una enorme confianza en sus preparativos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_088",
+      "hash": "08BC2065087C3DEE",
+      "target": "Vamos, amigos. Nos adentramos entre los Perpetuos que sueñan."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_Q2_000_000",
+      "hash": "6FE0D9A825D39141",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A2_000_001",
+      "hash": "1606F03A5A99EB09",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A2_000_002",
+      "hash": "2C828F3FE4896D2C",
+      "target": "Formar un grupo y entrar en el Meso Terminal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A2_000_003",
+      "hash": "AC1A0C96E1990639",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_095",
+      "hash": "DE33521FDFF6AF72",
+      "target": "No tenemos ni idea de qué habrá planeado Calyx para nosotros. Alisaie y yo nos hemos preparado para cualquier eventualidad, y aun así..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_096",
+      "hash": "4023D31155B25A2F",
+      "target": "...No, debes poder encabezar la carga sin que la duda te frene. Mientras tú avanzas, nosotros cubriremos los flancos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_100",
+      "hash": "51699FBC7B9EF01A",
+      "target": "De verdad creo que cargas con demasiado de demasiada gente. Y aun así... nunca es la decisión equivocada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_101",
+      "hash": "3934213A10CAB92F",
+      "target": "La reina te dio la llave a <italic(1)>ti<italic(0)> por algo, así que ¡que me lleven los demonios si dejo que Calyx la robe!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_105",
+      "hash": "BC33F0D80098A7A8",
+      "target": "No hay forma de saber cómo ha avanzado Calyx sus planes de conversión en Perpetuos durante estos cuatrocientos años."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_106",
+      "hash": "D52DE075752A4B3A",
+      "target": "Lo que sí sé es que perseguir un objetivo durante tanto tiempo exige una voluntad inquebrantable, sobre todo cuando ese objetivo implica cambiar el mundo tal como lo conocemos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_107",
+      "hash": "8B72395934C2EAEE",
+      "target": "Calyx es un enemigo dotado de una concentración y una determinación considerables. Haríamos bien en reconocerlo como tal."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_110",
+      "hash": "9975D5B6C33DEB32",
+      "target": "Si de verdad Preservación ejecutó a mis padres, para mí esta no será solo una lucha por el bien común. Será justicia."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_111",
+      "hash": "814852E7E4BC1E46",
+      "target": "Si voy a añadir un apéndice al relato del abuelo sobre la ciudad dorada, que sea uno bien bueno, ¿no crees?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_115",
+      "hash": "1B760EECE1A0DCD3",
+      "target": "Como Juramento de la Resolución, o incluso como simple compañera, me veo haciendo un montón de promesas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_116",
+      "hash": "52F2AD548122BDDB",
+      "target": "Pienso cumplirlas todas hasta la última... empezando por el juramento que le hice a la Sphene Perpetua. Aunque solo sea un recuerdo, quiero imaginarla sonriendo por esa promesa cumplida."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_120",
+      "hash": "963B72F9C46F3193",
+      "target": "El plan de Calyx de renunciar a la carne para ganar la inmortalidad recuerda a los Ea. No es que contarle su destino fuera a disuadirlo mucho."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_121",
+      "hash": "F223ADB46E27763C",
+      "target": "“Por convencido que estés de esa verdad, es tuya y no mía. Y ninguna conclusión tuya, por sombría que sea, puede apagar mi deseo”..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_122",
+      "hash": "EDD2784832B5880C",
+      "target": "Así respondí a las advertencias de los Ea. Así que algo sé de negarse a escuchar salvo ante una prueba incontestable del propio error."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_125",
+      "hash": "C10C72F131FE2ED6",
+      "target": "La Alexandria de hoy ha visto ir y venir incontables vidas. Mi otro yo cargó con su dolor, su miedo y su ira al servicio de nuestro reino."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_126",
+      "hash": "7777051FEFED0509",
+      "target": "A mi alrededor se reúnen quienes están dispuestos a darlo todo por cumplir la promesa que le hicieron. ¿Cómo voy a hacer yo menos?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_127",
+      "hash": "9D0B0D469DD92656",
+      "target": "Los alejandrinos deben poder creer que les espera algo más que tristeza... Que el mañana puede ser mejor que el hoy."
+    },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SYSTEM_000_130", "hash": "22B5DA1645F68A6B", "target": "Durante esta misión y al usar el sistema Apoyo en Contenido, tienes la oportunidad de afrontar este desafío con un grupo de compañeros NPC. Algunos de estos aliados desempeñarán roles distintos de los que sueles poder seleccionar." },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SYSTEM_000_135", "hash": "858A08961D45A271", "target": "¿Ir a la Ageless Necropolis?" },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_Q3_000_000",
+      "hash": "7888C7C9D73481E8",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A3_000_001",
+      "hash": "EA63649C9BC71DBD",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A3_000_002",
+      "hash": "A6D18563E264004D",
+      "target": "Formar un grupo y entrar en la Necrópolis Imperecedera."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_A3_000_003",
+      "hash": "B3FE0997C90E3CB7",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_145",
+      "hash": "1984663BA3B1E122",
+      "target": "Como temía, hice bien en traer escamas protectoras de repuesto. Ante la amenaza de un primigenio, hay que aprovechar a cada guerrero que podamos desplegar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_150",
+      "hash": "5C8089820F3EE8B9",
+      "target": "Solo el ritual de invocación me heló la sangre. Como si estuviera a medio camino de ser un cadáver..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_155",
+      "hash": "528252CF1FD51F71",
+      "target": "Una abundancia de rayo haría innecesarios los cristales, desde luego. Me gustaría saber de dónde sacó Calyx ese conocimiento de invocación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_160",
+      "hash": "CF63CE5A1ECA639A",
+      "target": "Por fin encaja todo. Aquellos descontroles de las máquinas no se orquestaron solo para cosechar éter."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_161",
+      "hash": "FEDD483824D6E05C",
+      "target": "Buscaban intensificar el miedo colectivo a la muerte, para que el primigenio manifestado por el terror de la gente fuera mucho más poderoso..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_WUKLAMAT_000_165",
+      "hash": "4583A62978F6D63D",
+      "target": "¡Me da igual que esa cosa sea una pesadilla en carne y hueso! ¡Devolvámosla a la oscuridad, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_170",
+      "hash": "AF17218C497C2D82",
+      "target": "Así que es un primigenio que encarna la idea de la muerte en todo su terror. Ha manifestado un enemigo de lo más engorroso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_175",
+      "hash": "90D1C0C70E3B8225",
+      "target": "¿Qué está diciendo? ¿Que los miedos de toda Alexandria dieron a luz a este... este horror?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_176",
+      "hash": "CE028B520BD359A6",
+      "target": "Por fin se acabó..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_177",
+      "hash": "C8D98A67662F72BC",
+      "target": "Disfrutemos un momento de la victoria, ¿de acuerdo? Ya haremos balance cuando hayamos podido recuperarnos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_178",
+      "hash": "7BA398CAD498107D",
+      "target": "Creo que Calyx intentaba transferir sus recuerdos al final, pero se desvaneció justo en el instante en que el aparato explotó. Debimos de detenerlo justo a tiempo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_179",
+      "hash": "FE7AC7654B98EF89",
+      "target": "¡Después de asestar ese último golpe no me quedaba ni una gota de éter! Gracias por llevarlo hasta el final."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_100_179",
+      "hash": "54C79EEE72273958",
+      "target": "Uf... Qué bien estar fuera de ese terminal. ¿Y tú? ¿Ninguna herida ni secuela?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_180",
+      "hash": "43E7B999165AD416",
+      "target": "Aún no ha recobrado el conocimiento, pero no te preocupes─Lamaty'i se pondrá bien."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_100_180",
+      "hash": "740B51F00D860468",
+      "target": "He hablado con el Juramento Koana y ha dispuesto su traslado a casa. Con lo cual quiere decir que vendrá a recoger a Lamaty'i en persona, por lo visto. Dadas sus heridas y su desgaste, pasará muchos días en cama."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_181",
+      "hash": "CD3A08F9F9B64A16",
+      "target": "Ay, Wuk Lamat..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_182",
+      "hash": "3508F77284B6DFA5",
+      "target": "No puedes evitarlo, ¿verdad? Igual que cierta persona. Dicho lo cual... no lo habríamos conseguido sin ti."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_183",
+      "hash": "5EB56E29CE46CCD7",
+      "target": "Y en cuanto ella derribó la barrera, tú te encargaste de que los recuerdos almacenados de Calyx quedaran destruidos junto con el banco de memoria."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_184",
+      "hash": "EA0FCFDEF05884FE",
+      "target": "Lo que significa que Preservación ya no existe, o eso quiero creer."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_185",
+      "hash": "C5A481410DE0778E",
+      "target": "Calyx ya no dictará el rumbo de nuestro pueblo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_100_185",
+      "hash": "2E4C9DAE7A4B95D0",
+      "target": "Nuestro dolor ya no quedará encerrado ni olvidado..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_186",
+      "hash": "0DB53DFFC1CC09A3",
+      "target": "La libertad de sentir alegría y tristeza─de sentir todo lo que estamos llamados a vivir─vuelve a estar en manos de los alejandrinos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_187",
+      "hash": "C3DD3280FF093FD8",
+      "target": "¡Nunca podré agradecéroslo bastante!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_188",
+      "hash": "DB0DE988AF98D2A1",
+      "target": "Cuando estemos descansados y listos, habrá que investigar a fondo cómo llegó Calyx a conocer ese ritual de invocación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_189",
+      "hash": "CB2FC15A714F0E56",
+      "target": "Sí, porque donde hay primigenios, los ascianos nunca andan lejos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_190",
+      "hash": "6C6048E074599146",
+      "target": "Y hay que considerar que quienes ofrecieron sus oraciones durante la invocación bien pueden haber caído bajo el dominio de la entidad..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_100_190",
+      "hash": "68700EB1C3BE4F6A",
+      "target": "Yo esperaré aquí con nuestra paciente hasta que llegue el Juramento Koana. Adelantaos vosotros y atended entretanto lo que Alexandria necesite."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_191",
+      "hash": "FDCB3258B43F8EE5",
+      "target": "Sí, deberíamos ponernos en marcha. Contactaré con Shale por el camino y le pediré novedades sobre la situación en la ciudad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_192",
+      "hash": "EFA8ABABF90C960C",
+      "target": "¿Vamos primero a los arrabales, entonces? Podemos ver cómo están las cosas allí antes de entrar en Everkeep."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALPHINAUD_000_195",
+      "hash": "45A874326018175A",
+      "target": "No creo que tenga que esperar mucho. Al oír lo de las heridas de Lamaty'i, Koana parecía dispuesto a lanzarse hasta aquí con una máquina de asedio."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_000_200",
+      "hash": "4D246366556B68BD",
+      "target": "He podido hablar con Shale y Erenville. Compartiré las novedades con todos en un momento."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_205",
+      "hash": "59A4BB74F325A915",
+      "target": "Le he dado a Sphene una explicación resumida de los primigenios y de su capacidad de subyugar. Demasiados detalles la abrumarían."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_000_210",
+      "hash": "13441EA3A1EBBA82",
+      "target": "Menos mal... Todo está mucho más tranquilo de lo que esperaba."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_YSHTOLA_000_215",
+      "hash": "8FB30F6D8A8C5F5C",
+      "target": "Ni rastro de violencia reciente. Al menos los soldados se han portado bien."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_220",
+      "hash": "09EDA051FFFDF8DC",
+      "target": "<split(<string(gstr1)>, ,1)>... Los demás me han estado explicando qué significa quedar subyugado por un primigenio..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_100_220",
+      "hash": "15816DBC6FEFA7AD",
+      "target": "Por lo que veo, los arrabales parecen intactos, pero... ¿¡y si ha ocurrido algo horrible!?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_110_220",
+      "hash": "63CD9418E081B0B6",
+      "target": "Respira hondo, Sphene. Erenville y Shale me han puesto al día."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_120_220",
+      "hash": "015FCE4BA18F808D",
+      "target": "Lo primero... Tal como temíamos, parece que quienes adoptaron los neorreguladores han quedado subyugados."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_130_220",
+      "hash": "7D0EB3D5F70FA461",
+      "target": "Aun así, hasta ahora no han mostrado hostilidad hacia nadie. Sospecho que se debe al efecto calmante de tu mensaje."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_140_220",
+      "hash": "6A908C47D0A0B5BD",
+      "target": "Los administradores del gobierno trabajan ahora con el resto de la ciudadanía para poner a los afectados bajo el cuidado de las autoridades y, me alegra decirlo, todo parece transcurrir de forma bastante pacífica."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ALISAIE_150_220",
+      "hash": "BD0812FFA4DBCD0F",
+      "target": "...Todo eso está muy bien, pero es comprensible que los responsables de la ciudad pidan una explicación de lo ocurrido. Raha, Krile, ¿podríais encargaros vosotros?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_GRAHATIA_000_222",
+      "hash": "3F6C264D6BC67B24",
+      "target": "¡Por supuesto! Volveremos enseguida a ayudar con los tratamientos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_KRILE_100_222",
+      "hash": "803295A304619E2E",
+      "target": "Mientras tanto, ¿puedo sugeriros que vayáis a ver a la gente por la que tanto habéis luchado? ¡Puede que os tranquilice ver de primera mano el fruto de vuestro esfuerzo!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_ORIGINALSPHENE_000_224",
+      "hash": "9B888596A1548CDF",
+      "target": "Gracias otra vez... Qué suerte tenemos de contaros entre nuestros aliados."
+    },
+    { "gameKey": "quest/053/KinGmi108_05371#TEXT_KINGMI108_05371_SYSTEM_000_250", "hash": "B1A8E91926489609", "target": "Ahora puedes entrar en el Meso Terminal con un grupo de avatares NPC. Para usar esta función, abre la interfaz <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)>, del menú principal." }
+  ]
+}

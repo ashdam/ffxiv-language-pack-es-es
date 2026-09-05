@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/033/LucKzc007_03390",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_SEQ_00", "hash": "295F638ECDF8426C", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Lethenmaer está hasta las narices de los rufianes ladrones." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_00", "hash": "5A9313B5C72D3563", "target": "Hablar con el ladrón bien armado y defenderse si es necesario" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_01", "hash": "5848D3FA9F866D65", "target": "Recuperar un arma robada" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_TODO_02", "hash": "226B1A182EAA5D2F", "target": "Entregar un arma robada a Lethenmaer" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_000", "hash": "11CCBC88506B417B", "target": "Tú debes de ser de quien me habló Lyna. Dijo que eres <if(gnum4,toda una luchadora,todo un luchador)>. Tengo un trabajo para ti, si te interesa." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_001", "hash": "9DD2A5F9C8A075DC", "target": "Un grupo de indeseables anda causando problemas en Dampsole. Y lo que es peor: van armados con el mismo equipo que usamos nosotros." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_002", "hash": "3FDDC578BF13654F", "target": "No sabemos con certeza si lo robaron del Imperative o si se lo pasó alguno de los nuestros, vendiéndolo a nuestras espaldas. Sea como sea, tenemos que llegar al fondo del asunto." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_003", "hash": "98A4EC9965DC55E8", "target": "Quiero que localices las armas robadas y me traigas una como prueba. Mis hombres recogerán el resto más tarde. Y si esos malditos ladrones intentan algo, haz lo que haga falta para defenderte." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_010", "hash": "E5AEEF4B26292B1A", "target": "De momento solo necesito ver una, porque dudo que puedas cargar tú <if(gnum4,sola,solo)> con todo un arsenal. ¿O sí puedes?" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_BANDIT03390_000_020", "hash": "47B3767EC316E84E", "target": "¡<if(gnum4,Ella,Él)> va a por el alijo! ¡A por <if(gnum4,ella,él)>!" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_BALLOON03390_000_030", "hash": "0C6367B77233052A", "target": "¡Me las pagarás!" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_SYSTEM_000_011", "hash": "98BE8616ADD57E37", "target": "Este parece ser el arsenal de armas que busca Lethenmaer." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_040", "hash": "749FB01F98A8227D", "target": "Y bien, ¿qué me has traído?" },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_041", "hash": "EC0788EAA55FF289", "target": "Así que fue eso lo que pasó..." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_042", "hash": "E6162A374EBA5267", "target": "Las marcas de la empuñadura indican la unidad a la que pertenecía. En este caso, su legítimo dueño formaba parte de una patrulla a la que atacaron unos devorapecados hace un tiempo. Aunque pudimos recuperar los cuerpos, ya se habían llevado sus armas." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_043", "hash": "6D348B213676B53F", "target": "Un equipo así alcanzaría un buen precio, pero que los saqueadores se lo quedaran para sí me preocupa. Fuera lo que fuese lo que planeaban, parece que has logrado ponerle fin." },
+    { "gameKey": "quest/033/LucKzc007_03390#TEXT_LUCKZC007_03390_LETHENMAER_000_044", "hash": "DDC1C56222EBB51D", "target": "Por los dioses, como si no tuviéramos ya bastante entre manos. En fin, gracias a ti, los demás se lo pensarán dos veces antes de volver a robarnos nada." }
+  ]
+}

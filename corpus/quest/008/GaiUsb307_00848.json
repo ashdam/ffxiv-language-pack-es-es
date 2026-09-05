@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/008/GaiUsb307_00848",
+  "questName": "Battle Scars",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_00", "hash": "49FA46691CA7E668", "target": "Drest parece tener mayor control de sus facultades." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_01", "hash": "8A8A86DC508F5137", "target": "Para expresar su gratitud a Shamani Lohmani, Drest te ha pedido que le lleves tres cocos llenos de vino de palma, una bebida dulce de savia de árbol fermentada al natural. Recoge los tres cocos que Drest ha dejado en las Cascadas de la Mantis Roja." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_02", "hash": "B0E5564FE4783C5B", "target": "No te cuesta localizar el vino de palma de Drest. Entrega los regalos a Shamani Lohmani en Puerto Vino." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SEQ_03", "hash": "CC4597618B8E9E5B", "target": "El enólogo ciego identifica al instante el vino de palma con su impecable olfato. Agradecido, reflexiona sobre lo mucho que se parece a aquel hombre atribulado. Después te da las gracias por cuidar de Drest, con quien decide pasar más tiempo." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_00", "hash": "023115E07AE92E8C", "target": "Recoger el vino de palma" },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_TODO_01", "hash": "77EE40501699E5C2", "target": "Entregar el vino de palma a Shamani Lohmani" },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SYSTEM_100_000", "hash": "923C7233A1E5E5BE", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_DREST_000_000", "hash": "AF516BC23B8F3DEA", "target": "Yo... quiero darle las gracias a Shamani por el vino. Fue... fue demasiado amable... ¿Estarías dispuesto a llevarle un regalo de vuelta?" },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_DREST_000_001", "hash": "283B9FE14627937A", "target": "<if([gnum11<12],<if([gnum11<4],Hoy más temprano,Anoche)>,<if([gnum11<17],Hoy más temprano,Hoy más temprano)>)>, en las Cascadas de la Mantis Roja, recogí la savia de las palmeras cercanas. Si... si se echa en cáscaras de coco y se deja reposar unas campanadas, sale... sale un buen vino, ¿ves?... Ya debería estar listo." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_DREST_000_002", "hash": "9FC4E5C0140E87CC", "target": "Dejé tres cáscaras allí. Por favor, llévaselas a Shamani de mi parte. Me... me alegra que haya seguido adelante con su vida. Espero hacer yo lo mismo algún día..." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_020", "hash": "967CDA1BE906A1B5", "target": "Cuánto tiempo, <split(<string(gstr1)>, ,1)>. ¿Qué noticias trae de Drest?" },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_030", "hash": "F5683B976AC97737", "target": "\\<olfatea> \\<olfatea> Ah, sí, recuerdo que sabía algo de vinicultura. Un método sencillo pero, aun así, eficaz, que aprovecha las propiedades naturales de la savia de palma. Tendré que disfrutar de esta remesa antes de que se estropee." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_031", "hash": "70D9B07A15D09DA5", "target": "No somos tan distintos, Drest y yo. Dos hombres que llevan mucho luchando por no dejar que sus cicatrices los definan..." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_032", "hash": "8731ABFA7C37BE8C", "target": "Me preocupa que lleve demasiado tiempo a solas con sus pensamientos." },
+    { "gameKey": "quest/008/GaiUsb307_00848#TEXT_GAIUSB307_00848_SHAMANILOHMANI_000_033", "hash": "90DE1A07450B606B", "target": "Sí, ya iba siendo hora de que le hiciera una visita. Gracias por cuidar de él, <split(<string(gstr1)>, ,1)>." }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "conversation": "shop/LotteryExchangeShopEureka1Crystal",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_TITLE", "hash": "5E2C67DA5AAD273D", "target": "Canje de cristales" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_UI_NOITEM", "hash": "3FDA3811C2335696", "target": "No hay nada que mostrar." },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_TITLE", "hash": "C65F2E1B85A55272", "target": "Resultados" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_RESULT_UI_NEXT", "hash": "B015ACB1C07D3809", "target": "Siguiente" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_SINGLE", "hash": "ED6E54DAD69DA428", "target": "¿Canjear <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopEureka1Crystal#TEXT_LOTTERYEXCHANGESHOPEUREKA1CRYSTAL_CONFIRM_MULTI", "hash": "3EE262CC95B09D98", "target": "¿Canjear <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" }
+  ]
+}

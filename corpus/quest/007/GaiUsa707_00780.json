@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/007/GaiUsa707_00780",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_SEQ_00", "hash": "EAA2B9BA630BF812", "target": "Amelot necesita algo, y lo necesita ya." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_SEQ_01", "hash": "40665C40556B785F", "target": "Amelot necesita preparar un antídoto ─y rápido─ pero le falta un ingrediente vital. Usa el frasco de ácido leofórmico que te ha confiado para abatir un rockskin peiste y obtener su veneno." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_SEQ_02", "hash": "E5F297CD096AC562", "target": "Has obtenido una secreción de veneno de peiste. Entrégasela a Amelot con la debida premura." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_SEQ_03", "hash": "207D3716CE4178AF", "target": "Según cuenta Amelot, los venenos que emplea la Brigada de los Cadáveres se han vuelto cada vez más potentes últimamente, y ha escaseado el antídoto. Tus esfuerzos han permitido que la Resistencia siga librando su noble lucha." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_TODO_00", "hash": "B311728E381ACA7E", "target": "Usar el ácido leofórmico y abatir un rockskin peiste" },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_TODO_01", "hash": "7D212B4E71A6F8AD", "target": "Entregar el veneno de peiste a Amelot" },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_000", "hash": "D299611AE6CAA6D3", "target": "<if(gnum4,Aventurera,Aventurero)>. Me temo que no tengo tiempo para cortesías, pero le quedaría muy agradecida si pudiera hacerme una sencilla tarea." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_001", "hash": "A96D3F7ABB369212", "target": "En concreto, necesito que abata a un rockskin peiste y me consiga una secreción de su veneno." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_002", "hash": "36AE6127C88C5525", "target": "Si ha visto a uno de esos temibles reptiles, y me imagino que sí, sabrá que sus escamas son tan duras como la piedra maciza." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_003", "hash": "5A6FDBBB39E6EA04", "target": "Este ácido que le doy, en cambio, las atraviesa sin problema... No tengo mucho, así que úselo bien, se lo ruego." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_004", "hash": "5ED72C3E1C55F396", "target": "Algunos de mis paisanos no confían fácilmente en los forasteros, pero no tengo tiempo para prejuicios estúpidos: esto es cuestión de vida o muerte." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_020", "hash": "B0292B37A4D3AC8F", "target": "Ha vuelto, <if(gnum4,aventurera,aventurero)>. ¿Me ha traído el veneno que busco?" },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_025", "hash": "2AF3BF6C03B27D96", "target": "En nombre de mis paisanos, tiene mi agradecimiento." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_026", "hash": "5B1EBCB196B5929F", "target": "Perdone mi brusquedad de antes. Nuestras escaramuzas con la Brigada de los Cadáveres nos están pasando una gran factura últimamente. Emplean venenos cada vez más letales, y nuestras reservas de antídoto escaseaban." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_AMELOT_000_027", "hash": "16B70C00B884B384", "target": "Debo ocuparme de preparar mis pociones, pero gracias, <if(gnum4,forastera,forastero)>. Gracias a usted, los hombres y mujeres de la Resistencia vivirán para luchar otro día." },
+    { "gameKey": "quest/007/GaiUsa707_00780#TEXT_GAIUSA707_00780_POP_MESSAGE_000", "hash": "A1B6BE0CA7E7F43E", "target": "¡Con un siseo salvaje, la bestia escamosa se abalanza sobre ti!" }
+  ]
+}

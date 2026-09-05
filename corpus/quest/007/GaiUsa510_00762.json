@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/007/GaiUsa510_00762",
+  "questName": "Foot in the Door",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_00", "hash": "83EC2FA37D2A3799", "target": "Gisilbehrt quiere darte algún consejo sobre tu investigación." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_01", "hash": "0FA3E45DEDDA9258", "target": "Para ganarte la confianza de los refugiados alamhiganos, Gisilbehrt te sugiere que busques a un compatriota suyo dispuesto a responder por ti. Regresa a la Bahía de las Vísperas, en el Thanalan occidental, y habla con Minfilia en el Refugio de las Arenas." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_SEQ_02", "hash": "0AFADD8C0965EF19", "target": "Minfilia te informa de que entre los Herederos hay un alamhigano de nacimiento. Con suerte, esto supondrá un avance decisivo en tu investigación." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_TODO_00", "hash": "86410FFB2B579AD9", "target": "Hablar con Minfilia" },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_000", "hash": "8D62AE6974BE5A6D", "target": "¿Así que estás <if(gnum4,decidida,decidido)> a seguir adelante con tu investigación? Entonces, tengo un consejo que darte." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_001", "hash": "953B5BC37C3D35EB", "target": "Como te dije antes, no llegarás lejos sin la confianza de los Alamhiganos. Y la mejor manera de ganártela es conseguir que un compatriota suyo─alguien a quien respeten─responda por ti." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_002", "hash": "5C98F533E4C44852", "target": "En Ul'dah manda el dinero, pero a los Alamhiganos los une algo mucho más fuerte, aunque no tan tangible: un propósito común. Ese propósito es, cómo no, liberar su hogar de los garleanos." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_GISILBEHRT_000_003", "hash": "ED49908688C66F3C", "target": "Gundobald pertenece a la Resistencia alamhigana, así que tu mejor opción sería alguien de la misma gente. Si conoces a alguien con buenos contactos, quizá te convenga empezar por preguntarle." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_010", "hash": "E1081D29C8A188FF", "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>! ¿Cómo va la investigación?" },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_011", "hash": "6D47585224320905", "target": "...Ya veo. Con todo lo que han sufrido, no es de extrañar que los refugiados alamhiganos hayan perdido la fe en sus semejantes." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_012", "hash": "0FB824DE463FA7D5", "target": "Les arrebataron su tierra natal y, durante las dos últimas décadas, han tenido que verla seguir en las garras del enemigo." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_013", "hash": "B2CE18077F9148DB", "target": "Para colmo, ninguna de las tres ciudades-estado tiene medios para acoger a todos los desplazados. Como resultado, muchísimos Alamhiganos viven ahora al margen de la sociedad, padeciendo pobreza y discriminación." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_014", "hash": "6751B4FBFD0A8594", "target": "\\<suspiro> Ojalá pudiera hacerse más por aliviar sus penurias. Me temo que nada que no sea recuperar su tierra natal sería una solución duradera." },
+    { "gameKey": "quest/007/GaiUsa510_00762#TEXT_GAIUSA510_00762_MINFILIA_000_015", "hash": "CF2FD7C950570D17", "target": "Pero abordemos los problemas de uno en uno. Volviendo al asunto de tu investigación, da la casualidad de que entre los Herederos hay un alamhigano de nacimiento. Con mucho gusto te lo presentaré." }
+  ]
+}

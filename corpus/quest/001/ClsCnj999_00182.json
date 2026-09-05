@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/001/ClsCnj999_00182",
+  "questName": "So You Want to Be a Conjurer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_1", "hash": "C0EFE38F832EB4CC", "target": "<if(gnum4,Bien hallada,Bien hallado)>, <if(gnum4,aventurera,aventurero)>. Ha llegado al Santuario del Claro Sereno, hogar del Gremio de Conjuradores." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_2", "hash": "91F2299ED79B2B4E", "target": "Los conjuradores dominamos los poderes de la tierra, el viento y el agua que abundan en la naturaleza, y con ellos tejemos hechizos de curación y protección." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_3", "hash": "BAD3A8B587A8822A", "target": "Siempre buscamos almas nobles a las que iniciar en nuestros misterios. ¿Sería usted una de esas almas, que viene a unirse al gremio?" },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_Q1_000_1", "hash": "EAD5420E8E2B5F32", "target": "¿Deseas unirte al Gremio de Conjuradores?" },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_A1_000_1", "hash": "F6D516C46495C64B", "target": "Sí" },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_A1_000_2", "hash": "2856C8545E5CD21D", "target": "No" },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_4", "hash": "2E5E471CA0ACF333", "target": "Mis disculpas. Sin duda desea seguir dedicándose por entero a su ocupación actual." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_5", "hash": "CEB2D766D763359E", "target": "Con todo, si alguna vez anhela fundirse con toda la creación, le invito a volver aquí. Nunca es tarde para aprender sobre las fuerzas que nos rodean." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_6", "hash": "C470092FD97DB285", "target": "Aunque no puede negarse su fervor, aún le falta experiencia como aventurero." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_7", "hash": "03ACD148B23D0FBD", "target": "Le recomiendo que primero ahonde en la disciplina que ha elegido. No tema─aun habiéndolo hecho, todavía tendrá tiempo de aprender sobre las fuerzas que nos rodean." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_SYSTEM_000_8", "hash": "FC1D253717040067", "target": "Antes de adoptar otra disciplina, debes completar la misión de nivel 10 de tu clase inicial." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_9", "hash": "9F786F07B53B342B", "target": "Entonces permítame ofrecerle una visión general de lo que es ser <if(gnum4,conjuradora,conjurador)>." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_10", "hash": "915066A81D205665", "target": "El elementalismo es el arte de la curación y la purificación. Quienes lo practican dominan el poder de la naturaleza para provocar cambios en forma de hechizos." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_11", "hash": "419F12A23B654181", "target": "La magia primitiva, como la que en otro tiempo obraban los individuos conocidos como magos─es decir, aquellos con la capacidad de manipular el éter─, existe desde el alba de los tiempos." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_12", "hash": "049383399363BEF6", "target": "No fue hasta hace unos cinco siglos cuando el elementalismo surgió de esa amorfa aglomeración de hechizos y sortilegios─un hecho que condujo a la fundación de Gridania." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_13", "hash": "0EA097119A41DC5E", "target": "En aquellos días oscuros, los elementales no toleraban la presencia del hombre en la Selva de los Doce, lo que obligó a nuestros antepasados a construir sus hogares bajo tierra, en la gran ciudad subterránea de Gelmorra." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_14", "hash": "A3A4E671C60BBE97", "target": "Pero su deseo de asentarse en la Selva de los Doce seguía ardiendo con fuerza; una y otra vez trataron de ganarse el favor de los elementales." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_15", "hash": "D0C8A20A5524A7ED", "target": "A diferencia de los hombres y otras criaturas confinadas en templos de carne, los elementales son seres de éter puro. Al comprenderlo, los magos de antaño razonaron que su talento para la manipulación etérea podría permitirles comulgar con aquellas entidades hasta entonces enigmáticas." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_16", "hash": "F4FB7C94D3EC55B5", "target": "Costó cinco largas décadas, pero nuestros antepasados finalmente lo lograron. Su recompensa: el permiso de los elementales para morar en la Selva de los Doce. Así fue como nació la nación de Gridania." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_17", "hash": "D47E209B79A36744", "target": "Desde entonces, los elementales nos han enseñado a vivir en unidad con la naturaleza, hablando a todos los gridanianos a través de los Oyentes─aquellos magos capaces de comulgar con ellos." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_18", "hash": "753B84347B438986", "target": "Y por su intimidad con los elementales, los Oyentes llegarían a alcanzar un mayor dominio sobre las fuerzas de la naturaleza. Así concibieron el arte del elementalismo." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_19", "hash": "00818A8488AA505C", "target": "...Y esa, mi <if(gnum4,atentísima,atentísimo)> oyente, es una breve historia del elementalismo." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_20", "hash": "D7288968A92938E0", "target": "Si tiene en mente recorrer nuestra senda, le recomiendo de todo corazón que se una a nuestro gremio." },
+    { "gameKey": "quest/001/ClsCnj999_00182#TEXT_CLSCNJ999_00182_MADELLE_000_21", "hash": "77E376CAD3AA3D05", "target": "Será un placer explicarle el proceso de iniciación. Hable conmigo de nuevo cuando esté <if(gnum4,lista,listo)>." }
+  ]
+}

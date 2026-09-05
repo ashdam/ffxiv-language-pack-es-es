@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/034/LucKzf203_03484",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_SEQ_00", "hash": "B15E403C967235C3", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Taina te evalúa con algo en mente." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TODO_00", "hash": "29186F97898681C7", "target": "Hablar con la cazadora de mirada aguda" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TODO_01", "hash": "97778C5E6D1FC427", "target": "Derrotar a las Viis guerreras y obtener los emblemas de Fanow" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TODO_02", "hash": "8D65FA8D8CBB4A0E", "target": "Hablar con Taina" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_000", "hash": "91E31DD6BA369C64", "target": "De nuevo me honras con tu presencia, y en un momento de lo más oportuno. Como el zumbido de mil insectos, la aldea no para de hablar de tus hazañas." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_001", "hash": "BB1352CB68103A0D", "target": "Varias de mis hermanas quieren comprobar tu fuerza por sí mismas con una prueba de fuerza. ¿Aceptas su desafío?" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_002", "hash": "03321A4DCB40F63C", "target": "Muy bien. Te esperan en Bowrest." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_003", "hash": "FE0A69D540A0DFF3", "target": "Te deseo suerte en el desafío." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_KEENEYEVIIS03484_000_010", "hash": "A21BDAEA7B5F0442", "target": "¡Al fin has venido! Bienvenid<if(gnum4,a,o)>, <if(gnum4,aliada,aliado)> de Ronka." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_KEENEYEVIIS03484_000_011", "hash": "51AF3CF973BA771E", "target": "Hemos escondido tres emblemas en los árboles cerca de Fanow para que los encuentres." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_KEENEYEVIIS03484_000_012", "hash": "5C0CED58A68F0273", "target": "Pero ten cuidado, pues los custodian nuestras guerreras más fieras." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_KEENEYEVIIS03484_000_013", "hash": "CC2CF7CE111FC7D4", "target": "Si logras derrotarlas y hacerte con los emblemas, podrás reclamar tu premio a Taina. Suerte, <if(gnum4,aliada,aliado)> de Ronka. Que las bendiciones del bosque te acompañen." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_KEENEYEVIIS03484_000_014", "hash": "49A49AF7D1DA6C37", "target": "Ten cuidado. Nuestras cazadoras no se contendrán." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_000", "hash": "2A6298DBBD4A1566", "target": "¡En guardia!" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_010", "hash": "A2DE53A2CAAD15CD", "target": "Eres fuerte de verdad." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_020", "hash": "F1E836932A288ACF", "target": "¡Toma esto!" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_030", "hash": "6CD2801CADAE46DF", "target": "Qué fuerza..." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_040", "hash": "E36747B034280515", "target": "¡Te tengo!" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_050", "hash": "187CC7CB60AEDCDF", "target": "Bien luchado..." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_060", "hash": "E886C1105E1AE15B", "target": "¡Aún no has ganado!" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_BALLOON_000_070", "hash": "E301BC44BE0EBB4C", "target": "Una derrota gloriosa." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_020", "hash": "FC9E54CF4254085D", "target": "Nuestras cazadoras han vuelto llenas de moratones, pero parecían muy satisfechas de sí mismas. ¿No pudiste vencerlas?" },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_021", "hash": "69A3B3D4F46326B2", "target": "¡Ah, claro! Sin duda hallan gozo en ser derrotadas a manos de alguien tan estimad<if(gnum4,a,o)>." },
+    { "gameKey": "quest/034/LucKzf203_03484#TEXT_LUCKZF203_03484_TAINA_000_022", "hash": "170B5D8F82ED5367", "target": "Les has otorgado un gran regalo. Uno que atesorarán, con toda probabilidad, hasta el fin de sus días. Como prometí, aquí tienes tu recompensa." }
+  ]
+}

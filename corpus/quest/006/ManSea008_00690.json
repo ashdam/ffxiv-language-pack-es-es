@@ -1,0 +1,152 @@
+{
+  "conversation": "quest/006/ManSea008_00690",
+  "questName": "High Society",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_1",
+      "hash": "7B9C39121E0F629A",
+      "target": "No estoy seguro de que comprendas lo insólito que es que la Almirante invite a un aventurero a un banquete de Estado."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_2",
+      "hash": "C0EBD11FB833CAC6",
+      "target": "Es un honor muy codiciado. ¡Vaya, si hasta a los oficiales bajo su mando directo rara vez se les concede tal reconocimiento!"
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_3",
+      "hash": "007D13B04980BEA0",
+      "target": "Pero no negaré que te lo has ganado. Muchas de las tareas que has llevado a cabo al servicio de la talasocracia han sido tan difíciles como peligrosas."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_4",
+      "hash": "CE38A9AB9476D0CB",
+      "target": "Esto es una recompensa por todo tu esfuerzo─un guiño a tus muchos logros, grandes y pequeños."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_5",
+      "hash": "665F66F86F8D373D",
+      "target": "¿Aún no has asimilado la magnitud de este momento? ¡Quizá repares en su importancia cuando te encuentres ante los dignatarios reunidos de Limsa Lominsa! ...Y ahora que imagino la escena, caigo en que necesitarás una vestimenta apropiada para la ocasión."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_REYNER_000_6",
+      "hash": "C8B12ADA6BAF8B4D",
+      "target": "Te sugiero que te pases por Drowning Wench y veas qué puede arreglar Baderon. Sabe sorprendentemente mucho de estas cosas."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_10",
+      "hash": "6EA989566DF2A3DD",
+      "target": "Vaya, vaya... ¡pero si es <if(gnum4,la invitada de honor,el invitado de honor)> de Merlwyb! Ahora te codeas con los peces gordos, ¿eh?"
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_11",
+      "hash": "53C4A66B43643813",
+      "target": "Te lo digo, <if(gnum4,muchacha,muchacho)>, casi echo la cerveza por la nariz cuando me enteré. Has llegado la mar de lejos, sí señor, y esa es la verdad."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_12",
+      "hash": "6836CA0BD8B57B61",
+      "target": "Bueno, una cosa es segura─no te faltará buena comida. Estos banquetes los sirve el mismísimo Bismarck, nada menos."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_13",
+      "hash": "BCD0BCF8937FC64A",
+      "target": "Es una ocasión de perlas para llenarte la panza hasta reventar de comida fina y─lo más importante─gratis."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_14",
+      "hash": "8293AE67E0C85F98",
+      "target": "Pero no podemos consentir que te presentes con ese pringoso equipo de aventura."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_15",
+      "hash": "84EA7155133A2DDB",
+      "target": "No, <if(gnum4,la heroína,el héroe)> del momento necesita cierta clase─aunque solo sea para que no se quejen cuando se atiborre de pastel. Ve al Octant y habla con J'nasshym, del Consorcio Brugaire. Te dará ropa <if(gnum4,de dama,de caballero)>."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_16",
+      "hash": "A942595765A0DF1F",
+      "target": "Ya he hablado con ella, así que solo tienes que recoger el género y traérmelo aquí para que te ponga al día."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_JNASSHYM_000_20",
+      "hash": "E21B82EAED846B8C",
+      "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señorita,señor)>. Supongo que es <if(gnum4,la “dama” mal vestida,el “caballero” mal vestido)> de quien me habló Baderon, ¿verrrdad?"
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_JNASSHYM_000_21",
+      "hash": "AE9603C2159A22B7",
+      "target": "\\<olfatea> Ya veo que no exageraba..."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_JNASSHYM_000_22",
+      "hash": "95602CCE726EF6B0",
+      "target": "Ejem. Los he elegido especialmente para su debut en la buena sociedad. No tema, estoy segurrra de que le <italic(1)>encantarán<italic(0)>."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_30",
+      "hash": "42723224A7F76F94",
+      "target": "¿Has ido a ver a J'nasshym? Venga, trae esa caja."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_31",
+      "hash": "F8D07763BF7361CB",
+      "target": "Aquí lo tenemos... un buen par de zapatos de vestir para ti."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_32",
+      "hash": "7BA5F54C68F9C7EC",
+      "target": "<if(gnum4,Una moza,Un mozo)> quizá no tenga mucho más a su nombre, pero, mientras calce un par de zapatos decentes, no hay lugar al que no pueda ir."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_33",
+      "hash": "3FA7BAA21D87757D",
+      "target": "Considéralos un regalo de mi parte y de toda la demás gente a la que has ayudado por el camino."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_BADERON_000_34",
+      "hash": "1745DE80C82EEDA7",
+      "target": "Sí, sí... es un gesto muy conmovedor, lo sé. Pero no te me pongas a lloriquear, ¿eh? No quedaría bien que <if(gnum4,la nueva heroína,el nuevo héroe)> de Limsa se presentara en el banquete <if(gnum4,empapada,empapado)> en sus propias lágrimas y mocos. En fin, ya tienes la ropa resuelta. Ahora solo te falta calmar los nervios. Dime cuando estés <if(gnum4,lista,listo)> y te diré adónde tienes que ir."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_00",
+      "hash": "7ED0647984A1D1B3",
+      "target": "El comodoro Reyner desea hablar contigo sobre el inminente banquete."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_01",
+      "hash": "DA4B405054DC091C",
+      "target": "El comodoro te ha sugerido que pidas consejo a Baderon sobre dónde conseguir una vestimenta apropiada para el banquete. Dirígete a Drowning Wench y escucha qué tiene que decir su bien relacionado dueño."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_02",
+      "hash": "5D27BE52E82BE65B",
+      "target": "Parece que tu atuendo carece del refinamiento que se espera del invitado de honor de un banquete de Estado. Baderon te dice que visites a J'nasshym en el Octante y recojas un complemento <if(gnum4,«femenino»,«masculino»)> para tu vestuario."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_03",
+      "hash": "5D44EFEA53350BED",
+      "target": "J'nasshym te ha confiado una caja forrada de raxa que contiene tu atuendo <if(gnum4,«femenino»,«masculino»)>. Vuelve a Drowning Wench y muéstrale el paquete a Baderon."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_SEQ_04",
+      "hash": "93A9F32312283993",
+      "target": "Tras entregarle la caja a Baderon, descubres que contiene un par de caros dress shoes. El dueño de la Moza te explica que el calzado es un regalo suyo y de toda la gente a la que has ayudado en tus viajes. Vuelve a hablar con Baderon cuando estés <if(gnum4,lista,listo)> para asistir al banquete."
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_TODO_00",
+      "hash": "08609AFBFB3B3087",
+      "target": "Hablar con Baderon, en Drowning Wench"
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_TODO_01",
+      "hash": "9CDA7476CB2CFC75",
+      "target": "Recoger un paquete de J'nasshym, en el Octant"
+    },
+    {
+      "gameKey": "quest/006/ManSea008_00690#TEXT_MANSEA008_00690_TODO_02",
+      "hash": "984F36913847924F",
+      "target": "Mostrar la caja forrada de raxa a Baderon"
+    }
+  ]
+}

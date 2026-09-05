@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/001/SubFst030_00173",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_00", "hash": "14D6E5FABBF04A12", "target": "Vionne busca a un aventurero que entregue un objeto." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_01", "hash": "79317A2AA0A153EF", "target": "Vionne, moza de cuadra en los Establos del Habla de los Árboles, te pide ayuda con una sencilla entrega. Sin embargo, no tiene a mano el objeto en cuestión, y te pide que hables con Gillian, a quien encontrarás en la parte trasera de los establos." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_02", "hash": "1CDE8AD12D05FB17", "target": "Gratamente sorprendido por tu disposición a ayudar, Gillian te indica un montón de sacos de arpillera sobre una caja. Coge uno de los sacos." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_03", "hash": "DC092BAC70F6DB1C", "target": "El misterioso saco emite un olor extraño pero familiar... Entrégaselo a Nolanel en el Brote Bendito." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_04", "hash": "66A7C51B299F9BBF", "target": "Mientras te da efusivamente las gracias, Nolanel confirma sin querer tus sospechas sobre el contenido del saco. Vuelve a los Establos del Habla de los Árboles y habla con Vionne." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_SEQ_05", "hash": "4A7E0AA171FCF3A4", "target": "Vionne se disculpa al darse cuenta de que desconocías el contenido del saco. Admite que, si bien el estiércol de chocobo es apreciado como potente fertilizante, a pocos les hace tanta gracia su igualmente potente hedor." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_00", "hash": "5DB67BE70F7E4129", "target": "Hablar con Gillian" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_01", "hash": "1082503E68918038", "target": "Recoger el saco de arpillera" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_02", "hash": "9928533BE80AB9A4", "target": "Entregar el saco de arpillera a Nolanel" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_TODO_03", "hash": "F923918F6DDC3CDF", "target": "Informar a Vionne" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_1", "hash": "B89879E6700BCEEB", "target": "Si buscas trabajo, necesito <if(gnum4,a una aventurera dispuesta,a un aventurero dispuesto)> a mancharse las manos." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_2", "hash": "FAAF98582E6956C7", "target": "¿Eh? No, no, no hablo de fechorías. Solo quiero que entregues algo. Yo no me atrevería a adentrarme en la Selva de los Doce, pero tú pareces más que capaz de defenderte." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_3", "hash": "769C9A8DD1AA8408", "target": "Mi compañera Gillian te dará el objeto en cuestión y todas las indicaciones necesarias. Debería andar por detrás de los establos, supervisando a los peones." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_10", "hash": "20A941F230712A7E", "target": "¡Vaya por dios! ¡Al final Vionne ha encontrado a alguien dispuesto a echar una mano!" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_11", "hash": "F07CAB02CF7532B8", "target": "Coge uno de esos sacos de arpillera de ahí... encima de la caja, sí. No es el sitio más cómodo, desde luego, pero ¿dónde si no vamos a guardar esa porquería apestosa? ¡En ningún sitio donde algún cliente de visita pueda olerla, eso seguro!" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_GILLIAN_000_12", "hash": "741E47AD306AF0FE", "target": "Llévaselo a Nolanel, allá en el Brote Bendito. Al oeste de aquí, por si te lo preguntabas. Por lo visto, nuestro amigo conjurador se toma la jardinería muy en serio..." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_20", "hash": "C8AE7E324082BD9A", "target": "Ese olor... \\<olfatea> ¿Es lo que creo que es?" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_21", "hash": "17F2CCCE6AE95796", "target": "¡Alabados sean los elementales! No sé cómo agradecerle su amabilidad." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_22", "hash": "9B8BE4F02BCEA78C", "target": "Este tesoro de estiércol de chocobo nutrirá las plantas y asegurará su continuo crecimiento." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_NOLANEL_000_23", "hash": "1074DFB83ED59692", "target": "Le ruego que transmita mi más sincero agradecimiento a Vionne cuando regrese a los Establos del Habla de los Árboles. Y un consejo: lávese las manos cuanto antes, no vaya a quedársele pegado el empalagoso hedor a excremento." },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_30", "hash": "B68E85E52E8F450E", "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,amiga,amigo)>. Mmm... Por el olor, deduzco que la tarea está hecha, ¿no?" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_31", "hash": "662523317FB5BDD0", "target": "¡Ay, madre! ¿Se me olvidó decirte lo que había en el saco? ¡No sabes cuánto lo siento!" },
+    { "gameKey": "quest/001/SubFst030_00173#TEXT_SUBFST030_00173_VIONNE_000_32", "hash": "FB0F6B61D4362F00", "target": "Eso explicaría por qué aceptaste ayudar cuando otros muchos arrugaron la nariz ante la idea, nunca mejor dicho...<br>En fin, lo hecho, hecho está. Acepta esto por las molestias, junto con mi agradecimiento." }
+  ]
+}

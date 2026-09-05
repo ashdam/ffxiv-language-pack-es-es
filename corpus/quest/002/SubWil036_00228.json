@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/002/SubWil036_00228",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_00", "hash": "875ED5142B62ACBB", "target": "Danyell, del Bazar de Plata, necesita unos materiales muy concretos para arreglar la brújula rota de su padre." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_01", "hash": "3558032D540B85C2", "target": "Danyell cree que su padre pescador lleva un tiempo varado en tierra porque su brújula está rota. Aventúrate fuera del Bazar de Plata y a ver si encuentras tres trozos de magnetita para arreglar el instrumento averiado." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_02", "hash": "CDC1725BFCA31D75", "target": "Has recogido tres trozos de magnetita. Entrégaselos a Galfridus en el Bazar de Plata." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_SEQ_03", "hash": "E00E73092BFC392B", "target": "La magnetita que proporcionaste sirve para reparar la brújula dañada. Trágicamente, sin embargo, no parece que vaya a ser de mucha utilidad una vez arreglada." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_TODO_00", "hash": "2424D8FCF5DB32C4", "target": "Encontrar trozos de magnetita" },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_TODO_01", "hash": "F26965E586F76CEE", "target": "Entregar la magnetita a Galfridus en el Bazar de Plata" },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_DANYELL_001", "hash": "8444FA48D58185FE", "target": "¡Por favor, tienes que ayudarme! ¡Es mi padre!" },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_DANYELL_002", "hash": "E119DB4B11DAB9A6", "target": "Bueno, no es que se esté muriendo ni nada... Es pescador, ¿sabes?, pero se le rompió su única brújula. Lleva semanas sin poder salir a la mar." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_DANYELL_003", "hash": "E3C0226300ACC93F", "target": "La brújula es muy especial. La forjaron los orfebres de las Joyerías de Eshtaime. Para repararla harán falta muchos fragmentos de magnetita." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_DANYELL_004", "hash": "2BE8FE449075368D", "target": "Esas piedras se encuentran cerca del faro, pero la búsqueda no está exenta de peligros. La zona está plagada de espíritus de tierra atraídos por el magnetismo. Yo solo soy el humilde hijo de un pescador. No tengo brazo para pelear, ni estómago." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_DANYELL_005", "hash": "C3FEE01222CC4FDD", "target": "Con tres fragmentos de magnetita bastaría para arreglar la brújula. Cuando los encuentres, llévaselos a mi padre, Galfridus. Seguro que anda holgazaneando por el Bazar, como siempre." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_001", "hash": "B1D1348AF0D068A6", "target": "No pierda el tiempo, <if(gnum4,muchacha,amigo)>. La maldita brújula se me ha roto. Sí, hoy no saldré a pescar, ni mañana, con toda probabilidad." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_002", "hash": "43E8051589FEB86B", "target": "¿Magnetita? Se lo pidió Danyell, ¿verdad? Así que papá tiene que arreglar la vieja brújula y volver a echarse a la mar, ¿eh? Pescar una buena remesa de peces gordos, ¿hmm?" },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_003", "hash": "ABD2851779AA8352", "target": "Tengo un barco que apenas se mantiene a flote y a duras penas da para mí solo. No tengo tripulación, ni manos que ayuden con la pesca. Todo el santo día en la mar deslomándome me da unos pocos gil, con suerte." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_004", "hash": "B2366AED58840059", "target": "Por los dioses, los tiempos ya no son lo que eran. Hubo una época en que apenas se podían contar los barcos que atracaban aquí. No había una sola bolsa ni un solo estómago vacío en todo el Bazar." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_005", "hash": "7C5DFBB7BE4CA208", "target": "Los barcos pequeños ya no tienen sitio en la mar. Vaya adonde vaya, estoy a la sombra o en la estela de algún arrastrero o cerquero monstruoso. Las viejas costumbres han muerto. Los pescadores humildes hemos perdido el rumbo." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_GALFRIDUS_006", "hash": "6897177228DDDA4F", "target": "Ya no soy pescador, ni gran cosa como padre, supongo. Solo un hombre roto con una brújula rota y unos sueños rotos." },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_POP_MESSAGE", "hash": "55A3B676F1447AFB", "target": "¡Percibes un enemigo cerca!" },
+    { "gameKey": "quest/002/SubWil036_00228#TEXT_SUBWIL036_00228_ACCESS_MESSAGE", "hash": "61C4B8414CD5E2E1", "target": "¡El enemigo aún ronda por aquí!" }
+  ]
+}

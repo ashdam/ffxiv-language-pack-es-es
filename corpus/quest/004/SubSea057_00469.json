@@ -1,0 +1,657 @@
+{
+  "conversation": "quest/004/SubSea057_00469",
+  "questName": "Just Deserts",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_100_1",
+      "hash": "F15D53DF2FA7D1C0",
+      "target": "He llegado a esperar mucho de ti, <if(gnum4,muchacha,muchacho)>, y ni una sola vez me has decepcionado."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_101_1",
+      "hash": "173B5B09D4FE1AA6",
+      "target": "Pero lo que voy a pedirte ahora va más allá de cuanto te he pedido nunca. ¿Escucharás mi ruego de todos modos?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_1",
+      "hash": "11643310C2AD0CA2",
+      "target": "Me tranquiliza contar con tu atención."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_2",
+      "hash": "05C6CDA3AAC0A3FE",
+      "target": "A estas alturas seguro que ya conoces a ese sinvergüenza de Sevrin."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_3",
+      "hash": "F0E7B617CE767032",
+      "target": "Pues bien, el trapacero anda otra vez con sus tejemanejes. Desde que le llegó aquella carta, va merodeando con esos aires que se da cuando trama algo malo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_4",
+      "hash": "C7FE44DCDEFC3D87",
+      "target": "Y ahora ha reunido a su cuadrilla de granujas y se ha largado, sin decirle ni pío a nadie."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_5",
+      "hash": "90BD4AB50390185D",
+      "target": "Me he acostumbrado a su insolencia, pero algo me dice que esta vez es distinto. No es que sea prueba de nada, pero la última vez que crucé palabra con él no parecía tanto desafiante como <italic(1)>acosado<italic(0)>. No puedo evitar pensar que ha ido a buscar problemas y ha encontrado más de los que quería."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_6",
+      "hash": "04B99FE6544DD944",
+      "target": "Así que esperaba que le siguieras el rastro a ese desgraciado y lo arrastraras de vuelta aquí antes de que sea demasiado tarde."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_7",
+      "hash": "18CE1170CCFCD122",
+      "target": "El ingrato me muerde cada vez que puede, pero no me veo capaz de soltar amarras con él. Supongo que me recuerda un poco a mí de joven."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_8",
+      "hash": "3333BC4A2618AF93",
+      "target": "Baste decir que preferiría que no acabara mal. En cuanto a cómo encontrarlo, yo probaría a preguntarle a Grynewyda, junto a la eterita. Fue la última en verlo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_9",
+      "hash": "5055C458A0FBCAAD",
+      "target": "Me atrevería a decir que ella podrá decirte hacia dónde se dirigía."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GRYNEWYDA_000_11",
+      "hash": "9400664B2E84DB35",
+      "target": "¡Nada que cruce esas puertas escapa a mi vista!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GRYNEWYDA_000_12",
+      "hash": "CC1500A35790F5F1",
+      "target": "Vi al alborotador y a su chusma partir hacia el Cañón de los Susurros no hace mucho, cantando sobre beber hasta atontarse aún más. ¡Los muy descarados me dijeron que me <italic(1)>uniera<italic(0)> a ellos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GRYNEWYDA_000_13",
+      "hash": "77BCBD142FA89B26",
+      "target": "Les dije que antes me secaría que probar aquello que les había encurtido los sesos. Si encuentra a esos vagos, deles un buen tirón de orejas de mi parte, ¿quiere?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_AYLMER_000_21",
+      "hash": "8033D00ACB0857E0",
+      "target": "¡De todas las jugarretas sucias, embusteras y a cuál más rastrera que ha hecho ese escurridizo cabrón!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_AYLMER_000_22",
+      "hash": "3BD2F0052A625331",
+      "target": "¡Decir que nos sacaba a los muchachos a echar un trago, y llevarnos derechitos a una maldita trampa! ¡No se puede caer más bajo!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_AYLMER_000_23",
+      "hash": "49735FC0DD40DD49",
+      "target": "Claro que yo he aprendido a ir un paso por delante del viejo Sevrin, así que estaba preparado, pero los demás no tuvieron tanta suerte. ¡Tienes que ayudarlos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_35",
+      "hash": "5B7D2CBF175345F5",
+      "target": "¡Esto no es seguro! ¡Coge a los demás y sal de aquí mientras puedas!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_40",
+      "hash": "D062D065E855861C",
+      "target": "¡Resistirse es inútil!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_EYRIMHUS_000_25",
+      "hash": "DA95266873163EB9",
+      "target": "Mi hacha bien podría haber sido una bandera blanca, para lo que sirvió... Espero que a ti te vaya mejor, o esos pobres desgraciados de ahí dentro están perdidos."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_45",
+      "hash": "FD98857946AACBB2",
+      "target": "No puedo mover... la pierna. Déjame. Salva a los demás."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_50",
+      "hash": "4A70E81885F34B76",
+      "target": "Por fin tendrás la muerte de perro que mereces... <italic(1)>desertor<italic(0)>."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SOZAIRARZAI_000_30",
+      "hash": "C3E36921973AE789",
+      "target": "Puede que Sevrin nos metiera en este lío, pero no voy a dejar que dé su vida por nosotros. ¡Antes me inclinaría ante un pescajo que quedar en deuda con ese cabrón intrigante! ¡A las armas!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_Q1_000_1",
+      "hash": "C42D109F0AEDE237",
+      "target": "La aventura te llama. ¿Deseas proceder con<br>“Su justo merecido”?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_A1_000_1",
+      "hash": "9082627832117094",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_A1_000_2",
+      "hash": "202C7241191C8193",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_60",
+      "hash": "45D5D686797D7868",
+      "target": "¡Un verdadero canalla! Te traicionas hasta a ti mismo, Sevrin."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_61",
+      "hash": "7A81743A6F180A07",
+      "target": "Ugh..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_62",
+      "hash": "1447F89AA3768F3A",
+      "target": "Estábamos dispuestos a pasar por alto tu deserción a condición de que nos proporcionaras sustitutos adecuados. Ese era el trato."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_63",
+      "hash": "B9B78FFC6296C52E",
+      "target": "Pero tu último cambio de idea deja tu deuda con nosotros sin saldar.<br>Pocos son los que traicionan a los Saqueadores de la Serpiente dos veces. No lo harás una tercera."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_64",
+      "hash": "5599DDBDC283C103",
+      "target": "Acobardarte tras tu protector solo retrasará lo inevitable. Miserable sin honor... tu vida es todo lo que te queda."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_IREZUMI_000_65",
+      "hash": "FBB0DE809E40500F",
+      "target": "¡Y por más que no valga nada, la tomaremos!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_66",
+      "hash": "82D3F175B9D276E3",
+      "target": "<colortype(547)>¡Oh, doliente voz de la creación! ¡Concede a esta humilde piedra un alma, para que despierte a la vida!<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_QIB_TODO001",
+      "hash": "7C0A7830BC6EA536",
+      "target": "¡Derrota al gólem de arcilla!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_BATTLETALK_01",
+      "hash": "81CC23CE5F6ED733",
+      "target": "Eres fuerte.<br>Pero ¿lo bastante como para resistir <italic(1)>esto<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_BATTLETALK_02",
+      "hash": "2F00927ABD17463F",
+      "target": "¡Ríndete! ¡Ríndete a las tinieblas!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_BATTLETALK_03",
+      "hash": "8F3DFB9951F32E98",
+      "target": "¡Imposible! ¡Jamás se había puesto al gólem en tal aprieto!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_70",
+      "hash": "C64E04E4C25CFB36",
+      "target": "<colortype(547)>Que el gólem haya podido ser derrotado...<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_MASKEDMAGUS_000_71",
+      "hash": "7EFA54A579525D13",
+      "target": "<colortype(547)><if(gnum4,Esa mujer no es una aventurera cualquiera,Ese hombre no es un aventurero cualquiera)>.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_80",
+      "hash": "FFDA925ED502FCD1",
+      "target": "\\<suspiro> ...La serpiente se ha escurrido."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_81",
+      "hash": "5582AB87F500B09C",
+      "target": "Solo me alegro de que no tuviera ocasión de hundirte los colmillos más hondo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_90",
+      "hash": "76538655A9820BFA",
+      "target": "Esos piratas no pertenecen a ninguna de las facciones lominsanas conocidas... ¿A quién sirven entonces? ¿A las <italic(1)>tribus bestiales<italic(0)>? No puede ser."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_91",
+      "hash": "8D16E0D1541F350C",
+      "target": "Pero el momento de su aparición coincide demasiado bien con el reciente repunte de actividad de los Sahagin y los kobolds... Algo se está cociendo. La pregunta es: ¿el qué?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_92",
+      "hash": "C3304806D0EF68E6",
+      "target": "...¿Será que las tribus planean invocar a sus primigenios?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_93",
+      "hash": "67478792F44EF5C6",
+      "target": "Que los Doce nos amparen si así fuera. A Limsa le costaría lo suyo mantener a raya a un solo primigenio, no digamos ya a dos. Pero todo son aún conjeturas. He de encontrar pruebas."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_94",
+      "hash": "6465C1B52E072CB4",
+      "target": "Los mares siguen subiendo..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_95",
+      "hash": "EA7612110FE03784",
+      "target": "Mientras la luna menor sigue cayendo..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_96",
+      "hash": "E1DE30A2CC5D0D65",
+      "target": "Y, ilm a ilm, el mundo se vuelve cada vez menos parecido a sí mismo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_97",
+      "hash": "E1B4CF2B35A75D69",
+      "target": "Es tal como Louisoix predijo..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_98",
+      "hash": "074F2737F1F3D2A3",
+      "target": "La llegada del caos ha vuelto mudables las leyes de la naturaleza, difuminando la frontera entre el plano material y el etéreo... Poco se interpone ya entre nosotros y los primigenios."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_99",
+      "hash": "48B7505E317FBC05",
+      "target": "...Pero aún no están aquí.<br>“Aunque el tiempo esté en nuestra contra, la esperanza estará siempre de nuestro lado.”"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_100",
+      "hash": "E56971E8035F1B9D",
+      "target": "Nunca sonó más cierto el credo de Sharlayan."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_101",
+      "hash": "5EDCBC10B51ABFA8",
+      "target": "Jamás soñé que tendría los medios para <italic(1)>ver<italic(0)> el éter... y, sin embargo, ahora que los tengo, empiezo a darlo por sentado. Qué pronto llegan a parecer cotidianas las maravillas de Sharlayan..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GIRL_000_102",
+      "hash": "24E159F0256526BB",
+      "target": "Esto..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GIRL_000_103",
+      "hash": "53420072CF5B17F6",
+      "target": "Tenga, es para usted. ¿Ha venido por las fiestas?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_GIRL_000_104",
+      "hash": "9D5E4CFED1629305",
+      "target": "¡Hoy el Maelstrom convierte oficialmente ese gran agujero del mar en su campo de entrenamiento! ¡Únase a las celebraciones!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_105",
+      "hash": "2D1D6BC606675D6D",
+      "target": "Espera. Una perturbación en el flujo etérico. Pero ¿de dónde emana?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_106",
+      "hash": "4C432254E55DA0C5",
+      "target": "...¿De la Gruta Canto Marino, quizá?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_110",
+      "hash": "79738A2C2F5881A0",
+      "target": "¿Qué tenemos aquí...? ¿Puedes andar?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_111",
+      "hash": "030A5FD2238827F5",
+      "target": "Soy yo.<br>Por desgracia, no. Se me escapó.<br>Entendido. Informaré al comodoro."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_112",
+      "hash": "CBE5B144DE3F6CD1",
+      "target": "Te desplomaste por el esfuerzo. ¿Ya te has repuesto?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_113",
+      "hash": "D8E89E2C8D35138D",
+      "target": "Sevrin, aquí presente, me ha puesto al corriente de todo lo sucedido. Su relato ha arrojado algo de luz sobre cómo llegaste a sufrir el ataque de un <italic(1)>gólem<italic(0)>, nada menos."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_114",
+      "hash": "B9B9035E2FFAC176",
+      "target": "Un gólem es un autómata sin mente, inerte salvo cuando se le ordena lo contrario. Unos piratas cualesquiera no podrían aspirar a controlar semejante cosa, de tan arcano que es su funcionamiento."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_115",
+      "hash": "2B3DABF9B867737E",
+      "target": "Pero es que estos miserables tatuados no son piratas cualesquiera: son esbirros de los Sahagin. En cuanto a su propósito... en fin, llegaré al fondo del asunto."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_116",
+      "hash": "5535C6FF5CF7E738",
+      "target": "Pero primero debo escoltar a Sevrin de vuelta a su lugar de trabajo. Me atrevo a decir que Staelwyrn se estará preguntando qué habrá sido de él."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_117",
+      "hash": "EE144D1F0A4D92DA",
+      "target": "Y tú también, ya puestos. Le llevaré noticia de que estás a salvo, pero no me cabe duda de que querrá agradecértelo en persona. Ve a visitarlo, te lo ruego."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_118",
+      "hash": "0BD2F863045C36C8",
+      "target": "Ah... él me habló de ti, pero puede que a ti no te hablara de mí. Me llamo Y'shtola."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_119",
+      "hash": "7A5FF1E0D84D3CF4",
+      "target": "Soy... una especie de naturalista; estudio el éter con la esperanza de que aporte alguna pista sobre nuestra difícil situación."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_120",
+      "hash": "2AD3E17016AEF3CE",
+      "target": "Diría que te debo la vida... pero eso se queda corto. Si no fuera por ti, mis amigos estarían muertos, y todo eso..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_121",
+      "hash": "F25A532FD20AB5F6",
+      "target": "Es una deuda que jamás podré saldar. Pero no empeoraré las cosas huyendo. Llévame a la Granja Summerford y afrontaré las consecuencias."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_122",
+      "hash": "161BD6A70E7CFDF4",
+      "target": "Por razones que no alcanzo a comprender, me pareces...<br>Perdona. Quizá tengamos ocasión de hablar de nuevo cuando haya ordenado mis pensamientos."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_123",
+      "hash": "886A0F69BBC6EA2E",
+      "target": "Hasta que nuestros caminos vuelvan a cruzarse, adiós."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_130",
+      "hash": "17FF286942CC3F90",
+      "target": "¡Vaya! Sabía que volverías."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_131",
+      "hash": "DB81FF2CC0509F40",
+      "target": "Y'shtola trajo a Sevrin hace un rato. ¡Los relatos de tus gestas heroicas te preceden!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_132",
+      "hash": "E80FB971CDB6936B",
+      "target": "El resto también volvió arrastrando los pies, todos con la misma expresión de espanto."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_133",
+      "hash": "7281BBF0513AE329",
+      "target": "El culpable de eso soy yo... de eso y de lo demás."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_134",
+      "hash": "82FAA2CFB424FF15",
+      "target": "En su día fui un Serpent Reaver."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_135",
+      "hash": "CBE6E9EDEA1A799B",
+      "target": "...¿Un esclavo de los Sahagin? Siete infiernos... Los Reavers podrán tener pinta de piratas, hablar como piratas y actuar como piratas, pero no son más que los lacayos de los pescajos."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_136",
+      "hash": "354A801BC81749E7",
+      "target": "Los piratas no somos muy de leyes, pero hay cosas que no hacemos. Tenemos un <italic(1)>código<italic(0)>, ¿sabes?, pero los Reavers nunca han seguido ni una palabra de él. Hace unos años, empezaron a secuestrar a lominsanos honrados."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_137",
+      "hash": "A2246141323B4FE1",
+      "target": "Acababa de prestar juramento cuando nuestro capitán hincó la rodilla ante sus nuevos amos Sahagin. Supe que tenía que largarme."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_138",
+      "hash": "41752E0318AE4167",
+      "target": "Así que una noche me escabullí, me busqué un nombre nuevo y me hice con un nuevo hogar: la Granja Summerford. El problema es que aquí los secretos no duran mucho, y pronto corrió la voz... hasta llegar de vuelta al mar."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_139",
+      "hash": "24557765671EE105",
+      "target": "La pena por deserción es la muerte, pero los Reavers me ofrecieron a cambio una salida: mi libertad a cambio de la de mis colegas."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_140",
+      "hash": "C852E00219892F17",
+      "target": "La carta..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_141",
+      "hash": "BA783574F49C4339",
+      "target": "No sé en qué estaba pensando... \\<resoplido> Es que <italic(1)>no<italic(0)> estaba pensando, maldita sea. Demasiado ocupado en cagarme de miedo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_142",
+      "hash": "C7E226FB8125F1C7",
+      "target": "Sí, pero al final diste con ello, ¿no? Cuando llegó el momento, tomaste la decisión correcta."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_143",
+      "hash": "6A817AA1ECB42DD4",
+      "target": "Los hombres me cuentan poco, pero les oigo hablar de cómo al final plantaste cara a los Reavers, de cómo intentaste dar tu vida por salvar la suya."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_144",
+      "hash": "E01DFCDC6B955318",
+      "target": "Sea como sea, ninguna buena acción, por buena que sea, puede expiar el crimen de traicionar a los tuyos."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_145",
+      "hash": "EF93669FE49971CC",
+      "target": "Lo sé, ya lo creo que lo sé. Por eso voy a entregarme a las Casacas Amarillas. No traeré más deshonra a la granja."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_146",
+      "hash": "B8D47E290BF7FED9",
+      "target": "Hm. De mí no oirás objeción alguna. Cada cual ha de navegar según su propia brújula moral."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_147",
+      "hash": "F65AEDEA1AB918C5",
+      "target": "Solo espero que la tuya te guíe de vuelta aquí algún día. Siempre habrá un sitio para ti en la Granja Summerford, muchacho."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_148",
+      "hash": "7CD7F3AB15E7AF8E",
+      "target": "Y yo siempre estaré en deuda contigo, Staelwyrn."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEVRIN_000_150",
+      "hash": "12813D1B796F9D5F",
+      "target": "Y contigo también, aventurero. He causado más problemas de la cuenta durante mi tiempo aquí... aunque no hace falta que te lo diga."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_151",
+      "hash": "57F9293420B183B4",
+      "target": "Yo también estoy en deuda contigo, <split(<string(gstr1)>, ,1)>. Ni una sola vez me has fallado. Gracias por salvar a los hombres de mi granja."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_152",
+      "hash": "D43E3C3D6486DE7D",
+      "target": "Si pudiera pedirte un último favor, sería este: cuéntale a Baderon lo ocurrido, de principio a fin. Estoy seguro de que intercedería por Sevrin si conociera toda la historia."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_153",
+      "hash": "C227FCAA7CD60FF7",
+      "target": "Y es de las pocas personas que conozco a quienes las Casacas Amarillas harán caso."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_STAELWYRN_000_154",
+      "hash": "CA1B3ECDE5C95E0D",
+      "target": "Bueno, creo que ya te he pedido todo lo que podía pedirte. Buen viaje, <if(gnum4,muchacha,muchacho)>."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_161",
+      "hash": "537E62E2215E3A85",
+      "target": "...¡Malditos infiernos! ¡La vida en la granja no es como yo me la imaginaba!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_162",
+      "hash": "63C9AF54FBA8BDD8",
+      "target": "Ah, pero no te preocupes por el joven Sevrin. La Casaca Amarilla que reparte los castigos es buen amigo mío. Si se lo pido con buenos modos, seguro que estaría dispuesto a rebajarle la condena al chaval de la horca a un buen paseo por la quilla, caballero afable como es.<br>...¡Ah, que es broma! Me aseguraré de que lo traten con justicia."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_163",
+      "hash": "631D65B43FFB37B2",
+      "target": "En fin, por lo que parece has hecho todo lo que el viejo Staelwyrn te pidió y más, justificando de paso mi generosa comisión de buscador. ¡Muy agradecido, <if(gnum4,muchacha,muchacho)>!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_164",
+      "hash": "C320987130058E75",
+      "target": "En cuanto a la recompensa... bueno, es una dama solitaria, esta Drowning Wench mía. ¿Qué te parecería hacerle compañía una temporada... <italic(1)>con alojamiento y comida gratis<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_165",
+      "hash": "C39EEADF3F01AFA3",
+      "target": "A fin de cuentas, la aventura es un oficio duro. Quienes no descansan los huesos de vez en cuando suelen acabar con ellos rotos. Y hazme caso: pelear no es <italic(1)>ni de lejos<italic(0)> tan divertido cuando andas cuidándote un brazo hecho añicos. ¿Entendido? Bien. Siempre habrá una cama libre para ti, así que aprovéchala."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_166",
+      "hash": "D442CAE7FC3B6D1E",
+      "target": "No es que vayas a tener mucho tiempo para holgazanear, con todas las leves que vas a hacer. Ah, ¿no lo he mencionado? Te estoy apuntando para las leves."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_167",
+      "hash": "B10539023D279715",
+      "target": "Nuestro gremio atrae a toda clase de clientes que ofrecen toda clase de encargos variopintos. En serio, te <italic(1)>asombraría<italic(0)> cuánto paga la gente por librarse de un honrado día de trabajo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_168",
+      "hash": "5F5BDB913FDEA052",
+      "target": "Solo tienes que avisar a T'mokkri cuando te apetezca sacarte unos giles de más. Siempre tendrá alguna que otra tarea para ti."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_169",
+      "hash": "F73F1DE88B81DCCD",
+      "target": "Ah, y es todo legal, por si te lo preguntabas. Aquí procuramos estar a bien con la almirante, a diferencia de ciertos piratas que yo me sé... Te lo digo: si resulta que tuvieron algo que ver con esos secuestros, se va a armar la de siete infiernos. Un buen y sangriento <italic(1)>ajuste de cuentas<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_170",
+      "hash": "4E9657E5546BDA1E",
+      "target": "Aunque quizá sea eso lo que Limsa necesita. En mares embravecidos, a veces hay que zarandear el barco para enderezarlo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_BADERON_000_171",
+      "hash": "8D0189FD410B7D35",
+      "target": "Pero ya habrá tiempo para esas charlas cuando estés bien descansado. ¡Hasta entonces, disfruta de la hospitalidad de la Moza!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_00",
+      "hash": "BDBB0529D5F88EC9",
+      "target": "Staelwyrn tiene motivos para creer que Sevrin trama algo malo. Hay que hacer algo."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_01",
+      "hash": "52EEB5704F2CEE0B",
+      "target": "Al parecer, Sevrin empezó a comportarse de forma sospechosa tras recibir una carta extraña y luego se largó con su cuadrilla de granujas. Staelwyrn quiere que le sigas la pista al bribón y lo arrastres de vuelta a la Granja Summerford antes de que se meta en líos. Habla con Grynewyda, junto a la eterita, y averigua hacia dónde se dirigía."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_02",
+      "hash": "1EE874160066F801",
+      "target": "Parece que Sevrin y sus hombres han partido hacia el Cañón de los Susurros. Síguelos y procura que vuelvan a la Granja Summerford."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_03",
+      "hash": "442AE031AF438878",
+      "target": "Según Aylmer, Sevrin atrajo a sus lacayos a una trampa con la promesa de bebida. Adéntrate en el cañón y salva a quien puedas."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_04",
+      "hash": "F6BF64965E546E36",
+      "target": "Eyrimhus te dice que más de los desdichados camaradas de Sevrin están atrapados más adentro del cañón. Encuéntralos antes de que sea demasiado tarde."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_05",
+      "hash": "5C5AB60EAFAFB7D1",
+      "target": "Mientras intentas rescatar a Sevrin y a sus «amigos», te topas con un mago enmascarado que desata contra ti un descomunal gólem de arcilla. Tras una lucha desesperada, logras derrotar al temible autómata."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_06",
+      "hash": "9AFF37548AB94706",
+      "target": "Por razones que ignoras, la presencia de Y'shtola evoca en tu mente visiones del pasado. Aunque nada te gustaría más que preguntarle por este misterioso fenómeno, reconoces que el Cañón de los Susurros no es lugar para tal conversación. Regresa a la Granja Summerford e informa a Staelwyrn de todo lo sucedido."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_07",
+      "hash": "E1757E3A7CD02752",
+      "target": "De vuelta en la Granja Summerford, Sevrin explica que había planeado entregar a sus compañeros a los Saqueadores de la Serpiente como pago por haber desertado de ellos, pero que al final no fue capaz de vender su alma para salvar el pellejo. Aunque Staelwyrn ha readmitido al pirata arrepentido, Sevrin parece decidido a pagar por sus crímenes. Habla con Staelwyrn para ver qué puede hacerse."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_08",
+      "hash": "64C72B1EBD0171A3",
+      "target": "Consciente de que la voz de Baderon tiene peso entre las Casacas Amarillas, Staelwyrn te pide que le cuentes toda la historia de las desventuras de Sevrin, con la esperanza de que se avenga a interceder por el pirata arrepentido. Parece que toca hacer una visita a Drowning Wench."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SEQ_09",
+      "hash": "8F2C5609CEDEF3AE",
+      "target": "Tras escuchar tu relato, Baderon promete interceder por Sevrin y te felicita por haber servido a Staelwyrn con tanta diligencia. Como recompensa, te ofrece alojamiento y más trabajo en forma de leves. Aprovecha su generosidad y prepárate para las aventuras que están por venir."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_00",
+      "hash": "482661891BA7B8C5",
+      "target": "Hablar con Grynewyda"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_01",
+      "hash": "267FEEBA71384AA6",
+      "target": "Interceptar a Sevrin y a sus secuaces en el Cañón de los Susurros"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_02",
+      "hash": "466874B816509CF0",
+      "target": "Rescatar a los secuaces de Sevrin"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_03",
+      "hash": "12604F9EC438FB2A",
+      "target": "Rescatar a los secuaces de Sevrin en el corazón del Cañón de los Susurros"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_04",
+      "hash": "0E01D7E532B83E1F",
+      "target": "Rescatar a los secuaces de Sevrin en el corazón del Cañón de los Susurros"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_05",
+      "hash": "1CF67E8709866F9E",
+      "target": "Hablar con Staelwyrn"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_06",
+      "hash": "11DA709E82756E57",
+      "target": "Hablar con Staelwyrn"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_TODO_07",
+      "hash": "97249EBDBC55755C",
+      "target": "Hablar con Baderon, en Drowning Wench"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_181",
+      "hash": "43AEFDB3C5F955FF",
+      "target": "En reconocimiento de tus logros, ahora tienes acceso a los guildleves y a las habitaciones de posada."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_182",
+      "hash": "B46EB7A3AFA66CD9",
+      "target": "A medida que completes misiones y emprendas nuevas aventuras, el mundo te atraerá cada vez más hondo hacia sus misterios."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_183",
+      "hash": "F0DFEB583D7E595C",
+      "target": "El gran reino de Eorzea aún guarda un sinfín de caminos por recorrer y parajes por contemplar. ¡Sigue la senda del aventurero y descubre las maravillas que te aguardan!"
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_190",
+      "hash": "3515F31393CFA923",
+      "target": "Ahora tienes acceso a Contenido recomendado. Esta función muestra una lista de las misiones o deberes disponibles en tu zona en este momento."
+    },
+    {
+      "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_SYSTEM_000_191",
+      "hash": "9CF03B4ABB723B65",
+      "target": "La lista de Contenido recomendado puede abrirse desde el apartado Contenido del menú principal, y también se mostrará automáticamente al iniciar sesión. Si no sabes muy bien qué hacer a continuación, esta herramienta facilita encontrar actividades adecuadas a tu clase y nivel actuales."
+    }
+  ]
+}

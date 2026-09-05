@@ -1,0 +1,13 @@
+{
+  "conversation": "quest/036/LucKyr001_03602",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_001", "hash": "2C9AB99934CBF63B", "target": "<if(gnum4,¿Artesana,¿Artesano)>, eh? Tienes toda la pinta. ¿Te interesa poner esas dotes a trabajar aceptando algún que otro mandato?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_002", "hash": "2A66DC795BBF0D17", "target": "Es todo legal, gestionado bajo los auspicios del Exarca de Cristal, <if(gnum4,tranquila,tranquilo)>. Procesamos y repartimos una montaña de mandatos cada día. Regístrate con nosotros y podrás echar un vistazo a los que estén libres cuando te venga bien." },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_003", "hash": "02D621AE8887E857", "target": "Y también cobrarás, por si temías que esto fuera una obra benéfica. Entonces... ¿te apunto en el registro?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_004", "hash": "5CF3BAED0A545A02", "target": "¡Muy bien! <string(gstr1)>, ¿verdad? Deja que termine este poco de papeleo que queda ¡y lo tendrás todo a punto!" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_005", "hash": "AA04332D3B25ADC5", "target": "Ya puedes aceptar mandatos del Cristarium hablando con Eirikur." },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_EIRIKUR_000_006", "hash": "87E422E7A7F40DA9", "target": "¿Que te dedicas a un oficio? Pues no lo parece. ¿Seguro?" },
+    { "gameKey": "quest/036/LucKyr001_03602#TEXT_LUCKYR001_03602_SYSTEM_000_007", "hash": "FA8130F86A9A6B25", "target": "Para emprender esta misión, debes ser Discípulo de la Mano o de la Tierra de nivel 70 o superior." }
+  ]
+}

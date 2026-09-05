@@ -1,0 +1,390 @@
+{
+  "conversation": "quest/049/KinGmd109_04920",
+  "questName": "No Time for Tears",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_00", "hash": "D73DB1B94D75CC39", "target": "A Wuk Lamat le cuesta asimilar lo que ha presenciado." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_01", "hash": "89B2434B7AB09BDE", "target": "El sol se ha puesto sobre el antiguo Servidor del Alba Gulool Ja Ja. Por desgracia, no hay tiempo para la inacción: la gente de Tuliyollal necesita a sus nuevos líderes.<br><br>※Si abandonas la zona y quieres volver, habla con el guardián de la puerta de la Legión del Alba a la entrada del Alcázar del Sol." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_02", "hash": "08AF3BACEBF16551", "target": "Wuk Lamat quiere prestar ayuda a la gente de Tuliyollal, y los Herederos ofrecen su colaboración de inmediato. Los reparte por diversos puntos de la ciudad con la esperanza de atender al mayor número posible de heridos. En cuanto a ti, te pide que la acompañes al Barrio Resplandeciente." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_03", "hash": "222E2881CE3560BB", "target": "Has ayudado a cuanta gente has podido en el Barrio Resplandeciente, pero aún queda trabajo por hacer. Quizá Wuk Lamat sepa dónde más puede hacer falta tu ayuda." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_04", "hash": "4EE146E67FE01706", "target": "Sin querer perder tiempo, Wuk Lamat te pide que te dirijas a la Arteria de las Garras. Tu tarea es evaluar los daños que ha sufrido la zona, tras lo cual podrás reunirte con Alisaie en Bahía Comerciante." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_05", "hash": "02D3BB5C10DB0950", "target": "Echas un vistazo por la Arteria de las Garras y, aunque hay zonas que siguen intactas, no puede decirse lo mismo de lo que ha quedado de Bahía Comerciante. Concluida tu evaluación, vas en busca de Alisaie." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_06", "hash": "0B81C1C0FB14F5CE", "target": "Alisaie ha hecho lo que ha podido por la gente de Bahía Comerciante y, a juzgar por los pocos daños que han sufrido los edificios, está convencida de que el ataque de Zoraal Ja fue una demostración de fuerza y no pretendía causar un daño importante. Dejando a un lado sus motivos, le preocupa más Wuk Lamat y te pide que vuelvas a ver cómo está. Se dice que se la vio por última vez cerca de Gornitruq Gleamsands." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_07", "hash": "8328C76CE99D4D84", "target": "Encuentras a Wuk Lamat sola, superada por la conmoción. Le ofreces las palabras de consuelo que puedes y, aunque el corazón aún le duele, halla la determinación para seguir adelante." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_08", "hash": "3444AB174F0712C0", "target": "Wuk Lamat tiene una determinación renovada de abatir a Zoraal Ja y garantizar la paz y la seguridad de Tural. Se dispone a volver al palacio y hablar con Koana para planear su próximo paso, y os pide a ti y a los Herederos que os unáis a ellos." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SEQ_09", "hash": "CACC9C16154C86DE", "target": "A Alisaie le alivia saber que Wuk Lamat está mejor. No cabe duda de que los Herederos harán cuanto puedan por los nuevos Servidores del Alba, pero no logra sacudirse la inquietud que le provoca esta amenaza sin precedentes." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_00", "hash": "4670DD09B9A0B6E3", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_01", "hash": "E1EA772CA71AEA88", "target": "Ayudar a los ciudadanos del Barrio Resplandeciente" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_02", "hash": "B75797CB2E333DDE", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_03", "hash": "28A3BDA349177870", "target": "Inspeccionar los lugares indicados en busca de daños" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_04", "hash": "49C2E33565FE353A", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_05", "hash": "1939B83206DA4C40", "target": "Buscar a Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_06", "hash": "4340362107C7D1D1", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_TODO_07", "hash": "B33D0C36535D3063", "target": "Hablar con Alisaie" },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_000",
+      "hash": "12258E27FE77DE7D",
+      "target": "Cómo... ¿Cómo ha podido pasar esto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KOANA_000_030",
+      "hash": "4CCE3B80A4531DA5",
+      "target": "Hay que atender al pueblo... Evaluar las bajas y los daños sufridos por la ciudad. Sí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KETENRAMM_000_035",
+      "hash": "EBEDEF21FE5AAEFA",
+      "target": "Si hubiera tenido más cuidado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALPHINAUD_000_040",
+      "hash": "3E8851BB11B6D089",
+      "target": "¿Qué podemos hacer ahora...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_045",
+      "hash": "297890E8D12C0F07",
+      "target": "Gulool Ja Ja estaba tan orgulloso de que lo sucedieran sus hijos. Y pensar que jamás los verá continuar su legado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KRILE_000_050",
+      "hash": "78E7ACCB8EA445D4",
+      "target": "En un momento así, debemos tomar la iniciativa. Habrá un sinfín de personas que necesiten ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ERENVILLE_000_055",
+      "hash": "130A28881848925A",
+      "target": "No lo entiendo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SUNPERCHGATEKEEPER_000_057",
+      "hash": "AA5AEC1B9416C27B",
+      "target": "¿Desea regresar al Alcázar del Sol?"
+    },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SYSTEM_000_058", "hash": "3B4F9F898D838375", "target": "¿Entrar en el Alcázar del Sol?" },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_100_059",
+      "hash": "107E1903F9CE394C",
+      "target": "V-Vale. Entonces, eh... yo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_LANDSGUARD04920_000_059",
+      "hash": "96205A9FC9D6B55F",
+      "target": "Juramento Wuk Lamat. Juramento Koana. Traigo noticias de la ciudad. El enemigo se ha retirado y la Legión del Alba ha empezado a socorrer al pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_LANDSGUARD04920_100_059",
+      "hash": "770F8EFCC65CB2F5",
+      "target": "Las bajas en nuestras filas han frenado el avance, pero seguimos haciendo todo lo posible."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KOANA_100_060",
+      "hash": "F9D7AF3D67729026",
+      "target": "Gracias por el informe. Comunica a la guardia que dé prioridad a esas labores hasta nueva orden."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_060",
+      "hash": "B402096A8D3B36C2",
+      "target": "La gente... Tengo que ayudarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALPHINAUD_000_061",
+      "hash": "AE848BDDD26345FC",
+      "target": "Os ayudaremos en todo lo que podamos, por supuesto."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_062",
+      "hash": "97B7D38C444E9AEE",
+      "target": "Gracias, gracias. Seguro que hay heridos por todas partes─más de los que podría contar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_063",
+      "hash": "B9EC85CBB58F3D5F",
+      "target": "Nos repartiremos y los ayudaremos a todos. ¡Contad con nosotros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_064",
+      "hash": "A68C50DA377AF44A",
+      "target": "Alphinaud y Alisaie, ¿podéis ocuparos de Bahía Comerciante? Y Krile y Erenville, de los alrededores del palacio."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_065",
+      "hash": "664C5E11F0159F6D",
+      "target": "En cuanto a <split(<string(gstr1)>, ,1)>, ven conmigo al Barrio Resplandeciente. Después nos reuniremos todos aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KOANA_000_070",
+      "hash": "D321BD36AFE37CBD",
+      "target": "Cerraremos el Alcázar del Sol por ahora. Necesitamos determinar el alcance real de la situación."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_KETENRAMM_000_075",
+      "hash": "6D2F285EAEA69B54",
+      "target": "No te preocupes por Koana. Yo le echo un ojo al muchacho."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_080",
+      "hash": "CA0E64B4FF9C1522",
+      "target": "¿Dónde te duele?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_100",
+      "hash": "90422502EEC304FA",
+      "target": "Así que Bakool Ja Ja os protegió... Menos mal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CRYINGCITIZEN04920_000_110",
+      "hash": "0C687555BA2CCAA0",
+      "target": "\\<sorbe> Gracias, <if(gnum4,señorita,señor)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CRYINGCITIZEN04920_000_111",
+      "hash": "35033D08E6863689",
+      "target": "P-Pero mi marido y mi hijo... Estaban... estaban... \\<sollozo>"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CRYINGCITIZEN04920_000_112",
+      "hash": "169D2108DEC3EE02",
+      "target": "¿Por qué ha pasado esto...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_STUNNEDCITIZEN04920_000_113",
+      "hash": "877E2D1644E02DFC",
+      "target": "G-Gracias... Creo que estoy bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_STUNNEDCITIZEN04920_000_114",
+      "hash": "E387ECF73F8D9A8E",
+      "target": "¿Los viste? ¿A esos soldados?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_STUNNEDCITIZEN04920_000_115",
+      "hash": "398D2651B6524C7A",
+      "target": "Parecían personas, pero mataban y mataban sin vacilar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_STUNNEDCITIZEN04920_000_116",
+      "hash": "1D3DA42236C8A29B",
+      "target": "Si vuelven a atacarnos, ¿cómo vamos a defendernos...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SCAREDMERCHANT04920_000_117",
+      "hash": "BB20A2FD71EA6A1C",
+      "target": "G-Gracias, el dolor ya es menor. Pero no puedo dejar de temblar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SCAREDMERCHANT04920_000_118",
+      "hash": "2182D6E2E129F3F5",
+      "target": "¿De dónde salieron? ¿Por qué nos atacaron? ¿Y por qué siguen esas <italic(1)>cosas<italic(0)> en el cielo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SCAREDMERCHANT04920_000_119",
+      "hash": "0AC00672B745C66E",
+      "target": "¡Con Gulool Ja Ja teníamos paz! ¡Estábamos a salvo! Pero ahora..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SCAREDMERCHANT04920_000_120",
+      "hash": "D7A2899327C91EED",
+      "target": "Perdón por levantar la voz. Es que... no sé qué hacer..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ANGRYSOLDIER04920_100_121",
+      "hash": "FBAB9968801021FF",
+      "target": "Gracias. Ya me repondré."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ANGRYSOLDIER04920_000_121",
+      "hash": "1E053B8FB6EFEB5D",
+      "target": "Pero no supimos proteger a la gente..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ANGRYSOLDIER04920_000_122",
+      "hash": "B1562C02F64831DF",
+      "target": "¿Por qué tenían que morir tantos? ¿¡Dónde estaban el Juramento Wuk Lamat y el Juramento Koana!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ANGRYSOLDIER04920_000_123",
+      "hash": "1BF3A670F34365B2",
+      "target": "Agh, no es culpa suya. Lo entiendo, de verdad, pero... \\<suspiro> Necesito despejarme..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CONFUSEDCITIZENS04920_000_124",
+      "hash": "40B6E53146DF2A51",
+      "target": "Gracias... Pensé que estaba acabado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CONFUSEDCITIZENS04920_000_125",
+      "hash": "8499FEB329D0C9B5",
+      "target": "He oído algo inquietante. El líder enemigo─dicen que se parecía a Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CONFUSEDCITIZENS04920_000_126",
+      "hash": "B070DA699470C605",
+      "target": "Pero eso no puede ser verdad, ¿no? ¿Por qué iba la Primera Promesa a atacar a los suyos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_CONFUSEDCITIZENS04920_000_127",
+      "hash": "DD328F8EFF54B485",
+      "target": "Pero si <italic(1)>fue<italic(0)> él, ¿qué pasa ahora? ¿Va a volver? ¿Y qué hacemos si vuelve?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_130",
+      "hash": "290E3BE161BDF5CB",
+      "target": "¿Has terminado de ayudar a la gente de aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_131",
+      "hash": "C40A47256A272176",
+      "target": "Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_132",
+      "hash": "197BA90996B524D3",
+      "target": "Entre los heridos había niños. <italic(1)>Niños<italic(0)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_133",
+      "hash": "DA23F68AEA6D1554",
+      "target": "...No, ahora no es momento. Todavía hay otros que necesitan ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_134",
+      "hash": "8EA0CEAE31733A08",
+      "target": "¿Puedes ir a ver cómo están las cosas en la Arteria de las Garras? Y después busca a Alisaie en Bahía Comerciante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALPHINAUD_000_135",
+      "hash": "CB61E41E0C5F15B7",
+      "target": "La gente está conmocionada. Debemos hacer lo que podamos por ayudarlos, y rápido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_140",
+      "hash": "90FC5D800952FAA4",
+      "target": "Se me parte el corazón al ver en qué se ha convertido Tuliyollal. Ni me imagino cómo se sentirá la gente."
+    },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SYSTEM_000_150", "hash": "0ABE1BB7B0201E1C", "target": "No hay indicios de daños importantes por la batalla. Parece que los combates no llegaron hasta aquí." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SYSTEM_000_151", "hash": "481F5C94BE69B8DF", "target": "La tienda parece haber capeado el caos, aunque sus mercancías han quedado desperdigadas por el suelo." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SYSTEM_000_152", "hash": "5851F844D5511337", "target": "El puerto sigue intacto, pero las naves enemigas continúan cerniéndose en lo alto." },
+    { "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_SYSTEM_000_153", "hash": "D39089BCD44D4231", "target": "Las marcas de quemaduras recientes en el suelo son sin duda del ataque enemigo..." },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_160",
+      "hash": "CB6070082AC965D4",
+      "target": "He ayudado a todos los que he encontrado y los he dejado al cuidado de la Legión del Alba."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_161",
+      "hash": "F1B925E61ED03A4A",
+      "target": "Por muchas bajas que haya, habría sido peor si la Legión del Alba no hubiera luchado con la bravura con que lo hizo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_162",
+      "hash": "8D2ED023189DA63F",
+      "target": "Y si Zoraal Ja hubiera <italic(1)>pretendido<italic(0)> de verdad hacer daño a la gente..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_163",
+      "hash": "6E93416920BD5E07",
+      "target": "Fíjate: los edificios apenas están dañados."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_164",
+      "hash": "32240AA0A9F73091",
+      "target": "Sospecho que su objetivo era más bien sembrar el miedo. Demostrar que puede atacar cuando le plazca."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_165",
+      "hash": "C1A171D3C7DEAF1E",
+      "target": "...Pero eso lo hablamos luego. ¿Cómo está Lamaty'i?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_166",
+      "hash": "476BD8013D5909CA",
+      "target": "Incluso después de lo de su padre, se esfuerza muchísimo por cumplir con su deber hacia el pueblo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_167",
+      "hash": "7A6D221E0511DDD4",
+      "target": "Aun así, todo el mundo tiene un límite. Necesita descansar, y pronto."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_168",
+      "hash": "E672A3937EA1AB39",
+      "target": "Alguien ha dicho que la vio dirigirse hacia la costa. Quizá haya ido a las Arenas Fulgentes de Gornitruq."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_180",
+      "hash": "DF2110CD9437994D",
+      "target": "Estoy bien. Solo necesitaba un momento para calmar los nervios."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_181",
+      "hash": "36B9A182437F4F1A",
+      "target": "Gracias por estar ahí, y por darme ánimos a pesar de todos mis lloriqueos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_182",
+      "hash": "3EB491BFCED04EF2",
+      "target": "Quedarse ahí sentada quejándose no es muy propio de una gobernante, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_100_182",
+      "hash": "FCF80CD4CBE5906B",
+      "target": "Han pasado tantas cosas y tan rápido... Me cuesta darles sentido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_110_182",
+      "hash": "41838301055D755F",
+      "target": "Esos soldados extraños, esas naves flotantes, el nuevo poder que maneja Zoraal Ja..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_120_182",
+      "hash": "0DC3A10D4BD44381",
+      "target": "Con todo lo que ha hecho, y lo que aún pretende hacer, sé que no puedo permitirme lanzarme de cabeza a la batalla. Esta vez no."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_183",
+      "hash": "30154182E2237067",
+      "target": "No puedo dejar que este dolor terrible que llevo dentro me desvíe del camino. Lo convertiré en mi fuerza─la fuerza para hacer lo que debo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_184",
+      "hash": "2EF7DCF148D09CE7",
+      "target": "Bien, yo vuelvo al palacio. Tengo que hablar de estrategia con Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_185",
+      "hash": "1D72668E51DCC5BC",
+      "target": "¿Podéis reuniros con nosotros dentro de un rato tú y los demás? Decidamos lo que decidamos, quiero que todos lo sepáis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_WUKLAMAT_000_186",
+      "hash": "8CFE44483C0CEC10",
+      "target": "Ah, y... ¿le puedes decir a Alisaie que estaré bien? Seguramente esté en Bahía Comerciante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_190",
+      "hash": "9226D797084A3984",
+      "target": "Ah, ya has vuelto. Por eso entiendo que Lamaty'i se encuentra mejor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_191",
+      "hash": "0ED5BF8446826875",
+      "target": "Tiene que ser fuerte por el pueblo de Tural, lo entiendo. Pero no tiene por qué hacerlo sola."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_192",
+      "hash": "5D150146938AEAFF",
+      "target": "Así que si ella piensa luchar, luchamos. Juntos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_193",
+      "hash": "6179336B28B51AEB",
+      "target": "Dicho esto..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd109_04920#TEXT_KINGMD109_04920_ALISAIE_000_194",
+      "hash": "13F5722FE182C98C",
+      "target": "Ojalá supiera exactamente a qué nos enfrentamos."
+    }
+  ]
+}

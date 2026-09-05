@@ -1,0 +1,525 @@
+{
+  "conversation": "quest/048/KinGma118_04877",
+  "questName": "Knowing the Pelupelu",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_SEQ_00", "hash": "B562DB81263688E7", "target": "Mablu está dispuesta a adelantarse hasta la aldea." },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_SEQ_01", "hash": "A4AAD668CF20AA14", "target": "Consciente del agotamiento de Wuk Lamat, Mablu se ofrece a adelantarse a la aldea y poner a hacer una infusión de mate revitalizante. Los demás aflojan el paso por el bien de la debilitada Tercera Promesa, lo que te deja libre para echarle una mano a Mablu con los preparativos de la merienda." },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_SEQ_02", "hash": "CC4EA18AF1807DAD", "target": "Wuk Lamat se siente mucho mejor tras su taza de té y confiesa un recién descubierto cariño por las alpacas. Como si lo hubiera calculado, Tobli llega para inspeccionar a la bestia que ha capturado y declara que la Tercera Promesa cumple los requisitos para superar la Prueba de Oro. Sin embargo, cuando Wuk Lamat expresa su sentimiento de inferioridad, el jefe de cuentas se anima a contar la historia de la propia visita de Gulool Ja Ja a Wachunpelo hace muchos años, que culminó con la liberación de los pelupelu del yugo de los Yok Huy.<br><br>Tras este relato, Tobli entrega a Wuk Lamat su piedra clave y la insta a enorgullecerse de sus logros, tanto en el valle como en la propia aldea. Mablu, agradecida a Wuk Lamat por sus ánimos, anuncia entonces a Tobli su deseo de dejar el rancho y dedicarse al oficio de mercader, un deseo que su padre adoptivo respalda de todo corazón.<br><br>Cuando os disponéis a partir hacia Tuliyollal, Mablu te sugiere que hables con los Yok Huy sobre la leyenda de la ciudad dorada. Según la historia local, los gigantes ordenaron en su día a los pelupelu buscar la fabulosa metrópoli. Las revelaciones continúan, pues Mablu también reconoce el pendiente de Krile y se ofrece a indagar en el origen de esa joya, que desde hace mucho se lleva en Tural como amuleto de viaje seguro. Tras dar las gracias a sus nuevos amigos pelupelu por sus consejos y su hospitalidad, Wuk Lamat pone la mirada en el camino de vuelta a la ciudad." },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_SEQ_03", "hash": "1FB189E6F60E4A75", "target": "Aunque todavía duda de su valía como Promesa, Wuk Lamat se alegra de haber superado la Prueba de Oro. Deja de lado sus inseguridades por el momento y conduce a vuestro grupo de vuelta a Xbalyav Ty'e, en Tuliyollal." },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_SEQ_04", "hash": "3AFA25D3AAB87A16", "target": "De vuelta en su ciudad natal, Wuk Lamat ha recuperado su optimismo característico. Con la esperanza de mantener el impulso, os preparáis para emprender la siguiente etapa de la contienda." },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TODO_00", "hash": "3E6903D5292CFC97", "target": "Hablar con Mablu" },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TODO_01", "hash": "0491B73431E529D7", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TODO_02", "hash": "C24BCE35AAAE8355", "target": "Hablar con Wuk Lamat fuera de Xbalyav Ty'e" },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_001",
+      "hash": "FC33E39A6706D6E0",
+      "target": "Gracias a Alphinaud y sus manos curativas ya puedo ponerme de pie... ¡quizá hasta andar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_002",
+      "hash": "2EABF38CDA39EE03",
+      "target": "Hemos estado aquí bastante rato, pero me alegro de que Wuk Lamat lograra atrapar su alpaca. ¡Y que Erenville decidiera contarnos su historia fue una grata sorpresa!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_003",
+      "hash": "216AC02B237C9EE7",
+      "target": "...Hablé de más. Si Wuk Lamat está para ello, deberíamos volver con Tobli."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALPHINAUD_000_004",
+      "hash": "0E54F503D6A3F038",
+      "target": "Wuk Lamat no tenía heridas serias de las que hablar. Pero estaba claro que la habían llevado al límite mismo de su aguante."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALISAIE_000_005",
+      "hash": "E570D1E34F6A7B21",
+      "target": "Alphinaud se ha apresurado a ayudar a desmontar la tienda. ¿Será su nueva obsesión ahora que domina la recogida de leña...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_006",
+      "hash": "63C886F2CDEE0DBE",
+      "target": "La Tercera Promesa aún parece algo insegura de pie. Normal, después de pasarse la noche persiguiendo alpacas. ¿Y sabéis qué derrite el cansancio como por magia? ¡El mate!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_007",
+      "hash": "4AC19A16608D1963",
+      "target": "Yo me adelanto al rancho y pongo una tetera. Así podéis tomároslo con calma, ¡y el té estará listo cuando lleguéis!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALPHINAUD_000_008",
+      "hash": "0E79DFB101229C2B",
+      "target": "Como sabiamente sugiere Mablu, iremos a paso más lento por nuestra exhausta Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_009",
+      "hash": "12E47FE4670114BE",
+      "target": "¿Te has adelantado a los demás? Entonces me doy prisa con el té, ¡que Wuk Lamat no puede tardar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_020",
+      "hash": "4EB834ECC49A1FF9",
+      "target": "Uy, ese té sí que es mágico: ¡ya me encuentro mejor!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_021",
+      "hash": "974995211D0487FC",
+      "target": "Veo que te has soltado con nuestros amigos peludos."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_022",
+      "hash": "4969160047E321B1",
+      "target": "Observando a este he aprendido mucho de las alpacas. Qué hierbas y frutas comen, a qué sonidos reaccionan, sus manías adorables..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_023",
+      "hash": "CA181197799A149B",
+      "target": "¡Creo que les he cogido cariño y todo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_024",
+      "hash": "4B3D434D3FCF2C35",
+      "target": "Bienvenida de vuelta, Tercera Promesa. ¿Habéis superado la Prueba del Oro?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_025",
+      "hash": "B490360B0345C603",
+      "target": "Mmm, sí, una alpaca del valle no admite confusión."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_026",
+      "hash": "F83F39C20ECB9E72",
+      "target": "Os felicito por el éxito. ¡Bien hecho!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_027",
+      "hash": "5399E955F1237BF0",
+      "target": "¡Sí, lo logramos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_028",
+      "hash": "D0F628EBCB673777",
+      "target": "...Aunque no encontré una reluciente como la de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_029",
+      "hash": "024EB35BFE2A98C6",
+      "target": "¡Me sorprendería que lo hubierais hecho! Las alpacas doradas nacen apenas una cada varias décadas. Son criaturas esquivas y solitarias, rara vez vistas y menos aún capturadas, gracias a sus dones físicos y mágicos innatos."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_030",
+      "hash": "BA7B8BD67818DFAD",
+      "target": "Solo se sabe de otra persona que atrapara una antes: el propio Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_031",
+      "hash": "D40DEA3B56A5915A",
+      "target": "¿¡Papá también andaba tras las alpacas!?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_032",
+      "hash": "19E6311E0CB3B7FB",
+      "target": "Eso cuentan las historias de mi abuelo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_033",
+      "hash": "775B780AD69217D0",
+      "target": "Fue antes de la fundación de Tuliyollal, en tiempos en que los gigantes de la montaña, los Yok Huy, tenían sojuzgado a nuestro pueblo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_034",
+      "hash": "29D89809B2D5EF73",
+      "target": "Obligados por sus señores, nuestros antepasados subían a lomos de alpaca a las tierras altas a entregar comida y otros tributos. Días miserables, según los contaba mi abuelo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_035",
+      "hash": "DC461F3621376DEE",
+      "target": "Entonces llegó el joven Gulool Ja Ja, aún sin la carga del manto de Servidor del Alba."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_036",
+      "hash": "5201110FB0032BAA",
+      "target": "A nuestro pueblo lo asombró aquella imponente figura de dos cabezas, a la altura de los Yok Huy, y lo desconcertó su séquito de compañeros dispares."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_037",
+      "hash": "2DFCE3625F907C1E",
+      "target": "Algunos temblaron de miedo, creyendo que llegaba un nuevo conquistador."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_038",
+      "hash": "78E413D926742445",
+      "target": "Pero Gulool Ja Ja no mostró tal inclinación. Se sentó y habló con nosotros, sorbiendo el mate que le ofrecimos, y se ensombreció al saber de nuestra desdicha."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_039",
+      "hash": "CCB9E3FCE9D4BCBE",
+      "target": "¡Nadie pudo anticipar lo que su visitante decidió hacer luego! ¡Gulool Ja Ja subió los riscos para enfrentarse a los gigantes y liberó a los Pelupelu del yugo de los Yok Huy!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_040",
+      "hash": "9E95AA86D3F93031",
+      "target": "Luego posó una mirada tasadora en nuestros jinetes y propuso que saliéramos al camino a vender nuestras bebidas. La idea era obvia para quien viajaba como él, empeñado en fomentar la amistad entre clanes."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_041",
+      "hash": "8768FFF730945A79",
+      "target": "Así fue como unas palabras de Gulool Ja Ja nos convirtieron en un clan de mercaderes itinerantes."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_042",
+      "hash": "DAEBDC8499DE8286",
+      "target": "Nunca había oído contar así el vínculo que papá forjó con los Pelupelu. La gesta no da tanto detalle."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_043",
+      "hash": "347ED463834E6099",
+      "target": "Entonces quizá no sepáis que Gulool Ja Ja buscó una montura de paso firme para subir a las tierras altas. Así fue como capturó una alpaca dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_044",
+      "hash": "C63CBE7365CFAC38",
+      "target": "Así que mi hermano y mi padre atraparon la más rara de las criaturas..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_045",
+      "hash": "204806E5EC1EB1DE",
+      "target": "...¡y yo no pasé de una corriente!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_046",
+      "hash": "C362872943C18FC1",
+      "target": "La prueba no pedía más, Tercera Promesa. ¡Y ha traído usted un animal estupendo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_047",
+      "hash": "86ABEAF5D5C96B20",
+      "target": "Mablu tiene razón. Eres un animal estupendo. Si aquí hay algo corriente, soy yo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_048",
+      "hash": "CFDA57EFE0271304",
+      "target": "No solo habéis superado la Prueba del Oro: también habéis cerrado muchos tratos y dado alegría a mucha gente, a la manera Pelupelu. Dudo mucho que vuestro hermano hubiera logrado lo mismo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_049",
+      "hash": "114DC276A70A35A6",
+      "target": "Debéis enorgulleceros de los logros que os han ganado la piedra clave."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_050",
+      "hash": "B97EA8D6F57F66E0",
+      "target": "¡Quedan cinco!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_051",
+      "hash": "4190734F668C835A",
+      "target": "Así que este es su aspecto."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALISAIE_000_052",
+      "hash": "9CF9B2A879AFA531",
+      "target": "¡Venga, encájala en la tablilla!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_053",
+      "hash": "2B661C2F1616D20D",
+      "target": "¡Encaja perfecta! Quedan seis."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_054",
+      "hash": "CFDD35FDC7D9B0AE",
+      "target": "¡Va usted por buen camino, Tercera Promesa!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_055",
+      "hash": "F87F5B749858475F",
+      "target": "Sin ti habríamos estado perdidos, Mablu. Gracias a ti he aprendido muchísimo del pueblo Pelu y de vuestras costumbres."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_056",
+      "hash": "3C9651ACA1879FAC",
+      "target": "Parecerá obvio, pero he entendido lo importante que es conocer bien algo. Si las alpacas me incomodaban era porque no las entendía."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_057",
+      "hash": "B0ECC87C8514A5CA",
+      "target": "Yo también le doy las gracias, Wuk Lamat. ¡Me ha dado el valor para decir lo que no sabía si podría decir nunca!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_058",
+      "hash": "9E65605809C9ABEB",
+      "target": "Tobli... ¡quiero dejar el rancho y hacerme comerciante!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_059",
+      "hash": "564412E035178A8B",
+      "target": "Agradezco todo lo que has hecho por mí, y he adorado cada momento cuidando alpacas."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_060",
+      "hash": "83B0DB779D0BE69E",
+      "target": "¡Pero esto tengo que hacerlo! ¡Necesito andar mi propio camino y cerrar mis propios tratos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_061",
+      "hash": "948AF3E561585DCE",
+      "target": "Como padre tuyo, permíteme decir una cosa."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_062",
+      "hash": "D361670150F9CF3A",
+      "target": "Siempre he intentado dar a mis pupilos toda la felicidad que pudiera. Pero ni una sola vez he querido que esa fuera la única felicidad que conocierais."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_063",
+      "hash": "991D13F31B7CF70A",
+      "target": "Tienes mi bendición para andar el camino que elijas, Mablu. Me alegra saber que has hallado una vocación que quieres seguir con tanta pasión. Serás una vendedora ambulante <italic(1)>excepcional<italic(0)>, estoy seguro."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_064",
+      "hash": "1CF65C2BCC0AE811",
+      "target": "Gracias, Tobli..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_065",
+      "hash": "CC0C90538C879F9B",
+      "target": "¡Qué te dije, Mablu!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_066",
+      "hash": "D88BC48271EAD1E2",
+      "target": "Hay una última cosa en la que puedo ayudarla, Tercera Promesa. Necesita encontrar la ciudad dorada, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_067",
+      "hash": "5E67E73AA5559C99",
+      "target": "Ese es el objetivo final..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_068",
+      "hash": "7AC409B923097BD3",
+      "target": "Entonces le sugiero que hable con los Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_069",
+      "hash": "7CDA5AB47FED7C47",
+      "target": "Antaño dominaron mucho más que Urqopacha y los Pelupelu. Hace mil años eran los señores de Yok Tural y de todos sus pueblos."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_070",
+      "hash": "793532EF271314A3",
+      "target": "En aquella era, a los Pelupelu se les ordenó buscar una ciudad de oro."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_071",
+      "hash": "8E9853BCEAF77CC0",
+      "target": "Peinaron cada rincón del continente, pero nunca hallaron rastro de aquel lugar legendario."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_072",
+      "hash": "0422035F936A8B93",
+      "target": "Pero... si no encontraron nada, ¿qué van a contarnos los Yok Huy?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_073",
+      "hash": "8D62E07838E13237",
+      "target": "Puede que no la encontraran... pero que se les ocurriera buscarla me da curiosidad. ¿No merecerá la pena indagar en el origen de la leyenda?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_074",
+      "hash": "C0C6E378AC9E0FD5",
+      "target": "Nada perdemos por preguntar. Además, si estamos decididos a seguir el camino de la gesta..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_075",
+      "hash": "1BF072615AF0D1CC",
+      "target": "...tarde o temprano visitaremos a los gigantes."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_076",
+      "hash": "6E5208841935FBC6",
+      "target": "Ah, Krile. Tenía una pregunta pendiente y, ya que hemos acabado la prueba: ¿de dónde sacaste ese pendiente?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_077",
+      "hash": "D2F436710AD40885",
+      "target": "¿Mi pendiente? ¿Lo reconoces?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_078",
+      "hash": "F8377A321256FEA9",
+      "target": "Sí, piezas iguales se pusieron de moda en Yok Tural hace unos veinte años. Desde entonces es común llevar uno como amuleto de buen viaje."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_079",
+      "hash": "6ADD174570A394FF",
+      "target": "Hace veinte años, justo cuando mi abuelo hizo su viaje. Y el Servidor del Alba dio a entender que el pendiente estaba ligado de algún modo a la ciudad dorada. Seguro que significaba algo más que una simple moda..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_080",
+      "hash": "E4F4C6C18C576269",
+      "target": "Si quieres saber cómo llegó a fabricarse, puedo intentar averiguarlo. Como es un artículo que muchos comerciantes venden a diario, ¡yo también tengo curiosidad!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_081",
+      "hash": "FBE688608371C892",
+      "target": "Te lo agradecería muchísimo, gracias."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_082",
+      "hash": "9E966DCA01BB3A2C",
+      "target": "De cabeza al oficio de vendedora ambulante, ¿eh, Mablu?"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_083",
+      "hash": "10F85376C23AE7C0",
+      "target": "Bien, ya van dos piedras clave. ¡Yo digo que volvamos a Tuliyollal y planeemos el siguiente paso!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_084",
+      "hash": "0D012E1E80054D4C",
+      "target": "Bien, ¡volvamos a Tuliyollal y preparémonos para buscar al siguiente elector!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_085",
+      "hash": "76B6A86A90A5B415",
+      "target": "¡Adiós por ahora, y gracias por toda la ayuda! <italic(1)>Voy<italic(0)> a ser Servidora del Alba, ¡así que id apartando vuestro mejor mezcal para la ocasión!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_086",
+      "hash": "360163C5F6FD855B",
+      "target": "Tiene un rival temible en ese hermano suyo. Hasta doblegó a una alpaca dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_087",
+      "hash": "5DE23119CBF89311",
+      "target": "Pero has oído hablar a los partidarios de Zoraal Ja. Verán oportunidad en sus ansias expansionistas, pero el hombre en sí les impone. Les aterra, incluso."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_MABLU_000_088",
+      "hash": "70AB1288D19DFE96",
+      "target": "¡En cambio, a Wuk Lamat le he cogido cariño! ¡Todo el que la conozca se lo cogerá también, y por eso ganará el trono!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_TOBLI_000_089",
+      "hash": "2584C186A0F5F459",
+      "target": "Puede que tengas razón, Mablu. Puede que sí."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALPHINAUD_000_90",
+      "hash": "ADD31E7AEB1A3B9C",
+      "target": "Los Yok Huy dominaron una vez todo Yok Tural. Siento curiosidad por ver en qué han quedado."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALISAIE_000_91",
+      "hash": "8E92B1C8E1FA5491",
+      "target": "Me lo temía desde que lo vi, pero ganar la contienda a Zoraal Ja no será fácil."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_92",
+      "hash": "503822EB08AE7D56",
+      "target": "Nunca me atreví a esperar que hallásemos una pista del misterio del pendiente tan pronto."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_93",
+      "hash": "9BA32769B7E86DC2",
+      "target": "Dejando aparte los problemas de cuatro patas, Wuk Lamat superó la prueba y se ganó una piedra clave. Es lo único que importa."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_94",
+      "hash": "0585348B8CE7E683",
+      "target": "Con eso van dos de siete piedras clave... De momento, bien."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_095",
+      "hash": "F773973B332868C6",
+      "target": "Sienta bien tener la Prueba del Oro en el bolsillo... aunque mi victoria palidezca junto a Zoraal Ja y su reluciente alpaca dorada."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_096",
+      "hash": "4937D9EFE39E0933",
+      "target": "Sé que no debería afectarme, y bien saben los dioses lo mucho que me habéis apoyado, pero quiero ser fuerte, o sabia, como mis hermanos. Ser una Promesa a la que la gente respete."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_097",
+      "hash": "70F0683730C02CF8",
+      "target": "...¡Cosa poco probable si me quedo aquí dale que te pego! ¡Sigamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_098",
+      "hash": "9C1E30087E83E8D9",
+      "target": "¡De vuelta a Xbalyav Ty'e: la contienda apenas ha empezado!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALPHINAUD_000_100",
+      "hash": "75D04730156062B9",
+      "target": "He oído que hay aguas termales en Urqopacha. Quizá, si da tiempo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALPHINAUD_100_100",
+      "hash": "49EA100EBE4C852E",
+      "target": "No he olvidado nuestras obligaciones con Wuk Lamat, claro. Pero, tras sumergirnos en culturas ajenas, mis ganas de las nuevas experiencias que traiga esta aventura no han hecho más que crecer."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALISAIE_000_101",
+      "hash": "28D6DD7257884E8C",
+      "target": "Los Pelu me recuerdan a los Lalafell: nunca dejan que su tamaño los frene ni los retenga. Van a su ritmo, hacen sus tejidos y su mezcal, y crían alpacas que los lleven al mercado."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ALISAIE_100_101",
+      "hash": "1CD9F746C5E0817B",
+      "target": "Divagaciones aparte, hemos empezado bien con estas pruebas. Ojalá podamos mantenerlo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_000_102",
+      "hash": "FA2106F47B6CA234",
+      "target": "Ni Koana ni Bakool Ja Ja parecían estar en Wachunpelo... Imagino que andarán por ahí, avanzando igual que nosotros."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_KRILE_100_102",
+      "hash": "3FD7F74B55EF9E83",
+      "target": "Pero, en una contienda así, es cuestión de tiempo que los aspirantes acaben enfrentados en competencia directa."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_103",
+      "hash": "1C2B6FA58AC2B2C6",
+      "target": "Una alpaca dorada... Solo, quizá habría intentado rastrear a la bestia yo mismo."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_100_103",
+      "hash": "7D6F47E1D526963B",
+      "target": "...Viajar con un grupo tan grande y variado me resulta... poco familiar. Si ella pudiera verme ahora..."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_105",
+      "hash": "5980BAF75DE44F22",
+      "target": "Y así, sin más, encontramos a una electora y ganamos nuestra primera piedra clave. ¡Sabía que hacía bien fiándome de tu instinto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_106",
+      "hash": "CDAA801D5CCA6586",
+      "target": "¡Venga! ¡Sigamos moviéndonos y marchemos hacia Kozama'uka!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_107",
+      "hash": "6026B62BECA06358",
+      "target": "Hay buenas probabilidades de que allí también haya un elector. Pero, antes de nada, deberíamos ver qué dice vuestro paciente amigo Hanu."
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_108",
+      "hash": "FF14FAFA81322F9C",
+      "target": "¡Míranos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_WUKLAMAT_000_109",
+      "hash": "B5CECAC34BF512F6",
+      "target": "¡La contienda apenas ha empezado y ya tenemos dos piedras clave! ¡Seguro que ni mis talentosos hermanos van tan bien!"
+    },
+    {
+      "gameKey": "quest/048/KinGma118_04877#TEXT_KINGMA118_04877_ERENVILLE_000_110",
+      "hash": "9461BD0A39E66C3F",
+      "target": "Ojalá."
+    }
+  ]
+}

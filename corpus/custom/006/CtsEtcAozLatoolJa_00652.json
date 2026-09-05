@@ -1,0 +1,22 @@
+{
+  "conversation": "custom/006/CtsEtcAozLatoolJa_00652",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_Q1_000_000", "hash": "AF3C06F43A2E5936", "target": "¿Sobre qué quieres preguntar?" },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_A1_000_001", "hash": "096D271906E195C4", "target": "El registro de mago azul." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_A1_000_002", "hash": "ED42F56F29A9DF0D", "target": "Los objetivos semanales." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_A1_000_003", "hash": "03A5E2D9E1ADB8E2", "target": "Nada." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_010", "hash": "B20E77C1D855D276", "target": "El registro sirve, para anotar datos, de la investigación del maestro Martyn, sobre tácticas para grupos de magia azul." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_011", "hash": "F4ECA82F3E415580", "target": "Ir a sitios distintos, luchar contra criaturas distintas, anotar lo vivido. ¡Aunque es mucho más fácil, si va con otros magos azules!" },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_012", "hash": "30894C5E69890C2D", "target": "Claro, el gremio paga bien, la información útil. ¡Todos contentos!" },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_020", "hash": "354CF08EF11D21B3", "target": "El registro de mago azul permite formar grupos con otros magos azules y participar en misiones concretas." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_021", "hash": "EA0C3FEA5195B781", "target": "Completar estas misiones se recompensa con gil, Allied Seals y Allagan tomestones. Se obtienen mayores recompensas la primera vez que se completa una misión mediante el registro de mago azul." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_022", "hash": "43FDBF0976778035", "target": "Abra el grimorio de magia azul y seleccione la pestaña «Registro de mago azul» para acceder a él." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_023", "hash": "FD9388721C01489B", "target": "Desde el registro, puede ver una lista de misiones disponibles, reclutar compañeros de grupo e iniciar misiones." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_024", "hash": "662DFAD71B0001AB", "target": "Tenga en cuenta que completar misiones solo contará para el progreso del registro de mago azul si el grupo cumple los requisitos de tamaño. Por ese motivo, se recomienda evitar la opción «Sin restricción»." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_LATOOLJA_000_040", "hash": "511F2DB9918C2EB7", "target": "Los objetivos semanales, ayudan a centrarse en la investigación importante, y no en correr, «a lo loco». ¡Mejor información, mejores recompensas!" },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_041", "hash": "60E162015C0B640A", "target": "Se otorgan mayores recompensas por completar misiones marcadas como objetivos semanales." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_000_042", "hash": "D5243445B902A718", "target": "Además del objetivo semanal habitual, marcado con una estrella plateada en la lista de misiones, existe también un objetivo principal, marcado con una estrella dorada. Aunque el objetivo principal ofrece mayores recompensas, la dificultad es bastante mayor." },
+    { "gameKey": "custom/006/CtsEtcAozLatoolJa_00652#TEXT_CTSETCAOZLATOOLJA_00652_SYSTEM_100_043", "hash": "DA42F6D551FD938E", "target": "Los objetivos semanales se restablecen cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." }
+  ]
+}

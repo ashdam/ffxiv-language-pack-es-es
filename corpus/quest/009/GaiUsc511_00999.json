@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/009/GaiUsc511_00999",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_00", "hash": "4C3DD09A8168A211", "target": "<if(gnum4,Una buena aventurera,Un buen aventurero)> saca partido de sus puntos fuertes, y ya tienes cierta idea de cuál podría ser el de Aganbold tras unos cuantos encargos en su nombre." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_01", "hash": "A2BFB21CBB3BF36A", "target": "Según el zalamero Aganbold, la raíz de cola de caballo es un remedio de campaña que todo aventurero debería llevar. Como ni él ni tú tenéis ninguna a mano, lo mejor será que vayas al oeste, a la Maraña, y traigas ocho raíces." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_02", "hash": "F24AD85C6EA05030", "target": "Localizas la cola de caballo y cosechas ocho raíces. La pulpa tiene un aroma agradable y especiado; te resulta fácil creer que daría un brebaje reconfortante, al menos para los sentidos. En cuanto a la supuración... deja de estar en las nubes y habla con Aganbold." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_SEQ_03", "hash": "91E7E5EFFF219308", "target": "Le entregas las raíces a Aganbold y te libras de más trabajo rechazando tu parte de la cosecha. Poco caritativo quizá, pero sospechas que Aganbold te ha embaucado para que le hagas otro encargo..." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_00", "hash": "FF622B3ABA4AA22F", "target": "Recoger raíces de cola de caballo" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_TODO_01", "hash": "B225BED4C00320EF", "target": "Informar a Aganbold" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_000", "hash": "9F7E8201BBE2DC69", "target": "<if(gnum4,Hermana,Hermano)>, ¿te sobran unas raíces de cola de caballo? No me queda ninguna por culpa de esos jóvenes gorrones del Sudario Negro. Les dije: «El té de raíz os asentará esa tripa», y, sin darme cuenta, ¡les di todo lo que tenía!" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_001", "hash": "FEE74B37BABE33C3", "target": "¿Tampoco tienes tú? ¡Vaya, todo aventurero que trabaje por estos lares debería llevar encima! Una cataplasma de cola de caballo evita que las heridas se enconen, y tú tienes toda la pinta de <if(gnum4,acabar enconada,acabar enconado)>, donde las haya." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_002", "hash": "431B5D040FA2F032", "target": "Ya que andamos cortos los dos, ¿qué tal si vas a buscarnos unas cuantas? Con ocho raíces bastará, diría yo." },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_020", "hash": "8737D15BB650280E", "target": "¡Ahí estás, <if(gnum4,hermana,hermano)>! ¿Tienes lo que necesitamos?" },
+    { "gameKey": "quest/009/GaiUsc511_00999#TEXT_GAIUSC511_00999_AGANBOLD_000_030", "hash": "824F6F1BFC148C54", "target": "Una, dos... siete y ocho. Bien, habrá que prepararlas y, dado que los dos... ¿estás bien seguro? Querrás una cuando empiece a enconarse la cosa. Bueno, si tú lo dices. Me quedo con todas, ¡y te agradezco mucho el detalle!" }
+  ]
+}

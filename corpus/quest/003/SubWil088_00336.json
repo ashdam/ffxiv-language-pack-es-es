@@ -1,0 +1,347 @@
+{
+  "conversation": "quest/003/SubWil088_00336",
+  "questName": "Oh Captain, My Captain",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_000",
+      "hash": "1545F177A0E18B9D",
+      "target": "Es usted <if(gnum4,aventurera,aventurero)>, ¿verdad? Sé que es repentino, pero no tengo a nadie más a quien recurrir."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_001",
+      "hash": "60BFE7FAE7C33287",
+      "target": "Anoche, una pandilla de bandidos de la Mansión Quiveron estaban bebidos, y les oí sin querer hablar de sus planes..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_002",
+      "hash": "5282AA9846551ABA",
+      "target": "Al parecer han venido a recoger unas gemas robadas de Copperbell Mines. Nashachita, creo que oí decir a uno. Van a reunirse pronto con su cómplice, en los Pasos Perdidos..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_003",
+      "hash": "750A32A3BB34EE9F",
+      "target": "¿¡Q-q-qué ha dicho!?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_004",
+      "hash": "56219FA4E506F03E",
+      "target": "¡Intercambios ilícitos y turbios manejos! ¡Las Espadas de Latón no pueden tolerar semejante fechoría!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_005",
+      "hash": "66DFC82B6A69B22C",
+      "target": "Perdone que haya escuchado a escondidas, <split(<string(gstr1)>, ,1)>... Vine a la Cala del Creciente solo para darle las gracias en persona."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_006",
+      "hash": "63E94308A3421327",
+      "target": "¡Jamás imaginé que destaparía una conspiración criminal a las puertas mismas de Horizon!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_007",
+      "hash": "96E5D9F0C6A62140",
+      "target": "¡Debemos actuar deprisa si queremos atrapar a estos ladrones! ¡Avisaré al capitán Baldewyn de inmediato!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_008",
+      "hash": "596ADCC755A075B8",
+      "target": "¡No, espere! ¡No debe hacerlo! Oh, dioses..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_MERILDA_009",
+      "hash": "5D527AF617608B31",
+      "target": "¡Tiene que detenerlo antes de que sea tarde! ¡<italic(1)>El propio capitán Baldewyn<italic(0)> está compinchado con los bandidos!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_020",
+      "hash": "E83C8703EE122724",
+      "target": "¡Capitán Baldewyn, señor! ¡He descubierto algo espantoso, algo horrible!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_021",
+      "hash": "EE8D27BE01E50234",
+      "target": "Alguien ha estado robando gemas de Copperbell Mines y..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_022",
+      "hash": "70FA0D2E5CE77F14",
+      "target": "Un momento, esos guanteletes, esas botas... ¡pero si es usted uno de los hombres de Quiveron! ¡Señor, ese hombre es un ladrón y un rufián!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_023",
+      "hash": "51F8537C785FC1C0",
+      "target": "...¿Y? ¿Qué más da? Su dinero es bueno, y eso es lo que cuenta."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_024",
+      "hash": "3911A719D06400BC",
+      "target": "¿¡Qué!? Capitán Baldewyn... ¿¡está usted compinchado con estos hombres!? No puede ser..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_025",
+      "hash": "57CC977B8FADA436",
+      "target": "Te dije que te quedaras en Horizon, Fufulupa. No tenía por qué acabar así..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_026",
+      "hash": "83C5B0C6E2D4F96A",
+      "target": "Ellos tendrían su Nashachita, yo tendría mis giles, y nadie se enteraría."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_027",
+      "hash": "2846F18425187C3D",
+      "target": "P-p-pero, señor, ¿¡y si se descubren sus crímenes!? ¿¡Y si se entera el señor Lolorito!?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_028",
+      "hash": "5B2E679C28D7E036",
+      "target": "¡Maldito necio! ¿¡Es que no lo ves!?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_034",
+      "hash": "C7BEDE9B2B0E967C",
+      "target": "¡Actúo bajo la autoridad del mismísimo señor Lolorito!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_035",
+      "hash": "7ECB7A0ADA7CF54A",
+      "target": "No... ¡No! No puede ser verdad..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_035",
+      "hash": "0223517F1E1BD5E2",
+      "target": "¿Por qué crees que la gente se alista en las Espadas de Latón, Fufulupa? ¿Para servir y proteger? ¡Bah!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_029",
+      "hash": "EA6178D7283523D4",
+      "target": "¡Aquí no somos las malditas Llamas! ¡Hacemos esto por el dinero!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_ENEMY_031",
+      "hash": "245A72B37D312827",
+      "target": "¡Eh, tú, aventurero! ¿Te acuerdas de mí? ¡Pues yo sí me acuerdo de ti!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_ENEMY_032",
+      "hash": "B2B7F37BA056F0BD",
+      "target": "¡Soy Ser Baron von Quiveron IV Esquire! ¡Mataste a mi hermano, y ahora voy a devolverte el favor!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_033",
+      "hash": "4C4E8F87C2EF3575",
+      "target": "¡Bien, asunto zanjado! ¡Está claro que a todos nos conviene que muráis los dos!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_040",
+      "hash": "FF7D96DEA00FB44D",
+      "target": "¡Ya basta, Baldewyn!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_041",
+      "hash": "82C1417692852B64",
+      "target": "Tu socio está muerto y tus planes, deshechos. No te queda razón alguna para luchar."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_042",
+      "hash": "CD97CD6D64F2A8A7",
+      "target": "¡No te metas en esto, Leofric! ¡Yo no recibo órdenes tuyas!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_043",
+      "hash": "84AC716126154BC8",
+      "target": "Puede que te perdonara la vida en su día, pero, como te entrometas, no tendré piedad contigo."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_044",
+      "hash": "E97869FA0088EDC6",
+      "target": "¿Y qué piedad tendrá él contigo, me pregunto? Tú, que tanto has hecho en nombre de otro."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_045",
+      "hash": "B74AD438A69E0667",
+      "target": "¿¡De qué demonios estás parloteando!?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_046",
+      "hash": "C432D986BB2ED759",
+      "target": "Todos los pescadores de la Cala del Creciente sabían de tu encuentro, necio arrogante. Los hombres de Quiveron no supieron mantener la boca cerrada."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_047",
+      "hash": "18695AA7DB99646E",
+      "target": "Imagina la sorpresa del señor Lolorito al enterarse de que un simple soldado raso de las Espadas de Latón usaba su nombre para sus propios fines..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDEWYN_048",
+      "hash": "36982FB9F9AF4A95",
+      "target": "¿¡Lo sabe!? ¡Por los siete infiernos! Pero soy capitán, no se atrevería a..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_049",
+      "hash": "B08802B58FD415B2",
+      "target": "Yo también fui capitán en su día, ¿recuerdas? Y los dos sabemos lo que me pasó."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_050",
+      "hash": "645D309E2715B735",
+      "target": "Bien luchado, chico. Has hecho que las Espadas de Latón de la Rosa se sientan orgullosas."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_051",
+      "hash": "F5EF1C8341CC6709",
+      "target": "¡Capitán Leofric! El capitán Baldewyn, ha... ha dicho que el señor Lolorito..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_052",
+      "hash": "F9EC534FF041BE5B",
+      "target": "El señor Lolorito no perdería el tiempo con una operación de contrabando de tres al cuarto. Todo esto es obra de Baldewyn."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_053",
+      "hash": "2451785A1608752B",
+      "target": "¿Qué más dijo? ¿Que todos nuestros hermanos son igual de ruines, y que a cada uno de ellos solo le importa el dinero? ¡Bah! Meras excusas para justificar sus tejemanejes."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_058",
+      "hash": "46F1672340E648E5",
+      "target": "Cierto, no nos faltan codiciosos, algunos capaces de vender a su propia madre como esclava por el precio justo."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_054",
+      "hash": "29BBE945DA12E5FB",
+      "target": "Pero hay hombres como tú, Fufulupa: hombres buenos y leales, a quienes la gente humilde respeta."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_LEOFRIC_059",
+      "hash": "EDF9C06893332E70",
+      "target": "Por eso te di la daga. Las Espadas de Latón de la Rosa necesitan un líder con honor, y tú eres el hombre más honorable que conozco."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_055",
+      "hash": "937CF896F157922A",
+      "target": "\\<sorbe> \\<sollozo> ¡Capitááán!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_056",
+      "hash": "ADFFB6C09BC6A684",
+      "target": "¡Gracias por toda su ayuda, <split(<string(gstr1)>, ,1)>! El capitán y yo escoltaremos al capitán Baldewyn de vuelta a Horizon."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_057",
+      "hash": "B6A675732F1A616E",
+      "target": "¡Le ruego que me visite en el pueblo la próxima vez que vuelva!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_060",
+      "hash": "E42695FABCA99271",
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>! ¡Han pasado tantas cosas!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_061",
+      "hash": "38B6698BFA00E075",
+      "target": "El capit... ejem, <italic(1)>Baldewyn<italic(0)> ha sido detenido y despojado de su rango, lo que significa que las Espadas de Latón de la Rosa se han quedado sin capitán."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_062",
+      "hash": "2D2CAE55D2660948",
+      "target": "Hasta que se designe uno nuevo, se me ha ordenado servir como capitán en funciones de la guarnición de Horizon."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_063",
+      "hash": "15C06F4FE7D3DCBD",
+      "target": "Aunque sin duda es solo algo temporal, ¡haré cuanto esté en mi mano por representar a mis hermanos y proteger a la gente de Horizon!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_064",
+      "hash": "6F04C8F46116480D",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>, por sus servicios al sultanato. ¡Es usted <if(gnum4,una auténtica heroína,un auténtico héroe)>!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFURUPA_BATTLETALK_HP0",
+      "hash": "3232B3A5843242AB",
+      "target": "Capitán... ¿C-cómo ha podido...?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDWIN_BATTLETALK_SEQ1",
+      "hash": "D8F4DAB602741DA1",
+      "target": "¡Es hora de cumplir con tu deber, Fufulupa!<br>¡Hora de morir por tu país!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_BATTLETALK_SEQ1",
+      "hash": "97AF46ECE63B782B",
+      "target": "¿¡Por qué, capitán, por qué!? ¡Confiaba en usted!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDWIN_BATTLETALK_SEQ2",
+      "hash": "A0938C4E63099EB3",
+      "target": "¡Je, eres más fuerte de lo que pensaba!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_BALDWIN_BATTLETALK_SEQ3",
+      "hash": "B32A1FF68D77F009",
+      "target": "¡Malditos seáis los dos, lo estáis echando todo a perder!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_FUFULUPA_BATTLETALK_SEQ3",
+      "hash": "AD673DDD2B805E3C",
+      "target": "¡Cuidado con su lanza, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_TITLE",
+      "hash": "F0D427FBA0472017",
+      "target": "El deber llama. ¿Deseas proceder con “SUBWIL088”?"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_YES",
+      "hash": "9D27BA62107B834B",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SCENE00001_INSTANCE_BATTLE_YESNO_NO",
+      "hash": "28C070B0DB286F37",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SEQ_00",
+      "hash": "4097152EFFE770DD",
+      "target": "Puede que Merilda haya tropezado con un secreto..."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SEQ_01",
+      "hash": "EE7A8F0302CF4F14",
+      "target": "Fufulupa ha oído sin querer el relato de Merilda sobre los bandidos y sus planes para hacerse con la Nashachita robada de Copperbell Mines. Antes de que puedas detenerlo, el Espada de Latón corre a avisar a su oficial al mando... que, sin que Fufulupa lo sepa, está compinchado con los bandidos. ¡Encuentra al capitán Baldewyn antes que Fufulupa!"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SEQ_02",
+      "hash": "446070AC3A8E6CE0",
+      "target": "Llegas demasiado tarde para impedir que Fufulupa se enfrente a su capitán, y te ves obligad<if(gnum4,a,o)> a luchar contra el oficial corrupto y su aliado bandido. Baldewyn se mantiene desafiante incluso tras ser derrotado, hasta que el deshonrado capitán Leofric revela que Baldewyn actuaba en realidad sin el conocimiento del señor Lolorito y que, por tanto, sufrirá un severo castigo por sus crímenes. Vuelve a Horizon y habla con Fufulupa en cuanto tengas ocasión."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SEQ_03",
+      "hash": "2A25BCEBA1C35348",
+      "target": "A raíz de lo sucedido en los Pasos Perdidos, Baldewyn ha sido despojado de su rango, y las Espadas de Latón de la Rosa se han quedado sin capitán. Por ahora, Fufulupa servirá como capitán en funciones de la guarnición de Horizon. Aunque el joven Lalafell cree que se trata de algo temporal, jura hacer cuanto esté en su mano por proteger a la gente de Horizon."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_TODO_00",
+      "hash": "7EE3369A0FF841A8",
+      "target": "Hablar con el capitán Baldewyn"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_TODO_01",
+      "hash": "A56567C781077624",
+      "target": "Hablar con Fufulupa en Horizon"
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_SYSTEM_100_000",
+      "hash": "DF17F78A7B94CA5E",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    },
+    {
+      "gameKey": "quest/003/SubWil088_00336#TEXT_SUBWIL088_00336_QIB_TODO_001",
+      "hash": "BE2811F42D9C8201",
+      "target": "¡Derrota al capitán Baldewyn y a Baron von Quiveron IV!"
+    }
+  ]
+}

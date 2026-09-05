@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/030/BanAna406_03055",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_SEQ_00", "hash": "D2A4B8CF1B4DB4E2", "target": "Eshana necesita que tomes prestadas las alas de un grifo.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptarla." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_00", "hash": "2A21A2B7DFEEB926", "target": "Hablar con Giff" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_01", "hash": "E5C313EC1F63DA5E", "target": "Usar la ráfaga de alas del grifo contra los enjambres enfurecidos" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_TODO_02", "hash": "34CDA99F05EE152F", "target": "Informar a Eshana" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_000", "hash": "AB139AA8B35E2D18", "target": "Ah, justo la caminante que quería ver. Tenemos soldados en un ejercicio de entrenamiento conjunto, y han enviado una petición de ayuda. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_001", "hash": "6CE4AB9127F8CB61", "target": "Tal como están las cosas, necesitarás un grifo para prestar la asistencia necesaria. Giff te explicará la sssituación. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_000_010", "hash": "D69F9D226F9B2190", "target": "¿Vienes a echar una mano, <if(gnum4,muchacha,muchacho)>? No sé qué te habrá contado Eshana, pero parece que a nuestros combatientes los está acosando una plaga de diminutos bichos voladores. Auténticos <italic(1)>enjambres<italic(0)> de ellos." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_000_011", "hash": "EA3F390661D869E5", "target": "No sé qué habrán hecho los nuestros para molestarlos, pero, una vez que esas pestes se enfurecen, no hay quien las espante." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_000_012", "hash": "3E466A78A9A5D4BC", "target": "Mi plan es que vueles con un grifo hasta Virdjala y hagas que disperse a esos mordelones con una buena ráfaga de sus alas." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_000_013", "hash": "93DEB7E23E999CD7", "target": "Cuando termines, puedes bajarte donde quieras... el grifo está adiestrado para volver conmigo tras desmontar el jinete. Aunque lo más fácil sería que informes directamente a Eshana, claro." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_HIGHLANDERSSOLDIERA_000_020", "hash": "238DDB0CA489B3D0", "target": "¡Malditos engendros del averno! ¡Por cada uno que aplasto salen una docena más!" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_SYSTEM_000_021", "hash": "C77EF06C9A584753", "target": "Un enjambre de bichos ataca a este soldado. Habla con Giff en Castellum Velodyna y toma prestado un grifo por su ráfaga de alas." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ANANTASOLDIERA_000_022", "hash": "A532BA52C0EB465C", "target": "¡He dado manotazos y zarpazos cien veces y no lo dejan en paz! Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_HIGHLANDERSSOLDIERA_000_023", "hash": "F10C8CB0B674B610", "target": "¡Uf! ¿Por qué has...? ¡Ah, se han ido! ¡Gracias a Rhalgr!" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ANANTASOLDIERA_000_024", "hash": "0437323DC1BD9B8D", "target": "...Y gracias a <italic(1)>ti<italic(0)>. Si no hubieras venido, a mi camarada lo habrían picado y aguijoneado hasta la muerte. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_HIGHLANDERSSOLDIERA_000_025", "hash": "985596767B1CA011", "target": "Sí, no es exactamente el tipo de entrenamiento para el que me apunté. Más nos vale buscar otro sitio donde entrenar." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_HIGHLANDERSSOLDIERB_000_026", "hash": "3C011CB226AA3BEA", "target": "¡Malditos demonios alados! ¡Alejaos de mí!" },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ANANTASOLDIERB_000_027", "hash": "14F8BBF609CCA9FD", "target": "¡Vamos! ¡Fuera! ...Ugh, ¡es inútilll! Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_HIGHLANDERSSOLDIERB_000_028", "hash": "96499FC721C7BEA0", "target": "Uf... Muchas gracias. Creía que esos pequeños cabrones me iban a comer vivo..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ANANTASOLDIERB_000_029", "hash": "BC88D7044D3625C0", "target": "Esas pesstes me ignoraron y volaron derechas hacia él. Curioso. Volvamos por ahora, y que le curen las heridas a esta caminante. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_100_029", "hash": "5E3C13DC5185B411", "target": "¿Perdiste tu grifo? Toma, procura quedarte en la silla esta vez." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_030", "hash": "1EA0608919248410", "target": "¿Tuvo éxito el plan de Giff? Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_031", "hash": "2CA9A4D8576B0DB4", "target": "Es un alivio. Que las alas de un grifo te barran probablemente fue desagradable, pero mejor eso que sufrir una muerte lenta a manos de un enjambre. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_033", "hash": "F252698AD56ED8C3", "target": "Mis hermanas me dicen que solo atacaban a los de cierta esstirpe... parece que les gusta la sangre de los Highlander. Es un milagro que no corrieras la misma suerte. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_034", "hash": "D79B646BEFA126F0", "target": "Mis hermanas me dicen que solo atacaban a los de cierta esstirpe... parece que les gusta la sangre de los Highlander. Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_ESHANA_000_035", "hash": "120D6BE022C903D7", "target": "Y hablando de eso, por lo visto a Giff le aterran esos insssectos. Debió de alegrarse mucho de que llegaras a hacer el rescate en su lugarrr... Sss..." },
+    { "gameKey": "quest/030/BanAna406_03055#TEXT_BANANA406_03055_GIFF_100_045", "hash": "44B4785C980AD6DA", "target": "¿Ya has espantado a esos bichillos, entonces? Ve a Eshana y dale la buena noticia." }
+  ]
+}

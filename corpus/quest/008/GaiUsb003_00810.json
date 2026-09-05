@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/008/GaiUsb003_00810",
+  "questName": "Hungry Hungry Goobbues",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_00", "hash": "30F6B9F5161FD3F9", "target": "Trachtoum parece estar ignorándote." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_01", "hash": "B72E99EAEC7740C9", "target": "A Trachtoum le preocupa que te falte fuerza para enfrentarte a un primigenio en combate. Si quieres demostrarle tu valía, dirígete al oeste de la Flota Gris, busca goobbues por la zona y abátelos si se acercan." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_02", "hash": "FD7BE4EF197B697B", "target": "Aunque las indicaciones de Trachtoum casi te meten en las fauces de un goobbue, despachas a la enorme bestia sin mayor dificultad. Vuelve con Trachtoum y cuéntale tus logros." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_SEQ_03", "hash": "C646343902A70183", "target": "Tus hazañas dejan atónito al veterano mercenario, pero no bastan para ganarte su confianza. Parece que aún te queda mucho por hacer..." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_00", "hash": "29B390C8767940A3", "target": "Buscar goobbues al oeste de la Flota Gris" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TODO_01", "hash": "7E11C50DFA7D7DC7", "target": "Informar a Trachtoum" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_000", "hash": "D8A63B58C7FA573F", "target": "...¿Qué? ¿Todavía preguntas cómo vencimos a Titón? No sé yo, <if(gnum4,aventurera,aventurero)>... fue una estrategia bastante arriesgada, de esas que solo un veterano de doscientas batallas puede usar." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_001", "hash": "AD1C6A6AF5A07A73", "target": "¡Quiero enseñártelo, de verdad que sí! Pero, hasta que no demuestres que tienes lo que hay que tener para plantarle cara a ese gordo cabrón, ¡no puedo contarte nada en conciencia!" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_002", "hash": "46853AE2E571C05A", "target": "Como mínimo, tendrías que ser capaz de matar, no sé, a un goobbue..." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_003", "hash": "E2F657BEFA39492C", "target": "Ahora que lo pienso, no es mala idea. A esos bichos les pirra la harina que molemos aquí, así que no te costará encontrar uno por los alrededores." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_004", "hash": "811BDD3BB774FFDA", "target": "¡Claro que no te pido que lo derribes tan rápido como un hachero habilidoso como yo!" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_005", "hash": "094D7178545076E6", "target": "En fin, ¿por qué no vas derecho al oeste y montas guardia por si aparece un goobbue? Mátalo y quizá me plantee contarte más sobre el viejo Titón." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_020", "hash": "165747E43BF50202", "target": "¿Eh? ¿Otra vez tú? ¿Así que ese goobbue que fastidiaba a los molineros está muerto?" },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_021", "hash": "40644A19879CC44F", "target": "No creí que lo tuvieras en ti, <if(gnum4,aventurera,aventurero)>. Aun así, tardaste una eternidad en hacer el trabajo. Sigo sin saber si debería contarte nuestros secretos..." },
+    { "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_POP_MESSAGE_000", "hash": "1C3ACC5D82EF3C7E", "target": "Notas cómo la tierra tiembla bajo tus pies..." }
+  ]
+}

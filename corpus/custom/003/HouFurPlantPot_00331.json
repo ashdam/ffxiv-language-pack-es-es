@@ -1,0 +1,25 @@
+{
+  "conversation": "custom/003/HouFurPlantPot_00331",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_NONE", "hash": "45137CD5D79EDFFA", "target": "No hay nada plantado en esta maceta." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_END_EVENT", "hash": "41FF65370503DEB1", "target": "Salir" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_SET_SEED", "hash": "33A1752CF3CAE6F8", "target": "Plantar semillas" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_SET_FERTILIZER", "hash": "D2B682BB638A8D4D", "target": "Abonar el cultivo" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_CARE", "hash": "AEEB715ECFC04B33", "target": "Cuidar el cultivo" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_DISPOSE", "hash": "41A70D41F5275771", "target": "Arrancar el cultivo" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_HARVEST", "hash": "22C20104F3FBA0A1", "target": "Cosechar el cultivo" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_DEAD", "hash": "418DFEB429AF7D6D", "target": "<sheet(Item,lnum1,9)><br>Este cultivo no tiene remedio." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_VIGOROUS", "hash": "20EA9E53AE5D8E53", "target": "<sheet(Item,lnum1,9)><br>Este cultivo va bien." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_DEPRESSED", "hash": "4CDB70E24A2A2E9A", "target": "<sheet(Item,lnum1,9)><br>Este cultivo ha conocido días mejores..." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_RIPE", "hash": "093F8B2B3878B9EB", "target": "<sheet(Item,lnum1,9)><br>Este cultivo está listo para cosechar." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE", "hash": "3C483309579D4186", "target": "¿Seguro que quieres arrancar este cultivo?" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_YES", "hash": "868CB0B9B078B4E0", "target": "Sí" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_NO", "hash": "E8FBADBEDFE6CF31", "target": "No" },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS", "hash": "D3FC91CF2072B613", "target": "El cultivo de <lower(<sheet(Item,lnum1,9)>)> ha arraigado y va bien." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED", "hash": "3C393151C2B541D5", "target": "El cultivo de <lower(<sheet(Item,lnum1,9)>)> ha arraigado, pero ha conocido días mejores..." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT", "hash": "4908E77CD52EE83F", "target": "Quizá dé <switch(lnum1,flores rojas,flores azules,flores amarillas,flores verdes,flores naranjas,flores moradas,flores\\, aunque quién sabe de qué color serán)>..." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN", "hash": "2C4BDAB55F802982", "target": "Quizá dé flores <switch(lnum1,rojas,azules,amarillas,verdes,naranjas,moradas)>, o quizá flores de un tono más inusual..." },
+    { "gameKey": "custom/003/HouFurPlantPot_00331#TEXT_HOUFURPLANTPOT_00331_FLOWERED", "hash": "FF37AEC8A445BAAD", "target": "<sheet(Item,lnum1,9)><br>Estas flores están floreciendo." }
+  ]
+}

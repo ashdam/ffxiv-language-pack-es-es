@@ -1,0 +1,295 @@
+{
+  "conversation": "quest/048/KinGma109_04868",
+  "questName": "A Well-mannered Shipwright",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_SEQ_00", "hash": "A870CD16AF50AE32", "target": "Linuhanu quiere llevarte ante el carpintero de ribera." },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_00", "hash": "7D9B13B77594BBC8", "target": "Hablar con Linuhanu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_01", "hash": "B7BAAB7030A1DEE8", "target": "Hablar con Wuk Evu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_02", "hash": "C400AAD23BCD10AD", "target": "Hablar con Linuhanu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_03", "hash": "546151B26FAA2CCA", "target": "Hablar con Krile" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_04", "hash": "24AD54A1455BEA99", "target": "Hablar con Linuhanu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_05", "hash": "AB5F1D7F07D51714", "target": "Buscar en la cueva de Kikitola y obtener raw abokixa" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_06", "hash": "BFAC3ED8D64B49D2", "target": "Mostrar raw abokixa a Linuhanu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_07", "hash": "278D06D79A4820C1", "target": "Entregar raw abokixa a Wuk Evu" },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_TODO_08", "hash": "094F6E2AECFE553F", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_001",
+      "hash": "9B1DFDC966199ED7",
+      "target": "¡Ahora sí que avanzamos! ¡La solución a los males de Ok'hanu está prácticamente encontrada!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_005",
+      "hash": "5D136BC67B1C070A",
+      "target": "¿Qué clase de carpintero repara barcas tejidas con juncos...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_010",
+      "hash": "338404CAFA4F5EF7",
+      "target": "El carpintero se llama Wuk Evu. Es un Xbr'aal que se mudó a Kozama'uka hace solo unos años, pero desde entonces domina nuestras costumbres hasta un punto casi inquietante."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_011",
+      "hash": "CA4B0E2E4D8BAF99",
+      "target": "Es especialmente estricto con los modales, así que aseguraos de saludarlo como es debido entre los Hanuhanu. No querríamos ofenderlo justo antes de pedirle un favor."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_012",
+      "hash": "9CD43F56333D94FA",
+      "target": "¿Un saludo Hanuhanu como es debido...? ¡Ah, <italic(1)>ese<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_013",
+      "hash": "C781C0608956C596",
+      "target": "¡Tranquilo, que me acuerdo de cómo va!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_014",
+      "hash": "16A018BE60501F0C",
+      "target": "Entonces no deberíamos tener problemas. Vayamos a Ok'bek'be, al este de aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_100_020",
+      "hash": "8516FDCA639A6D9A",
+      "target": "¡Mirad allí! ¿Veis esa escalera enorme y serpenteante?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_100_021",
+      "hash": "D97284ED98168047",
+      "target": "Ah, parece que aquí tienen un sitio donde pueden alojarse los visitantes. Se ve acogedor."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_200_022",
+      "hash": "4B2CDF457844F714",
+      "target": "Este es Ok'bek'be, el Pueblo de Todos. Quienes llegan a Kozama'uka desde Tuliyollal y de otras partes pueden vivir aquí junto a los Hanu."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_300_023",
+      "hash": "9F93C89F82D8C20A",
+      "target": "En cuanto a Wuk Evu, vive y trabaja en el Chalet de la Isla de las Aguas Claras, en lo alto de ese árbol grande de ahí al lado. Seguidme, pero os aviso: subir las escaleras puede costar."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_020",
+      "hash": "4FE14E7976632C9F",
+      "target": "O-ho-ka-liy... Ohokaliy..."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_025",
+      "hash": "F934D81C16873759",
+      "target": "Debería mencionar que Wuk Evu no solo es un maniático de la etiqueta. También es... Bueno, ya lo descubriréis."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_030",
+      "hash": "050C146015BDE76D",
+      "target": "<italic(1)>Necesitamos<italic(0)> la ayuda de ese hombre, así que en cualquier caso conviene no ser groseros."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_040",
+      "hash": "6C2261DF15DC20CD",
+      "target": "¡Un tipo bastante excéntrico, pero me parece que tiene buen corazón!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_045",
+      "hash": "748A44C88DB6F89F",
+      "target": "La cueva de Kikitola está al suroeste de Ok'hanu. Podemos volver primero al poblado y luego ir a pie."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_050",
+      "hash": "A5EA582E02F2493D",
+      "target": "Casi le envidio la facilidad con que pasa de un humor a su contrario. Al menos supongo que lo hace queriendo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_055",
+      "hash": "F2AA5DAD4250A872",
+      "target": "Al suroeste de aquí, ¿verdad? Pongámonos en marcha."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_060",
+      "hash": "6C40119F859AC65C",
+      "target": "¡Mira, se ve la cascada al fondo de la cueva! Estos huecos debe de haberlos excavado el diluvio constante de agua desde arriba..."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_065",
+      "hash": "E17A179A01E314D4",
+      "target": "La cueva de Kikitola, como prometí. Hogar de muchas criaturas letales. Adentraos si os veis capaces, pero yo buscaré por mi cuenta aquí fuera."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_066",
+      "hash": "D07A2375807BD976",
+      "target": "El abokixa en bruto se reconoce por su brillo verdoso. Traedme cualquier cosa que encaje con esa descripción."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_067",
+      "hash": "935F7A7CA8DF8455",
+      "target": "Entonces yo ayudaré a peinar el interior de la cueva. ¡Tú coge la mitad oeste y yo la este!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_070",
+      "hash": "9DC5A8D929D7B6CE",
+      "target": "Me da reparo mandaros al peligro por el palanquín, pero si estáis dispuestos..."
+    },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_SYSTEM_000_075", "hash": "438072D3D7662088", "target": "Al mirar de cerca, descubres que el brillo que habías visto no era más que la luz reflejada en el agua..." },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_SYSTEM_000_076", "hash": "6B65CD8A917C7892", "target": "Un guijarro reluciente te llama la atención, pero es de color gris en vez de verde." },
+    { "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_SYSTEM_000_077", "hash": "12924723D2211E71", "target": "Encuentras un trozo de piedra que brilla con un tono verde inconfundible. Parece justo la clase de mineral que buscaba Linuhanu." },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_080",
+      "hash": "B1DCDE795775E17B",
+      "target": "A algunos habitantes de la cueva les molestó mi presencia, pero nada que no arreglaran unas cuantas pinceladas."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_085",
+      "hash": "0F30014D774CE0DB",
+      "target": "He rebuscado por el suelo cerca de la entrada y no he encontrado nada. ¿Habéis tenido más suerte dentro de la cueva?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_086",
+      "hash": "6538536E59CF53A3",
+      "target": "Sí, esto es abokixa. Con lo que ha aportado Krile, tenemos de sobra para lo que necesitamos."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_087",
+      "hash": "01AF8637CD08D202",
+      "target": "Las piedras que habéis traído brillan muchísimo. Os lo agradezco a los dos."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_100_088",
+      "hash": "A5A37E1414CB4979",
+      "target": "...Le habría alegrado saber que estamos arreglando las cosas."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_088",
+      "hash": "34ED2F9E439FB8B6",
+      "target": "A decir verdad, un buen amigo mío iba a ser el responsable de la Ihih'hana de este año."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_089",
+      "hash": "46984A445D649A3E",
+      "target": "Pero cuando llegó aquella gran tormenta, él... él no sobrevivió. Me tocó a mí seguir en su lugar."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_090",
+      "hash": "07958973A3831CA1",
+      "target": "Por eso accediste a lo que pedía Wuk Lamat, pese a tu reticencia inicial."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_091",
+      "hash": "9E3454864F390538",
+      "target": "Sí. Dolió oírlo, pero tenía razón. Debo guardar luto, pero no puedo dejar que la pena me consuma."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_092",
+      "hash": "D8FC784B016D453B",
+      "target": "Sus palabras me hicieron ver que el camino hacia mi recuperación, hacia la nuestra, ya está trazado ante mí. Y lo voy a recorrer. Por mí y por mi amigo."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_093",
+      "hash": "45D24009A2BEA074",
+      "target": "Gracias por contarnos tu historia. Ten por seguro que nos hemos tomado muy a pecho vuestra situación."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_094",
+      "hash": "25343A96ACD8A891",
+      "target": "Seguro que nuestros compañeros están consiguiendo los demás materiales mientras hablamos."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_095",
+      "hash": "070942F308A30505",
+      "target": "¡Todo saldrá adelante y los Hanu celebrarán una fiesta espléndida que levantará el ánimo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_096",
+      "hash": "193C1D98771472AF",
+      "target": "¡Así será!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_097",
+      "hash": "D92DA26E71B38DA7",
+      "target": "Dicho esto, volvamos y pongamos el abokixa en las manos de Wuk Evu, que espera."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_100",
+      "hash": "11D91EF7A87C10C5",
+      "target": "Acabamos de volver nosotros también. ¿Encontrasteis la piedra?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_105",
+      "hash": "0AEA7F85C3CB1345",
+      "target": "Espero que a Wuk Lamat le haya ido tan bien como a nosotros."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_110",
+      "hash": "CD317E6D918FF5A1",
+      "target": "Hemos llegado muy lejos para parar. ¡El Alzamiento de Alas debe seguir!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_115",
+      "hash": "CA6910BD067DD12A",
+      "target": "Gracias a la Tercera Promesa y a sus poderosos hachazos, hemos reunido unos troncos de uyuipo apropiados. ¿Y el abokixa?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_116",
+      "hash": "8A38D4CDB7CE576B",
+      "target": "Sí, son ejemplares excelentes. Y en buena cantidad."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_117",
+      "hash": "74C0571E06A5F627",
+      "target": "A estas alturas habréis supuesto que el Alzamiento de Alas favorece el crecimiento de las cosechas, pero no exactamente <italic(1)>cómo<italic(0)>, ¿eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_118",
+      "hash": "5780BD8CB710D9DE",
+      "target": "Pues os espera una sorpresa. Si todo sale según lo previsto, el resultado será <italic(1)>espectacular<italic(0)>."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_119",
+      "hash": "E51BA03DA04FCADD",
+      "target": "Ahora, a ponerse a trabajar en estas piezas del palanquín. Me vendría bien un ayudante versado en las artes arcanas para mejorar la conductividad del uyuipo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_100_121",
+      "hash": "34434E9DF03ACD49",
+      "target": "Pues yo estaré encantada de ayudar."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_121",
+      "hash": "79EB4A47CB17831D",
+      "target": "Los demás deberíais volver a Ok'hanu. Nos reuniremos con vosotros junto al palanquín cuando acabemos aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_KRILE_000_130",
+      "hash": "9528603885A371AE",
+      "target": "¡Tengo muchas ganas de ver cómo sale Ihih'hana!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKEVU_000_135",
+      "hash": "EB75BE25D5DBE781",
+      "target": "Los últimos retoques son bastante rutinarios y no llevarán mucho. Id yendo y esperad junto al palanquín."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_LINUHANU_000_140",
+      "hash": "BD01505975CDC2A6",
+      "target": "Como ha dicho Wuk Evu, la fiesta es de verdad un espectáculo digno de verse."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_145",
+      "hash": "0F0C07DF741F791B",
+      "target": "Conseguir el uyuipo fue una prueba en sí misma."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_146",
+      "hash": "B5C8E65690FA1507",
+      "target": "Al principio Wuk Evu criticaba todo lo que yo hacía. Luego, de pronto, gritó “¡He hablado mal de la Tercera Promesa y debo castigarme!” y se puso a darse cabezazos contra un árbol de uyuipo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_147",
+      "hash": "F4F4A5AF8E91031B",
+      "target": "Le dije que no se preocupara, otra vez, y fue como apagar una vela. ¡Desde luego, es un tipo raro!"
+    },
+    {
+      "gameKey": "quest/048/KinGma109_04868#TEXT_KINGMA109_04868_WUKLAMAT_000_148",
+      "hash": "CB5CC8AF752DFB7B",
+      "target": "Al menos ya tenemos resueltas las varas y el ojo nuevo. ¡Ahora solo hay que esperar las plumas de los gemelos!"
+    }
+  ]
+}

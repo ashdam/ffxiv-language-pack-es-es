@@ -1,0 +1,19 @@
+{
+  "conversation": "custom/003/RegRoc2SkyIslandShop_00312",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_000", "hash": "3B451FB0BB6886BB", "target": "¿Va a inscribirse en la próxima misión? De ser así, tendrá que presentar el comprobante de compra de un tanque de ceruleum." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_010", "hash": "E170CB1713ADBDD7", "target": "...Ah, mil perdones, <if(gnum4,señorita,señor)>. Dados los peligros que nuestros grupos suelen afrontar en estas expediciones, solo podemos aceptar a los más experimentados." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_011", "hash": "5531030969E25F99", "target": "Para embarcarse en una misión de exploración ishgardesa, usted y su grupo deben cumplir los siguientes requisitos:" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_012", "hash": "FB2BE5D9D30BE9CF", "target": "※Debe haber completado la misión de la historia principal «Hacia los cielos»." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_013", "hash": "2A4F593723A8CF24", "target": "Debe ser un Disciple of War or Magic de nivel 60." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_SYSTEM_000_014", "hash": "22CB440A2A52E7AF", "target": "Para revisar tu progreso en las misiones, selecciona <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)> en el menú principal y, a continuación, <colortype(500)><edgecolortype(501)>Diario de misiones<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_JAQUOINIE_000_020", "hash": "9BA53382253435B3", "target": "Espere... ¿ha hablado ya con el señor Aurvael? Me lo imaginaba. Sería mejor que lo hiciera primero." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q1_000_000", "hash": "44E1F4C7E1A92473", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_001", "hash": "55690D90E786CF8F", "target": "Comprar <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> <ennoun(Item,3,lnum1,lnum2,1)> por <kilo(lnum3,\\,)> de gil." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A1_000_002", "hash": "D89C689FD9C2344E", "target": "Nada." },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_Q2_000_000", "hash": "7B2AB97B70B632C2", "target": "¿Comprar <if(lnum2,<if([lnum2<=10],<switch(lnum2,uno,dos,tres,cuatro,cinco,seis,siete,ocho,nueve,diez)>,<num(lnum2)>)>,<num(lnum2)>)> de lo siguiente por <kilo(lnum3,\\,)> de gil?" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_001", "hash": "5DCC53E9F1F5476E", "target": "Sí" },
+    { "gameKey": "custom/003/RegRoc2SkyIslandShop_00312#TEXT_REGROC2SKYISLANDSHOP_00312_A2_000_002", "hash": "3A5C5BE3E099CB2F", "target": "No" }
+  ]
+}

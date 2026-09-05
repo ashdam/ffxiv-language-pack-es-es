@@ -1,0 +1,21 @@
+{
+  "conversation": "guild_order/GuildOrderGuide",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_TITLE", "hash": "012CE32C104E897C", "target": "¿Qué le interesa hoy?" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_00", "hash": "F5E2704C09D21B2F", "target": "Participar en un guildhest." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_01", "hash": "9E0E895A667A537F", "target": "Saber más sobre los guildhests." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_MENU_02", "hash": "DD157D045060BB90", "target": "Nada." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_STAGE_MENU_TITLE", "hash": "AA81D1747CBF84A1", "target": "Elija una operación." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_SELECT_STAGE_MENU_CANCEL", "hash": "78E005FBF58BA15F", "target": "Nada." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_TITLE", "hash": "B5AC8B3DD49F01CD", "target": "¿Comenzar la operación?" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_YES", "hash": "CF1467880C8B9046", "target": "Sí" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_START_MENU_NO", "hash": "BE6AF37340994896", "target": "No" },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_00", "hash": "8B61FC6657494273", "target": "Los guildhests son operaciones a pequeña escala para grupos, supervisadas por el Gremio de Aventureros." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_01", "hash": "B05AFFBA88415412", "target": "Además de desarrollarse en instancias, los combates tienen distintos límites de tiempo." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_02", "hash": "1185AFE72F573802", "target": "La recompensa por completar la operación depende del desempeño de su grupo. Se concede una bonificación la primera vez que se completa un guildhest con cada clase." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_03", "hash": "EE149A8CFE8AEF5F", "target": "También se concede una bonificación por completar la operación con el menor número posible de caídas en combate." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_INFO_TALK_04", "hash": "9F8C4D6BDD56D9E8", "target": "Se irán habilitando nuevas operaciones a medida que suba de nivel o complete los guildhests existentes. Algunas operaciones solo pueden desbloquearse hablando con determinados guardianes de batalla." },
+    { "gameKey": "guild_order/GuildOrderGuide#TEXT_GUILDORDERGUIDE_ERROR_TALK", "hash": "21ECD85496B5887A", "target": "No ha podido comenzar «<sheet(InstanceContent,lnum2,3)>»." }
+  ]
+}

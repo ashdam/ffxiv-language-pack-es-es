@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/009/GaiUsb809_00918",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_00", "hash": "D22CE01D85453811", "target": "Cuando un comerciante está airado, suele haber dinero que ganar resolviendo un problema... y Edwyn tiene un aspecto de lo más airado." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_01", "hash": "5C577FE1736C8DF1", "target": "Un pedido de ceruleum aún no ha llegado de Ul'dah, y Edwyn está furioso con el proveedor. Ve a los mercados de la Lonja de la Avenida Zafiro, busca a Syntgoht y expresa tu /doubt ante sus palabras; quizá suelte la verdad." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SEQ_02", "hash": "C97C2CF5FCF66322", "target": "Bajo el peso de tu escepticismo, Syntgoht admite que hay un problema con el cargamento de ceruleum e insinúa que él es tan víctima como Edwyn. Temes que sus evasivas no hagan mucho por aliviar la desconfianza de Edwyn hacia los uldahíes." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_TODO_00", "hash": "AF19C694954A1617", "target": "Interrogar a Syntgoht con mucho /doubt" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_000", "hash": "A9C73720F115E61D", "target": "¡Eh, usted! No hay tiempo para cortesías, estoy esperando ceruleum. ¡Ese ratero uldahí que se hace llamar comerciante lleva retraso con su envío!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_001", "hash": "42FCCA4960F719FC", "target": "El ceruleum arde como una tabernera en invierno, y no se puede prescindir de él para fabricar la pólvora de las balistas. Maldito sea ese Syntgoht... ¿Con qué se cree que estamos luchando aquí, con mariquitas?" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_002", "hash": "51E9A9913654E847", "target": "¡Tiene pinta de disfrutar de un poco de calor! Averigüe dónde está mi pedido de ceruleum: vaya a ver a Syntgoht y, ya sabe, apriétele las clavijas un poco. Interróguelo, vaya." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_EDWYN_000_003", "hash": "65615B7AF9B387E5", "target": "Se lo digo, esos uldahíes... <switch(gnum70,¡rápidos para cobrar\\, no para trabajar!,¡rápidos para cobrar\\, no para trabajar!,rápidos para cobrar\\, no para trabajar... presente excluido\\, ¡por supuesto!)> No hay que fiarse de ellos, ¡y menos de esos de la Lonja de la Avenida Zafiro!" },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_010", "hash": "C3839D4060285D7B", "target": "¡Bienvenido, <italic(1)>bienvenido<italic(0)>! ¿Qué podría un cliente exigente... Ah, ¿no viene a comprar? Entonces, ¿me permite sugerirle que mire en silencio? Estoy bastante ocupado." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_020", "hash": "53950C31E93DD93E", "target": "¿De parte de Edwyn, en Coerthas? Vaya por Dios. Amigo mío... ¿puedo llamarle así? Ah, bueno, pues <split(<string(gstr1)>, ,1)>, hay un problema con el ceruleum y, si cree que Edwyn está molesto, no tiene ni idea de lo difícil que resulta esto para <italic(1)>mí<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsb809_00918#TEXT_GAIUSB809_00918_SYNTGOHT_000_030", "hash": "330F6BC54A059885", "target": "Escuche, amigo, aquí solo hay dos opciones para usted: una <italic(1)>ganga<italic(0)>, o ¡a la <italic(1)>calle<italic(0)>! Estoy en pleno inventario y no tengo tiempo para sus bobadas." }
+  ]
+}

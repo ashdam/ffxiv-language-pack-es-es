@@ -1,0 +1,46 @@
+{
+  "conversation": "cut_scene/070/VoiceMan_07010",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000010_METEM",
+      "hash": "7C00936981F68AB8",
+      "target": "¡Una novata en ascenso con garras afiladísimas: la felina feroz, Black Cat!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000020_REFEREE",
+      "hash": "F09B7A0BC56BCA65",
+      "target": "¡K.O.!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000030_METEM",
+      "hash": "9A215319F4F86F3E",
+      "target": "¡Combate decidido! ¡La victoria es para <if(gnum4,la retadora,el retador)>!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000040_METEM",
+      "hash": "D72C67FE9DE83069",
+      "target": "¡La estrella con aguijón: adorable pero letal, dulce pero venenosa... Honey B. Lovely!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000050_METEM",
+      "hash": "7FBE61FA363CC2E1",
+      "target": "¡Esta noche vuelve a estallar en el cuadrilátero... el hombre al que encanta odiar con pasión ardiente: Brute Bomber!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000060_METEM",
+      "hash": "5DD5CE8CEFE804C8",
+      "target": "¡Magia y máquina en las mismas manos: la bruja de una nueva era, la asombrosa Wicked Thunder!"
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000070_WICKEDTHUNDER",
+      "hash": "9C9627C62134D777",
+      "target": "Maldita sea... No queda más que retirarse."
+    },
+    {
+      "gameKey": "cut_scene/070/VoiceMan_07010#TEXT_VOICEMAN_07010_000080_METEM",
+      "hash": "5FC90E025FA3FE80",
+      "target": "¡Giro impactante: Wicked Thunder ha huido del cuadrilátero! ¡Victoria para <if(gnum4,nuestra imparable advenediza,nuestro imparable advenedizo)>!"
+    }
+  ]
+}

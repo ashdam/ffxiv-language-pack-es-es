@@ -1,0 +1,397 @@
+{
+  "conversation": "quest/049/KinGmc105_04901",
+  "questName": "A Father's Grief",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_SEQ_00", "hash": "9BB148247681A9C1", "target": "La próxima prueba aguarda, y Alphinaud quiere que os pongáis en camino cuanto antes." },
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_TODO_00", "hash": "E3E794239BF192B2", "target": "Buscar aldeanos de mediana edad o mayores" },
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_TODO_01", "hash": "E61C029301B0E7CA", "target": "Hablar con Hunmu Rruk" },
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_TODO_02", "hash": "D684DC06D47AE7F3", "target": "Volver a hablar con Hunmu Rruk" },
+    { "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_TODO_03", "hash": "4BF26B732F5954F6", "target": "Hablar una vez más con Hunmu Rruk" },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_001",
+      "hash": "5ADB3C5B68E2DB2A",
+      "target": "Ahora debemos apresurarnos hacia la siguiente prueba. Aunque me descubro algo reticente a hacerlo, después de lo que nos dijo Mablu al despedirse..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ERENVILLE_000_005",
+      "hash": "8342CA9203CDEC7E",
+      "target": "Queda una última prueba. Después de esta, ya no sé ni qué esperar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_010",
+      "hash": "BBE07C18B6D4A1F7",
+      "target": "¡Prueba de la Hermandad, allá vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALISAIE_000_015",
+      "hash": "1B5469FB9E66F6E7",
+      "target": "Tenemos que empezar a pensar cómo recuperarle esa piedra clave a Bakool Ja Ja..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALPHINAUD_000_020",
+      "hash": "EB143E93DC24D6BC",
+      "target": "Ya que afrontamos el penúltimo objetivo del rito, sería prudente viajar a Mamook y emprender la Prueba de la Hermandad sin demora."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ERENVILLE_000_021",
+      "hash": "06EA2F9E806A8F80",
+      "target": "Prudente sí, pero imposible. La Travesía de Ty'iinbek, que une el bosque alto con el Corazón de Ja Tiika, sigue intransitable."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_022",
+      "hash": "947A783E377493D0",
+      "target": "¿No hay otra ruta?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ERENVILLE_000_023",
+      "hash": "B3AC094CEBEE6F13",
+      "target": "Me temo que no. Pero ya están despejando el paso, así que confío en que podamos reanudar el viaje pronto."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALPHINAUD_000_024",
+      "hash": "6AF97DD544A5F8ED",
+      "target": "Entonces que cada cual aproveche este tiempo como mejor le parezca."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALPHINAUD_000_025",
+      "hash": "7A8E6E0EF9ECB041",
+      "target": "Yo, por mi parte, quisiera explorar los alrededores del poblado─¿me haría Erenville el favor de guiarme?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ERENVILLE_000_026",
+      "hash": "D33F7FAF0AC2B912",
+      "target": "Muy bien. No tengo otros compromisos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALISAIE_000_027",
+      "hash": "D4176593DD395CFD",
+      "target": "Entonces voy con vosotros─aunque solo sea para demostrar que <italic(1)>sí<italic(0)> soy capaz de mantenerme en pie."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_028",
+      "hash": "6A7B7D6920E99884",
+      "target": "Aunque no debería alegrarme del retraso, sí me da ocasión de indagar en la supuesta visita de mi abuelo a Yak T'el."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_029",
+      "hash": "4D9777A2CE7BDC35",
+      "target": "¡Ah, es verdad! Mablu dijo algo de un mago extranjero que pasó por aquí hace décadas, ¿no? ¡Voy contigo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_030",
+      "hash": "34F30A5488FD71A0",
+      "target": "¿Te apuntas, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_ALPHINAUD_000_031",
+      "hash": "A76B51DB44500C20",
+      "target": "Volvamos a reunirnos aquí después de nuestras respectivas distracciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_032",
+      "hash": "55ADD3E9FDB1CDED",
+      "target": "Si mal no recuerdo, el mercader conoció a mi abuelo en un mercado de Yak T'el hará unos veinte años."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_033",
+      "hash": "09B16ACC2DE9ED8E",
+      "target": "Así que quien pueda recordarlo con fiabilidad tendrá al menos edad madura. Preguntemos donde podamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_040",
+      "hash": "95DCB25288F72CC7",
+      "target": "¡Este tiene buena pinta! Desde luego es mayor que yo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_045",
+      "hash": "04DFD14C958AD8E7",
+      "target": "Ojalá alguien en Iq Br'aax sepa algo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_XBALAALOLD04901_000_050",
+      "hash": "24396E7C962C6765",
+      "target": "¿Un mago extranjero, hace veinte años?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_XBALAALOLD04901_000_051",
+      "hash": "39770317B6E99D64",
+      "target": "Sí, lo recuerdo. No es frecuente que nos lleguen visitantes de allende la sal, y menos aún viajando con criaturas. Una niña de pecho, si mal no recuerdo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_XBALAALOLD04901_000_052",
+      "hash": "A6780F289210A5B5",
+      "target": "Solo lo vi de pasada, ojo─si alguien supiera más, apostaría por Hunmu Rruk. Ya era Xbr'aax Rax entonces."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_053",
+      "hash": "49203E6B16ABA4A1",
+      "target": "¿Una niña de pecho? No pudo ser..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_054",
+      "hash": "6BE4FAB95E971EDC",
+      "target": "¡G-gracias, señor! Esa información nos ayuda mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_XBALAALOLD04901_000_060",
+      "hash": "6717D247B8EED286",
+      "target": "Si queréis saber más de ese mago, os sugiero hablar con Hunmu Rruk. Seguro que lo recuerda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_065",
+      "hash": "E7728914BDDD16A9",
+      "target": "Así que Hunmu Rruk lleva más de veinte años siendo Xbr'aax Rax... ¡Eso es de antes de que yo naciera!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_070",
+      "hash": "774602EA875BF0CD",
+      "target": "¡Puede que esta sea justo la pista que esperaba!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_075",
+      "hash": "C0A2B5DAF91FC8C2",
+      "target": "Hola de nuevo. ¿Necesitáis ayuda?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_076",
+      "hash": "E32C909D782E88B7",
+      "target": "Un mago extranjero pasó por Iq Br'aax hará unos veinte años, posiblemente llevando a una niña pequeña. ¿Lo recuerda?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_077",
+      "hash": "94967235FF8A2186",
+      "target": "¿Por qué me preguntas esto? ¿Quién es ese hombre para ti?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_078",
+      "hash": "0CFB005FE573A07C",
+      "target": "Puede que fuera mi abuelo, y quiero saber qué lo trajo aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_079",
+      "hash": "EB482DE49DD304B1",
+      "target": "¿Tu abuelo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_080",
+      "hash": "7D6677018CD402C7",
+      "target": "No de sangre, pero es familia igualmente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_081",
+      "hash": "57092353669E9F42",
+      "target": "En efecto, un mago extranjero visitó Iq Br'aax. El maestro Galuf."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_100_081",
+      "hash": "4FF1078A75FD411A",
+      "target": "En lo tocante a su identidad, confío en que te des por satisfecha."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_082",
+      "hash": "DDFE7DCAB7DE2263",
+      "target": "Más allá de eso, sin embargo, no puedo decir nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_083",
+      "hash": "6910F9F63B0F6D38",
+      "target": "¿Por qué no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_084",
+      "hash": "6B14ADAC87981215",
+      "target": "Sencillamente no puedo. Os ruego perdón y comprensión."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_085",
+      "hash": "AADD383B3513F1A5",
+      "target": "Muy bien, no insistiré. Gracias por confirmar que estuvo aquí─el resto lo descubriré yo misma."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_086",
+      "hash": "8EE5CCC0A1914AB5",
+      "target": "Por curiosidad más <italic(1)>general<italic(0)>, tengo otra pregunta. Dicen que los Yok Huy habitaron en su día estos bosques. ¿Dónde fue exactamente?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_087",
+      "hash": "7D9B66F385FF6CB4",
+      "target": "Curiosidad <italic(1)>general<italic(0)>, ya... Pero sí. Antes de retirarse a Urqopacha hace unos quinientos años, los Yok Huy tenían Yak T'el por suyo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_088",
+      "hash": "577EB4A35D04CF56",
+      "target": "Muchos de sus restos arquitectónicos se hallan en los bosques bajos─el Corazón de Ja Tiika."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_089",
+      "hash": "978BF17212DC7F1E",
+      "target": "Entonces ahí es donde debieron de tener sus visiones..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_090",
+      "hash": "F84597A93FF56EA6",
+      "target": "Gracias. Eso responde a mucho y más."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_091",
+      "hash": "222AF8866C4AD640",
+      "target": "Sé lo que es echar de menos a la propia familia. Así que créeme cuando digo que, aunque mi cargo me impide ayudarte más, no te deseo sino éxito."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_092",
+      "hash": "E8C0AAD0EDC9F9F4",
+      "target": "Ayudando a la Tercera Promesa a encontrar la ciudad dorada, seguro que hallarás las respuestas a tus preguntas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_093",
+      "hash": "EA261671A398C54F",
+      "target": "Y hablando de eso, yo tengo una consulta para ti, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_094",
+      "hash": "3F9F045BB1468AB5",
+      "target": "¿Puedo pedirte un momento de tu compañía?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_095",
+      "hash": "A302ED3CE14E1DB6",
+      "target": "Adelante. Te esperamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_WUKLAMAT_000_100",
+      "hash": "7B2E9E67D9E834E5",
+      "target": "Ve a ver qué necesita Hunmu Rruk."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_105",
+      "hash": "11D050D591C04999",
+      "target": "Así que, para tener mis respuestas, tengo que encontrar la ciudad dorada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_KRILE_000_110",
+      "hash": "DDB24CCAA54DEBCA",
+      "target": "En fin, esa era mi intención desde el principio. ¡Haré todo lo que esté en mi mano para conseguirlo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_115",
+      "hash": "91769418D8F75A7F",
+      "target": "Gracias por complacerme."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_116",
+      "hash": "AE7CB478DD1BF6D0",
+      "target": "Primero, vayamos al cenote que hay detrás del poblado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_120",
+      "hash": "2B492DEA677019C2",
+      "target": "Mi intención era despediros sin decir nada, pero la súplica de la señora Krile ha ablandado mi determinación..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_121",
+      "hash": "BC0C25F1C7980A9A",
+      "target": "Como líder de nuestra comunidad, me alegra ver que la Tercera Promesa se ha rodeado de compañeros tan compasivos y dignos de confianza."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_122",
+      "hash": "A2E4F4F0BF53825A",
+      "target": "¿Me contarías cómo ha sido su viaje hasta ahora?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_123",
+      "hash": "578CA2F59ADDA204",
+      "target": "Vaya... Parece que el rito ha sido para Wuk Lamat una fuente de mucho aprendizaje y crecimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_124",
+      "hash": "D17561A4503DDF50",
+      "target": "Me hace bien oírlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_125",
+      "hash": "5856433B8677A877",
+      "target": "...Mi hija tendría más o menos su edad."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_126",
+      "hash": "2501FA357B0E55FA",
+      "target": "Entre los Xbr'aal rara vez nacen niñas. Así que cuando llegó, el poblado se llenó de júbilo. Cuánta alegría sentí al tenerla en brazos por primera vez... y cuánto dolor al encontrarla en el fondo de un cenote."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_127",
+      "hash": "D85932950884645F",
+      "target": "Tres años tenía. Un accidente, se dijo. Pero yo sabía que no."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_128",
+      "hash": "33BCBE81111D9809",
+      "target": "La habían empujado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_129",
+      "hash": "2721437BC9891FAC",
+      "target": "Aunque nunca lo atrapamos, vieron a una figura sospechosa huir hacia el Corazón de Ja Tiika. Hacia Mamook."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_130",
+      "hash": "086A31D105C4841A",
+      "target": "Enemigos acérrimos en su día, los Mamool Ja y los Xbr'aal habían aprendido a convivir en paz..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_131",
+      "hash": "79227F37A7CF2431",
+      "target": "Pero ¿quién podría dudar de la intención de un acto tan reprobable? Al atacar a la niña que un día guiaría a su pueblo, el criminal buscaba socavar el futuro de los Xbr'aal."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_132",
+      "hash": "72EDF206D1242B8B",
+      "target": "Estaba decidido a impedírselo. Así que dejé morir en aquel cenote el recuerdo de mi hija y la puse al cuidado de la única persona que sabía que podía protegerla."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_100_132",
+      "hash": "3787838AB993E649",
+      "target": "...El Servidor del Alba Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_133",
+      "hash": "60EB6961300A8C6D",
+      "target": "Aunque nació para guiar a los Xbr'aal, el destino tenía un plan mayor para Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_134",
+      "hash": "6F13A5D3E72E65D6",
+      "target": "Solo el Servidor del Alba y yo conocemos la verdad. Pero ahora debo hacerte partícipe de ella por una razón."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_135",
+      "hash": "DF98A04BC808DB6A",
+      "target": "Si el villano que intentó asesinar a mi hija era en efecto de Mamook, entonces el rencor hacia los Xbr'aal sigue ardiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_136",
+      "hash": "F4107EF5A52CD855",
+      "target": "Una vez me pillaron desprevenido. No volveré a sufrir la misma tragedia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_137",
+      "hash": "030A92D53633EE73",
+      "target": "Y por eso te pido, no como elector del Servidor del Alba sino como padre, que veles por la Tercera Promesa. Defiéndela de los enemigos que puedan acechar en la sombra. ¿Harás esto por mí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_138",
+      "hash": "68DE829475C320AC",
+      "target": "Gracias. Desde lo más hondo del corazón."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_GULOOLJAJA_000_139",
+      "hash": "C0F4E040856FDA09",
+      "target": "¿Escucharás mi pregunta y me responderás con franqueza? No te dirijas a mí como al soberano de Tuliyollal, sino como a un padre preocupado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc105_04901#TEXT_KINGMC105_04901_HUNMURRUK_000_140",
+      "hash": "AA2679091B63D2B6",
+      "target": "Baste decir que esta conversación debe quedar entre nosotros. Te ruego que no digas una palabra de esto a nadie."
+    }
+  ]
+}

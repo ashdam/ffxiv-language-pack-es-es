@@ -1,0 +1,677 @@
+{
+  "conversation": "quest/005/ManWil007_00551",
+  "questName": "Duty, Honor, Country",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_050_1",
+      "hash": "75836BC0DF64261D",
+      "target": "¿Puedo contar con su discreción, <split(<string(gstr1)>, ,1)>? De ser así, escuche con atención..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_1",
+      "hash": "026221DA634CDAA7",
+      "target": "El mundo exterior cree que Ul'dah es un sultanato gobernado por la sultana Nanamo Ul Namo. Lo cierto, sin embargo, es que quienes más mandan son los seis ciudadanos más ricos: el Sindicato."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_2",
+      "hash": "0E76A68301EC3CA7",
+      "target": "Sea como sea, la sultana aún cuenta con el apoyo del pueblo..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_3",
+      "hash": "DA7D190CAF3134E2",
+      "target": "Pero hasta eso le costaría conservar si cierto incidente saliera a la luz."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_4",
+      "hash": "4ADE7621B4C92F3A",
+      "target": "Me duele decirlo, pero han robado la corona de Su Alteza, el símbolo de la dinastía real."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_5",
+      "hash": "CA15666020263A48",
+      "target": "Y Owyne... Owyne es el Juramentado del Sultanato al que encomendaron custodiarla esa noche."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_6",
+      "hash": "D29B5EBE664F56D2",
+      "target": "Me apostaría lo que fuera a que esta carta la escribieron los cabrones que se llevaron la corona."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_7",
+      "hash": "76C490B8247E12DF",
+      "target": "No puede ser casualidad que un hombre que sabemos que se codeaba con ladrones tuviera una carta para Owyne, precisamente, y precisamente ahora."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_8",
+      "hash": "10A76E7EB94B5B12",
+      "target": "Tiene que llevársela al hombre en persona, <split(<string(gstr1)>, ,1)>. Dígale que le envía Momodi y que se trata de una reliquia perdida."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MOMODI_000_9",
+      "hash": "10998603E6EAA00C",
+      "target": "Si parece que el buen hombre necesita ayuda, quiero que se la preste. El futuro de nuestra hermosa ciudad podría depender de ello."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORMA_000_10",
+      "hash": "4914815B6C592073",
+      "target": "Más allá se halla el Corazón de los Juramentados. Diga a qué ha venido."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORMA_000_11",
+      "hash": "F9809D61586A105A",
+      "target": "...¿Cómo dice? ¿Ha dicho una <italic(1)>reliquia perdida<italic(0)>? Ejem. Adelante."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_Q1_000_1",
+      "hash": "C5C3CE3F54DD957E",
+      "target": "¿Entrar en el Corazón de los Juramentados?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_A1_000_1",
+      "hash": "E923ECBCD6E049AA",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_A1_000_2",
+      "hash": "D7C680FD002FC3B9",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORMA_000_12",
+      "hash": "CDFA2B1370F8CB06",
+      "target": "¿A qué juega, aventurero? ¿De verdad le envía Momodi? Si esto es alguna clase de broma, ¡<italic(1)>habrá<italic(0)> consecuencias!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_20",
+      "hash": "48D09B36F3B1044E",
+      "target": "Bien hallado, aventurero. ¿Qué asunto le trae hoy hasta aquí?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_21",
+      "hash": "E45EFDCDE0B4050B",
+      "target": "...¿Una carta? Muy bien, veámosla."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_22",
+      "hash": "CDDFF58AECCEAC41",
+      "target": "...¿Ha leído esto, aventurero?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_23",
+      "hash": "C30DE895869733A3",
+      "target": "Entiendo. Pero algo se figura de su contenido, imagino."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_24",
+      "hash": "A16940D144E4D649",
+      "target": "La señora Momodi le habrá explicado sin duda el significado de la corona, y lo que su pérdida podría suponer para Su Alteza la sultana... \\<suspiro> Este robo deshonra a los Juramentados del Sultanato... y a mí más que a nadie."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_25",
+      "hash": "A88497AF923BE951",
+      "target": "La culpa es mía, ¿comprende? Me relajé en mis deberes, y en un momento de descuido..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_26",
+      "hash": "42C6A45E7D928511",
+      "target": "No, de nada sirve relatar la historia ahora.<br>Desde la hora del robo, hemos buscado con desesperación cualquier señal, cualquier rumor sobre el paradero de la corona. No hemos hallado nada."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_27",
+      "hash": "5A5F8821D998E899",
+      "target": "La identidad de los ladrones, y sus motivos, parecían condenados a seguir siendo un misterio... hasta que llegó usted, con esta nota de rescate."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_28",
+      "hash": "7DC44508F3838F89",
+      "target": "En ella, los criminales exponen su precio por la devolución de la corona de Su Alteza."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_29",
+      "hash": "E9F318DC3B12D875",
+      "target": "Y, aunque me duela decirlo, me temo que no me queda más remedio que ceder. Hay demasiado en juego. La corona simboliza el derecho de nacimiento de Su Alteza y la señala como custodia del legado Ul. <italic(1)>Debe<italic(0)> recuperarse."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_30",
+      "hash": "F06B8D11AC00C22E",
+      "target": "Viajaré al Heredero Impío y les pagaré su rescate."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_31",
+      "hash": "7C45BEC1044ADE3E",
+      "target": "Aunque no soy tan necio como para acudir solo a la cita, tal como estipulan, no me atrevo a llevar a un gran número de mis camaradas, no sea que los ladrones se asusten. Amigo... ¿accedería <italic(1)>usted<italic(0)> a estar presente en el intercambio?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_32",
+      "hash": "ED748FA3B416471F",
+      "target": "La señora Momodi siempre ha hablado de usted en los términos más elogiosos, y nunca he tenido motivo para poner en duda su criterio."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_33",
+      "hash": "D213F5B5AF026456",
+      "target": "En nombre de todos los que aún son leales a la sultana, se lo suplico: ayúdenos en nuestra hora de necesidad."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_40",
+      "hash": "5C14FA629B1B50D1",
+      "target": "Le ruego que se reúna conmigo en el Heredero Impío, en Thanalan central, al este de la Estación de Maleza Negra. Si los dioses son benévolos, el intercambio se hará sin incidentes..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_TITLE",
+      "hash": "8F34A9DC5A9043A2",
+      "target": "El deber llama. ¿Deseas proceder con<br>“MANWIL007”?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_YES",
+      "hash": "40A1EFE03826A0C1",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_INSTANCE_BATTLE_YESNO_NO",
+      "hash": "F25DBA76A34276CF",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_50",
+      "hash": "692CE61EFDC13028",
+      "target": "¡He venido según lo acordado! ¡Ahora, muéstreme la corona!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_51",
+      "hash": "63D83F04552DB70C",
+      "target": "Sí, tendrás tu preciada corona... en cuanto se nos haya compensado como es debido."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_52",
+      "hash": "1ED3E03E87515C15",
+      "target": "¿¡Me toma por un necio!? ¿Qué garantía tengo de que cumplirá su parte del trato?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_53",
+      "hash": "16BD8E7CA11DF359",
+      "target": "Vamos, vamos, Owyne... el menos de fiar aquí eres tú. No solo robaron la corona estando <italic(1)>tú<italic(0)> de guardia, sino que, por lo que veo, has incumplido los términos de nuestro intercambio. ¿No dijimos que vinieras solo?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_54",
+      "hash": "DA9D70612106B6B0",
+      "target": "Y, dado que <italic(1)>no<italic(0)> vienes solo, ¿qué garantía tenemos de que no haya una compañía de arqueros rodeándonos mientras hablamos, lista para acribillarnos a mí y a mis hombres en cuanto vislumbren la corona?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_55",
+      "hash": "903B42B74844E137",
+      "target": "Te has burlado de nuestra confianza. El trato se cancela."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_56",
+      "hash": "7D57D7C5CD583A39",
+      "target": "¡Espere! ¡Aquí tiene su pago, como prometí!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_57",
+      "hash": "0B903A06B0A86FF5",
+      "target": "\\<olfatea> \\<olfatea> ...Sí, es auténtico."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_58",
+      "hash": "F487852AA966EA2A",
+      "target": "¡Ajajajá! ¡Mil gracias, muchacho! ¡Has triunfado donde decenas de ladrones fracasaron!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_59",
+      "hash": "9FDD0D8EE4E4102A",
+      "target": "¡Y ahora, por fin, lo tenemos! ¡El poder de crear un ejército de soldados imperecederos: <italic(1)>el Desdén de los Mercaderes<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_60",
+      "hash": "E9C8EA419B144F6C",
+      "target": "No... no, ¡no puede ser! ¿¡Qué he hecho!?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_61",
+      "hash": "F1B52864A53CCE94",
+      "target": "Sin duda te habrás preguntado qué era lo que entregabas... qué era eso que a nosotros nos parecía tan valioso como a ti la corona. ¿O acaso creíste que estábamos <italic(1)>caritativos<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_62",
+      "hash": "ABF700C7048F358D",
+      "target": "Ah, pero debes de sentirte fatal, sabiendo que nos has traído la catástrofe de Sil'dih. No te preocupes, muchacho: te concederemos una muerte rápida y te ahorraremos más ignominia."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_63",
+      "hash": "2CF293113F248C53",
+      "target": "¡Son demasiados, <split(<string(gstr1)>, ,1)>! ¡Huya! ¡Huya mientras pueda! Yo... yo cumpliré con mi deber."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_64",
+      "hash": "ED20EB647C28EB90",
+      "target": "¡Tu deber es servir a la sultana, muchacho... y aún lo cumplirás durante un buen tiempo!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_65",
+      "hash": "89AABF012FD323DC",
+      "target": "¡Juramentados! ¡Pasad a estos ladrones por la espada y aseguraos de recuperar la corona!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_GARIBALD_000_66",
+      "hash": "6863FF4393F031B5",
+      "target": "¿¡Juramentados!? ¡Ja! ¡No importa! ¡Matadlos a todos!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_70",
+      "hash": "BEB8841622D0A879",
+      "target": "¡Maese Papashan! Pero ¿por qué...? ¿Cómo...?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_71",
+      "hash": "442B1DDB8365D84E",
+      "target": "El General te vio colarte en la cámara acorazada, Owyne."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_72",
+      "hash": "10665477B730A598",
+      "target": "Sospechó que algo se tramaba y nos ordenó vigilarte."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_73",
+      "hash": "B172472C79CCF5D8",
+      "target": "¿El General de las Llamas...? ¿Le ordenó que velara por mí?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORM_000_74",
+      "hash": "FD7AF6CC084DE4D2",
+      "target": "¡Maese Papashan! ¡Hay más al norte!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_75",
+      "hash": "DC80B0D7344B302E",
+      "target": "¡Tras ellos, Juramentados... tienen la corona! ¡Estos solo buscaban entretenernos!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_76",
+      "hash": "BC90E0F1A6464265",
+      "target": "¡Hablemos de nuevo en la ciudad!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MASKEDMAGUS_000_77",
+      "hash": "AF7EF65C9FE80590",
+      "target": "El origen de <if(gnum4,su,su)> fuerza se hace evidente..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MASKEDMAGUS_000_78",
+      "hash": "3E184628B33D9D46",
+      "target": "Puede que vencieras al gólem, pero hoy no te irá tan bien."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MASKEDMAGUS_000_79",
+      "hash": "D28B55E727D29649",
+      "target": "<colortype(547)>¡Oh, voz doliente de la creación! ¡Enviadme una criatura del abismo, esclava a mis órdenes, para que pueda fulminar a mis enemigos!<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MASKEDMAGUS_000_80",
+      "hash": "8B4975525B8FA913",
+      "target": "Tu sola existencia pone en peligro el plan. No se te puede permitir vivir."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_MASKEDMAGUS_000_90",
+      "hash": "7402CD16CF3BB0E8",
+      "target": "Aaargh... Que la sabiduría de los Paragones caiga tan bajo... a manos de simples mortales..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_91",
+      "hash": "799524963D24E8E0",
+      "target": "¿Los Paragones? Ciertamente, una revelación inquietante..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_92",
+      "hash": "CD50AE3B03D68891",
+      "target": "Hacía tiempo que sospechábamos la implicación de los Portadores del Caos... <italic(1)>ascianos<italic(0)>, por darles su verdadero nombre."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_93",
+      "hash": "10F417002DB3131A",
+      "target": "Pero hasta ahora no podíamos estar seguros de que fueran los responsables de los recientes disturbios. Como si al sultanato le hicieran falta más enemigos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_94",
+      "hash": "DFB62D4264D8A3C9",
+      "target": "¿Hm? ¿Los sharlayanos nos hemos cruzado antes con ascianos? Bueno, desde luego que... Un momento. No recuerdo haberle hablado de mi tierra natal."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_95",
+      "hash": "ED5222A7BCE429B2",
+      "target": "Ah, sí, es cierto... es usted <if(gnum4,una de las dotadas,uno de los dotados)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_96",
+      "hash": "822E8A62232FD0FE",
+      "target": "¿Sabe? Es la tercera vez que le encuentro en mitad de un lío. Si no le conociera, diría que es usted un imán para ellos."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_97",
+      "hash": "665818836510A5B7",
+      "target": "En fin, me alegro de haber empezado a seguirle. ¿¡Quién sabe con qué gran conspiración tropezará la próxima vez!?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_98",
+      "hash": "AA81F9FF1E6FA860",
+      "target": "Bromeo, bromeo... Si de verdad hubiera estado vigilando cada uno de sus movimientos, no habría tardado tanto en intervenir en su último altercado."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_THANCRED_000_99",
+      "hash": "8BE79F8BAC4C61E1",
+      "target": "Pero bien está lo que bien acaba. Nuestro amigo enmascarado ya no existe y, aunque dudo que hayamos visto al último de los suyos, su muerte nos dará al menos <italic(1)>algo<italic(0)> de respiro. Debo irme. Hasta la próxima, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORMA_000_110",
+      "hash": "5A428BD6639C5D1D",
+      "target": "Todos le esperan, aventurero."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SULTANSWORMA_000_111",
+      "hash": "8EF1DBAE0D47A172",
+      "target": "Le ruego que no haga esperar a mis camaradas."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_200",
+      "hash": "7D2D252A205EEEB2",
+      "target": "¿Le sorprende verme vestido así, <split(<string(gstr1)>, ,1)>? Fui Juramentado del Sultanato en su día, ¿sabe?, aunque hace ya quince años que dejé la espada y asumí el cargo de jefe de estación."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_201",
+      "hash": "AC414872C1ABB093",
+      "target": "Un cometido en el que no me enorgullece menos servir, no lo dude. Siempre que Su Alteza se aventura extramuros, tengo el honor de proteger su persona."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_202",
+      "hash": "38742D419D3D7D1E",
+      "target": "Nunca la había visto tan abatida como cuando la noticia del robo de la corona llegó a sus oídos."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_PAPASHAN_000_203",
+      "hash": "09FEF7D3FCA695B2",
+      "target": "Pero, gracias a sus valientes esfuerzos, ha vuelto a ser la de siempre, llena de vida. Tiene usted la gratitud de todos los Juramentados del Sultanato, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400010_LADYSMAID",
+      "hash": "189783C818C9EEA3",
+      "target": "¡Sacro receptáculo de Nald'thal, guardiana de Thanalan, decimoséptima en ascender al trono de Ul'dah, Su Majestad Real Nanamo Ul Namo, preside la sala!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400020_SULTANSWORM",
+      "hash": "AB6EE29E989A4D86",
+      "target": "¡Larga vida a Nanamo! ¡Gloria a la sultana! ¡Que reine por siempre!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400030_SULTANSWORM",
+      "hash": "26559B28BB6B39F4",
+      "target": "¡Larga vida a Nanamo! ¡Gloria a la sultana! ¡Que reine por siempre!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400040_NANAMOULNAMO",
+      "hash": "A46DCCAF7CCC0F0A",
+      "target": "Me han deleitado con relatos de <if(gnum4,una heroína entre heroínas,un héroe entre héroes)>, alguien cuyo incansable servicio a la corona merecía el más alto honor que podemos conceder."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400050_NANAMOULNAMO",
+      "hash": "748E10D3B474681B",
+      "target": "Jamás se me ocurrió que pudieras ser tú. ¡Que lo traigan!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400060_NANAMOULNAMO",
+      "hash": "31242C6D18B74970",
+      "target": "En señal de nuestra gratitud y estima, yo, Nanamo Ul Namo, sultana de Ul'dah, te confiero este presente."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400070_NANAMOULNAMO",
+      "hash": "EC4C5A917CE04990",
+      "target": "Raubahn."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400080_RAUBAHN",
+      "hash": "24BE5A8106E1E4B2",
+      "target": "Su Alteza."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400090_NANAMOULNAMO",
+      "hash": "36C91C01FE6F8993",
+      "target": "Encárgate de que <if(gnum4,nuestra heroína,nuestro héroe)> sea mi <if(gnum4,invitada,invitado)> personal en el banquete."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400100_RAUBAHN",
+      "hash": "12A24F873C46F4A4",
+      "target": "A vuestras órdenes, Su Alteza."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400110_RAUBAHN",
+      "hash": "E7AA9D77957B6C2F",
+      "target": "Si es cierto lo que dicen, Ul'dah está en gran deuda contigo."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400120_RAUBAHN",
+      "hash": "12CC011866AE8C6F",
+      "target": "Extraño que no nos hayamos conocido antes de hoy..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400130_RAUBAHN",
+      "hash": "A85B6BFDB3E6FA82",
+      "target": "...Percibo que somos almas gemelas."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400140_RAUBAHN",
+      "hash": "8DBE9A3010A49D93",
+      "target": "No soy dado a supersticiones, pero juraría que nuestras historias pertenecen a la misma saga."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400150_RAUBAHN",
+      "hash": "592614F0B24296C7",
+      "target": "Soy Raubahn Aldynn. Con el consentimiento de Su Alteza, superviso los asuntos del sultanato."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400160_RAUBAHN",
+      "hash": "043F030419535F71",
+      "target": "Las almas valientes escasean en estos tiempos. Doy gracias cuando encuentro una."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400170_RAUBAHN",
+      "hash": "9DAB0F54251DF41C",
+      "target": "Su Alteza te invita a acompañarla en el próximo banquete. Confío en verte allí."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400180_SULTANSWORM",
+      "hash": "A49CCBD3AE2D4A32",
+      "target": "¡Todo un honor!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400190_SULTANSWORM",
+      "hash": "955ACEDC8704B679",
+      "target": "¡Hurra! ¡Ven, <if(gnum4,heroína,héroe)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400200_RAUBAHN",
+      "hash": "2153BFA3BAB2FF20",
+      "target": "Hasta entonces."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_400210_RAUBAHN",
+      "hash": "35281F78E81E5074",
+      "target": "Por Su Alteza, y por la gloria del sultanato, que camines a la luz del Cristal."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_OWYNE_000_120",
+      "hash": "BAEBCB2388EE15B1",
+      "target": "Le doy las gracias, <split(<string(gstr1)>, ,1)>, por ayudar a defender el buen nombre de Su Alteza y por ahorrar a los Juramentados del Sultanato más deshonra. Creo que maese Papashan querría darle las gracias en persona."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_TODO001",
+      "hash": "5515EA4A2601A8B0",
+      "target": "¡Derrota a Garibald the Fargone y a sus secuaces!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALK01",
+      "hash": "CF329FD39E22BF48",
+      "target": "¡Lucha por tu sultana, muchacho! ¡Lucha por Ul'dah!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKBOSS_HP25_REACT",
+      "hash": "3730A3A0CBB3B629",
+      "target": "¡Ríndete o muere, ladrón! ¡No lo repetiré!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALK01",
+      "hash": "5820C0CCAF71E124",
+      "target": "¡A sus órdenes, maese Papashan!<br>¡Conmigo, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALKBALLOON_01",
+      "hash": "824DEB895125BA0A",
+      "target": "Uf... hay tantísimos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_BALLOON_01",
+      "hash": "CCE95DD2D37C5E85",
+      "target": "¡Los viejos no deberían jugar con espadas!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_BALLOON_02",
+      "hash": "DAA3D420F4865E85",
+      "target": "¡Te arrancaré el corazón, viejo!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALK02",
+      "hash": "7590BDF83F1FBDC3",
+      "target": "¡Manteneos firmes, Juramentados!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALK02",
+      "hash": "FF24025F6D6728CA",
+      "target": "¿¡Es eso un <italic(1)>ser del Vacío<italic(0)>!?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_01",
+      "hash": "5F493F762927C8A4",
+      "target": "¡Necios entrometidos! ¡No sabéis a quién os enfrentáis!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_GARIBALD_BATTLETALK_03",
+      "hash": "06E55E1C963E964E",
+      "target": "¡Óyeme, morador del abismo!<br>¡Aniquila a estos intrusos y devora sus almas!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKHP50",
+      "hash": "5C06DC06D267365F",
+      "target": "¡Pase lo que pase, no dejéis que escapen con la corona!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_PAPASHAN_BATTLETALKDEAD",
+      "hash": "52E4CB858B5BD70D",
+      "target": "Uf... os he fallado..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_OWYNE_BATTLETALKDEAD",
+      "hash": "4300C35496A7F998",
+      "target": "La corona... Debemos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_SULTANSWORMA_DEAD",
+      "hash": "A32F2B00720E3EBD",
+      "target": "No... no puedo..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_SULTANSWORMB_DEAD",
+      "hash": "18337EDBC722DD7E",
+      "target": "Perdonadme, hermanos..."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_TODO002",
+      "hash": "D1FFEBF8A9159A58",
+      "target": "¡Derrota al mago enmascarado!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_001",
+      "hash": "85CA86E28F3B2DBB",
+      "target": "¡Pronto te llevarás tus viles dones a la tumba!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_POISON",
+      "hash": "0FCDC055A9235E29",
+      "target": "¡Muajajajá!<br>¡Retuércete mientras el veneno se abre paso por tus venas!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_01",
+      "hash": "205717741EDB0497",
+      "target": "Un huésped no deseado. No importa, ¡todos caeréis ante mí!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_HP60",
+      "hash": "B110796F9CE20BEE",
+      "target": "¿¡De dónde brota esta fuerza sobrenatural!?"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_SANCRED_ENTER",
+      "hash": "9041DD523DEF331B",
+      "target": "¡Desde luego, tiene usted un don para meterse en líos!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_MASKEDMAGUS_BATTLETALK_HP40",
+      "hash": "F1C22A248595E93E",
+      "target": "¡Ningún mortal debería poseer semejante fuerza!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_QIB_SANCRED_MASKEDMAGUS_BATTLETALK_HP20",
+      "hash": "C9D84CC6A7F97EAD",
+      "target": "¡Siga así, <split(<string(gstr1)>, ,1)>!<br>¡Ya casi lo tenemos!"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_00",
+      "hash": "646A58E144A3C39B",
+      "target": "Momodi quiere solicitar la ayuda de un fiel amigo de Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_01",
+      "hash": "D88246A5870B342E",
+      "target": "Tras hacerte jurar discreción, Momodi revela que han robado la royal crown. Según ella, si el robo saliera a la luz, mancharía la reputación de la sultana. Sospecha que la misiva que Fufulupa encontró entre las pertenencias de Baldewyn la escribieron los autores de este crimen. Momodi te pide que lleves la carta a su destinatario, Owyne de los Juramentados del Sultanato, y le ofrezcas tu ayuda."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_02",
+      "hash": "5D36BBE2771DBA1D",
+      "target": "Owyne confirma que la carta es una nota de rescate de los ladrones, en la que exponen sus exigencias para devolver la corona. Convencido de que no hay otra salida, el atormentado Juramentado decide dar a los criminales lo que quieren. Reúnete con él en el Heredero Impío, en Thanalan central, y asegúrate de que el intercambio salga según lo previsto."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_03",
+      "hash": "2B23B37444E8DA63",
+      "target": "Tras recibir su pago, los ladrones intentan asesinarte, como era de esperar, pero, con la ayuda de Papashan y un grupo de Juramentados del Sultanato, los derrotas."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_04",
+      "hash": "09110B96172F1E1E",
+      "target": "Cuando los Juramentados se marchan, te quedas a solas con el mago enmascarado que orquestó el robo, y estalla otra batalla. Por fortuna, Thancred acude en tu ayuda y juntos salís victoriosos. Aunque los motivos de este «asciano» siguen siendo un misterio, sus planes están ahora en ruinas. Vuelve al Corazón de los Juramentados y averigua si los Juramentados del Sultanato han recuperado la corona."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_SEQ_05",
+      "hash": "E07B871AE28E6677",
+      "target": "La sultana visita el Corazón de los Juramentados para agradecerte en persona que hayas ayudado a recuperar la corona y para pedirte que asistas al próximo banquete como su invitad<if(gnum4,a,o)> de honor. Aunque su gesto te deja sin palabras, recuperas la compostura y aceptas, deseando ya que llegue vuestro próximo encuentro."
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_00",
+      "hash": "65B43DFF598735FC",
+      "target": "Entregar la carta a Owyne"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_01",
+      "hash": "D367DAD41F25FF20",
+      "target": "Reunirse con Owyne en el Heredero Impío"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_02",
+      "hash": "31C9F42BB7EC910E",
+      "target": "Hablar con Papashan en el Corazón de los Juramentados"
+    },
+    {
+      "gameKey": "quest/005/ManWil007_00551#TEXT_MANWIL007_00551_TODO_03",
+      "hash": "F0A43B7A17DEEC51",
+      "target": "Hablar con Papashan en el Corazón de los Juramentados"
+    }
+  ]
+}

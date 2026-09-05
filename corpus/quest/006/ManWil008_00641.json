@@ -1,0 +1,152 @@
+{
+  "conversation": "quest/006/ManWil008_00641",
+  "questName": "A Matter of Tradition",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_1",
+      "hash": "A9E35BC31E65C635",
+      "target": "¡Por los Doce, <split(<string(gstr1)>, ,1)>! ¡Que <if(gnum4,una aventurera,un aventurero)> reciba una invitación personal de Su Alteza no tiene precedentes!"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_2",
+      "hash": "054D2E0A5ECE45BF",
+      "target": "Los asientos a estos banquetes se ofrecen solo a las personas más distinguidas. Cenará usted con algunas de las gentes más influyentes de Ul'dah."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_3",
+      "hash": "64B804AB19B9E834",
+      "target": "Existen, por supuesto, ciertos protocolos que deben observarse."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_4",
+      "hash": "561555A58278B08A",
+      "target": "...Pero yo no soy ninguna autoridad en la materia. Mas no tema: la señora Momodi lleva mucho tiempo encargándose de familiarizar a los invitados foráneos con nuestras costumbres."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_5",
+      "hash": "7C331FC1A2E22A4B",
+      "target": "Le ruego que regrese a Quicksand y hable con ella. Le dirá todo cuanto necesita saber."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_OWYNE_000_10",
+      "hash": "ACDAC69ECB3CF3F9",
+      "target": "Mis compañeros Juramentados del Sultanato y yo debemos atender nuestros propios preparativos. Entretanto, debería hablar con la señora Momodi. Ella le explicará los protocolos que han de observar todos los asistentes."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_20",
+      "hash": "FA1F832E7414FCA5",
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>, y enhorabuena por su invitación a la gran velada!"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_21",
+      "hash": "45F0E35CC6320A1A",
+      "target": "La verdad, nunca creí que le explicaría a usted estos procedimientos; suelen ser los dignatarios foráneos quienes me oyen divagar sobre las tradiciones reales. En fin, sé que es usted <if(gnum4,una mujer ocupada,un hombre ocupado)>, así que iré al grano."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_22",
+      "hash": "6BAC044E8508B038",
+      "target": "Según una antigua costumbre, todos los invitados a este banquete deben lucir un par de pendientes ceremoniales, hechos expresamente para la ocasión. Se supone que simbolizan... Bah, olvídelo. Se suponía que esta era la versión corta. Ejem. Al ser de un diseño único para la ocasión, los pendientes sirven de medida de seguridad. Los Juramentados del Sultanato no le dejarán acercarse al salón sin ellos."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_23",
+      "hash": "ACDFBC3B747D5E30",
+      "target": "Su juego debería estar listo y esperándole en el Gremio de Orfebres. La señora Serendipity le aguarda, así que será mejor que se acerque allí ahora."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_24",
+      "hash": "38718C28C6CE4851",
+      "target": "Cuando los tenga, tráigalos aquí y continuaremos."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SERENDIPITY_000_30",
+      "hash": "EAAF48939061791F",
+      "target": "¡Saludos! ¿Hay algo en lo que pueda ayudarle?"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SERENDIPITY_000_31",
+      "hash": "3F43FE61824C2022",
+      "target": "¡Ah, <split(<string(gstr1)>, ,1)>! Sus pendientes están aquí mismo. Los elaboré yo misma, para que lo sepa. ¡Creo que quedará muy <if(gnum4,satisfecha,satisfecho)>!"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SERENDIPITY_000_32",
+      "hash": "1A8235D87323D584",
+      "target": "Por si la señora Momodi no se lo advirtió, la caja está cerrada con llave, y no se me permite entregársela. Es una última salvaguarda, ¿comprende?: solo ciertas personas designadas están autorizadas a repartir los pendientes entre los invitados. En este caso, esa persona no es otra que la señora Momodi, así que tendrá que pedirle a ella que abra la caja en su nombre. Disculpe la molestia, pero los Juramentados del Sultanato se toman la seguridad de Su Alteza <italic(1)>muy<italic(0)> en serio."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_40",
+      "hash": "4575B8B4EDCA3BD6",
+      "target": "¿Ya ha recogido sus pendientes, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_41",
+      "hash": "B80DCB3DF4E7F4AD",
+      "target": "Déjeme ver... \\<ahogo> Vaya, ¡parece que la maestra del gremio se ha superado con este par!"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_42",
+      "hash": "EDD9D5EB82A5A5DD",
+      "target": "¡Más le vale cuidar bien de estos pendientes! ¡Si cayeran en malas manos, solo los dioses saben lo que podría pasar!"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_43",
+      "hash": "B4857BA31395B0AD",
+      "target": "Y bien, espero que se sienta con ganas de alternar, <split(<string(gstr1)>, ,1)>, ¡porque está a punto de codearse con la flor y nata de Ul'dah! Avíseme cuando esté <if(gnum4,lista,listo)> para ir al banquete."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_Q1_000_050",
+      "hash": "C9C93A4352C8E5C3",
+      "target": "¿Entrar en el Corazón de los Juramentados?"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_A1_000_051",
+      "hash": "EE1CCA0998AAE5A7",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_A1_000_052",
+      "hash": "4BE1BBCC07A98FF5",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SEQ_00",
+      "hash": "C7801128DFB23295",
+      "target": "Owyne quiere hablar contigo sobre la invitación de la sultana."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SEQ_01",
+      "hash": "0F26DCD7A18DB7AE",
+      "target": "Owyne señala que hay ciertos protocolos que deben observar los invitados a un banquete real. Te indica que hables con Momodi, que te explicará con exactitud lo que se espera de ti."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SEQ_02",
+      "hash": "8C3B0B510160CBAC",
+      "target": "Según Momodi, todos los que asisten al banquete real están obligados a lucir un par de pendientes ceremoniales. Te indica que visites el Gremio de Orfebres y hables con Serendipity para obtener los tuyos."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SEQ_03",
+      "hash": "C650D98CA217BC8A",
+      "target": "Serendipity te entrega una caja de palisandro muy hermosa y muy <italic(1)>cerrada con llave<italic(0)>. Por razones de seguridad real, te explica, los estuches de los pendientes están pensados para que solo los abran ciertas personas designadas. En este caso, la persona designada es, al parecer, Momodi. Vuelve a Quicksand, entrégale la caja y ella se encargará del resto."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_SEQ_04",
+      "hash": "414DB1EC318551DC",
+      "target": "Ya tienes los pendientes ceremoniales necesarios para entrar en el banquete. Habla con Momodi cuando estés list<if(gnum4,a,o)> para unirte a la celebración."
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_TODO_00",
+      "hash": "20ECD4D622D435B6",
+      "target": "Hablar con Momodi en Quicksand"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_TODO_01",
+      "hash": "BA08FECBE08A99FD",
+      "target": "Recoger los pendientes de Serendipity"
+    },
+    {
+      "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_TODO_02",
+      "hash": "8259F33603FEFC6B",
+      "target": "Entregar la caja de palisandro a Momodi"
+    }
+  ]
+}

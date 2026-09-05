@@ -1,0 +1,197 @@
+{
+  "conversation": "quest/006/SubWil112_00620",
+  "questName": "A Proper Burial",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_ISEMBARD_000_1",
+      "hash": "522CCABD6714B475",
+      "target": "Si queremos saber de qué hablan los humildes con sus dioses, no hay mejor sitio para preguntar que la iglesia de San Adama Landama. Es una iglesia pequeña y humilde, al noroeste de aquí."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_ISEMBARD_000_2",
+      "hash": "EA58BD76A628507A",
+      "target": "Y ya que vas hacia allá... ¿podría pedirte que lleves este cadáver embalsamado? Una petición macabra, lo reconozco, pero hay que llevarlo a enterrar, y no confío en nadie más que en ti para hacerlo."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_ISEMBARD_000_3",
+      "hash": "857815DCDB196A95",
+      "target": "Busca a un hombre llamado Marques: es quien cuida las tumbas del cementerio. Él te dirá dónde ha de darse sepultura al cuerpo."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_10",
+      "hash": "2F4A05D6F4571216",
+      "target": "Soy Marques, sí. ¿Un cuerpo? Por supuesto...<br>Ha... ha habido... tantos cuerpos últimamente..."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_11",
+      "hash": "2233EF7141F58BD7",
+      "target": "Le... le pido disculpas, <if(gnum4,señora,señor)>. Si busca un lugar de sepultura, hay una tumba vacía en lo alto del cerro. Tome el sendero y déle allí descanso."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_15",
+      "hash": "2D802D55DA063A17",
+      "target": "Entiérrelo como es debido y dé paz a su alma. Luego hablaremos."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_20",
+      "hash": "8D563EBEA69394FA",
+      "target": "¿Lo ha enterrado? Ha de apretar bien la tierra, o vendrán... Vendrán los chuchos y profanarán el cuerpo..."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_21",
+      "hash": "9E64E31622C1B18D",
+      "target": "Que todos caminen por el reino de Thal...<br>...¿Cómo? ¿Gente desaparecida? Me... me temo que no puedo ayudarle."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_22",
+      "hash": "71F683D89391D570",
+      "target": "Pero quizá la hermana Ourcen sí pueda. Ha sido amable conmigo. Todos... todos han sido muy amables."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_000_23",
+      "hash": "602AE4A93ADE1288",
+      "target": "Aunque no sé por qué. Yo...<br>Disculpe. Encontrará a la hermana Ourcen dentro de la iglesia."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_MARQUEZ_028",
+      "hash": "7130C47BEB483130",
+      "target": "Todo está mal. Yo... yo debería haber..."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_OURCEN_000_30",
+      "hash": "851584CF645013C5",
+      "target": "Tengo entendido que nos ha prestado el servicio de enterrar a un alma difunta. Le ruego que acepte nuestra gratitud, y que se la transmita a Isembard cuando vuelva a verle."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_OURCEN_000_31",
+      "hash": "BE4BFF51BCA616F6",
+      "target": "¿Hm? ¿Busca noticias de los desaparecidos de Huesos Secos? Es cierto que estoy más cerca de la gente que nadie en la Orden. Yo me confío a ellos, y ellos a mí. Cuando quieren hablar con su custodio, Thal, soy yo su medio para hacerlo."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_OURCEN_000_32",
+      "hash": "BA7EDC90A4A858B9",
+      "target": "Si me entero de algo pertinente, no dejaré de compartirlo con usted. \\<suspiro> Ojalá Marques fuera de más ayuda en este asunto. Ruego que no le haya ofendido. Vio... cosas terribles durante la Calamidad... Sus heridas son profundas. En verdad, ahora parece preferir la compañía de los muertos a la de los vivos."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_OURCEN_000_33",
+      "hash": "8B20B036B51142B4",
+      "target": "Por trágico que sea, temo que semejante conducta desdice de la iglesia. No hace mucho me dijeron que uno de nuestros visitantes recientes ─un hombre llamado Thancred, creo─ se ofendió por su comportamiento. He de hablar con Marques, y pronto."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_OURCEN_000_40",
+      "hash": "8CDAC0EFBC075415",
+      "target": "Le ruego que transmita mi gratitud a Isembard en nombre de la Orden."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_ISEMBARD_000_50",
+      "hash": "DB02E38AAAC52311",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>. Un entierro no es cosa fácil, aun cuando el difunto es un desconocido. ¿Pudiste averiguar algo de los humildes desaparecidos?"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_51",
+      "hash": "99E5AE9FBAEAA9FD",
+      "target": "Ha estado muy ocupad<if(gnum4,a,o)> últimamente, ¿verdad, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_52",
+      "hash": "16DA7E5EFFC7C21B",
+      "target": "Un placer, mi querido Isembard. Me llamo Thancred, y comparto con usted y con nuestr<if(gnum4,a,o)> amig<if(gnum4,a,o)> común el afán por averiguar qué ha sido de estos desaparecidos y por qué."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_53",
+      "hash": "61D9337A59B8C88C",
+      "target": "Yo también hablé con Ungust... más veces de las que quisiera recordar. Parece haber algo de verdad en eso de que los humildes solo confían sus secretos a quienes sirven a los dioses."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_54",
+      "hash": "9ABE7A9E35B862BF",
+      "target": "Postración, oración, penitencia. Actos de sumisión a puerta cerrada, lejos de miradas indiscretas. ¿Quién mejor para sorprender a los piadosos que quien los confiesa... la propia y buena hermana Ourcen?"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_ISEMBARD_000_55",
+      "hash": "3730804959400B99",
+      "target": "¿¡Ourcen!? Ella no haría... ¡Ella no <italic(1)>podría<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_56",
+      "hash": "9C367D03EA8280B4",
+      "target": "Hasta las rosas más hermosas tienen espinas, amigo mío. Y haría bien en no perder de vista a <italic(1)>esta<italic(0)> rosa."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_THANCRED_000_57",
+      "hash": "67FB82715AB67E38",
+      "target": "Aun así, el sepulturero Marques... Juraría por los Doce que he visto esa cara en algún otro sitio..."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_00",
+      "hash": "DC9B190C07B1DEF4",
+      "target": "Isembard quiere que averigües cuanto puedas del clero."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_01",
+      "hash": "49D96EF3DB1CEADF",
+      "target": "Isembard te ha pedido que visites la iglesia de San Adama Landama para dar sepultura a un cadáver que ha preparado para el entierro y para hablar con los sacerdotes sobre los humildes desaparecidos. Busca a Marques en el cementerio."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_02",
+      "hash": "EDAE8F94C91F6F79",
+      "target": "Marques te ha indicado una tumba vacía en lo alto del cerro cercano. Lleva el cadáver embalsamado al lugar de sepultura."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_03",
+      "hash": "93EC52F4EE13A20A",
+      "target": "Has depositado con cuidado el cuerpo embalsamado al pie de la tumba. Cumple un último deber con el difunto y dale debida sepultura."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_04",
+      "hash": "9980B6CA88766B6A",
+      "target": "Has dado sepultura al difunto como pidió Isembard. Vuelve con Marques y dile que está hecho."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_05",
+      "hash": "000F146865EB946D",
+      "target": "Marques admite saber poco de los humildes. Te sugiere que hables con la hermana Ourcen, dentro de la iglesia."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_06",
+      "hash": "7FCEAA1710F43A4C",
+      "target": "La hermana Ourcen te informa de que, aunque los humildes le confían muchísimas cosas, no ha oído nada que pueda ayudar a tu investigación. Vuelve al Campamento Huesos Secos y habla de nuevo con Isembard."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_SEQ_07",
+      "hash": "BF68974063A0EC39",
+      "target": "A tu regreso con Isembard al Campamento Huesos Secos, el siempre gallardo Thancred aparece para saludarte. Para consternación de Isembard, sospecha que la única persona capaz de sorprender a los recelosos humildes es la propia hermana Ourcen, la que los confiesa. Isembard, sin embargo, no se deja convencer tan fácilmente."
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_00",
+      "hash": "7D8861620CD8BA09",
+      "target": "Hablar con Marques fuera de la iglesia de San Adama Landama"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_01",
+      "hash": "964468BFFAC323F6",
+      "target": "Depositar el cadáver embalsamado en el lugar de sepultura"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_02",
+      "hash": "9479DB48A82431E7",
+      "target": "Enterrar el cadáver embalsamado"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_03",
+      "hash": "917F42514092C80B",
+      "target": "Informar a Marques"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_04",
+      "hash": "CDF6484D4BB195A5",
+      "target": "Hablar con la hermana Ourcen"
+    },
+    {
+      "gameKey": "quest/006/SubWil112_00620#TEXT_SUBWIL112_00620_TODO_05",
+      "hash": "8D416506BA2E68BF",
+      "target": "Hablar con Isembard en el Campamento Huesos Secos"
+    }
+  ]
+}

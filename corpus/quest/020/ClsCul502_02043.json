@@ -1,0 +1,97 @@
+{
+  "conversation": "quest/020/ClsCul502_02043",
+  "questName": "Wait on Me",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_00",
+      "hash": "FC02553633662984",
+      "target": "Lyngsath tiene la intención de plantearte un nuevo desafío."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_01",
+      "hash": "CEF673C860049686",
+      "target": "Un conocido de Lyngsath necesita los servicios de un cocinero consumado, y el maestro del gremio cree que eres <if(gnum4,la mujer,el hombre)> ideal para el trabajo. Si la perspectiva de un nuevo reto despierta tu interés, dirígete al Miembro Ausente y preséntate ante la jefa de servicio, una tal Melkoko."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_02",
+      "hash": "461275277900F8AB",
+      "target": "En una misma frase, Melkoko se presenta y te informa de la tarea que querría encomendarte: participar en el Dellemont d'Or, el más prestigioso de todos los concursos de cocina. La ganadora de la edición anterior, revela, no es otro que el jefe de cocina del Miembro Ausente, un hombre llamado H'mhasi Tia, por quien no siente demasiado aprecio. Te pide que hables con el sujeto dentro de la taberna, para que comprendas su aversión hacia él."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_03",
+      "hash": "73A2E32D5EC21BB9",
+      "target": "Basta un momento con H'mhasi Tia para que entiendas los sentimientos de Melkoko. Pero sea lo que sea el hombre, está supremamente seguro de ganar el Dellemont d'Or por segunda vez consecutiva. Vuelve con Melkoko y relátale los detalles del encuentro."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_04",
+      "hash": "F22363F164985D77",
+      "target": "Establecido así el detestable carácter de H'mhasi Tia, Melkoko te revela su motivo para hacerte entrar en el Dellemont d'Or: quiere que derrotes al arrogante cocinero y lo pongas en su sitio. Compartas o no su entusiasmo por la justicia poética, seguro que ganas algo midiendo tus habilidades contra las de otros cocineros.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 53."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_TODO_00",
+      "hash": "76C05FD9EF3FCC88",
+      "target": "Hablar con Melkoko"
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_TODO_01",
+      "hash": "A33CC744ABE0C1F6",
+      "target": "Hablar con H'mhasi Tia"
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_TODO_02",
+      "hash": "F699AA0C570C77F1",
+      "target": "Informar a Melkoko"
+    },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_001", "hash": "26339275E404887D", "target": "¡Vaya, pero si es <split(<string(gstr1)>, ,1)>! Siempre da gusto verte, <if(gnum4,muchacha,muchacho)>. No me cabe duda de que has seguido con la cocina." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_002", "hash": "30E60DF169C07CA1", "target": "Con lo hábil que eres, imagino que te cuesta que las cosas sigan resultándote interesantes. Si es el caso, y estás ansioso por un reto, quizá pueda presentarte a alguien." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_003", "hash": "ADE95A630CDC0A06", "target": "¿Conoces el Miembro Ausente? Es la taberna que regenta Rhoswen, la capitana de las Sirenas Sanguinarias. Toda su tripulación la forman miembros del sexo débil, aunque “débil” no es una palabra que yo emplearía jamás para describir a ese grupo." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_004", "hash": "EBD85E83A9D02323", "target": "En fin, la jefa de servicio de allí tiene una tarea que requiere un cocinero consumado, y tu nombre fue el primero que me vino a la mente." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_005", "hash": "5A794F67D3D59F0A", "target": "Si crees que podría interesarte, acércate al Miembro Ausente y preséntate ante Melkoko. Ella te dirá qué necesita." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_010", "hash": "042639EF6C2BDAB3", "target": "Si estás ansioso por un reto, acércate al Miembro Ausente y preséntate ante Melkoko. Tiene una tarea que requiere un cocinero consumado." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_HMHASITIA_100_015", "hash": "0965DB94DA725C4D", "target": "¿Vienes a cenar? Lástima... solo cocino para las Sirenas o para clientes con reserva." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_020", "hash": "B9AAE72320F56B9A", "target": "¡Saludos y <if(gnum4,bienvenida,bienvenido)> al Miembro Ausente! ¿Tiene reserva, <if(gnum4,señora,señor)>?" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_021", "hash": "BC581CEAD13233C7", "target": "¿¡Es usted <split(<string(gstr1)>, ,1)>, del Gremio de Cocineros!? ¡Un placer conocerle por fin! ¡Lyngsath me lo ha contado todo sobre usted!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_022", "hash": "DC1A09E95EB2BEFC", "target": "Soy Melkoko, la jefa de servicio de este magnífico establecimiento, ¡y me gustaría que participara en el Dellemont d'Or, el más prestigioso de todos los concursos de cocina!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_024", "hash": "ED6C4DE2CD4B9148", "target": "Verá, el ganador de la edición anterior del concurso no es otro que nuestro jefe de cocina, H'mhasi Tia, ¡y menudo cabrón está hecho! ...E-ejem. Lo que quería decir es que es un hombre insufrible." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_025", "hash": "E38A6D6E25AE79D3", "target": "Pero no se fíe de mi palabra. Hable con él usted <if(gnum4,misma,mismo)> y lo entenderá. Lo encontrará dentro del restaurante, sin duda con una expresión de suficiencia en la cara." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_030", "hash": "E8F1C90F0E05EF04", "target": "Hable usted <if(gnum4,misma,mismo)> con H'mhasi Tia y lo entenderá. Lo encontrará dentro del restaurante, sin duda con una expresión de suficiencia en la cara." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_35", "hash": "3A9A2765199756E4", "target": "...¿El Dellemont d'Or? Sí, ese es justo el reto que necesitas. No sé cómo no se me ocurrió antes." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_HMHASITIA_000_040", "hash": "8555E4AE71E2A895", "target": "¿Vienes a cenar? Lástima... solo cocino para las Sirenas o para clientes con reserva." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_HMHASITIA_000_041", "hash": "24858DF550E4F457", "target": "Estoy ocupado ensayando para la ceremonia de entrega del Dellemont d'Or. Como será mi segunda victoria consecutiva, las expectativas estarán más altas que nunca." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_HMHASITIA_000_042", "hash": "467FBBF97043DAF2", "target": "¿Interpreto al campeón intocable, despreocupado como el que más? ¿O me pongo sentimental en el triunfo y derramo lágrimas de alegría? No, espera. Ahora que lo pienso, también podría mostrar desdén por la falta de rivales a la altura. Ahhh, ¡hay demasiadas maneras de ganar!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_050", "hash": "7B335711186AF133", "target": "Confío en que ahora entienda a qué me refiero. Cada palabra suya rezuma vanidad, ¡y me dan ganas de meterle una sartén caliente por su presuntuoso ojete!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_051", "hash": "0B7FCBFADD49B308", "target": "P-perdone el lenguaje. A veces se me va la boca." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_052", "hash": "DBF6792EA640CB1B", "target": "Ahora bien, por mucho que me pese reconocerlo, H'mhasi Tia es muy bueno en lo suyo. De lo contrario no habría ganado el Dellemont d'Or para empezar, ni la capitana Rhoswen lo habría contratado para agasajar a su tripulación." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_053", "hash": "F549378397E8264B", "target": "Desde entonces la fama de sus dotes culinarias ha corrido entre la gente del lugar, y nuestro local está siempre reservado con lunas de antelación." },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_054", "hash": "86FD82FB00CB95E0", "target": "Pero toda la fama y la atención se le subieron a la cabeza a H'mhasi Tia, y últimamente se pavonea como si fuera un regalo de los Doce para nuestras papilas. Fíjese: si no le gusta la pinta de un cliente, se niega a cocinar para él, ¡y eso suponiendo que se digne a presentarse al trabajo! ¿¡Se puede creer la cara de este hijo de perra!?" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_055", "hash": "7C26996099B07370", "target": "Oh, ¡pero ya estoy otra vez con mis groserías! ¡Tiene que perdonarme!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_056", "hash": "37C66DA536FD24BF", "target": "En cualquier caso, confío en que ahora entienda por qué quiero que se presente al Dellemont d'Or: ¡para que derrote a H'mhasi Tia y lo ponga en su sitio! Ah, ¡qué ración tan colmada de justicia poética será!" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_057", "hash": "E51EDBBB5C526FDD", "target": "Se ha impuesto incluso al Azote de los Cocineros. Confío en que tiene lo que hay que tener para ganar. Y por si le preocupa, el concurso no se celebrará hasta dentro de un tiempo, así que dispondrá de tiempo de sobra para prepararse. Pronto tendré más detalles para usted... ¡vuelva a pasarse!" },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SYSTEM_000_060",
+      "hash": "983724A0C21D2E94",
+      "target": "La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 53."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SYSTEM_000_065",
+      "hash": "0D8794E335D15892",
+      "target": "Los requisitos para emprender las misiones siguientes pueden consultarse en tu diario."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SYSTEM_000_070",
+      "hash": "C622196614033E4A",
+      "target": "Tus habilidades como artesano serían muy útiles para elaborar collectables. Habla con Morgayne en el Foro de Santa Reinette, en Ishgard, para saber más de esta lucrativa oportunidad de negocio."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SYSTEM_000_071",
+      "hash": "27E8067F8299440E",
+      "target": "Si buscas pruebas aún mayores de tu maestría artesanal, harías bien en adquirir recetas maestras."
+    },
+    {
+      "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SYSTEM_000_072",
+      "hash": "F3704F75070114A8",
+      "target": "Habla con Guiding Star en el Peaje del Aparecido para conocerlas."
+    }
+  ]
+}

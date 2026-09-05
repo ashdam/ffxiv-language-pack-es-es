@@ -1,0 +1,53 @@
+{
+  "conversation": "quest/004/SubSea051_00463",
+  "questName": "Dressed to Call",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_1",
+      "hash": "D68C263FD32EC380",
+      "target": "Tengo pensado encargarte una tarea, <split(<string(gstr1)>, ,2)>, pero antes de hacerlo he de asegurarme de que vas bien pertrechado."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_2",
+      "hash": "91F29843E19F9425",
+      "target": "Los piratas no gustan de parlamentar con petimetres, ya me entiendes. Puede que los de aquí hayan cambiado el alfanje por la reja del arado, pero siguen siendo unos granujas de corazón."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_3",
+      "hash": "E1D4F0B00A2199B0",
+      "target": "Sé reconocer un buen equipo en cuanto lo veo. Vuelve cuando creas que vas equipado como es debido."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_11",
+      "hash": "1E44585AE2EF4006",
+      "target": "A ver, déjame que te eche un vistazo, ¿quieres?"
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_12",
+      "hash": "82C80C90A7B5B7E5",
+      "target": "¡Ajá! Mientras vayas <italic(1)>tan<italic(0)> bien protegido, no me remorderá la conciencia echarte a los tiburones."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_13",
+      "hash": "29CE91F7C2E40EE3",
+      "target": "Los antiguos bucaneros son gente de mal genio. Arden de amor por el mar y les importan bien poco las leyes de tierra firme."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_14",
+      "hash": "11D7082917A6D730",
+      "target": "Pero respetan la fuerza y, por tu aspecto, diría que no te costará mucho llamarles la atención."
+    },
+    {
+      "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_STAELWYRN_000_15",
+      "hash": "DFB98E1B18EB7D7C",
+      "target": "No, no, <if(gnum4,muchacha,muchacho)>, me temo que no puedo darte trabajo con esas pintas. No se trata solo de saber defenderte en combate. Quieres vestirte de tal modo que <italic(1)>aterrorices<italic(0)> a tus enemigos y les hagas lamentar haberte desafiado siquiera."
+    },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_00", "hash": "B923F4E4C9C7936D", "target": "Staelwyrn, dueño de la Granja Summerford, desea inspeccionar tu equipo para calibrar tu preparación de cara a las tareas que tiene en mente." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_01", "hash": "BA6BEF58B4A8AC36", "target": "Para poder recibir encargos de Staelwyrn, primero has de reunir un equipo decente. Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior y preséntate ante Staelwyrn para la inspección." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SEQ_02", "hash": "08E51D22CAFC0C53", "target": "A Staelwyrn le has caído en gracia, y tiene trabajo para ti cuando estés <if(gnum4,lista,listo)>." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_TODO_00", "hash": "DED3DB0CE5344CAE", "target": "Presentarte ante Staelwyrn para la inspección" },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_4", "hash": "18934F0E23CF9F85", "target": "Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior y habla con Staelwyrn." },
+    { "gameKey": "quest/004/SubSea051_00463#TEXT_SUBSEA051_00463_SYSTEM_000_16", "hash": "F20B10EC6E3D8C00", "target": "Equípate cabeza, cuerpo, manos, piernas y pies con equipo de nivel de objeto 5 o superior y habla con Staelwyrn." }
+  ]
+}

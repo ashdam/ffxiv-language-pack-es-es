@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/034/LucKzf204_03485",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_SEQ_00", "hash": "7A732951FCBEA27E", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Esta Viis tímida quiere llevarte a un sitio." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_TODO_00", "hash": "D0EC210F3A09BC91", "target": "Hablar con la Viis tímida" },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_TODO_01", "hash": "D3398296C719E334", "target": "Hablar con la Viis tímida" },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_000", "hash": "FE0A45C2427159DA", "target": "¿No eres tú <split(<string(gstr1)>, ,1)>? ¿<if(gnum4,Una de las aliadas,Uno de los aliados)> de Ronka?" },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_001", "hash": "8FCEFDE83E6DBCDA", "target": "Es un honor. La verdad es que esperaba conocerte. Hay un lugar aquí, en la Gran Selva, que me encantaría enseñarte." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_002", "hash": "B3EB3361396584BA", "target": "Es un lugar de recreo, donde espero que puedas relajarte, aunque sea un ratito. Aunque me temo que no se llega a pie. ¿Tienes un amaro o quizá un jaculus que te lleve? Si es así, sígueme al oeste de Wild Fete." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_010", "hash": "2223C71993E05663", "target": "¿A que es precioso? Las copas de los árboles son como un tamiz, y dejan caer aquí solo agua de lluvia limpia, que se acumula." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_011", "hash": "E16A908277732CF6", "target": "Aquí, en la calma y el silencio del bosque, puedes cerrar los ojos, respirar hondo y dejar que tus preocupaciones se disipen." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_012", "hash": "5AACD85EE1F443B7", "target": "Lo mejor de todo es que nadie conoce este lugar salvo yo, mi hermana... y tú. Si alguna vez necesitas un respiro, no dudes en usar este manantial." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_013", "hash": "D697E5CBEAC99E53", "target": "En fin, debería volver antes de que las demás noten mi ausencia. Puedes quedarte todo lo que quieras." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_020", "hash": "3FCCF12E335A805C", "target": "¿Cómo te sientes? Renovad<if(gnum4,a,o)>, espero." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_Q1_000_000", "hash": "80DFCDEEEEF1CF91", "target": "¿Qué vas a decir?" },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_A1_000_001", "hash": "893DABB0B21911AD", "target": "Como nuev<if(gnum4,a,o)>." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_A1_000_002", "hash": "32D5749CD13AF53C", "target": "Como una esponja empapada..." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_021", "hash": "9223635DE7730221", "target": "Maravilloso. Has hecho tanto por nosotras que te has ganado con creces un momento de descanso." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_022", "hash": "A0D83CE49E6D2911", "target": "El deber te pesa mucho, ya veo. Cuando termines tu labor, ruego que encuentres un momento de descanso." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_023", "hash": "46DE79A21267B6B2", "target": "Toma. Un pequeño regalo por seguirme la corriente." },
+    { "gameKey": "quest/034/LucKzf204_03485#TEXT_LUCKZF204_03485_VIIS03485_000_024", "hash": "419D8847A0AFB9DB", "target": "Cuídate, <if(gnum4,aliada,aliado)> de Ronka. Que las bendiciones del bosque te acompañen." }
+  ]
+}

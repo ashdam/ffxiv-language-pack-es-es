@@ -1,0 +1,18 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceGetAbility_00228",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR_02", "hash": "D2D4EA3A08853C01", "target": "¿Desea enseñar una aptitud a <string(lstr1)>, <if(gnum4,señora,señor)>? En tal caso, le ruego que me facilite el manual correspondiente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_001_DONE", "hash": "7529447DC7620227", "target": "Puedo afirmar con seguridad que su chocobo de carreras ha respondido bien al adiestramiento de <sheet(ChocoboRaceAbility,lnum1,0)>. Compruébelo usted <if(gnum4,señora,señor)>." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_TALK_ACTOR", "hash": "73EA9EEA626AAC58", "target": "¿Desea enseñar una aptitud a su chocobo de carreras, <if(gnum4,señora,señor)>? En tal caso, le ruego que me facilite el manual correspondiente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_01", "hash": "3870FE44790172FB", "target": "...Pero, y esto es más importante, ¿no debería inscribir antes su chocobo de carreras?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_001_02", "hash": "EBC5EE3004F1E7F1", "target": "No pueden enseñarse aptitudes a los chocobos de carreras hasta que se hayan inscrito oficialmente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_01", "hash": "87F40BCF4BA24365", "target": "...Deduzco por su expresión que no tiene un manual de adiestramiento, ¿verdad?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_002_02", "hash": "0C57F1F9EE71FCE2", "target": "No pueden enseñarse aptitudes de carrera sin los manuales correspondientes, que pueden comprarse al vendedor de aperos y forraje en el mostrador de carreras." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_01", "hash": "FDB2CFA5B96DB88A", "target": "Mmm... Entiendo su deseo de criar el mejor chocobo de carreras posible, pero me temo que sobrestima las capacidades de su montura..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_003_02", "hash": "CA92394D6D26118B", "target": "Su chocobo de carreras debe olvidar una aptitud antes de que pueda enseñarle una nueva." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_01", "hash": "930FE0E48A44B03B", "target": "Una estrategia audaz, <if(gnum4,señora,señor)>, pero fútil, me temo. Los chocobos no son capaces de distinguir entre aptitudes tan parecidas." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_02", "hash": "E0FE17181D546471", "target": "Su chocobo de carreras no puede aprender dos aptitudes del mismo tipo." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceGetAbility_00228#TEXT_CMNGSCCHOCOBORACEGETABILITY_00228_ERROR_004_03", "hash": "99D1F6609BAAF2D5", "target": "Si desea enseñar a su chocobo una versión más potente de una aptitud ya aprendida, primero debe hacer que olvide la versión más débil." }
+  ]
+}

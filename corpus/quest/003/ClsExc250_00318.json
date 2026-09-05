@@ -1,0 +1,87 @@
+{
+  "conversation": "quest/003/ClsExc250_00318",
+  "questName": "Bleeder of the Pack",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SEQ_00",
+      "hash": "DC0D6AB6072F2ED6",
+      "target": "El maestro del hacha Wyrnzoen desea plantearte una prueba que perfeccionará tu fuerza y tu habilidad hasta cotas cada vez más altas."
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SEQ_01",
+      "hash": "A3B73DEDE6FB0642",
+      "target": "Tras tu revelador encuentro con la manada de chacales, el maestro del hacha considera que, sin más entrenamiento, tus posibilidades contra Kujata siguen siendo escasas. Por ello ha ideado una nueva prueba, diseñada para liberar tus más profundas reservas de poder destructivo. Dirígete al Bismarck y habla con Solkwyb para saber qué debes hacer."
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SEQ_02",
+      "hash": "C9E01B3943847211",
+      "target": "Parece que Solkwyb volverá a acompañarte durante tu entrenamiento. Prepárate para lo que promete ser una prueba agotadora antes de buscar a la conjuradora en la Playa Salina, en las Tierras Bajas de La Noscea."
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SEQ_03",
+      "hash": "595C2C725AA2E003",
+      "target": "Al principio, tu prueba parece absurdamente sencilla. Pero justo cuando derrotas la primera oleada de adversarios a la sombra de las inquietantes formaciones de la Playa Salina, te ves atacado por un grupo de enmascarados extrañamente familiar. Tras blandir tu hacha con torva determinación, acabas triunfando sobre los “misteriosos” guerreros, que abandonan el campo en deferencia a tu superior habilidad. Vuelve al Gremio de Asaltantes e informa de este giro de los acontecimientos al maestro del hacha Wyrnzoen."
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SEQ_04",
+      "hash": "FDFDBB346459595E",
+      "target": "Dejando de lado el asunto de los extraños enmascarados, Wyrnzoen se centra en cambio en elogiar tu despliegue de poder sin rival. Ahora se te reconoce como el dechado de la fuerza de los asaltantes, y todo el gremio está listo para apoyarte en tu empresa de matar al monstruoso Kujata. Mantén afilado el filo de tu hacha y aguzadas tus habilidades mientras aguardas el próximo avistamiento del asesino uro. Ha llegado la hora de que la bestia muera.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 30."
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_TODO_00",
+      "hash": "3DCB9ED52D184B24",
+      "target": "Hablar con Solkwyb"
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_TODO_01",
+      "hash": "9A000E5CB2910A9B",
+      "target": "Hablar con Solkwyb en la Playa Salina"
+    },
+    {
+      "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_TODO_02",
+      "hash": "7A4050FBA4C0B7C6",
+      "target": "Informar a Wyrnzoen"
+    },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_0", "hash": "F23AA4603289A7B1", "target": "<split(<string(gstr1)>, ,1)>. Nuestro encuentro casi desastroso con la manada que sigue a Kujata me ha estado rondando la mente. El abrumador número de bestias superaba cuanto yo había imaginado: ni el asaltante más entregado podría aspirar a abrirse paso por semejante muro de carne y gruñidos." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_2", "hash": "3CFB8852344CDB6C", "target": "Y si no podemos acabar con la manada, entonces Kujata seguirá fuera de nuestro alcance." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_4", "hash": "52DF3D2CEB33CE18", "target": "Por eso te he preparado una prueba que desatará tus más profundas reservas de fuerza destructiva. Como antes, Solkwyb te espera en el Bismarck para guiarte en tu camino." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_5", "hash": "8EA2EBE6AC0E4522", "target": "No desperdicies esta oportunidad de crecer, <split(<string(gstr1)>, ,1)>. El orgullo mismo del gremio depende del afilado filo de tu hacha." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_10", "hash": "A4324BF42EADAFEB", "target": "¿Traes noticias de mi hermano? ...Ja, el «orgullo del gremio», ¿eh? Parece que mi hermano te ha echado a los hombros una buena carga. Pero, por lo que he visto, si algún asaltante tiene la habilidad y la determinación para acabar con Kujata, ese eres tú." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_11", "hash": "4A940BF75C09FEFE", "target": "Y está, por supuesto, el asunto de la venganza de Sighard. No querrás decepcionar al pobre muchacho, ¿verdad?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_12", "hash": "016CA025BE9743B2", "target": "Pongámonos con esta prueba, <split(<string(gstr1)>, ,1)>. Te veré en los Atolones de Sal, en las Tierras Bajas de La Noscea, donde tendrá lugar tu adiestramiento. ¿Hm? Bueno, naturalmente que <italic(1)>yo<italic(0)> estaré allí. Sin mí, seguro que te olvidas de curarte las heridas y te desangras." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_60", "hash": "1E757FD664426816", "target": "Bueno, este debe de ser el sitio. No veo... Ah, ¿percibes esa aura de violencia que se acerca, <split(<string(gstr1)>, ,1)>? Ve desenfundando esa hacha tuya." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_TITLE", "hash": "50AFFD1E822C5313", "target": "El deber llama. ¿Deseas proceder con<br>«Sangrador de la manada»?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_YES", "hash": "7905B11C31707E9D", "target": "Sí" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_INSTANCE_BATTLE_YESNO_NO", "hash": "2ED33149E358ED10", "target": "No" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_20", "hash": "42ECC8AFFA37A094", "target": "Ese parece ser el último. Aunque, comparado con lo que hemos afrontado antes, no ha sido terriblemente─" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_21", "hash": "6E4ECC056F0EFFD1", "target": "Así que <if(gnum4,esta es la indómita,este es el indómito)> <string(gstr1)>." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_22", "hash": "02D89EF1FBD1C572", "target": "¿Quién narices eres? Espera, ¿ese es...?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_23", "hash": "342E7D05DECE4FC9", "target": "Te hemos considerado digno de nuestro desafío. ¡Ven, asaltante! ¡Pongamos a prueba el filo de tu acero!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_24", "hash": "76E25E4457962FF7", "target": "Ay, hermano..." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_70", "hash": "BCFB526D15A0B099", "target": "Parece que mis subordinados te han dado poca diversión. Muy bien. Te tomaré la medida con mi propia hoja." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_72", "hash": "DF5539D040AB779E", "target": "¡Ni se te ocurra tener piedad conmigo, <split(<string(gstr1)>, ,1)>, pues yo no te mostraré ninguna!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_30", "hash": "EB7A7B6CC2F8D126", "target": "¡Me rindo! Tu fuerza nos ha humillado a todos. Sí, puede que baste..." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_32", "hash": "CB6BF9250326171A", "target": "¡Hemos terminado aquí, colegas! Llevaos a rastras a los que no puedan tenerse en pie." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_33", "hash": "7D8DDBBC03C26E40", "target": "Tu exhibición de destreza fue verdaderamente impresionante, <split(<string(gstr1)>, ,1)>. Digna, sin duda..." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_40", "hash": "70DF3A208F8D7719", "target": "\\<suspiro> Menuda farsa ridícula. ¿De verdad creyó que no veríamos a través de esos disfraces de pacotilla?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_41", "hash": "7695C2C41EADFAB9", "target": "Aunque estoy convencida de que la actuación de mi hermano no nació de la malicia; más bien, esperaba que, al ocultar su identidad, la prueba pareciera más amenazadora y resultara así más efectiva. No fue una empresa del todo lograda, pero hay que apreciar sus intenciones." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_000_42", "hash": "9461525B1ED4BF2B", "target": "Es hora de que vuelvas al gremio. Ah, ¿y me harías un favor? Síguele la corriente a Wyrnzoen en su pequeño engaño... el subterfugio no es el fuerte de un asaltante." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_50", "hash": "74D7AFCAB59AD956", "target": "<split(<string(gstr1)>, ,1)>, he oído hablar de tu escaramuza en los Atolones de Sal. Hiciste bien en derribar a adversarios de tan formidable pericia." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_51", "hash": "DA23BA38995A414A", "target": "Pero no nos detengamos en la naturaleza de esos hombres enmascarados. Lo importante es tu triunfo frente a una desventaja abrumadora." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_53", "hash": "BB7D2C63378A101F", "target": "Tus compañeros asaltantes se sienten honrados de que blandas tu hacha en nombre del gremio. Están contigo, todos y cada uno, mientras te preparas para superar tu mayor prueba hasta la fecha." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_000_54", "hash": "964E5E4C7F8ECEFA", "target": "Sí, ha llegado el momento de que pongas fin a la sangrienta furia de Kujata. Cuando vuelva a alzar su horrible cabeza cornuda, estarás list<if(gnum4,a,o)> para hundir tu hoja en su cráneo." },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_QIB_TODO001", "hash": "5AB101F97D7B0394", "target": "¡Derrota a los Moraby hedgemoles!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_QIB_TODO002", "hash": "878E2B6A0FA2537D", "target": "¡Derrota a los asaltantes enmascarados!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_QIB_TODO003", "hash": "C20C3E70BD97C54B", "target": "¡Derrota al asaltante conocido!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_01", "hash": "38841FD21F5E88D2", "target": "¡Ja!<br>¿Y esto se supone que es una prueba?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_11", "hash": "73A7B2CA8856C3B7", "target": "¿A qué estáis jugando, zoquetes?" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_12", "hash": "195144446EF22446", "target": "No importa.<br>¡Luchamos para ganar!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_21", "hash": "CACD9A28A8F85920", "target": "¡Ahora sí que la cosa mejora!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_31", "hash": "6EC15F181EF2E119", "target": "¡En guardia!<br>¡Aún no hemos terminado!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_SOLKWYB_BATTLETALK_41", "hash": "F60D8ABB084DB67A", "target": "¡Mantén la concentración!<br>¡Esto no es un juego!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_42", "hash": "23ECF0D1EAFA53D7", "target": "¡Prepárate para ser puesto a prueba!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_51", "hash": "99FCC40A99AFA316", "target": "¿Ya agotado?<br>¡Nuestra batalla apenas ha comenzado!" },
+    { "gameKey": "quest/003/ClsExc250_00318#TEXT_CLSEXC250_00318_WYRNZOEN_BATTLETALK_61", "hash": "4A44B77F538E7362", "target": "Luchas bien, asaltante.<br>Ahora veremos de qué estás hecho de verdad." }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "conversation": "quest/004/ClsAcn011_00452",
+  "questName": "Way of the Arcanist",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_00",
+      "hash": "C06B1F02562B5EAA",
+      "target": "Murie quiere confirmar tu deseo de unirte al Gremio de Arcanistas."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_01",
+      "hash": "7ACB35D21AE4C6A1",
+      "target": "Aunque lo habitual es presentarse ante el maestro del gremio, Murie te explica que el líder de los arcanistas no está disponible por ahora. En su lugar, debes hablar con la maestra del gremio en funciones, Thubyrgeim."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_02",
+      "hash": "392870DFFB6BF93D",
+      "target": "Tras presentarte ante Thubyrgeim y declararle tu intención de unirte al Gremio de Arcanistas, la erudita Roegadyn te entrega un weathered grimoire. Toma el tomo arcano y ponte bajo la tutela de Thubyrgeim."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_TODO_00",
+      "hash": "49E5FB7D3C5C1DB6",
+      "target": "Hablar con Thubyrgeim"
+    },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_000", "hash": "332A0B35284A0E4D", "target": "¿Y bien? ¿Has decidido inscribirte en nuestro gremio? ¿O acaso te intimida ahora la idea de pensar en exceso?" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_005", "hash": "A016C90EADD71107", "target": "Por supuesto, eres libre de meditar tu decisión durante todo el tiempo que quieras. Aquí estaré esperando, por si eliges abrazar una vida de esfuerzo académico." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_010", "hash": "465132EBD1EAF8DB", "target": "Tu buen juicio es digno de elogio. Ahora bien, lo habitual sería que te presentara a nuestro maestro del gremio para que le comunicaras tus intenciones en persona..." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_011", "hash": "76A466A54A237B7B", "target": "Sin embargo, por circunstancias extraordinarias, ahora mismo está... ilocalizable. En su lugar, puedes hablar con la señora Thubyrgeim, que ha asumido toda la responsabilidad de dirigir el gremio mientras tanto." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_012", "hash": "BE551D3A942A799E", "target": "La encontrarás justo ahí, junto a las estanterías. No seas tímid<if(gnum4,a,o)>: aunque su mente es aguda y crítica, su trato es siempre de lo más acogedor." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_020", "hash": "8A167CAC01A4704A", "target": "Sí, soy Thubyrgeim. Bienvenid<if(gnum4,a,o)> al Gremio de Arcanistas. Como Murie te habrá explicado, ejerzo de maestra del gremio en funciones hasta que nuestro díscolo líder regrese. Supongo que nuestra recepcionista también te habló de los orígenes del arte, ¿no?" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_021", "hash": "3118CAC65069AD45", "target": "Permíteme, pues, explayarme sobre su naturaleza. La magia arcana aprovecha las energías vivas del éter. Quizá la prueba más evidente de ello sea nuestra capacidad de manifestar a la entidad arcana Carbuncle, y la clase de magia que este aliado etéreo emplea a nuestras órdenes." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_022", "hash": "D223FC9BD9FDE229", "target": "El núcleo de la disciplina, no obstante, reside en la búsqueda de soluciones definitivas a cualquier posible dilema. Incluso en el campo de batalla ─no, <italic(1)>especialmente<italic(0)> en el campo de batalla─, este principio prevalece." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_023", "hash": "43464FC085B40339", "target": "Si uno desea asegurar la cuestión de la victoria, debe aplicar la estrategia más eficaz. A un arcanista se le mide por <if(gnum4,su,su)> capacidad de analizar con calma la situación a cada instante y responder con los hechizos más apropiados a su alcance." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_024", "hash": "8B340C5C49C35DCA", "target": "El estudio de la magia arcana pondrá a prueba tus facultades mentales hasta la perplejidad. ¿Estás dispuest<if(gnum4,a,o)> a razonar para salir de un aprieto tras otro?" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_Q1_000_000", "hash": "6E398521FB85CA5B", "target": "¿Preparad<if(gnum4,a,o)> para razonar?" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_A1_000_001", "hash": "496AEDA82A0C6FE6", "target": "Sí" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_A1_000_002", "hash": "2A96F47488041CF6", "target": "No" },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_030", "hash": "B04B9D3A4CDB585D", "target": "Ya veo. Aunque te felicito por llegar a esa conclusión <italic(1)>antes<italic(0)> de unirte al gremio, debo admitir cierta decepción. Si cambiaras de parecer, no dudes en buscarme de nuevo." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_035", "hash": "BA044E9B110A1ACD", "target": "Una respuesta inequívoca; de las que más me gustan. Veamos ahora si la claridad de tus palabras se corresponde con la agudeza de tu mente. Toma, empuña este grimorio, y a continuación pondremos a prueba tu aptitud para nuestra disciplina." },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_040",
+      "hash": "92306ACD6CE943D7",
+      "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a ella en cualquier momento equipando el arma que has recibido en esta misión."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_041",
+      "hash": "D210186ABB9CEFCA",
+      "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Después podrás alternar entre clases al instante, sin tener que equipar armas o piezas manualmente."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_042",
+      "hash": "43297C29AF42C072",
+      "target": "El botón de la interfaz de gear sets está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>."
+    }
+  ]
+}

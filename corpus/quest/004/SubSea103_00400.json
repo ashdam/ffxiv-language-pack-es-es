@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/004/SubSea103_00400",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_00", "hash": "F2194A096A23ABF0", "target": "Kazai Buoyzai, un transportista de carga del Elevador Celeste, necesita una mano para mantener fresco su pescado." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_01", "hash": "F27D2F0383981367", "target": "Las gélidas esencias de los water sprites son perfectas para mantener el pescado frío durante el transporte. Abate water sprites hasta que hayas recogido tres de sus núcleos." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_02", "hash": "6E83CBF81A7A6975", "target": "Has recogido tres núcleos de water sprite. Entrégaselos a Kazai Buoyzai en el Elevador Celeste." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_SEQ_03", "hash": "2A9C490F4076FCB7", "target": "Kazai parece muy satisfecho con los núcleos, y aliviado de que sus clientes vayan a recibir sus mercancías en perfecto estado. La competencia entre las compañías de carga que usan el Elevador Celeste es feroz, y cualquier paso en falso puede significar perder clientes a manos de un rival." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_00", "hash": "9C4F7934B32E1133", "target": "Derrotar a los water sprites y recoger sus núcleos" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_TODO_01", "hash": "1E55ECE844E69AB7", "target": "Entregar los núcleos de water sprite a Kazai Buoyzai en el Elevador Celeste" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_1", "hash": "BE2A6E5D4632949E", "target": "¡Ojo avizor, <if(gnum4,muchacha,muchacho)>, que tengo un trabajo para ti! No tenemos mucho tiempo, así que escucha bien." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_2", "hash": "649F77CBC4EA2A7D", "target": "Hoy tengo demasiado pescado y no bastantes núcleos de water sprite para mantenerlo fresco. ¿Ves mi problema?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_3", "hash": "A3A388B138C26C7D", "target": "No puedo andar entregando cajas de pescado podrido, así que necesito que te acerques por ahí y bailes con esos sprites chorreantes hasta que hayas reunido tres de sus gélidas esencias. ...<italic(1)>Sabes<italic(0)> que no quiero que bailes con ellos de verdad, ¿no?" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_11", "hash": "DD79BD2F6EE7F1C2", "target": "¿Ya has vuelto? No me hagas esperar. ¡A ver esos núcleos!" },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_12", "hash": "6130B1A468C81221", "target": "Sí, <if(gnum4,muchacha,muchacho)>, lo has hecho bien. Estoy deseando meter estas preciosidades en mis cajas de pescado..." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_13", "hash": "7427D475AACAD0B1", "target": "Con eso la pesca se mantendrá fresca, y mis clientes, contentos." },
+    { "gameKey": "quest/004/SubSea103_00400#TEXT_SUBSEA103_00400_KAZAIBUOYZAI_000_14", "hash": "A5BEDAE7BCE46F95", "target": "Hay un montón de compañías de transporte que usan el Elevador Celeste... ¡metes la pata una vez y algún bastardo te roba la clientela!" }
+  ]
+}

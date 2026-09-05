@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/021/HeaVny806_02106",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_00", "hash": "5C9266D4D9CFA336", "target": "Eloin cree que eres justo <if(gnum4,la mujer,el hombre)> que busca." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_01", "hash": "638779503AE0873E", "target": "Conforme a las órdenes del gran comandante, los Caballeros del Templo han establecido un sistema para aceptar y emitir leves similar al que administran los Gremios de Aventureros de Eorzea. Si deseas emprender alguno de estos leves, solo tienes que hablar con Eloin en Foundation." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "Disculpe, pero usted es <if(gnum4,la señora,el señor)> <split(<string(gstr1)>, ,2)>, ¿me equivoco?" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "¡Justo <if(gnum4,la mujer,el hombre)> que esperaba ver! Da la casualidad de que tengo una propuesta para usted." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "Verá, conforme a las órdenes del gran comandante, hemos establecido un nuevo sistema similar al que administran los Gremios de Aventureros de Eorzea." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_003", "hash": "CDEF71C4FF701858", "target": "Documentamos las peticiones del pueblo y las distribuimos entre individuos motivados como usted." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_004", "hash": "EE88B5E6EBD65B8E", "target": "Si nos ayudara con estos leves, <if(gnum4,señora,señor)>, se lo agradeceríamos enormemente, ¡y le compensaríamos como corresponde!" },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_000_005", "hash": "47346BA5D42EC0EC", "target": "Ya puedes emprender leves de templo hablando con Eloin." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_005", "hash": "1DF1460D6EDD637F", "target": "Además de los levequests normales, que requieren una autorización de leve para aceptarse, también hay <colortype(500)><edgecolortype(501)>levequests a gran escala<edgecolortype(0)><colortype(0)> que requieren diez." },
+    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_SYSTEM_100_006", "hash": "8E126407EC2BC303", "target": "Estas misiones requerirán más esfuerzo, pero rinden recompensas más ricas." }
+  ]
+}

@@ -1,0 +1,581 @@
+{
+  "conversation": "quest/048/KinGmb111_04890",
+  "questName": "The Feat of Proof",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_SEQ_00", "hash": "6EE14BC8ECC19C92", "target": "Alphinaud quiere compartir su estrategia para recabar información." },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_00", "hash": "3B5EE032BB901547", "target": "Reunir información en el Eco de Worlar" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_01", "hash": "BB375ABBF21BA41A", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_02", "hash": "69C6EF39EA5042FC", "target": "Hablar con Krile" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_03", "hash": "C2BBE24D1E7B4B9A", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_04", "hash": "63665074A571D938", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_05", "hash": "F79768845DFC08F1", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_06", "hash": "4942C527A6632659", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_TODO_07", "hash": "1F7381C91BC96818", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_001",
+      "hash": "4E2D09D5AC6E83CD",
+      "target": "¡Si queremos superar esta prueba, parece que nos queda más escalada por delante!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_005",
+      "hash": "98B3C7B1774C239C",
+      "target": "He encontrado muchas criaturas extraordinarias en Eorzea y en otros sitios, pero hacía mucho que no sentía una presencia tan abrumadora, como mil puntas de daga pinchándome la piel."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_010",
+      "hash": "83C6968277E74057",
+      "target": "He percibido la expulsión reciente de una gran cantidad de éter desde la prisión de Valigarmanda. Me temo que el hielo aguantará solo unos años más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_015",
+      "hash": "E56D9212AAD9E44F",
+      "target": "Los tural vidraal suenan tremendamente parecidos a los auspicios del Lejano Oriente. ¿Crees que serán lo mismo con otro nombre?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_020",
+      "hash": "D0EBB1C7B39C4E8B",
+      "target": "Como acaban de informarnos, la Prueba del Testimonio nos exige buscar al Gran Lumbrera Gurfurlur en algún punto de estas montañas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_021",
+      "hash": "4FC50C45000C6CA8",
+      "target": "Sin embargo, si las pruebas anteriores sirven de indicio, hemos de suponer que el desafío impide a los Yok Huy responder a nuestras preguntas sin rodeos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_022",
+      "hash": "32C0EB0FB2B971DB",
+      "target": "Por eso os pediría que prestéis mucha atención mientras intentáis adivinar el paradero de Gurfurlur."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_023",
+      "hash": "1F13644BC0EC4032",
+      "target": "Aunque los gigantes no nos den una ubicación precisa, puede haber pistas escondidas en sus palabras. Esa es mi teoría, al menos. Veamos qué descubrimos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_030",
+      "hash": "CF0F054DFA0AB247",
+      "target": "Los Yok Huy son más grandes de lo que imaginaba. Uno al lado de otro, harían parecer pequeño hasta a un Hanu."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_035",
+      "hash": "995A21A38854C43A",
+      "target": "Este muro está cubierto de escritura Yok Huy. Me pregunto qué dirá..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_040",
+      "hash": "56BF916E7C76429A",
+      "target": "Por lo que he visto de ellos hasta ahora, los Yok Huy parecen un pueblo apacible y reservado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_045",
+      "hash": "75B5943CEBE048B8",
+      "target": "Aquí también cultivan maíz. Es una cosecha común vayas donde vayas, incluido el norte, en Xak Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_050",
+      "hash": "AF270326758628AD",
+      "target": "Cuando hayáis acabado de preguntar por ahí, podemos vernos donde empezamos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YORGERWOR_000_055",
+      "hash": "030C279D2AF1E427",
+      "target": "¿El Gran Lumbrera? No, hoy no lo he visto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YORGERWOR_000_056",
+      "hash": "C7DDC8C1C3D91F80",
+      "target": "Ahora dejadme preguntar yo. Esa Xbr'aal que salió antes del templo... ¿Era de verdad la Tercera Promesa?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YORGERWOR_000_057",
+      "hash": "9362189174918B0E",
+      "target": "Parece más bien poca cosa. ¿Cómo va a suceder al poderoso Gulool Ja Ja?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YORGERWOR_000_060",
+      "hash": "E273E0628E2D6917",
+      "target": "Zoraal Ja resultaba mucho más imponente. Desprende la misma sensación de fuerza indomable que su padre."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZURFERLAR_000_065",
+      "hash": "5F467250EA5AFC44",
+      "target": "¿Preguntando también por el Gran Lumbrera? No sé dónde encontrarlo, pero ojalá tengáis ocasión de hablar con él."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZURFERLAR_000_066",
+      "hash": "6A7DFBDD50991208",
+      "target": "Es un gran hombre, con hondo respeto por nuestras tradiciones. Estos glifos que tallamos, por ejemplo: les da tanto valor como a cualquier tesoro que poseamos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZURFERLAR_000_067",
+      "hash": "568D50AFC9EC7855",
+      "target": "Son registros de vidas vividas. Vuestra llegada también la grabaré en la piedra, para que la historia de nuestro encuentro perdure incontables vueltas del sol."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZURFERLAR_000_068",
+      "hash": "D80B2EFAD642C775",
+      "target": "Si sentís curiosidad por nuestras costumbres, os invito a visitar el Testimonio, al noroeste de aquí. Es uno de nuestros camposantos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZURFERLAR_000_070",
+      "hash": "28C88792B7749583",
+      "target": "Id al Testimonio. Las piedras os ayudarán a entender a mi pueblo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZERBORLOR_000_075",
+      "hash": "5E6A481D72E45FDD",
+      "target": "¿De Tuliyollal? ...No, creo que venís de más lejos que eso."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZERBORLOR_000_076",
+      "hash": "A6F6E8434E04CC7B",
+      "target": "En cuanto al Gran Lumbrera, solo puedo suponer dónde estará. Es guardián de la Ruina del Cielo, pero también custodio de los sepulcros, y sus deberes lo sacan a menudo de la aldea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ZERBORLOR_000_080",
+      "hash": "6F3B2AD7D127476C",
+      "target": "Como recibimos pocas visitas, no es frecuente que hable tural. Me alegra la ocasión de practicar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_090",
+      "hash": "852A237EC5EBEDC5",
+      "target": "Lo primero es lo primero. ¿Alguien logró sonsacar una ubicación concreta del Gran Lumbrera?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_091",
+      "hash": "CC7DF6AED2003B61",
+      "target": "Como era de esperar. ¿Qué hay entonces de pistas o indicios que puedan orientarnos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_092",
+      "hash": "2893A025F939A7C1",
+      "target": "He oído que, además de sus deberes habituales, Gurfurlur está encargado de custodiar las tumbas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_093",
+      "hash": "32E8ADA66F5017E5",
+      "target": "Yo también. Los sepulcros de los Yok Huy parecen tener un significado especial en su cultura."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_094",
+      "hash": "7B06457CA2471BC1",
+      "target": "Mmm. ¿Pero sería apropiado que unos forasteros entráramos en sus terrenos funerarios...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_095",
+      "hash": "66FDA98765FE41B1",
+      "target": "“El Testimonio”, decís. ¿Y os animó a visitar ese lugar vosotros mismos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_096",
+      "hash": "0B008DE925048755",
+      "target": "Pues vamos a echar un vistazo. ¡Aunque no encontremos allí a Gurfurlur, nos dará ocasión de saber más de los Yok Huy!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_097",
+      "hash": "6441410FC363C55A",
+      "target": "¿El camposanto está en algún punto al noroeste? Bueno, podemos salir por ese lado de la aldea para empezar. ¿Vamos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_110",
+      "hash": "2D85E92C28D0361B",
+      "target": "Los demás se han adelantado hacia el Testimonio, siguiendo el sendero al oeste. Hay caídas a pico por todas partes, así que vamos cada uno a nuestro ritmo. Algunos no estamos hechos para el terreno escarpado..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_100_110",
+      "hash": "D74513E990FCCA48",
+      "target": "Pensé en orientarme desde aquí arriba primero, para no despeñarme por un risco. ¿Por qué no intentas alcanzar a Erenville? Él sabrá indicarte la dirección correcta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_200_110",
+      "hash": "C923AE2C4A172E3B",
+      "target": "¿Será eso de allá el Testimonio...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_105",
+      "hash": "4A6ABDD8860417CE",
+      "target": "No es exactamente alpinismo, pero estas cuestas empinadas cansan lo suyo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_120",
+      "hash": "59A5EB4C23862EEF",
+      "target": "Tienen aspecto de viviendas más que de tumbas, pero parece que han pasado muchos años desde que aquí vivió nadie."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_125",
+      "hash": "A6E61577E09FD992",
+      "target": "Mira este cráter. No hay madera, ni árboles, ni siquiera hierba seca, y aun así el suelo sigue ardiendo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_126",
+      "hash": "CE316F296999A0A2",
+      "target": "Esta debe de ser una de las cicatrices que dejó la furia de Valigarmanda, según cuenta la gesta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_127",
+      "hash": "E0F0115805606969",
+      "target": "Los fuegos de la Ruina del Cielo se describen como eternos: llamas que no apagan ni la tormenta ni el tiempo. Y yo que lo tenía por un adorno literario."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_128",
+      "hash": "D200CF57AC83F221",
+      "target": "Ah, pero ahora he perdido de vista a Wuk Lamat. El Testimonio queda al noroeste por el camino principal, así que ojalá siga yendo en la dirección correcta..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_130",
+      "hash": "D57642D4380C8DB2",
+      "target": "Ah, habéis venido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_145",
+      "hash": "62ADE2BF07B6804F",
+      "target": "“Un mundo que no puedes vivir en soledad.” ¿Es eso lo que le mostró su viaje con el Servidor del Alba? ¿Algo que yo también podría encontrar...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_200_155",
+      "hash": "A519A81F8560C291",
+      "target": "¡Je, je, Wuk Lamat gana otra vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_100_155",
+      "hash": "6BDB4C568EA425C7",
+      "target": "Parece que ya estamos todos, así que..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_155",
+      "hash": "EDE764046B19995E",
+      "target": "¡Saludos, amigo! ¿Eres tú Gurfurlur?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_156",
+      "hash": "DBBC42697BE879A0",
+      "target": "No, no lo soy. El Gran Lumbrera, sin embargo, me encargó dar una lección sobre los sepulcros a quienes vinieran buscándolo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_157",
+      "hash": "CA787A7DB27B95B1",
+      "target": "Ah, así que se suponía que debíamos llegar aquí después de todo. ¿Vas a contarnos quién está enterrado aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_158",
+      "hash": "279FAE446FF2B99A",
+      "target": "Nadie está “enterrado” aquí en el sentido que dices. Cuando un cuerpo ha cumplido su función, lo entregamos a las llamas y esparcimos sus cenizas por las cumbres."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_159",
+      "hash": "20E375828C66786F",
+      "target": "Además, no concebimos la muerte como otros. Para nosotros, una persona no muere cuando su corazón deja de latir, sino solo cuando ya nadie que la conoció la lleva en el suyo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_160",
+      "hash": "780AFD55E558A2EB",
+      "target": "Por eso erigimos nuestros sepulcros antes de que nos reclamen la edad o el infortunio: para grabarnos en la crónica viva por toda la eternidad."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_161",
+      "hash": "36B8CF5504B7F221",
+      "target": "Esta tumba es de un buen amigo. Su envoltura mortal terminó su viaje hace unos años, pero él vive dentro de mí, aún ahora."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_163",
+      "hash": "655ADFB4BF825EF1",
+      "target": "Allá arriba se alza mi propio sepulcro."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_164",
+      "hash": "BEB0170C1F136610",
+      "target": "Mientras exista, existiré yo. Perduraré en el corazón de quienes lean los glifos de mi tumba, del mismo modo que mi amigo perdura en el mío."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_165",
+      "hash": "5923C049A1E4ED1E",
+      "target": "¿Siempre ha sido así para vuestro pueblo? ¿Esta concepción de la existencia y de la muerte?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_166",
+      "hash": "4CB6B2D1A50ADFE6",
+      "target": "Seguid este camino hasta el Pasaje Indeleble. Contemplad la historia de sus muros y quizá halléis las respuestas a vuestras preguntas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_167",
+      "hash": "669EB0CC49445570",
+      "target": "Pues eso haremos. ¡Vuestras tradiciones son fascinantes y me encantaría saber más!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_168",
+      "hash": "A317880979883F58",
+      "target": "Os agradezco que me hayáis dejado compartirlas, pues al hacerlo permaneceré también en vuestros corazones."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYQUIET04890_000_170",
+      "hash": "A9EF1C8159B1F39E",
+      "target": "Id ahora al Pasaje Indeleble. En sus murales queda desnuda la historia de mi pueblo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_175",
+      "hash": "1BEBD5565D54EC9B",
+      "target": "Os estaba esperando."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_180",
+      "hash": "4A0AC1EF717FBC85",
+      "target": "Tengo la sensación de que nos esperaban..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_185",
+      "hash": "99BB2D8E186B1D5C",
+      "target": "No solo que te recuerden, sino seguir viviendo dentro del corazón de otros..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_190",
+      "hash": "0FDFEF3D8B93361D",
+      "target": "Si es posible, entonces mi abuelo vive sin duda dentro del mío. Es un pensamiento reconfortante."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_195",
+      "hash": "832C10072A8B8832",
+      "target": "Nunca había hablado con un Yok Huy, y no tenía ni idea de que sostuvieran semejante filosofía sobre la vida y la muerte."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_200",
+      "hash": "463C6AB77FB9261E",
+      "target": "¡Mirad estos murales espléndidos! Parecen representar cuatro escenas distintas..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_205",
+      "hash": "61DAA782A7DE62D4",
+      "target": "¡Hola! Un tipo que conocimos en el Testimonio nos sugirió que viniéramos aquí..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_206",
+      "hash": "699A421A6B653FBC",
+      "target": "Sí, el Gran Lumbrera me ordenó estar atento a vuestra llegada. Como cronistas de nuestro pueblo, siempre ha sido deber de mi familia transmitir las enseñanzas de los murales de generación en generación."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_207",
+      "hash": "9824C471FBDEE972",
+      "target": "Son verdaderamente magníficos. ¿Y juntos cuentan la historia de vuestro pueblo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_208",
+      "hash": "F6254390377D3D75",
+      "target": "Son los sucesos que nos dieron forma. Quisiera compartirlos con vosotros antes de que sigáis camino."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_209",
+      "hash": "1C7929484B3AED3C",
+      "target": "¡Por favor! Nos encantaría oírlo todo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_210",
+      "hash": "F6ABEB47D7A6914C",
+      "target": "Entonces empezaré."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_211",
+      "hash": "5F59A619B0E4CBE9",
+      "target": "Este primer mural representa una época de hace más de mil cien años. Una era de gran prosperidad para los Yok Huy..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_212",
+      "hash": "885322343882744E",
+      "target": "Bendecidos con un tamaño y una fuerza que ningún otro pueblo igualaba, nuestros antepasados marcharon y sometieron a su dominio buena parte de Yok Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_213",
+      "hash": "D276FCBAFB7221A7",
+      "target": "Después, conquistado cuanto tenían delante, volvieron la mirada al norte, buscando expandir su territorio y su poder."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_214",
+      "hash": "A8382F287B2D6A2D",
+      "target": "Aquí vemos la expedición a Xak Tural. Incapaces de cruzar el estrecho en barco, nuestros antepasados se pusieron a construir un puente hacia las tierras del norte: una obra grandiosa que consumió la mayor parte de un siglo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_215",
+      "hash": "1FFF5144F85BE193",
+      "target": "Zorgor el Ilimitado. En Tuliyollal aún usamos ese puente para viajar. No me imagino la paciencia y la entrega que costó terminar una obra de esa escala."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_216",
+      "hash": "1C2DAB0226E3C09B",
+      "target": "Pero nunca he oído de ningún Yok Huy que viva en Xak Tural. ¿Qué fue de los que marcharon al norte?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_217",
+      "hash": "F3C586B7E384D52D",
+      "target": "Mirad este mural siguiente y contemplad la respuesta."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_218",
+      "hash": "CFF65DA21301B597",
+      "target": "La escena sugiere que muchos gigantes perecieron de golpe. ¿Qué clase de enemigo pudo repeler su invasión?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_219",
+      "hash": "2DCB2C353ABD6E98",
+      "target": "Un enemigo sin nombre y sin rostro. Cuando la expedición se adentró en Xak Tural hace aquellos mil años, a sus soldados los derribó la enfermedad."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_220",
+      "hash": "0BBD630A9ED63834",
+      "target": "¿Alguna dolencia terrible?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_221",
+      "hash": "7D38ABF9945B5B12",
+      "target": "No. Ninguna peste virulenta ni plaga recién surgida. Para los Tonawawta y Shetona locales era solo una afección leve, de las que llegan con el cambio de estación."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_222",
+      "hash": "CF2B78C79F4BE4A2",
+      "target": "Lo que en ellos se manifestaba como algo de fiebre y tos, sin embargo, resultó mortal para nuestro pueblo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_100_222",
+      "hash": "6643A5ADBB8285BB",
+      "target": "De cada diez Yok Huy que se sumaron a aquella campaña del norte, nueve sucumbieron al contagio. Los que sobrevivieron siguieron sufriendo, y les costaba engendrar descendencia."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_223",
+      "hash": "87208EA22F989B41",
+      "target": "He oído hablar de esto antes. Sin una resistencia heredada, quien visita tierras lejanas puede caer mortalmente enfermo por males que un lugareño apenas nota."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_224",
+      "hash": "1DC4AAF7490DFB3E",
+      "target": "Estos sucesos también pudieron dar origen a la práctica de incinerar los restos mortales en vez de enterrarlos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_225",
+      "hash": "E85D9FC8F8310258",
+      "target": "Este último mural representa el regreso de nuestros hermanos afligidos a Urqopacha."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_226",
+      "hash": "C6E4B7D7D31D2DEA",
+      "target": "La razón por la que partieron, por la que lucharon tanto tiempo y llegaron tan lejos, era asegurar la paz de nuestra tierra."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_227",
+      "hash": "75E2938CB9A4105B",
+      "target": "Esta empresa comenzó en tiempos antiguos. Cuando nuestros antepasados supieron que compartían el continente con pueblos distintos a nosotros en aspecto y costumbres, temieron que la invasión fuera inevitable."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_228",
+      "hash": "A4356E6540B96BAB",
+      "target": "Antes que aguardar mansamente su destino, decidieron asestar el primer golpe. Pero, según seguían luchando y luchando, la vieja idea de paz se alejaba más y más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_229",
+      "hash": "CC7FF9E05598F5E1",
+      "target": "Solo tras el desastre de Xak Tural y su retirada a las montañas llegaron a comprender..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_230",
+      "hash": "562E760014F61000",
+      "target": "La paz que imaginábamos había estado siempre a nuestro alcance. Estaba aquí, en el lugar que nos vio nacer; aquí, en las piedras donde grabamos nuestros días; aquí, en esta vida serena que habíamos cambiado por conquista y conflicto."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_231",
+      "hash": "C260E18B39ECD41A",
+      "target": "Cuando no haces más que pelear, eso puede cegarte a lo que tienes delante de los ojos..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_232",
+      "hash": "392D2C58A3FACCF2",
+      "target": "Y así volvemos al presente. Confío en que esta breve historia de mi pueblo os haya resultado esclarecedora."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_233",
+      "hash": "F2128CAC17B05E9E",
+      "target": "¡Siempre me alegra saber más de mis compatriotas turales: cómo habéis vivido hasta ahora y cómo deseáis vivir de aquí en adelante!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_234",
+      "hash": "D7FCB05455FBDC3D",
+      "target": "Entonces creo que estáis listos para seguir. El Gran Lumbrera os pide que os reunáis con él en la cima de Worqor Zormor."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_235",
+      "hash": "A089A5484A97CEBA",
+      "target": "Tenía el pálpito de que acabaríamos escalando esa mole de montaña... ¡Bueno, es una prueba digna del nombre!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_236",
+      "hash": "ED0CCB2B9E230E44",
+      "target": "Seguid el sendero al sur de aquí para empezar el ascenso, pero andad con ojo: pasada la entrada, la ladera es hogar de bestias feroces, tanto comunes como de las otras."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_237",
+      "hash": "034BFAD1C7035ACA",
+      "target": "¡Lo tendremos en cuenta! Gracias por el aviso... ¡y por la lección!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_238",
+      "hash": "36CD8991633A9472",
+      "target": "Por fin sabemos adónde vamos: ¡a la cima de Worqor Zormor!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_240",
+      "hash": "E74FE881079FCC9D",
+      "target": "Si hubiera sabido que íbamos a escalar Worqor Zormor, quizá no habría subido y bajado corriendo todos esos senderos. Me están matando los pies."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_YOKHUYHONEST04890_000_241",
+      "hash": "19E72951B3CF6B17",
+      "target": "Vuestro interés sincero por nuestra historia resulta... refrescante."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_245",
+      "hash": "61CC29E023699932",
+      "target": "\\<jadeo> Este aire enrarecido de montaña... va a acabar conmigo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_246",
+      "hash": "D20BDCBC196C7411",
+      "target": "¿Qué...? ¿¡Cuánto llevas ahí plantado!? ¡Solo estaba admirando el paisaje, nada más!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_100_246",
+      "hash": "8B83721FDB72B21B",
+      "target": "¡Venga, que no queremos quedarnos muy atrás de Alphinaud y los demás!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_KRILE_000_250",
+      "hash": "092D3F0FB1DDE8FB",
+      "target": "El tamaño real de una montaña nunca es más evidente que cuando estás justo a sus pies..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ERENVILLE_000_255",
+      "hash": "7C1235555A5BE417",
+      "target": "Me temo que de aquí en adelante no os serviré de mucho como guía. Ni siquiera en Tuliyollal hay apenas nada escrito sobre la cima sagrada de Worqor Zormor. Nada más allá de poesía caprichosa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALPHINAUD_000_260",
+      "hash": "292AD5AF2A6E3ECE",
+      "target": "Le he lanzado un hechizo reparador a Wuk Lamat. Hasta nuestra indómita Tercera Promesa acusa el esfuerzo de estas cuestas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_ALISAIE_000_265",
+      "hash": "C4805C42C20E36F3",
+      "target": "Espero que nos crucemos con Bakool Ja Ja camino de la cima: aún le debemos los problemas que nos causó en Kozama'uka."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_270",
+      "hash": "D1712FE87AAB6B3B",
+      "target": "¿Recuerdas cuando el cronista decía que cuanto más luchaban, más se alejaban de su idea de paz?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_271",
+      "hash": "B04FB8F09E6935A1",
+      "target": "Se me ocurre que, si Zoraal Ja está intentando la Prueba del Testimonio, habrá oído esa misma lección."
+    },
+    {
+      "gameKey": "quest/048/KinGmb111_04890#TEXT_KINGMB111_04890_WUKLAMAT_000_272",
+      "hash": "2A8B91B2D565ADFD",
+      "target": "Solo puedo esperar que le haya hecho replantearse su postura sobre “educar” a la gente mediante la guerra."
+    }
+  ]
+}

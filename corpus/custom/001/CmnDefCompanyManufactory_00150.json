@@ -1,0 +1,21 @@
+{
+  "conversation": "custom/001/CmnDefCompanyManufactory_00150",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_TITLE", "hash": "C6DD4DCB61C69573", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_NOTE", "hash": "93B0997E2E58499A", "target": "Consultar el cuaderno de artesanía de la compañía." },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_SUPPLY", "hash": "F9A9BAD55B143192", "target": "Aportar materiales. (Calidad: <num(lnum1)>/100)" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_BREAK", "hash": "696FEC9E8F4A5F8D", "target": "Interrumpir el proyecto." },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_GET_ITEM", "hash": "8467FB6CEDB4B36B", "target": "Recoger el producto terminado." },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_PROGRESS", "hash": "496D9853FAD4731A", "target": "Avanzar a la siguiente fase de producción. (Calidad: <num(lnum1)>/100)" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_CC_LAST_PROGRESS", "hash": "2AE3EBA011E6B847", "target": "Completar la construcción de <ennoun(Item,3,lnum1,1,1)>. (Calidad: <num(lnum2)>/100)" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_MENU_EXIT", "hash": "ECBABADCA0178F95", "target": "Nada." },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_SUBMENU_CC_BREAK_ALL_CONF", "hash": "716D5677E1A76831", "target": "¿Seguro que deseas interrumpir la construcción de <ennoun(Item,3,lnum1,1,1)>?<br><colortype(500)><edgecolortype(501)>Ten en cuenta que se perderá todo el progreso y que los materiales aportados no se devolverán.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_SUBMENU_CC_BREAK_ALL_CHECK", "hash": "77CD6A773B88E050", "target": "Interrumpir el proyecto." },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_SUBMENU_CC_BREAK_YES", "hash": "89F1AECEF6C5EA63", "target": "Sí" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_SUBMENU_CC_BREAK_NO", "hash": "99466569F8CD2097", "target": "No" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_FINISH_CONF", "hash": "8A641089063B9D9E", "target": "¿Recoger <ennoun(Item,3,lnum1,1,1)> del taller de la compañía?" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_FINISH_YES", "hash": "26A342EF01530F04", "target": "Sí" },
+    { "gameKey": "custom/001/CmnDefCompanyManufactory_00150#TEXT_CMNDEFCOMPANYMANUFACTORY_00150_FINISH_NO", "hash": "144DC8E720CA4117", "target": "No" }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/021/JobAst299_02123",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_000", "hash": "2E316D61778D4A8A", "target": "Le doy la bienvenida al Athenaeum Astrologicum. Quizá le atrajo el destino a este lugar de saber... ¿o quizá desea saber más sobre el destino mismo?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q1_000_000", "hash": "0FE2C2D5DDDE38B9", "target": "¿Deseas saber más sobre el destino?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_001", "hash": "7F1206FC323C0958", "target": "Sí" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A1_000_002", "hash": "E9853E2B0B83A44B", "target": "No" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_001", "hash": "9438D604EF4DE991", "target": "Entonces fue sabio venir hasta aquí. Pues en las estrellas están escritos los destinos de cada mujer y cada hombre de Hydaelyn." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_002", "hash": "E2F4B87021A7E7DC", "target": "Eso dice, y sin embargo aquí está. Solo ha de aprender a abrir los ojos y ver las respuestas que aguardan sobre nosotros en el firmamento infinito." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_003", "hash": "94B194317533E743", "target": "Fue allí, en las estrellas, donde leí que <if(gnum4,una mujer,un hombre)> visitaría el Athenaeum este mismo día. <if(gnum4,Una mujer,Un hombre)> que desempeñaría un papel importante en <italic(1)>mi<italic(0)> propia vida." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_004", "hash": "5F9BDEE844BF51E0", "target": "Ah, pero mis disculpas. Ni el más hábil lector puede adivinar un nombre en los cielos. ¿Sería tan amable de darme el suyo, para que sepa quién será mi más reciente protegido?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_Q2_000_000", "hash": "FC70C75225A48E0A", "target": "¿Darle tu nombre a Jannequinard y convertirte en su protegido?" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_001", "hash": "ACA3B1D60159036B", "target": "Sí" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_A2_000_002", "hash": "38E1CA6CD38A0628", "target": "No" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_010", "hash": "320C07491D233B1A", "target": "<split(<string(gstr1)>, ,1)>. Vaya... No me esperaba eso. Pero ¿qué es un nombre sino un intento de nuestros progenitores de ejercer poder sobre las vidas de sus hijos e hijas? ¡Vidas cuyos senderos ya han sido predichos! En cierto sentido, claro." },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_0011", "hash": "39C3A5FBFDA57355", "target": "Me llamo Jannequinard de Durendaire y soy astrólogo de la Santa Sede. Recuerde ese nombre, pues resonará por siempre en los anales de la historia ishgardesa. Bueno... lo hará una vez que yo lo ponga ahí. ¡Una vez que <italic(1)>nosotros<italic(0)> lo pongamos ahí!" },
+    { "gameKey": "quest/021/JobAst299_02123#TEXT_JOBAST299_02123_JANNEQUINARD_000_015", "hash": "7F61F431CD2E680B", "target": "Bueno... eh... Qué incómodo. No sería del todo cierto decir que es la primera vez que rechazan mi oferta hoy... ¡Pero, por los Doce, estaba seguro de que usted era <if(gnum4,la mujer,el hombre)> de mi visión!" }
+  ]
+}

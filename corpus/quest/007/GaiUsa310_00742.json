@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/007/GaiUsa310_00742",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_00", "hash": "06F1AAF7DB680A4C", "target": "Auphiliot te estaría muy agradecido si pudieras dar caza a unos intrusos Garlean en su lugar." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_01", "hash": "B19EA9E17E470AB1", "target": "Varios de los Garlean responsables de la desaparición del anciano silfo siguen en la zona. Investiga los lugares indicados y aniquila a cualquier Garlean que encuentres." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_02", "hash": "FE21BDFF162EF88D", "target": "Los intrusos Garlean ya no existen. Informa de tu éxito a Auphiliot." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_SEQ_03", "hash": "371A803F2F351923", "target": "Gracias a tus esfuerzos, se ha expulsado a los Garlean y una pequeña medida de paz ha vuelto a la Selva de los Doce. Al menos por el momento." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_00", "hash": "A807EA6E2D828BCF", "target": "Investigar los lugares indicados y abatir Garlean" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_TODO_01", "hash": "E8196043C058B6DD", "target": "Informar a Auphiliot" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_000", "hash": "8B86D4D9544143F9", "target": "Ya estás de vuelta, <if(gnum4,moza,mozo)>, y algo me dice que no has venido por una jarra de la cerveza de Buscarron. Mejor que mejor. Acabo de oír que se ha visto a unos rezagados Garlean en la Selva de los Doce, y ya sabes que esos no suelen andar en nada bueno." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_001", "hash": "C7D8C53FE539113C", "target": "¿Yo? Nada me gustaría más que destripar yo mismo a esos hideputas imperiales, pero me temo que tengo... —<italic(1)>hip<italic(0)>!— otros... deberes... que atender hoy. ¡Contamos contigo, <if(gnum4,moza,mozo)>!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_010", "hash": "28D94FB0ACFA50C5", "target": "Te has ocupado de esos perros Garlean tan rápido y seguro como yo me ocupo de mi pinta de... ejem, de mis <italic(1)>deberes<italic(0)>, ¿eh? En nombre del viejo Buscarron y de mis compañeros aquí en el Capricho, tienes —<italic(1)>hurgh<italic(0)>!— mi gratitud, y más." },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_AUPHILIOT_000_011", "hash": "58C683696BE4CBE9", "target": "Con nosotros dos ocupándonos de las cosas, <if(gnum4,moza,mozo)>, te lo digo yo: ¡ni una jarra de hidromiel ni un alborotador Garlean en estos alrededores está —<italic(1)>hip<italic(0)>— a salvo!" },
+    { "gameKey": "quest/007/GaiUsa310_00742#TEXT_GAIUSA310_00742_POP_MESSAGE_000", "hash": "74879B2BB1445571", "target": "¡Percibes una presencia hostil!" }
+  ]
+}

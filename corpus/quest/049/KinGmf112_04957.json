@@ -1,0 +1,540 @@
+{
+  "conversation": "quest/049/KinGmf112_04957",
+  "questName": "In Search of Discovery",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_00", "hash": "6C23BECDED955C7B", "target": "Los ojos de Cahciua brillan ante la expectativa del descubrimiento." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_01", "hash": "E0C5ACEA1C41B20B", "target": "Como parte de su última aventura, Cahciua pide a tu grupo que rastree los Jardines de Sendaviento en busca de detalles de interés. En particular, tiene ganas de comparar las criaturas de aquí con las oriundas del Origen, y lo tienes presente al emprender la tarea." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_02", "hash": "7EF5518DD1A20354", "target": "Recorres los jardines y, mediante una combinación de conversación y observación, haces varios hallazgos interesantes. Con la tarea cumplida, vas a informar de ellos a Cahciua." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_03", "hash": "799DD7A8832D2400", "target": "Después de deleitar a Cahciua con tus hallazgos, Erenville menciona que vislumbró un reptil desconocido. Su descripción, sin embargo, lleva a Cahciua a pensar que podría tratarse más bien de un mamífero, y se decide que todos iréis a buscarlo para observarlo." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_04", "hash": "90F1953F6E126E59", "target": "Te unes a madre e hijo en su charla sobre la clasificación de la fauna, que lleva a revelar que Cahciua no solo conoció a Galuf durante su estancia en Tural, sino que fueron sus relatos sobre los espigadores de Sharlayan los que la impulsaron a animar a Erenville a convertirse en uno cuando fuera mayor. Cahciua expresa entonces su deseo de visitar el Museo de la Naturaleza de Cleyra, que, según dice, tiene criaturas que llevan a los visitantes en vuelos de recreo. Como solo tres personas pueden volar a la vez, el grupo que va allí se limita a Cahciua, Erenville y tú." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SEQ_05", "hash": "27C8F01B3CFBC0F6", "target": "Al llegar al museo, os recibe la estampa de tres criaturas que, aunque adorables, parecen del todo incapaces de volar. Como bien dice Cahciua, sin embargo, no se debe juzgar a una criatura por su apariencia..." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_TODO_00", "hash": "D35E489BD12A4265", "target": "Recabar información en las Flores del Descubrimiento" },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_TODO_01", "hash": "D7E29F57C4DD2E50", "target": "Hablar con Cahciua" },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_TODO_02", "hash": "4D386D6D31E6C4D7", "target": "Otear el lugar indicado" },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_TODO_03", "hash": "9212DB3E8EDFB0EC", "target": "Hablar con Cahciua" },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_001",
+      "hash": "41FBD68D91852C25",
+      "target": "En cuanto a curiosidad, ¡yo diría que estoy a la altura tanto de ti como de Erenville!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GRAHATIA_000_005",
+      "hash": "E4518ED22D4A53EF",
+      "target": "Algunas criaturas de aquí sí que parecen semejantes a las de Eorzea. También pasaba en el Primero..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_010",
+      "hash": "CFF292C738EC563E",
+      "target": "\\<risilla> Cahciua parece contentísima, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_015",
+      "hash": "C874C9A8248479C4",
+      "target": "No recuerdo la última vez que vi a mi madre tan entusiasmada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_020",
+      "hash": "94B2580AD91F0B89",
+      "target": "Para empezar, me gustaría que exploraseis los alrededores y me informarais de cualquier cosa reseñable."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_021",
+      "hash": "C7BC225DACACD391",
+      "target": "Es una buena ocasión para hablar con los de aquí. Seguro que conocen bien la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_022",
+      "hash": "56D7607FC7184EA4",
+      "target": "Como sugirió Elene'shpya, sería interesante comparar las criaturas de aquí con las propias del Origen."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_023",
+      "hash": "0DBCBC8693ED6163",
+      "target": "Yo nunca me aventuré fuera de Tural, ¡así que espero con ganas vuestras impresiones!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_024",
+      "hash": "281846066BBA15B6",
+      "target": "¡Déjanoslo a nosotros! Yo solo he estado en Sharlayan, ¡pero me gusta pensar que reconozco lo interesante cuando lo veo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_025",
+      "hash": "328E55D6E629E7F4",
+      "target": "De todos, diría que tú eres quien más sitios ha visto. ¡Estoy deseando oír lo que piensas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_030",
+      "hash": "B728016D1D146009",
+      "target": "Ah, buenas. ¿Que qué estoy haciendo, dice?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_031",
+      "hash": "31CDF2B0C63A5C4F",
+      "target": "Mire hacia arriba por el tronco. ¿Ve las plantas dentro de las cápsulas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_032",
+      "hash": "1CFAA83F4393AAEB",
+      "target": "Son especies que o bien no sobrevivirían en los Jardines de Sendaviento, o bien se volverían invasoras y alterarían el ecosistema."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_033",
+      "hash": "E569F56CFEC0429C",
+      "target": "Las cápsulas recrean las condiciones que necesitan, desde climas tropicales hasta gélidos, y las mantienen aisladas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_034",
+      "hash": "14C9C0757EF807A5",
+      "target": "Así, cualquier forma de vida vegetal puede conservarse para siempre. Igual que nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSA04957_000_035",
+      "hash": "05BC344B63B27D67",
+      "target": "Llevo décadas observando estas plantas. Son como hijas para mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_040",
+      "hash": "01925B85EFB2039F",
+      "target": "¿Sabía que hasta el agua de aquí se crea con electrope?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_041",
+      "hash": "44026338FE681F29",
+      "target": "El producto inicial es demasiado puro, eso sí, y hay que hacer ajustes para que la composición se parezca a la del entorno natural."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_042",
+      "hash": "B49A34E8DC1F098F",
+      "target": "Es solo una de las muchas cosas que hacen para crear las condiciones ideales en las que estas plantas prosperen."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_043",
+      "hash": "C6FF59BF1BCAAB56",
+      "target": "No sé qué habrá sido del mundo al otro lado de la barrera, pero me gustaría visitar en la vida real un sitio tan bonito como este."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_044",
+      "hash": "078F256FBEA40888",
+      "target": "Hablando de sitios bonitos, ¿ha subido a lo alto de este mirador? Se ve estupendamente y hasta hay un puesto de comida por si tiene hambre."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSB04957_000_045",
+      "hash": "59A3E0E23189A3E8",
+      "target": "Por cierto, aquí hay peces de verdad. Se nos permite pescar alguno, pero yo prefiero mirarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_050",
+      "hash": "73EF7AA33D151DE5",
+      "target": "Mis antepasados no eran alejandrinos, en realidad, sino que venían de un lugar llamado Conde Petie."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_051",
+      "hash": "390FEE57D315312A",
+      "target": "Allí tenían costumbres muy suyas. Por ejemplo, al saludar a alguien había que decir “lali-ho” con mucho brío."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_052",
+      "hash": "68A3B0D924D4A3A9",
+      "target": "Nuestro poblado también era famoso por un árbol gigantesco que crecía cerca. Era tan enorme que, puesto uno a sus pies, las raíces que cubrían el suelo llegaban más allá del horizonte."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_053",
+      "hash": "3465BE8588C8DA9A",
+      "target": "Por lo visto, el terminal de aquí, en los Jardines de Sendaviento, se inspira en ese mismo árbol─el Árbol Iifa, se llamaba."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_054",
+      "hash": "DE024E25DECAF93B",
+      "target": "Puede que no sea real, pero está bien tenerlo como recuerdo para la posteridad."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GARDENSENDLESSC04957_000_055",
+      "hash": "D6EB533B9DB3C0B9",
+      "target": "¡El Árbol Iifa de verdad sería más grande que esto! ¡Mucho, mucho más grande!"
+    },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SYSTEM_000_060", "hash": "B758EF55A85BCC45", "target": "Ves deambular a una criatura que se asemeja a los treants oriundos de la Selva de los Doce." },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SYSTEM_000_061", "hash": "3B589DBB33E87F7F", "target": "El jardín de flores parece cuidado con esmero; si no por los Perpetuos, por máquinas." },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_065",
+      "hash": "6B0FE3E22E85AED1",
+      "target": "Había una bestia que no había visto nunca."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_070",
+      "hash": "3CA0DAAE66BD4B50",
+      "target": "Mientras que los arboretos de Sharlayan imitan entornos naturales, este lugar tiene aire de exposición. En ese sentido, la palabra “jardines” le va muy bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_080",
+      "hash": "3C0B261A9D0FB778",
+      "target": "¡Ah, ya has vuelto, <split(<string(gstr1)>, ,1)>! Krile acaba de darme un informe fascinante."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_081",
+      "hash": "33192C54AB8B86A3",
+      "target": "¿Tú también tienes impresiones interesantes que compartir, espero?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_082",
+      "hash": "06BD5F3BA2D41730",
+      "target": "Vaya, vaya, todo eso es realmente interesante. Pero he de decir que lo que más me fascina son los árboles andantes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_083",
+      "hash": "AA1033DA5508D335",
+      "target": "Aunque hay criaturas parecidas en Urqopacha, ¿podrías contarme más sobre esos treants que tú conoces?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_Q1_000_000",
+      "hash": "D3962B1A3552E528",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A1_000_001",
+      "hash": "31BCB47D0825B463",
+      "target": "Son originarios del Bosque de los Doce, donde depredan incluso lobos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A1_000_002",
+      "hash": "EB439329D9D62BEF",
+      "target": "Hay varias subespecies, como las de hojas rojas o las de aspecto retorcido."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A1_000_003",
+      "hash": "D53D49FF87224F73",
+      "target": "Les gusta lanzarte bellotas─y explotan."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_085",
+      "hash": "FB2CDEC1BE6AE023",
+      "target": "¿Ah, sí? Para mantener el ecosistema de aquí, imagino que habrá criaturas que les sirvan de presa."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_086",
+      "hash": "A154FCD43AB1261E",
+      "target": "¿Ah, sí? Tiene sentido que se adapten así a su entorno. Imagino que hace falta cuidarlos con esmero para que prosperen, por ejemplo teniendo determinadas variedades de árbol alrededor."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_087",
+      "hash": "0C89C0CA50649252",
+      "target": "Ja, ja, ¿en serio? Para mantener un ecosistema con criaturas tan formidables, imagino que debe de haber otras especies igual de imponentes que las controlen."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_088",
+      "hash": "F286BEFD1DF90CDE",
+      "target": "La gestión de ecosistemas... Eso trae a la mente Labyrinthos, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_089",
+      "hash": "03C999F1B8F7B1E2",
+      "target": "Desde luego que sí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_100_089",
+      "hash": "B8ABC0DB5F4ED54C",
+      "target": "Por si os lo preguntáis, Labyrinthos es una instalación de almacenamiento en las profundidades de Sharlayan que contiene la recreación de una zona de clima templado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_090",
+      "hash": "5FE72D608E97915C",
+      "target": "¿Existe un lugar así? ¡Asombroso!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_091",
+      "hash": "EBD224820F471B56",
+      "target": "Por cierto, ¿alguien más vio un escámido grande?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_092",
+      "hash": "DD01899822077ECE",
+      "target": "¿Un escámido grande, dices? ¿Qué aspecto tiene?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_093",
+      "hash": "61355AE425D38621",
+      "target": "Nada que haya visto antes, pero tiene forma de roedor y camina a cuatro patas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_094",
+      "hash": "32F486B6CCBFEFEE",
+      "target": "Si parece un roedor, ¿no sería entonces una bestia?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_095",
+      "hash": "DD20997F4A082DE0",
+      "target": "No. Está cubierto de escamas─unas que parecen imitar plantas suculentas. Por eso lo clasificaría sin duda como escámido."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_096",
+      "hash": "8D98637DAC844D35",
+      "target": "Bueno, es difícil asegurarlo sin verlo. ¿Por qué no me lo enseñas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_097",
+      "hash": "3E76A494F117A8F8",
+      "target": "De acuerdo. Antes estaba en un campo de flores y debería seguir cerca."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_098",
+      "hash": "F4C49B0CB4531000",
+      "target": "Pues vayamos allí. ¡Cuando lo encontremos, veremos quién tiene razón!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_198",
+      "hash": "22B72F882B85B94A",
+      "target": "¡Vosotros dos deberíais venir también y darnos vuestra opinión!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_099",
+      "hash": "619F26A52377B202",
+      "target": "Adelántate, <split(<string(gstr1)>, ,1)>. Yo aviso a los demás y luego me uno a vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_100",
+      "hash": "AB9B211F300F04CA",
+      "target": "Es por aquí. La bestia no daba la impresión de moverse mucho."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_105",
+      "hash": "97FA0F5C613E3089",
+      "target": "Je, je, ¡qué emoción! ¡Venga, ayúdanos a encontrar a la criatura!"
+    },
+    { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_SYSTEM_000_110", "hash": "D22BB22A8EC3CA3A", "target": "Divisas una bestia que recuerda al echevore que encontraste en el Primero." },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_112",
+      "hash": "CB90EBDE51C01FD7",
+      "target": "Ese de ahí es."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_113",
+      "hash": "7DBFC29869D51B7C",
+      "target": "Ya veo, ya veo... A primera vista tiene, desde luego, pinta de escámido y de bestia a la vez."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_114",
+      "hash": "E803F709D97A80E4",
+      "target": "Examinémoslo más de cerca, ¿os parece? Contadme qué observáis."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_Q2_000_000",
+      "hash": "BE3B16D0C1702353",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A2_000_001",
+      "hash": "05CC35337CC05FDF",
+      "target": "Está cubierto de escamas que parecen plantas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A2_000_002",
+      "hash": "AFAB081CD61B0E4C",
+      "target": "Tiene unas patitas muy hábiles."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_A2_000_003",
+      "hash": "5943C51F6AD46B09",
+      "target": "Tiene el hocico puntiagudo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_100_114",
+      "hash": "8C2FE7384B6559A4",
+      "target": "Eso fue también lo primero que noté. Diría que esas escamas sirven para esconderse entre el follaje."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_110_114",
+      "hash": "6DCBC9C85920D1C4",
+      "target": "En efecto. Unas patas delanteras así serían muy apropiadas para sujetar frutos secos, bayas y cosas así."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_120_114",
+      "hash": "3F269A443EF35FAA",
+      "target": "En efecto. Un hocico así sería muy apropiado para alimentarse de alimañas que viven bajo tierra."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_115",
+      "hash": "50090F185578E20A",
+      "target": "Tras estudiarlo, creo que las “escamas” de su lomo son en realidad una forma singular de piel. En vez de mudarse, crece con la criatura."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_116",
+      "hash": "FD796782A474583A",
+      "target": "Mmm, puede que tengas razón... Si eso se suma a sus otras características, como la cara y las manos, lo más probable es que sea una bestia, como decías."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_117",
+      "hash": "7309EB046191D631",
+      "target": "Haría falta un examen físico para confirmarlo sin lugar a dudas, ¡pero a mí me basta con haberlo visto!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_118",
+      "hash": "C180C15459B356B0",
+      "target": "Parece que solo tú conocías esta especie. ¿Dónde te la encontraste?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_119",
+      "hash": "528E46EBA23B013E",
+      "target": "¿¡El reino feérico del Primero!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_120",
+      "hash": "87879060E3A04B12",
+      "target": "<split(<string(gstr1)>, ,1)> ha llegado hasta el mismísimo confín de la existencia. <if(gnum4,Ella,Él)> ha visto formas de vida que otros solo podrían imaginar."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_121",
+      "hash": "CE3F3EEAE35C4421",
+      "target": "Asombroso... ¡La Creación guarda de verdad un sinfín de misterios!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_122",
+      "hash": "754409EAFBA2FB31",
+      "target": "¡Ay, cómo me gustaría verlo todo─la vida más allá de los límites de nuestro astro y de nuestro plano!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_123",
+      "hash": "C4F737A6B84CE617",
+      "target": "Parece que nos lo estamos pasando bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_124",
+      "hash": "CD01803687D94CB9",
+      "target": "Ahh, oír hablar de lo desconocido nunca deja de encenderme. Lo mismo me pasaba cuando Ketenramm y Galuf me obsequiaban con relatos de sus viajes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_125",
+      "hash": "3FFD5B8B2B6E893C",
+      "target": "¿¡También conociste a mi abuelo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_126",
+      "hash": "7B1D934FE3C8DDAA",
+      "target": "¿Ah? ¿No lo había mencionado ya?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_127",
+      "hash": "FD3BDE3717872D6D",
+      "target": "Fue cuando Galuf vino a Tural a investigar la ciudad dorada. Yo tenía asuntos con Gulool Ja Ja, así que nos conocimos en Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_128",
+      "hash": "C0E5CC3228186D95",
+      "target": "Poco me imaginaba yo que aquel bebé diminuto que acunaba volvería siendo tú."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_129",
+      "hash": "D06679FDB1973099",
+      "target": "Y pensar que nuestros caminos ya se cruzaron hace tantos años..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_130",
+      "hash": "4084C8793C775246",
+      "target": "Y no solo el tuyo y el mío. Elene'shpya también estaba allí, ¿sabes?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_131",
+      "hash": "E8007D9A473AA55D",
+      "target": "...No me acuerdo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_132",
+      "hash": "A97A55845E1FC674",
+      "target": "¡No pasa nada si no te acuerdas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_133",
+      "hash": "97769F6D835663C7",
+      "target": "De hecho, fue porque Galuf me habló de Sharlayan por lo que más tarde animé a Elene'shpya a hacerse espigador."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_134",
+      "hash": "6B87D745803CFC3D",
+      "target": "Mi conejito quisquilloso crecía huraño y retraído, y fue cuando ya no sabía qué hacer cuando recordé lo que tu abuelo contaba de los espigadores. Ver mundo con sus aventuras lo cambiaría a mejor, pensé."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_135",
+      "hash": "CFB1A15FF59827F3",
+      "target": "...Perdón por ser huraño y retraído."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_136",
+      "hash": "5A0F859A051FB307",
+      "target": "Si me preguntas, todavía te queda trabajo. Pero, si estás con nosotros ahora, es por ser como eres, ¡y yo lo agradezco!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_137",
+      "hash": "16C791EDCDD387C9",
+      "target": "Bueno, ¿seguimos adelante?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_138",
+      "hash": "647E910D6833F19D",
+      "target": "Hay unas instalaciones que llevo tiempo queriendo visitar─el Museo de la Naturaleza de Cleyra. ¡Dicen que tienen criaturas que te llevan de vuelo turístico!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_139",
+      "hash": "0117E50E6801EA36",
+      "target": "Solo hay un problema: parece que solo pueden volar tres personas a la vez..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_140",
+      "hash": "E9E786F2533C7E91",
+      "target": "Pues deberíais ir Erenville y tú. Los demás todavía tenemos muchas otras cosas que hacer aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_141",
+      "hash": "F85E1454EE7C07D1",
+      "target": "Si hay sitio para uno más, ¿por qué no vienes con nosotros, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_142",
+      "hash": "DECD26A80A280F1D",
+      "target": "Pues decidido. El museo está al final de la rampa que baja al oeste del nodo telúrico aero. ¡Vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_145",
+      "hash": "00C14E984883F9EA",
+      "target": "La verdad es que el museo tiene su porte. He de decir que me da curiosidad lo que haya dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CLEYRACURATOR_000_150",
+      "hash": "B12A64FA830F934A",
+      "target": "¡Hola! ¿Vienen a montar en los mehwapyarras?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_WUKLAMAT_000_155",
+      "hash": "282E55E36FBA2868",
+      "target": "¡Cuídame a Erenville!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_160",
+      "hash": "2F9D4AA12B26ABAB",
+      "target": "Todo este tiempo, mi abuelo ha sido el hilo que nos unía..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_GRAHATIA_000_165",
+      "hash": "719CA3316B592C03",
+      "target": "No os preocupéis por nosotros y disfrutad. Exploraremos un poco más y luego iremos al terminal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_170",
+      "hash": "378C5523F55127A5",
+      "target": "Aquí está, el Museo de la Naturaleza de Cleyra. El edificio principal está cerrado por la escasez de éter, pero por suerte siguen ofreciendo los vuelos turísticos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_171",
+      "hash": "C3EF636D9D14063F",
+      "target": "Y estos son los que nos llevarán. ¡Qué adorables!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_ERENVILLE_000_172",
+      "hash": "E791AB7236FFA4AF",
+      "target": "No parecen capaces de volar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_CAHCIUA_000_173",
+      "hash": "573CA3F336333A65",
+      "target": "¡Ajajá! Venga, ya sabes que no hay que juzgar a una criatura por su apariencia. ¡Esto va a ser genial, lo sé!"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/028/StmBdz623_02801",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_SEQ_00", "hash": "528024C094D16E01", "target": "Bujeg está atareado preparando una ofrenda." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_TODO_00", "hash": "8289C132CF7B2498", "target": "Conseguir Holy Water en el lugar indicado" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_TODO_01", "hash": "54D24B9A5DA313D6", "target": "Conseguir la ofrenda de comida de Masgud" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_TODO_02", "hash": "3EECD5DC3F4CAF12", "target": "Entregar la espada Mol, el vial de Holy Water y la ofrenda de comida al guardián de Chakha Zoh" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_TODO_03", "hash": "88C97EF83F2A5581", "target": "Informar a Bujeg" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_000", "hash": "004C7843F5830466", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, kagán. Si dispones de tiempo, hay algo que quisiera pedirte." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_001", "hash": "261699D3931F06AB", "target": "La tradición dicta que la tribu que triunfa en el Naadam realice una ofrenda en el altar de poniente. La lleva a cabo quien más contribuyó a la victoria de su tribu." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_002", "hash": "0AD9555146E201E5", "target": "No eres un Mol, pero no lo habríamos logrado sin ti. Quisiera que reunieras nuestras tres ofrendas y se las entregaras al guardián que hay ante Chakha Zoh." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_003", "hash": "22947A9C3F2CA244", "target": "Aquí tienes la primera de nuestras ofrendas, una espada forjada especialmente para la ocasión. Después tendrás que recoger Holy Water en Azim Khaat, el lago que se halla bajo el Trono del Alba." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_005", "hash": "D1218DC80D09E0FD", "target": "Habla con Masgud en Reunion y él te dará la última ofrenda. Gracias por tu continuo apoyo, kagán." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_007", "hash": "C9D01886E26E6EF2", "target": "Cuando tengas todas las ofrendas, entrégaselas al guardián que hay ante Chakha Zoh." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_008", "hash": "29ABAB4D7ACCCFCB", "target": "Recoge el Holy Water en Azim Khaat, el lago que se halla bajo el Trono del Alba. Le he pedido a Masgud, en Reunion, que prepare nuestra ofrenda de comida. Gracias por tu continuo apoyo, kagán." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_MASGUD_000_010", "hash": "A0C7A38B93E0238F", "target": "Ah, ¿vienes por el encargo de Bujeg? Pesa bastante, así que ten cuidado al cargarlo." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_MONK02801_000_020", "hash": "FF2ADB674A039CD4", "target": "¿Traes las ofrendas?" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_MONK02801_000_021", "hash": "9BC98784DBF98103", "target": "Sí, todo parece en orden. Dime, ¿conoces el significado de lo que has traído aquí?" },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_MONK02801_000_023", "hash": "223B39D5002BA9A0", "target": "Estos objetos representan nuestro deseo unánime de vernos bendecidos con la paz hasta el próximo Tsagaan Sar, y de que quienes perdieron la vida durante el Naadam puedan descansar en paz." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_MONK02801_000_022", "hash": "B4E43AE5FF5DB59D", "target": "Gracias por realizar la ofrenda. Te deseo lo mejor en tus futuros viajes. Dile a Bujeg, por favor, que has hecho lo que se te pidió." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_030", "hash": "0D387528B1942856", "target": "Gracias, kagán. Por fin ha concluido el Naadam de este año." },
+    { "gameKey": "quest/028/StmBdz623_02801#TEXT_STMBDZ623_02801_BUJEG_000_031", "hash": "FE65BC7411A2DBAD", "target": "Ahora podemos volver a nuestra vida de siempre. Que los dioses sigan sonriéndote." }
+  ]
+}

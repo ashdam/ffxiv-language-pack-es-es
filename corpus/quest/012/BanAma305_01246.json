@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/012/BanAma305_01246",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_SEQ_00", "hash": "22A038A7D695DC2A", "target": "Yadovv Gah busca emplear tus habilidades en la demolición." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_SEQ_01", "hash": "32CC76533226B33C", "target": "Yadovv Gah te pide que montes un draco de caballería, te adentres en Zahar'ak e incineres los depósitos de suministros del enemigo. Habla con el domador de dracos en Zanr'ak para tomar prestada una montura." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_SEQ_02", "hash": "FCFD528116831178", "target": "Monta el draco de caballería, adéntrate en Zahar'ak y destruye los alijos de suministros Amalj'aa usando el Fiery Breath de tu montura.<br><br>※Habla con el domador de dracos en Zanr'ak para montar un draco de caballería." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_SEQ_03", "hash": "C8D752D863F63252", "target": "Has reducido los depósitos de suministros de los Amalj'aa a ruinas humeantes. Vuelve al Cerco de la Ceniza e informa a Yadovv Gah." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_SEQ_04", "hash": "B8BB1CA57DA6AAB3", "target": "Yadovv Gah está sombríamente satisfecho con tu obra de demolición. Parece ansioso por presenciar los amplios efectos que la destrucción de los suministros tendrá sobre los Amalj'aa de Zahar'ak, tan confiados como están en la omnipotencia de su dios." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_TODO_00", "hash": "07084AF53EBD5648", "target": "Hablar con el domador de dracos y montar el draco de caballería" },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_TODO_01", "hash": "CF562304A8535D98", "target": "Montar el draco de caballería, adentrarse en Zahar'ak y usar su Fiery Breath para destruir los alijos Amalj'aa" },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_TODO_02", "hash": "F626F38360E473F8", "target": "Informar a Yadovv Gah" },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_000", "hash": "D1F5E1382A23F82D", "target": "Superados en número como estamos, nuestras estrategias han de ser brutales y eficientes. Aunque de buena gana retorcería el cuello a nuestros detestables enemigos uno a uno, podemos debilitar toda su fuerza atacando sus provisiones." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_001", "hash": "7B4E719D3B44D9C8", "target": "Tras las puertas de Zahar'ak hay depósitos cerrados de víveres y armas tocadas por la llama. No nos preocupemos por las llaves: ¡toma un drake y reduce sus reservas a cenizas!" },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_004", "hash": "6C58B11504BFA0D6", "target": "Nuestro domador de drakes te aguarda, <if(gnum4,honorable aliada,honorable aliado)>." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_MOUNTAMALJAA_000_010", "hash": "D7FF9FC29EADB1B3", "target": "El volátil aliento de mi drake tendrá esos depósitos ardiendo en un momento. Ten cuidado de no quedar atrapado en las llamas." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_020", "hash": "4115A6B4C8DA9907", "target": "¡Cabalga en un cavalry drake hasta Zahar'ak y reduce a cenizas sus depósitos de provisiones!" },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_MOUNTAMALJAA_000_021", "hash": "974396FD38F3C13A", "target": "Si necesitas desmontar, el drake volverá aquí conmigo. Lo mantendré preparado hasta que estés listo para continuar tu misión. Ahora ve, y déjame ver las columnas de humo alzándose del campamento de nuestros enemigos." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_030", "hash": "68888617C6B9226A", "target": "¿Has incinerado sus reservas? ¡Ja! Por muy poderosa que sea su preciada deidad, un ejército es solo tan fuerte como sus líneas de suministro; eso aprenderán." },
+    { "gameKey": "quest/012/BanAma305_01246#TEXT_BANAMA305_01246_YADOVVGAH_000_031", "hash": "801FA2FF06D7CA71", "target": "Tus victorias siguen acumulándose, <if(gnum4,honorable aliada,honorable aliado)>." }
+  ]
+}

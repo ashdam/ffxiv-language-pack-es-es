@@ -1,0 +1,16 @@
+{
+  "conversation": "custom/003/CmnDefTomestoneConvert_00391",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q", "hash": "60A2A7EA1EF926D1", "target": "¿Qué desea hacer?" },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL", "hash": "1AA67E8D07909A84", "target": "Nada." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_HELP", "hash": "B7445C03D256C064", "target": "Parece que un día sí y otro también dejamos de comerciar con tal o cual tipo de tomestone. Inevitablemente, llega un momento en que Rowena dice que ya no merecen la molestia." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE", "hash": "6335435AF1807F93", "target": "Aunque puede que a mí todavía me sirvan. Si tiene alguno que no necesite, tráigamelo y le daré a cambio algo más apetecible." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q", "hash": "FDA1B87B70B9DD19", "target": "Aunque puede que a mí todavía me sirvan. Si tiene alguno que no necesite, le daré a cambio algo más apetecible." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q", "hash": "69BD7FB1A2A2DC56", "target": "¿Canjear <kilo(lnum2,\\,)> <ennoun(Item,3,lnum1,2,1)> por <kilo(lnum4,\\,)> <ennoun(Item,3,lnum3,2,1)>?" },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES", "hash": "4124EF20DA2621B7", "target": "Sí" },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO", "hash": "DA78BE64B4B2689D", "target": "No" },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET", "hash": "012F27EC9063FBF6", "target": "¿Oh? Parece que ya tiene las manos bastante llenas." },
+    { "gameKey": "custom/003/CmnDefTomestoneConvert_00391#TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q", "hash": "21FF900389695734", "target": "Aviso: no podrás recibir <ennoun(Item,3,lnum1,2,1)> en su totalidad. ¿Aun así deseas continuar?" }
+  ]
+}

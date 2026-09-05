@@ -1,0 +1,302 @@
+{
+  "conversation": "quest/005/ManSea009_00545",
+  "questName": "A Mizzenmast Repast",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_1",
+      "hash": "480DEF6638435E89",
+      "target": "¿Conque ya estás <if(gnum4,lista,listo)>, eh? Bien. El banquete empezará pronto. Si hubieras tardado un poco más, habría considerado mi deber cívico atizarte en la cabeza y arrastrarte hasta allí."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_2",
+      "hash": "005FCC7E4F8B2D22",
+      "target": "Y asegúrate de <italic(1)>llevar puestos<italic(0)> esos zapatos elegantes al presentarte, ¿vale? De nada sirve llevarlos en la mano. Son para que parezcas <if(gnum4,una dama,un caballero)>, no <if(gnum4,su criada,su criado)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_3",
+      "hash": "9CADCFBFEBCEED20",
+      "target": "En cuanto a cómo llegar, el festín se celebra en el puente de mando, en la sala de reuniones de la Almirante."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_4",
+      "hash": "CD81F849A8221D3F",
+      "target": "Habla con Zanthael en la Sala del Baluarte y te enseñará el camino."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_5",
+      "hash": "532E409F4A932177",
+      "target": "Tú mantén la cabeza bien alta, <if(gnum4,muchacha,muchacho)>. Después de todo lo que has hecho por Limsa, tienes buenos motivos para estar <if(gnum4,orgullosa,orgulloso)>─y que ningún estirado de alta cuna te diga lo contrario."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_10",
+      "hash": "39FF0A8BB2BA81B5",
+      "target": "Zapatos de vestir... Zapatos de vestir elegantes. Un aventurero con zapatos de vestir elegantes..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_11",
+      "hash": "C2A0E60D35159696",
+      "target": "¡Maldita sea, Baderon! ¿¡Por qué no me diste el nombre de este misterioso invitado, o el color de su pelo, o siquiera su dichoso <italic(1)>sexo<italic(0)>!? ¡Me habría conformado con una buena cicatriz en la cara! No sé nada de zapatos, y menos de elegantes─ ¿Qué? ¿Dices que <italic(1)>tú<italic(0)> eres el aventurero que busco?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_12",
+      "hash": "D8E732264AC5E9C2",
+      "target": "Entonces, ¿dónde están esos “elegantes zapatos de vestir” que Baderon me describió con un detalle <italic(1)>angustiosamente<italic(0)> inútil? No me digas que...? Ejem. Mencionó que, si eras tan <if(gnum4,descuidada,descuidado)> como para perderlos, debía decirte que “muevas el trasero de vuelta a J'nasshym y le supliques otro par”. Aunque nunca imaginé que tendría que decirlo de verdad..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_13",
+      "hash": "5E21595CC2802357",
+      "target": "¡Oh! <italic(1)>Esos<italic(0)> sí que son unos zapatos de vestir elegantes. Ven, <if(gnum4,aventurera,aventurero)>, te llevaré a la sala de reuniones."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000010_MERLWYB",
+      "hash": "771F5660345EA4FC",
+      "target": "¡Hermanos y hermanas del mar!"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000020_MERLWYB",
+      "hash": "FFDA4B7724B13ABD",
+      "target": "¡Uníos a mí para honrar a <if(gnum4,esta mujer,este hombre)> por sus servicios a nuestra gran nación!"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000030_MERLWYB",
+      "hash": "8C796E024514EA9C",
+      "target": "¡Que la Navegante <if(gnum4,la,lo)> guíe y proteja en su travesía hasta que el mar se lo trague todo!"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000040_MERLWYB",
+      "hash": "4FA8CCEE4ACE1A33",
+      "target": "Esos piratas con el rostro tatuado con los que te topaste... Se hacen llamar “los Saqueadores de la Serpiente”. Sus filas las forman degolladores y locos que se han entregado en cuerpo y alma al primigenio Leviatán."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000050_MERLWYB",
+      "hash": "DC3EB2DE1DFE874D",
+      "target": "Por lo que hemos podido averiguar, buscaban engrosar sus filas raptando a toda alma lo bastante desdichada como para cruzarse en su camino."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000060_MERLWYB",
+      "hash": "089580B9ACF842CB",
+      "target": "No hace falta que te diga cuán honda es la enemistad entre nosotros y los Sahagin. Cómo un marino que se precie puede consagrarse al dios de los pescajos es una cuestión para una mente más templada que la mía."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000070_MERLWYB",
+      "hash": "028E797501A8BCA5",
+      "target": "Pero gracias a ti, nuestros ciudadanos pueden volver a hacer su vida diaria, tranquilos sabiendo que no serán arrastrados a las tinieblas por esos execrables canallas."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000080_YSHTOLA",
+      "hash": "862CAA1397605535",
+      "target": "Qué resplandor tan extraordinario..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000090_YSHTOLA",
+      "hash": "44A08E1F4F23786E",
+      "target": "Esto... es uno de los Cristales de Luz."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000100_MERLWYB",
+      "hash": "09607CF7B63E012F",
+      "target": "Por la Navegante..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000110_YSHTOLA",
+      "hash": "F06C19611ECB1951",
+      "target": "Tras nuestro encuentro con el goobbue, tuviste una visión, ¿no es así? De un cristal descomunal."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000120_YSHTOLA",
+      "hash": "482DD6A0DEF8765D",
+      "target": "Te bañaste en Su Luz..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000130_MERLWYB",
+      "hash": "70083D0D9129F4E4",
+      "target": "La conclusión de Y'shtola es clara, y no veo razón para dudar de ella. Eres el recipiente de un poder superior."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000140_MERLWYB",
+      "hash": "DB678C976EA6C379",
+      "target": "Ese... ser de tu visión era el Cristal Madre. Tu descripción coincide con lo poco que sabemos de Ella."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000150_MERLWYB",
+      "hash": "CFEE3008724DD468",
+      "target": "Y si Ella te ha elegido, entonces tus actos aún podrían dar forma al destino de las naciones."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000160_MERLWYB",
+      "hash": "1EDA696E38F21123",
+      "target": "Como una vez lo hicieron los actos de los Guerreros de la Luz."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000170_MERLWYB",
+      "hash": "C7685B8C54F1E87B",
+      "target": "¿Conoces la historia? Como tú, no eran de estas tierras y, sin embargo, lucharon por protegernos a todos contra la corrupción de los primigenios."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000180_MERLWYB",
+      "hash": "A04A60A5A8C04BAE",
+      "target": "Cuando el Imperio garleano inició su conquista del reino, estos héroes se unieron a las Grandes Compañías y ayudaron a reforjar la Alianza Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000190_MERLWYB",
+      "hash": "89400C2D3C42E36F",
+      "target": "Y en la batalla de Carteneau tomaron el campo bajo nuestros estandartes, para luchar por todo lo que apreciamos."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000200_MERLWYB",
+      "hash": "1D56D1E207D52A08",
+      "target": "Fue ese día, en mitad de aquel infierno... cuando los perdimos."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000210_MERLWYB",
+      "hash": "9ACBC3B2875EA817",
+      "target": "Toda alma que sobrevivió a aquella batalla jamás olvidará lo que fue luchar a su lado. Nos enorgullece llamarlos camaradas."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000220_MERLWYB",
+      "hash": "3B6101B28C872C42",
+      "target": "Y, sin embargo, cada vez que intentamos gritar sus nombres, el sonido se nos muere en la garganta."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000230_MERLWYB",
+      "hash": "B26CEBF126DFD324",
+      "target": "Y cada vez que nos esforzamos por ver sus rostros con el ojo de la mente, no se nos aparece sino su sombra, recortada contra una luz cegadora."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000240_MERLWYB",
+      "hash": "BFBD8BA4A6E739AE",
+      "target": "Pregunta a cualquier hijo de Eorzea que los conociera y la historia será la misma. Es por esta razón que los llamamos “los Guerreros de la Luz”."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000250_MERLWYB",
+      "hash": "E8E897A9BEA76914",
+      "target": "Cuando te miro, no puedo evitar acordarme de ellos."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000260_MERLWYB",
+      "hash": "E00BDB7601E9E9AC",
+      "target": "Mantén a salvo ese Cristal."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000270_MERLWYB",
+      "hash": "F7EDDF62E0C2BE6F",
+      "target": "Con el tiempo, creo que el Cristal Madre dejará claras Sus razones para habértelo concedido."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_000280_MERLWYB",
+      "hash": "68398D65E863F4FD",
+      "target": "Presta buen oído a Sus palabras, <if(gnum4,aventurera,aventurero)>. Pues es la propia Hydaelyn quien habla."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_30",
+      "hash": "57715A3149AF7A6A",
+      "target": "Buenos días, <if(gnum4,dormilona,dormilón)>. Fue todo un poco demasiado para ti, ¿eh?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_31",
+      "hash": "08B00E77A8B1E7D0",
+      "target": "...¿Que qué pasó? Ah, entonces no te acuerdas."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_32",
+      "hash": "11F833F31B6A46BA",
+      "target": "Te desplomaste en mitad del banquete y montaste un buen revuelo. Tuve que cargar contigo hasta Drowning Wench yo solito. Bueno, digo “cargar”... fue más bien cuestión de arrastrar y hacer rodar. Demasiado pastel, me parece."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_33",
+      "hash": "2EE59F356AC6E569",
+      "target": "En fin, no te agobies─no es de extrañar que estuvieras <if(gnum4,agotada,agotado)> después de todo lo que has pasado últimamente."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_34",
+      "hash": "7D7B9F97A2110915",
+      "target": "Aunque tu siestecita parece haberte devuelto algo de color a las mejillas, así que te dejo a lo tuyo."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_35",
+      "hash": "FC6DDF10A6173AA1",
+      "target": "...¡Maldita sea! Casi se me olvida: la Almirante quiere hablar contigo."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_BADERON_000_36",
+      "hash": "6A5B3B99F0228CA0",
+      "target": "Cuando te sientas con fuerzas, habla con Zanthael y te dejará pasar a la sala de mando. Ah, y mantente <if(gnum4,despierta,despierto)>, ¿eh? Me han dicho que la vieja Merlwyb estaba en mitad de una historia cuando empezaste a roncar la última vez, ¡y dudo que le sentara bien que repitieras la gracia!"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_40",
+      "hash": "60087F81CB68951F",
+      "target": "Saludos, <split(<string(gstr1)>, ,1)>. La Almirante Bloefhiswyn te aguarda en la sala de mando. ¿La aviso de tu llegada?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_Q1_000_1",
+      "hash": "396CFB4BF0201AC5",
+      "target": "¿Entrar en la sala de mando?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_A1_000_1",
+      "hash": "D5A4EFFD438AFF16",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_A1_000_2",
+      "hash": "EB85D0F8861EAD02",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_ZANTHAEL_000_41",
+      "hash": "C17B2D5691618F76",
+      "target": "¿Aún no te has recuperado de tu... esto... repentina indisposición? A mí un buen paseo a paso ligero por el paseo marítimo siempre me ayuda a despejarme. El olor de por allí resucitaría a un muerto..."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_MERLWYB_000_50",
+      "hash": "4AB8F8D88AD656EE",
+      "target": "Ah, <split(<string(gstr1)>, ,1)>, me alegra verte de nuevo en pie. ¿Te has recuperado?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_MERLWYB_000_51",
+      "hash": "62543C33AD3217FA",
+      "target": "Entonces, no perdamos el tiempo. Tengo una tarea que debe cumplirse─una que no confiaría a nadie más."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_JNASSHYM_000_60",
+      "hash": "B5EFEA702BACFE30",
+      "target": "¿Qué es esto? ¿Le cuesta decirme que ha <italic(1)>perdido<italic(0)> el fino par de zapatos que elegí <italic(1)>especialmente<italic(0)> para usted?"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_JNASSHYM_000_61",
+      "hash": "07D0556F3B2D22EE",
+      "target": "Por fortuna, dispongo de otro par igual. Puede quedárselo por pura bondad de mi corrrazón... y por el aborrecimiento que mi alma le profesa a su “atuendo” habitual."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_SEQ_00",
+      "hash": "2D4AA23AB5486108",
+      "target": "Baderon quiere que le avises cuando estés <if(gnum4,lista,listo)> para partir hacia el banquete."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_SEQ_01",
+      "hash": "C0FB8A5FA1B025BB",
+      "target": "El banquete está a punto de empezar. Ponte los dress shoes y habla con Zanthael, en la Sala del Baluarte."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_SEQ_02",
+      "hash": "347B4C319B6AF336",
+      "target": "En el banquete, Merlwyb relata las gestas de los héroes a medias recordados a quienes los eorzeos llaman ahora los Guerreros de la Luz. El relato desata en tu mente una visión de los últimos instantes de la batalla de Carteneau. Cuando después vuelves en ti, te sorprende encontrarte en una habitación de Drowning Wench, sin idea de cómo llegaste allí. Baderon, que al parecer te cargó él mismo de vuelta desde el puente de mando, te explica que te desplomaste y menciona que la Almirante quiere verte. Dirígete a la Sala del Baluarte y solicita permiso para entrar en la sala de mando."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_SEQ_03",
+      "hash": "5CA156AD05AE9EE2",
+      "target": "Merlwyb tiene una tarea para ti, una que no confiaría a nadie más. Habla de nuevo con ella cuando estés <if(gnum4,lista,listo)> para saber en qué consiste."
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_TODO_00",
+      "hash": "688FA6C73FF5C788",
+      "target": "Ponerse los dress shoes y hablar con Zanthael"
+    },
+    {
+      "gameKey": "quest/005/ManSea009_00545#TEXT_MANSEA009_00545_TODO_01",
+      "hash": "C7EFB8D7B43B1395",
+      "target": "Hablar con Merlwyb en la sala de mando"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/052/BanMam104_05264",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_SEQ_00", "hash": "9AAE959760084EEB", "target": "A Kageel Ja le preocupa el suelo de la granja.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_SEQ_01", "hash": "69C9ABF6A9DCB4B9", "target": "Entrega los suministros solicitados a Kubeel Ja." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_SEQ_02", "hash": "B5D75939688A41D6", "target": "Habla con Kageel Ja." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_TODO_00", "hash": "BC72C06E9BF95020", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extraer <ennoun(Item,3,lnum5,2,1)> cerca del cenote Neyozzote,Entregar <ennoun(Item,2,lnum5,2,1)> a Kubeel Ja)>,<if([lnum4==17],<if([lnum1<lnum2],Recolectar <ennoun(Item,3,lnum5,2,1)> cerca del cenote Neyozzote,Entregar <ennoun(Item,3,lnum5,2,1)> a Kubeel Ja)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar <ennoun(Item,1,lnum5,1,1)> en el cenote Moxutural,Entregar <ennoun(Item,1,lnum5,1,1)> a Kubeel Ja)>,)>)>)>." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_TODO_01", "hash": "100D6804FC0A7E28", "target": "Hablar con Kageel Ja" },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_001", "hash": "488A33880122FEC5", "target": "Dada la falta de luz solar directa aquí, en el Corazón de Ja Tiika, las bajas temperaturas del suelo siguen siendo motivo de preocupación." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_002", "hash": "8436B48E03E9D3E5", "target": "Por suerte para nosotros, Anggir ha dado con una solución: abono fermentado. Al parecer, vigoriza el suelo, generando calor a medida que el compost se descompone." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_003", "hash": "BAE52D98A870E38E", "target": "El abono fermentado ha resultado más eficaz de lo que osábamos esperar, y por eso te pido que nos ayudes a conseguir más materiales." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_004", "hash": "D2E453BFDAEE0962", "target": "Y no es por menospreciar el trabajo de los magos Boonewa, ojo. Sus iluminaciones también han ayudado a calentar el suelo. Por eso nuestros esfuerzos combinados harán los campos aún más productivos." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_005", "hash": "CE67EFABA42366CF", "target": "Por tu parte, necesito que encuentres tierra apropiada por el cenote Neyozzote. Debería contener rastros de materia orgánica esencial para la fermentación." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_006", "hash": "91EA6A244D2DD11D", "target": "Por tu parte, necesito que encuentres corteza de árbol empapada por el cenote Neyozzote. El exceso de agua facilita su fermentación." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_007", "hash": "87B013C0930D661A", "target": "Por tu parte, necesito que pesques un mudfish en las aguas de los alrededores de Moxutural Zooj. Son bastante pequeños, lo que los hace perfectos para harina de pescado." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_008", "hash": "0AFFB48AF2FC9682", "target": "Si te cuesta que piquen, prueba con golden stonefly nymphs. Seguro que en nada están tirando del sedal." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_009", "hash": "10FD735F2855E268", "target": "Cuando termines, lleva lo que encuentres a Kubeel Ja." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KUBEELJA_000_013", "hash": "8A4EEAB91A77337F", "target": "Kageel Ja me dice que traes suministros para el nuevo abono. Bueno, ahora mismo estoy hasta arriba, así que acepto toda la ayuda que pueda conseguir." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KUBEELJA_000_014", "hash": "20CF833F215E0418", "target": "¿Has llegado con esos suministros para el abono? Venga, dámelos." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KUBEELJA_000_018", "hash": "5C12AA95972E0E74", "target": "Maravilloso. Me pongo a mezclar el abono ahora mismo." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KUBEELJA_000_019", "hash": "C0E474943E0CAEC8", "target": "Gracias de nuevo por los suministros. No tardaremos en tener un montón nuevo de abono fresco." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_020", "hash": "2FE5E92136A3A14F", "target": "Ya has terminado de entregar los suministros, ya veo. Kubeel Ja debe de haberse puesto contentísimo." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_021", "hash": "3519A652083AE4DA", "target": "Y aliviado, seguro. La temperatura correcta del suelo es absolutamente crucial durante la fase de germinación." },
+    { "gameKey": "quest/052/BanMam104_05264#TEXT_BANMAM104_05264_KAGEELJA_000_022", "hash": "CB18BD94E770869B", "target": "Con este abono, los campos prosperarán sin falta, así que espero que nos ayudes a mantener las reservas surtidas." }
+  ]
+}

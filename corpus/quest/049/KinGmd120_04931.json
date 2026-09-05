@@ -1,0 +1,743 @@
+{
+  "conversation": "quest/049/KinGmd120_04931",
+  "questName": "Gone and Forgotten",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_SEQ_00", "hash": "0C391A25EDFDD7D7", "target": "Este reencuentro largamente predestinado tiene a Erenville lleno de sentimientos encontrados." },
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_TODO_00", "hash": "CA86B417F1DDF47B", "target": "Hablar con Cahciua" },
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_TODO_01", "hash": "51896FB4154D83A8", "target": "Hablar con Strika" },
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_TODO_02", "hash": "3B45EF93BE2B252D", "target": "Otear el lugar indicado y abatir a los enemigos que aparezcan" },
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_TODO_03", "hash": "508B2015B45E6C11", "target": "Otear el lugar indicado" },
+    { "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_TODO_04", "hash": "0B1A079714752CA3", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_001",
+      "hash": "A3692CD108845DA3",
+      "target": "No puedo decir que entienda lo que está pasando, pero al menos Cahciua está a salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_002",
+      "hash": "6C29F38D922674AE",
+      "target": "La madre de Erenville es una máquina flotante. Ya... Tiene tanto sentido como todo lo demás hasta ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_003",
+      "hash": "A3903A84EFF5780A",
+      "target": "A estas alturas, dudo que nada pueda sorprenderme ya."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_004",
+      "hash": "05620B5E7888C87B",
+      "target": "Los allaganos tenían máquinas que podían controlarse a distancia. ¿Estará usando ella algo parecido para comunicarse con nosotros?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_005",
+      "hash": "E79B88746A73ADD8",
+      "target": "Con ella siempre hay demasiado jaleo... Perdonad que os apuntáramos con las armas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_NOSTALGIA_000_006",
+      "hash": "42EAB1498B34DEB4",
+      "target": "Si os sirve de consuelo, todo esto también nos resulta bastante confuso a nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WAYAKKWE_000_007",
+      "hash": "5907D1EB384B7705",
+      "target": "Ah, eh... hola."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_008",
+      "hash": "8B0B0CFA42BD4109",
+      "target": "¡Venga, venga, poneos cómodos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_009",
+      "hash": "80068A11DD7AC5A1",
+      "target": "\\<suspiro> Escuchemos qué tiene que decir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA000_000_010",
+      "hash": "736851301D5EA22A",
+      "target": "Es maravilloso conoceros a todos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_011",
+      "hash": "E4A05DC3515E72DB",
+      "target": "Y los Discípulos de Baldesion... Hacía tiempo que no oía ese nombre."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_012",
+      "hash": "8483071B48D71657",
+      "target": "¿Me atrevo a preguntar por el motivo de tu aspecto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_013",
+      "hash": "F9D3E6EF52516C85",
+      "target": "¿Ah, esto? No es más que un cuerpo que controlo a distancia. Lo uso para nuestras operaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_014",
+      "hash": "664AFB2CD87C262E",
+      "target": "Somos miembros de una organización de resistencia─nos llamamos Oblivion, y nuestro objetivo es frustrar las ambiciones de conquista de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_015",
+      "hash": "09B8647A7655C639",
+      "target": "Como líder, es prudente que me quede donde no puedan encontrarme fácilmente."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_016",
+      "hash": "1059BF88631D2ABB",
+      "target": "Ya veo. Pese a lo pintoresco del aspecto, la vuestra es una causa seria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_017",
+      "hash": "7287B5B10E7620DA",
+      "target": "Así es. Aunque, a decir verdad, Oblivion se fundó con un propósito muy distinto."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_018",
+      "hash": "BB7F7577B7B82C2F",
+      "target": "¿Y cuál era?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_019",
+      "hash": "DC2FE0A501B8BB86",
+      "target": "Como imagino que ya habréis notado, todo lo que veis dentro de esta cúpula─los edificios, la gente, la mismísima tierra bajo nuestros pies─es la fusión de dos mundos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_020",
+      "hash": "3C8B2EC59509A5BF",
+      "target": "Detener esa fusión era la misión original de Oblivion."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_021",
+      "hash": "9090BAB9B810C8D5",
+      "target": "¿Entonces eso significa que sabéis quién o qué es responsable de ella?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_022",
+      "hash": "065D34412055DA66",
+      "target": "Me temo que no. De eso hace mucho tiempo, y nuestra declaración de intenciones se ha convertido más bien en una leyenda que se transmite a los miembros. Cuando entramos nosotros, nuestro único objetivo era detener a Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_023",
+      "hash": "CFF46C3B3F47FC2B",
+      "target": "Pero fracasamos. Y ahora ha sacado su ejército fuera de la cúpula..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_024",
+      "hash": "2F1EDE7C17633CAE",
+      "target": "Ninguno de vosotros lleva esos aparatos raros en la cabeza. ¿Tiene eso algo que ver con vuestro trabajo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_025",
+      "hash": "078DB48A62EE19DC",
+      "target": "¿Te refieres a esto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_026",
+      "hash": "70CC708F9AD6C7C1",
+      "target": "Es un regulador, la cima de la tecnología del electrope. Y que no lo llevemos sí guarda relación con nuestras operaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_027",
+      "hash": "70B722FA6D1D94E2",
+      "target": "¿Qué hace exactamente?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_028",
+      "hash": "5934802D38539826",
+      "target": "Permitidme que os lo explique."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_029",
+      "hash": "97235CA51D001DCC",
+      "target": "Los reguladores tienen dos funciones principales."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_030",
+      "hash": "35C2B529F85BB833",
+      "target": "La primera, como su nombre indica, es regular la reserva de almas de quien lo lleva. Si muere, el regulador gasta un alma para devolverlo a la vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_031",
+      "hash": "E9F2FBAA44B0833D",
+      "target": "¿“Reserva”? ¿¡Me estás diciendo que la gente va por ahí con almas de repuesto!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_032",
+      "hash": "22BAA7108CC3D98E",
+      "target": "Así es. Las almas se envasan en células, y sirven para reponer la fuerza vital que se pierde en una muerte súbita, como en un accidente. Con quien muere de viejo no hacen nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_033",
+      "hash": "CB2B7C4B00B2CE66",
+      "target": "El reparto de células de alma se basa en la evaluación del trabajo de cada uno. Para fomentar un “desempeño ejemplar” en el cumplimiento de sus obligaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_034",
+      "hash": "95C60CEC807D821D",
+      "target": "Almas como recurso corriente... y como pago por los servicios prestados..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_035",
+      "hash": "16778D6EA34F3DFC",
+      "target": "Me recuerda a la práctica de los seres del Vacío de consumir a otros por su éter. Y, del mismo modo, imagino que el acto conlleva algún riesgo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_Q1_000_036",
+      "hash": "D4C22CC632286B07",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_A1_000_037",
+      "hash": "1E9AEB0AF80E4B92",
+      "target": "¿No diluye eso el sentido de uno mismo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_A1_000_038",
+      "hash": "6176601887DEC25E",
+      "target": "¿No corrompería la conciencia de otros la propia?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_039",
+      "hash": "B4434054EAE286FE",
+      "target": "Eso se evita mediante la gestión de la memoria, un proceso en el que los reguladores también intervienen."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_040",
+      "hash": "D7D49E4CF8F1A374",
+      "target": "¿Gestión de la memoria? Entonces la razón de que todos hayan olvidado la existencia de Namikka..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_041",
+      "hash": "D1A7E7AEC4431E6D",
+      "target": "Los reguladores registran constantemente los recuerdos de quien los lleva, así que, si muere de repente, sus recuerdos pueden restituirse como parte del proceso de restauración."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_042",
+      "hash": "D3F03DEC04727A5B",
+      "target": "Así es como preservan la identidad y el sentido de uno mismo. Sin embargo, los reguladores también se activan cuando muere otra persona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_043",
+      "hash": "39E3482767DAB181",
+      "target": "El motivo es que los reguladores extraen por la fuerza los recuerdos relativos al fallecido de cualquiera que lleve uno."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_044",
+      "hash": "E51EC5041BCA370F",
+      "target": "¿Por qué harían algo así?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_045",
+      "hash": "8DB1FEEB94D4A0CA",
+      "target": "Es una “bondad” que el sistema central de Everkeep concede al pueblo, para que nadie tenga que sufrir el dolor de la pérdida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_046",
+      "hash": "ED6D51041E4E03E1",
+      "target": "Así que a esto se refieren cuando dicen que sus recuerdos están en la nube."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_047",
+      "hash": "74DAB765B9995E03",
+      "target": "En efecto. Todos los recuerdos del difunto se borran de la mente de la gente y se archivan en el sistema."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_048",
+      "hash": "AA5B6114C1E8D303",
+      "target": "Es una función espeluznante de los reguladores─y un paso esencial en la producción de células de alma."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_049",
+      "hash": "28F39BBE0B313DFF",
+      "target": "Veréis: cuando alguien muere por causas naturales, su alma se aloja temporalmente dentro del regulador."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_050",
+      "hash": "AB08249D85A17956",
+      "target": "Después se envía a unas instalaciones donde los recuerdos se separan del alma."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_051",
+      "hash": "B05C5824A3142CE7",
+      "target": "El resultado es una célula de alma nueva, libre de impurezas, lista para su reparto y consumo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_052",
+      "hash": "07B59B51CBBD2D6B",
+      "target": "Mientras tanto, los recuerdos se almacenan en el sistema central. Para ser “recordados” para siempre."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_053",
+      "hash": "0CF3B643B87BD280",
+      "target": "¿Y así es como la gente es feliz aquí? En la superficie se parece a la filosofía Yok Huy, pero yo no le veo nada noble ni reconfortante..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_054",
+      "hash": "55F178C43335B4AC",
+      "target": "Bueno, a mí personalmente no me parece tan terrible. Al final todo se reduce a lo que uno esté acostumbrado, supongo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_055",
+      "hash": "6126E41C50740D61",
+      "target": "Al igual que la barrera que envuelve Alexandria, este sistema se creó para superar la calamidad que transformó el mundo hace cientos de años."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GEODE_000_056",
+      "hash": "37C2C818EDDBE450",
+      "target": "Con las muertes multiplicándose, los científicos usaron el electrope para idear un modo de salvar las vidas que pudieran y que la nación perdurara."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_057",
+      "hash": "6D967554C512A168",
+      "target": "Entiendo que los alejandrinos hicieran lo que creían mejor para salvar a su gente. Lo que me cuesta creer es que los turalíes aceptaran también esta forma de vivir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_058",
+      "hash": "3475279ED7F0F87F",
+      "target": "A nosotros también nos impactó. De hecho, muchísimos se opusieron."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_059",
+      "hash": "06D0C5A3B8602213",
+      "target": "Por eso el uso de reguladores nunca fue obligatorio. La gente siempre ha sido libre de prescindir de ellos si así lo desea."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_060",
+      "hash": "F9720DF55EFB3D6B",
+      "target": "Sphene no me pareció de las gobernantes que imponen su voluntad a los demás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_061",
+      "hash": "C9A46928D0231C4C",
+      "target": "Ah, ¿ya os conocéis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_062",
+      "hash": "DA729E2315E53ECF",
+      "target": "Fue ella quien nos sugirió venir a los Campos del Trueno. También dijo que quiere ayudarnos a detener a Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_063",
+      "hash": "21E9AA62E290B5F7",
+      "target": "Qué amable por su parte señalaros hacia mí. Y hablar con tanta franqueza, además..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_064",
+      "hash": "690A96C492D875B2",
+      "target": "Sean cuales sean sus motivos, ha dado a la gente una elección: vivir con el riesgo de la muerte verdadera, o con la seguridad de los reguladores."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_065",
+      "hash": "43E6289B4292F2F6",
+      "target": "Todo lo que vive debe morir algún día. Ese es el orden natural de las cosas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_066",
+      "hash": "21975FB737DB9CEE",
+      "target": "Muy cierto... Pero, opinéis lo que opinéis de ellos, sería más fácil entender de qué son capaces los reguladores si lo vierais por vosotros mismos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_067",
+      "hash": "A1159B0866557DFE",
+      "target": "Conozco justo a la persona indicada para enseñároslo y, por suerte, debería estar empezando su turno justo ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_068",
+      "hash": "FE6C450A351C976D",
+      "target": "¿A quién vamos a ver, exactamente?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_069",
+      "hash": "BA059AF0137E3793",
+      "target": "Venid conmigo y lo descubriréis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_074",
+      "hash": "627E3BCFBE32FCFD",
+      "target": "Así que esos reguladores tienen la culpa de que todos se hayan olvidado de Namikka. De que hayan olvidado la persona maravillosa que era..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_075",
+      "hash": "0EE68E0D8576726D",
+      "target": "Lo siento, pero no puedo aceptar la idea de usar las almas como un recurso."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_076",
+      "hash": "5E36BC2777B143B1",
+      "target": "Vamos a ver cómo funcionan los reguladores, pero ¿cómo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_077",
+      "hash": "9020D97416C2AC8E",
+      "target": "Alterar los recuerdos de toda una población con semejante precisión no es hazaña menor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_078",
+      "hash": "824D2C4BCBE0DA43",
+      "target": "¿Qué pretende enseñarnos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_080",
+      "hash": "AA627C119F6871E3",
+      "target": "¿Estamos todos? Bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_081",
+      "hash": "C32432F1EE02C508",
+      "target": "Es responsabilidad de los cazadores de los Campos del Trueno abatir a las bestias que merodean por la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_082",
+      "hash": "3F431EA11ACDDE38",
+      "target": "Vamos a ver a una conocida mía, Strika, una de esas cazadoras."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_085",
+      "hash": "3CF77668A2123A56",
+      "target": "¿Qué crees que hay en esta caja? Yo apuesto por comida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_086",
+      "hash": "69EEE49C320EB0D6",
+      "target": "A juzgar por su nombre, deduzco que estas instalaciones sirven para acumular energía de rayo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_087",
+      "hash": "59C085D1F2BBDD14",
+      "target": "Si se me diera la ocasión, me encantaría estudiar el electrope en nombre de los Discípulos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_088",
+      "hash": "3CBD0641F0540393",
+      "target": "Aunque no soy ciego a los posibles beneficios de estos reguladores, nunca se insistirá bastante en los riesgos de dar a otro el poder de alterar tus recuerdos─por no hablar de las consideraciones éticas de usar almas de semejante manera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_089",
+      "hash": "B477DA366AFB3B59",
+      "target": "Acabemos con esto cuanto antes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_090",
+      "hash": "B3ACAB00C6544FE4",
+      "target": "Strika os enseñará cómo puede ser la vida llevando un regulador."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_100",
+      "hash": "A4AB6518348C053E",
+      "target": "¿Cahciua? ¿Qué haces aquí? Y con tanta compañía."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_101",
+      "hash": "9A8748211A4DA522",
+      "target": "Perdona la interrupción, pero esperaba que pudieran verte trabajar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_102",
+      "hash": "4C7B49C444DEC97D",
+      "target": "¿Cazando, dices? Bueno, supongo que vale..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_103",
+      "hash": "EBC015050B6D51C4",
+      "target": "Un momento. Daba por hecho que llevaban reguladores especiales, como la corona de la reina Sphene, pero es que no llevan nada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_104",
+      "hash": "2EAFBCA170CF2482",
+      "target": "Es demasiado peligroso estar aquí sin uno. ¿Y si les cae un rayo, o los atacan las bestias?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_105",
+      "hash": "1BC0D64B94CB35B4",
+      "target": "Te aseguro que saben cuidarse solos de sobra. Si algo saliera mal, asumo toda la responsabilidad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_106",
+      "hash": "1CE1F39031A61B0B",
+      "target": "Bueno, que luego no se diga que no avisé. Peligro aparte, tampoco hay mucho que ver."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_107",
+      "hash": "24ABEB6274AE2B33",
+      "target": "Cahciua ha dicho que eres cazadora, pero ¿no sería más fácil que esos soldados mecánicos vigilaran este sitio?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_108",
+      "hash": "B6CE78C3F3514677",
+      "target": "Lo sería, si no fuera porque son vulnerables al rayo. Siendo los Campos del Trueno lo que son, tienen orden de mantenerse lejos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_109",
+      "hash": "1DAACDF25A0D3C10",
+      "target": "Menuda utilidad, ¿eh? Pero estas instalaciones son vitales para mantener la infraestructura de Alexandria, así que nos toca a cazadoras como yo ocuparnos de las bestias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_110",
+      "hash": "58869D9D10F252D7",
+      "target": "Dado el peligro, se nos compensa bien el trabajo. Es una profesión perfecta para quien quiera ahorrar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_111",
+      "hash": "39B8D6B7D61A3E62",
+      "target": "La selección especial de almas para cazadores tampoco está nada mal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_112",
+      "hash": "D1F394E0BA8FDC59",
+      "target": "He traído a esta gente para que vea ese peligro del que hablas. Si no es mucha molestia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_113",
+      "hash": "2E4CD515C68DBE6C",
+      "target": "Ah, claro. En tal caso, sería una pena malgastar el esfuerzo con una bestia cualquiera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_114",
+      "hash": "4E66CE4AB8924AE7",
+      "target": "Sabéis apañaros en un combate, ¿no? Si armáis jaleo matando a los bichos que veáis por aquí cerca, es posible que atraigáis a algo digno de una demostración."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_115",
+      "hash": "AE5ADC1D1693E568",
+      "target": "No estoy segura de entenderlo, pero supongo que cada uno debería matar lo que pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_120",
+      "hash": "FA6D6D3885D4AD8D",
+      "target": "Me temo que el combate os lo tengo que dejar a vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_125",
+      "hash": "E58F2523B906A23E",
+      "target": "Mi conejito quisquilloso nunca ha valido para pelear, y este cuerpo mío tampoco sirve para eso. ¡Dejamos el trabajo en vuestras buenas manos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_STRIKA_000_130",
+      "hash": "D3D1737996F4F96A",
+      "target": "Este servirá de maravilla."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_131",
+      "hash": "C778D2C85F8CA704",
+      "target": "¡Te ayudamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_132",
+      "hash": "4978775CA8A25613",
+      "target": "No hace falta, en serio. He visto cosas peores. Vosotros mirad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_133",
+      "hash": "4E4CA6D542ACE706",
+      "target": "Esto no me gusta nada. ¡Déjanos ayudar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_134",
+      "hash": "A31D13BCF2B3FFEF",
+      "target": "¡Ay, no!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_135",
+      "hash": "AC6ECB39255D8F08",
+      "target": "¡Cuidado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_136",
+      "hash": "7B0D0CF226953C60",
+      "target": "¡Aaargh!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_137",
+      "hash": "B0EF950B5E1D2918",
+      "target": "Por los Doce..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_138",
+      "hash": "12B0C139B5675574",
+      "target": "¡Necesita curación!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_139",
+      "hash": "CEB415365BCBECEE",
+      "target": "Qué vergüenza. El muy cabrón me ha pillado desprevenida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_140",
+      "hash": "C8C1AE3E6F925305",
+      "target": "¿¡Estás loca!? En serio, ¡déjanos ayudar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_141",
+      "hash": "371178747D7274DB",
+      "target": "Ya os he dicho que no os preocupéis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_142",
+      "hash": "97C0024E188EECD4",
+      "target": "Esto no me llevará ni un momento."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_143",
+      "hash": "518839AFF1883890",
+      "target": "Igual que Zoraal Ja..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_144",
+      "hash": "A06A3DAE51ACA6C4",
+      "target": "Vamos, salgamos de aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_145",
+      "hash": "7BF4458CEE23DC30",
+      "target": "¿Eso también es una función del regulador?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_146",
+      "hash": "B4E0A388777BA50E",
+      "target": "Creo que ahora entiendo cómo pudo Zoraal Ja volver de entre los muertos y vencer a papá, pero no sé muy bien qué hemos visto al final."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_147",
+      "hash": "B694FC2B8861466D",
+      "target": "En cuanto el regulador se puso rojo, fue como si estuvieras poseída. Tus movimientos se volvieron bestiales."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_148",
+      "hash": "E55ED77CE826039F",
+      "target": "No me digas... ¿te potenciaste con el alma de una bestia? Me viene a la mente aquel soldado serpentino que encontramos en la Vanguardia e hizo lo mismo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_149",
+      "hash": "9D00F07DFDC0C484",
+      "target": "¿Así que os habéis cruzado con uno de los soldados de élite del rey? Esa forma solo se alcanza atiborrándose de almas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_150",
+      "hash": "EE4BF5593834857C",
+      "target": "En teoría podríamos hacer lo mismo, pero es tremendamente peligroso. Además, tampoco es que a los cazadores nos dejen llevar tantas almas encima."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_STRIKA_000_151",
+      "hash": "2611BC2CDAD172C6",
+      "target": "Bueno, debería volver al trabajo. Cuidaos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_152",
+      "hash": "7B8F54BB923BA895",
+      "target": "Y ahí lo tenéis. Los reguladores pueden cargarse con dos tipos de almas: las de las personas y las de las bestias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_153",
+      "hash": "32E8C3CD59858DF5",
+      "target": "Las almas de personas pueden usarse para conceder al usuario una fuerza sobrenatural."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_154",
+      "hash": "43CD13CF4997E96E",
+      "target": "Naturalmente, también sirven para asegurar que nadie sufra una muerte prematura."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_155",
+      "hash": "14F34092BFD026D0",
+      "target": "¿Y qué hay de las almas de bestias?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_156",
+      "hash": "0B25AE8283340AFF",
+      "target": "Funcionan más o menos igual: te imbuyen de la fuerza del animal elegido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_157",
+      "hash": "15DFC875A667EB0F",
+      "target": "Si, por ejemplo, usaras el alma de un lobo, te volverías más ágil y más feroz, como habéis visto con Strika."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_158",
+      "hash": "788BBB91953B003F",
+      "target": "Usar varias del mismo tipo a la vez, en cambio, provocaría cambios físicos. Los dientes se te volverían colmillos; las uñas, garras─y con demasiadas, acabarías siendo más bestia que persona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_159",
+      "hash": "E9EECE189DBB650E",
+      "target": "Cambiar la propia forma mediante las almas de otros seres... Cada vez recuerda más a los seres del Vacío."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_160",
+      "hash": "84FDCF2DE2FC8754",
+      "target": "Aunque, a diferencia del Vacío, donde el ciclo de muerte y renacimiento simplemente está roto, aquí las almas se toman por la fuerza antes de que puedan llegar al mar etéreo. Medios distintos para fines parecidos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_161",
+      "hash": "EF7BA20CDC4C80B0",
+      "target": "Un ciclo al que están atados todos los que hay dentro de la cúpula..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_162",
+      "hash": "ECAB92BEC844DA23",
+      "target": "Esto está mal. Todo esto está mal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_163",
+      "hash": "72128D92287CE9EE",
+      "target": "Cuesta aceptarlo, sí, estando tan lejos de nuestras propias creencias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_164",
+      "hash": "F4821A420984B64F",
+      "target": "Quizá lo más impactante sea que la tecnología para lograr todo esto se desarrolló hace cientos de años."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_165",
+      "hash": "DD18EB4582D7C10A",
+      "target": "Las civilizaciones de los reflejos son sorprendentes, desde luego..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ALISAIE_000_170",
+      "hash": "4E8DA1FC864276BA",
+      "target": "Habiendo visto de primera mano la belleza del mar etéreo, sencillamente no puedo aceptar lo que han hecho aquí en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_171",
+      "hash": "6E5A9ED7FFC354E1",
+      "target": "Entiendo que forma parte de su cultura, pero no por ello resulta menos desconcertante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_000_172",
+      "hash": "BC0FF8CE1D937919",
+      "target": "Cuando Emet-Selch hablaba de civilizaciones sorprendentes en otros reflejos, me pregunto si pensaba en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_ERENVILLE_000_173",
+      "hash": "541732F33C0E925D",
+      "target": "Sphene habla de vivencias que sugieren que es mucho mayor de lo que aparenta. Considerando el poder de estos reguladores, quizá no sea tan descabellado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_CAHCIUA_000_174",
+      "hash": "A620C0B8361435F9",
+      "target": "Yo nunca lo he visto, pero dicen que, si el alma de una bestia es lo bastante poderosa, con una sola basta para provocar una transformación monstruosa."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_180",
+      "hash": "78F6A82B3CE1CBD2",
+      "target": "Aunque todos tengamos nuestra opinión sobre las almas, por ahora lo importante es que sabemos de qué poder dispone Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_GRAHATIA_100_180",
+      "hash": "48ECC17F12B8FD90",
+      "target": "Una cosa es separar el éter corpóreo del incorpóreo, pero despojar al alma de sus recuerdos por completo es una tecnología sin precedentes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_KRILE_000_181",
+      "hash": "7C7F5E88BB133C30",
+      "target": "Esto ya no atañe solo a Tuliyollal. Con su nuevo poder, Zoraal Ja se ha convertido en una amenaza real para el mundo entero."
+    },
+    {
+      "gameKey": "quest/049/KinGmd120_04931#TEXT_KINGMD120_04931_WUKLAMAT_000_182",
+      "hash": "BEB974B6AF7CD649",
+      "target": "Cierto. ¡Hay que detenerlo, cueste lo que cueste!"
+    }
+  ]
+}

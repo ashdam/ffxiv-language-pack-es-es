@@ -1,0 +1,392 @@
+{
+  "conversation": "quest/005/SubWil129_00574",
+  "questName": "Dressed to Deceive",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ISEMBARD_000_1",
+      "hash": "D6638614BC7A15A2",
+      "target": "Me temo que no he visto ninguna actividad inusual. Ni nadie en este campamento me ha dado motivos para dudar de él. Pero, como no identifiquemos pronto al culpable, más inocentes serán víctimas..."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_2",
+      "hash": "DEA92692DD8A6EBE",
+      "target": "No desespere todavía, amigo mío. Se me ocurre una idea."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_3",
+      "hash": "A0276DDC398D0C63",
+      "target": "Nuestro sospechoso se ha hecho pasar por sacerdote, valiéndose de panfletos con falsas promesas para atraer a los pobres. Paguémosle con la misma moneda: <split(<string(gstr1)>, ,1)> y yo nos haremos pasar por menesterosos en busca de amparo."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ISEMBARD_000_4",
+      "hash": "8B1833CA723B7B90",
+      "target": "Ah, me atrevo a esperar que esto nos brinde las respuestas que buscamos. Será una empresa peligrosa, pero vosotros dos sois más que capaces de cuidaros solos."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ISEMBARD_000_5",
+      "hash": "A4C984F52B5D9FF2",
+      "target": "En combate soy poco menos que inútil, pero <italic(1)>sí<italic(0)> puedo proporcionar la ropa para el disfraz. Estas túnicas y calzones viejos deberían serviros, siempre que no os importe el olor y las manchas."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_6",
+      "hash": "CB2F848734EEC695",
+      "target": "Servirán de maravilla. Se lo agradezco."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_7",
+      "hash": "2BE944CD301FE2AC",
+      "target": "Escuche, <split(<string(gstr1)>, ,1)>. Para sentar las bases de nuestra pequeña estratagema, hemos de hacer correr la voz de que han llegado al campamento más vagabundos desesperados por unas monedas."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_8",
+      "hash": "A0DCF6E60381BDD3",
+      "target": "Con ese fin, quiero que se ponga la vieja ropa que Isembard nos ha prestado y mendigue trabajo por el campamento. No tardará el falso sacerdote en enterarse y acercarse a nosotros."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_40",
+      "hash": "AE97CDDE31274B53",
+      "target": "Quiero que se ponga la vieja ropa que Isembard nos ha prestado y mendigue trabajo por el campamento. No tardará el falso sacerdote en enterarse y acercarse a nosotros."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_41",
+      "hash": "3B22A5D10D37CD95",
+      "target": "Por si extravía la túnica y los calzones, tendrá que pedirle a Isembard otro juego."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_KNERL_000_10",
+      "hash": "FA13EAB9E8945D90",
+      "target": "¿Hm? ¿Y tú eres...?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_KNERL_000_11",
+      "hash": "B46F8654C48E7B4F",
+      "target": "Hmpf, otro refugiado, por lo que veo. Las Llamas Inmortales no tienen ni trabajo ni monedas para los de tu calaña. Lárgate, y cuida de no dar la lata."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_KNERL_000_12",
+      "hash": "BFB07495EF056ADE",
+      "target": "Ah, <if(gnum4,una aventurera,un aventurero)>. Eres bienvenid<if(gnum4,a,o)> al Campamento Huesos Secos, amig<if(gnum4,a,o)>. Espero que podamos contar con tu ayuda para preservar la paz en la zona."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SWAENHYLT_000_15",
+      "hash": "7DF6354E9A831515",
+      "target": "Predico las enseñanzas de Azeyma, la Guardiana. ¿Vienes a probar la miel de Su sabiduría?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SWAENHYLT_000_16",
+      "hash": "19818B4CD369E45D",
+      "target": "Azeyma es guardiana del sol y diosa de la indagación. Todo queda al descubierto bajo la luz de Su divino semblante. Abre tu corazón a esta luz, hijo menesteroso, ¡y nada te faltará hasta el fin de los días!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SWAENHYLT_000_18",
+      "hash": "198BED7E6F08277A",
+      "target": "Azeyma es guardiana del sol y diosa de la indagación. Todo queda al descubierto bajo la luz de Su divino semblante. Abre tu corazón a esta luz, <if(gnum4,aventurera,aventurero)>, ¡y conocerás la verdadera plenitud!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_AURILDIS_000_20",
+      "hash": "43C91268BFF4DB15",
+      "target": "¿Qué quieres?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_AURILDIS_000_21",
+      "hash": "CFC8DB324AC6746A",
+      "target": "Dioses, otra vez no... Mira, ser pobre no te da derecho a incordiar a quien te plazca. ¿Por qué no te quedas con los de tu clase junto a esa charca embarrada vuestra de Huesos Secos?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_AURILDIS_000_23",
+      "hash": "C38B5E15CB2A4F31",
+      "target": "Si no te importa, ahora mismo estoy bastante ocupada. Ve a incordiar a otro."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ERMEGARDE_000_25",
+      "hash": "CDD3EE980356D90E",
+      "target": "Saludos, <if(gnum4,buena señora,buen señor)>. ¿Hay algo en lo que pueda ayudarle?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ERMEGARDE_000_26",
+      "hash": "58E39F04709A9604",
+      "target": "...Oh. Me... me temo que no. Nuestros artículos son <italic(1)>muy<italic(0)> caros. Quizá debería volver con los suyos, junto a la charca al norte de la Puerta de Arena."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ERMEGARDE_000_28",
+      "hash": "7BDBC11CEE4D8025",
+      "target": "Solo tenemos los mejores artículos. Si desea hacer una compra, el dependiente del mostrador le atenderá con gusto."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ADELSTAN_000_30",
+      "hash": "42DB8D427DCC26FE",
+      "target": "\\<suspiro> Y justo cuando llegaba a lo bueno..."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ADELSTAN_000_31",
+      "hash": "E42940313BB69645",
+      "target": "¿Que buscas trabajo, dices? Lo siento, pero no tenemos vacantes. Ahora, largo de aquí, que quiero terminar mi historia."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ADELSTAN_000_32",
+      "hash": "CB32F52F2C0BA48D",
+      "target": "¿Tienes hambre, <if(gnum4,aventurera,aventurero)>? Pues has venido al sitio adecuado. No encontrarás mejor comida caliente en muchos malms a la redonda."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_50",
+      "hash": "534E6525DDFAF38C",
+      "target": "Tiene usted un don para dar la lata, <split(<string(gstr1)>, ,1)>. Todo el campamento bulle con rumores de vagabundos recién llegados."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_51",
+      "hash": "4C05120FE47450D1",
+      "target": "Y aunque no logramos atraer a nuestro díscolo transgresor, <italic(1)>sí<italic(0)> averiguamos que los pobres tienen una comuna junto a la charca al norte de la Puerta de Arena, al este de aquí. La vista de las autoridades no llega allí... ideal para llevarse a almas desdichadas."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_52",
+      "hash": "7762791CD54CD852",
+      "target": "Vayamos allá y esperemos a que el bondadoso sacerdote venga a ofrecernos ayuda y consuelo. Ni que decir tiene que deberá permanecer disfrazad<if(gnum4,a,o)>."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_60",
+      "hash": "FACD1CF96F9C31EB",
+      "target": "Una buena <if([gnum11<12],<if([gnum11<4],noche,mañana)>,<if([gnum11<17],tarde,noche)>)> para cazar falsos sacerdotes, ¿no le parece?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_65",
+      "hash": "0EDF1930C575E173",
+      "target": "¿Hm? ¿Por qué no lleva puesta la preciosa ropa mugrienta que le dio Isembard? Vestid<if(gnum4,a,o)> así, nuestra presa notará que algo va mal antes de estar a tiro de captura."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_66",
+      "hash": "0850DE462BE1EC7D",
+      "target": "Por si se ha deshecho sin querer de la túnica y los calzones, tendrá que pedirle a Isembard otro juego."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_70",
+      "hash": "C1C4D1978B1F3049",
+      "target": "Está usted absolutamente <if(gnum4,espléndida,espléndido)>, <split(<string(gstr1)>, ,1)>... vestid<if(gnum4,a,o)> para el engaño, ni más ni menos. Solo queda, pues, esperar a que aparezca nuestra presa."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_71",
+      "hash": "55F7052E6F9BD822",
+      "target": "Oh, pobres almas desdichadas. Esto no es vida para nadie. En absoluto."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_72",
+      "hash": "8B758D98C6403062",
+      "target": "¿Quién es usted? ¿Qué desea?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_73",
+      "hash": "10E3B32AA3F46A54",
+      "target": "Sosiéguese, hijo, que no le deseo ningún mal. Soy un sacerdote de la Orden de Nald'thal, y vengo a ofrecerle amparo."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_74",
+      "hash": "76F346AE92DE25A4",
+      "target": "Este panfleto contiene las enseñanzas de Nald. Confíe en ellas, ¡y sin duda le liberarán de las cadenas de la penuria!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_75",
+      "hash": "D581852850EE4D3D",
+      "target": "Mmm... Una oferta tentadora, pero me temo que debo rechazarla..."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_76",
+      "hash": "550A9066BCE1887E",
+      "target": "...Por culpa de esa <italic(1)>atroz<italic(0)> actuación. Habrías sido un cómico de lo más nefasto, <italic(1)>Ungust<italic(0)>."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_77",
+      "hash": "A8FFA913C6F1EC6B",
+      "target": "¿¡Q-Qué!? ¿¡Cómo lo has sabido...!? ¡M-Malnacidos, me habéis engañado!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_78",
+      "hash": "61E87B5121DFA066",
+      "target": "¡P-Por favor, no me hagáis daño! ¡Solo lo hacía para proteger a los míos!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_79",
+      "hash": "EB5C850552CB4DB2",
+      "target": "¿Ah, sí? Continúa."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_80",
+      "hash": "F06E666AE73E606B",
+      "target": "M-Muy bien...<br>Soy hombre del Bazar Dorado. Me crié allí, ya que no nací."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_81",
+      "hash": "A5FF752A427BE1EC",
+      "target": "Hace unas lunas comenzaron las incursiones de los Amalj'aa. Aparecían de súbito como una tormenta de arena y saqueaban y arrasaban a placer. Nuestros defensores, pocos como eran, no podían plantarles cara. Todos vivíamos con miedo."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_82",
+      "hash": "3E28820C3B305E86",
+      "target": "Quería salvar a los míos, pero yo no sabía más que ser mercader. Así que hice lo único que un mercader podía hacer: me acerqué a los Amalj'aa con la esperanza de cerrar un trato."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_83",
+      "hash": "92EE072EE736C439",
+      "target": "A cambio de perdonar el Bazar Dorado, pusieron condiciones... indignantes."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_84",
+      "hash": "FF8451B74ABAAFEF",
+      "target": "¿Condiciones? ¿De qué clase? Habla."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_85",
+      "hash": "4370CE2D3E5BD073",
+      "target": "Lo primero, querían el calendario de los envíos de cristal de las Minas de Nanawa. Para eso, soborné a uno de los obreros para que me filtrara la información."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_86",
+      "hash": "689954ABC6F00084",
+      "target": "Después, querían que les llevara gente. Así que me hice pasar por sacerdote para atraer a los vulnerables y entregarlos a los Amalj'aa. Yo... yo no tenía elección..."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_87",
+      "hash": "C17C65E77F672737",
+      "target": "Proteger el propio hogar es algo noble... ¿pero a costa de inocentes? Podías haber buscado la ayuda de las Llamas Inmortales, y no lo hiciste. Sospecho que no me cuentas toda la historia. ¿Qué te llevó a vender a los tuyos? ¡Habla!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_88",
+      "hash": "EDFF73319CB423AD",
+      "target": "La... \\<murmullo>... era buena..."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_89",
+      "hash": "EB228A824D433086",
+      "target": "¿Qué has dicho?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_90",
+      "hash": "7C34A9248FC718D7",
+      "target": "¡La <italic(1)>paga<italic(0)> era buena, he dicho! ¡Podría vender carne de topo veinte vidas seguidas y no vería ni una fracción de lo que me pagan los Amalj'aa!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_91",
+      "hash": "CF536A8AA63E21AD",
+      "target": "¿Sacrificaste a inocentes para llenarte los bolsillos? No hay palabras para expresar el desprecio que siento por ti."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_92",
+      "hash": "32E07B1CEF523781",
+      "target": "¡Ahórrame tu desprecio! ¡Si queréis culpar a alguien del desastre en que está el mundo, culpaos a vosotros mismos o a los dioses!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_93",
+      "hash": "247EE9A2865F1D7A",
+      "target": "¡Uwaaah! ¡Otra vez <italic(1)>tú<italic(0)> no!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_94",
+      "hash": "6A56D783892B2913",
+      "target": "¿Fuiste tú quien también filtraba al enemigo las rutas de patrulla de las Llamas Inmortales? ¡Suéltalo!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_95",
+      "hash": "878DD3A0879AB34F",
+      "target": "¡Nooo! ¡De eso no sé nada! ¡Lo juro!"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_96",
+      "hash": "B4CE59C5E38F4CF8",
+      "target": "A estas alturas, poco me inclino a creer nada de lo que sale de tu boca. Pero no importa. Habrá tiempo de sobra para averiguar la verdad."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_UNGUST_000_97",
+      "hash": "B54B6D095BEA4A27",
+      "target": "\\<sollozo>"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_98",
+      "hash": "FE0EC04E4F0302A8",
+      "target": "<split(<string(gstr1)>, ,1)>. Sea <if(gnum4,un encanto,buen hombre)> y lleve noticia de estos avances a Minfilia, ¿quiere?"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_99",
+      "hash": "B7EDD0A090C868F9",
+      "target": "Yo le sacaré a esta escoria todo lo que pueda."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_THANCRED_000_100",
+      "hash": "8AFE686D035D9193",
+      "target": "Los secuestrados siguen ahí fuera, en alguna parte. Nuestra prioridad absoluta es rescatarlos."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_MINFILLIA_060",
+      "hash": "E89100A306CA0378",
+      "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Me alegra que Thancred y tú os llevéis bien."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_MINFILLIA_061",
+      "hash": "A806334C3AFFFE22",
+      "target": "Ya veo... Has hecho bien en destapar la verdad. Gracias por el informe."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_MINFILLIA_062",
+      "hash": "C466DCCDB2C1A738",
+      "target": "Como dijo Thancred, hemos de averiguar adónde se llevaron a los secuestrados... y nadie salvo los Amalj'aa conoce la respuesta."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_MINFILLIA_063",
+      "hash": "9D95FC00889F4A66",
+      "target": "Baste decir que no soltarán esa información de buena gana. Me temo que correrá sangre antes de que todo esto acabe."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_ISEMBARD_000_110",
+      "hash": "92DAE502FD02230B",
+      "target": "¿Que has extraviado tu disfraz? Te prestaré otro juego, pero cuídalo mejor esta vez."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_00",
+      "hash": "2019E01CFAA84F64",
+      "target": "Isembard quiere ayudarte a identificar y capturar al falso sacerdote."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_01",
+      "hash": "0C705EF96A228ED4",
+      "target": "Thancred sugiere que os hagáis pasar los dos por menesterosos para tender una trampa al falso sacerdote. Para sentar las bases del plan, primero debes hacer correr la voz de que han llegado nuevos vagabundos al Campamento Huesos Secos. Ponte una weathered shepherd's tunic y unos weathered shepherd's slops y mendiga trabajo a los residentes del campamento."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_02",
+      "hash": "932D847D13B7AAD1",
+      "target": "Has dado suficiente la lata como para llamar la atención del falso sacerdote. Informa a Thancred."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_03",
+      "hash": "F9A50DCD696E7196",
+      "target": "Al parecer, los pobres han formado una comuna junto a una charca al norte de la Puerta de Arena, al este del Campamento Huesos Secos. Por su aislamiento, Thancred cree que es un lugar ideal para que los secuestradores actúen. Ponte de nuevo el disfraz y reúnete con Thancred en dicha charca."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_04",
+      "hash": "97AADE78CF01F185",
+      "target": "El falso sacerdote resulta ser nada menos que Ungust, el odioso mercader al que sorprendiste por primera vez abusando de una refugiada en Ul'dah. El hombre revela que ha estado secuestrando gente por orden de los Amalj'aa. Lleva esta información a Minfilia, que aguarda en el Refugio de las Arenas, en la Bahía de las Vísperas."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_SEQ_05",
+      "hash": "BB91626D6DAFA3A6",
+      "target": "Tras elogiar tu labor de investigación, Minfilia te dice que un enfrentamiento con los Amalj'aa es inevitable. Prepárate para responder a la llamada a las armas cuando llegue el momento."
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_TODO_00",
+      "hash": "0958B8A41E4AE59D",
+      "target": "Hablar con los lugareños vestid<if(gnum4,a,o)> con una weathered shepherd's tunic y unos weathered shepherd's slops"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_TODO_01",
+      "hash": "06DDEB07523E5BFB",
+      "target": "Hablar con Thancred"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_TODO_02",
+      "hash": "2397974F44153FB6",
+      "target": "Hablar con Thancred vestid<if(gnum4,a,o)> con una weathered shepherd's tunic y unos weathered shepherd's slops"
+    },
+    {
+      "gameKey": "quest/005/SubWil129_00574#TEXT_SUBWIL129_00574_TODO_03",
+      "hash": "6D99731A40A1B797",
+      "target": "Hablar con Minfilia en el Refugio de las Arenas"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/051/KinGzd110_05109",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SEQ_00", "hash": "02DC92DDF0A0A0DE", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Mosaal Ja busca a alguien que sepa pelear." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_TODO_00", "hash": "90270C9F4B9753E1", "target": "Hablar con el domador de wivres preocupado" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_TODO_01", "hash": "55D8D5B26C5E6452", "target": "Usar najool sacks para capturar fly agarics debilitadas" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_TODO_02", "hash": "E4B8579B32EC1A75", "target": "Entregar los squirming najool sacks al domador de wivres preocupado" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_TODO_03", "hash": "E1359CFF9067FAA1", "target": "Hablar con Mosaal Ja" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_000", "hash": "D62F13A7F81885D6", "target": "Apostaría a que has visto tu buena ración de combate. A un amigo mío le vendría bien la ayuda de alguien como tú." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_001", "hash": "16FB5C8CA784925E", "target": "Debería estar justo al sur de aquí. Busca al Doppro con cara de mala suerte." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_002", "hash": "607D92B60D7F9052", "target": "Ve al sur y encontrarás a mi amigo. Haz lo que puedas por ayudarlo." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_003", "hash": "7C6B3665B7886433", "target": "¿Te manda Mosaal Ja? Ay, menos mal..." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_004", "hash": "331F237B4E4449B4", "target": "Mi fiel wivre se hirió hace poco trabajando, así que se me ocurrió cazarle unas fly agarics como capricho. Para animarla, aunque sea un poco." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_005", "hash": "EF025BC089F95B07", "target": "Solo que por algo nunca cazo sin mi wivre de confianza al lado. Esas malditas alimañas me han tenido corriendo arriba y abajo por el bosque <if([gnum11<12],<if([gnum11<4],toda la noche,toda la mañana)>,<if([gnum11<17],todo el día,toda la noche)>)>." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_006", "hash": "F517BE01C0F7569C", "target": "¿Podrías capturar un par de fly agarics en mi lugar? Cuando las tengas agotadas, atrápalas en estos najool sacks." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_007", "hash": "88558C2BA97D3E9A", "target": "Encontrarás fly agarics al sur de aquí. Solo asegúrate de que estén lo bastante débiles antes de intentar atraparlas." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_008", "hash": "7698D7AB354683BA", "target": "¿Tienes las fly agarics?" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_009", "hash": "62C64FD6C66DF44C", "target": "¡Qué alivio! Ahora mi grandullona tendrá algo sabroso que picar. Un Doppro que no sabe cuidar de su wivre es... bueno, el hazmerreír." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_010", "hash": "21B0ED5402A0098C", "target": "No solo somos pocos los Doppro: encima no damos la talla físicamente frente a los Hoobigo, y en magia somos torpes al lado de los Boonewa. Por eso nunca se consideró nuestra sangre para los hermanos benditos." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_011", "hash": "3A2513ECFE281C44", "target": "Mientras tengamos nuestras wivres, tenemos un sitio junto a los demás. Y por eso quiero que la mía se recupere cuanto antes." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_SOLDIERDOPPRO05109_000_012", "hash": "77D43755C8F2ABFA", "target": "Más vale que me dé prisa en volver a casa para asegurarme de que así sea. Gracias por la ayuda." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_013", "hash": "7C78DC45166D3786", "target": "Has encontrado a mi amigo, ¿no?" },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_014", "hash": "C1350BE863AC075D", "target": "No diré que no existan prejuicios contra los Doppro, pero por lo que a mí respecta, todos tenemos nuestras fuerzas y nuestras debilidades. Ni los Boonewa ni los Hoobigo saben montar wivres como ellos." },
+    { "gameKey": "quest/051/KinGzd110_05109#TEXT_KINGZD110_05109_MOSAALJA_000_015", "hash": "096BBD66C276DD30", "target": "Sea como sea, espero que su wivre se recupere pronto. Sé cuánto la quiere." }
+  ]
+}

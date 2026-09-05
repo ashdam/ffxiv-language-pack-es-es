@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/028/StmBdz703_02806",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_SEQ_00", "hash": "5E689B1CB98DCA8B", "target": "Haname desea mostrar su gratitud a un firme partidario del Frente." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_00", "hash": "F1584BED05ABCFC1", "target": "Abatir whitewing hornbills y obtener un golden bezoar" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_TODO_01", "hash": "0EF742F08286A2B8", "target": "Entregar el golden bezoar a Haname" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_000", "hash": "7133CD6658E2786F", "target": "Ah, es usted, <split(<string(gstr1)>, ,1)>. Si no le importa, quisiera su ayuda con cierto asunto." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_001", "hash": "187EE3CF6A097ADD", "target": "<if(gnum4,Una veterana,Un veterano)> como usted sabrá apreciar que para librar una guerra hace falta algo más que guerreros. Además de quienes luchan en primera línea, como nosotros, son muchos los que contribuyen a nuestra causa de otras mil maneras." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_002", "hash": "02F74B4FDED49B7C", "target": "En concreto, hay una persona a quien debemos mucho, y es mi deseo expresarle mi gratitud en forma de regalo." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_003", "hash": "F432D64110BDA2D7", "target": "Para ese regalo tengo en mente un golden bezoar, una piedra que solo se halla en el estómago de los whitewing hornbills. Estas criaturas habitan cerca de Monzen, al oeste, y le pediría que las cazara hasta que una suelte lo que busco." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_004", "hash": "A7D04A308ADB3255", "target": "Los bezoares corrientes se encuentran con facilidad y apenas valen nada, pero la variedad dorada se aprecia mucho como talismán." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_005", "hash": "B06840D6BF9A71AE", "target": "En circunstancias normales me encargaría yo misma de esta tarea, pero las circunstancias distan mucho de ser normales. No me atrevo a abandonar mi puesto, no sea que me llamen a la acción estando fuera. Gracias de antemano, camarada." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_010", "hash": "CE8E8284FFEF99C6", "target": "¿Ha podido obtener un golden bezoar?" },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_011", "hash": "2F2CAED3DA05C257", "target": "¡Vaya, qué tono dorado tan intenso! No es de extrañar que se ganara ese nombre. Quedo en deuda con usted, <if(gnum4,amiga mía,amigo mío)>." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_012", "hash": "235FA599F77C5454", "target": "Sin duda se pregunta para quién es este regalo. Aunque no puedo revelar su nombre, es un anciano caballero que lleva mucho tiempo proporcionándonos el dinero que necesitamos para continuar nuestra lucha." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_013", "hash": "C19AF92CE541230D", "target": "Aunque se le puede considerar sano y vigoroso, no se puede negar que está entrado en años; de ahí la elección de un talismán que le traiga buena fortuna." },
+    { "gameKey": "quest/028/StmBdz703_02806#TEXT_STMBDZ703_02806_HANAME_000_014", "hash": "70032614013A2508", "target": "No me cabe duda de que le complacerá. Gracias de nuevo, <split(<string(gstr1)>, ,1)>." }
+  ]
+}

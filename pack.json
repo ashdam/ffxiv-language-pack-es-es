@@ -1,0 +1,19 @@
+{
+  "//": [
+    "Who this language pack is, and where it lives. Read by the pack build, which folds it into",
+    "the gubal-manifest.json inside the published zip, where the plugin reads it.",
+    "",
+    "language is the BCP-47 code; its lower-case form is the last segment of repo and names the",
+    "archive. updateUrl is where an installed pack finds the next release: once set it is a promise, and an",
+    "address that stops answering tells every install that the pack is abandoned.",
+    "issuesUrl is where the plugin sends somebody who found a wrong line."
+  ],
+
+  "name": "FFXIV Language Pack (ES-ES)",
+  "language": "es-ES",
+  "languageName": "Español (España)",
+  "author": "Mini Ashdam",
+  "repo": "ashdam/ffxiv-language-pack-es-es",
+  "updateUrl": "https://github.com/ashdam/ffxiv-language-pack-es-es/releases/latest/download/gubal-manifest.json",
+  "issuesUrl": "https://github.com/ashdam/ffxiv-language-pack-es-es/issues"
+}

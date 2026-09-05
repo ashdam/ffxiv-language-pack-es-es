@@ -1,0 +1,17 @@
+name: "Release"
+
+on:
+  push:
+    branches: ["main"]
+    paths: ["corpus/**", "glossary/**", "pack.json"]
+
+permissions: {}
+
+jobs:
+  release:
+    uses: "ashdam/ffxiv-language-pack-ci/.github/workflows/release.yml@main"
+    permissions:
+      contents: "write"
+    with:
+      language: "es-es"
+    secrets: "inherit"

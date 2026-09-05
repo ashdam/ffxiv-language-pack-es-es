@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/007/GaiUsa501_00753",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_00", "hash": "2A5FABF52FC12CD0", "target": "Claudian necesita conseguir más recursos para su investigación." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_01", "hash": "2C2B3EEE206C5976", "target": "La investigación de Claudian ha dado considerables frutos, pero le faltan la mano de obra y los suministros para restaurar unos valiosísimos artefactos belahdianos. Entrega un resumen de sus hallazgos a Kyokyozo en el Reposo de Thal, para convencer al sacerdote de que envíe ayuda." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_SEQ_02", "hash": "41608EEF09C31054", "target": "A Kyokyozo le impresiona debidamente la importancia histórica de los hallazgos de Claudian, y promete disponer que se envíen sin demora más investigadores y suministros al Viaducto." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_TODO_00", "hash": "1B63A88A9944D7CB", "target": "Entregar el informe del Viaducto a Kyokyozo" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_000", "hash": "98EC50E56D3F6EAD", "target": "Ah, saludos. Gracias a usted, <if(gnum4,amiga,amigo)>, mi investigación por fin ha despegado. ¡Cuántos descubrimientos por hacer, cuántas maravillas antiguas por restaurar! ...Y, aun así, solo cuento con estas dos manos para hacer mi trabajo." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_CLAUDIEN_000_001", "hash": "77D442E4E0A391F4", "target": "Si tan solo pudiera convencer a la Orden de la posible trascendencia de mi trabajo, quizá estarían dispuestos a enviar ayuda. Tengo aquí un informe de mis hallazgos hasta la fecha. ¿Tendría la amabilidad de entregárselo a Kyokyozo, en el Reposo de Thal?" },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_010", "hash": "935217CFE841E094", "target": "Bienvenid<if(gnum4,a,o)>, <if(gnum4,aventurera,aventurero)>. Que halle un respiro de sus penurias." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_020", "hash": "6A184E7E7016B5D2", "target": "¿Trae un informe de Claudian, de El Viaducto? Una sorpresa de lo más grata, sí. Estaba preparada para esperar meses antes de que ese muchacho hiciera algún progreso significativo." },
+    { "gameKey": "quest/007/GaiUsa501_00753#TEXT_GAIUSA501_00753_KYOKYOZO_000_021", "hash": "9B7813AFA4784097", "target": "¡¿Qué es esto?! ¿Las ruinas se remontan a la última era belahdiana y albergan el lugar de descanso final del mismísimo Lalafuto IV? Las implicaciones históricas de esta investigación superan cuanto la Orden había imaginado. ¡Debo disponer que se envíen más investigadores y suministros a El Viaducto de inmediato!" }
+  ]
+}

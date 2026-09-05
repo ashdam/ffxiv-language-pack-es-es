@@ -1,0 +1,112 @@
+{
+  "conversation": "quest/020/ClsAlc550_02067",
+  "questName": "From Hells",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_00",
+      "hash": "74B6BF7289BFFB70",
+      "target": "Wiltwaek tiene novedades sobre el caso."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_01",
+      "hash": "89688D76B3A8DF1E",
+      "target": "Wiltwaek te informa de dos cosas. Primera: el joven del Cercano Oriente que capturaste no muestra signos de recuperación, y nadie tiene idea de quién es. Segunda: uno de los artefactos allaganos robados recientemente ha aparecido en la Casa de los Esplendores de Rowena. Chanene se ha adelantado para investigar, y Wiltwaek te pide que te reúnas con ella allí."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_02",
+      "hash": "34B3CDA887A5639B",
+      "target": "Rowena está dispuesta a colaborar en tu investigación... por el precio de un grade 1 intelligence dissolvent de alta calidad. Elabora tres botellas para soltarle la lengua a la mercadera."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_03",
+      "hash": "1F164EC77846E905",
+      "target": "Contenta con el intercambio, Rowena te entrega un cayado allagano y te da su descripción del vendedor. Chanene cree que se trata de un ladrón de infausta fama local, pero no puede evitar preguntarse si tal ladrón tendría algún conocimiento de alquimia. Antes de que pueda continuar, aparece un hombre sospechoso para preguntar por el cayado. Después de que se marcha, una excitada Chanene te dice que piensa seguirlo y te pide que le transmitas lo mismo a Wiltwaek."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_04",
+      "hash": "BAC9D0A34B2101E1",
+      "target": "Te apresuras a ver a Wiltwaek y le dices adónde ha ido Chanene. Sin embargo, recibe noticias de ella directamente: el sospechoso la ha despistado. Wiltwaek decide que es mejor averiguar por qué este extraño individuo quería comprar el cayado que perseguirlo a ciegas. Dirígete al Gremio de Alquimistas de Ul'dah y pregunta al maestro del gremio Severian por qué un alquimista querría un cayado allagano."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_05",
+      "hash": "8C5E4FDF4127783F",
+      "target": "La habitual impaciencia del maestro del gremio Severian se disuelve en cuanto ve lo que le has traído. Te habla de una leyenda según la cual Allag podía crear hombres de la nada, y de que el componente clave de este proceso era el cristal que yace en el corazón del cayado. Aunque él mismo lo considera un disparate, comprende por qué ciertos alquimistas codiciarían este poder. Regresa con Wiltwaek y cuéntale lo que has descubierto."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_06",
+      "hash": "C808B7278BD930CE",
+      "target": "Regresas y encuentras a Wiltwaek y Chanene abatidos. La razón, pronto lo sabes, es que han encontrado la guarida de tus sospechosos: una oscura cueva usada para realizar terribles experimentos con personas vivas. Gracias a tu descripción del cayado, Wiltwaek elabora el perfil de un cerebro criminal, un alquimista loco irónicamente dispuesto a asesinar en pos del poder de crear vida. Preocupada, Chanene te pide que sigas prestando tu ayuda, no sea que mueran más habitantes inocentes.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 58."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_00",
+      "hash": "69B19536618ABE36",
+      "target": "Reunirse con Chanene en la Casa de los Esplendores de Rowena"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_01",
+      "hash": "B81797425F90585B",
+      "target": "<if([lnum1<lnum2],Sintetizar frascos de grade 1 intelligence dissolvent <sheet(Addon,9,0)>,Entregar los frascos de grade 1 intelligence dissolvent <sheet(Addon,9,0)> a Rowena)>"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_02",
+      "hash": "544884AEE4300346",
+      "target": "Informar a Wiltwaek"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_03",
+      "hash": "CC38DC2F9606F2CC",
+      "target": "Mostrar el cayado allagano a Severian en el Gremio de Alquimistas"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_04",
+      "hash": "471B513DD64215B7",
+      "target": "Devolver el cayado allagano a Wiltwaek"
+    },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_000", "hash": "D8EBE886C52E93FA", "target": "Ah, <split(<string(gstr1)>, ,1)>─tengo dos noticias para usted. La primera: el joven del Cercano Oriente aún no se ha recuperado. En su estado actual, interrogarlo está descartado." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_001", "hash": "842D97928A621624", "target": "Podría ser uno de los criminales. O podría estar entre los secuestrados. No tenemos ni idea, aunque ninguna de nuestras personas raptadas coincide con su descripción." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_002", "hash": "A0702C38EA50A88B", "target": "En cualquier caso, creemos que los criminales le hicieron tragar alguna poción para borrarle la memoria. El hombre es ahora una página en blanco." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_003", "hash": "222165A7227BDB2C", "target": "La segunda: uno de los artefactos robados del Hallazgo de San Coinach ha reaparecido, nada menos que en la tienda de Rowena. Chanene ya ha ido a investigar. ¿Se uniría a ella?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_004", "hash": "F6A20AE0563E3FBF", "target": "Gracias. Colocar mercancía robada en una tienda local no ha sido hasta ahora el modus operandi de nuestros sospechosos. Resulta tremendamente descuidado, si he de ser franco." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_0010", "hash": "7591BA58E040E4C7", "target": "¿Por qué venderían los criminales su botín robado a <italic(1)>Rowena<italic(0)>? Su tienda está prácticamente encima de la escena del crimen..." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_0015", "hash": "2B265C7A5FE2278A", "target": "¿Adónde vamos a parar, cuando a una comerciante honrada le venden género robado?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_030", "hash": "224D0A1ED1050779", "target": "¿Ya está al corriente? Bien. La pieza en cuestión es allagana... aunque no puedo decir que haya podido examinar la prueba <italic(1)>como es debido<italic(0)> todavía. ¡<italic(1)>Ejem<italic(0)>!" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_031", "hash": "11483371666231DB", "target": "<italic(1)>Claro<italic(0)> que ayudaré con vuestra investigación. También tengo un deber, pues fui yo a quien le vendieron el género robado." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_032", "hash": "C47A67381622007F", "target": "Pero lo cierto es que me costó caro, y no acostumbro a perder dinero. No pido gil, ojo, pero ¿qué me dices de un pequeño <italic(1)>quid pro quo<italic(0)>?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_033", "hash": "169348BB1291D47F", "target": "¡Ay, no me pongas esa cara! Solo quiero intelligence dissolvent. Ni tres frascos de la mejor calidad te llevarán mucho, si es cierto lo que he oído de ti. Ese es mi precio. Lo tomas o lo dejas." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_040", "hash": "A99A503C1076809A", "target": "Lo siento, <split(<string(gstr1)>, ,1)>, pero el Gremio de Aventureros no puede permitirse molestar a Rowena. Tendrá que atender esta petición suya─por poco razonable que sea." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_050", "hash": "80A00CCD5A3C632B", "target": "¿Ya has terminado de mezclar o preparar o lo que sea que hagas para hacer el intelligence dissolvent?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_060", "hash": "F3A0875D0168B416", "target": "Je, tienes mi agradecimiento. Toma─el cayado allagano robado. Se lo compré por nada a un muchacho. Puede que haya salido bastante más rica de nuestro trato, así que te lo describiré." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_061", "hash": "DE357FCB08A7B451", "target": "¿Lo atendió usted misma? ¡Cuénteme <italic(1)>todo<italic(0)> lo que recuerde!" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_062", "hash": "B39877099E3FCC65", "target": "¡El vendedor es un ladrón del que he oído hablar! Célebre a su manera por aquí. Pero no es ningún criminal de altos vuelos, y no tiene el ingenio para practicar la alquimia." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_063", "hash": "3DCB87E3C79933B6", "target": "Podría ser un caso de un ladrón robándole a otro. Verás, lo que─ Ah. Dame un momento. ¿En qué puedo ayudarlo, amigo?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WAOUD_000_064", "hash": "033F1283BC34334C", "target": "¿Sería usted Rowena? Querida, tengo entendido que ha adquirido un cayado de factura allagana. Como coleccionista de tales antigüedades, tenía la esperanza de hacerle una oferta." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_065", "hash": "64BC07878D598E19", "target": "Ah, me temo que llega demasiado tarde. Acaba de salir por la puerta con un cliente satisfecho." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WAOUD_000_066", "hash": "776764BCB5C03CE6", "target": "Qué lástima... Tenía el lugar <italic(1)>perfecto<italic(0)> para él. En fin, gracias de todos modos." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_067", "hash": "B7BFBF6E8FDCF632", "target": "¡Él otra vez! Voy tras él, <split(<string(gstr1)>, ,1)>. ¡Avise a Wiltwaek!" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_070", "hash": "49842ED87D3265DD", "target": "¿No deberías contarle a Wiltwaek lo que acaba de pasar? No es que vaya a echarte si tienes asuntos que atender, claro..." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_080", "hash": "4DFFF943094473AD", "target": "¿Qué? ¡¿Está persiguiendo ella sola a ese individuo sospechoso?!" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_081", "hash": "A906D4F371200605", "target": "¿Hola? Chanene, ¿estás─ ¿Lo has perdido? Más despacio, ¡¿cómo que no ves?! No, déjalo por ahora. Solo vuelve." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_082", "hash": "7D82E2AD342E3FEA", "target": "Le arrojó una poción que le nubló la vista. No son actos de un hombre inocente, diría yo." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_083", "hash": "2A322B0D2C9284A1", "target": "Pero no hay nada que ganar buscándolo. Sabemos que quiere el cayado─averigüemos por qué, y cómo acabó en la tienda de Rowena. Lo tiene usted ahora, ¿verdad?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_084", "hash": "638472DD655916FB", "target": "Consérvelo por el momento. Me pica la curiosidad por saber qué valor tiene para un alquimista. ¿Podría pedirle a Severian que le echara un vistazo?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_090", "hash": "F3F57B8B3A7CEF9C", "target": "Si Severian nunca ha topado con algo como el cayado, me quedaré de piedra. Está condenadamente versado en lo arcano." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_100", "hash": "8A97C7D023282411", "target": "¿Pero qué─ ¡<split(<string(gstr1)>, ,1)>! ¡Maldita sea todo, te mandé con Wiltwaek precisamente para librarme de su condenada investigación! \\<suspiro> Quejarme no hará que te vayas más rápido. ¿Qué pasa, qué pasa?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_110", "hash": "7C0648A80E4FE76D", "target": "...Oh. Vaya, vaya. Esto <italic(1)>sí<italic(0)> que es valioso para cierta clase de alquimista. En concreto, el cristal de su núcleo─el nexo de sus magias." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_111", "hash": "047CCA238F9E3432", "target": "Cuenta la leyenda que los tecnólogos de Allag podían <italic(1)>crear<italic(0)> hombres a partir de él─cultivar personas vivas, que respiraban y pensaban. Para muchos, ni ley ni vida son demasiado sagradas para profanarlas por semejante poder." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_112", "hash": "E730162CE9C6C479", "target": "Uno de tus sospechosos persigue esta quimera, y por tanto es probable que sea un alquimista que arranca al pasado los secretos de Allag, malditas sean las consecuencias." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_113", "hash": "7F396141CF44AEFA", "target": "Eso sí, comprender los misterios de la vida es la meta de la alquimia. Pero recurrir al crimen, secuestrar gente en la noche... Bueno, si fuera yo, perseguiría mis estudios con menos torpeza." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_120", "hash": "CB081FA562E4B601", "target": "Como decía, parecería que una de las personas que persigues es un alquimista de designios peligrosos, tras un mito allagano sobre «cultivar» personas." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEVERIAN_000_121", "hash": "F38BB2F84A91C85F", "target": "Quizá podríamos evitar estos trastornos si llevaras registro de lo que digo, ¿hm?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_130", "hash": "D0E505F35A25470D", "target": "¡Da ánimos verlo, <split(<string(gstr1)>, ,1)>! Nosotros, eh... Bueno, <italic(1)>sí<italic(0)> que hallamos algo en su ausencia. Pero no algo agradable." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_150", "hash": "F7619F177A7F3A53", "target": "¡<split(<string(gstr1)>, ,1)>! Tiene cara de haber encontrado algo." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_160", "hash": "F52D4CD3516D35F7", "target": "Gracias. Estoy impaciente por saber qué dijo Severian, pero hay algo que necesita oír primero..." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_161", "hash": "998CF58365E7A64C", "target": "Atrapé al ladrón. Encontró el cayado por casualidad, en una caverna cerca del lago." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_162", "hash": "74FE398612FD56EC", "target": "Creía que era el alijo olvidado de algún saqueador de tumbas. En realidad, había dado con la guarida de nuestros culpables. Corrimos a capturarlos, pero..." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_163", "hash": "AF5E0E97B3032C6D", "target": "...La escena no habría desentonado en los infiernos─sangre salpicada del suelo al techo, hojas para cercenar y rebanar, todas melladas por el uso. Lo peor era la mesa, con las ataduras puestas a prueba por víctimas que forcejeaban por escapar. \\<suspiro> Me temo que ninguna lo logró, y nuestras víctimas raptadas están muertas." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_164", "hash": "3FF744DD58C82CF5", "target": "Esto no lo hizo ningún ratero ni ladrón. Pero ¿por qué, <italic(1)>por qué<italic(0)> experimentaría alguien con hombres vivos? ¿Dijo Severian algo que arroje luz sobre esto, <split(<string(gstr1)>, ,1)>?" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_165", "hash": "72AB8934B0699DC3", "target": "¿<italic(1)>Crear<italic(0)> vida? ¡Que los Doce me amparen! Ese sí es un poder por el que los hombres matarían." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_166", "hash": "EC4BCCD29C4B723A", "target": "Esto nos da un perfil. Uno de nuestros criminales es un alquimista dispuesto a <italic(1)>cualquier cosa<italic(0)> para avanzar en su investigación. Mor Dhona le ofrece todo lo que necesita─ruinas allaganas, anonimato y un flujo constante de víctimas." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_167", "hash": "0788F14AA7FBD343", "target": "Esto significa que sigue merodeando por aquí. Debemos capturar a este alquimista loco, no vayamos a encontrar aún más sangre en la pared de otra cueva..." }
+  ]
+}

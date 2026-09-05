@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/001/ClsRog021_00104",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_00", "hash": "E8AC396F902D3CD7", "target": "Jacke quiere darte algunos consejos sobre el manejo de las dagas." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_01", "hash": "6DA7C96D23EDA6F8", "target": "Para ayudarte a hacerte con tus nuevas armas, Jacke te sugiere que vayas a los campos a las afueras de Limsa Lominsa y abatas parte de la fauna local. Viaja a La Noscea Central y derrota a tres wharf rats, tres lost lambs y tres pugils." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_02", "hash": "84E0F140214E0576", "target": "Has abatido a las criaturas requeridas. Vuelve al Gremio de Pícaros e informa a Jacke." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SEQ_03", "hash": "EB102A2EC90E4685", "target": "Jacke te da la bienvenida tras tu práctica con las dagas con otra perla de sabiduría: en combate, un pícaro confía más en la agilidad que en la fuerza bruta. Ten presentes las palabras del maestro de gremio mientras te preparas para el trabajo que Jacke se propone encomendarte.<br><br>※La siguiente misión de pícaro estará disponible con Jacke al alcanzar el nivel 5." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_00", "hash": "299C3BCBCBC11784", "target": "Abatir a los lost lambs como <if(gnum4,pícara,pícaro)>" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_01", "hash": "C45E4D338D1C2AEC", "target": "Abatir a los wharf rats como <if(gnum4,pícara,pícaro)>" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_02", "hash": "56B252D47BA3075F", "target": "Abatir a los pugils como <if(gnum4,pícara,pícaro)>" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_TODO_03", "hash": "9C23AFA97850BAAF", "target": "Informar a Jacke en el Gremio de Pícaros" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_000", "hash": "69A63FB40F4488F1", "target": "¿Has conseguido ceñirte esas dagas sin cortarte? Pues yo diría que empezamos con buen pie." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_001", "hash": "9240BB4CE2A01DC7", "target": "Ahora conviene que te hagas al peso y a la rapidez de tus nuevas armas. Diría que esos bichos baladores de los campos a las afueras de Limsa te servirán de primera lección." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_002", "hash": "34EF06FB4ECD3DEA", "target": "Eso es: prueba tus hojas con unos cuantos lost lambs y luego ráscate unas wharf rats y unos pugils, ya de paso. Pero cuidado, <if(gnum4,muchacha,muchacho)>, despáchalos de uno en uno. Sé que te las has visto con cosas mucho peores, ¡pero todavía no eres ninguna eminencia con los hierros!" },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_010", "hash": "4CF3C50DFBC18C45", "target": "Sal a los campos y prueba tus hojas con algunas de las alimañas de la zona. Eso, unos cuantos lost lambs y unas wharf rats, y luego algún pugil para picarte un poco." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_020", "hash": "CF4328B095D8BBB4", "target": "¿Ya has terminado la faena? Nunca se practica bastante con las hojas, <if(gnum4,muchacha,mi joven pupilo)>." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_021", "hash": "46C9F6AB89292598", "target": "Es más, hasta te añadiré una lista de blancos a tu Cuaderno de caza. Mídete con todos ellos y pronto aprenderás nuevos pasos para tu baile con las dagas." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_022", "hash": "45449FA41C06334E", "target": "Sí: piensa en ti como quien baila, no como un carnicero cualquiera. No hace falta tanta fuerza para hundir una hoja corta hasta la empuñadura." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_023", "hash": "F4E1100FA689F622", "target": "Precisión y velocidad: así es como sacas el mayor partido a tus hierros. Una armadura aparatosa solo te hará avanzar pesada como un aurochs desgarbado, así que asegúrate de llevar también un equipo que te deje moverte con soltura." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_JACKE_000_024", "hash": "9700701050996E73", "target": "¿De acuerdo? Pon a punto tu manejo de las hojas, <split(<string(gstr1)>, ,1)>, y puede que tenga un trabajo para ti..." },
+    { "gameKey": "quest/001/ClsRog021_00104#TEXT_CLSROG021_00104_SYSTEM_000_030", "hash": "E8DBC5B838A1CBDF", "target": "La siguiente misión de pícaro estará disponible con Jacke al alcanzar el nivel 5." }
+  ]
+}

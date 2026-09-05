@@ -1,0 +1,28 @@
+{
+  "conversation": "warp/WarpInnIshgard",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_1", "hash": "A35A74102A2D3434", "target": "Con perdón, <if(gnum4,señorita,señor)>, pero si viene por una habitación, tendré que pedirle que espere." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_2", "hash": "C74ABF50B99260AF", "target": "¿O hay alguna otra cosa en la que pueda servirle?" },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_00061_Q1_000_1", "hash": "3420A20D6B6BE49F", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A1_000_1", "hash": "EC5C900CD71337FD", "target": "Preguntar por Cloud Nine." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A1_000_2", "hash": "FE5AA2261713FE22", "target": "Nada." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_3", "hash": "03DC9E5C49E31892", "target": "Pues verá, <if(gnum4,señorita,señor)>, hay quien dice que Cloud Nine es toda una institución en Ishgard. Llevamos aquí más tiempo del que casi nadie alcanza a recordar." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_4", "hash": "AB588CC42F1B4D99", "target": "Se discute mucho sobre el porqué del nombre. Unos dicen que es porque dormir en una de nuestras camas es como envolverse en sábanas hechas de nubes." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_5", "hash": "7E50C77F9E39DD9E", "target": "Otros opinan que quien se trague semejante bobada debería pasar una noche en la Bruma." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_6", "hash": "394D6D160218E97D", "target": "Yo digo que una cama es una cama. Las nuestras me parecen mejores que casi todas, pero no voy a ponerme a competir con nadie para demostrarlo... Ejem, con perdón, <if(gnum4,señorita,señor)>." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_10", "hash": "68D2320B641E0597", "target": "Muy <if([gnum11<12],<if([gnum11<4],buenas noches,buenos días)>,<if([gnum11<17],buenas tardes,buenas noches)>)> tenga, <if(gnum4,señorita,señor)>. ¿En qué puedo servirle?" },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_Q2_000_1", "hash": "4902CBB479551115", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A2_000_1", "hash": "E0DF3AD359C0A605", "target": "Retirarse a una habitación de posada." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A2_000_3", "hash": "0AACBEC796082D2B", "target": "Preguntar por las normas de la posada." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A2_000_4", "hash": "6E08519881B51700", "target": "Preguntar por Cloud Nine." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_A2_000_5", "hash": "80725FE9BB7AF6B3", "target": "Nada." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_11", "hash": "D76FF7BDE98021EA", "target": "Sí, <if(gnum4,señorita,señor)>. Muy bien, <if(gnum4,señorita,señor)>. Por aquí, si es tan amable." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_17", "hash": "91E80014C560BDFA", "target": "Por lo general, <if(gnum4,señorita,señor)>, lo que haga en la intimidad de su habitación no es asunto nuestro, siempre que no moleste a los demás huéspedes." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_18", "hash": "6A4A2A2799075AC3", "target": "Ciertas actividades que producen, ejem... ruidos fuertes, por ejemplo, están expresamente prohibidas. Seguro que lo entiende." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_SYSTEM_000_18", "hash": "6C6F4F70327AD20E", "target": "En las habitaciones de posada no se pueden realizar síntesis, reparaciones ni engarces de materia." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_19", "hash": "DC07CEFF49825A47", "target": "Pues verá, <if(gnum4,señorita,señor)>, hay quien dice que Cloud Nine es toda una institución en Ishgard. Llevamos aquí más tiempo del que casi nadie alcanza a recordar." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_20", "hash": "359C53A2FA0C432F", "target": "Se discute mucho sobre el porqué del nombre. Unos dicen que es porque dormir en una de nuestras camas es como envolverse en sábanas hechas de nubes. Otros opinan que quien se trague semejante bobada debería pasar una noche en la Bruma." },
+    { "gameKey": "warp/WarpInnIshgard#TEXT_WARPINNISHGARD_BAMPONCET_000_21", "hash": "C46D916D26DC5E33", "target": "Yo digo que una cama es una cama. Las nuestras me parecen mejores que casi todas, pero no voy a ponerme a competir con nadie para demostrarlo... Ejem, con perdón, <if(gnum4,señorita,señor)>." }
+  ]
+}

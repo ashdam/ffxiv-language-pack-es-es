@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/000/SubRoc901_00016",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_SEQ_00", "hash": "E1E06F5C6CC1EF60", "target": "Cimeaurant, el representante del Gremio de Aventureros para los guildleves locales en el Observatorio, busca a un aventurero que se encargue de guildleves." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_SEQ_01", "hash": "A80B56E230A8C154", "target": "Para calibrar tu capacidad de encargarte de los diversos guildleves que ofrece, Cimeaurant exige que lleves a cabo una tarea preliminar." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_SEQ_02", "hash": "FD60D255F07A347E", "target": "Has completado con éxito el guildleve de prueba. Preséntate ante Cimeaurant en el Observatorio." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_SEQ_03", "hash": "73C2CDB50E2E3F3A", "target": "Cimeaurant confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores del Observatorio. Demuestra tu valía como aventurero y sigue encargándote de los guildleves que ofrece." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_TODO_00", "hash": "9602E308795A3830", "target": "Completar el guildleve de prueba de Cimeaurant" },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_TODO_01", "hash": "AD2D0D880E976FBB", "target": "Informar a Cimeaurant" },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_000", "hash": "6C382204949ACCEB", "target": "¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>! Me llamo Cimeaurant y represento los intereses del Gremio de Aventureros aquí, en el Observatorio." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_001", "hash": "F806EE79B87D189B", "target": "Si se me permite el atrevimiento, ¿le interesaría encargarse de algún que otro guildleve? Creo que le resultaría una experiencia de lo más provechosa." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_002", "hash": "EB788F3F899FB43F", "target": "Ah, aunque me apena decirlo, primero he de encomendarle un guildleve de prueba. Le ruego que disculpe mi propuesta prematura." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_003", "hash": "964F2F4929C3F61E", "target": "Este guildleve servirá bien como prueba. Si está dispuesto a aceptarlo, hágalo ahora, por favor." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_004", "hash": "424DDF87E5539F21", "target": "Le doy mis más humildes gracias, <if(gnum4,señora,señor)>. Los dragones y sus secuaces llevan generaciones aterrorizando mi tierra natal, y agradecemos a todo aquel que quiera ayudar a nuestra causa." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_005", "hash": "F45B834ECCCE37BF", "target": "Para atraer a las dos bestias que amenazan a la querida Bessy, debe abatir a los snapjaws y usar su carne como cebo." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_006", "hash": "541D2FAAA9527792", "target": "Con todo, este método dista mucho de ser infalible, y me temo que hasta podría atraer a otras criaturas voraces." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_010", "hash": "ADDA8FA1E6C635D1", "target": "Haga los preparativos que estime necesarios antes de comenzar su prueba, por favor." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_011", "hash": "C43FAB3CAAEEBC37", "target": "Los supervisores de guildleves han hablado de su destreza y su valor sobre el terreno. Acepte esta recompensa por sus servicios, se lo ruego." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_012", "hash": "E02A4F97AA81B289", "target": "Veo que ha comenzado su prueba. Que los Doce le concedan salud y buena fortuna, <if(gnum4,señora,señor)>." },
+    { "gameKey": "quest/000/SubRoc901_00016#TEXT_SUBROC901_00016_CIMEAURANT_000_020", "hash": "33C568D78F4FA102", "target": "Ha sido un honor y un privilegio, <if(gnum4,señora,señor)>. Ruego que podamos contar con sus servicios en el futuro." }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "raid/BahamutGuideTravel",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_Q1_000_010", "hash": "79AFE6F7E5ACDCD7", "target": "¿Qué desea hacer?" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_011", "hash": "05022092C365E873", "target": "Informarte sobre el Binding Coil of Bahamut." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_012", "hash": "E88A30AB2B053594", "target": "Entrar en <sheet(InstanceContent,lnum1,3)>." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A1_000_013", "hash": "7CD4ACFF36580A3F", "target": "Nada." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_050", "hash": "0B34D2DBD947440C", "target": "El Binding Coil of Bahamut se compone de varias mazmorras, llamadas <colortype(500)><edgecolortype(501)>turns<edgecolortype(0)><colortype(0)>. Ten en cuenta que en algunas de ellas no se puede usar el hechizo Return." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_051", "hash": "7058C2FFC6C44C2C", "target": "El progreso dentro del Binding Coil of Bahamut se guarda en puntos concretos para cada jugador, y puedes retomar la incursión donde la dejaste." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_052", "hash": "D401AA2AE3FF0694", "target": "El progreso se reinicia cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_053", "hash": "9FE00BCF355627F9", "target": "Para entrar en el Binding Coil of Bahamut hay que formar un grupo de ocho discípulos de la guerra o de la magia de nivel 50 o superior." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_054", "hash": "688716937B4841BD", "target": "Todos los miembros deben haber completado además la misión «Despertar primigenio»." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_055", "hash": "2E68706775DCC93A", "target": "El punto de inicio lo determina el progreso del líder del grupo." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_056", "hash": "9B5818A988DFEAE9", "target": "Incluso los miembros del grupo que no hayan avanzado tanto como el líder pueden participar, siempre que cumplan las condiciones de acceso." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_0561", "hash": "DD6657A08D367FCA", "target": "En tal caso, su progreso se actualizará para igualar el del líder." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_057", "hash": "956FC51EEB5427D6", "target": "Ten en cuenta, no obstante, que un grupo con miembros que hayan avanzado más que el líder no puede retomar la incursión." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_058", "hash": "85C87E3D2AA570BA", "target": "Toda incursión en el Binding Coil of Bahamut tiene un límite de 90 minutos (hora terrestre)." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_059", "hash": "476AFC6AF5E6C66C", "target": "Todos los objetos de la lista de botín de un jugador se transferirán automáticamente a su inventario cuando el resto de miembros del grupo abandonen la zona." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_060", "hash": "00F4339951D7EEEB", "target": "Los objetos que no puedan obtenerse se perderán." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_Q2_000_100", "hash": "C62EFD0BF4E98021", "target": "¿Entrar en <sheet(InstanceContent,lnum1,3)>?" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_101", "hash": "083638991315C44C", "target": "Sí" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_A2_000_102", "hash": "021F1A148BF82037", "target": "No" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_110", "hash": "23694C0488557047", "target": "No has podido entrar en <sheet(InstanceContent,lnum2,3)>. Asegúrate de que tú y tu grupo cumplís todas las condiciones." },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_210", "hash": "164C9CE9B4A357D0", "target": "" },
+    { "gameKey": "raid/BahamutGuideTravel#TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_211", "hash": "9A0B6A8D02D268DD", "target": "" }
+  ]
+}

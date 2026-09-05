@@ -1,0 +1,289 @@
+{
+  "conversation": "quest/054/KinGmj103_05428",
+  "questName": "Beyond the Mountains",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_00", "hash": "149A73AFF6CB11C1", "target": "Pese al paisaje ominoso y los persistentes ecos del trueno, Krile está decidida a seguir adelante." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_01", "hash": "37A95FA3BA3B7D45", "target": "Un vistazo somero al paisaje asolado por los rayos confirma que, si la civilización ha sobrevivido en el Noveno, no es cerca del cráter que antaño fue Alexandria. Sphene sugiere la cercana Treno, una ciudad<-->estado portuaria y centro de comercio del continente, como probable ubicación de supervivientes. Sin embargo, debido a la violenta tormenta eléctrica que se extiende hasta donde alcanza la vista, la aeronave no puede hacer el viaje. Aunque Clerk PX-0093 permanece a la espera por si necesitas volar de vuelta a la Memoria Viva, a partir de ahora tendrás que ir a pie.<br><br>※Si abandonas la zona, podrás regresar hablando con Clerk PX-0061 en el nodo telúrico mnémo." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_02", "hash": "D8D02EBDC20B8BC7", "target": "Sphene os guía hasta un sistema de cuevas cercano que debería servir de paso a través de las montañas hasta Treno. Por lo que se ve desde la entrada, no parece haber sufrido daños estructurales en todo este tiempo, así que tú y tus compañeros os disponéis a adentraros en la oscuridad.<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_03", "hash": "77EB19822B569B38", "target": "Aunque el camino fue sinuoso y arduo, has logrado cruzar las puertas de Treno y, de paso, has abatido más de una amenaza para la población local. El resplandor de las farolas de la ciudad te da la bienvenida a lo que, al parecer, sigue siendo un próspero bastión de civilización.<br><br>※Si abandonas la zona, podrás regresar desde el cráter de Alexandria, bajo la Memoria Viva." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_04", "hash": "696DF504A8495CB0", "target": "En el corazón de Treno, os recibe un alegre agradecimiento que resuena por el sistema de altavoces local, seguido de un saludo igual de jovial de la alcaldesa, Miayli. A la anciana Milalla le preocupa la suerte de Alexandria, así que Sphene e Y'shtola se ofrecen a contarle todo lo sucedido mientras el resto de tu grupo explora la ciudad. Miayli te sugiere empezar hablando con su nieto, Lumull, que puede ponerte a trabajar ayudando a los vecinos." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_05", "hash": "37BA13EF8DAA6671", "target": "Encuentras a Lumull repartiendo una especie de remedio de hierbas llamado “Sleepless Rhapsody”, que insiste en que pruebes. Además, tiene un extraño interés en verte la cara cuando lo hagas..." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_06", "hash": "056E05DD11433440", "target": "Tras armarte de valor y apurar la bebida que hace fruncir el rostro, compartes una versión educada de tus impresiones, mientras Krile y G'raha recuerdan sus experiencias pasadas ante trances similares. Enseguida, sin embargo, descubres que los beneficios del remedio bien merecen tolerar el sabor. No solo te sientes sorprendentemente lleno de energía, sino que Lumull explica además que la Sleepless Rhapsody mitiga los efectos nocivos de la exposición al éter de rayo, y señala que la receta se ha transmitido entre los Milalla durante generaciones." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SEQ_07", "hash": "2424494D1CCC969D", "target": "Ahora que ha tenido ocasión de disfrutar de tu reacción a la Sleepless Rhapsody, Lumull por fin se acuerda de presentarse. Quizá algún día llegue a darte tus órdenes de trabajo..." },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_00", "hash": "175EE4B4EC679EC0", "target": "Hablar con Sphene" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_01", "hash": "5D14E1B4339D29D6", "target": "Entrar en Mistwake" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_02", "hash": "451E79A64F3A7475", "target": "Entrar en Mistwake" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_03", "hash": "E18AC2E57B3AB827", "target": "Hablar con Lumull" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_04", "hash": "610EC26171353DF5", "target": "Beber la Sleepless Rhapsody bajo la atenta mirada de Lumull" },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_TODO_05", "hash": "B825585D53C4C0E9", "target": "Hablar con Lumull" },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_001",
+      "hash": "B6F87F76824D56E2",
+      "target": "El estado del éter de este reflejo es más grave de lo que preveíamos."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_002",
+      "hash": "79FFB3CDEFA518AF",
+      "target": "Me sorprendería que los ascianos no hubieran tenido parte en la guerra que causó esto."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_003",
+      "hash": "6151F5A6B2AE26D4",
+      "target": "La escama protectora es una bendición de los dioses para los que no tenemos la bendición de la Luz. Recuérdame que vuelva a dar las gracias, y muchas, a Vrtra y a los alquimistas de Radz-at-Han."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_004",
+      "hash": "E83486636E7111EA",
+      "target": "Ese cráter... fue Alexandria..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_011",
+      "hash": "3CD528AFA3C2477A",
+      "target": "No veo estructuras ni ninguna otra señal de supervivientes..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_012",
+      "hash": "20B3624499B21437",
+      "target": "Sospecho que el cráter dejó esta zona inhabitable por el mayor riesgo de inundaciones."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_013",
+      "hash": "0DD159B3F9075AFE",
+      "target": "Entonces habrá que mirar más lejos. ¿En qué dirección crees que podríamos encontrar un asentamiento?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_014",
+      "hash": "F4B8B51808A8CF3A",
+      "target": "Si estamos en el borde del territorio alejandrino, la ciudad más cercana sería Treno. Si es que sigue en pie..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_015",
+      "hash": "1969E7B37303A92F",
+      "target": "Como ciudad-estado levantada sobre un puerto, era un nudo comercial, y se mantuvo neutral durante toda la guerra. Los alejandrinos siempre nos sentimos afortunados de tenerla por vecina, por así decirlo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_016",
+      "hash": "EA35C2D43CA68C07",
+      "target": "No muy distinta de nuestra Radz<-->at<-->Han."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_017",
+      "hash": "E381F8EAAB20DA1A",
+      "target": "¡Ah, sí! Alphinaud me ha hablado de Radz<-->at<-->Han. Está cerca de las islas del mar del sur─la tierra natal de los Milalla, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_018",
+      "hash": "4722AD7CDC5D0B6E",
+      "target": "Curiosamente, también fue en Treno donde los Milalla encontraron su primer hogar en nuestro mundo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_019",
+      "hash": "BC0CD2AFC6F748C7",
+      "target": "¿De verdad?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_020",
+      "hash": "513F63E51E9F1871",
+      "target": "Sí, y aunque la población Milalla creció en otros lugares, la mayoría siguió sintiendo un vínculo fuerte con la ciudad. Me gustaría pensar que aún queda alguno allí..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_021",
+      "hash": "FA4099C8DEF9625D",
+      "target": "Auxiliar PX-0093, ¿puede esta nave llevarnos a Treno?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_CLERKPX0093_000_022",
+      "hash": "A931F4A20B6DFB41",
+      "target": "Ejecutaré una simulación de vuelo para la ruta a Treno. Un momento..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_CLERKPX0093_000_023",
+      "hash": "790EB31D70BD8FDE",
+      "target": "Simulación completada. La probabilidad de que la nave sufra un fallo mecánico catastrófico antes de llegar, debido al rayo ambiental, es de casi el cien por cien. ¡Mis disculpas!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_024",
+      "hash": "503D3E3AF74CEC29",
+      "target": "Vaya... En fin, gracias por comprobarlo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_025",
+      "hash": "5CDF3F8D38234788",
+      "target": "Si no podemos volar, tendremos que caminar."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_026",
+      "hash": "143F173E8F202037",
+      "target": "Treno está al otro lado de las montañas... Pero debería haber rutas que nos ahorren la escalada."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_027",
+      "hash": "817143634C7AB3B9",
+      "target": "Ese sistema de cuevas, por ejemplo─suponiendo que no se haya derrumbado. Probemos primero por ahí."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_031",
+      "hash": "D45FB88DBE14A7D4",
+      "target": "Por mucho que ansíe nuevos descubrimientos, la idea de andar en círculos días enteros no me seduce. Tenemos suerte de contar con Sphene."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_032",
+      "hash": "C857E86225574E15",
+      "target": "El lugar donde llegó mi pueblo por primera vez... ¡y pronto lo veré con mis propios ojos!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_033",
+      "hash": "390B85BD82F986E3",
+      "target": "Últimamente he pasado mucho tiempo encorvado sobre informes. Una buena caminata por un yermo será un cambio de ritmo estupendo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_041",
+      "hash": "A280487FA7C02432",
+      "target": "Este túnel parece intacto..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_042",
+      "hash": "FA2B728C6BA52A8A",
+      "target": "Aunque no hay manera de saber cómo estará más adentro."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_043",
+      "hash": "1F0C6C12287A13F6",
+      "target": "Y ojo con las bestias. Con lo yermo que está todo, estarán famélicas..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_Q1_000_051",
+      "hash": "DD34483D4459560D",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_001",
+      "hash": "8D6E885CE1742E3A",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_002",
+      "hash": "361D57994736E6D7",
+      "target": "Formar un grupo y entrar en la Estela Brumosa."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_A1_000_003",
+      "hash": "8AAE72800831CC77",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_YSHTOLA_000_061",
+      "hash": "6D59C2B9DB78E02A",
+      "target": "Sea lo que sea lo que nos espera, nos dará una idea más clara del estado del Noveno."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_062",
+      "hash": "4518146BE98CA10A",
+      "target": "Estoy inquieta y esperanzada a partes iguales. Es una sensación extraña..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_063",
+      "hash": "CB2C655DB1C81565",
+      "target": "Poca razón habría para que alguien pasara por aquí desde el desplazamiento de Alexandria. Recemos por que las piedras sueltas sean lo peor que tengamos que sortear."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_ORIGINALSPHENE_000_064",
+      "hash": "E1AF6DE39E1AE4F4",
+      "target": "Hablo con tanta seguridad del vínculo de los Milalla con Treno porque mi preceptor, Tuphut, era de allí. Una razón más para esperar que siga en pie..."
+    },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SYSTEM_150_070", "hash": "9610AE83BA59ADEF", "target": "Ahora puedes usar monturas dentro de Treno." },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_071",
+      "hash": "7B155C2A741D5269",
+      "target": "Ese debe de ser Lumull. Cielos, desde aquí me llega el aroma a hierbas..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_072",
+      "hash": "54E75F9DB01E30DC",
+      "target": "Ninguno de los lugareños con los que nos hemos cruzado parece muy angustiado. Como suponía Sphene, las incursiones deben de ser cosa corriente."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_081",
+      "hash": "F32D3BB4370F75F7",
+      "target": "¡Anda, si son nuestros nuevos amigos! Gracias otra vez por despachar a esos enemigos en un santiamén."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_082",
+      "hash": "5D1E236528C70406",
+      "target": "¡Si os habéis tomado la molestia de buscarme, será por algo bueno!"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_083",
+      "hash": "6D6389FF12B3A58D",
+      "target": "¿<italic(1)>Vosotros<italic(0)> queréis ayudarme <italic(1)>a mí<italic(0)>? Es raro, pero me lo pensaré. Antes que nada, eso sí..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_084",
+      "hash": "DE5267C3EB60A186",
+      "target": "¡Tenéis que beberos nuestro brebaje estrella, la Rapsodia Insomne! Aquí le encanta a todo el mundo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_085",
+      "hash": "76F3B968E044F83B",
+      "target": "Puede que os resulte una pizquita demasiado ácido, pero os pondrá como nuevos. Vosotros echáoslo garganta abajo..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_091",
+      "hash": "EE3ADFF65DD1CF2A",
+      "target": "¿Es una costumbre para levantar el ánimo del pueblo después de un mal trago? ¿O cumple alguna función ritual?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_092",
+      "hash": "A10386D9E6AB32EF",
+      "target": "Parece muy empeñado en que lo probemos..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_093",
+      "hash": "4E003EED5EAACB9E",
+      "target": "Seguro que sobrevivimos a una simple bebida. Seguro..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_100_094",
+      "hash": "247FC96F94E1098F",
+      "target": "No te hará daño, te doy mi palabra. Pero como es tu primer vaso, mejor no te alejes mucho antes de bebértelo."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_100_095",
+      "hash": "98D5400A6E573144",
+      "target": "¡Ah, y no me des la espalda! Para... obtener mejores resultados, ya me entiendes."
+    },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SYSTEM_100_100", "hash": "80A3F80507106E8A", "target": "Parece que no te queda más remedio que beber el brebaje mientras Lumull observa como testigo..." },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_KRILE_000_101",
+      "hash": "D2822929EB8E70EE",
+      "target": "Ya veo cómo beber eso puede... unir a la gente. Y es admirable que hayan mantenido la tradición aquí, tan lejos de las tierras natales de los Milalla."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_GRAHATIA_000_102",
+      "hash": "775E58951788E378",
+      "target": "Dada su capacidad para contrarrestar el efecto del rayo en el cuerpo, ese brebaje también podría servirle a la gente de Alexandria. Seguro que Lumull estaría encantado de ofrecérselo..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_111",
+      "hash": "9CBF0CF67E42173B",
+      "target": "\\<ahogo> ...Se me ha olvidado presentarme, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_112",
+      "hash": "AA36185ABD3E3F93",
+      "target": "Bueno, soy Lumull. Fui yo quien anunció antes nuestra victoria. Y como fue la abuela quien os mandó a ayudar con las reparaciones, ya sabréis que soy su nieto."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_113",
+      "hash": "1B7A5570FFD82BD5",
+      "target": "Me encargo de resolver cualquier problema que tenga la gente de Treno. Mis trabajos favoritos son catar platos del menú, cargar objetos de tamaño medio, buscar pertenencias perdidas de valor inmenso..."
+    },
+    {
+      "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_LUMULL_000_114",
+      "hash": "E0388DB446D8A2F3",
+      "target": "¡Ah! Y encantado de conoceros."
+    },
+    { "gameKey": "quest/054/KinGmj103_05428#TEXT_KINGMJ103_05428_SYSTEM_000_0121", "hash": "E0C1F288B83DC3E6", "target": "Ahora puedes entrar en Mistwake con un grupo de avatares NPC. Para usar esta función, abre la interfaz <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)>, del menú principal." }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/038/BanQiq102_03807",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_00", "hash": "AD046374663FF82E", "target": "Qhoterl Pasol necesita un poco de luz en su vida.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptarla." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_SEQ_01", "hash": "0CAE2D2051F3BFE4", "target": "Entrega los objetos solicitados a Qhoterl Pasol." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_TODO_00", "hash": "FBA92FAA47572030", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extraer splendid flint stones en K'mul Astropolis,Entregar splendid flint stones a Qhoterl Pasol)>,<if([lnum4==17],<if([lnum1<lnum2],Recolectar splendid seeds en K'mul Astropolis,Entregar splendid seeds a Qhoterl Pasol)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar una splendid trout en el Red Chalice,Entregar splendid trout a Qhoterl Pasol)>,)>)>)>" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_000", "hash": "8851B4A1DA143898", "target": "Las cavernas subterráneas que exploramos son lugares terriblemente oscuros. Sin algún tipo de iluminación, no veríamos ni nuestros propios bigotes, y menos aún podríamos excavar." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_010", "hash": "40FFD7195E72E8F1", "target": "¿Tendríais la bondad, mi <if(gnum4,buena señora,buen señor)>, de extraerme algo de pedernal en K'mul Astropolis? Las piedras son necesarias para prender fuego. Con tres bastará de sobra." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_020", "hash": "406AFA08DC91A2EF", "target": "¿Tendríais la bondad, mi <if(gnum4,buena señora,buen señor)>, de recolectarme algunas semillas en K'mul Astropolis? De ellas extraemos un aceite que usamos como combustible para las lámparas. Con tres bolsas bastará de sobra." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_030", "hash": "E891D034E1FA3AAB", "target": "¿Tendríais la bondad, mi <if(gnum4,buena señora,buen señor)>, de pescarme una trucha en el Red Chalice? De ellas extraemos un aceite que usamos como combustible para las lámparas." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_010", "hash": "31564855E10EC60F", "target": "Ah, aquí estáis. ¿Cómo va lo del pedernal? Tendréis más suerte buscando en K'mul Astropolis." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_020", "hash": "462DE25CE2D0ADD4", "target": "Ah, aquí estáis. ¿Cómo van las semillas? Tendréis más suerte buscando en K'mul Astropolis." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_100_030", "hash": "2D2FF3DF9673A069", "target": "Ah, aquí estáis. ¿Cómo va la trucha? Tendréis más suerte buscando en el Red Chalice." },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_040", "hash": "28AC8AA3C7A8EAC7", "target": "Bienvenid<if(gnum4,a,o)> de vuelta, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>. ¿Me atrevo a esperar que haya obtenido lo que busco?" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_050", "hash": "21E2BF8382081CE1", "target": "¡Ah, espléndido! ¡Esto nos servirá para varias salidas!" },
+    { "gameKey": "quest/038/BanQiq102_03807#TEXT_BANQIQ102_03807_QHOTERLPASOL_000_051", "hash": "7D83755D97130CB1", "target": "Como quizá hayáis oído, los Qitari no vemos tan bien como otros pueblos, y debemos valernos de estas cosas para orientarnos en la oscuridad. Por este don de la vista, tenéis mi más sincero agradecimiento." }
+  ]
+}

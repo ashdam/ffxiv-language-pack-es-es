@@ -1,0 +1,19 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceRename_00231",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR_02", "hash": "91A4AB81A0C31535", "target": "¿No le convence el nombre «<string(lstr1)>»? Lo entiendo. Permítame revisar su inscripción..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_02", "hash": "7AE6559DDDB60396", "target": "Cada cambio de nombre requiere una tarifa de 2000 gil." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_Q1", "hash": "9D93742C5CCBEB00", "target": "¿Cambiar el nombre de su chocobo de carreras a <head(lstr1)> por <kilo(lnum2,\\,)> gil?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A1", "hash": "F3E9E33DDD62CE45", "target": "Sí" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_A2", "hash": "E7CB21E57ADD9249", "target": "No" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_RENAME_DONE", "hash": "44566FB10F0B7D73", "target": "Excelente elección, <if(gnum4,señora,señor)>. Creo que todos coincidirán en que <string(lstr1)> es un nombre mucho mejor." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_TALK_ACTOR", "hash": "73F636EFBF9E4BF0", "target": "¿No le convence el nombre de su chocobo de carreras? Lo entiendo. Permítame revisar su inscripción..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_01", "hash": "04B400A83194162E", "target": "Disculpe, ¿le he entendido mal? No encuentro ningún chocobo de carreras inscrito a su nombre..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_001_02", "hash": "A6877108639B531E", "target": "Solo puede cambiar el nombre de un chocobo de carreras inscrito." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_002_01", "hash": "298074A3C5D44288", "target": "No quisiera avergonzarle, <if(gnum4,señora,señor)>, pero parece que no dispone del gil necesario..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_01", "hash": "1E6F170FFEBD56A5", "target": "Ah... Disculpe, pero parece que el nombre que ha solicitado es... ¿cómo decirlo? No admisible." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_003_02", "hash": "0192DF2C18AAA806", "target": "La combinación de palabras elegida está prohibida. Elija otro nombre." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRename_00231#TEXT_CMNGSCCHOCOBORACERENAME_00231_ERROR_004_01", "hash": "738CD889E8CABE7E", "target": "¿Entonces desea conservar el nombre actual de su chocobo de carreras, <if(gnum4,señora,señor)>? Muy bien." }
+  ]
+}

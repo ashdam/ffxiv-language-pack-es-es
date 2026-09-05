@@ -1,0 +1,345 @@
+{
+  "conversation": "quest/049/KinGmd103_04914",
+  "questName": "Braced for Trouble",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SEQ_00", "hash": "4EEA97DFCDE4F49A", "target": "El semblante sereno de Erenville oculta sus ganas de ayudar a Namikka." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_00", "hash": "48B171E2D78D335D", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_01", "hash": "44A41E7B2C14A1CC", "target": "Investigar los lugares indicados" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_02", "hash": "E27010BE206B7DDA", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_03", "hash": "E4B11E8D6758615E", "target": "Volver a hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_04", "hash": "0F47DD83BFE42DE2", "target": "Recoger yeheheceyaa leavings" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_05", "hash": "A475C24150DE5959", "target": "Entregar pouch of yeheheceyaa leavings a Erenville" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_TODO_06", "hash": "E42F75869C2A392F", "target": "Hablar con Erenville" },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_010",
+      "hash": "9B99A65D26F0DC47",
+      "target": "Bien, vayamos a recuperar ese brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_011",
+      "hash": "55103C6303114EBC",
+      "target": "Aunque estos bandidos no me merecen más que desprecio, al tratarse de un regalo de Wuk Lamat debemos tener cuidado con cómo puedan repercutir en ella nuestros actos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_012",
+      "hash": "044D2999D9D3BB3F",
+      "target": "Dudo que a Namikka le alegrara recuperar ese regalo si por el camino se quitaran vidas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_013",
+      "hash": "EE6A897909B7B531",
+      "target": "Si hay que llegar a la violencia, te pido que te detengas antes de matarlos. Lo demás podemos dejárselo a la Guardia del Polvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_014",
+      "hash": "9B62F16D7AA2AFB4",
+      "target": "Vaya, eso me hace pensar que eres fuerte. <italic(1)>Muy<italic(0)> fuerte. ¿Lo eres?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_Q1_000_000",
+      "hash": "04BEE0578EA36E1B",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_A1_000_001",
+      "hash": "92F73BFEF91D3FB4",
+      "target": "Puede que salvara el astro en cierta ocasión."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_A1_000_002",
+      "hash": "F6868150DE0E1A24",
+      "target": "No más que <if(gnum4,cualquier otra aventurera,cualquier otro aventurero)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_A1_000_003",
+      "hash": "A614BA1768F9C88F",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_016",
+      "hash": "1EA687483C0FD3FA",
+      "target": "¿¡Salvaste el astro!? Es una afirmación muy atrevida, pero, si es cierta, desde luego dice mucho de tu fuerza."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_017",
+      "hash": "AB91B7700B57F337",
+      "target": "Qué <if(gnum4,modesta,modesto)>, ¿no? Pero por la naturalidad con que lo dices, me da que te quedas muy <if(gnum4,corta,corto)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_018",
+      "hash": "48D0FD3CFF396449",
+      "target": "N-No me malinterpretes, no pongo en duda tus capacidades. De hecho, ¡ese silencio es justo la respuesta que esperaría de <if(gnum4,una guerrera sin par,un guerrero sin par)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_019",
+      "hash": "4DDBB0E997C3C689",
+      "target": "Si tu curiosidad ya está saciada, satisface la mía─¿hay algo que podáis contarnos sobre esos bandidos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_020",
+      "hash": "84EECC67D5A999A5",
+      "target": "Veamos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_021",
+      "hash": "6E6CB1A3C3A3F661",
+      "target": "Pues mira, últimamente se habla de que hay gentuza entrando y saliendo de Tonatenyawi, al suroeste."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_NAMIKKA_000_022",
+      "hash": "B5ECC46B4918AC78",
+      "target": "¿No es ese el viejo pueblo minero que abandonaron?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_023",
+      "hash": "D01B6A63B3C29CF3",
+      "target": "El mismo. Ahora que la extracción de ceruleum es un gran negocio, nadie quiere perder el tiempo picando en esas vetas agotadas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_024",
+      "hash": "64F927DB382FF408",
+      "target": "Suena a guarida perfecta para bandidos─por no hablar de que quien se llevó el brazalete huyó en esa dirección."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_IYAATE_000_025",
+      "hash": "CECDCDE2C843348B",
+      "target": "¿Entonces vais a investigar el sitio? Puedo avisar a la Guardia del Polvo, si queréis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_026",
+      "hash": "0D3922C84822F19A",
+      "target": "No, todavía no. Será mejor que vayamos solos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_027",
+      "hash": "04CB39C5BEC9994F",
+      "target": "Hay algo que me gustaría comprobar. ¿Alguna objeción?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_028",
+      "hash": "5C6FD3DA25A8ED5E",
+      "target": "Muy bien, en marcha."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_040",
+      "hash": "8573026856A4A428",
+      "target": "Parece que los bandidos se han apropiado de este lugar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_041",
+      "hash": "DC1B949C8CCCBF25",
+      "target": "Ni siquiera intentan ocultar su presencia. ¿Cómo es que la Guardia del Polvo no se ha dado cuenta todavía?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_042",
+      "hash": "0E56DD5A299A286F",
+      "target": "Esa pregunta la dejamos para otro momento. Primero hay que encontrar el brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_043",
+      "hash": "4825DC9B125F518D",
+      "target": "No veo a quien se lo llevó. Puede que esté en alguno de los edificios."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_044",
+      "hash": "1481C2E8F458D42C",
+      "target": "Destartalados como están, será cosa sencilla escuchar a escondidas a quien haya dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_045",
+      "hash": "D3364C0FCAB0F210",
+      "target": "Si te acercas a echar un vistazo, yo estaré atento por si hay problemas."
+    },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_049", "hash": "759DDF9D52CA1352", "target": "Los bandidos no te verán aquí. Puedes escuchar a escondidas sin peligro a cualquiera que esté dentro." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_050", "hash": "1E43DE4534D824CF", "target": "Al acercarte para escuchar, empiezas a distinguir voces entre el murmullo apagado..." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_051", "hash": "33DD94C4E6AAED35", "target": "...No sé dónde estaríamos sin él. Seguramente paleando arena y rezando por dar el pelotazo." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_052", "hash": "2D22899272D5105E", "target": "Y que lo digas. Solo un idiota se deslomaría en las minas habiendo dinero más fácil." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_053", "hash": "0B2716EE34D0EA1B", "target": "¡No con un jefe que mantiene a la Guardia del Polvo lejos de nuestras espaldas, ja!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_054", "hash": "8A4D6F307AF5E2BC", "target": "¡Eh, cuidado con lo que dices! El viento tiene la costumbre de llevar los secretos a oídos indebidos." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_100_054", "hash": "6C0FA3969258866E", "target": "Puede, pero ¿quién se iba a creer que uno de esos santurrones dirige nuestra banda?" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_110_054", "hash": "86C3EE60E40B2D6B", "target": "Ese borracho que se tragó tu cuento de la alpaca que caga oro, ¿a que sí?" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_055", "hash": "9A9C98207609D334", "target": "¡Jajajajaja!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_056", "hash": "1553ED93DB04BA5F", "target": "Al acercarte para escuchar, una voz conocida resuena a través de la pared." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_057", "hash": "ABAA8E101CC788EB", "target": "¡Déjame salir de aquí, cabrón!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_058", "hash": "B121DEE775CA78A2", "target": "¡Cierra el pico, mocoso llorica!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_059", "hash": "22DB2F6CD393F8CA", "target": "¡Oblígame! ¡Me las pagaréis todos por incriminar a mis amigos!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_060", "hash": "91D41F36A0C1D43A", "target": "¡Y sobre todo el Buitre! ¡Dile que se vaya a la mierda!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_100_060", "hash": "5FB163594AC459E3", "target": "Je. ¿Y si te damos la ocasión de decírselo tú mismo? Ya veremos entonces lo gallito que eres." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_061", "hash": "6453D46717A1B50A", "target": "Al acercarte para escuchar, oyes a alguien entrar en la sala del otro lado." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_062", "hash": "45B641A6EEE3A2F5", "target": "¡He traído un botín que le va a encantar, jefe!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_063", "hash": "F3A9F31D410C39FD", "target": "Écheles un ojo a esta pulsera... preciosa, ¿verdad? ¡Seguro que la hizo un artesano famoso!" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_064", "hash": "B558EBAF398C59CD", "target": "¡Serás idiota! ¿¡Cómo se supone que vamos a colocar algo así sin llamar la atención!?" },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_065", "hash": "38AFBF0D1250C463", "target": "¡Jefe, por favor! ¡Por favor! L-lo siento..." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_066", "hash": "F4354E171637BDFC", "target": "\\<suspiro> Supongo que podríamos encontrar a algún marinero que no haga preguntas. Venderla por cuatro perras." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_067", "hash": "AC717BC755925888", "target": "Toma, tu recompensa. Y no vuelvas a traerme estos quebraderos de cabeza." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_068", "hash": "1F2AFB665609402E", "target": "N-no lo haré, jefe. Gracias." },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_070",
+      "hash": "5359BCB7BE0FFEF7",
+      "target": "Puede que quienes se llevaron el brazalete estén en este edificio. Escucha a ver qué averiguas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_071",
+      "hash": "14995844F025C4BD",
+      "target": "Los bandidos podrían estar en cualquiera de estos edificios. Yo vigilo aquí mientras tú vas a comprobarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_075",
+      "hash": "626DCCCB1CBCFAA6",
+      "target": "¿Has terminado? Retirémonos por ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_080",
+      "hash": "8F3F945AD20D121B",
+      "target": "Bien, ¿has podido averiguar algo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_081",
+      "hash": "2B7B963DD376826E",
+      "target": "¿¡Su líder es un hombre de la Guardia del Polvo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_082",
+      "hash": "B767DA2192FE50C3",
+      "target": "Eso explicaría por qué estos bandidos han podido hacer lo que les da la gana. ¿Y dices que le entregaron el brazalete a él?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_083",
+      "hash": "1E1E8696274CF8E4",
+      "target": "Parece que tenemos trabajo por delante. ¿Oíste algo más de interés?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_100_083",
+      "hash": "736FAAF8672C01C2",
+      "target": "¿Zekowa? Ese es el chico que se encaró con uno de los agentes en el pueblo, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_084",
+      "hash": "22CC0E9C00F12803",
+      "target": "¿Y dices que amenazaron con llevarlo a hablar con “el Buitre”? El alias de su líder, sin duda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_085",
+      "hash": "605C7D15E2579887",
+      "target": "Apropiado para un hombre que se ceba con los indefensos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_086",
+      "hash": "BC6FA703C977EF9B",
+      "target": "Bien. No solo tenemos una idea más clara de quién está detrás de la oleada de robos de Hhusatahwi, sino que además sabemos que él tiene el brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_087",
+      "hash": "581CC3392E57DFA7",
+      "target": "Aunque recuperarlo sin derramamiento de sangre será difícil, si tan pronto apunta con un arma a sus propios secuaces..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_Q2_000_000",
+      "hash": "141A28AE1B6902A4",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_A2_000_001",
+      "hash": "6E3F90B4A49085B5",
+      "target": "Tenemos que pillarlo a solas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_A2_000_003",
+      "hash": "A6629316065BCE3B",
+      "target": "¡Asaltaré su guarida─puedo con ellos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_089",
+      "hash": "EA9585036DFF90A0",
+      "target": "Tienes razón. Si lo encaramos con sus esbirros alrededor, el desenlace violento está prácticamente garantizado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_091",
+      "hash": "2C680ABB8872CBD0",
+      "target": "El método directo puede haberte servido en el pasado, pero aquí no bastará. Wihuwte es el subjefe de la Guardia del Polvo. Podría alegar que los criminales somos nosotros, y no serían pocos los que le creyeran."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_092",
+      "hash": "FF99440DCB5B6945",
+      "target": "Mmm... Puede que tenga un plan."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_093",
+      "hash": "0D0D995A50E33794",
+      "target": "Hay un pequeño asentamiento al sureste de aquí─Luwateninyawawsa. Reúnete allí conmigo y te lo explicaré todo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_100",
+      "hash": "634E5D1A5385E823",
+      "target": "Si queremos recuperar el brazalete sin conflicto, no será irrumpiendo por la puerta principal. Tendremos que hacerlo salir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_101",
+      "hash": "7848136D6BAE7BC1",
+      "target": "Para eso recurriremos a los yeheheceyaa─unas criaturas draconianas que viven al sur de aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_102",
+      "hash": "F6707E6ADECF0F52",
+      "target": "Estamos en su época de cría, ¿sabes?, y los machos acuden en tropel al olor de una hembra en celo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_103",
+      "hash": "505B0FE9E1F03C08",
+      "target": "Con unos cuantos ingredientes y una muestra de sus heces, puedo preparar un reclamo que, al quemarse, imita ese olor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_104",
+      "hash": "555943D1A109D68F",
+      "target": "Así podremos atraer a los yeheheceyaa hasta la guarida de los bandidos y hacer salir al Buitre y a su banda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_105",
+      "hash": "B4BCC1A7D4419D31",
+      "target": "Y mientras se las ven con nuestros amigos alados, podremos colarnos y buscar el brazalete."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_106",
+      "hash": "92C78CEE4789EAB3",
+      "target": "Me temo que tengo que pedirte que recojas tú los excrementos. Mientras te ocupas de eso, yo conseguiré los ingredientes restantes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_107",
+      "hash": "653712F3F12BB605",
+      "target": "...Y antes de que digas nada, no te lo pido por ninguna aversión a los excrementos. Sencillamente, a mí me resultará más fácil encontrar las especies concretas de plantas silvestres que necesitamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_108",
+      "hash": "7713223606C91341",
+      "target": "Toma. Coge este saco, llénalo y yo me encargo del resto."
+    },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_110", "hash": "CA5070318C657599", "target": "Inspeccionas la zona, pero no ves rastro de excrementos de yeheheceyaa." },
+    { "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_SYSTEM_000_115", "hash": "8B7A79517785370A", "target": "Encuentras un montón de excrementos de yeheheceyaa y los metes con cuidado en tu bolsa." },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_120",
+      "hash": "2A1CF4774FA6A51A",
+      "target": "¿Ya has terminado?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_121",
+      "hash": "A72DDBA4894E3870",
+      "target": "Excelente, esto servirá de sobra."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_122",
+      "hash": "64AF161220210550",
+      "target": "Ya solo queda mezclar los excrementos con fibras de tumbleclaw, raíz seca de nopalitender y una buena ración de grasa animal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_123",
+      "hash": "0AE88FAB6651E774",
+      "target": "Vamos. Volvamos a Tonatenyawi."
+    },
+    {
+      "gameKey": "quest/049/KinGmd103_04914#TEXT_KINGMD103_04914_ERENVILLE_000_130",
+      "hash": "84738B740A758C00",
+      "target": "Todo está listo. Es hora de poner el plan en marcha."
+    }
+  ]
+}

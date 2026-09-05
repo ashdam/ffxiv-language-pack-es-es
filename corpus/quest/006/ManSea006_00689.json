@@ -1,0 +1,112 @@
+{
+  "conversation": "quest/006/ManSea006_00689",
+  "questName": "Men of the Blue Tattoos",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_1",
+      "hash": "7C33307135CA69FC",
+      "target": "<split(<string(gstr1)>, ,1)>. Tras el papel que desempeñaste en los últimos sucesos, hay pocas personas a quienes confiaría esta tarea."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_2",
+      "hash": "072B6D3C1994EEC7",
+      "target": "Desde la última vez que hablamos, se ha descubierto una curiosa misiva entre los efectos personales de Ahtzapfyn, el pirata que urdió el complot para sabotear la <italic(1)>Victoria<italic(0)>."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_3",
+      "hash": "FCDA81F6A4C9F510",
+      "target": "Esta misiva fue redactada con una escritura de lo más insólita─una escritura que creemos que es alguna suerte de código."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_4",
+      "hash": "665DEE19F3DA526A",
+      "target": "Ni que decir tiene que todo aquello que un enemigo declarado de Limsa Lominsa considera digno de cifrar suele ser de gran interés para el Maelstrom. Por desgracia, ninguno de nosotros logra sacar nada en claro del mensaje."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_5",
+      "hash": "4B40D46C56614E73",
+      "target": "En casos como este, tengo entendido que las Casacas Amarillas suelen recurrir a Baderon y a sus oportunas... amistades."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_GHIMTHOTA_000_6",
+      "hash": "01696166122E86F9",
+      "target": "Por eso quiero que entregues esta misiva al dueño de Drowning Wench. En su mano, y en la de nadie más, ¿entendido?"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_20",
+      "hash": "351F53EE9A3D7EC5",
+      "target": "¡Ah del barco, <split(<string(gstr1)>, ,1)>! ¡He oído hablar de tus hazañas en el astillero!"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_21",
+      "hash": "63340E8D15721E97",
+      "target": "Ahtbyrm me contó toda la historia. El pobre diablo aún no se recupera del papel que jugó su viejo en todo esto, pero al menos evitaste que la <italic(1)>Victoria<italic(0)> se fuera a pique antes de zarpar."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_22",
+      "hash": "CAF4D967EAB42A41",
+      "target": "¡Y por eso, te debo mi agradecimiento!"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_23",
+      "hash": "3CA442C2AE93A49B",
+      "target": "Te has hecho todo un nombre aquí en Limsa, <if(gnum4,muchacha,muchacho)>. La gente sabe que, cuando necesitan que se haga algo─"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_24",
+      "hash": "A0C98AC1F99137B0",
+      "target": "¿Eh? ¿<italic(1)>Tú<italic(0)> necesitas algo? ¿Y qué podría ser?"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_30",
+      "hash": "EF5BD94B0DF65201",
+      "target": "...¿Que quieres que alguien te lea un mensaje escrito con letras raras? ¿Y Ghimthota pensó que yo conocería a alguien capaz? Bueno, ¡déjame verlo, entonces!"
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_31",
+      "hash": "4BB2BA6648AB349D",
+      "target": "Vaya, vaya..."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_32",
+      "hash": "DF2F613C2D083437",
+      "target": "...Me parece que conozco a un tipo avispado capaz de leer cosas así. Un feo de mala catadura que atiende por Baderon."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_33",
+      "hash": "DC3F18ED102B001A",
+      "target": "¿Sabes qué? Ya eres como <if(gnum4,una parroquiana,un parroquiano)> más, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_34",
+      "hash": "DEF6CFB2DD396955",
+      "target": "Nunca me has fallado y, que la Navegante me ampare, creo que puedo confiar en ti."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_BADERON_000_35",
+      "hash": "622D3AA7729F8E55",
+      "target": "Ghimthota hizo bien en querer descifrar este mensaje... Aquí se está cociendo un buen lío, no te quepa duda. Prepárate para la acción y te lo explico."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_SEQ_00",
+      "hash": "FE949A099FBFD2ED",
+      "target": "Ghimthota desea confiarte una tarea importante."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_SEQ_01",
+      "hash": "8E745DAF3B17B126",
+      "target": "Entre las pertenencias de Ahtzapfyn, el pirata que urdió el complot para sabotear la <italic(1)>Victoria<italic(0)>, se ha descubierto una misiva escrita en una especie de código. Como no encuentra a nadie capaz de descifrar los curiosos caracteres, Ghimthota quiere recurrir a la ayuda de Baderon y su pintoresco círculo de conocidos. Entrega la misiva al dueño de Drowning Wench."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_SEQ_02",
+      "hash": "631A726029419631",
+      "target": "Tras leer el contenido de la misiva, un Baderon visiblemente preocupado te pide que te prepares para lo peor. Arma tu valor y habla de nuevo con él."
+    },
+    {
+      "gameKey": "quest/006/ManSea006_00689#TEXT_MANSEA006_00689_TODO_00",
+      "hash": "22FC4282D00F2DDE",
+      "target": "Entregar la carta cifrada a Baderon, en Limsa Lominsa"
+    }
+  ]
+}

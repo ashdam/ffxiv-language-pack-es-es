@@ -1,0 +1,21 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceRegist_00230",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR", "hash": "B822FD145578D946", "target": "¿Va a inscribir una nueva cría para las carreras? Muy bien..." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_02", "hash": "1B3CD640C8D83DB3", "target": "Ahora que ha aprendido a controlar a su chocobo durante una carrera, lo suyo es que aprenda a prepararlo para la siguiente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_03", "hash": "89C134C04547EA99", "target": "Aquí, en el Manderville Gold Saucer, ofrecemos diversos servicios, como el adiestramiento especializado y la enseñanza de aptitudes. Aunque no cobramos por estos servicios, sí exigimos que los jinetes nos faciliten los materiales necesarios." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_TALK_ACTOR_04", "hash": "FBFF7D58B14D9510", "target": "Puede que ahora estos servicios le parezcan un lujo, pero cuando la valoración de su chocobo aumente y acceda a las clases superiores, comprenderá lo necesario que es buscar cualquier ventaja disponible." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE", "hash": "DE6DDCD3DA2101EC", "target": "¡Enhorabuena! <string(lstr1)> ya puede participar en las carreras de chocobos oficiales. Que la fortuna le acompañe, <if(gnum4,señora,señor)>." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_GUIDE", "hash": "DEBBA7CD7315C682", "target": "Tengo entendido que Katering le facilitó un certificado para su chocobo de carreras, ¿verdad?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_02", "hash": "375875EFDBEC30EB", "target": "¡Enhorabuena! <string(lstr1)> ya puede participar en las carreras de chocobos oficiales." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_REGISTRATION_DONE_03", "hash": "777FFB6B47DE713F", "target": "No obstante, me temo que <italic(1)>usted<italic(0)> aún no está del todo cualificado para ello. Hable con la encargada de inscripciones sobre nuestro curso de iniciación." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_01", "hash": "C1207EECDEF3AF38", "target": "Mmm... Parece que ya tiene un chocobo de carreras inscrito." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_02", "hash": "3F535BC5B17FC794", "target": "No puede tener más de un chocobo de carreras inscrito a la vez. Si desea inscribir uno nuevo, primero debe retirar el actual." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_001_03", "hash": "FB2FADF74CD7E1FA", "target": "¿Hm? La inscripción de su chocobo de carreras ya está tramitada, <if(gnum4,señora,señor)>. No hay nada más que tratar hasta que haya completado el curso de iniciación." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_01", "hash": "CDAA848DA15ABA83", "target": "Ah, ¿ha perdido el certificado de cría de su chocobo? Sin él no podemos continuar." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_002_02", "hash": "CDB0B172847D9E9D", "target": "Para inscribir un chocobo de carreras, debe tener en su poder el certificado correspondiente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_01", "hash": "9E45817482649F0E", "target": "Ah... Disculpe, pero parece que el nombre que ha solicitado es... ¿cómo decirlo? No admisible." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceRegist_00230#TEXT_CMNGSCCHOCOBORACEREGIST_00230_ERROR_003_02", "hash": "0A355D8834CA016A", "target": "La combinación de palabras elegida está prohibida. Elija otro nombre." }
+  ]
+}

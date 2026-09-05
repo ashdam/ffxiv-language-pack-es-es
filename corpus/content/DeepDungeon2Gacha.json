@@ -1,0 +1,19 @@
+{
+  "conversation": "content/DeepDungeon2Gacha",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_000", "hash": "15A8C1C636A8FAF4", "target": "¿Qué andas husmeando por aquí? Nada de esto es asunto tuyo, ¡así que largo de aquí!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_010", "hash": "560645FA96634DDC", "target": "¿Me has traído un saco o dos de baratijas para que las inspeccione?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_020", "hash": "AAFDBBED6748B6FD", "target": "¡Ah, el héroe regresa! ¿Y qué tesoros me traes para enseñarme <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_TITLE", "hash": "A44D8AECD63B1C3D", "target": "¿Qué vas a hacer?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_GACHA", "hash": "229DC1EBC1603060", "target": "Tasar una pieza del Tesoro Maldito." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_ABOUT", "hash": "088FEE9C063B9EFC", "target": "Preguntar por el Tesoro Maldito." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_STARTMENU_EXIT", "hash": "E207ECCD0D13858C", "target": "Nada." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_050", "hash": "61B6B76353F6F3F6", "target": "Según Kyusei, Heaven<-->on<-->High alberga un montón de tesoros atados por la magia." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_051", "hash": "EA964FB5D4BD846C", "target": "La cosa es que no sabes qué hay dentro hasta que abres el saco y, para eso, tienes que disipar la magia que lo sella. ¡Por suerte para ti, se me da de maravilla romper encantamientos!" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_055", "hash": "86827CBE20E39DCF", "target": "«Tesoro Maldito» es el término que Kyusei usa para el tesoro que hay dentro de estos sacos. No sé dónde oyó semejante nombre, pero últimamente ha mostrado más interés por la historia de Occidente. ¿Quizá venga de ahí?" },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_DD2GACHA_000_056", "hash": "292936D25483475B", "target": "En cualquier caso, todavía tengo que disipar la magia que protege los sacos antes de poder tasar el contenido. Los sellos se refuerzan de algún modo por el campo mágico del interior de la torre, y por eso son mucho más fáciles de quitar una vez sacamos los sacos fuera." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_060", "hash": "C626897D3BD12BA9", "target": "Al explorar el deep dungeon, los jugadores encontrarán, en ocasiones, piezas del Tesoro Maldito─tesoros sellados por poderosas magias." },
+    { "gameKey": "content/DeepDungeon2Gacha#TEXT_DEEPDUNGEON2GACHA_ABOUT_SYSTEM_000_061", "hash": "8D16204A7F781F5C", "target": "Puedes averiguar el valor de las piezas halladas en Heaven<-->on<-->High presentándoselas al tasador confederado." }
+  ]
+}

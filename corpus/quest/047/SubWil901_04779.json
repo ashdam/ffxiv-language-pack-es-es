@@ -1,0 +1,649 @@
+{
+  "conversation": "quest/047/SubWil901_04779",
+  "questName": "Remembering the Past",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_00", "hash": "2BAB74C55093227F", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Nananji parece sumido en sus pensamientos." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_01", "hash": "40AC44474AB8ADC8", "target": "Recorriendo Ul'dah, te encuentras con un escritor en ciernes llamado Nananji Nononji, que te dice que pretende escribir una biografía del difunto Arconte Louisoix. Con ese fin, ha concertado una entrevista con un miembro de las Llamas Inmortales y te pide que lo acompañes como asistente. Al acceder a su petición, se te indica que te reúnas con él en el Campamento Huesos Secos antes de la entrevista.<br><br>※Ten en cuenta que la dificultad de esta misión se ha sincronizado con tu nivel actual." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_02", "hash": "6D191BAE9F96EACE", "target": "Tras llegar al Campamento Huesos Secos, Nananji te conduce a un cementerio cercano, donde explica su motivación para escribir la biografía. La Calamidad había destruido su aldea y matado a sus padres, y le cuesta seguir adelante en un mundo donde cada vez menos gente dedica un pensamiento al suceso. Al aprender sobre Louisoix y su papel en la salvación de Eorzea, espera hallar consuelo y, tras repasar lo que se sabe comúnmente del tema, partís hacia la entrevista en El Viaducto." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_03", "hash": "ED36158029E3B72C", "target": "El entrevistado, el teniente llama Hollin Aubrey, llega poco después que tú y procede a relatar sus tratos con Louisoix. Gracias al Arconte, las fuerzas de Eorzea supieron del proyecto Meteoro, que el legado Nael van Darnus pretendía usar para purgar de toda vida el reino. En este punto de su relato, el teniente se ofrece a presentarte a alguien más indicado para narrar lo que sigue, y Nananji acepta encantado. Así se decide que a continuación os dirigiréis a Apkallu Falls, en Gridania, para otra entrevista." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_04", "hash": "BE7F44DF36F2E99A", "target": "Mientras esperas en el apacible entorno de Apkallu Falls, tu entrevistado aparece en la persona del teniente serpiente Syro Fulke. El teniente cuenta cómo Louisoix consiguió apoyo externo para la Orden de la Doble Víbora mientras esta trataba de abatir a la desatada Garuda. Y cuando más tarde salió a la luz que la VII Legión Imperial había construido un transmisor lunar ─el dispositivo que arrancaría Dalamud de los cielos─ dentro de su nuevo castrum, las tres naciones respondieron reformando la Alianza Eorzea y nombraron al Arconte su táctico. Para lo que viene después, la operación para destruir el transmisor lunar, el teniente te remite a un soldado que participó de verdad en ella. Con ese fin te diriges a la Comandancia del Maelstrom, en Limsa Lominsa, donde puede encontrarse a esa persona." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_05", "hash": "1F9E10A0B025A4C4", "target": "Al entrar en la Comandancia del Maelstrom, te recibe con calidez la comandante tormenta R'ashaht Rhiki. La comandante te expone los detalles de la operación, en la que el grueso de la Alianza sitió el castrum mientras una selecta cuadrilla de aventureros destruía el transmisor lunar. Aunque la operación no logró detener el descenso de Dalamud, sirvió para demostrar a las gentes de Eorzea que, unidas, podían oponerse incluso al poderío del Imperio. Y, a instancias de Louisoix, se unieron una vez más en la Llanura de Carteneau, donde lucharon con desesperación por asegurar la zona para el ritual con que devolver la luna roja a los cielos. Sin embargo, para conmoción de todos los presentes, Bahamut irrumpió de Dalamud y procedió a desatar su furia sobre el reino. Aunque se sostiene que Louisoix derrotó al temible ser, todos los recuerdos de la Calamidad quedaron envueltos en una bruma, y nadie recuerda lo que ocurrió en realidad. Curioso por los sucesos previos a ese momento, Nananji pregunta a R'ashaht si alguien estaba cerca de Louisoix durante la batalla, pero ella, por desgracia, no lo sabe. Ahí termina el relato, y das las gracias a la comandante antes de marcharte." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_SEQ_06", "hash": "41CBE4FC6164491E", "target": "Aunque Nananji ha aprendido mucho sobre Louisoix, aún hay más que desea saber. Si estás dispuesto, te pide que lo acompañes un poco más." },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_TODO_00", "hash": "897E290D345B1823", "target": "Hablar con Nananji en el Campamento Huesos Secos" },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_TODO_01", "hash": "9290EAD5EACF2CA8", "target": "Esperar en el lugar señalado" },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_TODO_02", "hash": "A9649A1C1038A3B2", "target": "Hablar con Nananji en Apkallu Falls, en Gridania" },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_TODO_03", "hash": "2D57CBF11C70C191", "target": "Hablar con Nananji cerca de la Comandancia del Maelstrom" },
+    { "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_TODO_04", "hash": "16F3BA1C64A81C37", "target": "Hablar de nuevo con Nananji" },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_001",
+      "hash": "4382F9BCB049F6F6",
+      "target": "Esa mandíbula decidida... Esa presencia enérgica, como si estuviera siempre <if(gnum4,lista,listo)> para saltar a la acción... No hay duda: es <if(gnum4,una aventurera,un aventurero)>, ¡y de <if(gnum4,las de fiar,los de fiar)>!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_100_001",
+      "hash": "950ECF2846516E3D",
+      "target": "Dígame, ¿le resulta familiar el nombre de Louisoix Leveilleur?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_Q1_000_000",
+      "hash": "F3DDAE7DDAFB4F2E",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_A1_000_001",
+      "hash": "2D0F72D68C6AECD6",
+      "target": "¡Por supuesto que sí!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_A1_000_002",
+      "hash": "5F6791EAD28270E9",
+      "target": "Nunca he oído hablar de él..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_002",
+      "hash": "51AB8E67168B9F03",
+      "target": "¡Naturalmente, naturalmente!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_003",
+      "hash": "F3078B51F0398955",
+      "target": "¿¡Cómo!? ¿No conoce al legendario Arconte que, según dicen, salvó Eorzea de la Calamidad? En fin, supongo que una mirada fresca también tiene su valor..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_004",
+      "hash": "174B84C820355B36",
+      "target": "Disculpe la brusquedad. Soy Nananji Nononji, escritor novel, y pretendo escribir una biografía del gran sabio."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_005",
+      "hash": "96CA7DEA0B3ABD26",
+      "target": "Quiero centrarme en lo que hizo hasta la Calamidad, así que he solicitado una entrevista a las Llamas Inmortales. Sirvió como estratega a la Alianza Eorzea, de modo que en la orden debe de quedar alguien que tratara con él."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_006",
+      "hash": "07958CF73A6F2F3F",
+      "target": "Por suerte me la han concedido, pero hay un problema: tengo poca experiencia entrevistando y me preocupa no estar a la altura..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_007",
+      "hash": "1EE625188A67270C",
+      "target": "Como <if(gnum4,aventurera,aventurero)>, seguro que está <if(gnum4,acostumbrada,acostumbrado)> a tratar con la gente. Por eso quisiera pedirle que me acompañe como ayudante. Solo con que esté a mi lado me quedaría mucho más tranquilo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_008",
+      "hash": "6BE3FAF60D9B2B54",
+      "target": "Y si le parece bien, después me gustaría entrevistarle a usted y conocer sus impresiones."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_009",
+      "hash": "F13937C225FADD9E",
+      "target": "A cambio, le acreditaré como <if(gnum4,colaboradora,colaborador)>. Por favor, ¿me ayudará con la biografía, para que el recuerdo de la Calamidad llegue a las generaciones futuras?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_010",
+      "hash": "5569CADEA1FF3B64",
+      "target": "¡Estoy en deuda con usted!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_011",
+      "hash": "42FA059CE99E92A3",
+      "target": "Para empezar, acompáñeme al Campamento Huesos Secos, en Thanalan oriental. Hay un sitio que quisiera visitar antes de la entrevista."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_100_013",
+      "hash": "4FC7CE4E582B3F6D",
+      "target": "Ahí está. Le explico por qué estamos aquí..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_013",
+      "hash": "938187041250167A",
+      "target": "¡Ay, si ni siquiera le he preguntado su nombre! ¿Cómo voy a acreditarle si no sé ni eso?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_015",
+      "hash": "B9435E38C711A34A",
+      "target": "<string(gstr1)>... ¿¡<italic(1)><if(gnum4,La,El)><italic(0)> <string(gstr1)>, <if(gnum4,heroína,héroe)> de Eorzea!?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_016",
+      "hash": "688F3353DFAA5769",
+      "target": "¡Con razón me pareció alguien de fiar! ¡Con su ayuda, seguro que todo saldrá a las mil maravillas!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_017",
+      "hash": "21121067528C432A",
+      "target": "Pero volvamos al asunto: la entrevista que he concertado es con un oficial de las Llamas Inmortales."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_100_017",
+      "hash": "26A5FA265E957ADE",
+      "target": "Como aún queda tiempo, he pensado pasar antes por el cementerio de aquí al lado y explicarle qué me mueve a escribir la biografía."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_018",
+      "hash": "1D9F128A9CCFE7CD",
+      "target": "Soy de una aldea pequeña cerca de la Llanura de Carteneau. Ardió durante la Calamidad, y los que murieron descansan aquí. Mis padres entre ellos."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_019",
+      "hash": "4D2A7699BFC19FD2",
+      "target": "No es una historia rara. Cuando aquel temible primigenio salió de Dalamud, sus llamas devastaron Eorzea de un extremo a otro."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_020",
+      "hash": "79EE18EEAE3D592C",
+      "target": "Pero, por mucho que la Calamidad marcara el reino, se está convirtiendo en un episodio más de los libros de historia."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_021",
+      "hash": "908448080ED73FDD",
+      "target": "Salvo para agradecer de vez en cuando a los Arcontes que Eorzea se salvara, la gente apenas piensa en ello."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_022",
+      "hash": "3E3ED18AC4753187",
+      "target": "Pero cuando uno ha perdido a tantos seres queridos, cuesta sentir que se salvara nada..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_024",
+      "hash": "9E7B54E58095D6ED",
+      "target": "Por eso quiero saber más de Louisoix. Si comprendo su papel en la salvación de Eorzea, quizá pueda pasar página."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_026",
+      "hash": "438C68D8DD230358",
+      "target": "Esa es mi motivación para escribir la biografía."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_027",
+      "hash": "4A5F480A167F7360",
+      "target": "Bien, preparémonos para la entrevista repasando lo que se sabe del personaje."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_028",
+      "hash": "B75D81FF37E1411A",
+      "target": "Es difícil precisar cuándo se puso en marcha la Séptima Calamidad Umbral, pero muchos historiadores señalan el proyecto Meteoro del Imperio, que buscaba precipitar Dalamud sobre Eorzea."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_029",
+      "hash": "728F2CEF5AA5A135",
+      "target": "Corría el año 1562 de la Sexta Era Astral. Para hacer frente a la amenaza imperial, Louisoix fundó el Cenáculo del Saber, una orden consagrada a la salvación de Eorzea."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_030",
+      "hash": "11DEF597E7B9C45A",
+      "target": "A través de sus miembros, los Arcontes de Sharlayan, el Cenáculo trabajó para unir a las naciones de Eorzea en una causa común."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_031",
+      "hash": "40D06AB8568F449E",
+      "target": "El resultado fue la creación de las Grandes Compañías en las tres ciudades estado. Las Llamas Inmortales, la Orden de la Doble Víbora y el Maelstrom: ninguna existiría hoy sin su empeño."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_032",
+      "hash": "E9A013B3FC8C2602",
+      "target": "Y en el año 1572, cuando la situación se agravó, el propio Louisoix viajó a Eorzea en secreto y trató con cada una de las naciones. Lo que ocurrió entonces es lo que quiero averiguar en la entrevista."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_033",
+      "hash": "43810D4CA02EE6F6",
+      "target": "El hombre con quien nos veremos era el enlace de la Brigada Libre, una unidad de aventureros, y al parecer contó con la ayuda de Louisoix en una misión."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_034",
+      "hash": "10E92E60D832C50F",
+      "target": "Hemos quedado en el Viaducto, al noreste. Ya casi es la hora, así que pongámonos en marcha."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_040",
+      "hash": "B26C51AAA0FAFED8",
+      "target": "El entrevistado no tardará en llegar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_041",
+      "hash": "BA99347B4694F00F",
+      "target": "¿Son ustedes quienes querían la entrevista? He de decir que no esperaba encontrarme <if(gnum4,a la heroína,al héroe)> de Eorzea..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_042",
+      "hash": "AC8E43C21086DBAF",
+      "target": "Soy Nananji Nononji, el escritor que hizo la solicitud, y <split(<string(gstr1)>, ,1)> ha tenido la amabilidad de acompañarme. No sé cómo agradecerle que nos dedique su tiempo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_043",
+      "hash": "45B11E9C893053DE",
+      "target": "Vamos, no hacen falta agradecimientos. Como todos, tengo a Louisoix en la más alta estima."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_044",
+      "hash": "81409E01937FD1E1",
+      "target": "Si quieren saber de él, Hollin Aubrey siempre está encantado de ayudar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_045",
+      "hash": "BB5386220F4AB0EB",
+      "target": "Sin más dilación, empecemos."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_046",
+      "hash": "FDA7E57FB620A543",
+      "target": "Tengo entendido que usted trató con Louisoix. ¿Podría contarme los detalles?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_047",
+      "hash": "E1214737C298559C",
+      "target": "Como saben, nuestras Grandes Compañías nacieron gracias al Cenáculo del Saber. Pero Louisoix no apareció hasta que Dalamud empezó a enrojecer."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_049",
+      "hash": "CFBAC5233F0451F1",
+      "target": "Todo empezó con la noticia de que un elezen anciano había llegado a Gridania afirmando saber cómo derrotar a los primigenios. Al saberlo, envié a un aventurero de la Brigada Libre a contactar con él."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_050",
+      "hash": "704C3CE1652A457F",
+      "target": "Después supe que el Maelstrom y la Orden de la Doble Víbora habían hecho lo mismo. Entonces las compañías aún no cooperaban: cada una solo pensaba en adelantarse a las demás."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_051",
+      "hash": "9F28A3C41C362102",
+      "target": "A decir verdad, al principio veíamos a Louisoix como el cabecilla de unos eruditos que estudiaban profecías extrañas, nada más. Pero el informe del aventurero cambió por completo nuestra opinión."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_052",
+      "hash": "0F3BCEF4FED1D0FB",
+      "target": "Con sus artes arcanas, Louisoix abrió el camino al dominio de Ifrit. Y a manos de unos aventureros intrépidos, el Señor del Infierno fue abatido."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_053",
+      "hash": "64AE02680D109D06",
+      "target": "Por desgracia, esa victoria costó muchas derrotas. Se informó de un sinfín de cadáveres calcinados esparcidos por el Bowl of Embers."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_054",
+      "hash": "4B76CC7598117C78",
+      "target": "Además, aquella misión trajo una revelación estremecedora."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_055",
+      "hash": "41E3818AC1539950",
+      "target": "Tras la batalla apareció el legado Nael van Darnus, de la VII Legión imperial, y le anunció al aventurero que la hora del juicio había llegado: Dalamud caería pronto y purificaría la tierra."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_056",
+      "hash": "A123DB82F6D0F864",
+      "target": "Ahí comprendimos que el Imperio estaba detrás de la anomalía de la luna roja."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_057",
+      "hash": "EA9903E8C373FAE9",
+      "target": "Así que gracias a Louisoix supieron del proyecto Meteoro. Aun así, no parece que tuvieran mucho con lo que actuar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_059",
+      "hash": "FD1A519D1B34358C",
+      "target": "Así es. Después nos afanamos por averiguar todo lo posible sobre el proyecto."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_060",
+      "hash": "509EDEC71909211B",
+      "target": "Por fortuna contamos con un desertor garleano: Cid Garlond, a quien conocen bien."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_061",
+      "hash": "55650C043A9C2947",
+      "target": "Nos reveló los pormenores del proyecto: usarían una torre de transmisión para arrancar Dalamud del cielo y purgar el reino de los salvajes, es decir, de nosotros."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_062",
+      "hash": "AED8EB7B9C157661",
+      "target": "Podría seguir contándoles lo que sé... pero a partir de aquí hay alguien más indicado que yo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_063",
+      "hash": "ECAE6DC66D45F702",
+      "target": "Si les interesa, con gusto les pondré en contacto con esa persona. ¿Qué me dicen?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_064",
+      "hash": "09493DFDB10E188F",
+      "target": "¡Por supuesto, nos encantaría hablar con esa persona!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_065",
+      "hash": "46C83F1E63B053FD",
+      "target": "Muy bien, avisaré al Cuartel General de la Doble Víbora. Vayan a Apkallu Falls y concertaré allí el encuentro."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_066",
+      "hash": "41EC18CD14BFF1D6",
+      "target": "Que se moleste tanto por nosotros... No sé cómo agradecérselo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_067",
+      "hash": "1BF29420D7506CE5",
+      "target": "No hay de qué. Ya lo dije: tengo a Louisoix en la más alta estima. Fue él quien unió a nuestras tres naciones, y nada me alegraría más que verlo recordado."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_AUBREY_000_068",
+      "hash": "0559730E8141EA0E",
+      "target": "En fin, ya va siendo hora de que vuelva a Ul'dah. Ojalá la próxima entrevista dé sus frutos."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_069",
+      "hash": "3FED0930FD520E97",
+      "target": "Está claro que el teniente siente un gran respeto por Louisoix..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_070",
+      "hash": "DA4ECA74055DD122",
+      "target": "Y gracias a él tenemos otra entrevista prometedora. ¡Vamos a Gridania, donde residió el Arconte!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_080",
+      "hash": "A1BF0491B3D51C27",
+      "target": "Así que estas son Apkallu Falls... Salvo por la notable ausencia de apkallus, es un lugar precioso. La persona con quien hemos quedado no tardará..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_081",
+      "hash": "59D8A38F9F6E5002",
+      "target": "Me dijeron que alguien quería saber de Louisoix... y resulta ser <if(gnum4,la heroína,el héroe)> de Eorzea. Un placer. Soy el teniente Syro Fulke, de la Orden de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_082",
+      "hash": "61A8FA4FC0F6A010",
+      "target": "Me dijeron que alguien quería saber de Louisoix... y resulta ser <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>... Un placer. Soy el teniente Syro Fulke, de la Orden de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_083",
+      "hash": "915974C1FAD2F533",
+      "target": "Nananji Nononji, a su servicio. Gracias por dedicarnos su tiempo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_085",
+      "hash": "EF48429046F45732",
+      "target": "El placer es mío."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_100_085",
+      "hash": "D3ED1BF9B9231AB9",
+      "target": "He de decir que el teniente Aubrey eligió el lugar perfecto para este tema."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_086",
+      "hash": "A464682F43FE09E6",
+      "target": "Antes de la Calamidad, Louisoix pasaba aquí largas horas meditando. Como los gridanios somos algo reservados por naturaleza, al principio la gente lo miraba de lejos."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_087",
+      "hash": "7FD3E0681A6D4730",
+      "target": "Pero con el tiempo se fueron acercando. Él escuchaba con paciencia sus penas, curaba heridas y daba consejo, y así fue ganándose su confianza."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_088",
+      "hash": "F075CA190800DC93",
+      "target": "“Desentenderse de quien uno podría salvar no es sabiduría: es indolencia.”"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_089",
+      "hash": "912DD902BC2A2F0D",
+      "target": "Louisoix dijo esas palabras y las cumplió. Era la viva imagen de un sabio de Sharlayan, y recuerdo lo mucho que me conmovió."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_090",
+      "hash": "D84E75BAB0573BBA",
+      "target": "Poco después de conocerse el proyecto Meteoro, la aldea de Molino de la Cantera fue atacada por la primigenia Garuda. Hubo bajas entre soldados y civiles."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_092",
+      "hash": "522AC4E2A15753A9",
+      "target": "La Orden de la Doble Víbora salió a abatir a la primigenia, pero no estábamos solos. Por mediación de Louisoix contamos con las otras Grandes Compañías y con aventureros expertos de todo el reino."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_093",
+      "hash": "A3EF4E0CA2ACCA31",
+      "target": "Con un objeto llamado Pluma del Vórtice, el Arconte abrió el paso para que un grupo de aventureros irrumpiera en el dominio tempestuoso de Garuda y acabara con ella."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_094",
+      "hash": "1E17164A099C72E5",
+      "target": "Pero al caer, el éter liberado por la primigenia no volvió a la tierra: lo absorbió la luna roja, Dalamud."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_097",
+      "hash": "F0B036C2C833D2F1",
+      "target": "Y cuando el Imperio levantó una nueva base en Mor Dhona, la Gran Vidente vio que había que actuar y propuso algo: refundar de manera efectiva la Alianza Eorzea, dormida desde hacía tanto."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_099",
+      "hash": "981BB59E2FCDDBEE",
+      "target": "Al principio, las demás naciones respondieron con tibieza. Consideraban excesiva la carga que les tocaba y no querían hacer nada que las dejara en desventaja frente a sus rivales."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_100",
+      "hash": "4B029B6A62796D3E",
+      "target": "Pero al saberse que en la base imperial se había alzado un transmisor lunar, cambiaron de idea."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_101",
+      "hash": "59C2971959A4EB82",
+      "target": "La torre gobernaba el descenso de Dalamud. Destruirla significaba frustrar el proyecto Meteoro."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_102",
+      "hash": "CE055C79208F48E9",
+      "target": "Tras ir siempre a remolque, las naciones se animaron a unir fuerzas para asestar un golpe decisivo al enemigo. Así se refundó la Alianza Eorzea, como deseaba el Cenáculo del Saber."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_103",
+      "hash": "E38AE2FB9A0D3BF2",
+      "target": "En ese mismo momento se pidió a Louisoix que se uniera a la Alianza como estratega. Y en tal cargo aconsejó con sabiduría a nuestros dirigentes."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_104",
+      "hash": "CC25DE19493D26F6",
+      "target": "O sea, que aunque al principio se desconfiaba de él, Louisoix se ganó la confianza con sus actos y abrió camino a una cooperación duradera entre las naciones."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_105",
+      "hash": "F1DFB2CB9D1C1F2C",
+      "target": "Así es. De no ser por él, habríamos perecido divididos. Tenemos con Louisoix una gran deuda."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_106",
+      "hash": "A9C70AF91F2DFAFA",
+      "target": "Imagino que les interesará oír hablar de la operación para destruir el transmisor lunar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_107",
+      "hash": "E961FC914E78232A",
+      "target": "Para eso les recomiendo a otra persona: una soldado condecorada que participó en la operación. Es una guerrera curtida, pero muy campechana, y estará encantada de contarles sus vivencias. ¿Quieren que la avise?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_108",
+      "hash": "0698B2DD6DB31051",
+      "target": "¡Se lo agradeceríamos muchísimo!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_109",
+      "hash": "9E91C0C911C431C5",
+      "target": "Muy bien. Diríjanse a la Comandancia del Maelstrom, en Limsa Lominsa, y me encargaré de que los espere. Yo me despido ya. Ojalá la biografía sea todo un éxito."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_110",
+      "hash": "2797A5D6C1F83A2A",
+      "target": "Todos están siendo más amables de lo que esperaba. Se ve que Louisoix dejó una huella profunda en la gente."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_111",
+      "hash": "BCBAEDD4EBD1BBD1",
+      "target": "Esa entrevista nos ha revelado mucho sobre su carácter, y estoy deseando ver qué aprendemos en la siguiente."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_112",
+      "hash": "EEA215F7C42D4388",
+      "target": "¡Vamos, pongamos rumbo a Limsa Lominsa!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_120",
+      "hash": "93673D4877FA438B",
+      "target": "Ahí está la Comandancia del Maelstrom. ¿Entramos?"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_121",
+      "hash": "2E8FA4163E2D46C9",
+      "target": "<split(<string(gstr1)>, ,1)>, ¡siemprrre es un gusto verle! Y usted debe de ser Nananji. Soy R'ashaht Rhiki, a su servicio. Tengo entendido que quieren saber de la operación para destruir el transmisorrr lunar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_122",
+      "hash": "6DABCDF8EA4DBE25",
+      "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, ¡siemprrre es un gusto verle! Y usted debe de ser Nananji. Soy R'ashaht Rhiki, a su servicio. Tengo entendido que quieren saber de la operación para destruir el transmisorrr lunar."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_123",
+      "hash": "B9F4C147F623BA79",
+      "target": "Así es. Estoy escribiendo una biografía del Arconte Louisoix y entrevisto a quienes trataron con él. Le agradezco mucho su tiempo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_124",
+      "hash": "7DE6E541265DF48A",
+      "target": "Es un placerrr. Les ayudaría con gusto aunque no me lo hubiera pedido el teniente Fulke."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_125",
+      "hash": "FE2244362AAA2E01",
+      "target": "Bien, sigo donde él lo dejó... Fue poco después de formarse la Alianza Eorzea. Los exploradores volvieron con la noticia de que la VII Legión había activado el transmisorrr lunar en su fortaleza de Mor Dhona."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_126",
+      "hash": "E2E85FBCE47D062D",
+      "target": "La fortaleza se llamaba Castrum Novum; la XIV Legión la restauró y la rebautizó como Castrum Centri."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_127",
+      "hash": "2783AC52ED0EE2D6",
+      "target": "Para romper sus defensas y destruirrr la torre, las tres naciones unimos fuerzas, decididas a lograrlo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_128",
+      "hash": "F95887EB8D1631C7",
+      "target": "La estrategia de Louisoix era de una sencillez elegante: mientras el grueso de las tropas distraía a los garleanos con un asedio total, un grupo selecto de aventureros se infiltraría en el castrum hacia el objetivo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_129",
+      "hash": "C75A7AF7ECE05DE5",
+      "target": "Ya habíamos confiado a los aventureros librarnos de los primigenios; ahora les confiábamos el destino de Eorzea."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_130",
+      "hash": "755767A838E16C39",
+      "target": "Recuerdo la operación como si fuera ayer. Nos plantaron cara con fierrreza, pero nosotros peleamos con más fiereza aún. Costara lo que costara, los aventureros tenían que poder llegar a la torre."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_131",
+      "hash": "96462A2619ED7FA5",
+      "target": "Y cuando llegó el mensajero anunciando que lo habían conseguido... Ay, aún se me acelera el corrrazón al recordar ese triunfo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_132",
+      "hash": "281EA0F1A73BA1AC",
+      "target": "Ese día aprendimos que, unidos, los pueblos de Eorzea podíamos plantar cara incluso al poderrrío del Imperio."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_133",
+      "hash": "BC03BB79275A9CC4",
+      "target": "No exagero si digo que esa victoria abrió el camino al futuro de Eorzea. Sin ella no habría existido la Operación Arconte."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_134",
+      "hash": "4D8A5D995A52AFCE",
+      "target": "Por desgracia, no todo fueron buenas noticias. Destruimos el transmisor, sí, pero apareció Nael van Darnus y afirmó que ya no lo necesitaba: él mismo podía prrrecipitar Dalamud."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_135",
+      "hash": "72D1705D8AB24E0A",
+      "target": "Mientras van Darnus viviera, la amenaza seguía en pie. Así que, declarado enemigo de toda vida en Eorzea, las naciones de la Alianza emprendieron una búsqueda desesperrrada."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_136",
+      "hash": "C21D470FCD01D924",
+      "target": "Al fin lo localizaron en Coerthas y enviaron a sus mejores guerreros a darrrle caza."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_138",
+      "hash": "E4956F1B8D850EAC",
+      "target": "<if([gnum76==1],Al frente de aquel grupo formidable iba <if(gnum4,una heroína,un héroe)> que apenas necesita presentación... ¿verdad?,Al frente de aquel grupo formidable iba <if(gnum4,la aventurera a la que llamaban Guerrera de la Luz,el aventurero al que llamaban Guerrero de la Luz)>.)> Y aunque no queda registro de aquel combate ferrroz, algo es seguro: al terminar, Nael van Darnus fue abatido."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_139",
+      "hash": "C911D41E290F5CC7",
+      "target": "Pero, como saben, la cosa no acabó con el Cuervo Blanco: Louisoix y sus discípulos determinaron que Dalamud seguía cayendo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_140",
+      "hash": "BA7F718CBE5CB995",
+      "target": "En un último intento de evitar la aniquilación, el Cenáculo del Saber pidió a la Alianza Eorzea que asegurase la Llanura de Carteneau, donde se esperaba el impacto de la luna roja."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_141",
+      "hash": "3DD4B2F768310E62",
+      "target": "No era tarea fácil: la VII Legión al completo se había concentrado allí. Pero hacía falta para ejecutar un rito que detuviera a Dalamud invocando el poder de los Doce."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_142",
+      "hash": "178DCBD6151A1E8C",
+      "target": "Así comenzó la batalla de Carteneau... y me atrevo a decir que ya saben cómo sigue."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_143",
+      "hash": "A3FCC80EDDC2BFDB",
+      "target": "Para espanto de todos, el primigenio ancestral Bahamut salió de Dalamud y descargó su furia sobre el reino."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_144",
+      "hash": "2FFF11FF345F4C69",
+      "target": "Así es. Todos vimos a Louisoix iniciarrr el rito, pero nadie recuerda lo que pasó después. Ni qué fue de Bahamut, ni por qué renació la tierra."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_145",
+      "hash": "4818DED6D11EA123",
+      "target": "La bruma que enturbió los recuerdos de la Calamidad... Pero lo anterior sí se recuerda, ¿verdad? En tal caso, ¿sabe de alguien que estuviera cerca de Louisoix en la batalla? Alguien que hablara con él..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_146",
+      "hash": "B36AD1EDC5D2E8D2",
+      "target": "Si hubo alguien cerca, me temo que lo desconozco. Él estaba en lo alto de una loma para el rito y yo, bien lejos, en primerrra línea."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_147",
+      "hash": "FCFACF90710A3C52",
+      "target": "Lo siento mucho..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_148",
+      "hash": "612C8529D44466EB",
+      "target": "No, no, no se disculpe. Nos ha dado muchísima información; no podría pedir más."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_RASHAHT_000_149",
+      "hash": "4A90A6657D2B3B0D",
+      "target": "Si están satisfechos, yo también lo estoy. Vuelvo a mis obligaciones. ¡Me hará ilusión leer la biografía cuando esté terrrminada!"
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_150",
+      "hash": "C58D018FDF56933A",
+      "target": "Ya entiendo cómo se llegó a la Calamidad. Y sin embargo..."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_151",
+      "hash": "0DDC23E684F9EC6A",
+      "target": "Ah, perdone, estaba absorto en mis pensamientos. Gracias en buena parte a su ayuda, he podido averiguar muchísimo."
+    },
+    {
+      "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_152",
+      "hash": "B67614DB166B9B23",
+      "target": "Pero aún hay cosas que quiero saber. ¿Podría acompañarme un poco más? Si le parece bien, dígamelo."
+    }
+  ]
+}

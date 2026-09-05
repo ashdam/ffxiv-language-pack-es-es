@@ -1,0 +1,453 @@
+{
+  "conversation": "quest/048/KinGma115_04874",
+  "questName": "Mablu's Dream",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_SEQ_00", "hash": "2F0677D6E81CC11F", "target": "Wuk Lamat se arma de valor para la cabalgata en busca de vuestro próximo socio comercial." },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_TODO_00", "hash": "2C7935F39DF97C2C", "target": "Hablar con Mablu" },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_TODO_01", "hash": "BA63EC81D15DD0C6", "target": "Dar fine hatchet a Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_TODO_02", "hash": "B5BF6E97CCBED9AE", "target": "Recolectar verdant mate leaves" },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_TODO_03", "hash": "48580B7392804804", "target": "Entregar verdant mate leaves a Miplu" },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_001",
+      "hash": "5E664114A9D3ABEE",
+      "target": "¡Vamos muy bien! Hasta Tobli tendría que admitirlo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_005",
+      "hash": "537DAEA94562FD02",
+      "target": "Antes de ponernos en marcha... Mejor que guardes tú esto."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_006",
+      "hash": "6991F1EB54B6B305",
+      "target": "Dicho eso, supongo que toca subirse a las alpacas que Mablu ha tenido la amabilidad de conseguir..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_010",
+      "hash": "3747CB6B931074DF",
+      "target": "Si después de esto voy a atrapar una alpaca salvaje, no puedo asustarme de las mansas. No es que les tenga miedo, ojo. Ni a sus escupitajos asquerosos, repugnantes y apestosos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_015",
+      "hash": "A16B58203B91F6DA",
+      "target": "¿Listos para salir? ¡A montar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_Q10_000_000",
+      "hash": "5891F4C4FB00FF34",
+      "target": "¿Montar en la alpaca?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_500",
+      "hash": "826270D350EDA31A",
+      "target": "¡Y allá vamos, rumbo a los campos de mate!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_501",
+      "hash": "4CA2DAD7BF2F4C66",
+      "target": "Por favor, no escupas, por favor, no escupas..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_502",
+      "hash": "3FF895F7CED630FB",
+      "target": "¡No pasará nada! ¡Estas están acostumbradas a la gente!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_503",
+      "hash": "23B1469FAA21A3DF",
+      "target": "Sigo sin fiarme de ellas..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_504",
+      "hash": "37183A32CAB6B863",
+      "target": "¡Se te da bien montar, digas lo que digas!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_505",
+      "hash": "1D1B6AFFD0AFCDED",
+      "target": "Sin nuestras amigas las alpacas, los Pelu nunca habríamos llegado a ser mercaderes ambulantes. ¿Te imaginas cruzar Tural entero a pie?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_506",
+      "hash": "D9A1786C180F6230",
+      "target": "Te lo juro, esa montaña es demasiado alta para ser real."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_507",
+      "hash": "F3F9337D7E8D4B9F",
+      "target": "Worqor Zormor... ¿No se llamaba así?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_508",
+      "hash": "B89BDAA1527AFA9C",
+      "target": "Impone, ¿verdad? Yo nunca la he visto de cerca."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_509",
+      "hash": "52B68CF94C0D3966",
+      "target": "Hay que dar un buen rodeo por los acantilados para llegar, a las tierras altas de los Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_510",
+      "hash": "7B5D30DF1E16F2F7",
+      "target": "Oye, Mablu, dijiste que estabas aprendiendo el oficio de vendedora ambulante. ¿No te gusta el trabajo del rancho?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_511",
+      "hash": "ADB22FC8FA242CFB",
+      "target": "¡No, no, me encanta! ¡Me encanta trabajar con alpacas!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_512",
+      "hash": "BF0C806B6A7F053F",
+      "target": "Pero ser vendedora ambulante siempre ha sido mi sueño."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_513",
+      "hash": "34A49A002B9A1678",
+      "target": "Es solo que... no estoy segura de tener talento para eso."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_514",
+      "hash": "371515E239D8DE60",
+      "target": "Aunque, si consigo ayudarte a comprar la silla de doma, sería la prueba de que sí puedo."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_515",
+      "hash": "780FF7B22B9FBBB5",
+      "target": "¡Pues entonces ya puedes ir preparándote para ser mercadera!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_516",
+      "hash": "72A577D47AC8A22D",
+      "target": "¡Mira, ya casi estamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_017",
+      "hash": "2C59282F82ECFA83",
+      "target": "Lo hemos conseguido... y sin un solo incidente apestoso."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_100_019",
+      "hash": "7D333B0F10F7B597",
+      "target": "He mandado las alpacas de vuelta a la Posada de Icuvlo, así que a la vuelta iremos por el camino principal."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_018",
+      "hash": "1F48267B2407E853",
+      "target": "Y hablando de caminos que recorrer... Al Servidor del Alba te adoptó, ¿verdad, Tercera Promesa?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_019",
+      "hash": "FBE09D96E8FF7A69",
+      "target": "Así fue."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_020",
+      "hash": "C0688B2000F41888",
+      "target": "Entonces quizá lo entiendas. Yo también fui huérfana: Tobli me acogió. Acogió a todos los mozos del rancho, en realidad."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_021",
+      "hash": "8556D851F4ABE30E",
+      "target": "¿A todos?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_022",
+      "hash": "40193E3FA4323F8B",
+      "target": "Sí, y todos se dejan la piel en sus faenas, agradecidos por poder devolverle la generosidad al jefe de cuentas. Y aquí estoy yo, la única que quiere largarse a ser mercadera..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_023",
+      "hash": "6DE646A7BA041744",
+      "target": "Perdón, no sé por qué os cuento esto. Tenemos que seguir cambiando cosas por tu silla si quieres prepararte para la Prueba del Oro."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_024",
+      "hash": "1AE3AC97D400C29B",
+      "target": "Como es temporada de cosecha del mate, no les sobran las hachuelas de calidad. Súmale el don de gentes de Wuk Lamat y no deberíamos tener problema para cerrar un buen trato."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_025",
+      "hash": "B092E1A6227106D0",
+      "target": "¡Esa de ahí es la propia Miplu! Pásale la hachuela a la Tercera Promesa y ¡a negociar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_030",
+      "hash": "E68ECD36C33433FA",
+      "target": "¿Le has devuelto la hachuela a Wuk Lamat? Mejor que hable ella."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_035",
+      "hash": "29F2F1F2DFB366ED",
+      "target": "¿A qué debo este honor...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_040",
+      "hash": "E6E09ED5B6275536",
+      "target": "¿Tienes tú esa hachita?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_041",
+      "hash": "9D364B60BAAED0AE",
+      "target": "¡Gracias! A ver qué sacamos por ella..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_042",
+      "hash": "5D8904BF8ED0D498",
+      "target": "¿Eres Miplu, la dueña de estos campos? Vengo con ganas de negociar, si te interesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_043",
+      "hash": "0BDEC93255574A5B",
+      "target": "¡Vaya, vaya, la Tercera Promesa! Puede que me deje convencer para escuchar una propuesta. ¿Qué me ofrecéis?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_044",
+      "hash": "73F994A87B0C8C77",
+      "target": "¡Esta hachuela! Forjada por un artesano curtido, el filo de esta herramienta excepcional te dejará la cosecha en nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_045",
+      "hash": "A73C57D4C4BA9AB6",
+      "target": "Hum... La calidad es aceptable, supongo. Os ofrezco un saco grande de hojas de mate a cambio."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_046",
+      "hash": "01C5A4E5708AE8CE",
+      "target": "Un saco de hojas de mate se tasa en un pel en la columna de los millares, el mismo precio que la hachuela. Este trato no nos acercaría nada al mezcal..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_047",
+      "hash": "22F3A16B6F61ADEC",
+      "target": "Si me permites, señora Miplu. Es temporada de cosecha, ¿no? ¿No hace eso que las hachuelas valgan más?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_048",
+      "hash": "057FC18E0105893E",
+      "target": "Temporada es, en efecto. Por eso me hice con un buen lote de herramientas con mucha antelación."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_049",
+      "hash": "EBB8ED2C76ED7EAE",
+      "target": "Se nos ha pasado la ventana de la demanda... En ese caso, tendremos que tirar de contactos."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_050",
+      "hash": "0CF12C6E76EF1B7F",
+      "target": "¡Míralo así! Un trato generoso aquí te pondrá a bien con la Tercera Promesa. ¿Seguro que eso no merece pensárselo?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_051",
+      "hash": "3363920275165CF2",
+      "target": "No quisiera ofender, pero debo deciros que yo estoy con la Segunda Promesa. Creo que sus innovaciones mejorarán todos los aspectos de nuestras vidas, incluida la agricultura. Y entonces ya no necesitaré hachuelas."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_052",
+      "hash": "D9D96DFE466C3EFB",
+      "target": "Os aseguro que no siento más que respeto por Wuk Lamat. Por eso estoy dispuesta a comprar una hachuela de repuesto a un precio justo."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_053",
+      "hash": "A1AC0194EB721E14",
+      "target": "S-supongo que <italic(1)>es<italic(0)> justo, dadas tus razones. Pero a nosotras la operación no nos deja mejor de lo que estábamos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_054",
+      "hash": "8DA8E8753B39590E",
+      "target": "¿Y qué tal esto? Si te echáramos una mano con la cosecha, ¿nos mejorarías el trato?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_055",
+      "hash": "94119A99E6CE0996",
+      "target": "¡Pues mira, sí! Hasta que lleguen las reformas de Koana, nunca me sobran manos en el campo."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_056",
+      "hash": "6D64FB9C3AA07E09",
+      "target": "¡Pues añade nuestro trabajo al trato!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_057",
+      "hash": "CCAB2201ADB94E7B",
+      "target": "Valor añadido para inclinar la balanza... ¿Cómo he podido olvidar una de las reglas más básicas del comercio?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_058",
+      "hash": "ED5B4831BED6A42D",
+      "target": "Puedes descansar aquí si quieres, Mablu. ¡<split(<string(gstr1)>, ,1)> y yo tenemos mate que recoger!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_059",
+      "hash": "913B1C0B46866C0C",
+      "target": "¡De eso nada, yo también ayudo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_060",
+      "hash": "60BDF3C4E058B8C6",
+      "target": "Pues al campo, y cuidado con escoger hojas sanas. Me traeréis cinco buenos manojos cada uno."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_070",
+      "hash": "BD7394DB4DBE82A9",
+      "target": "No sabía si Miplu picaría, ¡pero ya se ve que nunca lo sabes hasta que lo intentas!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_075",
+      "hash": "B2402FF8B3C99D84",
+      "target": "¿Has visto cómo Wuk Lamat me ha sacado del apuro? Se le da de maravilla la gente..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_080",
+      "hash": "A1A4CFF18A2C4783",
+      "target": "¿Me traéis unas hojas, entonces?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_081",
+      "hash": "16F06725932A1544",
+      "target": "Una cosecha aceptable. Aunque esperaré a ver cómo les ha ido a tus compañeras antes de decidir nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_082",
+      "hash": "1AB70D4CB315B172",
+      "target": "Toma, nosotras también traemos lo nuestro."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_083",
+      "hash": "A82962D798CED978",
+      "target": "Gracias, Tercera Promesa. Con esto sobra para cumplir vuestra parte del trato."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_084",
+      "hash": "245A05F824D838C4",
+      "target": "Ahora toca honrar la mía. Sumando el valor de vuestro trabajo al precio de la hachuela..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_085",
+      "hash": "F7FA35EB1EF083E5",
+      "target": "¡Estoy dispuesta a ofreceros un saco entero de nuestras hojas de mate de primerísima calidad!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_086",
+      "hash": "A5F69B3287F056B9",
+      "target": "¡Mate prémium! ¡Comprado en tienda, un saco de esas hojas costaría cinco pel en la columna de los millares como mínimo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_087",
+      "hash": "CAF2B44559AFDF05",
+      "target": "Pues podemos despedirnos de esta hachuela."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MIPLU_000_088",
+      "hash": "E5DA9256CBBEEABC",
+      "target": "Le daré buen uso. Dejando aparte lo del rito, me alegro de que hayamos llegado a un trato satisfactorio para ambas."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_089",
+      "hash": "49EBCD1FE9B13907",
+      "target": "¡Y yo! ¡Suerte con el resto de la cosecha!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_090",
+      "hash": "29AE24F55B8C5F5A",
+      "target": "¿Mablu? ¿Qué te pasa?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_091",
+      "hash": "A15D03B9C8791485",
+      "target": "Es lo que decía antes... Después de todo lo que Tobli ha hecho por mí, pienso abandonarlo todo para ser mercadera."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_092",
+      "hash": "2DF6E0ED47503CE7",
+      "target": "Y encima he necesitado vuestra ayuda por olvidar una regla básica del comercio. ¿Cómo voy a esperar que Tobli acepte mi decisión...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_Q1_000_000",
+      "hash": "5E04A18DA7A41884",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_A1_000_001",
+      "hash": "7F3259C90C843AC7",
+      "target": "¿Le has contado que quieres irte?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_A1_000_002",
+      "hash": "13E8581DDCF449C9",
+      "target": "¿Entonces piensas rendirte?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_094",
+      "hash": "0A9C7395C1EC1FCE",
+      "target": "No exactamente. Quería demostrar que podía salir adelante como vendedora ambulante antes de declarar mis intenciones..."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_095",
+      "hash": "9B9760AE611DC063",
+      "target": "¡No puedo! ¡Después de probar lo que es comerciar de verdad, quiero ser mercadera más que nunca!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_096",
+      "hash": "7C0C9D2516C21F9E",
+      "target": "Pues no te queda otra que ser sincera."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_097",
+      "hash": "668E4157CA5ED325",
+      "target": "Yo busco seguir los pasos de mi padre, pero no porque él lo espere de mí. Quiero preservar la paz de Tural, y llegar a Servidora del Alba resulta ser la mejor forma de lograrlo."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_098",
+      "hash": "8B231CFF25CF88D0",
+      "target": "Deberías vivir la vida que tú elijas, y no me extrañaría que Tobli opinara lo mismo. Así que habla con él."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_099",
+      "hash": "98B91F5830176A8F",
+      "target": "...¡Tienes razón! ¡Mejor salir de dudas que angustiarme por lo que pueda decir! Gracias por el consejo."
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_100",
+      "hash": "75C108098805472F",
+      "target": "Pero antes tenemos una silla que comprar. ¡Quiero ese éxito en mi haber para estar segura de mi decisión!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_101",
+      "hash": "70780C480DB6AAE1",
+      "target": "¿Y ahora qué? ¿Intentamos cambiar nuestras hojas de té por algo que valga la mitad de diez mil pel?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_102",
+      "hash": "8D422FA616694227",
+      "target": "No, creo que ya estamos bastante cerca. ¡Yo digo que vayamos directas a por el mezcal prémium!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_103",
+      "hash": "845C748373CD2740",
+      "target": "Negociar hasta doblar el valor, ¿eh? ¿Crees que puedes?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_104",
+      "hash": "9DDCCB86CB7F0A53",
+      "target": "¡Confía en mí! ¡Yo haré que este trato salga!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_MABLU_000_105",
+      "hash": "0DA44714097B98DF",
+      "target": "Te admiro, Tercera Promesa. ¡Que estés aguantando el tipo frente a rivales tan fuertes por el trono es inspirador!"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_100_105",
+      "hash": "7011B15DE34EA087",
+      "target": "Eh... ¿De verdad estoy aguantando el tipo frente a Koana y Zoraal Ja...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_WUKLAMAT_000_106",
+      "hash": "A23AE76DF3C4F154",
+      "target": "¡Q-quiero decir que claro que sí! ¡Al fin y al cabo soy Wuk Lamat de la Promesa del Alba!"
+    },
+    { "gameKey": "quest/048/KinGma115_04874#TEXT_KINGMA115_04874_SYSTEM_000_107", "hash": "7FE010B01039BBC1", "target": "¡Trato hecho! Has cambiado una hachuela de mil pel por un saco de hojas de mate de primera calidad de cinco mil pel." }
+  ]
+}

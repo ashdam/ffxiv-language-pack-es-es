@@ -1,0 +1,31 @@
+{
+  "conversation": "quest/045/AktKmh103_04528",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_SEQ_00", "hash": "B40BDED4FF202557", "target": "Estinien está listo para escoltar a Mehrahd hasta un lugar seguro." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_TODO_00", "hash": "342C4AFF49EE05C0", "target": "Hablar con Ojika Tsunjika en el Anexo Baldesion." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_TODO_01", "hash": "DF389182D1335835", "target": "Hablar con Y'shtola." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_TODO_02", "hash": "89D1E1307EAE7DA6", "target": "Hablar con Urianger en Thaumazein." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_TODO_03", "hash": "DD6490E3A648E60E", "target": "Hablar con Estinien en Akyaali." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_MEHRAHD_000_000", "hash": "CD35AAAAAE1EE6AC", "target": "Estinien es... Creo que no es tan arisco como aparenta." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_001", "hash": "F04D3F5023E2DEBA", "target": "Te dejo a ti lo de reclutar a G'raha. Seguro que agradecerá mucho más la invitación si viene de ti." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_002", "hash": "A628E2C56A460BD1", "target": "Si no recuerdo mal, se instaló en el anexo. Allí habrá alguien que pueda indicarte por dónde buscar." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_003", "hash": "2F38E6B199377378", "target": "Nosotros también nos vamos, Mehrahd. Hazme el favor de no apartarte del camino." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_OJIKATSUNJIKA_000_050", "hash": "EC00033D7B678DAB", "target": "¡Anda, mira quién ha vuelto! ¡<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_OJIKATSUNJIKA_000_051", "hash": "F57F8E5C12A3034C", "target": "¿En qué pueden ayudarte los Discípulos?" },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_OJIKATSUNJIKA_000_052", "hash": "97591EA1FE21D22B", "target": "¿G'raha? Sí, está en el salón principal con la señorita Krile." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_OJIKATSUNJIKA_000_053", "hash": "3DDB7F1412A22174", "target": "Llevan <italic(1)>días<italic(0)> encerrados ahí dentro. ¡Anda, entra y dales una excusa para tomarse un descanso!" },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_GRAHATIA_000_100", "hash": "BED02CD51DF2E9CC", "target": "Bueno, al menos a ella no nos costó encontrarla..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_GRAHATIA_000_150", "hash": "23C71A2A02204E9D", "target": "Últimamente he estado en Labyrinthos varias veces, pero no había vuelto a pisar Thaumazein desde el día en que embarcamos en el <italic(1)>Ragnarok<italic(0)>..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_YSHTOLA_000_155", "hash": "E97AC405FC52E55F", "target": "No veo a Thancred por ninguna parte. ¿No se suponía que viajaba con Urianger?" },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_GRAHATIA_000_200", "hash": "2F873F0E59076493", "target": "¡Ah, la emoción de una aventurrra inminente! Nunca me canso de esta sensación." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_YSHTOLA_000_205", "hash": "FCC98D479E3B729B", "target": "Imaginad las posibilidades..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_URIANGER_000_210", "hash": "E9DBD0B69C3E7FC3", "target": "En mis viajes, avisté a más de un niño errando en soledad; huérfanos, con toda probabilidad. Aunque los hogares arrasados por bestias y blasfemias puedan reconstruirse, el vacío que dejan aquellos a quienes hemos perdido no se colma con tanta facilidad..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_MATSYA_000_215", "hash": "F8AC5237E2F809CC", "target": "Rezaré a Sanduruva por su regreso sano y salvo. Que la abundancia de Sus bendiciones le guíe hasta el tesoro que busca..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_220", "hash": "4B160E60C572CA08", "target": "Te mando a reclutar a G'raha y vuelves con toda una expedición." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_221", "hash": "4B1FBE32DF028740", "target": "Espero que el barco de Matsya sea lo bastante resistente para llevarnos a todos..." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_YSHTOLA_000_222", "hash": "BCD1C9C75CFC171B", "target": "Lo que quiere decir es que le agradecemos que nos deje usar una de sus valiosas embarcaciones de pesca." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_MATSYA_000_223", "hash": "CB87C7601AEF36F2", "target": "Nos alegra enormemente poder ofrecerla. Solo les pido que tengan cuidado de mantenerse alejados de los arrecifes de los bajíos de allí." },
+    { "gameKey": "quest/045/AktKmh103_04528#TEXT_AKTKMH103_04528_ESTINIEN_000_224", "hash": "7F72321F8A754110", "target": "Sí, mantendremos los ojos bien abiertos." }
+  ]
+}

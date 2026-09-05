@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/006/SubWil152_00692",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_SEQ_00", "hash": "7F1546D4F9B55C42", "target": "Esmond, el representante de guildleves locales en la Pequeña Ala Mhigo, busca a un aventurero que se encargue de guildleves." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_SEQ_01", "hash": "7A4E625CFCE72094", "target": "Para calibrar tu capacidad de encargarte de los diversos guildleves que ofrece, Esmond exige que lleves a cabo una tarea preliminar." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_SEQ_02", "hash": "CAA33DB04A9D1AE5", "target": "Has completado con éxito el guildleve de prueba. Preséntate ante Esmond en la Pequeña Ala Mhigo." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_SEQ_03", "hash": "05410324972169B7", "target": "Esmond confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores de la Pequeña Ala Mhigo. Demuestra tu valía como aventurero y sigue encargándote de los guildleves que ofrece." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_TODO_00", "hash": "692DD52D0BA5B4AA", "target": "Completar el guildleve de prueba de Esmond" },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_TODO_01", "hash": "63ABE637403F376B", "target": "Informar a Esmond" },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_1", "hash": "9BC11049EE91C83B", "target": "Saludos y bienvenid<if(gnum4,a,o)> a Pequeña Ala Mhigo. Me llamo Esmond y represento al Gremio de Aventureros." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_2", "hash": "6C76E67C991B2825", "target": "La gente de aquí necesita toda la ayuda que le llegue. ¿Ha venido, por ventura, a echar una mano?" },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_3", "hash": "D447ADD62F12028E", "target": "Si es así, primero debe realizar un guildleve de prueba para demostrar que es capaz de sobrevivir a los muchos peligros de Thanalan." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_4", "hash": "9D64D817A813F3BB", "target": "Esta tarea servirá como prueba adecuada. ¿Qué me dice, <if(gnum4,aventurera,aventurero)>?" },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_5", "hash": "26B35BE9180177DB", "target": "Quede advertid<if(gnum4,a,o)>: el ser del Vacío se liberará de su prisión en cuanto se reúnan todas las páginas. Prepárese bien." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_10", "hash": "2DBBD57FC5A67BCD", "target": "Ya tiene su tarea. Comience cuando esté list<if(gnum4,a,o)>, se lo ruego." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_15", "hash": "622744F8CA1AAECA", "target": "Parece que ha pasado por mucho. Esta recompensa debería ayudarle a levantar el ánimo." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_20", "hash": "DAE456EE6F450062", "target": "Así que ha comenzado, ¿eh? Mucha suerte, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_21", "hash": "593019A5FCFB3E02", "target": "Recuerde que el ser del Vacío se liberará de su prisión en cuanto se reúnan todas las páginas. Prepárese bien." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_25", "hash": "348BBF9EF21BDE62", "target": "Está claro que no tendrá dificultad alguna en completar mis otros guildleves. No veo necesidad de ponerle más a prueba." },
+    { "gameKey": "quest/006/SubWil152_00692#TEXT_SUBWIL152_00692_ESMOND_000_26", "hash": "F27407C8585EBA13", "target": "Pequeña Ala Mhigo se beneficiará de cualquier ayuda que pueda prestar. Acuda a mí si desea más trabajo." }
+  ]
+}

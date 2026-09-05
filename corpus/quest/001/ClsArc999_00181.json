@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/001/ClsArc999_00181",
+  "questName": "So You Want to Be an Archer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_1", "hash": "FE77CEDAE168CB68", "target": "Saludos, <if(gnum4,aventurera,aventurero)>, y <if(gnum4,bienvenida,bienvenido)> al Gremio de Arqueros." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_2", "hash": "83DFA5FBFECBBE14", "target": "Es aquí donde los arqueros de todo el reino se reúnen para dominar el arco. Atacamos al enemigo a distancia, siempre buscando alterar el curso de la batalla con una sola flecha bien colocada." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_3", "hash": "91C1837FBAF0E902", "target": "Si tiene en mente convertirse en <if(gnum4,arquera,arquero)>, ha venido al lugar adecuado. ¿Desea unirse a nuestras filas?" },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_Q1_000_1", "hash": "D1986928F579130C", "target": "¿Unirse al Gremio de Arqueros?" },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_A1_000_1", "hash": "B7800F1B7A35D223", "target": "Sí" },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_A1_000_2", "hash": "8A06C5346DAA433C", "target": "No" },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_4", "hash": "0BC8D4B878C146C1", "target": "Una lástima. Podría irle bien entre nosotros." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_5", "hash": "F768E799DCCDC88A", "target": "Sin duda desea centrarse en su disciplina actual─una actitud encomiable. No obstante, si alguna vez ansía un nuevo reto, sepa que siempre será <if(gnum4,bienvenida,bienvenido)> aquí." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_6", "hash": "13C48F735B8C044F", "target": "Aunque su entusiasmo es irreprochable, parece que aún le queda mucho por aprender sobre la vida de aventurero." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_7", "hash": "71795574C161F1A2", "target": "Le sugiero que se centre un tiempo en su ocupación actual. Hablemos de nuevo cuando se haya curtido como aventurero." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_SYSTEM_000_8", "hash": "30750798F715F5B3", "target": "Antes de adoptar otra disciplina, debes completar la misión de nivel 10 de tu clase inicial." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_9", "hash": "995FD09253A4C50E", "target": "¡Maravilloso! Entonces permítame ilustrarle sobre la historia de nuestro arte y de nuestro gremio." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_10", "hash": "032F4D6B6F92B2D1", "target": "El arco es un útil ancestral que existe desde antes de que naciera nuestra bella nación. Como instrumento de guerra y de caza a un tiempo, nos protege de nuestros enemigos al par que nos mantiene alimentados y vestidos." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_11", "hash": "CE4B2E713A98EA0E", "target": "El tiro con arco tal como se practica en Gridania nació de dos estilos distintos de manejo del arco." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_12", "hash": "DDEA94F233A26213", "target": "El primero lo idearon los centinelas de arco largo de los Elezen, que antaño dominaban las tierras bajas, mientras que el segundo pertenecía a los cazadores de arco corto de los Miqo'te, en otro tiempo nómadas. Como sin duda sabrá, ambas razas acabaron haciendo de la Selva de los Doce su hogar." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_13", "hash": "433B013AE1790FDE", "target": "Aunque ambos pueblos comenzaron como rivales, poco a poco aprendieron a convivir en armonía." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_14", "hash": "FC3719540355A2C7", "target": "Durante ese tiempo aprendieron los unos de los otros, y sus dos escuelas de tiro con arco se entremezclaron hasta dar a luz el arte tal como se conoce hoy. Ah, pero esto no habría sido posible de no ser por la Liga de Tramperos." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_15", "hash": "DC03FD3D04B5001B", "target": "La liga se fundó para promover una caza sostenible y la cooperación en el seno de la hermandad de cazadores en su conjunto. Como feliz consecuencia de esa unión, sus miembros empezaron a batirse en amistosas competiciones de destreza." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_16", "hash": "D7371A95F06608D3", "target": "Inspirados por esas competiciones, unos pocos de ellos empezaron a centrarse en la perfección más que en la mera utilidad, transformando una habilidad en lo que podría llamarse un arte. Aquellos individuos acabarían formando un gremio propio." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_17", "hash": "E0E471765193B692", "target": "Sí, el Gremio de Arqueros, donde hombres y mujeres se reúnen para alcanzar la maestría con el arco. No pocos miembros del Carcaj de los Dioses dispararon su primera flecha entre estas mismas salas." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_18", "hash": "17DB8FCA55884AE4", "target": "...Y esa, amigo, es una breve historia del tiro con arco en Gridania. Sin duda ahora está más <if(gnum4,ansiosa,ansioso)> que nunca por empuñar el arco." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_19", "hash": "FACD6AEBBBDF7448", "target": "Sería un placer recomendarle a nuestra maestra del gremio─debe recibir su permiso si desea unirse a nosotros." },
+    { "gameKey": "quest/001/ClsArc999_00181#TEXT_CLSARC999_00181_ATHELYNA_000_20", "hash": "0B4B36E3C1B02DEB", "target": "Si me disculpa un momento, me encargaré de que se actualicen las listas pertinentes. Hable conmigo de nuevo dentro de un rato." }
+  ]
+}

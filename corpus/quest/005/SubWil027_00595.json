@@ -1,0 +1,97 @@
+{
+  "conversation": "quest/005/SubWil027_00595",
+  "questName": "We Must Rebuild",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_MOMODI_000_1",
+      "hash": "6817337210A0ECF5",
+      "target": "Bueno, criatura, ¿qué te parece nuestra querida Ul'dah? ¿Ya te vas orientando?"
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_MOMODI_000_2",
+      "hash": "60127A866D9110CF",
+      "target": "Si es así, quizá sea hora de que te aventures más allá de las murallas. Una cosa son las bulliciosas calles de Ul'dah, y otra bien distinta los páramos de Thanalan."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_MOMODI_000_3",
+      "hash": "0927696498BE1FE4",
+      "target": "Conozco a un tipo con quien quizá te apetezca hablar, y a él contigo. Se llama Papashan. Lo encontrarás en la Estación de Distribución de Ul'dah. Seguro que tiene algún trabajo para ti."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_MOMODI_000_4",
+      "hash": "599FD78E815D1B71",
+      "target": "La Estación de Distribución está en el Thanalan central. Sal por la puerta que hay al otro lado del salón y verás la Puerta de Nald justo enfrente. Crúzala y ve hacia el este. Darás con ella enseguida."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_MOMODI_000_5",
+      "hash": "7E80652F5516D89A",
+      "target": "Eso sí, más allá de la muralla hay peligros. Más de los que me gustaría contar. Nada demasiado terrible, ojo, pero con las agallas suficientes para atacarte si te acercas. Que luego no digas que nadie se molestó en avisarte."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_10",
+      "hash": "4202054F08D66D1F",
+      "target": "Vaya, desde luego tiene todo el aspecto de <if(gnum4,una aventurera,un aventurero)>, amig<if(gnum4,a,o)>. ¿Sería usted el alma bondadosa que Momodi me anunció, hm?"
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_11",
+      "hash": "BB73F87BE1F15C54",
+      "target": "Soy Papashan, jefe de estación de esta humilde Estación de Distribución."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_12",
+      "hash": "D605F36654D7A13B",
+      "target": "Un título vacío, se lo aseguro. No soy más que un viejo y cansado Lalafell que pasa sus últimos años en paz y soledad."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_13",
+      "hash": "5E705634EA3214FB",
+      "target": "Bien saben los Doce que de ambas cosas ha habido de sobra estos últimos cinco años, desde que golpeó la Calamidad. La devastación... fue inmensa."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_14",
+      "hash": "0C5ED0744C96810D",
+      "target": "Pero ahora los verdaderos hijos de Ul'dah trabajamos juntos, haciendo cuanto podemos por reconstruir lo que quedó en ruinas. Con el sudor de nuestra frente y el amor por nuestro hogar, hemos devuelto a Ul'dah la grandeza que hoy contempla."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_15",
+      "hash": "A6DC28CC4245E3C2",
+      "target": "También las vías que atraviesan esta Estación de Distribución nacieron de los nobles esfuerzos de muchísimas almas."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_16",
+      "hash": "087438B4EFE3C7E1",
+      "target": "Pero aún queda mucho por hacer. Las heridas que dejó la Calamidad son profundas. Quedan zonas aisladas, más allá de nuestras líneas de suministro, y hay lugares que todavía aguardan auxilio y restauración."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_17",
+      "hash": "283D17C1C436AE29",
+      "target": "Ul'dah necesita la ayuda de usted y de los suyos, amig<if(gnum4,a,o)>. De hecho, nunca ha sido nuestra necesidad <italic(1)>más<italic(0)> acuciante."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_PAPASHAN_000_18",
+      "hash": "CB86B7EC0D32E34B",
+      "target": "Lo que me lleva al grano, supongo. Creo que quizá tenga un trabajo a la altura de alguien de su talento."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_SEQ_00",
+      "hash": "F7FAB27AEB9FAFEE",
+      "target": "Momodi, de Quicksand, quiere presentarte a cierta persona en la Estación de Distribución de Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_SEQ_01",
+      "hash": "44D781F9F4BFF363",
+      "target": "Según Momodi, un Lalafell llamado Papashan quizá tenga algún trabajo para un aventurero en ciernes. Sal de la ciudad por la Puerta de Nald y viaja hacia el este. Encuentra a ese tal Papashan en la Estación de Distribución de Ul'dah y habla con él."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_SEQ_02",
+      "hash": "541321FFBF8BFE1D",
+      "target": "Papashan busca aventureros capaces que ayuden a reconstruir Ul'dah tras la gran ruina que trajo la Calamidad. Haz cuanto puedas por ayudar a las buenas gentes de Ul'dah en su empeño por devolver a su orgullosa ciudad su antigua gloria."
+    },
+    {
+      "gameKey": "quest/005/SubWil027_00595#TEXT_SUBWIL027_00595_TODO_00",
+      "hash": "F8861D01D2E7E39D",
+      "target": "Hablar con Papashan, en la Estación de Distribución de Ul'dah"
+    }
+  ]
+}

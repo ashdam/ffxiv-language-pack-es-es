@@ -1,0 +1,301 @@
+{
+  "conversation": "quest/048/KinGma103_04862",
+  "questName": "A City of Stairs",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_SEQ_00", "hash": "71AB7416F6A7B03A", "target": "Wuk Lamat está lista para comenzar la segunda mitad de vuestro recorrido por Tuliyollal." },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_00", "hash": "88DD57825C09BD36", "target": "Hablar con Wuk Lamat para que ella y Krile te acompañen" },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_01", "hash": "B5282F83B8EBC8BC", "target": "Ir a la Arteria de las Garras con Wuk Lamat y Krile y hablar con Krile en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_02", "hash": "F71FAB2551B7C19B", "target": "Ir al Barrio Resplandeciente con Wuk Lamat y Krile y hablar con Krile en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_03", "hash": "AE26AF8059EC6236", "target": "Ir al embarcadero de dirigibles con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_04", "hash": "1BB03135BAAC3FBA", "target": "Ir al Arco de Gulool Ja Ja con Wuk Lamat y Krile y hablar con Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_TODO_05", "hash": "75D9ADE599B5F9AE", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_001",
+      "hash": "499BE47D7945331B",
+      "target": "Los relatos de la creación suelen tener raíz en hechos reales. Con tanto parecido, ¿y si la leyenda de Tural se inspiró en el choque de Hydaelyn con Zodiark?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_010",
+      "hash": "1A5777FEB2487EC5",
+      "target": "Ahora vamos al oeste, hacia el Arco de Gulool Ja Ja. El embarcadero de globos nos pilla de camino."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_011",
+      "hash": "877A4BEF8FCE9C0A",
+      "target": "¿También tenéis globos? Desde luego, a Tuliyollal no le faltan formas de viajar."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_012",
+      "hash": "532A780A97352680",
+      "target": "¡Nos las apañamos! Bueno, si ya has visto bastante de esta zona, dímelo y seguimos."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_020",
+      "hash": "0BA8D3C8CC729367",
+      "target": "El Arco de Gulool Ja Ja está al otro lado de la ciudad, así que ¡avisa si ves algo que te llame la atención por el camino!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_Q1_000_000",
+      "hash": "5278D77D8C7EF084",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_A1_000_001",
+      "hash": "1626228319A04992",
+      "target": "Hablar."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_A1_000_002",
+      "hash": "1B3C9460169147C9",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_A1_000_003",
+      "hash": "F8337B9B3AE1819F",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_031",
+      "hash": "CE1DBEFFF0EE83DA",
+      "target": "Espero que no estés muy cansad<if(gnum4,a,o)>. ¡A Tuliyollal aún le quedan un montón de cosas que ver!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_032",
+      "hash": "30145C2034D7BE14",
+      "target": "Deberíamos hacer caso a Erenville e ir con calma siempre que podamos. Imagino que necesitaremos todas nuestras fuerzas para el rito."
+    },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_SYSTEM_000_033", "hash": "FCFC19271162D675", "target": "¿Seguro que quieres separarte de tus compañeras?" },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_034",
+      "hash": "2A3D220DD8A00D37",
+      "target": "¿Un asunto privado? ¡Pues te esperamos junto a la puerta de Xak Tural!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_035",
+      "hash": "77926592976E01CD",
+      "target": "Entendido. Nos vemos junto a la puerta de Xak Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_036",
+      "hash": "D2C39149B6E64121",
+      "target": "No sabía yo si ibas a volver... No es que estuviera preocupada, ojo. ¡Solo un poco inquieta, nada más!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_037",
+      "hash": "7312DB2753255558",
+      "target": "¿Ya has terminado lo que tenías que hacer? ¡Pues sigamos con la visita!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_038",
+      "hash": "7D2DE6882CE33356",
+      "target": "Todavía me cuesta concebir cómo se puede construir una ciudad entera en la ladera de una montaña."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_039",
+      "hash": "6FFD733D06A154BD",
+      "target": "Aquí había antes un templo Yok Huy. Lo levantaron los gigantes cuando empezaban el puente a Xak Tural, para aplacar al dios que duerme en la gran fosa oceánica."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_040",
+      "hash": "0EA4A5D256EE78E7",
+      "target": "Cuando los Yok Huy se marcharon, el templo quedó vacío durante siglos. Así que, al fundar su nación, papá vio una estructura que podía convertir en palacio, y justo en el centro de Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_041",
+      "hash": "4B07EEB899FE2639",
+      "target": "Reunió artesanos para la obra, ¡y las casas que se construyeron para ellos mismos fueron el cimiento de la ciudad que ves hoy!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_042",
+      "hash": "C41DD0693D5D9369",
+      "target": "Y hablando de casas, vamos a pasar por el Barrio Resplandeciente, el distrito residencial más grande de Tuliyollal. Subimos estas escaleras de aquí... ¡hasta arriba del todo!"
+    },
+    { "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_SYSTEM_000_043", "hash": "76A98E6F973AC4C0", "target": "Tus compañeras aún no han llegado. Asegúrate de que estén a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_045",
+      "hash": "783A4DBCFF0EDD20",
+      "target": "Las escaleras que llevan a la cima son bastante empinadas. Cuidado con caerte: ¡yo he estado a un paso de matarme más de una vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_046",
+      "hash": "2B62068D15853E00",
+      "target": "Así que esto fue un lugar de culto... Los Yok Huy parecen un pueblo fascinante, pero no he visto ninguno en la ciudad. Me pregunto cuándo tendremos ocasión de conocerlos."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_A2_000_001",
+      "hash": "9EED806FC9BC5D49",
+      "target": "<colortype(548)>Hablar del palacio.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_051",
+      "hash": "10C0D4722547B535",
+      "target": "El palacio de papá se llama Vollok Shoonsa, que viene a significar “entereza invencible”."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_052",
+      "hash": "6DE493D1161CA9B1",
+      "target": "Seguro que quieres verlo de cerca, pero volveremos aquí más adelante. Sigamos por ahora."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_053",
+      "hash": "C4F5B922263DEA53",
+      "target": "La escala de este sitio es increíble. Me pregunto qué representará esa talla de arriba..."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_054",
+      "hash": "FFB5F1E84F28A5D0",
+      "target": "Así que este es el Barrio Resplandeciente. ¿Qué clase de gente vive aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_055",
+      "hash": "C0F24E7F2D4A9A25",
+      "target": "Uy, tenemos vecinos de todos los clanes de Yok Tural: Mamool Ja, Xbr'aal, Pelupelu, Moblin, Hanuhanu..."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_056",
+      "hash": "7147592A9C7032C8",
+      "target": "También hay Tonawawta, Hhetsarro y Shetona que bajaron al sur desde sus tierras ancestrales de Xak Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_057",
+      "hash": "0FF98973C798994C",
+      "target": "En el fondo, es una reunión de gente venida de cada rincón de Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_058",
+      "hash": "83A862F538B8A4BE",
+      "target": "Un fiel reflejo del carácter diverso de Tuliyollal... Los adornos de cada edificio suman a esa estética cultural tan ecléctica. ¡Es todo precioso!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_059",
+      "hash": "57B6971E6602EDAE",
+      "target": "¡Me alegra que lo veas así! Venga, seguimos escaleras abajo."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_060",
+      "hash": "F7BD2297995E04B5",
+      "target": "Puede que oigas llamar “Tonawawta” a los Hyur de Tural: es uno de nuestros clanes principales. Y Erenville pertenece a un clan Viera llamado “Shetona”."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_061",
+      "hash": "5E2A41D8D851941D",
+      "target": "Basta con ver a los niños jugando para hacerse una idea de lo tranquilo que debe de ser esto."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_A3_000_001",
+      "hash": "17F0ACB2BDE837F0",
+      "target": "<colortype(548)>Hablar del tambor gigante.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_071",
+      "hash": "AFD2432B7A1773B3",
+      "target": "Ese tambor enorme de ahí se llama el Tambor del Alba. Lo tocan en ocasiones solemnes, como al honrar el regreso de la Legión del Alba de una misión peligrosa."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_072",
+      "hash": "E41EC6E4FCFE0625",
+      "target": "Una vez lo golpeé con mi hacha y le rajé el parche. ¡Menuda bronca me cayó, te lo digo yo! Creo que fue la vez que papá me tuvo colgada del tobillo boca abajo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_073",
+      "hash": "767D3D61101C7786",
+      "target": "Nunca había visto un tambor tan enorme. ¿Con qué se golpea siquiera un instrumento así?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_074",
+      "hash": "A4840B0B746D6058",
+      "target": "¡Y aquí están los globos! ¿A que no están mal?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_075",
+      "hash": "FCF0FA86856AFC50",
+      "target": "Tengo entendido que otras naciones surcan el cielo con aeronaves, pero globos solo los encontrarás en Tuliyollal."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_076",
+      "hash": "8D232D43D7391086",
+      "target": "Los tenemos por el mismo motivo que las eteritas. Koana trajo los planos de Sharlayan, a papá le parecieron fantásticos y encargó construirlos. Hará unos tres años."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_077",
+      "hash": "E5B7C1EAD09FB532",
+      "target": "Desde entonces hemos añadido vuelos a otros asentamientos. Comerciar con las comunidades de frontera nunca ha sido tan fácil."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_078",
+      "hash": "3E609283749A2704",
+      "target": "Pero ya está bien de globos. ¡Nos espera el Arco de Gulool Ja Ja!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_079",
+      "hash": "8C437EA4931C5D3B",
+      "target": "Los globos están muy bien, pero volar por los aires no es lo mío. No es que me dé miedo, claro, es solo que me parece... antinatural."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_100_079",
+      "hash": "DB2C3EB4ECC135EB",
+      "target": "Hablar de globos me recuerda a los Ixal y sus naves voladoras. Pero mientras que sus diseños usan varias bolsas, parece que los aparatos turalíes se elevan con una sola envoltura grande."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_080",
+      "hash": "7D5B0DC2283565A0",
+      "target": "Aquí lo tienes: el Arco de Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_081",
+      "hash": "F2CF01CA951BC98B",
+      "target": "Cuando los gigantes seguían aquí se lo conocía como la puerta de Yok Tural. Pero al fundar papá Tuliyollal, todos empezaron a usar su nombre actual en honor a su gran hazaña."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_082",
+      "hash": "BDD88B6DD593E431",
+      "target": "Al otro lado de esta puerta está Kozama'uka, los humedales al sur de la ciudad. Según lo que nos pida el rito de sucesión, puede que acabemos yendo hacia allá."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_083",
+      "hash": "E9AC30D56ED036FD",
+      "target": "Kozama'uka... Solo el nombre ya intriga."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_100_083",
+      "hash": "F567F1D50CBE0881",
+      "target": "Por cierto, ¿qué eran esos animales peludos que hemos pasado antes?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_084",
+      "hash": "19D6E86F964E13A8",
+      "target": "Ah... Esas son alpacas. Bestias temibles de cuatro patas."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_085",
+      "hash": "EE368F3FD194CF06",
+      "target": "¿Temibles? A mí me parecieron bastante apacibles..."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_100_086",
+      "hash": "9F19EDEDB69BF183",
+      "target": "Ya lo aprenderás, Krile. Ya lo aprenderás..."
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_086",
+      "hash": "FD19CEACB2344F54",
+      "target": "Pero olvida las alpacas: tengo algo mucho más importante que enseñarte. ¡Vamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_090",
+      "hash": "58C6AA772F245632",
+      "target": "¿Son estas columnas lo que Wuk Lamat quería enseñarnos?"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_WUKLAMAT_000_100",
+      "hash": "C7902A964E6F3ABB",
+      "target": "¡Si queréis conocer la historia de Tuliyollal, no busquéis más!"
+    },
+    {
+      "gameKey": "quest/048/KinGma103_04862#TEXT_KINGMA103_04862_KRILE_000_101",
+      "hash": "F9A50DC3B7DE3C6F",
+      "target": "¿Estas columnas de piedra, dices...?"
+    }
+  ]
+}

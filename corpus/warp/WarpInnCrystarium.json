@@ -1,0 +1,27 @@
+{
+  "conversation": "warp/WarpInnCrystarium",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_1", "hash": "09231A0A0C19E207", "target": "Le damos la bienvenida a los Pendants." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_2", "hash": "7FBD632F2E739533", "target": "Si ha venido en busca de alojamiento, lamento informarle de que en este momento no hay ninguna plaza libre." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_Q1_000_1", "hash": "E733DC54E1E199E6", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_A1_000_1", "hash": "435F8E410E7315EA", "target": "Preguntar por los Pendants." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_A1_000_2", "hash": "00F0BFC48FC935B9", "target": "Nada." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_3", "hash": "D325538D6788CE84", "target": "Los Pendants son solo una parte de las viviendas que hay aquí, en el Cristarium." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_4", "hash": "11D607D3C0CA44A7", "target": "Como puede ver, tenemos varias plantas, cada una con hileras e hileras de habitaciones individuales. No solo el exterior resulta bastante uniforme: los interiores son también casi idénticos entre sí." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_5", "hash": "A34873D264067448", "target": "Nos complace enormemente dar hogar a tantos residentes, pero hasta nosotros tenemos un límite y, por desgracia, ya lo hemos alcanzado." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_10", "hash": "F0259044D13BEDB9", "target": "Saludos. ¿Desea retirarse a sus aposentos?" },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_11", "hash": "CEC95DB4F8064E62", "target": "¡<if(gnum4,La Guerrera,El Guerrero)> de la Oscuridad ha regresado! ¿Desea hacer uso de sus aposentos tan ilustre huésped?" },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_12", "hash": "7E0C5702E3E32A35", "target": "Me alegra verle de vuelta, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Sus aposentos están tal como los dejó y seguirán siempre a su disposición." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_Q2_000_1", "hash": "CF3C810402DEA85D", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_A2_000_1", "hash": "18A34A26223CF450", "target": "Retirarse a la habitación." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_A2_000_2", "hash": "A9959A3DDFB07B6A", "target": "Preguntar por los Pendants." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_A2_000_3", "hash": "306CA565A121AC50", "target": "Nada." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_20", "hash": "7EE5E6753CFADC3A", "target": "Si necesita cualquier cosa, no dude en decírmelo." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_30", "hash": "12CA598D13BB09A7", "target": "Los Pendants son solo una parte de las viviendas que hay aquí, en el Cristarium." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_31", "hash": "267752ABAD5362BD", "target": "Como puede ver, tenemos varias plantas, cada una con hileras e hileras de habitaciones individuales. No solo el exterior resulta bastante uniforme: los interiores son también casi idénticos entre sí." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_32", "hash": "139FECF8B16A0D8C", "target": "Como ya no estamos inundados de Luz a todas horas, hemos tenido que dotar de iluminación a los residentes. Por lo visto, el regreso del ciclo de día y noche no está exento de complicaciones." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_33", "hash": "9D3BAD297CB30B70", "target": "¡Ay, todo el esfuerzo dedicado a la iluminación ha sido en vano! Como bien puede ver, lo último que necesitan los Pendants es más luz." },
+    { "gameKey": "warp/WarpInnCrystarium#TEXT_WARPINNCRYSTARIUM_GUIDEOFTHEPENDANTS_000_34", "hash": "D30C2670326D43A0", "target": "¡Gracias al empeño de la Media Cristalina, el Cristarium ya no tiene por qué sumirse en tinieblas al caer la noche! Un logro notable, estoy seguro de que convendrá conmigo." }
+  ]
+}

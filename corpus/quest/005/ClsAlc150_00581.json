@@ -1,0 +1,74 @@
+{
+  "conversation": "quest/005/ClsAlc150_00581",
+  "questName": "For Fair Love",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEQ_00",
+      "hash": "64D56504E180A278",
+      "target": "El maestro del gremio Severian parece estar perdiendo la batalla contra el agotamiento."
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEQ_01",
+      "hash": "A1A2D932C62CF536",
+      "target": "El maestro del gremio, con los ojos somnolientos, te ha asignado otra tarea. Crea una potion of intelligence y una potion of dexterity y llévaselas a Severian."
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEQ_02",
+      "hash": "67F43D78963C646E",
+      "target": "Has llevado las dos pociones al maestro del gremio, tal como te pidió. Severian alaba tu brillantez alquímica y te explica que los brebajes que has creado estarían fuera del alcance de la mayoría de los alquimistas novatos. A instancias suyas, debes llevar las pociones al Coliseo y entregárselas directamente a Ardara, la clienta que las espera."
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEQ_03",
+      "hash": "D84BA502AC1E08F8",
+      "target": "Has entregado las pociones a Ardara. La aficionada a los gladiadores parece aliviada de que fueras tú, y no el maestro del gremio, quien se encargó de preparar sus regalos para Franz el Hermoso. Regresa con Severian e infórmale de que tu tarea está completa."
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEQ_04",
+      "hash": "2D7CE260CF5BA282",
+      "target": "Despiertas al maestro del gremio de su sueño con tu informe. ¿Qué absorbente meta alquímica empuja a Severian a trabajar hasta la extenuación? Ahora, atento a no dejarte absorber demasiado por tus estudios, regresas a tu dominio de la alquimia.<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 20."
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_TODO_00",
+      "hash": "991E86C209B33618",
+      "target": "Entregar una potion of intelligence y una potion of dexterity a Severian"
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_TODO_01",
+      "hash": "18DD88457ECF4442",
+      "target": "Entregar la potion of intelligence y la potion of dexterity a Ardara en el Coliseo"
+    },
+    {
+      "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_TODO_02",
+      "hash": "C383A8C33CF65BEF",
+      "target": "Regresar con el maestro del gremio Severian"
+    },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_000", "hash": "F9DD298FAEA3B55B", "target": "\\<ronquido> ...luego mezcla el...\\<gruñido>...demasiado volátil... \\<resoplido>" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_001", "hash": "8B65581EA502C60F", "target": "...¿Eh─ Ah, eres tú. ¿Hm? ¿Aún no has aprendido a preparar pociones mientras duermes? Admito que los resultados no siempre son lo que uno soñó que serían." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_002", "hash": "2AC4EE2B3567A418", "target": "Y bien, ¿puedo deducir de tu presencia no solicitada que juzgas tus habilidades suficientemente afiladas y buscas más instrucción? ¿O simplemente obtienes un perverso placer de mi irritable reacción?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_003", "hash": "A22D7E20B278B167", "target": "Sea cual sea el caso, la alquimia es sin duda una disciplina para los curiosos... y para los de naturaleza curiosa." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_004", "hash": "FDAC9748B5ADBE01", "target": "Permíteme entonces asignarte otro de mis deb─otra tarea. Esta vez, necesito que crees una poción de inteligencia y una poción de destreza." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_005", "hash": "4E55CCFDDFE4C1F5", "target": "Me hallo en un punto crítico de mi investigación, así que prescindiré de largas explicaciones. Sin duda, a estas alturas de tu formación no necesitas que te enumere cada ojo de tritón y colmillo de murciélago que precisas, ¿verdad?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_010", "hash": "DB67BE57137BDB85", "target": "¿Están las pociones preparadas y embotelladas? No atenderé preguntas ni consultas hasta que esto esté hecho." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_020", "hash": "81F203CA180FF32E", "target": "Hm. Considerando mi falta de orientación, lo has hecho pasablemente bien." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_021", "hash": "89DCAA8852097B4B", "target": "Como habrás descubierto, el catalizador principal de una poción de inteligencia es la esencia primigenia de la vida, como la que se halla en la sangre de las bestias: coeurls, lobos y demás. El efecto disminuye si se deja coagular la sangre, pero pareces haber evitado ese error de novato." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_022", "hash": "B588CBD92D2370F3", "target": "Las pociones de destreza, por su parte, emplean colmillos de murciélago finamente molidos. La práctica de usar en forma de polvo colmillos, cuernos o defensas en la creación de mezclas alquímicas es una técnica oriental que me alegra ver que has adoptado de buen grado." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_023", "hash": "75C1D4FA181ADD51", "target": "Cualquiera de estos brebajes supera la destreza de la mayoría de alquimistas neófitos; ¡resulta hasta sorprendente que mis esporádicos arranques de instrucción estén dando tan buen resultado!" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_024", "hash": "CB5A0AA2CE1BBBAF", "target": "De hecho, para celebrar tu logro, lo más apropiado es que entregues estos triunfos en persona a la clienta del gremio. Yo, muy a mi pesar, me quedaré aquí, enfrascado en mi trabajo." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_025", "hash": "A5E697F44A4839B8", "target": "Tu entrega te llevará al Coliseo, donde deberás buscar a una dama de nombre... eh... ¿Cómo se llamaba...? ¡Ah, sí! Ardara. Y haz el favor de regresar a mí una vez completada la tarea." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_000", "hash": "F9A19EDEB452D958", "target": "Oooh, ¿es usted del Gremio de Alquimistas?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_001", "hash": "E399D038F0517C6C", "target": "¡Creí que mi pedido no llegaría nunca! Trae las pociones, ¿verdad?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_010", "hash": "F8E38DBDF4330088", "target": "¿Son... son estas las que pedí? No sé, es que... creía que los frascos serían más <italic(1)>ornamentados<italic(0)>. En fin, ¡tendré que hacer algo para embellecerlos antes de presentárselos a Franz el Hermoso!" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_011", "hash": "55A00C72A48288C1", "target": "Supongo que debería alegrarme de que fuera usted quien se encargó de mi pedido, y no el maestro del gremio." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_012", "hash": "12309C72794FB165", "target": "Quiero decir, una oye <italic(1)>historias<italic(0)> sobre el líder del Gremio de Alquimistas. Si le soy sincera, medio esperaba que los frascos contuvieran algún líquido inmundo, si es que contenían algo." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_013", "hash": "F213BF3C08786C64", "target": "Dicen que Severian tiene contactos poderosos y más gil del que puede contar, pero no hace más que consumirse en su mesa de trabajo realizando <italic(1)>experimentos<italic(0)>. ¿Qué clase de investigación podría ser tan importante como para pasar cada instante encadenado a sus artilugios alquímicos?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_014", "hash": "EC6106F6FA1238DA", "target": "¡Pero mírame, cotorreando cuando tengo regalos que preparar! ¡Ojalá mi querido Franz quede impresionado!" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_ARDARA_020", "hash": "2DC3ABEEACF5BF3F", "target": "Franz tiene bastantes admiradores. ¡Una debe recorrer un malm de más para destacar entre la multitud de espectadores del gladiador!" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_030", "hash": "E15456FFC2B51842", "target": "\\<ronquido>" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_031", "hash": "96AE49E41D2F02EC", "target": "\\<resoplido> ¿Eh? Ah, mi leal ayudante. ¿Hm? ¿«La tarea está hecha»? Estoy seguro de que no hice la menor mención de tarea alguna." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_032", "hash": "6F824C5A65C2696D", "target": "Pero ahora que lo mencionas, sí me parece recordar que dejé cierta minucia irritante en tus capaces manos. ¿Y qué ha ocurrido, entonces?" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_033", "hash": "360EDC52704451FA", "target": "Ya veo. Más preocupada por el recipiente que por el contenido, ¿eh? Bah, no espero mucho más de quienes no conocen íntimamente la verdadera belleza de la alquimia. Aunque, claro, empiezo a descubrir que ya no puedo contarte entre esa chusma." },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_034", "hash": "955FCE364EF465D5", "target": "Si continúas por esta senda de maestría, quizá llegue el día en que tú también te unas a mí en la... búsqueda del... supremo... secreto... de la alquimia... \\<ronquido>" },
+    { "gameKey": "quest/005/ClsAlc150_00581#TEXT_CLSALC150_00581_SEVERIAN_035", "hash": "B17574D475A7B363", "target": "...¿Eh─?! ¿Sí? ¡Ah, sí! Casi olvido el asunto del pago. Y ahora, más vale que ambos volvamos a nuestro trabajo." }
+  ]
+}

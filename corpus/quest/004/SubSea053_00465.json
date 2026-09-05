@@ -1,0 +1,187 @@
+{
+  "conversation": "quest/004/SubSea053_00465",
+  "questName": "Washed Up",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEQ_00",
+      "hash": "3FD6DA0A5D8D8ACA",
+      "target": "Staelwyrn está que trina: sus jornaleros no aparecen por ninguna parte."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEQ_01",
+      "hash": "62F286F14407DC52",
+      "target": "Staelwyrn tiene faena para su cuadrilla por la Granja Summerford, pero varios de ellos no aparecen. El viejo capitán pirata te pide que reúnas a los jornaleros holgazanes y los mandes de vuelta con él."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEQ_02",
+      "hash": "B8483CA69FF5BC90",
+      "target": "Has localizado a los cinco jornaleros y has hablado con todos. Vuelve a informar a Staelwyrn."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEQ_03",
+      "hash": "346BA44AD97C30CA",
+      "target": "Staelwyrn te informa de que todos los jornaleros han vuelto al trabajo salvo Sevrin. Le disgusta, pero no te hace responsable de los fallos de su propio hombre."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_TODO_00",
+      "hash": "2BCF67F06A8DB6CE",
+      "target": "Hablar con los jornaleros holgazanes"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_TODO_01",
+      "hash": "2F33EF7FDAFF24B3",
+      "target": "Informar a Staelwyrn"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SYSTEM_100_000",
+      "hash": "B5DC65C6A6DED98E",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_1",
+      "hash": "A775F13CA877CD8E",
+      "target": "¡Ese perezoso de mar de Sevrin y los suyos... nunca están cuando hay faena que hacer!"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_2",
+      "hash": "BB4D582C61025444",
+      "target": "Antes te contrataría a <italic(1)>ti<italic(0)> con tal de que las cosas se hagan, pero entonces esos bribones nunca aprenderían."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_3",
+      "hash": "C8A9EFBB57CC8AE4",
+      "target": "Reúnelos y hazles saber que Staelwyrn quiere hablar con ellos... ¡Y no aceptes un no por respuesta!"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEVRIN_000_11",
+      "hash": "90E57DBC3F53ED6E",
+      "target": "Sí, soy Sevrin. ¿Así que ahora eres <if(gnum4,la chica,el chico)> de los recados del viejo?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEVRIN_000_12",
+      "hash": "47F778DB0B194364",
+      "target": "Dile a mi <italic(1)>querido<italic(0)> y viejo capitán que no se mee en los calzones. Ya iré."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SEVRIN_000_13",
+      "hash": "9A173C3A53A99588",
+      "target": "Ah, y que quede claro: los ratas de tierra no me caen bien. Ve a buscar el chocobo en el que llegaste y lárgate por donde viniste."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_AYLMER_000_21",
+      "hash": "9E64B646BCF161E1",
+      "target": "Conque Staelwyrn te ha enviado. ¿Y qué crees tú que respondo a eso?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_Q1_000_1",
+      "hash": "0E85C6C21CB53DC0",
+      "target": "¿Qué dirías que responde?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A1_000_1",
+      "hash": "0E855EB095070D38",
+      "target": "El trabajo es para débiles y necios."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A1_000_2",
+      "hash": "76B385079338A06F",
+      "target": "Tengo simientes más picantes que sembrar."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_AYLMER_000_23",
+      "hash": "FED6446A07967049",
+      "target": "¡Y tanto! ¡No he llegado adonde estoy tragándome las impertinencias de cuatro jardineros de tres al cuarto! ...Pero supongo que podría ir a ver qué quiere para que me deje en paz."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_EYRIMHUS_000_31",
+      "hash": "D7FD8CEC8A305028",
+      "target": "¡Las hachas se hicieron para partir cráneos, no tocones! ¿Sabes qué hacía yo en mis días de mar?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_Q2_000_1",
+      "hash": "021FDF74C2ABE4B9",
+      "target": "¿Qué hacía en sus días de marinero?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A2_000_1",
+      "hash": "065C460A2C6AC3F6",
+      "target": "Escaramuzas."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A2_000_2",
+      "hash": "B376B85361BFE53A",
+      "target": "Matanza sin cuartel."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_EYRIMHUS_000_33",
+      "hash": "A5B9E86C7C444E9B",
+      "target": "¡Te lo juego por <if(gnum4,tus pechos,tus barbas)> que sí, <if(gnum4,muchacha,muchacho)>! Ay, <italic(1)>aquellos<italic(0)> sí que eran buenos tiempos... \\<suspiro> Supongo que ahora tendré que conformarme con echarle el hacha a los árboles."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SOZAIRARZAI_000_41",
+      "hash": "68179476BE50B868",
+      "target": "\\<quejido> ¿Cómo voy a trabajar con el estómago vacío? Venga, adivina qué he desayunado."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_Q3_000_1",
+      "hash": "05CBE77D5B2DD04D",
+      "target": "¿Qué desayunó?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A3_000_1",
+      "hash": "9FC45B7EC820C9DF",
+      "target": "Colines."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A3_000_2",
+      "hash": "0CDF4D00FFB218AA",
+      "target": "Atún ceniciento."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_SOZAIRARZAI_000_43",
+      "hash": "412217203E1E9454",
+      "target": "¿Qu─ ¡Dioses! ¿Cómo lo sabes? Es mi aliento, ¿verdad? Seguramente huele tan a madera como sabía la comida... Pero ya sé a qué has venido. \\<suspiro> Bien que me metería algo de comida de verdad en el cuerpo, pero no soy de rechazar una llamada del capitán."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_WAUTER_000_51",
+      "hash": "B34FB52E3415828C",
+      "target": "¿Trabajar? ¡Ja! No puedo trabajar con las manos ocupadas sosteniendo esta jarra. ¿Sabes qué? Me jugaría mi último gil a que no adivinas qué estoy bebiendo."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_Q4_000_1",
+      "hash": "8E6DB2ECA8035D2F",
+      "target": "¿Qué crees que hay en su jarra?"
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A4_000_1",
+      "hash": "50B5E7757A1BF1F4",
+      "target": "Agua matarratas."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_A4_000_2",
+      "hash": "2331E498C0A7950B",
+      "target": "Vino matarratas."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_WAUTER_000_53",
+      "hash": "5616AD9C5306E21B",
+      "target": "Bueno, en lo de “matarratas” aciertas. Supongo que <italic(1)>igual<italic(0)> valdría la pena pasarme un día con las tareas de Staelwyrn si eso me permite catar un buen grog."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_61",
+      "hash": "648823ED649CCE2A",
+      "target": "Sigues impresionándome, <if(gnum4,muchacha,muchacho)>. Todos menos Sevrin están localizados."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_62",
+      "hash": "25E7BEE21E18AB8E",
+      "target": "No es culpa tuya que se escabullera. Yo mismo he dejado escurrirse a ese gusano entre los dedos más veces de las que puedo contar."
+    },
+    {
+      "gameKey": "quest/004/SubSea053_00465#TEXT_SUBSEA053_00465_STAELWYRN_000_63",
+      "hash": "E06BC1794C85D77F",
+      "target": "Pero descuida: la próxima vez que lo vea, lo plantaré de lleno en el barro, que es donde deben estar los gusanos como él."
+    }
+  ]
+}

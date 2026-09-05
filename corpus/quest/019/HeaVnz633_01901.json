@@ -1,0 +1,29 @@
+{
+  "conversation": "quest/019/HeaVnz633_01901",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SEQ_00", "hash": "690D5FAA0332293E", "target": "La dama Laniaitte aguarda algo con inquietud." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SEQ_01", "hash": "146D43FB2DA4D68E", "target": "La dama Laniaitte te cuenta que se envió a una pequeña unidad a reconocer Ok' Gundu, pero que aún no ha dado parte. Temiendo por su seguridad, te pide que registres la zona y averigües qué ha retrasado su regreso." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SEQ_02", "hash": "0278E3B0A60B195E", "target": "Te encuentras con tres caballeros extraviados entre las ruinas de un viejo edificio, pero, al acercarte, descubres también al Vanu que los asaltó. Derrota al Vanu y pon a salvo a los hombres de la dama Laniaitte." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SEQ_03", "hash": "142A9DE74323A5D7", "target": "Derrotas al Vanu y los caballeros parecen estar de una pieza. Informa a la dama Laniaitte de lo sucedido." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SEQ_04", "hash": "3A4363AB23BE0EBB", "target": "La dama Laniaitte se tranquiliza al saber que sus caballeros están a salvo. Según cuenta, las ruinas donde encontraste a sus caballeros fueron en su día el hogar de la tribu Gundu, hasta que la sometieron los Vundu." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_TODO_00", "hash": "C2A3BA683A7ED8D9", "target": "Buscar a los caballeros desaparecidos" },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_TODO_01", "hash": "BCF04B44FDF09855", "target": "Hablar con los caballeros" },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_TODO_02", "hash": "A3E78CEA3FDBA8E0", "target": "Informar a Laniaitte" },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_000_000", "hash": "CA77C20719D15087", "target": "Envié a tres de mis hombres a inspeccionar la zona de Ok' Gundu <if([gnum11<12],<if([gnum11<4],esta misma tarde,anoche)>,<if([gnum11<17],esta mañana temprano,esta misma tarde)>)>, y aún no he tenido noticias de ellos. Una revisión rutinaria no debería haber llevado tanto." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_000_001", "hash": "D34169A28CC819FD", "target": "<split(<string(gstr1)>, ,1)>, ¿puedo pedirle que se dirija a este punto de su mapa y vea qué los ha retrasado? Si se han metido en algún apuro, me quedaría más tranquila sabiendo que está usted allí para ayudarlos." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_100_001", "hash": "8638029F7C63DEFC", "target": "Me temo que algo les ha ocurrido, pero quisiera estar segura. Le ruego que viaje a Ok' Gundu y vea qué ha sido de mis hombres. He marcado el lugar en su mapa." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERA01901_000_010", "hash": "D6BFC32ABE7BEC1B", "target": "Los Vanu, ellos... Salieron de la nada..." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERB01901_000_011", "hash": "CB69BE118D93F103", "target": "Creíamos que el edificio estaba abandonado... Nos confiamos demasiado..." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERC01901_000_012", "hash": "BC350055720C2C6E", "target": "¿Has venido a ayudarnos?" },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERA01901_000_013", "hash": "A5CF0842FB9EC674", "target": "Jamás esperamos encontrar a Vanu escondidos en un edificio ruinoso y desolado. Gracias a Halone que estabas aquí para ayudarnos." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERB01901_000_014", "hash": "A139EF085992656C", "target": "Estaba seguro de que la habíamos palmado." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERC01901_000_015", "hash": "E48BC4A61E596A09", "target": "No tengo heridas graves, aunque podría haber sido peor de no ser por ti." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERA01901_100_013", "hash": "C49D1826EBCB1317", "target": "No hace falta que te preocupes por nosotros. Volveremos al campamento en breve." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERB01901_100_014", "hash": "9570C5446452937B", "target": "Gracias, aventurero. Volveremos al campamento en cuanto podamos." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_SOLDIERC01901_100_015", "hash": "1B0A2C4D94969CC8", "target": "Ojalá hubiéramos tenido más cuidado... Te debo la vida, aventurero." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_000_020", "hash": "9A316D3ABF3FAA49", "target": "Ha vuelto sano y salvo, gracias al cielo. ¿Encontró a mis hombres? ¿Estaban ilesos?" },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_000_021", "hash": "844200F0695237E0", "target": "Ay, gracias al cielo. Que los Vanu se refugiaran allí es de lo más extraño. En su día fue el hogar de la tribu Gundu. Eran un pueblo amante de la paz, y durante un tiempo mantuvimos buenas relaciones." },
+    { "gameKey": "quest/019/HeaVnz633_01901#TEXT_HEAVNZ633_01901_LANIAITTE_000_022", "hash": "3FD6FFC4719CEA79", "target": "Es decir, hasta que atacaron los Vundu. Ahora los Gundu viven bajo su yugo. Pero no nos detengamos en tristes recuerdos de ayer. Hoy ha salvado a mis hombres y, por ello, tiene mi gratitud." }
+  ]
+}

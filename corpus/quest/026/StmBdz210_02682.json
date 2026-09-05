@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/026/StmBdz210_02682",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_SEQ_00", "hash": "199B485C861C5454", "target": "El confederado se vuelve hacia ti con un brillo de desconcierto en la mirada." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_TODO_00", "hash": "8EBDF29DE1C2577E", "target": "Observar el objetivo desde el mirador" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_TODO_01", "hash": "C10C120FDC6FB7DB", "target": "Informar de lo que viste al confederado perplejo" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_TODO_02", "hash": "3A6E453B4C15CD4C", "target": "Rescatar a la muchacha de pelo zafiro" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_TODO_03", "hash": "F4EBF6A97EB62CB4", "target": "Auxiliar a la muchacha de pelo zafiro" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_TODO_04", "hash": "45DF95D4C04EA094", "target": "Informar al confederado perplejo" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_000", "hash": "8331CE16961DCD52", "target": "Eh, tú. ¿Tienes un momento?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_001", "hash": "FBF4786E674F6F7A", "target": "Creo que he visto a una muchacha desplomada en la playa, pero necesito asegurarme. Cuando pasas horas aquí arriba, la vista empieza a jugarte malas pasadas. Toma, coge este catalejo. Apúntalo en esa dirección y dime si tú también la ves." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_005", "hash": "4BBD9220CCD809E7", "target": "Echa un vistazo a la costa de allí con el catalejo. ¿Ves a una muchacha inconsciente?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_SYSTEM_000_006", "hash": "951123ABCF4FEA47", "target": "Busca a la muchacha inconsciente a tu alrededor. Puedes mover la cámara y acercar o alejar el zoom. Fija la figura humanoide de la playa e inspecciónala con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_SYSTEM_000_010", "hash": "C42F09E882ABC3C6", "target": "Con el catalejo divisas a una muchacha de pelo zafiro. Parece estar inconsciente." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_020", "hash": "19841A546A435968", "target": "Entonces, ¿no son imaginaciones mías?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_021", "hash": "D65980018A57B96E", "target": "¿Crees que podrías hacerme otro favor e ir a ver cómo está?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_022", "hash": "34E9945EAF943092", "target": "Me temo que yo no puedo ir por si está... bueno, ya sabes... m-muerta. ¡Bah! ¡Solo de pensarlo me dan escalofríos!" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_023", "hash": "BF86979E27E3155D", "target": "Por favor, ¿puedes ir a ver si está bien? Yo me quedaré aquí, no vaya a ser que acabes teniendo que ocuparte de dos personas inconscientes en la playa." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_AOGAMI_000_040", "hash": "16812D3C986E571B", "target": "G-gracias, <if(gnum4,señora,señor)>. Me ha salvado la vida. Estaba recogiendo alimento del mar cuando de repente me atacaron unas shore jellyfish. Sus picaduras me dejaron paralizada y las corrientes me arrastraron hasta la orilla." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_AOGAMI_000_041", "hash": "30FE24B06EB2A809", "target": "Allá de donde vengo nos enseñan desde pequeños a evitar el contacto con desconocidos. Jamás nos desviaríamos de nuestro camino para rescatarlos. De no ser por su extraordinaria compasión, sin duda habría muerto en estas costas, lejos de mi hogar." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_AOGAMI_000_042", "hash": "7F06D2EEC2417C3A", "target": "Por mucho que me gustaría ofrecerle una recompensa por lo que ha hecho por mí, por desgracia no llevo nada de valor encima. Pero si nuestros caminos vuelven a cruzarse, le daré algo sin falta." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_042", "hash": "F24B4F9D56F069D5", "target": "Has vuelto. ¿E-estaba... viva?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_050", "hash": "4648AEFBC1793F8D", "target": "Os estuve observando a los dos desde lejos con el catalejo. ¡Alabados sean los kami! Parece que la muchacha seguía viva. ¿Te contó qué le había pasado?" },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_051", "hash": "86996A29EEAD5A19", "target": "¿Ah, sí? Las aguas nos traen un sinfín de cosas extrañas, incluidas personas. Aunque la mayoría ya están m-muertas cuando llegan hasta nosotros. Por eso estoy aquí arriba y no ahí abajo patrullando." },
+    { "gameKey": "quest/026/StmBdz210_02682#TEXT_STMBDZ210_02682_MAN02682_000_052", "hash": "BCD19DFF987D46DF", "target": "De no haber llegado cuando lo hiciste, me habría visto obligado a bajar a ocuparme yo mismo. Y para cuando hubiera reunido el valor, quizá ya habría sido tarde para ella. Toma esta bolsa de koban. Hoy no has salvado a una persona, sino a dos." }
+  ]
+}

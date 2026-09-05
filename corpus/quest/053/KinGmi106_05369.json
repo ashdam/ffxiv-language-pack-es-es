@@ -1,0 +1,1104 @@
+{
+  "conversation": "quest/053/KinGmi106_05369",
+  "questName": "A Calculated Evolution",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SEQ_00", "hash": "D735938A23317C29", "target": "Shale examina el lector de tarjetas." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_00", "hash": "3E2A4CB964C6D457", "target": "Buscar una Level 3 security card" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_01", "hash": "F41A4D487B5C1D77", "target": "Hablar con Shale" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_02", "hash": "5902FB14EDA051A2", "target": "Usar la Level 3 security card en el lector del despacho del director" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_03", "hash": "AE7A4F7D0CDF29F4", "target": "Hablar con Shale" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_04", "hash": "5DD44A57C44E05B7", "target": "Recabar información en el despacho del director" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_05", "hash": "14F35E6A68B32D03", "target": "Entregar la crumpled note a Shale" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_06", "hash": "43D16C9E12F1EC4A", "target": "Usar el terminal del director y seleccionar las contraseñas correctas" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_07", "hash": "3DEC0C0FD90459A8", "target": "Hablar con Shale" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_08", "hash": "8E93F26E634215F5", "target": "Hablar con Shale en la Trastienda" },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_100_020",
+      "hash": "0667B106E611089A",
+      "target": "Bien, voy a abrir esta puerta."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_020",
+      "hash": "22ACE9639CCDBA38",
+      "target": "Uf... Como la seda. Entremos a ver qué nos espera."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_021",
+      "hash": "63299F85255F9159",
+      "target": "Por todos los dioses, ¿eso no es...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_022",
+      "hash": "3F2FE98C802B3AC3",
+      "target": "¿¡La llave de la fusión interdimensional!?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_023",
+      "hash": "82ADB901A75F82EA",
+      "target": "Lo que hay en el monitor parece un esquema."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_024",
+      "hash": "46B9D80C7E89B2A8",
+      "target": "Y la han usado para fabricar otra llave. Pero ¿no le falta el fragmento de dentro, como el que tiene <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_025",
+      "hash": "D2FA8137588615D5",
+      "target": "Ah... ¡Puede que hayamos estado partiendo de un error!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_100_025",
+      "hash": "C3E989E9F13E7402",
+      "target": "La “llave” era en origen una reliquia Milalla. En cuanto ese tesoro cayó en sus manos, Preservación empezó a trabajar para dominar el poder de cruzar dimensiones."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_110_025",
+      "hash": "F77B029578915210",
+      "target": "Salvo el cristal, vemos que todos los componentes del receptáculo se fabricaron aquí. ¿Y qué nos dice eso...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q1_000_000",
+      "hash": "2C854BBE86E862AE",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A1_000_001",
+      "hash": "325F5C6D9082BB90",
+      "target": "El cristal mismo es la llave."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A1_000_002",
+      "hash": "CA6931F7F2BA88AE",
+      "target": "Esto es solo el aparato que fabricaron para controlarla."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_027",
+      "hash": "0F94E253AC7ADE1D",
+      "target": "Esa sería la conclusión lógica, sí. Es tal como me explicaron mis padres..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_028",
+      "hash": "25FF904FAFF533FC",
+      "target": "La llave sigue envuelta en misterio. Preservación la potenció con electrope, pero nunca llegó a comprender los principios que la sustentan."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_029",
+      "hash": "4100D150755E807F",
+      "target": "A día de hoy, nadie entiende el funcionamiento de la fusión interdimensional: ni quién dotó a la llave de su poder, ni cuándo lo hizo, ni por qué."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_030",
+      "hash": "89AB8BF8ED8FDF43",
+      "target": "Ahora tiene sentido. Calyx puede rastrear la llave porque su receptáculo lo fabricó Preservación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_031",
+      "hash": "BE810038F1AAA3C5",
+      "target": "Creo que en esta sala hay mucho que aprender. En la próxima visita tendré que pedirle ayuda a Y'shtola para una investigación a fondo."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_032",
+      "hash": "6D3E70F47764FC2C",
+      "target": "A mí también me pican muchas cosas, pero lo prioritario es localizar a Calyx. Ojalá haya aquí una tarjeta de seguridad que dé acceso al despacho del director..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_033",
+      "hash": "94AFD9515F88FC5B",
+      "target": "La investigación que se hacía en este laboratorio parece haber sido muy confidencial. Parte del personal debía de pertenecer a los altos cargos de la organización, y eso implica un nivel de acceso mayor."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_034",
+      "hash": "8BE95E8C844DE2F5",
+      "target": "Repartámonos y busquemos las tarjetas que dejaran atrás. Recordad: cualquier cosa por debajo del nivel 3 no nos sirve."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_035",
+      "hash": "6FD53C522A0F3358",
+      "target": "Yo miraré en estos cajones. Alguno de nosotros dará con algo, ¡estoy segura!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_040",
+      "hash": "FBC848410361DEEA",
+      "target": "A lo mejor alguien se dejó una tarjeta en alguna estantería..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_045",
+      "hash": "463F9AA3FFA0C9C8",
+      "target": "No dejo de albergar la esperanza de encontrar aquí algún rastro de mis padres, aun sabiendo que no lo hay."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_055",
+      "hash": "B18C026B7D094919",
+      "target": "Si esas cámaras son indicio de algo, este laboratorio estaba bajo vigilancia constante. Revisaré las grabaciones para ver dónde dejaba la gente sus tarjetas. Quizá tengamos suerte."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_060",
+      "hash": "117AFD938B660D26",
+      "target": "¿Por qué fabricaban tantos receptáculos? ¿Es que los otros no funcionaban bien?"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_070", "hash": "5D409F48BFEDBD4F", "target": "¡Encuentras una security card en el cajón del armario!" },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_071",
+      "hash": "FD6E8E811F98C83F",
+      "target": "Ah, ¿acabas de encontrar una tarjeta de seguridad? Vaya golpe de suerte."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_072",
+      "hash": "00DA2E54A5431C7A",
+      "target": "¡Que Shale la examine, por si acaso!"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_074", "hash": "4A56B6C577956281", "target": "Esta única caja de almacenaje está llena de carpetas de documentos y otros objetos varios... ninguno de los cuales es una security card." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_075", "hash": "734E7457642D0E36", "target": "Esta estantería de aspecto robusto sostiene una caja de almacenaje y unos barriles sellados. Ni rastro de security cards..." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_080",
+      "hash": "440EF4F9C96DC8A1",
+      "target": "Vaya, vaya, si es justo lo que necesitábamos. Buen trabajo, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_081",
+      "hash": "A803BC9C78A2F234",
+      "target": "¡Ah, un nivel 3! ¡Con eso deberíamos entrar en el despacho del director!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_082",
+      "hash": "7E032C7834D451F2",
+      "target": "Por cierto, Shale, ¿qué era lo que esperabas encontrar ahí dentro?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_100_082",
+      "hash": "DC6CCFC752A4DAB0",
+      "target": "Decías que “cierto aparato” iba a ayudarnos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_083",
+      "hash": "296A2A6A05AE7100",
+      "target": "Cierto, no me he explicado bien, ¿verdad? Busco un relé de datos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_100_083",
+      "hash": "238E5E730AC2F1A0",
+      "target": "Después de descubrir este complejo supuestamente “abandonado”, hice una investigación somera y detecté una conexión con una red exterior."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_110_083",
+      "hash": "6A99DEA1BBEA4FE3",
+      "target": "Al rastrear el enrutado de los datos, confirmé tráfico procedente de una red de cámaras de seguridad de Everkeep."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_084",
+      "hash": "E66F847DDDBB108D",
+      "target": "Dado que Calyx siempre nos lleva un paso de ventaja, hay que suponer que se ha hecho en silencio con el control del sistema de vigilancia de la ciudad y lo usa para seguir nuestros movimientos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_085",
+      "hash": "9A7F1F7BB3C837ED",
+      "target": "Para vigilar qué planeas tú, que llevas la llave."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_086",
+      "hash": "7887E6C6B879A6A8",
+      "target": "Pero como Calyx es el destinatario último de esas transmisiones, el flujo de datos es como un río que podemos remontar hasta él."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_087",
+      "hash": "1E91C74741FB1C6A",
+      "target": "Por eso necesito el relé de datos. Si consigo analizar el aparato y ver adónde redirige todo ese tráfico de vigilancia..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_088",
+      "hash": "B5444847D3C0D512",
+      "target": "...Entonces podrás señalar la posición exacta de Calyx."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_089",
+      "hash": "8D646091FCCDFE10",
+      "target": "Dicho esto, no ha hecho nada por frenar nuestro avance. Lo que me hace pensar que quizá voy por muy mal camino."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_090",
+      "hash": "71A7380C577B96BB",
+      "target": "A lo mejor la razón de que no nos detenga... es que no puede."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_100_090",
+      "hash": "C26D504A6E9748DA",
+      "target": "Allá en el viejo castillo, Calyx dijo que estaba midiendo la fuerza de <split(<string(gstr1)>, ,1)>. ¿Qué puede llegar a idear que sea más fuerte que <if(gnum4,ella,él)>?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_091",
+      "hash": "83B53DC8651D32A3",
+      "target": "Ah, hablando de cámaras, hay otra cosa que quería mencionar. He encontrado indicios de que alguien desactivó a propósito la vigilancia de esta sala."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_092",
+      "hash": "E5D5D00AAE5E5B7B",
+      "target": "La grabación más reciente también fue borrada de forma burda. Aun así he podido recuperar los datos, si queréis verla..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_093",
+      "hash": "9375ACE2CBD9774C",
+      "target": "Empiezo la función, entonces."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_094",
+      "hash": "B9B1BA3C7E003E39",
+      "target": "Solo quería marcharse y él la <italic(1)>ejecutó<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_095",
+      "hash": "89EC4BDE131856F4",
+      "target": "He cotejado las imágenes con los datos del personal: el hombre que apretó el gatillo era el propio director Demetrius. Cuanto he encontrado sobre él apunta a una devoción enfermiza por el “maestro Calyx”."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_096",
+      "hash": "E3B2AEDDE6A97662",
+      "target": "Las cámaras de esta sala llevan sin funcionar desde aquel incidente. Como la grabación fue borrada, solo puedo suponer que intentaba ocultar su macabra acción a los demás investigadores..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_097",
+      "hash": "D1CC6B2F70B3E7EB",
+      "target": "No me sorprende, por cómo describieron mis padres su deserción del instituto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_099",
+      "hash": "5C7F92D512842C8B",
+      "target": "Contaron que me hicieron cruzar un portal a toda prisa mientras los agentes de Preservación les pisaban los talones."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_100",
+      "hash": "DF9F98025CE3D67F",
+      "target": "No me atreví a preguntar qué fue de ellos después. Pero si resulta que sus perseguidores los atraparon..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q2_000_000",
+      "hash": "FEAA761778749527",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A2_000_001",
+      "hash": "EA51B55C69E14769",
+      "target": "Seguro que consiguieron escapar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A2_000_002",
+      "hash": "09A909EBC3C4AED1",
+      "target": "No se arrepintieron de lo que hicieron."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_102",
+      "hash": "BD1D0451E4DC07AA",
+      "target": "Quiero creer que sí. Y aunque no fuera así, espero que al menos disfrutaran del tiempo que tuvieron como Perpetuos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_103",
+      "hash": "62617F7DEC386B34",
+      "target": "Cierto, el Eco... Saber que los viste tal como eran hace que tus palabras me consuelen mucho."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_105",
+      "hash": "ACC4DBC7F9940557",
+      "target": "Ay, Krile..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_106",
+      "hash": "58F6418BB541CF14",
+      "target": "No te preocupes, Sphene. Gracias al refugio de la Memoria Viva, al menos pude conocer a mis padres y saber en qué creían."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_107",
+      "hash": "67D1D0F054F7914E",
+      "target": "Con eso... me basta para seguir adelante."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_108",
+      "hash": "FECA218E2E57526F",
+      "target": "Ni siquiera ahora sabemos cómo se desarrolló el enfrentamiento entre tus padres y Preservación."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_109",
+      "hash": "2BD3DB555637F451",
+      "target": "Pero lo que sí sabemos es que tu padre y tu madre borraron con astucia hasta el último rastro de sus movimientos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_110",
+      "hash": "339101D03EAAABE6",
+      "target": "Se aseguraron de que nadie pudiera cruzar al Origen ni amenazar la seguridad de su hija."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_111",
+      "hash": "69BE474BDCB6D50F",
+      "target": "...Bien, sigamos adelante. Esta historia que hay tras la llave merece un final a su altura."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_112",
+      "hash": "FDDF353524B03763",
+      "target": "¡Al despacho del director!"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_140", "hash": "77FB328E42E83442", "target": "Un lector. Aguarda en silencio una security card con el nivel de autorización adecuado..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_141", "hash": "4F1FDE8B92DE1E26", "target": "Acercas la Level 3 security card al lector." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_142",
+      "hash": "A1B9E647ED73071F",
+      "target": "¡Ahí lo tienes! ¡Vamos dentro!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_143",
+      "hash": "EA079557210E717D",
+      "target": "Ahora, a encontrar ese relé de datos... Y no os cortéis: avisad si veis algo raro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_144",
+      "hash": "F0EEF3C14A378A4E",
+      "target": "<split(<string(gstr1)>, ,1)>, ven conmigo. Puede que necesite esa tarjeta de seguridad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_145",
+      "hash": "ECB8EEAC24476A35",
+      "target": "Esto es un informe sobre reducir personas a éter y cuánta energía puede aprovecharse por individuo..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_150",
+      "hash": "3FED852CF1A4B1B7",
+      "target": "¿Eh? ¡Ah, perdona! Estaba pensando en la llave..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_155",
+      "hash": "8934B1751A2810C8",
+      "target": "Vaya, este “director Demetrius” era muy suyo decorando el despacho. Tenemos incienso, jarrones y... ¿una especie de expositor de gemas?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_160",
+      "hash": "967BA80577F42A37",
+      "target": "Algo raro, algo raro..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_170",
+      "hash": "4852D96D15A4D0CA",
+      "target": "Maldita sea. Este terminal no está conectado a ninguna red exterior, así que no puede ser el relé de datos que busco."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_171",
+      "hash": "9D26831DE5755FFE",
+      "target": "Además, este despacho es más pequeño de lo que indicaba el mapa."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_172",
+      "hash": "63E61A23126E93A4",
+      "target": "Estoy segura de que esta es la sala correcta. ¿Qué se me escapa...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_173",
+      "hash": "A1224B1CC351E8D2",
+      "target": "Perdona, <split(<string(gstr1)>, ,1)>, ¿podríais los demás y tú registrar el despacho en busca de pistas para este exasperante rompecabezas?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_175",
+      "hash": "37675A82242D3802",
+      "target": "Avísame si encontráis algo. Yo revisaré mi trabajo dos y tres veces por si me he equivocado..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_176",
+      "hash": "1AD6B59D752C9A2E",
+      "target": "¿Shale dice que esta sala es demasiado pequeña? ¿Cómo puede ser...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_177",
+      "hash": "618AB920000C1E0A",
+      "target": "Esta pared tiene algo raro─juraría que ha parpadeado un instante. Ahora parece bien sólida..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_178",
+      "hash": "F023B04AF8E37C2E",
+      "target": "Mmm. ¿Este expositor hará algo más...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_179",
+      "hash": "B8AAF715743331C4",
+      "target": "En estos cajones solo hay libros grandes y pesados. Yo los habría llenado de chuches."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_100_179",
+      "hash": "39B6B626903ABF12",
+      "target": "...¡Ah, pero a lo mejor los libros esconden algo! ¡Voy a mirar!"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_180", "hash": "63FB81B687CBDB6F", "target": "Encuentras una crumpled note encajada entre las carpetas." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_181", "hash": "A3AD298B6AABBD37", "target": "<italic(1)>Acceso al montacargas de la sala secreta:<br>Requiere introducir las contraseñas simultáneamente en los terminales del <colortype(582)><edgecolortype(581)>primer laboratorio<edgecolortype(0)><colortype(0)>, el <colortype(582)><edgecolortype(581)>segundo laboratorio<edgecolortype(0)><colortype(0)> y el <colortype(582)><edgecolortype(581)>despacho del director<edgecolortype(0)><colortype(0)>.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_182", "hash": "241AC997FA71A30D", "target": "Quizá este hallazgo le interese a Shale..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_183", "hash": "8A2D7440D186F8AF", "target": "Tras años inactiva, la cafetera, ahora en marcha, ya ha iniciado un ciclo de autolimpieza. No parece tener otro propósito que preparar café, aunque está por ver cuándo podrá volver a hacerlo..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_184", "hash": "BEACC988858E6AED", "target": "Puede que esta colección de celdas de almas perteneciera antaño al director. Parecen estar vacías..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_185", "hash": "95FA382225E3097A", "target": "Entre otros efectos personales, encuentras lo que presumiblemente es la tableta de datos del director. Junto a la mesa hay una taquilla cerrada." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q3_000_000",
+      "hash": "4D12E0FD2F8B18FE",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_000_001",
+      "hash": "21C88FA6BC517D68",
+      "target": "Examinar la tableta de datos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_000_002",
+      "hash": "31127F56B3A6AF10",
+      "target": "Registrar la taquilla."
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_187", "hash": "277551A87C8555BC", "target": "Coges la tableta de datos y empiezas a hojear su contenido..." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q3_110_000",
+      "hash": "C6A7A34224D0A0EA",
+      "target": "¿Qué sección quieres leer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_110_001",
+      "hash": "9AD57B57B2540280",
+      "target": "Informes diarios."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_110_002",
+      "hash": "71B8774BCB3F7BB6",
+      "target": "Protocolos de apagado."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_110_003",
+      "hash": "DB211E4A9020BD0B",
+      "target": "Cancelar."
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_188", "hash": "53BD5F5BFA8C46ED", "target": "<italic(1)>Sin novedad. El misterio de la condición de activación de la llave sigue sin resolverse.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_189", "hash": "54C59A59A3628728", "target": "<italic(1)>Hoy la llave provocó una explosión. Verificado un portal interdimensional temporal. Se continúa intentando estabilizar las reacciones energéticas del núcleo.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_190", "hash": "02367784B66F26AD", "target": "<italic(1)>Trece investigadores sufrieron heridas mortales en la explosión. Las facultades de memoria de cuatro miembros del personal están lo bastante intactas para la conversión en Perpetuos. Los nueve restantes se destinan al procesamiento de recuperación de éter.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_191", "hash": "D590322D35279497", "target": "<italic(1)>Sin novedad. Rechazadas las dimisiones de dos investigadores Milalla.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_192", "hash": "AD509DA4299429F2", "target": "<italic(1)>Incidente grave. Detalles en el informe completo.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_193", "hash": "02F4C81C4429196F", "target": "<italic(1)>Esos dos ineptos Milalla rompieron con Preservación y huyeron con la llave. Aunque desde entonces se ha capturado y eliminado a los fugitivos, llegamos demasiado tarde para recuperar la reliquia.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_194", "hash": "1FB5A48854B08E37", "target": "<italic(1)>La única razón por la que conservamos nuestra carne fue para servir al maestro Calyx como instrumentos físicos con que llevar a cabo sus experimentos.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_195", "hash": "AA86158E7950A911", "target": "<italic(1)>Privados del objeto de nuestra investigación, nuestra existencia ya no sirve a ningún propósito. No me atrevo a imaginar la magnitud de su decepción conmigo.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_196", "hash": "A0CF54BE22BB60E4", "target": "<italic(1)>El complejo va a ser clausurado. A todo el personal se le reducirá el cuerpo a éter, que se destinará a nuevos experimentos.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_197", "hash": "0BFE97B94C0EC9A7", "target": "<italic(1)>Los datos de memoria se archivarán. Cualquier conversión en Perpetuos quedará a discreción del maestro Calyx. Si no nos considera aptos, entonces no merecemos la vida eterna.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_100_197", "hash": "31A05E95907279E1", "target": "<italic(1)>Todo el personal ha sido procesado. Una vez completados los protocolos de clausura, procederé con mi propia disolución corpórea.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_110_197", "hash": "77CCEF025D498385", "target": "<italic(1)>Mientras la llave permanezca en el mundo físico, debemos mantener este complejo en perfecto estado. Ya sea que se necesite para experimentos o para otra cosa, ha de estar listo para respaldar futuras operaciones en cualquier función que el maestro Calyx requiera.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_120_197", "hash": "313369FFC7449284", "target": "<italic(1)>Con ese fin, el equipamiento de la instalación se mantendrá en modo “estasis”. Además, un componente crucial para acceder a la sala secreta se guardará por separado para protegerse de entradas no autorizadas.<italic(0)>" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_198", "hash": "D666C5B0C0EB44D9", "target": "La puerta de la taquilla se abre con facilidad..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_199", "hash": "383E73ADF49CBA05", "target": "...No contiene nada digno de mención. Cierras la puerta de la taquilla sin hacer ruido." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_200", "hash": "1BB8E5699498A3DA", "target": "Has localizado la tableta de datos personal y la taquilla del director Demetrius. ¿Echar otro vistazo?" },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q3_100_000",
+      "hash": "326C9372CBA7F3AC",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_100_001",
+      "hash": "42B907F22E371D14",
+      "target": "Examinar la tableta de datos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_100_002",
+      "hash": "52BEAB0CF050D8EE",
+      "target": "Abrir la taquilla."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A3_100_003",
+      "hash": "1C73F8D9978E911E",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_210",
+      "hash": "C394AF83206C3E74",
+      "target": "¿Has encontrado algo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_211",
+      "hash": "B59E2D0E90DDB3D7",
+      "target": "Gracias. ¿Una nota traspapelada...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_212",
+      "hash": "2F3FCF688BBEF8C3",
+      "target": "Nada menos que con instrucciones para acceder a una sala restringida. Parece que hay que introducir una contraseña en tres terminales distintos a la vez."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_213",
+      "hash": "26A01ABF531D71F0",
+      "target": "En el mapa no había ninguna sala así marcada, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_100_214",
+      "hash": "9054767D73137E91",
+      "target": "No─una medida de precaución, sin duda. Y si hay contraseñas de por medio, imagino que el propio ascensor de acceso también está oculto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_214",
+      "hash": "22D96130604A22BC",
+      "target": "¿Oculto? ¿Con electrope, quieres decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_215",
+      "hash": "7576DDC3FE7A399E",
+      "target": "¡Ah! ¿¡Será esa pared!? ¡Me pareció rara cuando pasé por delante!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_216",
+      "hash": "CB2E41B86827970E",
+      "target": "¿Te acuerdas de lo que decía Cahciua, Shale? “Nunca te fíes de una superficie de electrope.”"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q4_000_000",
+      "hash": "445A960CD154B8EC",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A4_000_001",
+      "hash": "6C4B5BF63861DEFB",
+      "target": "El electrope no siempre es lo que parece."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A4_000_002",
+      "hash": "6F04DCF4C8C5AC44",
+      "target": "¡Se puede atravesar el electrope!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_218",
+      "hash": "D392B61572CA0CA7",
+      "target": "¡Ah, claro! Con electrope es como se cambia el aspecto de todos los suelos y paredes de Solución Nueve, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_219",
+      "hash": "AF2CF4041B8CDAAF",
+      "target": "¿¡De verdad!? En mi época no tenía esa propiedad..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_220",
+      "hash": "266523B8BA1F3B9F",
+      "target": "Ah, creo que <split(<string(gstr1)>, ,1)> se está divirtiendo un poco. Lo que queremos decir es que el electrope puede proyectar una apariencia falsa."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_100_220",
+      "hash": "46BD5F98AA4057A1",
+      "target": "En cuyo caso, no debería costar mucho desactivarla..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_110_220",
+      "hash": "2C185502AFEC4E20",
+      "target": "¡Otra puerta!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_120_220",
+      "hash": "D10EE192C5964F45",
+      "target": "He conseguido desactivar la proyección, pero la cerradura es otro cantar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_130_220",
+      "hash": "C580DCA76EEDB7A6",
+      "target": "¿No explicaba esa nota el protocolo de contraseñas? Yo digo que lo probemos y ya está."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_221",
+      "hash": "8EA075D1BB716A00",
+      "target": "Estoy de acuerdo. Dos personas deberían preparar los terminales de los laboratorios mientras los demás buscamos las contraseñas aquí, en el despacho."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_222",
+      "hash": "04D31415016EB77E",
+      "target": "¡Yo me pido el protolaboratorio!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_223",
+      "hash": "38EB72F1A206CA58",
+      "target": "Entonces yo me encargo del deuterolaboratorio."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_224",
+      "hash": "AF3A777F6AD852D0",
+      "target": "Mejor... Mejor te quedas tú, Sphene. Aquí puede hacer falta lo que sabes de Alexandria y de su gente."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_227",
+      "hash": "F1EAF0475127290A",
+      "target": "Sí, tienes razón. Si las contraseñas se esconden tras alguna pista, quizá pueda ayudar con eso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_228",
+      "hash": "CC5904747AA0F6C0",
+      "target": "¡Yo también puedo ayudar! Al fin y al cabo, he vivido toda mi vida en Alexandria."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_229",
+      "hash": "42F05CF2CDF8CC0E",
+      "target": "Entonces me toca a mí el deuterolaboratorio. Podemos mantenernos en contacto por comunicador para coordinar el momento."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_230",
+      "hash": "43AAC5325854C77E",
+      "target": "<split(<string(gstr1)>, ,1)>, tuyo será el honor de introducir la contraseña del despacho."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_231",
+      "hash": "FB8608AAA1ABE227",
+      "target": "Cuando hayamos decidido qué hay que introducir, ponte en este terminal. Yo me quedaré guiando a Wuk Lamat y a Krile durante el proceso."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_232",
+      "hash": "2F66C156433FE5C7",
+      "target": "Oye, estaba esa placa expositora de ahí... La de las gemas. Como es de electrope, pensé que a lo mejor servía para otra cosa."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_233",
+      "hash": "6B73C614BF4E4AF5",
+      "target": "Pero no encontré ningún interruptor ni botón que la hiciera funcionar. ¡A lo mejor tú lo averiguas!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_235",
+      "hash": "EB3CD53A16C334FC",
+      "target": "Entonces... ¿solo hay que pulsar esto? Y luego ese, ¿no? ¡Oye, si no es tan difícil!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_240",
+      "hash": "90D384580AE1AF71",
+      "target": "Entendido, Shale. Aunque antes necesito encontrar un taburete o quizá una caja resistente..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_245",
+      "hash": "BCDDC481AED1E418",
+      "target": "Con calma, y todo saldrá bien. Las dos aprendéis muy rápido."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_250",
+      "hash": "C0757C6E621FFAF5",
+      "target": "He seguido registrando los cajones de los libros y ¡he encontrado un rompecabezas cúbico de electrope! Seguro que es solo un juguete, pero ¿y si...?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q5_000_000",
+      "hash": "D0F2D7FD41B92961",
+      "target": "¿Qué quieres que haga Gulool Ja?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A5_000_001",
+      "hash": "20FA7D3522D1A415",
+      "target": "Resolver el rompecabezas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A5_000_002",
+      "hash": "B125CD581E3FACB4",
+      "target": "Nada por ahora."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_265",
+      "hash": "F8C5BC7808087D34",
+      "target": "¡Marchando!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_270",
+      "hash": "4F2D57E89AEB68E8",
+      "target": "A ver... si muevo esta parte... y conecto este circuito con aquel... ¡Ya está!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_100_270",
+      "hash": "3BD3338C7784DFDE",
+      "target": "¿Eh? Había algo dentro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_275",
+      "hash": "DD3878BA646A79A4",
+      "target": "Ah, es una piedra verde preciosa... Creo que podría ser <colortype(582)><edgecolortype(581)>alexandrita<edgecolortype(0)><colortype(0)>."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_277",
+      "hash": "54EB672E0345B512",
+      "target": "Dicen que antaño estas gemas se apreciaban tanto que dieron nombre al reino. ¡Toma, quédatela tú por si acaso!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_285",
+      "hash": "D7B5E8C19847874D",
+      "target": "Vale, pues nada. ¡Pero avísame si acabas necesitándola!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_290",
+      "hash": "75FE988EF187B49C",
+      "target": "Alguien debió de esconder esa <colortype(582)><edgecolortype(581)>alexandrita<edgecolortype(0)><colortype(0)> en el rompecabezas. ¡Voy a ver si encuentro más cosas interesantes!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_295",
+      "hash": "57FDAACF14345F15",
+      "target": "Debería mirar más de cerca estos informes. Alguno podría dar pistas sobre las contraseñas..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_305",
+      "hash": "A3B3AF9B54BC4586",
+      "target": "...¿Sí? ¡Si tienes preguntas, no tienes más que hacerlas!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q6_000_000",
+      "hash": "7498F5F32AAC4D43",
+      "target": "¿Sobre qué quieres preguntar?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A6_000_001",
+      "hash": "4D17517C45255AFD",
+      "target": "El simbolismo de la alexandrita."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A6_000_002",
+      "hash": "1F4C17A44BECA448",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_315",
+      "hash": "85988E7ECB905388",
+      "target": "Pues a mí me enseñaron que la alexandrita representa la idea de <colortype(582)><edgecolortype(581)>protección<edgecolortype(0)><colortype(0)>. Y es, por cierto, el origen del nombre de Alexandria."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_316",
+      "hash": "C4174BE98DF691E9",
+      "target": "¡Ah! ¿¡Crees que eso tiene algo que ver con las contraseñas!?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_317",
+      "hash": "33F63094937F5968",
+      "target": "¿Un zafiro y un granate también, dices? Sí, todas tienen su significado..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_320",
+      "hash": "DE979731CBF03E26",
+      "target": "La alexandrita, como he dicho, es <colortype(582)><edgecolortype(581)>protección<edgecolortype(0)><colortype(0)>. El zafiro representa la <colortype(582)><edgecolortype(581)>honestidad<edgecolortype(0)><colortype(0)>. Y el granate simboliza la <colortype(582)><edgecolortype(581)>devoción<edgecolortype(0)><colortype(0)>."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_325",
+      "hash": "13670AE1B0D30B45",
+      "target": "¡Deberíamos probar estas palabras en los terminales a ver si las aceptan! Ojalá acertemos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_330",
+      "hash": "33AD3449D4B8C78D",
+      "target": "¿Otra vez, por si acaso? La alexandrita representa la <colortype(582)><edgecolortype(581)>protección<edgecolortype(0)><colortype(0)>; el zafiro, la <colortype(582)><edgecolortype(581)>honestidad<edgecolortype(0)><colortype(0)>, y el granate, la <colortype(582)><edgecolortype(581)>devoción<edgecolortype(0)><colortype(0)>."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_335",
+      "hash": "92C1F51683BC15E0",
+      "target": "Muy bien. ¡Estaré aquí si necesitas algo!"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_340", "hash": "995DE0C86026CD26", "target": "En esta placa de electrope hay engarzadas dos gemas. Identificas la gema azul como un <colortype(582)><edgecolortype(581)>zafiro<edgecolortype(0)><colortype(0)> y la roja como un <colortype(582)><edgecolortype(581)>granate<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_345", "hash": "A2AAA3AA0672CB21", "target": "También parece haber un hueco vacío para engarzar otra gema..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_350", "hash": "EBBEB4DE0DE4AF41", "target": "¿Intentar engarzar la alejandrita en el hueco vacío?" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_355", "hash": "498EA643CB74DF94", "target": "La gema encaja perfectamente en su sitio. Casi de inmediato, las líneas luminosas de un diagrama aparecen en la pantalla, acompañadas de una breve frase." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q7_000_000",
+      "hash": "B15BD068B0552734",
+      "target": "¿Podría ser..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A7_000_001",
+      "hash": "05EDE780BB5615F3",
+      "target": "...un motivo decorativo?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A7_000_002",
+      "hash": "98B17FCB7FAB9DCC",
+      "target": "...un circuito arcano?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A7_000_003",
+      "hash": "5CD49BFAAB402271",
+      "target": "...un plano de este complejo?"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_365", "hash": "63E057082CA0FAED", "target": "Contemplas la pantalla que tienes delante. Pensándolo bien, quizá las formas se eligieran por razones ajenas a lo estético." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_370", "hash": "AED1E424DFE3C815", "target": "Contemplas la pantalla que tienes delante. Pensándolo bien, quizá las formas sean demasiado simples para un circuito de electrope..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_375", "hash": "8BFE807FC85652E4", "target": "Mientras sigues estudiando la pantalla, te das cuenta de que estas formas corresponden a las salas del complejo en el que ahora te encuentras. Puede que esto tenga relación con las contraseñas que buscabas..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_380", "hash": "E7F38BF8EFC6D31F", "target": "Este hueco contiene un <colortype(582)><edgecolortype(581)>zafiro<edgecolortype(0)><colortype(0)>. Su lugar en el plano corresponde al <colortype(582)><edgecolortype(581)>primer laboratorio<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_385", "hash": "40E32A279D758C74", "target": "Este hueco contiene un <colortype(582)><edgecolortype(581)>granate<edgecolortype(0)><colortype(0)>. Su lugar en el plano corresponde al <colortype(582)><edgecolortype(581)>segundo laboratorio<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_390", "hash": "CAD0CA3ECA1F3AA0", "target": "Este hueco contiene una <colortype(582)><edgecolortype(581)>alejandrita<edgecolortype(0)><colortype(0)>. Su lugar en el plano corresponde al <colortype(582)><edgecolortype(581)>despacho del director<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_395", "hash": "6504C815333B24D0", "target": "Las palabras luminosas parecen estar escritas a mano..." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_100_395",
+      "hash": "FF36B91958BBE2B9",
+      "target": "¡Sí, sabía que esa joya vendría bien! A ver, a ver..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_110_395",
+      "hash": "9318A7756913355F",
+      "target": "¿“Atiende a las piedras”...? Esto debe de ir sobre los <colortype(582)><edgecolortype(581)>significados especiales<edgecolortype(0)><colortype(0)> que los alejandrinos dan a las gemas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_115_395",
+      "hash": "3B982B143734EB36",
+      "target": "Es una creencia antigua, creo, según la cual cada tipo de gema significa algo distinto."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_120_395",
+      "hash": "75B19A281F6836E7",
+      "target": "Seguro que si le preguntas a <colortype(582)><edgecolortype(581)>Sphene<edgecolortype(0)><colortype(0)> te cuenta más. ¡Al fin y al cabo, hasta su nombre viene de una piedra preciosa!"
+    },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_396", "hash": "EBB43FC95322D2EA", "target": "La frase garabateada dice: “Atiende a las piedras”. ¿Tendrán las <colortype(582)><edgecolortype(581)>gemas<edgecolortype(0)><colortype(0)> un significado más profundo? Quizá <colortype(582)><edgecolortype(581)>Sphene<edgecolortype(0)><colortype(0)> pueda arrojar más luz sobre el asunto." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_400", "hash": "B93FB6FA6687D0A0", "target": "Aún no has descubierto pistas suficientes para deducir las contraseñas. Prueba a explorar los alrededores o a consultar con tus camaradas hasta que tengas más información." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_401", "hash": "EA728513A5AAC898", "target": "Has reunido información suficiente para intentar introducir las contraseñas..." },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_402",
+      "hash": "5118CDF7938F99B5",
+      "target": "Aquí está todo listo─Wuk Lamat y Krile solo esperan sus contraseñas."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_403",
+      "hash": "A12FD94409FBA8CA",
+      "target": "Empecemos por Wuk Lamat, en el protolaboratorio. ¿Qué palabra debe introducir?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q8_000_000",
+      "hash": "33D38B9BF3ADC632",
+      "target": "¿Cuál es la contraseña del protolaboratorio?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_001",
+      "hash": "26EBBD1484D00A43",
+      "target": "Zafiro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_002",
+      "hash": "DEBE95B2228A9D41",
+      "target": "Granate."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_003",
+      "hash": "74C0D3DA935BB8D3",
+      "target": "Alexandrita."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_004",
+      "hash": "251C05BC6D0C465B",
+      "target": "Protección."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_005",
+      "hash": "48AD4D33BE44819E",
+      "target": "Honestidad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_006",
+      "hash": "4EED68ED0CD7936D",
+      "target": "Devoción."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A8_000_007",
+      "hash": "98774E460B96B925",
+      "target": "Cancelar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_405",
+      "hash": "FB2F067F8F6CA28D",
+      "target": "¿Y la contraseña de Krile, en el deuterolaboratorio?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q9_000_000",
+      "hash": "B9721B238A05457D",
+      "target": "¿Cuál es la contraseña del deuterolaboratorio?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_001",
+      "hash": "12162A0D27CFE07D",
+      "target": "Zafiro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_002",
+      "hash": "14E16F3F0EBE8451",
+      "target": "Granate."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_003",
+      "hash": "0C67B2C0DC72A2CE",
+      "target": "Alexandrita."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_004",
+      "hash": "75713D9294694F3C",
+      "target": "Protección."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_005",
+      "hash": "1141334F168E7A3B",
+      "target": "Honestidad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_006",
+      "hash": "2D921F191C04C98E",
+      "target": "Devoción."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A9_000_007",
+      "hash": "B4DA5CAED41855AC",
+      "target": "Cancelar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_407",
+      "hash": "5318152DC9817E08",
+      "target": "Y por último, ¿qué introducimos para el despacho del director?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_Q10_000_000",
+      "hash": "A10324223C4ADF71",
+      "target": "¿Cuál es la contraseña del despacho del director?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_001",
+      "hash": "CDFF36D18DC5012B",
+      "target": "Zafiro."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_002",
+      "hash": "CF0A8583E7B5EE42",
+      "target": "Granate."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_003",
+      "hash": "EE376BAAE43662BC",
+      "target": "Alexandrita."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_004",
+      "hash": "9A9D2756F62F2C96",
+      "target": "Protección."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_005",
+      "hash": "1470E4226A784172",
+      "target": "Honestidad."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_006",
+      "hash": "15B5893BFB2B4C99",
+      "target": "Devoción."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_A10_000_007",
+      "hash": "96B18561CD571DF5",
+      "target": "Cancelar."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_409",
+      "hash": "6CC520CC18968F5A",
+      "target": "Bien, ya tenemos las tres contraseñas. Ahora, a introducirlas en el sistema a la vez..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_410",
+      "hash": "CD28AB871D0E4F1C",
+      "target": "Devuelve un error... Debe de faltarnos alguna pieza. Puede que <colortype(582)><edgecolortype(581)>Sphene<edgecolortype(0)><colortype(0)> o <colortype(582)><edgecolortype(581)>Gulool Ja<edgecolortype(0)><colortype(0)> hayan notado algo, o quizá la <colortype(582)><edgecolortype(581)>placa expositora<edgecolortype(0)><colortype(0)> nos aclare más."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_411",
+      "hash": "C14E8DF2FA412B61",
+      "target": "Hum... Devuelve un error. Creo que tus deducciones eran razonables con la información disponible, pero quizá elegimos mal las contraseñas o mezclamos el orden."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_412",
+      "hash": "3B8DC5A7C18EC9B2",
+      "target": "Déjame hacer un diagnóstico e identificar dónde está el problema..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_413",
+      "hash": "EB826BA5816D1BF4",
+      "target": "Protolaboratorio. Error."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_414",
+      "hash": "A98C146F04C9EDF8",
+      "target": "Deuterolaboratorio. Error."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_415",
+      "hash": "42E85578F8A285E6",
+      "target": "Despacho del director. Error."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_416",
+      "hash": "DC0E836B9526601E",
+      "target": "Pues ahí lo tenemos. ¿Lo intentamos otra vez?"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_417",
+      "hash": "AACB8101E66AC516",
+      "target": "¡Bien!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_418",
+      "hash": "1FD69E44D22BB4FF",
+      "target": "Ay, cuánto me alegro de que funcionara..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_419",
+      "hash": "5F0C5E6B5C329956",
+      "target": "Esa sala restringida es el único sitio que nos queda por registrar. Si el relé de datos está en alguna parte, tiene que ser ahí."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_420",
+      "hash": "CE706E58D4936CD1",
+      "target": "Entraremos en cuanto Wuk Lamat y Krile vuelvan con nosotros."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_450",
+      "hash": "DB7D78006E6FA624",
+      "target": "Muy bien. Es hora de subir al ascensor y ver qué nos espera."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_451",
+      "hash": "C37F2273AF65D96A",
+      "target": "Uf... Menuda aventura."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_452",
+      "hash": "71255921577F3C1A",
+      "target": "Puede que no haya sido por el método que esperaba Shale, pero al menos ya sabemos dónde encontrar a Calyx y qué hay que hacer después."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_453",
+      "hash": "8D80FD31F15798B8",
+      "target": "Cierto. Aunque me sigue picando la curiosidad por la investigación de Preservación sobre la llave, eso queda para otro día."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_454",
+      "hash": "08BA5BBE094882E5",
+      "target": "Entonces vayamos directos a la Trastienda. Conviene que todos sepan lo mismo antes de movernos..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_455",
+      "hash": "BE84907BACF927DA",
+      "target": "Shale está de mal humor desde que volvimos. Creo que no le gustó lo que dijo Calyx... Pero no te preocupes, ¡haré lo posible por animarla!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_460",
+      "hash": "D52B14136810A8D0",
+      "target": "Fue mi otro yo quien te confió la llave. Aunque no pudo cambiar quién era, las consecuencias de su última decisión perduran y nos permiten dar forma a nuestro propio futuro..."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_465",
+      "hash": "CC61A182F6C0AF14",
+      "target": "Les he pasado a nuestros compañeros la versión corta de los hechos para que todos podamos prepararnos para lo que viene."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_470",
+      "hash": "70A921AF10B8FEDF",
+      "target": "Es hora de acabar con esto. Calyx no parará hasta que <italic(1)>nosotros<italic(0)> lo paremos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ERENVILLE_000_475",
+      "hash": "79EC4A13151AB842",
+      "target": "La situación ahí fuera no es la mejor... Pero al menos habéis vuelto sanos y salvos."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_480",
+      "hash": "A5A9D493CBA1F8DA",
+      "target": "¡Maldito canalla, Calyx! ¡Esperó a que estuviera <italic(1)>así<italic(0)> de cerca para arrebatarme mi momento de gloria!"
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_481",
+      "hash": "FED9993097204E9F",
+      "target": "Y esa forma exasperante y condescendiente de hablarnos... Ya veremos a quién se le acaba el tiempo, comadreja engreída."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_100_481",
+      "hash": "00FF0A475AAA02B7",
+      "target": "En fin. Sé que las cosas no salieron según lo previsto, pero hemos aprendido muchísimo sobre Preservación. Ese conocimiento puede sernos útil en los días que vienen."
+    },
+    {
+      "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_482",
+      "hash": "8ADB66FC1EDF9A67",
+      "target": "Aunque quizá no pueda aportar mucho en un enfrentamiento directo, pienso llegar hasta el final con vosotros, prestando todo el apoyo que pueda."
+    }
+  ]
+}

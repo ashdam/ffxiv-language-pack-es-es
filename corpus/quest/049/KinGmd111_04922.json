@@ -1,0 +1,507 @@
+{
+  "conversation": "quest/049/KinGmd111_04922",
+  "questName": "Together as One",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SEQ_00", "hash": "C321BFC8C43D9B4C", "target": "Antes de investigar la cúpula, Wuk Lamat quiere ocuparse de un asunto importante." },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_TODO_00", "hash": "DE4BECEA3FBE13DA", "target": "Buscar ciudadanos angustiados en el Barrio Resplandeciente" },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_TODO_01", "hash": "0D666450EE441981", "target": "Buscar más ciudadanos angustiados" },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_TODO_02", "hash": "4A1F5213C321DDA1", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_TODO_03", "hash": "E0342911B756FE4C", "target": "Hablar con G'raha Tia" },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALISAIE_000_001",
+      "hash": "FA238390FB9B7D7F",
+      "target": "Encontraremos la manera de entrar en la cúpula y nos aseguraremos de que todos los de dentro estén a salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_005",
+      "hash": "C6CAB1BEAC4353EA",
+      "target": "Me temo que necesitamos saber más si queremos defendernos de otro ataque."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_YSHTOLA_000_010",
+      "hash": "4BDBB75A0D4902E3",
+      "target": "Otro reflejo invade el nuestro, pero ¿cómo, y por qué ahora?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_015",
+      "hash": "680A3CA73E0560B7",
+      "target": "Estoy en deuda con Ojika por supervisar nuestras operaciones en mi ausencia. Procuraré ser aquí todo lo útil que pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KRILE_000_020",
+      "hash": "076B13A1EE1B130C",
+      "target": "Me cuesta creer que sea de otro reflejo. Me pregunto si eso significa que mi alma es más tenue que la de alguien nacido en el Origen."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KRILE_000_025",
+      "hash": "C81651DA164AE051",
+      "target": "Seguro que no. Y'shtola se habría dado cuenta. Dioses, hay tantísimo que no entiendo que la cabeza me va a estallar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ERENVILLE_000_030",
+      "hash": "4D71F27D163FD6EE",
+      "target": "Por favor, que estéis bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SUNPERCHGATEKEEPER_000_045",
+      "hash": "4CB714C9E5F53BF3",
+      "target": "El Juramento Wuk Lamat y los demás le esperan. Por aquí, por favor."
+    },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SYSTEM_000_046", "hash": "CF125DD3C3B90764", "target": "¿Entrar en el Alcázar del Sol?" },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_050",
+      "hash": "BC9D42DF91023DDD",
+      "target": "Sé que tenemos prisa por partir. Pero antes necesito dirigirme a mi pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_051",
+      "hash": "1C65A53BE0D5DE34",
+      "target": "La paz que juramos mantener se ha hecho añicos. Tienen que entender qué ha pasado y cómo pensamos arreglarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_052",
+      "hash": "FC7B054486F333C1",
+      "target": "Por eso quiero convocar una asamblea en el Paseo Alado y asegurarles que todo irá bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_053",
+      "hash": "5C6425E3982146C1",
+      "target": "Pero, con lo conmocionados que están, no sé cuántos vendrán..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_054",
+      "hash": "7B5CAC8A41071B65",
+      "target": "Son precisamente los más angustiados quienes de verdad necesitan oír tus palabras..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_055",
+      "hash": "AB85B76811974440",
+      "target": "Si quieres, buscaré a esas almas y las animaré a asistir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALISAIE_000_056",
+      "hash": "ACF4933568787957",
+      "target": "Yo también ayudo. Es un paso importante para que la ciudad se recupere."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALISAIE_000_057",
+      "hash": "DCD211E863C7352F",
+      "target": "¿Te apuntas, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KRILE_000_058",
+      "hash": "8B73F74B278DBFE6",
+      "target": "Mientras vosotros os ocupáis de eso, Erenville y yo nos encargaremos de las provisiones para la expedición."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_059",
+      "hash": "D9E74BBE9857221D",
+      "target": "Gracias... Yo me adelantaré y haré que la Legión del Alba anuncie el discurso. La gente tiene que saber que va a haber uno antes de poder decidir si quiere escucharlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_100_059",
+      "hash": "DB32C841568CA56B",
+      "target": "Si tú te encargas del Barrio Resplandeciente y de Bahía Comerciante, Alisaie y yo nos repartiremos el resto de la ciudad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_YSHTOLA_000_060",
+      "hash": "3C84F5D17AB47291",
+      "target": "Tendré que examinar más tarde uno de esos soldados mecánicos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_065",
+      "hash": "611B1E590EC1D4D3",
+      "target": "Me gustaría informar también a Thancred y a Urianger, pero puede que ya hayan salido de Tural."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_HOARDINGESIDENT04922_000_080",
+      "hash": "4A1725A02C20538B",
+      "target": "Tengo que abastecerme de comida y medicinas. Todo lo que pueda. ¿Y qué más había? No puedo permitirme olvidar nada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_HOARDINGESIDENT04922_000_081",
+      "hash": "AD75F8C0B96F0F74",
+      "target": "Lo siento, <if(gnum4,señorita,señor)>, pero estoy ocupado. Mucho que hacer y poco tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_HOARDINGESIDENT04922_000_082",
+      "hash": "BDF292E8452B4365",
+      "target": "No se sabe cuándo volverán esos hombres de piedra. Tengo que irme de aquí, buscar un sitio seguro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_HOARDINGESIDENT04922_000_083",
+      "hash": "9A1C3CDF017CDE58",
+      "target": "¿El Juramento Wuk Lamat quiere hablarnos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_HOARDINGESIDENT04922_000_084",
+      "hash": "BC89A2ECBED55578",
+      "target": "Entonces quizá tenga un plan. Supongo que no hace daño escuchar lo que tenga que decir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_FLUSTEREDMAN04922_000_085",
+      "hash": "CC7DA1FCB0A98D55",
+      "target": "Sea lo que sea, no tengo tiempo. Tengo que terminar de reparar este carro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_FLUSTEREDMAN04922_000_086",
+      "hash": "5197BC9872FE029A",
+      "target": "A la espalda solo puedo cargar hasta cierto punto. Cuando vuelvan esos demonios huecos, tengo que estar preparado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_FLUSTEREDMAN04922_000_087",
+      "hash": "833E1AD1A8C78E7B",
+      "target": "El Juramento Wuk Lamat y el Juramento Koana tienen buena intención, pero son jóvenes e inexpertos. Apenas saben cuidar de sí mismos. Si queremos sobrevivir, no sé si podemos contar con ellos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_FLUSTEREDMAN04922_000_088",
+      "hash": "9A8E092D2142FA6A",
+      "target": "¿Que van a contraatacar al enemigo? Así que están decididos a plantarle cara..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_FLUSTEREDMAN04922_000_089",
+      "hash": "E3ED4110B3D0D76C",
+      "target": "Puede que sea pronto para pensar en huir... Está bien, iré a escuchar el discurso."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_DEPRESSEDWOMAN04922_000_090",
+      "hash": "F7423B353B4E656D",
+      "target": "Por favor, déjame en paz."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_DEPRESSEDWOMAN04922_000_091",
+      "hash": "BB58BE59C33ECBC6",
+      "target": "He perdido a mi padre. Déjame llorarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_DEPRESSEDWOMAN04922_000_092",
+      "hash": "7C98BE28C47B397D",
+      "target": "¿Han matado a Gulool Ja Ja? Y aun así el Juramento Wuk Lamat y el Juramento Koana siguen luchando por nuestra nación. Por nosotros..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_DEPRESSEDWOMAN04922_000_093",
+      "hash": "DB344AADAD94E1D0",
+      "target": "Está bien. Si ellos quieren hablar, lo mínimo que puedo hacer es escuchar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPACAHERDER04922_000_094",
+      "hash": "AAA9A10D3703B300",
+      "target": "Aquí ya no se está seguro. Podría intentar irme de Tural, pero... ¿adónde si no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPACAHERDER04922_000_095",
+      "hash": "FA9F63DF020A42A4",
+      "target": "Tienes pinta de haber viajado mucho. Por favor, no puedo quedarme aquí─pero me temo que ningún rincón de Tural queda fuera del alcance del enemigo. ¿Qué hay de las tierras de allende la sal?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPACAHERDER04922_000_096",
+      "hash": "9C752C8FA3C6C7B8",
+      "target": "Ya, ya lo sé. Aunque huyera, sé que acabaría arrepintiéndome."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPACAHERDER04922_000_097",
+      "hash": "4B2B475DA577D7A6",
+      "target": "Amo Tural. Este es mi hogar, y sé que los Servidores del Alba darían la vida por defenderlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPACAHERDER04922_000_098",
+      "hash": "1B760039F4187363",
+      "target": "Depositaré mi fe en ellos e iré a escuchar lo que tengan que decir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_099",
+      "hash": "49EE045641B66A7E",
+      "target": "Si Tuliyollal cae en manos del enemigo, ¿qué será de nosotros? ¿De nuestras casas, de nuestras granjas─de todo lo que tanto nos ha costado levantar?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_100",
+      "hash": "EF20EB2B10E0A255",
+      "target": "Vidas, comunidades e historias, todo reducido a cenizas por estos villanos sin piedad..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_101",
+      "hash": "7C98A3D978ADE316",
+      "target": "He oído que el Juramento Wuk Lamat piensa dirigirse al pueblo, pero ¿para qué? ¿Qué van a poder decir ella y su hermano?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_102",
+      "hash": "BFC2771E2D946D12",
+      "target": "¿De verdad? ¿Los Servidores del Alba ya tienen un plan? Han perdido tantísimo y aun así están dispuestos a seguir adelante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_103",
+      "hash": "D1B617EB558CE5F4",
+      "target": "Y quedarme aquí plantado angustiándome por lo que venga no cambiará nada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_STUNNEDFARMER04922_000_104",
+      "hash": "5338ACF62AE6120A",
+      "target": "Mentiría si dijera que veo el futuro con esperanza, pero iré a oír qué piensan hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESIDENTSONALERT04922_000_105",
+      "hash": "754B479F2A5A52D5",
+      "target": "No puedo irme ahora. ¿Y si vuelven esos soldados?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESIDENTSONALERT04922_000_106",
+      "hash": "961A72571EA4AF94",
+      "target": "¿Y qué son esas máquinas extrañas que se ciernen ahí arriba? Dioses, tengo tantísimas preguntas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESIDENTSONALERT04922_000_107",
+      "hash": "765EF6C3AF347FDD",
+      "target": "Ya veo... Me tranquilizaría saber algo─lo que sea─sobre la amenaza a la que nos enfrentamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESIDENTSONALERT04922_000_108",
+      "hash": "92DBF08A7FC2D62F",
+      "target": "Está bien, pues. Iré al Paseo Alado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESIDENTSONALERT04922_000_109",
+      "hash": "ACD876DF60411E95",
+      "target": "Gracias. Ya me siento mejor, y seguro que mejor todavía cuando oiga lo que tengan que decir los Servidores del Alba."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMMERCHANT04922_000_110",
+      "hash": "A36768BF52771FB2",
+      "target": "Uf, la mercancía está casi toda intacta. Buenas noticias para mis clientes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMMERCHANT04922_000_111",
+      "hash": "8572F68EA6FB19D1",
+      "target": "¡Oh! Perdona, amigo, pero no me sobra el tiempo. El Juramento Wuk Lamat y el Juramento Koana van a dirigirse pronto al pueblo, y antes tengo que terminar el inventario."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMMERCHANT04922_000_112",
+      "hash": "584183E94953E1C8",
+      "target": "Dadas las circunstancias, debe de ser algo importante. Te conviene estar allí también."
+    },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SYSTEM_000_113", "hash": "38892832637F963D", "target": "No hace falta convencer a esta persona para que asista al discurso de Wuk Lamat." },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMMERCHANT04922_100_113",
+      "hash": "1528ED7E8215591E",
+      "target": "Unas cajas más y me voy para el Paseo Alado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESTINGRESIDENT04922_000_114",
+      "hash": "C6F0DD03B50E0382",
+      "target": "Uf. Recoger los destrozos cansa lo suyo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESTINGRESIDENT04922_000_115",
+      "hash": "FBBF5B80601E95DD",
+      "target": "Tú también has estado ayudando sin parar, me imagino."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESTINGRESIDENT04922_000_116",
+      "hash": "5A155EA544F42D8E",
+      "target": "Ahora mismo es duro para todos, pero Tuliyollal no se va a doblegar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESTINGRESIDENT04922_000_117",
+      "hash": "8DFE39E56FFF51C7",
+      "target": "Con los nuevos Servidores del Alba para protegernos y guiarnos, saldremos de esta juntos."
+    },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SYSTEM_000_118", "hash": "E2E4CA3DA7BD7F27", "target": "No hace falta convencer a esta persona para que asista al discurso de Wuk Lamat." },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_RESTINGRESIDENT04922_100_118",
+      "hash": "57D0D4FF2ECC390E",
+      "target": "El Juramento Wuk Lamat ha pedido que nos reunamos en el Paseo Alado, ¿verdad? Iré en cuanto descanse un poco."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_POSITIVERESIDENT04922_000_119",
+      "hash": "46508C56CB816F83",
+      "target": "¿Mm? Vas comprobando cómo está todo el mundo, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_POSITIVERESIDENT04922_000_120",
+      "hash": "7CD5D3A0F1D7CF84",
+      "target": "La ciudad ha conocido días mejores, desde luego, pero solo podemos dedicarle un tiempo al duelo. Solo mirando hacia delante superaremos esta crisis─y todos tendremos que poner de nuestra parte."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_POSITIVERESIDENT04922_000_121",
+      "hash": "C8FD16696D579764",
+      "target": "No me cabe duda de que el Juramento Wuk Lamat y el Juramento Koana dirán algo parecido en su discurso."
+    },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SYSTEM_000_122", "hash": "65FCE498B77BB120", "target": "No hace falta convencer a esta persona para que asista al discurso de Wuk Lamat." },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_POSITIVERESIDENT04922_100_122",
+      "hash": "B9A97A499B680BE0",
+      "target": "Ya va siendo hora de que me acerque al Paseo Alado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMRESIDENT04922_000_123",
+      "hash": "3A2C18348B7BCDB4",
+      "target": "Todavía no me creo que nos hayan atacado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMRESIDENT04922_000_124",
+      "hash": "C95725DF6C50A4F5",
+      "target": "Por suerte, mi familia se libró. No sé qué habría hecho si les hubiera pasado algo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMRESIDENT04922_000_125",
+      "hash": "A7ACCE62D97D2903",
+      "target": "Tengo entendido que el Juramento Wuk Lamat va a dar pronto un discurso. Allí estaré, por supuesto."
+    },
+    { "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_SYSTEM_000_126", "hash": "3B3DF32C36D6A223", "target": "No hace falta convencer a esta persona para que asista al discurso de Wuk Lamat." },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_CALMRESIDENT04922_100_126",
+      "hash": "3985C43E8C6FFCDF",
+      "target": "Si venías a preguntar por nosotros, no hace falta que te preocupes. Por fortuna, mi familia está ilesa."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_130",
+      "hash": "46D5EBB7E0A0AAFE",
+      "target": "Parece que has traído a bastante gente. Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_131",
+      "hash": "DA0639863402A527",
+      "target": "Alisaie había vuelto antes que tú, pero al oír que tú seguías ahí fuera decidió que no estaba satisfecha con su propio esfuerzo y se marchó otra vez."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_132",
+      "hash": "263925D95B3EB24D",
+      "target": "Les pido disculpas por implicarlos a todos en asuntos de Tural."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_133",
+      "hash": "D213D61987AC14FF",
+      "target": "No hacemos más que ayudar a unos queridos amigos que lo necesitan. Después de recorrer las tierras de Tural y compartir la riqueza cultural de vuestros pueblos, no podría verlo de otro modo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_134",
+      "hash": "B54A9B2693AE9D88",
+      "target": "Es más: Zoraal Ja y su ejército son una amenaza no solo para Tural, sino para el astro entero."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_135",
+      "hash": "35AD0DAF73F97626",
+      "target": "Estaremos a vuestro lado para proteger lo que os es querido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_136",
+      "hash": "0FF9604BD0221EE2",
+      "target": "Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_137",
+      "hash": "3BA45ACEB43BA162",
+      "target": "Me imagino que apenas habréis descansado, si es que lo habéis hecho. ¿Cómo lo lleváis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_138",
+      "hash": "90E77F730AA6E345",
+      "target": "Yo estoy bien, gracias a los ánimos de <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_139",
+      "hash": "A9E4EDDD3E362BBA",
+      "target": "Por mí tampoco tienen que preocuparse."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_140",
+      "hash": "FC2F80A29E8583E4",
+      "target": "El cansancio que pueda sentir no es nada frente a mi deseo de proteger a mi pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_141",
+      "hash": "ADF48653C49718C3",
+      "target": "Devolveremos la paz a la nación y preservaremos el legado de nuestro padre..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_142",
+      "hash": "ACCBCB685BD506DF",
+      "target": "Y eso empieza por hablarle al pueblo desde el corazón."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_143",
+      "hash": "55DC6D108B61A132",
+      "target": "¡Eso es!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_WUKLAMAT_000_144",
+      "hash": "BD234921B3446C4D",
+      "target": "Antes tenemos que ocuparnos de un par de cosas, pero id adelantándoos a la plaza y esperad allí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_YSHTOLA_000_145",
+      "hash": "EB107D57421897C1",
+      "target": "Su padre los crio bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_146",
+      "hash": "326F7686F7F3A084",
+      "target": "Ya lo creo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KOANA_000_150",
+      "hash": "E864CF32AD560CC6",
+      "target": "Gracias de nuevo por correr la voz sobre el discurso. Me temo que, de no ser así, quienes más necesitaban tranquilidad no habrían estado presentes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_YSHTOLA_000_155",
+      "hash": "3305E68B0CF0804E",
+      "target": "Estaba hablando con Ketenramm sobre la puerta a la ciudad dorada. Ha respondido con paciencia a mis pocas preguntas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_160",
+      "hash": "14158612BC9E0A6D",
+      "target": "Parece que Krile y Erenville aún no han vuelto. Seguirán ocupados con los preparativos de la expedición, supongo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KETENRAMM_000_165",
+      "hash": "133C82ABB0E35D29",
+      "target": "¿“Unas cuantas preguntas”? Más bien una andanada en toda regla. Me ha recordado a mis tiempos con Galuf. Estos eruditos de Sharlayan, os lo juro..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_170",
+      "hash": "156BD14D821B0D88",
+      "target": "¿No te has cruzado con Alisaie al venir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_180",
+      "hash": "6718C8EFC1A63A7B",
+      "target": "Al escuchar a Wuk Lamat y a Koana me he acordado de mi tiempo en el Primero."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_181",
+      "hash": "0A0A84457B60F4E2",
+      "target": "Aunque el Exarca no era ningún rey, a menudo me vi hablando ante la gente del Cristarium de forma parecida. Y ellos me respondían con sus actos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_GRAHATIA_000_182",
+      "hash": "6167F3D5C63EE095",
+      "target": "El pueblo de Tural también estará a la altura. Eso se nota."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_KRILE_000_185",
+      "hash": "8A130CAEFB6ED888",
+      "target": "El pueblo de Tural se ha unido para esta lucha. Debemos esforzarnos por no fallarles."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_YSHTOLA_000_190",
+      "hash": "2FD11B084726B7DB",
+      "target": "Resulta inspirador ver a pueblos tan distintos unirse como uno solo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ERENVILLE_000_195",
+      "hash": "6A512444D5A797FB",
+      "target": "...Lo ha hecho bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALISAIE_000_200",
+      "hash": "7F7B0B2ED977C94A",
+      "target": "Me alegra ver que ha venido tanta gente. No sabía a cuántos había convencido, así que decidí seguir insistiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd111_04922#TEXT_KINGMD111_04922_ALPHINAUD_000_205",
+      "hash": "6F20043EA0706C92",
+      "target": "Ha sido un discurso conmovedor, ¿verdad? Pongamos de nuestra parte para que los Servidores del Alba puedan cumplir su promesa al pueblo."
+    }
+  ]
+}

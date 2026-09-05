@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/003/SubFst073_00387",
+  "questName": "Salvaging the Scene",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_01", "hash": "7671ED1AE07F5193", "target": "¿Podría ayudarme con otro asunto, <if(gnum4,señora,señor)>? Un carro que partió de Molino de la Cantera volcó en el camino cuando una bestia grande y de mal genio del bosque decidió justo entonces defender su territorio." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_02", "hash": "FF1C41277FFF89F5", "target": "Por la gracia de Nophica, el conductor escapó sin heridas graves, pero la carga no tuvo tanta suerte. Como nadie se atreve a arriesgarse a otro encuentro con la criatura, supongo que las mercancías siguen desperdigadas por el suelo, allí donde ocurrió el accidente." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_ARMELLE_000_03", "hash": "6B2C37F62A6A710E", "target": "Solo tiene que seguir el camino hacia el sur y dará con los restos. Recupere la carga que pueda y llévesela a Keitha, en los Prados de Rama Torcida, si es tan amable." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_11", "hash": "6FB2C35048A3D8C0", "target": "¿Trae una entrega pa' mí?" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_12", "hash": "E1B08375618D6A3A", "target": "Ah, este es el cargamento que esperaba de Molino de la Cantera. Oí que el carro topó con no sé qué monstruo grande, ahí subiendo desde las Tablas Espejo, pero veo que ha lograo reunir unos cuantos retales." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_13", "hash": "593A0D2A8FB0D618", "target": "Parece que no pasan dos campanadas sin que oiga alguna nueva historia de espanto sobre la Deepcroft, o sobre bandidos degolladores rondando estos bosques." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_KEITHA_000_14", "hash": "5B6CB156466F31F1", "target": "Me hace preguntarme si mis chocobos están a salvo de noche, sí señor. Si alguna vez nos hace falta la maña de <if(gnum4,una aventurera,un aventurero)>, espero que ande cerca pa' echar una mano." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_POP_MESSAGE", "hash": "D2BD1558261B50AD", "target": "Sientes que el suelo tiembla bajo tus pies..." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_00", "hash": "D8939C12D6F8916B", "target": "Armelle, vecina de las Tablas Espejo, desea que rescates la carga de unos restos en el camino." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_01", "hash": "920F3C4D32071BB0", "target": "Armelle te ha pedido que recuperes la carga de un carromato que fue atacado por alguna feroz alimaña del bosque. Dirígete al lugar del incidente y rescata todo lo que encuentres." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_02", "hash": "1E9A0420B2E84EB2", "target": "Has rescatado la carga desperdigada. Dirígete a los Prados de Rama Torcida y entrega las mercancías a Keitha." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SEQ_03", "hash": "0CB222B3712D0C56", "target": "La reciente racha de problemas en los bosques de los alrededores tiene a Keitha preocupada por el futuro de su rancho. Te pide que estés <if(gnum4,preparada,preparado)> por si los Prados de Rama Torcida necesitan tu pericia." },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_TODO_00", "hash": "B8496638331C15F7", "target": "Rescatar la carga" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_TODO_01", "hash": "91DA0A8D05EBB13F", "target": "Entregar la carga a Keitha en los Prados de Rama Torcida" },
+    { "gameKey": "quest/003/SubFst073_00387#TEXT_SUBFST073_00387_SYSTEM_100_000", "hash": "212B8174F410B49E", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." }
+  ]
+}

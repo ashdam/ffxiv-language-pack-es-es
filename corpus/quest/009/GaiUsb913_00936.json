@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/009/GaiUsb913_00936",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_00", "hash": "929C591192665B43", "target": "Fousquenet se ve asediado por el poderoso rat king y busca la ayuda de un aventurero." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_01", "hash": "0EE14D2781458E35", "target": "Por la fortaleza se ven ratas de tamaño insólito comiendo, correteando y enseñando sus dientes amarillos a todo el mundo. Fousquenet te pide que registres el patio y mates cuantas ratas encuentres." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_02", "hash": "BD41E7AA7CBFB0FB", "target": "Has encontrado varias ratas y te has asegurado de que no roan nunca más. Fousquenet se alegrará de oírlo de tus labios." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_03", "hash": "E8990801E5B0D164", "target": "Animado por tu rapidez y aplomo, Fousquenet expone un plan más ambicioso. Cree que hay un gran nido subterráneo al que se puede llegar desde fuera de las murallas de la fortaleza. Inspecciona el nido de ratas y mata al rat king." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_04", "hash": "73FDA6835D4C929C", "target": "El señor del muladar ha muerto, y puedes oír cómo la manada empieza a volverse una contra otra en la confusión. Sería un buen momento para volver adentro, Matarreyes, y decirle a Fousquenet que su objetivo se ha cumplido." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_SEQ_05", "hash": "C18E83C9C4876BC4", "target": "Los sacos de grano del Puesto de Cresta Blanca están más a salvo esta noche, y los caballeros dormirán sin temor a los mordiscos de las ratas. La previsión de Fousquenet y tus incomparables reflejos han salvado el día." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_TODO_00", "hash": "6EFB788B78162E1B", "target": "Buscar señales de ratas" },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_TODO_01", "hash": "FB12D6289056FAA8", "target": "Hablar con Fousquenet" },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_TODO_02", "hash": "90852C30BEA54FEF", "target": "Buscar el nido de ratas" },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_TODO_03", "hash": "0BD63522C12AD382", "target": "Informar a Fousquenet" },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_000", "hash": "9E2B63F9F69683F8", "target": "Tenemos un problema de ratas, y como no se haga algo ya, pronto tendremos un problema de provisiones y un problema de peste. No se conforman con la cocina más que el pinche, y campan a sus anchas por el puesto." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_001", "hash": "BF0E7E2F86E5D20F", "target": "Se alimentan de nuestras sobras... ¡invitados indeseados a un festín escaso! A ver si echa un buen vistazo por ahí y espanta a unas cuantas para abatirlas." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_020", "hash": "79098E0FF3FD715F", "target": "Muy bien, así serán menos las alimañas que lleguen a nuestra despensa." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_021", "hash": "02ACF130B12DD431", "target": "Aun así, siguen siendo demasiadas. Debe de haber un gran nido en algún sitio ahí abajo. Mate al rat king y las ratas comunes perderán el ánimo... ¡algo que tanto nosotros como los dragones sabemos bien!" },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_022", "hash": "1B6E5A80056A34E2", "target": "He seguido el rastro de las ratas lo mejor que he podido, y parece que se escabullen afuera con frecuencia. Debe de haber una abertura que lleva al nido, en algún punto fuera del bastión." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_040", "hash": "5E5A0975FCED4B4E", "target": "¿Ese es el fin del rat king? ¡Bien golpeado! Veremos menos de esos asquerosos bichejos, me imagino." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_FOUSQUENET_000_041", "hash": "479328774F69D302", "target": "Dicho esto, <switch(gnum70,¿no dicen en tu bella ciudad natal que las ratas abandonan el barco que se hunde?,los marineros hablan de ratas que abandonan el barco que se hunde\\, ¿no es así?,los marineros hablan de ratas que abandonan el barco que se hunde\\, ¿no es así?)> Quizá debería tomarlo más bien como un <italic(1)>buen<italic(0)> augurio que las ratas se dignen quedarse en Cresta Blanca." },
+    { "gameKey": "quest/009/GaiUsb913_00936#TEXT_GAIUSB913_00936_POP_MESSAGE_000", "hash": "EE5A96E89F0F25B0", "target": "¡Sientes unos ojillos redondos clavados en ti!" }
+  ]
+}

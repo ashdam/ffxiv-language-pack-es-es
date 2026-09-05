@@ -1,0 +1,345 @@
+{
+  "conversation": "quest/054/KinGmk105_05474",
+  "questName": "Trail to the Heavens",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_00", "hash": "D89AD83D3FD7643C", "target": "Alphinaud sigue lidiando con la revelación de Halmarut." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_01", "hash": "2E790BAD94AE8BDB", "target": "Alphinaud manifiesta su deseo de debatir las implicaciones de los planes de los Invernales. Al oírlo, Alisaie sugiere que el grupo se reúna con el resto de los Herederos en el Refugio de las Piedras, plan con el que su hermano no tarda en estar de acuerdo." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_02", "hash": "39ADDC2B542279AC", "target": "En el familiar entorno del Refugio de las Piedras, tú y tus camaradas intentáis trazar el rumbo a seguir. Aunque a nadie le falta determinación y resolución, no aparecen soluciones para el Solsticio. Percibiendo la necesidad de un respiro y de que los reunidos hablen de asuntos menos graves, Tataru propone una pausa. Concedido así un momento para relajaros, parece que tus compañeros Herederos tienen mucho que contar." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_03", "hash": "D7DBFFC7832956A7", "target": "Desde la incursión de Thancred y Urianger en los gélidos confines septentrionales de Xak Tural hasta las deliberaciones de los gemelos Leveilleur sobre la mejor forma de comunicar su retirada de Garlemald, oyes muchísimo de tus camaradas: buena parte trascendente, algo de ello refrescantemente trivial. Con la cabeza y el corazón llenos de los relatos de tus colegas, te vuelves para hablar con Tataru." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_04", "hash": "34E90955270ECDA8", "target": "Tras retirarte al Descanso del Amanecer a instancias de Tataru, te encuentras contemplando la pálida faz de la luna, meditando las palabras de Halmarut. Mientras la voz del asciano resuena en tu memoria, una segunda quiebra de pronto la quietud de la noche. Calyx, saliendo a la terraza, te informa de su inminente partida hacia el Cuarto, un mundo aprisionado en el hielo y actual objetivo de las maquinaciones de los Invernales. Aunque sus designios siguen sin estar claros, Calyx insinúa que el grupo no es monolítico en cuanto a propósito, y llega incluso a censurar los métodos de sus propios compañeros. Al darse la vuelta para marcharse, tu enemigo pronuncia una cruda advertencia: intentar salvar toda la vida no hará sino garantizar el olvido. Pese a estar al tanto de las ambiciones de los Invernales, y ahora de su siguiente destino, la cuestión de cómo responder queda, por ahora, sin respuesta..." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_00", "hash": "B4A028FD67012388", "target": "Hablar con Alphinaud en el Refugio de las Piedras" },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_01", "hash": "BB8F1F27007080EC", "target": "Hablar con tus compañeros Herederos" },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_02", "hash": "07769655AA8A2C5C", "target": "Hablar con Tataru" },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_001",
+      "hash": "E2A5073995D94716",
+      "target": "Halmarut no puede estar diciendo la verdad... ¿verdad?"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_005",
+      "hash": "250AEAFE756E943C",
+      "target": "Cómo no, los ascianos tramando algo del todo reprobable..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_010",
+      "hash": "90B6F3339B00C455",
+      "target": "Los ascianos se afanaron un día por resucitar a Zodiark y traer de vuelta a quienes entregaron su vida para invocarlo. Por el bien de quienes ahora viven, luchamos sin descanso para impedírselo."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_011",
+      "hash": "5B081CB0510E82B4",
+      "target": "Si Halmarut busca de veras una reunificación para evitar ese Solsticio─para que algunos sobrevivan donde de otro modo perecerían todos─, entonces nuestros intereses no son tan dispares."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_GRAHATIA_000_015",
+      "hash": "329C6AEDDEEDB01F",
+      "target": "Y pensar que en otros fragmentos existen individuos de la calaña de Calyx o peores..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_KRILE_000_020",
+      "hash": "CABB8E87EC8A3168",
+      "target": "Tendréis que perdonarme. Todavía estoy asimilándolo todo..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_YSHTOLA_000_025",
+      "hash": "40C699BDC9B3DF11",
+      "target": "Aunque me tienta descartar una “reunificación preventiva” como una solución del todo absurda, sus palabras no son para tomarlas a la ligera..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_LIVINGWAY_000_030",
+      "hash": "F68FEFE97610A611",
+      "target": "Sé que las circunstancias actuales no invitan a ello, pero ¡intente descansar mientras pueda! Yo estaría agotada después de sus penalidades en el Vacío..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_040",
+      "hash": "EB5CAF047E1F634E",
+      "target": "Las implicaciones del Solsticio y los planes de los Invernautas, así como nuestro modo de proceder a partir de ahora, requerirán tiempo de reflexión. Por eso creo que deberíamos reunirnos y hablar en persona."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_041",
+      "hash": "53800337E4AA36E6",
+      "target": "Y por “nosotros” me refiero a todos nuestros compañeros Herederos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_042",
+      "hash": "27FE4EC8BB21E72B",
+      "target": "Para cambiar de aires, ¿por qué no nos reunimos en las Piedras Erguidas? Seguro que a Tataru y a los demás les encantará vernos allí."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_043",
+      "hash": "9628471D2AADF7E2",
+      "target": "Buena idea. En muchos sentidos, nuestro regreso se ha hecho esperar demasiado."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_044",
+      "hash": "31A5870353817FB5",
+      "target": "Sin duda a todos nos vendría bien un respiro después de Garlemald, pero confío en que no haya objeciones."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_045",
+      "hash": "11BE6426FD330136",
+      "target": "Decidido, pues. A las Piedras Erguidas."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_LIVINGWAY_000_050",
+      "hash": "C3F81B67124F8027",
+      "target": "¡Tengan por seguro que haremos todo lo posible por apoyar sus esfuerzos!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_055",
+      "hash": "8CD79843FF180A70",
+      "target": "En momentos así, ¡la compañía de los amigos es aún más valiosa!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_060",
+      "hash": "47E87BAC74D97D7F",
+      "target": "Desde que salimos hacia Tural no hemos parado casi ni un momento. Da gusto estirar las piernas en terreno conocido."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_065",
+      "hash": "68E4466422AB1DD9",
+      "target": "Pese a los vaivenes del tiempo, hay cosas que perduran. Este refugio es sin duda una de ellas."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_GRAHATIA_000_070",
+      "hash": "D2ED71C7211E4A57",
+      "target": "Parece que hubiera pasado toda una vida desde que pisé estas paredes por primera vez. Aunque, con los triunfos y las tribulaciones de toda una vida que hemos vivido entretanto, quizá sea lo natural."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_KRILE_000_075",
+      "hash": "914494986C9E7035",
+      "target": "En Garlemald había mucho de lo que ocuparse, incluso después de atender a los heridos. Me aseguraré de pasarle un informe completo a Ojika."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_YSHTOLA_000_080",
+      "hash": "2126EAF1FE74D41D",
+      "target": "Es una lástima que mi estancia en Tural acabara tan de golpe. Me gustaría organizar algo para seguir en contacto con Shale."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_100",
+      "hash": "85E9F0B1ED0D7B95",
+      "target": "No ha cambiado nada desde la última vez que nos reunimos aquí... Sin duda el orden reinante se lo debemos sobre todo a Tataru."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_101",
+      "hash": "A753A18EA3665749",
+      "target": "Y hablando de ella, viene de camino junto con muchos de nuestros compañeros. Esperémoslos un poco más."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TATARU_000_105",
+      "hash": "3E8C449D151A5180",
+      "target": "Parece que nuestros compañeros tienen mucho que contarse. ¡Tendré que preparar té!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_110",
+      "hash": "EF35CBF998BC3564",
+      "target": "No te preocupes por mí. Seguro que tienes mucho de que hablar con todas estas caras conocidas."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_COULTENET_000_115",
+      "hash": "830012B05C55062C",
+      "target": "Este último giro es sin duda un mazazo, pero ¡me anima no ver ni una sola cara nublada por la desesperación!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_EPHEMIE_000_120",
+      "hash": "8003C6373B09EFCF",
+      "target": "Yo ayudé a repeler la incursión de seres del Vacío en Lapis Manalis. Pelear contra Galateas dominadas por engendros no es algo que quiera repetir pronto, pero aun así fue un buen entrenamiento."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_125",
+      "hash": "EEBE0AE003D2169C",
+      "target": "Tataru es siempre la anfitriona más atenta. Agradecido estoy de poder dejar a un lado los debates graves y sencillamente charlar con viejos amigos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_CLEMENCE_000_130",
+      "hash": "A1730C6079163A1F",
+      "target": "Ay, Aenor... Esperaba que hubieras entrado en razón, pero veo que sigues en pleno síndrome de abstinencia."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_AENOR_000_135",
+      "hash": "F89AA0D5A369CB20",
+      "target": "¡Los hermanos se reencuentran y aun así persiste una distancia entre ellos! Qué cruel es el destino al obligarme a elegir..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_KRILE_000_140",
+      "hash": "C8131C6E3840F1E1",
+      "target": "Oír las historias de nuestros compañeros me recuerda a mis esfuerzos por dominar la pictomancia. Todos hemos llegado muy lejos, con muchísimo empeño."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_GRAHATIA_000_145",
+      "hash": "C13420618740B11C",
+      "target": "Incluso después de comentar las revelaciones sobre Calyx, queda muchísimo por contar. ¡Cuesta saber por dónde empezar!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_200",
+      "hash": "BA6A09BADE0185D7",
+      "target": "No fue en absoluto una decisión fácil, pero, siendo ahora el Solsticio nuestra preocupación principal, Alisaie y yo hemos optado por retirarnos formalmente de nuestra labor en Garlemald."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_201",
+      "hash": "FBCA35B27F4443D2",
+      "target": "Al fin y al cabo, todo lo que hagamos por proteger nuestro mundo servirá también para mantener a salvo a los garleanos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_202",
+      "hash": "FE09BAC5605F201C",
+      "target": "Jullus y los suyos ya trabajan por su cuenta hacia un futuro mejor. Sinceramente, me preocupamos más nosotros."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_203",
+      "hash": "5222D610A2C92C89",
+      "target": "Cuesta muchísimo ver el camino que tenemos delante. Pero ojalá salgamos de esta y algún día podamos volver a Garlemald con la cabeza bien alta..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_204",
+      "hash": "B19BFF0D2DFCEEF4",
+      "target": "Así es... Mientras tanto, escribamos una carta a Jullus y a la comunidad. No debemos dejar que la desesperación nos frene la mano."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_205",
+      "hash": "5BF3137C9AE3BE88",
+      "target": "Apenas tuvimos tiempo de ponernos al día con madre y padre en Sharlayan. Espero que no se ofendan por una visita tan breve..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_HOARYBOULDER_000_210",
+      "hash": "4BF8C130E53046F6",
+      "target": "Coultenet y yo nos quedamos en Corvos para vigilar la situación entre los garleanos y los corvosianos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_HOARYBOULDER_000_211",
+      "hash": "6AAB01206600C06F",
+      "target": "Aunque pocas veces fue un camino de rosas, con el tiempo la región se calmó y pudimos volver."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_COULTENET_000_212",
+      "hash": "791A88912F81F5A0",
+      "target": "Tengo entendido que la comunidad garleana ha avanzado mucho en mejorar sus relaciones con otros pueblos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_COULTENET_000_213",
+      "hash": "09C90D23C5AEB47E",
+      "target": "Al oírlo, siento un ánimo renovado para resolver los problemas de Corvos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_EPHEMIE_000_214",
+      "hash": "022683782DC087F2",
+      "target": "Pues quizá te apetezca oír más sobre los logros de los garleanos de boca mía y de los gemelos. ¡Puede que te avive aún más esa llama!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_HOARYBOULDER_000_215",
+      "hash": "988C75F2DA4B8E58",
+      "target": "¿Le han llevado sus aventuras alguna vez a Corvos? Aunque aún conserva las cicatrices de la guerra, es una región preciosa y bien merece una visita."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_220",
+      "hash": "4758D94A01F4639B",
+      "target": "Después de que Urianger y yo nos separáramos del grupo, decidimos pasar un tiempo explorando Xak Tural. Nunca tuvimos ocasión de visitarlo durante el rito de sucesión, ya ves."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_221",
+      "hash": "B7E38182B6A10DEC",
+      "target": "Viajamos al este por Loazeniheta y luego subimos por la costa hasta los gélidos confines del norte, donde veneran a una legendaria bestia marina. La excursión no hizo más que confirmar lo diverso que es Tural."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_222",
+      "hash": "210C6FC0C5E7F328",
+      "target": "También nos reunimos con los Whalaqee. Aunque no tuvimos tiempo de estudiar sus artes a fondo, presenciamos varias demostraciones fascinantes."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_URIANGER_000_223",
+      "hash": "6CCA917B1775B1E1",
+      "target": "Ojalá hubiéramos podido dar más rienda suelta a la curiosidad y viajar a tierras aún más lejanas. Para bien o para mal, el pragmatismo templó nuestras ansias de andar."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_225",
+      "hash": "9F25E808C5FE48A0",
+      "target": "Baste decir que aún nos queda mucho continente por ver. Me gustaría muchísimo volver si se da la ocasión."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_THANCRED_000_230",
+      "hash": "F6FC45D24D383DC4",
+      "target": "Por lo visto, el paisaje del extremo sur de Yok Tural también es único. Entiendo que Ketenramm quedara tan prendado de tanta inmensidad."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_YSHTOLA_000_240",
+      "hash": "0FC38A01905403A7",
+      "target": "A juzgar por tu atuendo, Clemence, tus estudios habrán sido productivos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_CLEMENCE_000_241",
+      "hash": "9E2F0315B0F8B113",
+      "target": "¡Así es! He dominado más o menos los principios fundamentales de la astrología sharlayana."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_CLEMENCE_000_242",
+      "hash": "10F11D4396BC18ED",
+      "target": "En algún momento pensé en explorar otras artes curativas, pero decidí perseverar con un entrenamiento más centrado para aprovechar mejor mis habilidades en el campo de batalla."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_AENOR_000_243",
+      "hash": "A8FBDCDEA4F4345D",
+      "target": "No creo que ahora mismo sirviera de mucho en un campo de batalla. Apenas puedo sostener el arco firme, ya no digamos acertar a un blanco... Tan cruelmente privada como estoy de atenciones fraternales..."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_CLEMENCE_000_244",
+      "hash": "3DE85AEF2829C3BF",
+      "target": "¡<italic(1)>Sabía<italic(0)> que aún necesitabas supervisión constante!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_YSHTOLA_000_245",
+      "hash": "96EA04546246321F",
+      "target": "Vosotras dos no habéis cambiado ni un ápice. Me hace preguntarme cómo estarán los compañeros que hoy no han podido venir."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_YSHTOLA_000_250",
+      "hash": "CA9242DDBB00FB17",
+      "target": "Ver juntas a las dos hermanas me ha hecho pensar en <italic(1)>mis<italic(0)> hermanas y hermanastras... Las doce tuvimos ocasión de reunirnos no hace mucho."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_OCHERBOULDER_000_260",
+      "hash": "8ECAEBDB9215088B",
+      "target": "Aenor y yo entrenábamos en Gridania cuando los seres del Vacío atacaron el Bosque de los Doce. Por suerte pudimos repelerlos con la ayuda de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_OCHERBOULDER_000_261",
+      "hash": "27C2214991A0ACF7",
+      "target": "Cuando supe que la invasión ya se había extendido por todo el astro, comprendí la gravedad de la situación y mandé enviar un informe confidencial a los demás Herederos."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_KRILE_000_262",
+      "hash": "1EBC1FD923A11C7F",
+      "target": "¡Por eso avisaron a Tataru tan rápido! Gracias a ti pudimos correr a Garlemald."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_GRAHATIA_000_263",
+      "hash": "5B5F9C3595570F76",
+      "target": "Aunque las circunstancias y el deber nos separen, seguimos unidos por un propósito común."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_OCHERBOULDER_000_264",
+      "hash": "535080827C666786",
+      "target": "Así es. ¡Que ese propósito siga guiándonos ahora que volvemos a estar juntos!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_OCHERBOULDER_000_265",
+      "hash": "870210073741DA92",
+      "target": "Hasta hoy llevaba tiempo sin ver a Hoary. ¡Ojalá se dé cuenta de lo mucho que he progresado desde la última vez!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TATARU_000_300",
+      "hash": "83681FEF91A26074",
+      "target": "¡Parece que todos tienen muchísimo que contarse!"
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TATARU_000_301",
+      "hash": "E9427AB7A42B6CDF",
+      "target": "En cualquier caso, ¡ya os toca un descanso en condiciones! La calma os ayudará a pensar."
+    },
+    {
+      "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TATARU_000_302",
+      "hash": "01A3D9C5AF851821",
+      "target": "¡Poneos cómodos en el Descanso del Alba!"
+    }
+  ]
+}

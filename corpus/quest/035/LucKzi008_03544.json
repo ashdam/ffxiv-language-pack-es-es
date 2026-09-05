@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/035/LucKzi008_03544",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SEQ_00", "hash": "07608DD55B1A20D4", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Sylgran busca una segunda opinión." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_TODO_00", "hash": "BAC9E834E33F8AC4", "target": "Examinar los montículos de tierra" },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_TODO_01", "hash": "7BA53C2C0E0E39F4", "target": "Hablar con Sylgran" },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_000", "hash": "47E329EEC59FADB1", "target": "Saludos, forastero, y bien hallad<if(gnum4,a,o)>. Dicen que la gente no suele desviarse para visitar Amity. Yo, en cambio, vine aquí con la idea de cultivar la tierra." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_001", "hash": "2F0C656DF2019BA3", "target": "...¿Qué, no cree que un hombre pueda cultivar esta tierra? Bueno, tiene usted pinta de ser <if(gnum4,una viajera curtida,un viajero curtido)>." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_002", "hash": "E0C4A45D907395CE", "target": "¿Por qué no se acerca a mi «campo» de ahí atrás y lo comprueba usted mism<if(gnum4,a,o)>? Siento curiosidad por saber qué posibilidades cree que tengo de domar este suelo estéril..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_003", "hash": "7AC8D3C16620B602", "target": "Mi «campo» está justo ahí. Ahora mismo no es más que unos montículos de tierra, pero por algo hay que empezar, ¿eh?" },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYSTEM_000_010", "hash": "79B0F691F72D5997", "target": "La tierra está seca como un hueso..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYSTEM_000_011", "hash": "D055D8591122E3F1", "target": "No parece crecer nada aquí..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYSTEM_000_012", "hash": "06D1B4D7D88381AD", "target": "La tierra se ha endurecido y agrietado..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYSTEM_000_013", "hash": "D457DF0E8D1AB35B", "target": "Aquí ni las malas hierbas quieren crecer..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYSTEM_000_014", "hash": "D851F800CB4BE11A", "target": "Ha brotado un diminuto retoño, pero ya empieza a marchitarse." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_020", "hash": "1FC5307555A4D657", "target": "Y bien, ¿qué le ha parecido mi cosecha?" },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_021", "hash": "8F4BD214E1AD0B9A", "target": "¿Oho, una de las semillas había brotado? ¡Qué maravillosa noticia! No tuve tanta suerte en mi intento anterior." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_022", "hash": "9831BA775F8F4696", "target": "Sí, hasta una pequeña victoria como esa merece celebrarse... me acerca un paso más a convertir mi pequeña parcela en el campo de labranza con el que ahora sueño..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_023", "hash": "1F43C3DF1D7B65E9", "target": "...Un sueño que algunos dicen que nunca se hará realidad. Y sin embargo, escarbar aquí en la tierra ya me ha traído más plenitud de la que jamás sentí en la vida vacía que llevaba en Eulmore." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_024", "hash": "F1F2453EE22036C9", "target": "¡No es que no me aterrara cuando me echaron por la puerta, ojo! Exiliado por una disputa insignificante, y sin nada salvo las pocas joyas que oculté en mi persona..." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_025", "hash": "9DA7A28D7713E0C3", "target": "La venta de esas baratijas me reportó una modesta suma, que en su mayor parte ha ido a parar a mi empresa agrícola." },
+    { "gameKey": "quest/035/LucKzi008_03544#TEXT_LUCKZI008_03544_SYLGRAN_000_026", "hash": "90B08D0EFF3C707A", "target": "Así pues, si mis cultivos no dan cosecha antes de que se agoten mis fondos, me quedaré sin nada en este mundo. ¡Ah, nunca me he sentido tan vivo! Tenga, amig<if(gnum4,a,o)>... unas monedas por sus servicios." }
+  ]
+}

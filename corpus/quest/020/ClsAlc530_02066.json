@@ -1,0 +1,100 @@
+{
+  "conversation": "quest/020/ClsAlc530_02066",
+  "questName": "Magic Marks the Spot",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_00",
+      "hash": "53BD2BF70258F1BE",
+      "target": "La mirada de Wiltwaek dice que algo nuevo se está tramando."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_01",
+      "hash": "C6F73F469C368A15",
+      "target": "Según Wiltwaek, los ladrones han vuelto a atacar, esta vez llevándose varios artefactos allaganos del Hallazgo de San Coinach. Durante su huida, uno de los ladrones dejó caer un curioso documento: un mapa de Mor Dhona, cubierto de extraños símbolos. Wiltwaek cree que se trata de una especie de código que la banda usa para comunicarse. Comprender su significado es crucial para la investigación, así que te pide que le muestres el mapa cifrado al mayor experto en cifrados del reino: Baderon, dueño de Drowning Wench en Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_02",
+      "hash": "C3C1ECDD612FDB03",
+      "target": "Tras echar un vistazo al mapa cifrado, Baderon anuncia que en realidad no está cifrado en absoluto. Los símbolos no tienen significado, sino que sirven para distraer del verdadero mensaje del papel. Este probablemente esté escrito con algún tipo de tinta invisible, dice el tabernero. Regresa con esta sorprendente interpretación a Wiltwaek en el Peaje del Aparecido."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_03",
+      "hash": "8C7B47CDDD1CD8ED",
+      "target": "Wiltwaek queda impresionado por la aguda deducción de Baderon y pide a Chanene que informe de que ellos también han descubierto algo sobre el mapa. El papel no tiene interés, pero los símbolos están escritos con tinta encantada. Tras pedir tu opinión de experto y enterarse de que la tinta encantada se usa para la magia arcana, Chanene intenta activar la geometría arcana. Sin embargo, todo lo que logra es percibir un extraño bloqueo en la superficie del mapa. Wiltwaek comprende que ese es precisamente el propósito del mapa: dirigir a los criminales hacia su objetivo. Rápida de reflejos, Chanene propone que los tres creéis mapas falsos para atraer a los culpables al descubierto. Wiltwaek acepta y te pide que elabores tres botellas de enchanted mythrite ink de alta calidad para las falsificaciones."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_04",
+      "hash": "28ABFB49D09603F6",
+      "target": "Wiltwaek acepta agradecido la enchanted mythrite ink y dice que pondrá a Chanene a trabajar en los mapas de inmediato. Planea atraer a los maleantes al Hallazgo de San Coinach, donde serán fácilmente visibles entre los investigadores. Reúnete con él allí, pues nunca se sabe cuándo un alquimista puede resultar útil."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_05",
+      "hash": "AF1EE62399579FBE",
+      "target": "Encuentras a Wiltwaek y Chanene con un sospechoso ya bajo custodia: un joven que parece proceder del Cercano Oriente. Sin embargo, al examinarlo de cerca, Wiltwaek se da cuenta de que su silencio no es terquedad, sino algo forzado. Sospecha que hay alguna pócima infame en juego y se pregunta en voz alta si el joven del Cercano Oriente es una víctima y no un criminal. Cuando Chanene se dispone a marcharse, de pronto advierte a un extraño hombre que os observa desde las sombras. Wiltwaek lo llama, pero el tipo simplemente se aleja. Perplejo, Wiltwaek comenta que los criminales están jugando con poderes peligrosos y te pide que vuelvas a prestar tu ayuda cuando surja la necesidad.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 55."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_00",
+      "hash": "79745FE25E1471C0",
+      "target": "Mostrar el mapa cifrado a Baderon en Limsa Lominsa"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_01",
+      "hash": "EB45F7D6FFD79126",
+      "target": "Devolver el mapa cifrado a Wiltwaek"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_02",
+      "hash": "68AF31A19DAE7C12",
+      "target": "<if([lnum1<lnum2],Sintetizar enchanted mythrite ink <sheet(Addon,9,0)>,Entregar los frascos de enchanted mythrite ink <sheet(Addon,9,0)> a Wiltwaek)>"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_03",
+      "hash": "1F2C2115350E248B",
+      "target": "Reunirse con Wiltwaek en el Hallazgo de San Coinach"
+    },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_000", "hash": "877A87DB4159D6DB", "target": "¡<split(<string(gstr1)>, ,1)>! Bien, tengo un trabajo para usted. El Hallazgo de San Coinach sufrió un robo hace unas campanadas. Los ladrones se llevaron varios artefactos allaganos, muchos de ellos excavados hace poco." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_001", "hash": "BEC2BA6323CF4D9D", "target": "Un guardia dice que uno de ellos dejó caer este mapa de Mor Dhona durante su huida. Pero está cubierto de símbolos extraños. Un mensaje en clave, tal vez, o un cifrado. Debemos desentrañar sus secretos." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_002", "hash": "C7D5E74058FF63AD", "target": "El dueño de Drowning Wench, en Limsa, puede ayudar. <switch(gnum70,Ya ha conocido a Baderon\\, ¿verdad,¿Ha oído hablar de Baderon,¿Ha oído hablar de Baderon)>?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_003", "hash": "EE03DDC29DC6D838", "target": "Es el mayor experto del reino en cifrados... lo cual resulta irónico si lo conoce. Pero creo de veras que sabrá leer los símbolos, y necesitará un alquimista que desenrede su significado. Que los dioses lo acompañen, amigo mío." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_010", "hash": "796F31D54883E806", "target": "El tiempo apremia, <split(<string(gstr1)>, ,1)>─yo no tardaría mucho en llevarle el mapa cifrado a Baderon." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_030", "hash": "AAE0AFB19836EB4C", "target": "Salud, <if(gnum4,muchacha,muchacho)>. Traes cara de pocos amigos, ¡pero una jarra de lo mejor de la Moza te lo cura! O... ¿es que quieres otra cosa?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_040", "hash": "2E5189127ABAFFCD", "target": "¿Unos maleantes usando un cifrado, y crees que hay alquimia de por medio? Bueno, los alquimistas siempre han guardado sus secretos con claves y demás. Pero te aseguro que esto no lo es. No es más que un condenado galimatías." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_041", "hash": "2562392B142E4616", "target": "Yo, en su lugar, tiraría del doble engaño. Escribes el mensaje <italic(1)>de verdad<italic(0)> con tinta invisible o algo así, y encima garabateas un cifrado falso. Así engañas a los que no conocen la clave, y despistas a los que <italic(1)>sí<italic(0)> la conocen." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_042", "hash": "7DFF1BCE2FF78963", "target": "Mi humilde opinión, claro. Y no puedo decirte qué es lo que dice. Pero cuidado con pasarle cada palabra a quien te haya enviado, ¿eh?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_050", "hash": "0A2DE3BBDD7DBD5A", "target": "He estado dándole vueltas a tu mapa cifrado, <if(gnum4,muchacha,muchacho)>. Quien tuvo la idea de usar tinta invisible es de lo más listo. Ándate con ojo, ¿eh?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_055", "hash": "DC08269FD35D8640", "target": "¿Ya ha descubierto los secretos del mapa, <split(<string(gstr1)>, ,1)>?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_070", "hash": "563A7526436A8B59", "target": "¿Baderon supo aclarar algo sobre el cifrado?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_080", "hash": "91C66CB48896BDBA", "target": "Una farsa para distraernos del mensaje real, escrito con tinta invisible, ¿eh? ¡Genial! Pues descuide, que nosotros tampoco hemos estado de brazos cruzados. ¿Chanene?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_081", "hash": "3363211EBB139A47", "target": "Mandé analizar un trozo del mapa. El papel no tiene nada de particular, pero me dicen que los símbolos estaban escritos con «tinta encantada». <split(<string(gstr1)>, ,1)>, ¿qué es eso?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_Q1_100_090", "hash": "60BA2D79D6A23F82", "target": "¿Qué es la tinta encantada?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_A1_101_090", "hash": "E26F48503FCFA2F9", "target": "Tinta para escribir grimorios." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_A1_102_090", "hash": "04954DAA35B740DD", "target": "Un conductor etéreo superior." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_101_091", "hash": "E1E512C8350C0E2F", "target": "Ah, ¿te refieres a trazar geometrías? ¿Y estaría en lo cierto si pienso que, cuanto más propicia al éter sea dicha tinta, mayor será la magia que puede canalizar?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_102_091", "hash": "03B9D5DD14799EA5", "target": "Ah, ¿así que la mithrita aumenta la conductividad etérea? Y supongo que la magia arcana depende de esta tinta para canalizar sus magias, ¿no?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_092", "hash": "A216C47EBB3CFF72", "target": "En teoría, estos símbolos <italic(1)>son<italic(0)> una geometría arcana. Así que, si canalizo magia hacia el mapa, algo debería ocurrir." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_093", "hash": "026E2595645F3F82", "target": "Nada. Sentí la magia fluir, pero se detuvo sin más─como si chocara contra un muro. Cerca de la escena del crimen, si tuviera que precisarlo." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_094", "hash": "B2C0A459163E6992", "target": "¡Ya lo tengo! ¡Ese punto donde se detiene <italic(1)>es<italic(0)> el objetivo del criminal! ¡El mapa indica adónde ir cuando se canaliza magia en él!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_095", "hash": "0B4A5CAC8BC5BCEF", "target": "¡Brillante! Y... y si se guían por estos mapas para orientarse, podríamos atraerlos directamente hacia nosotros con un mapa falso... ¿verdad?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_096", "hash": "DBC5FDD580A13AFF", "target": "¡Quizá sí! Hace un tiempo encontré un fragmento de un mapa similar cerca del camino. Si es ahí donde los criminales dejan sus encargos..." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_097", "hash": "B3D1E3A6567B89FC", "target": "¡Entonces sabemos dónde dejar las falsificaciones! Si nuestras copias cuelan, podríamos enviarlos a donde quisiéramos─¡incluso a una mazmorra, si nos diera la gana!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_098", "hash": "C56C0A18F44C9734", "target": "Chanene, tú tienes buena mano con la pluma, así que te encomiendo los mapas. <split(<string(gstr1)>, ,1)>, ¿podría preparar enchanted mythrite ink? ¡Con tres frascos de la mejor calidad, veremos si no atrapamos a esos malnacidos!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_120", "hash": "14CAE1E76A2F4867", "target": "Sé que le pedí enchanted mythrite ink, pero me han informado de que es una receta delicada. ¿Se ve con fuerzas?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_130", "hash": "329C6CBBE6D247AF", "target": "¡Ya veo por qué Severian lo tiene en tan alta estima! Con esta tinta y un poco de suerte, podremos sacar a nuestros criminales a campo abierto." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_131", "hash": "7D10A4D6CAE1DA1F", "target": "Ahora bien, Chanene y yo hemos elegido el Hallazgo de San Coinach. Allí será endiabladamente difícil que se nos escape el sospechoso. Venga con nosotros, <split(<string(gstr1)>, ,1)>─es más seguro tener un alquimista a mano que no tenerlo." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_140", "hash": "4A4C6C90DED8780A", "target": "Es una buena treta, pero me pregunto si de verdad atraerá a nuestros criminales al Hallazgo de San Coinach." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_145", "hash": "B3A51C6FFD61B2F6", "target": "Bueno, esta es la rata que cayó en nuestra trampa. Pero está un poco... ido." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_NEAREASTMAN02066_000_150", "hash": "A7501BF4E2B7F24C", "target": "..." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_160", "hash": "D3EC7C4E14894C34", "target": "Contemplen a nuestro culpable─capturado no hace ni cinco minutos ¡<italic(1)>con<italic(0)> el mapa falso encima!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_161", "hash": "BF520535E770306A", "target": "Pero es extraño. No ha dicho ni una sola palabra, ni siquiera en su defensa. ¡Vamos, muchacho, habla! ...¿Es que no me oyes?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_NEAREASTMAN02066_000_162", "hash": "2F852E5419E18578", "target": "..." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_163", "hash": "A7FA1D2696B2A32F", "target": "Vaya suerte la nuestra─está en trance. Algo lo ha dejado mudo. O... o de algún modo lo han <italic(1)>silenciado<italic(0)>." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_164", "hash": "03B8ECEF6997ACD3", "target": "Wiltwaek, ¿estás insinuando que nos hemos equivocado? ¿Que este muchacho es en realidad una víctima, despojada de su mente por un... un hechizo o una poción o algo así?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_165", "hash": "A4B53A9A716ECB2B", "target": "Esa es mi sospecha, sí, aunque sin conocer su identidad no es más que conjetura. A simple vista, yo diría que es del Cercano Oriente." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_166", "hash": "4E94255B5D06C905", "target": "¿Como la cuna de la alquimia? Eso no puede ser casualidad. Y ahora─ Hola, ¿quién es ese individuo?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_167", "hash": "4629072085A8308E", "target": "¡Eh! ¡Usted! ¡Disculpe!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_168", "hash": "7A7F3BDDE4D83FB9", "target": "¡Qué grosero! A juzgar por su atuendo, también era del Cercano Oriente. Pero ¿por qué nos ignora?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_169", "hash": "8E02D574C31EC0D5", "target": "Otro misterio más. Pero al menos tenemos una pista─este muchacho está en el centro de todo esto, sea culpable o víctima. El Gremio de Aventureros puede mantenerlo bajo custodia protectora." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_170", "hash": "A8808F02D1F11BFC", "target": "Sea lo que sea lo que lo dejó en este estado, es peligroso, y quienes esgrimen ese poder lo son doblemente. Poca duda me cabe de que pronto necesitaremos de nuevo su pericia, <split(<string(gstr1)>, ,1)>." }
+  ]
+}

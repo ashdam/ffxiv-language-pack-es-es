@@ -1,0 +1,523 @@
+{
+  "conversation": "quest/048/KinGma108_04867",
+  "questName": "The Feat of Reeds",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SEQ_00", "hash": "714D111DFD95DCCA", "target": "Wuk Lamat está deseosa de ayudar a resolver los males de los hanuhanu." },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_TODO_00", "hash": "67E25CF90832DE97", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_TODO_01", "hash": "029125AA91814AEA", "target": "Investigar los Fields of Gold" },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_TODO_02", "hash": "BD524F1C78482C85", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_TODO_03", "hash": "CF7442BD684D3BEF", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_TODO_04", "hash": "9C7B03AC695EF973", "target": "Hablar con Krile" },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_001",
+      "hash": "988E6A02D10F1903",
+      "target": "Entiendo que no quiera quedarse atrás, pero lanzarse a lo loco es hacerles el juego a nuestros rivales. ¡No hagamos ninguna imprudencia y pensemos las cosas!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_005",
+      "hash": "11AC246506C4CBFF",
+      "target": "Una prueba así está hecha a medida para un erudito racional e instruido como Koana."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_010",
+      "hash": "EC7F02264FD6EAB8",
+      "target": "¿Así que los Hanuhanu también <italic(1)>comen<italic(0)> los juncos? Otra cosa más en la que se diferencian de los Vanu..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALISAIE_000_015",
+      "hash": "3870B1CD7F0E9578",
+      "target": "No pienso darle el gusto de responderle, pero las provocaciones de Bakool Ja Ja cuesta ignorarlas."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_025",
+      "hash": "8C073FF2F7D54053",
+      "target": "No tengo ni idea de agricultura, pero si hay una forma de salvar la cosecha y ayudar a los Hanu, ¡la vamos a encontrar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_026",
+      "hash": "174EB6BAA1512EA6",
+      "target": "Le haré tragarse sus palabras a Bakool Ja Ja..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_027",
+      "hash": "444E4BCD7BF79E19",
+      "target": "Entender la naturaleza del problema será la clave para resolverlo. Hay que examinar los propios juncos y deducir la causa de su mal estado."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_028",
+      "hash": "DE3CBB31010D39D1",
+      "target": "Erenville, ¿nos llevas a los campos donde cultivan los juncos?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_029",
+      "hash": "5427EF0858C8BC5A",
+      "target": "Claro. Seguidme."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_030",
+      "hash": "F43677CFA19E7E99",
+      "target": "¡Mirad estos campos! ¡Si parecen un cuadro!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_035",
+      "hash": "2EB86E4E008F16AE",
+      "target": "Sé que quiere dar lo mejor de sí, pero debería tener cuidado de no hacer promesas que no pueda cumplir."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_040",
+      "hash": "BF4334F2625AE79A",
+      "target": "Ya veo. Riegan los campos desviando agua del río vecino. Es poco probable que los juncos lleguen a secarse..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALISAIE_000_045",
+      "hash": "E20FE308646CD083",
+      "target": "Y yo que pensaba que estas pruebas nos harían combatir bestias temibles o algo así. La agricultura es un problema mucho más espinoso..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_050",
+      "hash": "5201CC4582555479",
+      "target": "Podéis apartaros todos. ¡Yo llego al fondo de este problema en un momento!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_051",
+      "hash": "B81FC7CFF332FF5E",
+      "target": "Dame fuerzas... Peinemos los campos entre todos y ayudemos a nuestra audaz líder a detectar cualquier cosa rara."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_060",
+      "hash": "9E67D26819F06A5B",
+      "target": "Mmm..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_065",
+      "hash": "C3AD2E312B89AA26",
+      "target": "¿Has tenido suerte?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_070",
+      "hash": "5E86FA3C30365DD8",
+      "target": "Por lo que veo, nada raro en los propios arrozales..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALISAIE_000_075",
+      "hash": "187FE17F1AC56B29",
+      "target": "Anda, un zapatero de agua. Aunque va lentísimo. Más bien un arrastrado de agua..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_076",
+      "hash": "CFFEBEE5DEC37BE9",
+      "target": "¡Yo encontraré la causa de todo esto! ¡De un momento a otro!"
+    },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SYSTEM_000_080", "hash": "DC56C4DD8DC17E82", "target": "Tal y como describió Zanuhali, los juncos se ven marchitos y enfermizos." },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SYSTEM_000_081", "hash": "1EE91E71C99C11D5", "target": "El agua no contiene contaminantes evidentes y, a primera vista, parece fresca y clara." },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SYSTEM_000_082", "hash": "A510EC9281AAC819", "target": "El barro de los arrozales es como cabría esperar: de color intenso y con la humedad justa, ni seco ni cuarteado." },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SYSTEM_000_083", "hash": "2268BB520F802C7D", "target": "Una ranita te llama la atención. Curiosamente apática, ni siquiera se molesta en saltar cuando por fin se escabulle." },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_090",
+      "hash": "F26AF3102537BD23",
+      "target": "¿Ya has visto bastante? ¡Reúno a todos y compartimos lo que hemos descubierto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_091",
+      "hash": "CD00EF08A3AF1072",
+      "target": "Bueno, ¿qué opinamos? ¿Algún problema evidente?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_092",
+      "hash": "162E07C1A501EFAE",
+      "target": "Coincido: el agua parece de buena calidad, igual que el barro en el que están plantados los juncos."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_093",
+      "hash": "3B8AFA3325D19050",
+      "target": "Las ranas y los insectos están inusualmente aletargados. Eso sugiere que el problema no afecta solo a los juncos, sino también a las criaturas que viven entre ellos."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_094",
+      "hash": "7E4EDA372C7225E5",
+      "target": "¿Podría estar contaminando el agua algo invisible a simple vista?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_095",
+      "hash": "9F5A50CA42DFE06D",
+      "target": "Haría falta un alquimista para saberlo con certeza..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_096",
+      "hash": "9DD298F0D3110DC9",
+      "target": "Sobre los campos no tengo mucho que añadir... pero se me ocurre otra cosa."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_097",
+      "hash": "29DD92ECDE7D5E96",
+      "target": "Cuando describíais lo apagadas que parecían las criaturas..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_098",
+      "hash": "BCBD2025D1E5FA2B",
+      "target": "No he podido evitar acordarme de todos esos aldeanos sin ánimo."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_099",
+      "hash": "95FB32583488F84B",
+      "target": "Han sufrido una tragedia terrible, ya lo sé... pero creo que hay otra razón para que estén tan decaídos."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_100",
+      "hash": "52F9B1D688762A7A",
+      "target": "Continúa..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_101",
+      "hash": "30E0010ECFE90E4E",
+      "target": "¡La fiesta! Es tradicionalmente una ocasión de celebración y renovación, así que sin ella ¡a los Hanu les cuesta aún más recuperarse!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_102",
+      "hash": "C5C783324A461EF0",
+      "target": "La última vez que vine, el poblado estaba en plenas fiestas. ¡Nunca verás a los Hanuhanu más alegres y llenos de vida!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_103",
+      "hash": "81E9EAA43A84CF62",
+      "target": "Es una parte indispensable de su cultura, y su ausencia solo agrava sus males. Así que yo digo que los ayudemos a celebrar su fiesta: ¡darles un motivo de alegría en estos tiempos tristes! ¿Quién sabe? ¡Quizá arreglar un problema nos lleve a la solución del otro!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_Q1_000_000",
+      "hash": "94C0C84FC3F0B316",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_A1_000_001",
+      "hash": "F22A4127F47510DD",
+      "target": "Cosas más raras se han visto."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_A1_000_002",
+      "hash": "9DEE48CF4AB6C9EA",
+      "target": "No sé yo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_105",
+      "hash": "9D90DB0804A58AF6",
+      "target": "¿Verdad que sí?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_106",
+      "hash": "7C87E0B439543262",
+      "target": "No consigo ver la relación entre fiestas y campos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_107",
+      "hash": "AEF6C955A568373D",
+      "target": "¿Tan rara es la idea...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_108",
+      "hash": "3AAEE799D1C23A65",
+      "target": "Yo tampoco consigo ver la relación entre fiestas y campos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_109",
+      "hash": "E478BDFFEBCA63DB",
+      "target": "No descartemos la idea tan deprisa. Cosas que parecen no tener relación acaban a veces conectadas de formas sorprendentes."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_110",
+      "hash": "E1DA5A17FF57936F",
+      "target": "Cierto. Y andando como andamos faltos de ideas, cualquier propuesta merece considerarse."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_111",
+      "hash": "4B4F1A7205447FE5",
+      "target": "Yo... supongo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALISAIE_000_112",
+      "hash": "2A632DB03F82EE93",
+      "target": "Además, este es el viaje de Wuk Lamat. Es de justicia que sigamos su criterio."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_113",
+      "hash": "9FF10190A4E610FB",
+      "target": "¡Gracias a todos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_114",
+      "hash": "2B0757083237E0D5",
+      "target": "Por cierto, ¿alguien sabe dónde está el palanquín de la fiesta? Es como una barca tejida con juncos con forma de pájaro..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_115",
+      "hash": "F610BEDC67CD905A",
+      "target": "¿En ese edificio grande del norte? ¡Vamos a verlo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_116",
+      "hash": "143C3303FCC74D8A",
+      "target": "Cuando viajo solo hay muchos menos debates..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_120",
+      "hash": "66C3FA0866478CB6",
+      "target": "Qué palanquín tan encantador. Me pregunto qué pájaro habrá inspirado su diseño..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_125",
+      "hash": "5E388B1F1839C6BE",
+      "target": "Nunca había estado aquí en temporada de fiestas, así que para mí también es todo nuevo."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_130",
+      "hash": "D32538845AF9470F",
+      "target": "Las varas me habían despistado antes, pero ahora entiendo para qué sirven."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALISAIE_000_135",
+      "hash": "67FBE2939F998C3D",
+      "target": "Mira qué tamaño tiene eso. Espero que no cuenten con que <italic(1)>yo<italic(0)> ayude a cargarlo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_140",
+      "hash": "50E8E3C4542522B0",
+      "target": "¡Sí, este es el palanquín que yo recordaba!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_141",
+      "hash": "1C1EAF2CC4ABA963",
+      "target": "Hm, ¿no os parece que está algo dañado...? Deberíamos mirarlo más de cerca."
+    },
+    { "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_SYSTEM_000_142", "hash": "07330828EF72EDE5", "target": "Observa la carroza del festival. Puedes mover la cámara y acercar o alejar el zoom. Fija un punto y examínalo con más detalle con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_146",
+      "hash": "695E2B97FF1A93E9",
+      "target": "Bueno, creo que todos coincidimos en que esta barca-pájaro necesita reparaciones urgentes."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_147",
+      "hash": "B57FD4C0CB42B449",
+      "target": "Y ahora, ¿cómo lo arreglamos...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_148",
+      "hash": "5FC5F4CD80F79EE9",
+      "target": "(-Hanu huraño-)¿Qué está pasando aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_149",
+      "hash": "5222DE8C5E474AC5",
+      "target": "Admirábamos vuestro palanquín de fiesta. Es una lástima que esté tan mal. Por la tormenta reciente, imagino."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_150",
+      "hash": "419D382E3DC15750",
+      "target": "(-Hanu huraño-)Sí, tuvimos que dejarlo a la intemperie mientras poníamos a salvo a nuestra gente. Con el palanquín así no puede haber Alzamiento de Alas. Ni Ihih'hana..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_151",
+      "hash": "5308D2E7FE7857C5",
+      "target": "¡<italic(1)>Ihih'hana<italic(0)>! Así se llamaba la fiesta. ¡Quiero ayudaros a celebrarla!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_152",
+      "hash": "0D9E899B377CB197",
+      "target": "(-Hanu huraño-)¿Pero has visto nuestro poblado? Las casas están en ruinas, apenas damos abasto con las reparaciones, ¿y quieres que celebremos una fiesta de la cosecha?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_153",
+      "hash": "D1F23996C1C437BC",
+      "target": "¡Ya sé cómo suena! Pero rendirse a la pena nunca ha mejorado la situación de nadie. ¡Una celebración de la vida y el crecimiento puede daros fuerzas para salir de esta tragedia!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_154",
+      "hash": "2AFF02D473F3EC9C",
+      "target": "(-Hanu huraño-)Este año me toca a mí ser el responsable de la fiesta, y nada me gustaría más que levantar el ánimo de todos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_155",
+      "hash": "1309546122C2D994",
+      "target": "(-Hanu huraño-)Pero no tenemos ni materiales para reparar el palanquín. Necesitamos abokixa para el ojo que falta, madera de uyuipo para las varas y plumas del Elegido del Viento para adornar la cola."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_156",
+      "hash": "46E6910EC98287B3",
+      "target": "Dos de esos los conozco: el abokixa es una piedra preciosa que se usa en equipo arcano, y la madera de uyuipo es esencial para fabricar instrumentos ceremoniales. Pero esas plumas del elegido..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_157",
+      "hash": "B0E764F553E698C2",
+      "target": "(-Hanu huraño-)El Elegido del Viento es quien gana una competición en la que se ve quién sopla una pluma más lejos usando magia de viento. Y ahí está el problema ahora mismo."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_158",
+      "hash": "5FB3191AE73CE6A9",
+      "target": "(-Hanu huraño-)Los Hanuhanu tenemos don para esa hechicería del aire, pero gastamos muchísimo maná al usarla. El esfuerzo nos agota enseguida, y no tener juncos que comer solo lo pone más difícil."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_159",
+      "hash": "3EF1D1CE2E84F17E",
+      "target": "Creo que lo entiendo. Vuestros juncos crecen rápido y con vigor, tanto que ahogan el desarrollo de las plantas cercanas. Deben de ser una fuente potente de las energías que os faltan por naturaleza."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_160",
+      "hash": "436D1F0662043E77",
+      "target": "(-Hanu huraño-)Así es. Con la mala cosecha de este año nos hemos quedado sin fuerzas. Y si no reunimos los materiales que marca la costumbre, no podemos reparar el palanquín."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_161",
+      "hash": "DE4ADC0207BA186B",
+      "target": "...Curiosamente, puede que acabemos de tropezar con nuestra solución."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_162",
+      "hash": "610244E9750D7728",
+      "target": "El Elegido del Viento tendría por fuerza un don natural para manipular energías mágicas. Lo que significa que las plumas del vencedor deberían tener alta conductividad etérea."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_163",
+      "hash": "FC60B5E59BF36D7E",
+      "target": "La construcción del palanquín exige además una piedra usada en equipo arcano y una madera preferida para útiles ceremoniales. Tanta exigencia de materiales concretos debe de tener un motivo de fondo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_Q2_000_000",
+      "hash": "343B4A935631D07A",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_A2_000_001",
+      "hash": "F66FDCF65BF4851D",
+      "target": "El palanquín podría funcionar también como artefacto arcano."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_A2_000_002",
+      "hash": "CCD970F1A3F6366E",
+      "target": "¡Apuesto a que el palanquín es un arma secreta para aplastar a los enemigos de los Hanu!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_A2_000_003",
+      "hash": "DF5B55EFBEEB3DE7",
+      "target": "Continúa con tu razonamiento, Alphinaud."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_165",
+      "hash": "E01A4EBB4649793C",
+      "target": "Justo lo que yo pensaba. Esta barca de juncos es en realidad una especie de catalizador arcano."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_166",
+      "hash": "6CD732FC14FE4D44",
+      "target": "¿Y hace qué? ¿Lanza rayos de luz abrasadora por los ojos o alguna tontería así? No hablarás en serio..."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_167",
+      "hash": "28686B5320109BC3",
+      "target": "Aunque es una suposición interesante, yo llegué a una conclusión algo distinta. Esta barca de juncos es en realidad una especie de catalizador arcano."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_168",
+      "hash": "A710ACF03D97D8E7",
+      "target": "Imagino que ya has llegado a la misma conclusión, pero creo que esta barca de juncos es en realidad una especie de catalizador arcano."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_169",
+      "hash": "BD79A90AA155AC5D",
+      "target": "¿Un catalizador? ¿Para qué? ...¡Oh! ¡Ihih'hana es una fiesta de la cosecha!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_170",
+      "hash": "176070B8C9CBB897",
+      "target": "¡Eso quiere decir que el palanquín se hizo para favorecer buenas cosechas! Así que, si lo reparamos y celebramos la fiesta, ¡su poder arcano podría arreglar lo que les pasa a los juncos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_171",
+      "hash": "99FF49BCBF1BB666",
+      "target": "No lo sabremos hasta probarlo, pero la teoría es sólida. Celebraciones, plegarias, ceremonias rituales: se sabe que todas ellas pueden provocar efectos milagrosos."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_172",
+      "hash": "1EE71A43227DCD32",
+      "target": "(-Hanu huraño-)Alto, alto, alto. ¿El palanquín, un instrumento de <italic(1)>magia<italic(0)>? Es la primera noticia que tengo."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_173",
+      "hash": "34ED24D363CC490E",
+      "target": "Puede que al principio no lo fuera. Tras un año de buena cosecha no habría motivo para cambiarlo. Pero cuando la cosecha era mala, es probable que se añadieran adornos nuevos, y quienes hicieron ese trabajo quizá lo cargaran de esperanzas ardientes de un futuro mejor."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_174",
+      "hash": "D98D6F797EE7EF1C",
+      "target": "A base de años de ensayo y error, los Hanu habrían refinado su palanquín hasta convertirlo en un catalizador para las plegarias de la cosecha."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_175",
+      "hash": "D370E0FE4BA5CBF3",
+      "target": "Increíble."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_176",
+      "hash": "1944E8506262B382",
+      "target": "Sé que estáis casi desmayándoos de hambre, pero recuperar Ihih'hana suena de verdad a la solución de todos vuestros males. Y os prometo que haremos todo lo que esté en nuestra mano para ayudaros."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_177",
+      "hash": "0B4319778AD95F6F",
+      "target": "(-Hanu huraño-)Sigo sin creerme lo del catalizador... pero aun así acepto vuestra ayuda. Os presentaré al carpintero de ribera que ha mantenido el palanquín estos últimos años."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_178",
+      "hash": "3647E5A7F6ED95EB",
+      "target": "(-Hanu huraño-)Ya ha cambiado antes los ojos y las varas, así que sabrá dónde y cómo conseguir lo que necesitamos."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ALPHINAUD_000_179",
+      "hash": "D6B57845FD8DD3B4",
+      "target": "Entonces dejadnos a Alisaie y a mí conseguir las plumas. Animaremos a la gente de Ok'hanu a reunirse y competir por el título de Elegido del Viento compartiendo con ellos nuestras propias reservas de maná."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_ERENVILLE_000_180",
+      "hash": "AEC0D598CDBA151B",
+      "target": "Yo voy con vosotros. Llevo unos preparados alquímicos que pueden dar el mismo resultado."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_181",
+      "hash": "0DA1B6C5558EA3A5",
+      "target": "¡Nosotros tres visitaremos al carpintero, entonces!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_182",
+      "hash": "5EFDC031E9FEC2BC",
+      "target": "(-Hanu huraño-)No sin mí. He trabajado duro para arreglar el palanquín lo mejor que he podido, y al fin y al cabo la responsabilidad es mía."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_100_182",
+      "hash": "5B64C9F6A6E230D6",
+      "target": "No... no me he presentado, ¿verdad? Me llamo Linuhanu."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_183",
+      "hash": "A9969563CB358E41",
+      "target": "Encantada, Linuhanu. Y por supuesto: ¡vamos todos juntos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_WUKLAMAT_000_190",
+      "hash": "558FC826BBB64742",
+      "target": "¡Ahora sí que avanzamos! ¡La solución a los males de Ok'hanu está prácticamente encontrada!"
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_LINUHANU_000_195",
+      "hash": "C0B6A80BC3CAA68A",
+      "target": "Encontrarme trabajando codo con codo con la mismísima Tercera Promesa es... inesperado, por decir poco."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_200",
+      "hash": "8558719381B951E7",
+      "target": "Gracias a Wuk Lamat hemos dado con un camino prometedor."
+    },
+    {
+      "gameKey": "quest/048/KinGma108_04867#TEXT_KINGMA108_04867_KRILE_000_201",
+      "hash": "6871372CC4656F22",
+      "target": "La experiencia y el conocimiento son bienes valiosos, pero algo tiene seguir el propio instinto."
+    }
+  ]
+}

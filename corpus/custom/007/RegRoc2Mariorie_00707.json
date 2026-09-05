@@ -1,0 +1,20 @@
+{
+  "conversation": "custom/007/RegRoc2Mariorie_00707",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_000", "hash": "65D0B4E3B7C81133", "target": "¡<split(<string(gstr1)>, ,1)>! ¿Debo entender su presencia aquí como que está dispuesto a honrarnos con una actuación de bis? Si es así, ¡con gusto mandaré llamar de inmediato a sus compañeros intérpretes!" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_001", "hash": "CD3D6131BB51FDDF", "target": "Ah, y si esta vez le gustaría probar suerte con una composición más exigente, con gusto le conseguiré otra partitura." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_Q1_000_000", "hash": "32E50B271294E9AE", "target": "¿Comenzar el concierto?" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_001", "hash": "795F31C2CFAE4721", "target": "Interpretar una pieza tradicional." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_002", "hash": "F3920E49A9FDA963", "target": "Interpretar una pieza elaborada." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_003", "hash": "644A84A95D6B4D91", "target": "Todavía no." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_A1_000_004", "hash": "25134C2324340D48", "target": "¿Cómo se hacía esto?" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_003", "hash": "0CC84762411A0740", "target": "Oh, pero discúlpeme. No pretendía presionarle así. Cuando le apetezca actuar, no tiene más que decirlo." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_004", "hash": "1C903274D157078B", "target": "Cuando comience la actuación, la orquesta interpretará una canción. Sincroniza tus pulsaciones con las indicaciones en pantalla." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_005", "hash": "89D5ACA6134AD567", "target": "Cuando aparezca una indicación azul (izquierda), sincroniza tu pulsación en el momento en que los rombos se superpongan.<br>Cuando aparezca una indicación naranja (centro), realiza varias pulsaciones rápidas hasta que la indicación desaparezca.<br>Cuando aparezca una indicación roja (derecha), mantén pulsada la tecla durante toda la indicación." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_006", "hash": "FBCC363CF795DBF7", "target": "Los controles son los siguientes:" },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_007", "hash": "BE76EAEAA4D32BBF", "target": "<if([gnum80==0],Ratón: clic izquierdo o clic derecho en cualquier punto de la pantalla<br>Teclado: cualquier tecla estándar sin modificadores<br>Ten en cuenta que el chat quedará desactivado temporalmente.,<if([gnum75>0],Mando,Gamepad)>: todos los botones y los botones direccionales salvo <icon2(18)>)> " },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_SYSTEM_000_008", "hash": "9D6BE0010E3ABE33", "target": "Para acceder al menú de pausa, pulsa la tecla <if([gnum78==3],esc,Esc)> o el botón <icon2(18)>, desde donde puedes optar por finalizar la actuación." },
+    { "gameKey": "custom/007/RegRoc2Mariorie_00707#TEXT_REGROC2MARIORIE_00707_MARIORIE_000_999", "hash": "D708880AF101808E", "target": "Ah, <split(<string(gstr1)>, ,1)>. Estoy haciendo los preparativos necesarios para una actuación de bis mientras hablamos. Le ruego que vuelva a pasarse un poco más tarde si le apetece compartir de nuevo la alegría de la música." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/009/GaiUsc106_00957",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_SEQ_00", "hash": "B297228266DF1748", "target": "A Helmhart se le ha metido en la cabeza que eres su hombre de confianza, y vuelve a ti con una petición aún más de pelos de punta." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_SEQ_01", "hash": "57DE76145CA2A81A", "target": "La dolencia de Helmhart ha empeorado, y empieza a ceñirse los lomos para lo que bien podría ser la batalla final. Acecha a los golden fleeces cerca de la Muralla Ardiente y consigue cinco viales de sangre de snurble." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_SEQ_02", "hash": "FFB5B09A2772CB2C", "target": "Has drenado la sangre de tus presas vencidas. Lleva a toda prisa el carmesí cargamento a Helmhart mientras aún tenga fuerzas para aprovecharlo." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_SEQ_03", "hash": "1A480406BA38213A", "target": "Aferrando la sangre fresca de snurble, Helmhart prepara un tónico aún más nocivo que el anterior. Aplícate una cantidad generosa y piensa en Eorzea." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_SEQ_04", "hash": "39830EA4DFD32F83", "target": "Has cumplido con tus deberes con admirable impasibilidad. Aunque los gritos extáticos de Helmhart indican cierta eficacia, temes que, como la marea, sus entradas no esperen a nadie." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_TODO_00", "hash": "90709E903BC71648", "target": "Abatir a los golden fleeces y obtener sangre de snurble" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_TODO_01", "hash": "D9716A455874BF88", "target": "Entregar la sangre a Helmhart" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_TODO_02", "hash": "23F4FE144C0E9ED4", "target": "Aplicar el tónico de snurble en la cabeza de Helmhart" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_000", "hash": "13E806387749C22D", "target": "¡Oh, no, no, no, nooo! No funciona... ¡mi hastiado cuero cabelludo le hace ascos al brebaje de phurble!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_001", "hash": "2A1DFF3D4D89F532", "target": "¡Usted! ¡Es <if(gnum4,esa aventurera de fiar,ese aventurero de fiar)>, <split(<string(gstr1)>, ,1)>! ¡Necesito que me traiga algo a toda prisa!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_002", "hash": "0AE8E995D4F9D7DA", "target": "El tiempo apremia y el peine es un ama cruel. Mucho he temido que llegara este día... ¡pero estoy listo! ¡El tónico de phurble ha muerto; larga vida al tónico de snurble!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_003", "hash": "604030263A73A511", "target": "Sabe dónde conseguir sangre de snurble, ¿verdad?<br>...¿De los snurbles, dice? ¡Error! ¡La sangre de snurble se saca de los <italic(1)>golden fleece<italic(0)>! No le dé vueltas... ¡vaya a la Muralla Ardiente y mate cinco!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_010", "hash": "A54F94985CDFA158", "target": "¿Es este... el final? Pensaba que siempre nos tendríamos el uno al otro, mi pelo y yo..." },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_020", "hash": "4E17CB72E6C0A65A", "target": "¡Sangre de snurble! Usted, <if(gnum4,señora,señor)>, es <if(gnum4,una salvavidas,un salvavidas)>. Ahora, el tónico. Descorchamos los pepinos de mar... cuidado con los efluvios... y un chorrito de esto, una pizca de aquello... ¡y listo!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_021", "hash": "85121F36F30B7E71", "target": "¡No se ande con ceremonias, tictac, tictac! ¡Ponga empeño y <italic(1)>trabaje<italic(0)> mi cuero cabelludo!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_030", "hash": "18BFD4BF6E63967C", "target": "¡Ooh! ¡Ahhh! ¿Notáis eso, mis preciosas melenas? ¡Papá viene a salvaroooos!" },
+    { "gameKey": "quest/009/GaiUsc106_00957#TEXT_GAIUSC106_00957_HELMHART_000_031", "hash": "37DEE3ABB720C640", "target": "Una vez más, estoy en deuda con usted. Ahora que nos conocemos mejor, puedo revelarle la verdad: este pelo me mantiene vivo. Siento un gran desfallecimiento del espíritu cada vez que se queda un mechón en mi peine. ¡Sin duda, prueba suficiente!" }
+  ]
+}

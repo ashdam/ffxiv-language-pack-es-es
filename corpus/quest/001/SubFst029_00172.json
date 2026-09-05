@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/001/SubFst029_00172",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_00", "hash": "D9430E1337EEBCB9", "target": "Arold necesita a un aventurero que le suministre un hi<-->potion." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_01", "hash": "2E5ABD7AF6F5CDAC", "target": "Arold, un Vigía del Bosque apostado en la Aguja de Gilbert, fue despiadadamente zarandeado por una horda de squirrels y está en mal estado. Por desgracia, se ha quedado sin hi-potions y no puede abandonar su puesto para conseguir más en el mercader del Bannock. Ayuda a Arold llevándole la medicación que necesita." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_SEQ_02", "hash": "12E8CBB1FAD46979", "target": "Gracias a tu amabilidad, Arold debería recuperarse pronto. Aunque sus heridas sanarán, jura permanecer alerta, no sea que la Selva de los Doce vuelva a castigar su descuido." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_TODO_00", "hash": "AF307C5996622F36", "target": "Dar un hi-potion a Arold" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_1", "hash": "19F469DA6F002BC0", "target": "Ay, dioses, qué dolor...<br>Antes pillé a un grupo de squirrels royendo las cercas. Conseguí ahuyentarlos, pero no sin que antes decidieran ponerse a roer<italic(1)>me<italic(0)> a mí. ¡Y así, hecho un desastre sangriento, es como me ve!" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_2", "hash": "491C84E0E4FFB719", "target": "Para colmo, me encuentro sin una sola hi-potion. Lo sé, lo sé... una temeridad. Recuerdo vagamente haber usado la última tras un rasguño de nada hace varias lunas... Solo los dioses saben por qué no se me ocurrió reponerla en el acto. ¿No llevará usted por casualidad un frasco de sobra?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_3", "hash": "E30DABEC832A16C3", "target": "Si no lleva ninguna encima, la mercader del Bannock debería tener en existencias. No puedo abandonar mi puesto, así que si pudiera traerme una hi-potion, se lo agradecería enormemente." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_10", "hash": "4DE71637C85D427C", "target": "Por los siete infiernos, ¿esos malditos squirrels dejaron alguna parte de mí sin tocar?<br>¡Ah, ha vuelto! ¿Tiene esa hi-potion para mí?" },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_11", "hash": "FD31F12A94E7F45E", "target": "¡Gracias a los dioses! Le debo una, <if(gnum4,amiga,amigo)>. Tenga, quiero que se quede con esto." },
+    { "gameKey": "quest/001/SubFst029_00172#TEXT_SUBFST029_00172_AROLD_000_12", "hash": "02C2871A25FC5C59", "target": "¡No tenía ni idea de que los squirrels mordieran tan <italic(1)>fuerte<italic(0)>! Creía haberlo visto todo, pero por lo visto la Selva de los Doce aún guarda sorpresas. A los dos nos conviene recordarlo." }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/024/StmBda308_02484",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SEQ_00", "hash": "01251275A7571982", "target": "Soroban está a punto de mostrarte un mundo nuevo, reluciente y esplendoroso." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SEQ_01", "hash": "55B852AE35A34248", "target": "Los objetos necesarios ya se han reunido y entregado a Soroban, así que te invita a reunirte con él en el extremo occidental de Tamamizu. Allí, donde el agua se arremolina en la superficie de la cúpula, realizará el ritual que te permitirá recorrer las profundidades con la misma soltura que cualquier Kojin, para que puedas comenzar tu búsqueda de la Yasakani<-->no<-->Magatama." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SEQ_02", "hash": "5D5184FBB53FABF5", "target": "La voz grave y atronadora de Soroban resuena en tus oídos mientras entona una oración sagrada a los kami de las profundidades. Con un destello de luz, queda hecho, y te dicen que puedes respirar bajo el agua igual que en tierra firme. El escepticismo de Alisaie se torna en asombro cuando atraviesa el portal y se encuentra en mar abierto, del todo a sus anchas. Pero eso no es todo, pues Soroban invoca para vosotros unas nobles monturas de gran fuerza. Y así, con la ayuda de las rayas rayadas, emprendes tu viaje hacia Sui<-->no<-->Sato." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SEQ_03", "hash": "46749E13E861971B", "target": "No tardas en llegar a tu destino: la aldea submarina de los Raen. Pero ¿estará este pueblo recluido dispuesto a ayudar a tu causa?" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_TODO_00", "hash": "F70BFEB5824CF93A", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_TODO_01", "hash": "A8B20891DD88A629", "target": "Hablar con Lyse" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_LYSE_000_000", "hash": "2491FEE4C16F35BA", "target": "¡Casi no puedo esperar!" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_ALISAIE_000_005", "hash": "1A432112E1765176", "target": "Cómo se supone que esta bendición va a evitar que nos ahoguemos está por ver..." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SOROBAN_000_010", "hash": "EC3AD384BDFE1907", "target": "¿Estáis listos, amigos, para explorar un mundo como ninguno que hayáis conocido?" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SOROBAN_000_011", "hash": "64D2416F62D3CDBB", "target": "Entonces vayamos a la parte occidental de la aldea, donde el agua se arremolina, y allí completaremos los preparativos del ritual." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_LYSE_000_020", "hash": "0F7726674A278DC4", "target": "Es aquí, ¿verdad? Hmm... No sé si me gusta el aspecto de ese remolino..." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_ALISAIE_000_030", "hash": "01B221B2B58BF41F", "target": "Se zambulló hace un momento y dijo que esperáramos aquí hasta que volviese..." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_040", "hash": "C66A272EAF561DF8", "target": "Gracias a la bendición de Soroban, ahora puedes <colortype(500)><edgecolortype(501)>sumergirte<edgecolortype(0)><colortype(0)> en aguas profundas y permanecer sumergido indefinidamente." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_041", "hash": "8419D53871395AEF", "target": "A los asentamientos submarinos como Tamamizu y Sui<-->no<-->Sato se accede a través de portales circulares." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_042", "hash": "2CA84734E28B3D64", "target": "Para salir de las aguas profundas, solo tienes que nadar hacia la superficie. Y a la inversa, para sumergirte en aguas profundas mientras nadas en la superficie, pulsa <if([gnum80==0],<colortype(546)>\\[Ctrl+Spacebar\\]<colortype(0)>,<icon2(9)>)>." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_043", "hash": "E652B4A64C42641C", "target": "Si te separas de tu montura, habla con Soroban en Tamamizu para montar una raya rayada." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SOROBAN_000_050", "hash": "B9C4DF369641BA97", "target": "¿Te ha tirado tu raya? ¡No importa! Invocaré otra... suponiendo que sea eso lo que deseas." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_051", "hash": "FCC783D1433A8A93", "target": "¿Montar una raya rayada?" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_ALISAIE_000_055", "hash": "42C8C6335137C340", "target": "Admito que tenía mis dudas, pero esta es una «bendición» digna de tal nombre. Uno no puede evitar preguntarse qué otras magias poseerán los Kojin..." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_LYSE_000_060", "hash": "3B496CAF22853FD4", "target": "Esta debe de ser Sui<-->no<-->Sato, la aldea Raen de la que nos habló Soroban." },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_LYSE_000_061", "hash": "B71D93AC4A6C4337", "target": "¡Muy bien! ¡Veamos si pueden ayudarnos a encontrar la joya perdida de los Kojin!" },
+    { "gameKey": "quest/024/StmBda308_02484#TEXT_STMBDA308_02484_SYSTEM_000_062", "hash": "8489BAB96851B56E", "target": "¡Ahora puedes usar emotes acuáticos!" }
+  ]
+}

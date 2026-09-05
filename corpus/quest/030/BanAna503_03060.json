@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/030/BanAna503_03060",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_SEQ_00", "hash": "DAE6442574D549BC", "target": "El campamento cercano de la Resistencia necesita ayuda, y Eshana tiene intención de enviarte.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptarla." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_TODO_00", "hash": "BD6E6EA5BDAA262D", "target": "Hablar con el capitán de la Resistencia al este de Virdjala" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_TODO_01", "hash": "B793315E7C80BDD4", "target": "Usar el cañón de la Resistencia para destruir los dharas" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_TODO_02", "hash": "F88C95F27EE76D8B", "target": "Informar al capitán de la Resistencia" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_TODO_03", "hash": "5D21E78733F4A4A5", "target": "Informar a Eshana" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_ESHANA_000_000", "hash": "0D9491C3F9374D38", "target": "<split(<string(gstr1)>, ,1)>, ha llegado una petición de ayuda del campamento de la Resistencia al este. Buscan sofocar a unos dharas revoltosssos. Sss..." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_ESHANA_000_001", "hash": "71D254C6ED81A34C", "target": "Estas criaturas se alimentan de roca; si se las deja a su aire, son capaces de provocar avalanchas y poner en peligro a los viajeros. Sss..." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_ESHANA_000_002", "hash": "09A348487BC075D8", "target": "Te ruego que te apresures al campamento e informes al capitán de la Resistencia. Él te dará más instruccionesss. Sss..." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_010", "hash": "6FC90647175E8D4B", "target": "¡Ah, tú debes de ser el aventurero que enviaron! Tienes nuestro agradecimiento." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_011", "hash": "50816F4812AAFADF", "target": "Como habrás oído, buscamos abatir a unos dharas insólitamente agresivos. Y, para asegurarnos de que no se levanten, golpearemos sus núcleos con fuego de cañón." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_012", "hash": "602EC130C3A9F6E1", "target": "En el cruce del norte hemos dejado un pedazo de mineral precioso que atrae a los dharas. Las criaturas marcharán obcecadas hacia él, exponiendo así sus vulnerables núcleos al cañón que hemos apostado en la atalaya cercana." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_013", "hash": "C50DB8033A7F98CF", "target": "Tu tarea es usar el cañón para destruir a los dharas antes de que alcancen el mineral. ¡Ve ya, y buena suerte!" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_SYSTEM_000_020", "hash": "4A9D3EF3BB90508E", "target": "Usa el cañón para destruir los tres dharas. También puedes mover la cámara y acercar o alejar el zoom. Apunta al núcleo y dispara con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_SYSTEM_000_021", "hash": "3B7B3622C41549EF", "target": "No dejes que los dharas alcancen el mineral, o la misión terminará en fracaso." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_024", "hash": "5551B3AAF871CD6A", "target": "El cañón está apostado en la atalaya justo al norte de aquí. ¡Date prisa y úsalo para destruir a los dharas antes de que alcancen el mineral!" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_027", "hash": "5CCAD5DAB20175BC", "target": "¡Lo lograste! ¡Los dharas se han desmoronado y vuelto a la roca de la que salieron!" },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_028", "hash": "AFA5DE14A3B3E603", "target": "Nuestros amigos de la guardia fronteriza te tienen en gran estima, y no es de extrañar. Gracias, aventurero, y transmítele mis saludos a Eshana, por favor." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_ESHANA_000_030", "hash": "A28A8E896D70F4B5", "target": "¿Así que los dharas ya no están? Excelente trabajo, <split(<string(gstr1)>, ,1)>. Nos has hecho a todas un gran ssservicio. Sss..." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_ESHANA_000_031", "hash": "FF19CF15545E4BD1", "target": "Ese campamento de la Resistencia vigila la ruta a los Peaks. Aunque nuestras compañías sean distintas, no dudamos en cooperar por el bien común. Sss..." },
+    { "gameKey": "quest/030/BanAna503_03060#TEXT_BANANA503_03060_LEADER03060_000_035", "hash": "8BC4D1072D3AE9AD", "target": "Gracias de nuevo por tu ayuda con los dharas. Transmítele mis saludos a Eshana, por favor." }
+  ]
+}

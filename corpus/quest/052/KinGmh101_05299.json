@@ -1,0 +1,198 @@
+{
+  "conversation": "quest/052/KinGmh101_05299",
+  "questName": "A Glimmer of the Past",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_00", "hash": "AA3E0DD4E5D51D6B", "target": "Krile quiere ponerse al día de los acontecimientos recientes." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_01", "hash": "EA895C8FAC616F29", "target": "En la Trastienda, varios allegados de los Herederos, así como tus aliados alejandrinos y de Tuliyollal, te ponen al corriente de los sucesos recientes. Wuk Lamat, por su parte, ha decidido quedarse en Alexandria hasta que se desentrañe el misterio de la nueva Sphene y, sobre este asunto, te enteras de que a la Reina de la Razón se la ha visto a menudo por la ciudad, instando a sus ciudadanos a convertirse en Perpetuos. Curiosamente, quienes aún llevan reguladores parecen no tener recuerdo de su muerte. Sin embargo, aunque estos acontecimientos son motivo de preocupación, parece haber un asunto más urgente. Se ha traído a un invitado a la Trastienda, y Krile te pide que visites la sala de descanso, donde Y'shtola y Alisaie lo atienden ahora mismo." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_02", "hash": "16C18E09EBDF02B5", "target": "Se accede a la sala de descanso por una puerta situada en un rincón de la Trastienda. Basta con cruzar el umbral para conocer al misterioso invitado que aguarda.<br><br>※Si abandonas la zona, podrás regresar desde la Trastienda, en Solución Nueve." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_03", "hash": "E22A3DA7394676B1", "target": "Sigues el pasillo hasta una pequeña zona de descanso y, sobre una de las camas, ves a una mujer de aspecto asombrosamente familiar. Y'shtola revela que es la reina Sphene original, aún viva, a quien ella y Shale encontraron vagando por la Memoria Viva durante su investigación de la zona. Tras traerla a Solución Nueve, decidieron tratar el desequilibrio etéreo de su cuerpo con una porxie. Mientras asimilas este giro de los acontecimientos, Sphene abre los ojos y reacciona con desconcierto antes de recobrar poco a poco el sentido. Y'shtola informa a la antigua reina de su sueño de siglos, aunque esta es solo la primera de las muchas revelaciones que habrá de recibir." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_04", "hash": "72E40259C57B2155", "target": "Con G'raha Tia y Krile presentes, tú y los demás habláis con Sphene de los cuatrocientos años transcurridos desde que la sumieron en un sueño profundo. La conversación es larga, pero después Sphene agradece a todos su paciencia. Aun así, es evidente que sigue lidiando con el recién adquirido conocimiento de su situación y del hogar que ha perdido. Percibiendo su malestar, Gulool Ja propone salir a la ciudad para que Sphene vea cómo es la Alexandria moderna, y Wuk Lamat asiente de buen grado." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SEQ_05", "hash": "C439B4CCA7AA4C06", "target": "Sphene parece ilusionada ante la perspectiva de explorar y la oportunidad de conoceros a ti y a tus aliados. Entretanto, te preparas para servir de escolta a la nueva invitada de Alexandria." },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_TODO_00", "hash": "C543564E279768EE", "target": "Entrar en la sala de descanso" },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_TODO_01", "hash": "5A4CEDF051C8A03A", "target": "Entrar en la sala de descanso" },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_TODO_02", "hash": "062762FCEA01B18C", "target": "Hablar con Sphene" },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_TODO_03", "hash": "5F3BF95C752BA6BF", "target": "Volver a hablar con Sphene" },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_000",
+      "hash": "A943A104361DE276",
+      "target": "Ah, <split(<string(gstr1)>, ,1)>, no podrías haber llegado en mejor momento. Si tienes un rato, hay unas cuantas cosas que nos gustaría compartir."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_001",
+      "hash": "349D50B172D19088",
+      "target": "Estupendo. Solo esperaremos a Lamaty'i─no debería tardar en llegar."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_002",
+      "hash": "EF8DEB469D2A324B",
+      "target": "¡<split(<string(gstr1)>, ,1)>! Me alegro de verte por aquí también."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_003",
+      "hash": "31F6C6490D74C5A0",
+      "target": "Hablando del rey de Roma. Pongámonos al día, ¿os parece?"
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_004",
+      "hash": "6BF39053D3E0B78E",
+      "target": "Bien. Empiezo yo, si nadie se opone."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_005",
+      "hash": "2DA062048B400851",
+      "target": "He estado de vuelta en Tuliyollal y he hablado con Koana. Se lo he contado todo sobre los registros que dejó la madre de Gulool Ja, y también sobre la reaparición de Sphene."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_006",
+      "hash": "4D8CF2C4383C9806",
+      "target": "Decidimos que yo me quedaría en la cúpula hasta que las cosas se calmaran un poco más."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_007",
+      "hash": "0D600B262F4568D5",
+      "target": "Pero, aunque sea la tutora de Gulool Ja, también soy la soberana de otro país. Tendré que andarme con cuidado para que no parezca que me entrometo en la política alejandrina. Eso es todo por mi parte."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GRAHATIA_000_008",
+      "hash": "877A9DDB76EB5250",
+      "target": "En cuanto a los demás, hemos estado siguiendo los pasos de esta nueva Sphene. Se está dejando ver ante el pueblo con regularidad."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GRAHATIA_000_009",
+      "hash": "4F11A942837CEDA3",
+      "target": "Y, cada vez que lo hace, los anima a convertirse en Perpetuos. Por desgracia, casi todo lo demás sobre ella sigue siendo un misterio, incluido por qué ha elegido mostrarse ahora."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GEODE_000_010",
+      "hash": "D6C0F34F09A4F5E5",
+      "target": "Por nuestra parte, hemos confirmado que solo a quienes llevan regulador se les ha alterado lo que sabían de la muerte de la reina Sphene."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GEODE_000_011",
+      "hash": "91AA505E1105ED0D",
+      "target": "Alguien tuvo que manipular los aparatos para borrar todos y cada uno de los recuerdos del suceso. Aún no hemos identificado al culpable pero, con lo que ha ocurrido últimamente, Sphene es la principal sospechosa."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_012",
+      "hash": "71B14618ABDE32B9",
+      "target": "Muchos creen que la Reina de la Razón está viva y en perfecto estado, y recuerdan su funeral como un homenaje a los que murieron en el ataque. Ni que decir tiene que esto ha resultado desconcertante para quienes conservan recuerdos más fieles."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GEODE_000_013",
+      "hash": "CC9E97056819F378",
+      "target": "Nosotros seguiremos con la investigación. Yo me voy ya al Cielo Térreo a coordinarme con los nuestros de allí."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_014",
+      "hash": "13435EF121FD9678",
+      "target": "Queda un asunto más. El plato fuerte de esta reunión, se podría decir..."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_015",
+      "hash": "572197B33BCB799B",
+      "target": "Nos gustaría presentaros a cierta persona."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_016",
+      "hash": "84DF11A47BAF3D7A",
+      "target": "Por supuesto. ¿Y dónde está esa persona ahora?"
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_017",
+      "hash": "52197663DF7BFBD7",
+      "target": "En la sala de descanso. No se encuentra bien, e Y'shtola y Alisaie la están cuidando. Ellas podrán explicároslo."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GULOOLJA_000_018",
+      "hash": "078E0FD67BA1D941",
+      "target": "Quiero ver cómo se encuentra, así que yo también voy."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GULOOLJA_000_019",
+      "hash": "8511E325A54A99BA",
+      "target": "La sala de descanso está al fondo del pasillo, cruzando esa puerta. Podemos ir cuando estéis listos."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_KRILE_000_020",
+      "hash": "9F5CF94CB979B233",
+      "target": "Por mucho que me apeteciera acompañaros a la sala de descanso, prefiero no abrumar a nuestra invitada con tantas caras nuevas. Mejor seguir investigando lo que trama nuestra nueva Sphene."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GRAHATIA_000_021",
+      "hash": "35888940C15DC725",
+      "target": "Alphinaud y Erenville se han encargado por su cuenta de atender a la gente de Alexandria. A muchísimos todavía les cuesta sobrellevar lo ocurrido, y ellos esperan aportar algo prestándoles un oído comprensivo."
+    },
+    { "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SYSTEM_000_031", "hash": "935A95B8C5535EB7", "target": "¿Ir a la sala de descanso?" },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_040",
+      "hash": "A0BE7841AB5B032C",
+      "target": "La reina Sphene original... Le contaremos lo que quiere saber. Y luego decidiremos qué hay que hacer."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GULOOLJA_000_041",
+      "hash": "2789B11315EE241A",
+      "target": "¿Qué haría Otis si estuviera aquí? ¿Qué puedo hacer <italic(1)>yo<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_ALISAIE_000_042",
+      "hash": "8D391B123B33DBEC",
+      "target": "Despertar sola en un futuro remoto y, por lo visto, sin haberlo elegido... Difícilmente se le puede reprochar que reaccionara así."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_YSHTOLA_000_043",
+      "hash": "3D540395E9844625",
+      "target": "El tratamiento habrá surtido efecto, pero el camino que le espera sigue siendo incierto."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_SHALE_000_044",
+      "hash": "BF2FB7AE123883CE",
+      "target": "Dimos con su cámara al registrar el Meso Terminal. No creo equivocarme si digo que ninguno esperábamos <italic(1)>este<italic(0)> giro."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_ORIGINALSPHENE_000_050",
+      "hash": "7866BAA833CB89E9",
+      "target": "No... no creo que estéis mintiendo. Así que, por favor... contadme todo lo que ha pasado. Todo..."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_YSHTOLA_000_051",
+      "hash": "7FEB11060A98140E",
+      "target": "Muy bien."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_YSHTOLA_000_052",
+      "hash": "7EC88D0EAB3D3A9E",
+      "target": "Pero hagámoslo con cuidado, no vayamos a someterte a una tensión innecesaria."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_YSHTOLA_000_053",
+      "hash": "BF69867412DEF4A8",
+      "target": "Ahora bien, aunque me gustaría que nos ayudaran más de los nuestros, no resulta práctico reunir a todo el mundo, así que de momento avisaré a G'raha Tia y a Krile."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_WUKLAMAT_000_054",
+      "hash": "4E9B564A17C6D5BB",
+      "target": "¡Vamos, le daremos a Sphene la visita completa!"
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_GULOOLJA_000_055",
+      "hash": "A14A2C07C62508FD",
+      "target": "Sphene me ha pedido que no la llame por su título. Entiendo por qué, pero se me hace raro."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_ORIGINALSPHENE_000_060",
+      "hash": "F59F8CFE9BA2BD32",
+      "target": "A ti también, <split(<string(gstr1)>, ,1)>, gracias por tu amabilidad."
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_ORIGINALSPHENE_000_061",
+      "hash": "B02669C102A6C1EB",
+      "target": "La Sphene Perpetua... La conociste, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/052/KinGmh101_05299#TEXT_KINGMH101_05299_ORIGINALSPHENE_000_062",
+      "hash": "45BFA6429F14DC19",
+      "target": "Puede que a <if(gnum4,las dos,los dos)> nos lleve tiempo hacernos a esta situación─a mí especialmente. Pero reconozco que debo lograrlo. Yo sigo aquí, pero el mundo que conocía ya no existe..."
+    }
+  ]
+}

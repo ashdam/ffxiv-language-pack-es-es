@@ -1,0 +1,96 @@
+{
+  "conversation": "quest/011/ClsFsh151_01111",
+  "questName": "Every Fish Has a Silver Lining",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_00",
+      "hash": "C45B0F0C77DBB5B2",
+      "target": "A Sisipu le vendría bien una mano con un pedido inesperado."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_01",
+      "hash": "12C2DE6C8593A9D7",
+      "target": "El Gremio de Pescadores ha recibido un pedido de pescado fresco de uno de sus clientes habituales, un mercader Qiqirn llamado Chuchuroon. Sin embargo, no está claro qué pez desea Chuchuroon, y por eso Sisipu te ha pedido que hables con el cliente."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_02",
+      "hash": "EB0ADAC125FAC515",
+      "target": "No tienes más éxito que Sisipu a la hora de discernir qué pez vislumbró Chuchuroon en el agua, y las palabras “plateado” y “saltarín” parecen ser tus únicas pistas. Consulta con Sisipu cómo podrías proceder."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_03",
+      "hash": "C308EC62231F1860",
+      "target": "Sisipu está igual de perpleja ante la descripción, pero cree que Wawalago podría aclararla. Búscalo en su sitio, delante del Gremio de Pescadores."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_04",
+      "hash": "2D36E2A4F1102AC2",
+      "target": "Gracias a su vasto conocimiento de los peces, Wawalago ha determinado que Chuchuroon busca la Navigator's dagger. Usa rat tails para pescar cinco cerca del Faro del Cervecero, en la Noscea Occidental, y entrégaselas."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_05",
+      "hash": "10F18B6301A5CAC5",
+      "target": "La vista ─y el olor─ de las Navigator's daggers ponen a Chuchuroon loco de contento. Habla de nuevo con Sisipu para conocer su opinión sobre tu duro día de trabajo."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_06",
+      "hash": "B528652E68CC07F5",
+      "target": "Sisipu expresa su alivio por tener en ti a alguien a la vez capaz y de fiar, aunque sea lamentando la falta de tales virtudes entre los demás miembros del gremio. Anímate con sus elogios y sigue perfeccionando tus habilidades por si vuelve a requerir tu ayuda.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 20."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_00",
+      "hash": "9A7A04FC349936F7",
+      "target": "Hablar con Chuchuroon"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_01",
+      "hash": "4F3C4323AF4A1F12",
+      "target": "Hablar con Sisipu"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_02",
+      "hash": "BCBEE89D016AF4EF",
+      "target": "Hablar con Wawalago"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_03",
+      "hash": "A283C4F0736CEA9F",
+      "target": "Entregar Navigator's daggers a Chuchuroon"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_04",
+      "hash": "8ED9CCD04B66C282",
+      "target": "Informar a Sisipu"
+    },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_000", "hash": "39DE6B3EC7BAB14E", "target": "He estado pensando, <split(<string(gstr1)>, ,1)>. Ahora que puede pescar más peces de los que puede comer, es hora de que aprenda un poco sobre el arte de la venta de pescado." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_001", "hash": "02892F7715916EE8", "target": "Normalmente, los clientes compran peces ya pescados, pero cierto marinero Qiqirn tiene debilidad por la frescura." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_002", "hash": "E3D85055BFA888AD", "target": "Por desgracia, los pescadores que suelen atender sus pedidos, con cierta ironía, se han ido todos a pescar. Así que recurro a usted, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_003", "hash": "8F2D27241B81B377", "target": "Espero que pueda hablar con Chuchuroon, ahí... o al menos escucharlo." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_010", "hash": "02704F1F5530BE02", "target": "Chuchuroon marinero surcar los mares. ¿Tú <if(gnum4,pescadora,pescador)> pescar los peces?" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_011", "hash": "23CB88FE210801D8", "target": "Vigía vigilando, ¡Chuchuroon avistar cosas en el agua: peces de plata saltar salta, destellos de plata destellan!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_012", "hash": "BDBC3302D20CE384", "target": "¡Chuchuroon querer probar sabor de pez de plata!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_013", "hash": "09037D4B85C54A21", "target": "¡Chuchuroon pagar buena plata si tú pescar cinco buenos peces de plata!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_020", "hash": "C6D8A1365E835FA1", "target": "...Bueno, Chuchuroon tiene labia, ¿verdad? Por desgracia, su labia parece consistir en repetir las palabras «pez de plata». Solo el pescador más experimentado sería capaz de descifrar semejante galimatías." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_021", "hash": "2A18299F71E79CC9", "target": "Esto suena a un trabajo para Wawalago, ya que yo estoy ocupada haciendo el suyo. Tenga por seguro que lo que le falta de sensatez, le sobra de insensatez." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_030", "hash": "B155256E6DBA1566", "target": "¿Desde cuándo es de buena educación acercarse a hurtadillas y asustar a tus mayores? ¡Por un momento sospeché que Sisipu te enviaba a abrirme la barriga!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_031", "hash": "2141E38867B36735", "target": "Esa mujer conoce de sobra mi debilidad: si va a poner el grito en el cielo por cómo engullo los camarones, ¡más le valdría no dejarlos a la vista en la estantería! ¿O no es por eso por lo que estás aquí?" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_032", "hash": "54AD9B80F190676C", "target": "...Mmm. Dejando a un lado la mesa, me apuesto lo que quieras a que sé qué avistó el Qiqirn." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_033", "hash": "9F6051C5437AD2E0", "target": "Si era plateado y se paseaba rozando la superficie del mar, estoy bastante seguro de que vio una daga de la Navegante." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_034", "hash": "B6681CD364B4AD1D", "target": "Las dagas no son muy del gusto de un lominsano, pero los colonos de las islas del sur las echan al caldo." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_035", "hash": "7370F7797628B974", "target": "Puedes encontrarlas junto al Faro del Cervecero. Atrapar una es un lance escurridizo para un novato, pero un simple chasquido de muñeca para un pescador con ojo de gaviota como el tuyo." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_036", "hash": "53C419DB7AA94F68", "target": "Bien, a las dagas las atraen los señuelos que cuelgan, así que hazte un favor y consigue unas colas de rata para que les hagan mover las aletas." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_040", "hash": "B2A588FF7145D9A4", "target": "¡¿Tú pescar y capturar cinco peces captura para Chuchuroon?!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_041", "hash": "8F4ADBF9813C8567", "target": "¡Lo brillante brilla, lo oloroso huele! ¡Chuchuroon no poder esperar a probar sabroso sabor!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_042", "hash": "B8C248CD0BF83E6E", "target": "¡Bueno, parece que hemos encontrado el pez que buscaba!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_043", "hash": "EBFC02CE79B87519", "target": "¡Tú encontrar buen hallazgo! ¿Chuchuroon sazonar con sazón, o ahumar con humo? ¿Asar a la parrilla? ¡Muchas, muchas opciones de cocina para cocinar!" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_044", "hash": "3AE4B4E42E8C01EE", "target": "Vaya, desde luego le está dando muchas vueltas al asunto..." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_045", "hash": "5CF86DF6C383478D", "target": "¡Jajaja! ¡Chuchuroon obsequiado con festín de regalo para festejar! Chuchuroon te da sus mejores saludos con los mejores saludos de Chuchuroon." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_046", "hash": "8320F81CD60F9C95", "target": "Siempre le agradecemos su clientela, Chuchuroon." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_047", "hash": "B37B477235517553", "target": "Acompáñelo a la salida y vuelva aquí después, <split(<string(gstr1)>, ,1)>. Tenemos más que hablar." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_050", "hash": "9B0E564EBBEC4FAF", "target": "¡Uf! Me alegro de que estuviera aquí para atender esa petición inesperada." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_051", "hash": "CD4981D3DEF24F46", "target": "Muchísimos de estos pescadores gorrones no se molestan en quedarse en tierra más de un día seguido. Usted, en cambio, ha demostrado ser mucho más de fiar." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_052", "hash": "4933CD2722C2DECF", "target": "Se me ocurre al menos un Qiqirn que estaría de acuerdo." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_053", "hash": "D5CD8294A526B44C", "target": "Ahora que ha visto lo gratificante que puede ser la venta de pescado, ¡espero que tome la iniciativa de probarla usted mismo!" }
+  ]
+}

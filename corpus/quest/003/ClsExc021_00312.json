@@ -1,0 +1,59 @@
+{
+  "conversation": "quest/003/ClsExc021_00312",
+  "questName": "My First Axe",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_SEQ_00",
+      "hash": "5E8184B39B5453DC",
+      "target": "El maestro del hacha Wyrnzoen quiere que pruebes el filo de tu nueva hacha en combate."
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_SEQ_01",
+      "hash": "602A744AD3C43B02",
+      "target": "Como nuevo alumno del hacha, el corpulento Roegadyn te ordena no perder tiempo en probar el filo del arma que has elegido en combate. Dirígete a las afueras de Limsa Lominsa y mata tres lost lambs, tres wharf rats y tres little ladybugs."
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_SEQ_02",
+      "hash": "1CD2A14A9EDFB2AB",
+      "target": "Has matado a las criaturas indicadas. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen."
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_SEQ_03",
+      "hash": "52C1D9AB28E01635",
+      "target": "Vuelves al gremio con una mayor conciencia del brutal potencial de tu arma. Para realizar plenamente ese potencial, sin embargo, Wyrnzoen te anima a perfeccionar tu habilidad y tu fuerza con implacable determinación.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 5."
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_TODO_00",
+      "hash": "29F4CDAAE27E572B",
+      "target": "Matar wharf rats como asaltante"
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_TODO_01",
+      "hash": "AEBD46F7A2149B5F",
+      "target": "Matar lost lambs como asaltante"
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_TODO_02",
+      "hash": "6282C5B45E421707",
+      "target": "Matar little ladybugs como asaltante"
+    },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_TODO_03",
+      "hash": "3FB87858AF55CACA",
+      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
+    },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_0", "hash": "467220F3DBC4AD88", "target": "Sí, ofreces una estampa imponente, <split(<string(gstr1)>, ,1)>. Pero es poco probable que las poses heroicas abran brecha entre tus enemigos." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_1", "hash": "2DD7B8FC122602D8", "target": "Ahora eres <if(gnum4,una alumna,un alumno)> del hacha... no perdamos tiempo en poner a prueba el filo del arma que has elegido. Te lanzarás de inmediato al combate, como corresponde a un novato de nuestra disciplina." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_2", "hash": "9990BE4EA9E82DF0", "target": "Ve y da muerte a las alimañas que balan, corretean y reptan asolando las afueras de Limsa Lominsa." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_4", "hash": "47B7178C537A5B59", "target": "Lost lambs, wharf rats y little ladybugs serán tus lastimosos adversarios de hoy. Vuelve a mí cuando tres de cada criatura hayan caído bajo tu hoja." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_10", "hash": "72731D87B4B9AF31", "target": "Vuelves a mí convertid<if(gnum4,a,o)> en otra persona. Tu rostro ya muestra un gesto más duro; la constatación de la matanza de la que eres capaz." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_12", "hash": "996A58A8CA1D1659", "target": "Pero queda mucho adiestramiento por delante antes de que empuñes el hacha en todo su potencial. Aprende bien tus lecciones, forja tu fuerza y haz de cada golpe un acto instintivo." },
+    { "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_WYRNZOEN_000_14", "hash": "5620611822DC93DE", "target": "Cada golpe de tu arma despejará un paso más hacia el dominio del camino del asaltante. Implacable, incansable: así debe ser tu ímpetu, tanto en el campo de entrenamiento como en el de batalla." },
+    {
+      "gameKey": "quest/003/ClsExc021_00312#TEXT_CLSEXC021_00312_SYSTEM_000_20",
+      "hash": "2736CEF821CC693B",
+      "target": "La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 5."
+    }
+  ]
+}

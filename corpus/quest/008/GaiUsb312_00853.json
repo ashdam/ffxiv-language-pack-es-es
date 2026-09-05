@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/008/GaiUsb312_00853",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_00", "hash": "325AB1463C8D63F8", "target": "La doncella P'ebaloh acude a ti en busca de ayuda, pues sus días de lucha quedaron muy atrás." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_01", "hash": "9E0375D6190E3BC4", "target": "Se ha avistado una misteriosa monstruosidad en la playa. Dirígete al lugar y abate tres de los pugils que parecen acudir en tropel a ella." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_02", "hash": "1983716B35EDD7DF", "target": "Un cadáver en descomposición ha estado atrayendo a los pugils a la zona. Retira ese banquete de monstruos y todo irá bien." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_03", "hash": "56BA02C3D0F784E5", "target": "Has retirado el cadáver. Informa a P'ebaloh, y procura mantenerte a sotavento de ella." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_SEQ_04", "hash": "85AFE5A6DCE3A682", "target": "Hablas con P'ebaloh y descubres que los encargados del mantenimiento limpiaron la playa hace bien poco. Está claro que los visitantes peligrosos son cada vez más frecuentes." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_00", "hash": "BF6AD17161DA439F", "target": "Abatir los pugils" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_01", "hash": "CED468062937FCCC", "target": "Retirar el cadáver" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_TODO_02", "hash": "C2F91EDC3D344021", "target": "Informar a P'ebaloh" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_000", "hash": "7B10C1FF679E4DDB", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señora,señor)>, ¿me concede un momento? Una bailarina de visita avistó unos peces extraños en la playa y volvió corriendo y gritando a la casa. Es una joven sensata, así que me temo que no son imaginaciones." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_001", "hash": "7DD2310F9929EF48", "target": "La playa no es lugar para retozos hasta que se aclare la verdad. Recurro a usted una vez más. ¿Podríamos molestarle para que inspeccione la playa?" },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_030", "hash": "B67B92775E2A8ED4", "target": "¡Pugils, en las playas de Costa del Sol! Vivimos tiempos extraños. El cadáver debió de llegar a la deriva, pues parece llevar muerto más de un día o dos, y esa es la última vez que los encargados limpiaron la playa." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_PEBALOH_000_031", "hash": "DACAC37EE37984CD", "target": "Gracias, <if(gnum4,señora,señor)>. No hace falta que se quede a sotavento... ya he olido antes ese olor. Habremos de intensificar el mantenimiento del terreno, me temo. De lo contrario, es probable que al señor Gegeruju le dé una de sus ideas." },
+    { "gameKey": "quest/008/GaiUsb312_00853#TEXT_GAIUSB312_00853_POP_MESSAGE_000", "hash": "33B06FB644764478", "target": "¡Percibes una agresión anfibia cerca!" }
+  ]
+}

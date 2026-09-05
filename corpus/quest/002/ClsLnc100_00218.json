@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/002/ClsLnc100_00218",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_00", "hash": "833395AFB70D2C8A", "target": "Ywain quiere asignarte tu primera prueba como miembro del Gremio de Lanceros." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_01", "hash": "5FF11D1F5BADFAA0", "target": "Para tu primera prueba como miembro del Gremio de Lanceros, Ywain te pide que abatas a tres squirrels, tres ladybugs y tres funguars." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_02", "hash": "D1A9C4AC608DF6CD", "target": "Has logrado abatir a las criaturas indicadas. Preséntate ante Ywain en el Gremio de Lanceros." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SEQ_03", "hash": "7F003A61D8B5A51B", "target": "Según Ywain, la auténtica medida de un lancero está en su habilidad para perforar las defensas del enemigo. Si deseas convertirte en un lancero digno de tal nombre, no debes escatimar esfuerzos en tu entrenamiento. Tomándote sus palabras a pecho, emprendes la senda que has elegido.<br><br>※La próxima misión de lancero estará disponible con Ywain al alcanzar el nivel 5." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_00", "hash": "92AEA4B02D2E23CA", "target": "Abatir a los ground squirrels como <if(gnum4,lancera,lancero)>" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_01", "hash": "04EFA4F05DFB98C7", "target": "Abatir a los little ladybugs como <if(gnum4,lancera,lancero)>" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_02", "hash": "CE5157ECAB26687E", "target": "Abatir a los forest funguars como <if(gnum4,lancera,lancero)>" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_TODO_03", "hash": "8B74D08F14F4019B", "target": "Informar a Ywain en el Gremio de Lanceros" },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_1", "hash": "5A98E27ADEBE5B76", "target": "Conque has sabido distinguir un extremo de la lanza del otro. Bien." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_2", "hash": "D82371AD7F508431", "target": "Sin duda estás deseando poner a prueba tu nueva arma─lo cual viene bien, porque yo también tengo una prueba en mente, o mejor dicho... un desafío." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_3", "hash": "4102C629CB61AE16", "target": "Para que cojas confianza con tu arma y aprendas a calcular cosas como la distancia, saldrás ahí fuera a medirte con las criaturas que merodean a las puertas de la ciudad." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_4", "hash": "C5B8FD4FAA765CF7", "target": "Las ardillas, las mariquitas y los funguars deberían suponerte un reto adecuado." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_5", "hash": "FEFA51782D6FC5B4", "target": "Abate, pongamos, tres de cada, y luego preséntate ante mí." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_10", "hash": "73D0C8249EEE841C", "target": "Conque has vuelto. Espero que hayas aprendido algo de la esencia de nuestro arte." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_11", "hash": "88F551FC59D917F9", "target": "Un lancero aprende mejor haciendo, y cada estocada lo hace más fuerte. La estrategia y la técnica llegarán con el tiempo. Y nunca olvides el valor─sin él, no puedes aspirar a desarrollar todo tu potencial." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_12", "hash": "69D7E9ADC69606BB", "target": "...Tu mirada no delata la menor duda. Eso está bien. Está claro que ves la verdad en mis palabras." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_13", "hash": "5D37A5C375A57377", "target": "Eso es todo por ahora. Y ahora, empuña tu arma, sal ahí fuera y ábrete tu propio camino." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_YWAIN_000_14", "hash": "69F8ABF91E3EA21A", "target": "La próxima vez que nos veamos, espero encontrarte más fuerte tras tu paso por el mundo." },
+    { "gameKey": "quest/002/ClsLnc100_00218#TEXT_CLSLNC100_00218_SYSTEM_000_20", "hash": "2DB727C9A4290795", "target": "La próxima misión de lancero estará disponible con Ywain al alcanzar el nivel 5." }
+  ]
+}

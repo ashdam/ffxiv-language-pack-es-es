@@ -1,0 +1,393 @@
+{
+  "conversation": "quest/048/KinGmc101_04897",
+  "questName": "The Leap to Yak T'el",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_SEQ_00", "hash": "E5EF82179598D871", "target": "Alphinaud parece deseoso de repasar vuestro viaje hasta ahora." },
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TODO_00", "hash": "E8E8A6709F80FD5B", "target": "Hablar con el empleado del embarcadero" },
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TODO_01", "hash": "6EB986B41594AF29", "target": "Hablar con el empleado del embarcadero" },
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TODO_02", "hash": "092A2F3BBDA9CACC", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TODO_03", "hash": "64429C7E8F6D2512", "target": "Volver a hablar con Erenville" },
+    { "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TODO_04", "hash": "C4319C8B2D1DBEA8", "target": "Hablar con Alphinaud" },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_001",
+      "hash": "ACA7C3ED21AF9F4B",
+      "target": "Seguro que los demás no tardan en llegar. Espero que todos hayan descansado bien."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_002",
+      "hash": "0BED6D4C60904EF3",
+      "target": "Ahora que nos hemos repuesto un poco, repasemos cómo están todos los aspirantes."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_003",
+      "hash": "F71CD14D9393552B",
+      "target": "Zoraal Ja y Koana han superado todas las pruebas hasta ahora y tienen cinco piedras clave cada uno."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_004",
+      "hash": "C83D5BF621FFE048",
+      "target": "Wuk Lamat estaría a su altura de no ser por el robo de Bakool Ja Ja, que nos ha dejado con una menos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_005",
+      "hash": "564A787B5A7C192B",
+      "target": "Ese fanfarrón taimado no movió un dedo en la Prueba del Testimonio y sembró el caos en la Prueba del Hielo. Como mucho tendrá tres piedras clave."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_006",
+      "hash": "9F3F044E4214685F",
+      "target": "Puede que crea que le basta con robar lo que necesita para ganar, pero se equivoca de medio a medio. ¡Recuperaré lo que es mío─lo juro!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_007",
+      "hash": "D11C7ECB0A74F451",
+      "target": "Me temo que recuperar tu piedra clave puede no bastar─al menos, si lo de soltar a Valigarmanda sirve de indicio."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_008",
+      "hash": "E7E643BF7B0D061A",
+      "target": "Aprovechando su ventaja, preveo que irá a por las piedras clave restantes antes de entorpecer los intentos de sus rivales."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_009",
+      "hash": "76AC7A211C7C3C2F",
+      "target": "Puede que todos acabemos obligados a arrebatárnoslas unos a otros."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_009",
+      "hash": "BADAFBBE95FE39EE",
+      "target": "No puedo decir que eso me haga ninguna gracia."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_010",
+      "hash": "A7F71CD4B49F40B5",
+      "target": "Pero tampoco voy a renunciar tan fácilmente a mi derecho al trono. ¡Si es para preservar la felicidad de mi gente, haré lo que haga falta!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_011",
+      "hash": "5C88C22B785079CF",
+      "target": "Las dos últimas piedras clave que nos faltan son las del Cantar del Festín y el Cantar de la Hermandad."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_012",
+      "hash": "BA4124097028C779",
+      "target": "El primero recoge el fin de las hostilidades entre los Mamool Ja y los Xbr'aal en los bosques de Yak T'el. En concreto, cerca de un poblado llamado Iq Br'aax."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_013",
+      "hash": "083ACCBA6CE3A51C",
+      "target": "Ahí nací yo, por si no lo recordáis. No he vuelto desde que papá me acogió siendo un bebé."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_014",
+      "hash": "F5B1D1D68CCD5456",
+      "target": "Dónde transcurre el Cantar de la Hermandad, en cambio, no está claro. La saga dice que un explorador extranjero vino a pedir audiencia con el Servidor del Alba... y poco más."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_015",
+      "hash": "2EFED5EA11AF8141",
+      "target": "En Eorzea hay un relato parecido─el explorador Ketenramm trabó amistad con un rey bicéfalo conocido como el Autarca antes de emprender sus viajes por Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_016",
+      "hash": "A5887262E4889F10",
+      "target": "Después volvió aquí varias veces, pero acabó perdido en el mar. Al menos, eso es lo que se cree comúnmente."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_017",
+      "hash": "BA6145DF832B2BE5",
+      "target": "Ese rey bicéfalo tuyo suena mucho a papá. ¡Así que ese tal Ketenramm tuvo que venir a Tuliyollal!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_018",
+      "hash": "7EF3E7BA4625D265",
+      "target": "Pero si de verdad llegó hace unos ochenta años, puede que la capital aún no estuviera construida. Salvo por los vestigios de arquitectura Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_020",
+      "hash": "CF7B957E54630B89",
+      "target": "Espera─has dicho “Autarca”, ¿verdad? ¡Entonces Ketenramm tuvo que conocer al Servidor del Alba en <italic(1)>Mamook<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_021",
+      "hash": "360CAE7949B1D542",
+      "target": "Mamook... ¿Es una ciudad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_022",
+      "hash": "5BB046ACA8D083B1",
+      "target": "Una de las más grandiosas de Tural en su día─y la sede de la patria de los Mamool Ja. También está en Yak T'el, no lejos de Iq Br'aax."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_100_022",
+      "hash": "54E93EF718C5A4E4",
+      "target": "Pues, con todo, Yak T'el parece la elección evidente para nuestro próximo destino."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_023",
+      "hash": "D364F19E9A9BDAE0",
+      "target": "Desde aquí, la forma más segura de viajar es en globo. Deberíamos ir al embarcadero en cuanto tengamos listos los preparativos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_024",
+      "hash": "F81128F480C59FB6",
+      "target": "¿V-vamos a montar en uno de los globos de Koana? ...No pueden ser peores que los barcos, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_030",
+      "hash": "579CBAE4F45E3A9D",
+      "target": "T-todo va a ir bien... bien... perfectamente..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_035",
+      "hash": "E101B588CADAD2D8",
+      "target": "Yak T'el... Donde los Yok Huy soñaron con la ciudad dorada..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_040",
+      "hash": "61B8BFA7545ABC7D",
+      "target": "Nos vamos cuando tú digas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_045",
+      "hash": "A273964E3B303E5F",
+      "target": "¡Qué emocionante! El diseño de los globos turalíes me intriga. Tengo que anotar cómo se comportan comparados con las aeronaves eorzeas..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_050",
+      "hash": "8E965AAFCCB121C7",
+      "target": "Por mucho que me gustaría poder ignorarlo, Bakool Ja Ja es una amenaza real. No podemos permitirnos bajar la guardia."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_EMPLOYEESTERMINAL04897_000_055",
+      "hash": "BD94874332745CC0",
+      "target": "El próximo vuelo a Yak T'el sale enseguida. Se ruega a los pasajeros que mantengan manos, piernas y equipaje dentro del globo en todo momento."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_056",
+      "hash": "F51B98522A8AB90C",
+      "target": "¿S-seguro que esa cosa se mantiene en el aire? ¿¡Hasta Yak T'el!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_057",
+      "hash": "0D5E07FFB0B12139",
+      "target": "¿¡E-estáis listos!? ¿Maletas hechas y, eh, despedidas dichas? ¡No hay vuelta atrás una vez que despeguemos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_058",
+      "hash": "39A1E4158CB36C05",
+      "target": "N-no es que yo esté nerviosa ni nada. ¡Solo me aseguro de que no lo estéis <italic(1)>vosotros<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_059",
+      "hash": "73F1B43442B12663",
+      "target": "Bah, a quién quiero engañar... no paran de temblarme las rodillas. Oye, ¿me das la mano? S-solo hasta que se me pasen los nervios."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_Q1_000_000",
+      "hash": "EBA3A00CCA490B7E",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_A1_000_001",
+      "hash": "14AA3461CF319C53",
+      "target": "Claro."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_A1_000_002",
+      "hash": "E57215B58B579938",
+      "target": "¿Y si se lo pides a Erenville?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_061",
+      "hash": "D8D6D4AF25DCE482",
+      "target": "Eres la persona más maja que he conocido, <split(<string(gstr1)>, ,1)>. Intentaré no aplastarte la mano..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_062",
+      "hash": "75202892CDBD1982",
+      "target": "¿¡Ese aguafiestas!? ¡No me lo dejaría olvidar en la vida!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_063",
+      "hash": "10971346499AA4E0",
+      "target": "¡Ahí está! ¡Tercera Promesa, espera un momento!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_064",
+      "hash": "DC4429511E990401",
+      "target": "¡Mablu y Tobli! Claro, claro─¡espero lo que haga falta!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_065",
+      "hash": "62DE2B74F70A9216",
+      "target": "Siento reteneros, ¡pero hemos podido descubrir el origen del pendiente de Krile!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_066",
+      "hash": "2CF19292F4C4E9AC",
+      "target": "¿De verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_067",
+      "hash": "B17036B0D387637E",
+      "target": "Antes dijisteis que se hizo popular en Yok Tural como amuleto de protección para viajeros, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_068",
+      "hash": "E00DBAA69DC888A7",
+      "target": "¡Exacto! Dimos con el mercader anciano a quien se atribuyen las primeras ventas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_069",
+      "hash": "426AFE5F7751DE02",
+      "target": "Según él, el diseño imita un adorno que llevaba un mago extranjero al que conoció en un mercado hará unos veinte años. ¡Poco imaginaba que ese encantador saborcillo de allende la sal sería un éxito comercial!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_070",
+      "hash": "3B16B2B69C8F322C",
+      "target": "Un mago extranjero con este pendiente solo puede ser el abuelo. ¿Mencionó el mercader en qué mercado fue?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TOBLI_000_071",
+      "hash": "FEEDA248C0C5C68A",
+      "target": "En uno de Yak T'el─adonde parece que ya os dirigís."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_072",
+      "hash": "281AE1F62EFFFB92",
+      "target": "Qué suerte. Entonces buscaré mi siguiente pista en cuanto lleguemos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_073",
+      "hash": "E1F297D8D31A4358",
+      "target": "¿Fue mera casualidad lo que llevó allí a mi abuelo? ¿O...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_074",
+      "hash": "3DE670367EE65286",
+      "target": "Otro descubrimiento más que esperar con ganas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_075",
+      "hash": "3FC1067F069B67BE",
+      "target": "Gracias a los dos por venir hasta aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_076",
+      "hash": "AE85655A646BD248",
+      "target": "¡Lo que sea por la Tercera Promesa! ¡Suerte con lo que queda del rito!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_077",
+      "hash": "68E01EE959F3E180",
+      "target": "¡G-gracias! No os fallaré. Solo tengo que subirme a este globo y... ¡y es como si ya hubiera llegado!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_EMPLOYEESTERMINAL04897_000_078",
+      "hash": "75B3A1D7FC490172",
+      "target": "¡Último aviso para los pasajeros a Yak T'el!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_MABLU_000_079",
+      "hash": "40828239C5455CEF",
+      "target": "...Ojalá gane, de verdad."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TOBLI_000_080",
+      "hash": "383AF4CE0DC55633",
+      "target": "Yak T'el pondrá a prueba su temple, sin duda."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_TOBLI_000_081",
+      "hash": "3E9580A8F63FA358",
+      "target": "Quien sea el próximo Servidor del Alba debe estar dispuesto a cargar con todo el peso de la historia de esta nación... por muy pesada que sea."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_90",
+      "hash": "1BC8E543CC48C489",
+      "target": "¿Le <italic(1)>costaría<italic(0)> tanto a Erenville concederme el beneficio de la duda? ¿O el beneficio de una segunda oportunidad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_91",
+      "hash": "D2E47BBC8B4DB9CE",
+      "target": "No me imagino lo difícil que debía de ser viajar antes de que la Segunda Promesa trajera los globos. ¿Te imaginas tener que hacer todo este camino a pie?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_92",
+      "hash": "DC4E7DEDB204B6BD",
+      "target": "Pues el viaje ha sido delicioso. El viento venía favorable y el globo apenas se ha movido."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_93",
+      "hash": "3D350E489F64A557",
+      "target": "No te preocupes─Krile y yo nos aseguraremos de que nuestra Promesa no acabe en el fondo de uno de estos cenotes."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_95",
+      "hash": "A07C116C33BF1EC3",
+      "target": "Cuanto más espesa es la vegetación, menos se ve. Os aconsejo no perder de vista a alguien en ningún momento."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_100",
+      "hash": "872D6CE7548266A0",
+      "target": "¿Veis? ¡Ni una caída! ...Gracias a Krile y Alisaie, pero cuenta igual."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_105",
+      "hash": "818F1B31CB12D237",
+      "target": "Por mucho que insista Erenville, aún no he descubierto nada especialmente azul en este bosque."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_110",
+      "hash": "F51EFA4EF848594D",
+      "target": "¿Será Iq Br'aax aquello de allí?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_115",
+      "hash": "3131DEFDE73090CD",
+      "target": "Cuidado con separarte. No me gustaría perderte en esta maleza desbocada."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_120",
+      "hash": "4BF77A8D31EEDCDA",
+      "target": "Bien, estamos todos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_121",
+      "hash": "065BA794F86AEC4C",
+      "target": "Iq Br'aax está más adelante. Pongámonos en marcha."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_WUKLAMAT_000_130",
+      "hash": "81342C6AED5684D8",
+      "target": "¡Ja! Me he caído al Puerto de la Marea Alta las veces suficientes como para ser buceadora profesional─¡no hay manera de que me caiga en algo como <italic(1)>esto<italic(0)> sin querer!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_KRILE_000_135",
+      "hash": "E38763B8E0653508",
+      "target": "¿Serán todos los cenotes así de profundos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_140",
+      "hash": "1B84B9F2D2090E22",
+      "target": "¿Que qué tiene de azul este bosque? Ya lo verás."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALISAIE_000_145",
+      "hash": "EE6AC28DA993D2ED",
+      "target": "Que lo sepas: me enfadaré mucho si me empujas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ALPHINAUD_000_150",
+      "hash": "2EDE3904BA1F724D",
+      "target": "Erenville no exageraba con los cenotes. Salir trepando de uno sería un suplicio."
+    },
+    {
+      "gameKey": "quest/048/KinGmc101_04897#TEXT_KINGMC101_04897_ERENVILLE_000_151",
+      "hash": "9907C4125426EB3E",
+      "target": "Bueno, por suerte hemos llegado sin incidentes. No nos entretengamos más."
+    }
+  ]
+}

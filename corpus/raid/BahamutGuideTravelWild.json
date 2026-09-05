@@ -1,0 +1,30 @@
+{
+  "conversation": "raid/BahamutGuideTravelWild",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q1_000_010", "hash": "6865D2B10939D1B8", "target": "¿Qué desea hacer?" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_011", "hash": "A7ED7407070BD740", "target": "Informarte sobre el Final Coil of Bahamut." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_012", "hash": "D4620ECD2B0AF826", "target": "Entrar en <lowerhead(<sheet(InstanceContent,lnum1,3)>)>." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A1_000_013", "hash": "E730212D07F6FB13", "target": "Nada." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_050", "hash": "4AF6D36246ADC12A", "target": "El Final Coil of Bahamut se compone de varias mazmorras, llamadas <colortype(500)><edgecolortype(501)>turns<edgecolortype(0)><colortype(0)>. Ten en cuenta que en algunas de ellas no se puede usar el hechizo Return." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_051", "hash": "FC3FDE632EF3E49D", "target": "El progreso dentro del Final Coil of Bahamut se guarda en puntos concretos para cada jugador, y puedes retomar la incursión donde la dejaste." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_052", "hash": "77DDAB1154C47556", "target": "El progreso se reinicia cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_053", "hash": "258E60D732D03646", "target": "Para entrar en el Final Coil of Bahamut hay que formar un grupo de ocho discípulos de la guerra o de la magia de nivel 50 o superior." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_054", "hash": "D35C38E9237D3E01", "target": "Todos los miembros deben haber completado además la misión «Fragmentos de verdad»." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_055", "hash": "DCF44ED03E36AF78", "target": "El punto de inicio lo determina el progreso del líder del grupo." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_056", "hash": "C3F9207B5F904890", "target": "Incluso los miembros del grupo que no hayan avanzado tanto como el líder pueden participar, siempre que cumplan las condiciones de acceso." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_0561", "hash": "B377EE5A8AB8ABEB", "target": "En tal caso, su progreso se actualizará para igualar el del líder." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_057", "hash": "A97CCAEE9D0EFF08", "target": "Ten en cuenta, no obstante, que un grupo con miembros que hayan avanzado más que el líder no puede retomar la incursión." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_058", "hash": "9AA614876CEE939E", "target": "Toda incursión en el Final Coil of Bahamut tiene un límite de 90 minutos (hora terrestre)." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_059", "hash": "FBF01443AE8FA0E6", "target": "Todos los objetos de la lista de botín de un jugador se transferirán automáticamente a su inventario cuando el resto de miembros del grupo abandonen la zona." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_060", "hash": "A9B61617C296FCC9", "target": "Los objetos que no puedan obtenerse se perderán." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q2_000_100", "hash": "F449DA5901A72C0D", "target": "¿Entrar en <lowerhead(<sheet(InstanceContent,lnum1,3)>)>?" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A2_000_101", "hash": "B04CCAD28E37CC98", "target": "Sí" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A2_000_102", "hash": "B7C231B6FD56A0D2", "target": "No" },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_110", "hash": "60F5B2D3E1E6ED10", "target": "No has podido entrar en <lowerhead(<sheet(InstanceContent,lnum2,3)>)>. Asegúrate de que tú y tu grupo cumplís todas las condiciones." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_210", "hash": "B256AC507B150A13", "target": "Has completado hace poco el Final Coil of Bahamut y no podrás volver a entrar hasta que se reinicie el progreso." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_SYSTEM_000_211", "hash": "412A8054E8405A49", "target": "El progreso se reinicia cada <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_Q3_000_300", "hash": "AC6C08BAD08B3F8F", "target": "Esperando la confirmación de entrada de los miembros del grupo." },
+    { "gameKey": "raid/BahamutGuideTravelWild#TEXT_BAHAMUTGUIDETRAVELWILD_A3_000_301", "hash": "E85D0FACC3CD6AAE", "target": "Cancelar" }
+  ]
+}

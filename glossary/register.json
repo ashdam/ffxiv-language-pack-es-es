@@ -1,0 +1,2470 @@
+{
+  "_comment": [
+    "Trato de cada personaje al jugador y, cuando importa, a otros. Formato: docs/glossary.md de ffxiv-corpus-en.",
+    "Al jugador: «tú» o «usted». Nunca «vos». El registro arcaico va en el léxico, no en el pronombre. «Vosotros» a un grupo es normal.",
+    "«vuestro», «os» y «-áis» no prueban nada solos: valen para el vos y para el plural de tú. Mira a quién habla la fila.",
+    "El inglés decide; el francés y el japonés informan. Alphinaud es «vous» en francés y «tú» aquí."
+  ],
+  "register": {
+    "AKEBONO": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Mercader rico y digno del Sekiseigumi. Habla en でごわす y llama al jugador お主, pero el inglés le da un desdén formal, «You try my patience, boy». Dos traductores del arco de Hildibrand lo decidieron igual por separado."
+    },
+    "ALFONSE": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: hermano mayor de los huérfanos. Con Gaius y con Valens, usted. Voz formal y principista."
+    },
+    "ALLIE": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: fr «tu/toi», ja 英雄さん. Con Gaius y Valens, usted. Voz joven y emotiva."
+    },
+    "ANOGG": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "YoRHa: lo fija el corpus RegNor4YtcTwins1_00643, «Vienes a verme, ¿eh?». Enana descarada, camarada del jugador."
+    },
+    "ATLI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja 貴殿."
+    },
+    "BAUT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Golfo alamhigano. Francés tu en todo el arco, «C'est toi qui as vaincu»; japonés 俺っち y アンタ. Dos traductores lo decidieron igual por separado."
+    },
+    "BEOTT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: enana de Tomra, cálida."
+    },
+    "BEQLUGG": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Side Story: corpus «¿Es usted?», pese a おぬし en ja. Nu Mou masculino pese al «they» inglés."
+    },
+    "BEREHTA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Aldeana rústica y maternal. El francés le da vous, pero el japonés zanja: se nombra オバチャン y va en llano, だよ/かい/とくれ, sin una forma cortés.",
+      "voice": "Se llama a sí misma «esta vieja»."
+    },
+    "BERTLIANA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Refugiada alamhigana al frente de su grupo. Keigo en todo, ましょう/ください, y trata al jugador de 冒険者さま. Francés vous. Dos traductores la decidieron igual por separado."
+    },
+    "BETHANA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja keigo con 殿."
+    },
+    "BIEZUMM": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja お前; herrero bronco."
+    },
+    "BOMOTT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja キミ/ボク; tímido."
+    },
+    "BOSTABEA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja です."
+    },
+    "BULUGAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Xaela, hermano menor de Adkiragh, campechano. Francés tu y toi; japonés アンタ con 俺."
+    },
+    "CALLEA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja さん/です."
+    },
+    "CERIGG": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Side Story: corpus, ja お前, fr «tu». Con Taynor, su pupilo, tú."
+    },
+    "CHADDRIC": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»."
+    },
+    "CIUILLE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika: ja llano."
+    },
+    "CYELLA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Side Story: corpus «espéreme», «sus hazañas». El ja usa 君 y no manda. Con Unukalhai, tú."
+    },
+    "DAENKENN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Il Mheg: Nu Mou, fr «vous»."
+    },
+    "DMITAR": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous» en todo el informe. Trato militar respetuoso, llama al jugador «Blade»."
+    },
+    "DWARFMASTER03671": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Komra: el capataz de la excavación. fr tutea en todo el arco, ja あんた."
+    },
+    "EIRIKUR": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Sephiroth: ja アンタ, y el corpus DefaultTalk#595945.20 le marca la erre vibrante."
+    },
+    "EOAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: amaro, fr «tu», ja のよ/かしら."
+    },
+    "ESTRILD": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Cazadora del Clan Centurio, fanfarrona. Francés tu constante; japonés キミ y テメェ, y añade -ちゃん o -くん al nombre."
+    },
+    "ESUGEN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Cocinero oronir, amable. Francés tu; japonés 君 con だよ/だね."
+    },
+    "FUKUDO": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Anciano cortés de Namai. Francés vous, «pourriez-vous me consacrer un peu de votre temps», y japonés そなた con かたじけない."
+    },
+    "GAIA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Eden: tutea a todo el mundo, jugador incluido. ja casi sin です/ます, con わよ/のよ y かしら; fr «tu» 51 contra 26 «vous», y esos son plurales al grupo. Adolescente arisca y sardónica; con [[RYNE]] el tono se ablanda pero sigue de tú."
+    },
+    "GAIAPRIME": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Eden: Gaia fusionada, la Oráculo de la Oscuridad. Altiva y despectiva, ja お前."
+    },
+    "GASCOT": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Comercial de la Compañía Comercial de Aldenard Oriental. Francés vous 41 contra 0, y keigo です/ます en todas sus líneas."
+    },
+    "GIOTT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Side Story: camarada de caza; al grupo, vosotros."
+    },
+    "GIRITT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja あたし."
+    },
+    "GLAGG": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Komra: fr «tu», ja わし/のじゃ, habla de anciano. Al grupo, vosotros."
+    },
+    "GODAFRE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés tutea, «qu'est-ce que tu fais là»; japonés tosco, アンタ y ちくしょー."
+    },
+    "GRANSON": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Side Story: camarada de caza; al grupo, vosotros."
+    },
+    "GRATT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja ワシ/オヌシ; viejo gruñón."
+    },
+    "GRAWLEY": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»."
+    },
+    "GUNDOBALD": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Veterano de la Resistencia que trata al héroe de camarada. Francés tu; japonés llano y autoritario, con vocativo 冒険者よ y 解放者よ, sin keigo. Dos traductores lo decidieron igual por separado."
+    },
+    "GUTHLAUGUR": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»; matón."
+    },
+    "GYORIN": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Namazu mercader, obsequioso con el cliente. Lo fija el corpus ya entregado y no una inferencia: BanNam002_03098 «¡Qué sorpresa verle por aquí!» y BanNam402_03110 entero en usted. Francés vous 40 contra 6.",
+      "voice": "Conserva la muletilla «sí, sí», que el inglés también marca. El tic japonés っぺ no se traslada."
+    },
+    "GYUFDAEN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Il Mheg: Nu Mou, ja です/ます, fr «vous»."
+    },
+    "HAGANNEE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie."
+    },
+    "HAIMET": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika: ja アンタ."
+    },
+    "HALLDOR": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: ja お前さん familiar; el fr dice «vous» y manda el ja."
+    },
+    "HANCOCK": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Kugane: fr «vous», ja keigo obsequioso."
+    },
+    "HANSAKU": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Recluta novato de la Confederación. El francés le da vous, pero se lo da a casi todo el mundo y no discrimina; zanja el japonés, アンタ con オレ y なあなあ. Toda la Confederación habla de tú. Pide favores con respeto, y eso va en el léxico."
+    },
+    "HARLOLTH": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»."
+    },
+    "HATHENSTEIN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»."
+    },
+    "HISUI": {
+      "player": "usted",
+      "others": { "KURENAI": "usted" },
+      "confidence": "medium",
+      "why": "Dama de compañía de la Princesa Rubí. Japonés ですます humilde y francés vous; a Kurenai la trata de 姫様."
+    },
+    "HOZAN": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Lo fija el corpus entregado, CtsDomReconstructKamisuki_00490 «no me diga que también a usted»."
+    },
+    "IALAOUL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Il Mheg: Nu Mou, fr «vous» y tono cortés; el ja usa 君 y no manda."
+    },
+    "JAIMBERT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»."
+    },
+    "JDYALANI": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Francés vous, «Veillez donc à ne pas en faire partie», y japonés muy cortés. Dos traductores la decidieron igual por separado.",
+      "voice": "Erre vibrada, que el francés marca con fairrre y pourrr."
+    },
+    "JIKKAN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lo fija el corpus entregado, «Sin duda ve usted el peligro», por encima del お前 que el japonés usa en dos filas sueltas. Francés vous."
+    },
+    "JNAIROH": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous; japonés femenino casual, かしら y ～わ, pero sin tutear."
+    },
+    "JOANRIC": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja 貴方."
+    },
+    "JULFEO": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie. El corpus fija que las hadas tutean al jugador."
+    },
+    "KEITEN": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Kugane: comerciante, fr «vous», ja keigo."
+    },
+    "KHULAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Dotharl brusca. Francés tu; japonés あんた con formas llanas."
+    },
+    "KUGANEWOLFBURGLAR": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Se nombra オイラ y trata de お前/てめぇ/あんた, con terminaciones llanas 〜だろ/〜ぜ/〜さ y cero keigo. Francés tu entero. El inglés le da registro golfo, «Bugger me», «baldy». Dos traductores lo decidieron igual por separado."
+    },
+    "KURENAI": {
+      "player": "usted",
+      "others": { "HISUI": "tú", "SANANA": "tú", "SHIOSAI": "tú" },
+      "confidence": "high",
+      "why": "La Princesa Rubí. Lo fija el corpus entregado, custom/004 y CtsSfsCharacter3_00481: «en no poca medida se lo debo a usted», «No deja usted de asombrarme». Japonés あなた様 con でございます; francés vous. Tres traductores la decidieron igual por separado. A su hermana Hisui y a los suyos, tú."
+    },
+    "KUROBANA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous en las cuatro misiones, «Qui êtes-vous?», y japonés あなた. Trata a los mayores de さん."
+    },
+    "KYUSEI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés humilde en ます y trata al jugador de 〜殿. Sin filas en el corpus."
+    },
+    "LAMON": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»; el ja es cortés pero lo trata de par."
+    },
+    "LANILLE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Rak'tika: ja 殿 ceremonial, fr «vous». Es mujer, «la maestra Lanille»."
+    },
+    "LEAMOSHEI": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»."
+    },
+    "LETHENMAER": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: fr «tu», ja 君."
+    },
+    "LILJA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Bozja: ja casual con ッス constante y sin keigo, camarada de la Resistencia. Llama al jugador 英雄さん."
+    },
+    "LOGHRIF": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Eden: Gaia en el recuerdo del pasado. Tierna con Mitron, ja のよ/かしら/わよ, fr «tu» 6 contra 0."
+    },
+    "LOROTTE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»."
+    },
+    "LOYMET": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Rak'tika: ja ます/貴方."
+    },
+    "LUCINNE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous y japonés en ます."
+    },
+    "LUEREEQ": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Side Story: camarada de caza. Lleva la erre marcada, «engorrrosa»."
+    },
+    "MARSHAK": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous», y el corpus RegOth4MycMarschak_00658 da 17 «le» contra 5. El texto lo escribe «Marsak»."
+    },
+    "MAUCI": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Joven dotharl. Francés tu; japonés 俺 con formas casuales."
+    },
+    "MAUWYL": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: fr «tu», ja キミ."
+    },
+    "MEESIYA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous», ja keigo humilde. El texto la escribe «Misija». Al revelarse traidora pasa a tú despectivo; con Marshak, tú de par a par."
+    },
+    "MENENIUS": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: tribuno garleano, frío y aristocrático. Tutea a sus subordinados y pares."
+    },
+    "MIKOTO": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous», y el corpus RegOth4MycMikoto_00659 dice «le dejo con sus obligaciones» y «La Resistencia le necesita». Voz tímida y nerviosa."
+    },
+    "MINEBERN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»."
+    },
+    "MITRON": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Eden: el asciano. Grandilocuente y arcaico; agresivo con los Herederos, ja お前 21 y 貴様 2, pero tierno con Loghrif."
+    },
+    "MOWEN": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Sephiroth: comerciante, fr «vous», ja ですます."
+    },
+    "MRAHZNUN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous y japonés en ます."
+    },
+    "MYNES": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: fr «tu»; capitán brusco."
+    },
+    "MZHETTIA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Arrogante, pero trata al jugador de «maestro» y el japonés no lo tutea.",
+      "voice": "Miqo'te de la tribu M: erre vibrada, una por línea. El corpus ya trae «brrravo nunh»."
+    },
+    "NAYOSHI": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Pescador joven de Isari. Francés tu constante, «Tu m'as permis de réaliser mon rêve», y japonés llano e imperativo, 俺 con 〜くれ y 〜ぜ. Llama al jugador 恩人殿 por gratitud, y esa deferencia va en el léxico, no en el pronombre."
+    },
+    "NIELDEN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: fr «tu», ja アンタ; guardia bronco."
+    },
+    "NIGEN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Mol cortés. El francés le da tu, pero el japonés zanja con 貴方 y です/ます/ください."
+    },
+    "NIMBUS": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: amaro parlante, fr «tu», ja オレ."
+    },
+    "NINES": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "NieR: 9S, joven y casual."
+    },
+    "NYMET": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika: ja お前/僕."
+    },
+    "OLMET": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika: ja 君."
+    },
+    "OSESIGUN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Il Mheg: Nu Mou pomposo."
+    },
+    "PHILIOT": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Chaval de la Bruma de Ishgard, deferente ante el Guerrero de la Luz. Japonés です/ます y 冒険者さん, ボク para sí; francés vous; inglés «my lady/sir»."
+    },
+    "POD": {
+      "player": "impersonal",
+      "confidence": "high",
+      "why": "NieR: el pod no usa segunda persona. Registro técnico, «Alerta:»."
+    },
+    "RAKITT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja キミ."
+    },
+    "RASHO": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Lo fija el corpus entregado, AktKba431 «No te preocupes, amigo... Tienes mi palabra». Japonés お前; capitán de la Resistencia domana."
+    },
+    "REGANA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: keigo entero, ますね/でしょう/ございます, fr «vous». Mercader."
+    },
+    "RESISTANCEOFFICER": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Werlyt: fr «vous», ja 殿/ます. Cordial y algo bruto."
+    },
+    "REX": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: tú al jugador con desprecio, ja オレ. Con Gaius, usted."
+    },
+    "RIAN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Bozja: garleano de voz vulgar y malhablada, fr «tu/toi». Apenas se dirige al jugador."
+    },
+    "RICON": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: voz dulce y tímida. Con Gaius, usted."
+    },
+    "RIOTT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja おめさん/オラ; registro rural sin transcribir acento."
+    },
+    "ROITATCHA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»."
+    },
+    "RONITT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: corpus BanDwa001-006. Voz de adolescente chulesco, por léxico y no por acento."
+    },
+    "SAIQESH": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous»; oficial."
+    },
+    "SAILEWQ": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Corpus BanDwa005 y BanDwa006: «usted solo señale», «¿Se toma usted alguna copita?», «sin su intervención». El ja usa 君 y no manda. Con Ronitt, tú."
+    },
+    "EUELISS": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Corpus BanDwa005 y BanDwa006: «me alegra mucho volver a verle», «no le envidio». Con Sai-Lewq, tú."
+    },
+    "NEILLEMARD": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika y Records: fr «tu», ja llano. Los dos trozos coincidieron por separado."
+    },
+    "NIMIE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika y Records: fr «tu», ja llano. Los dos trozos coincidieron por separado."
+    },
+    "SANANA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Lalafell mercachifle. Lo fija el corpus entregado, CtsSfsCharacter3_00481 «tú seguro que has estado allí». Francés tu; japonés アンタ."
+    },
+    "SANDMAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie, fr «tu» 31 contra 1."
+    },
+    "SAYER": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Cantero anciano y campechano. Francés tu y toi; japonés お主 y お前, わし con のう, arcaico pero familiar. Dos traductores lo decidieron igual por separado.",
+      "voice": "Rústica y anticuada. El inglés le come la g final, «livin'», «everythin'»."
+    },
+    "SEVERA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Werlyt: fr «vous», ja 英雄殿/ます. Con Gaius, usted, «el señor Gaius»."
+    },
+    "SHADOWHUNTER": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: Gaius. fr tutea, ja 貴殿, respeto entre iguales. Voz solemne y arcaizante. Con los huérfanos, paternal."
+    },
+    "SHIGURE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Samurái del Sekiseigumi. Habla en でござる, se nombra 拙者 y trata al jugador de 殿; cero 君, お前 y 貴様. Francés vous entero. Tres traductores lo decidieron igual por separado.",
+      "voice": "Galante y algo arcaico, con 御免つかまつる y 〜ぞ. El arcaísmo va en el léxico y la sintaxis, nunca en el pronombre."
+    },
+    "SHIOSAI": {
+      "player": "usted",
+      "others": { "KURENAI": "usted" },
+      "confidence": "high",
+      "why": "Chambelán de la Princesa Rubí. Keigo en todo, わたくし y ございます, y trata al jugador de 貴方. Francés vous. Dos traductores lo decidieron igual por separado."
+    },
+    "SRISTIALLA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja あんた."
+    },
+    "SUELEWQ": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja です."
+    },
+    "SUGARRIOT": {
+      "confidence": "high",
+      "voice": "Cecea. Marca una o dos palabras por línea, nunca la transcripción entera: «inzpiración», «ezto», «conzigues», «zol», «Azí». NO conviertas «has» en «haz», que es palabra española y se lee como falta en vez de como acento; marca otra palabra en esas líneas. Antes de nada, decide qué líneas son suyas: el comentarista de la arena comparte su combate y se reconoce en el japonés por ～だァ～ / ～ぞォ～ y por la tercera persona."
+    },
+    "KANESENNA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Francés `vous` en 139 filas contra 9 de `tu`; japonés con keigo en 272 contra 5 llanas. Formal sin discusión. OJO: sus filas con «vosotros» NO son al jugador — son la plegaria a los espíritus, «Ô esprits miséricordieux, vous qui nous abreuvez de vos richesses». Contarlas como vos cortesano fue un error de medición el 20 de agosto de 2026.",
+      "examples": [
+        "quest/040/AktKba101_04102#TEXT_AKTKBA101_04102_KANESENNA_000_094",
+        "quest/040/AktKba131_04105#TEXT_AKTKBA131_04105_KANESENNA_000_023"
+      ]
+    },
+    "SUZUME": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Mano derecha de Tsukikage en la Confederación. Francés tutea, «Contente de te revoir»; japonés アタシ con 〜ね/〜だい/〜かい. Deferente solo con su jefe, al que trata de 親分 y です."
+    },
+    "SWETELOVE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Nieta joven y dulce. Francés vous; japonés さん con です."
+    },
+    "SWETHRYKBROOKSTONE": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Gran mariscal de la Doble Víbora. DOS TRADUCTORES LO DECIDIERON DISTINTO: uno usted por la gravedad del cargo, otro tú leyendo el 君 japonés como trato de camarada a su soldado. Se queda en usted porque el francés le da vous y porque el jugador no es su subordinado. Merece medirse contra el corpus antes de subir la confianza."
+    },
+    "SYLGHAM": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous»; empleado."
+    },
+    "SYLGRAN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Kholusia: ja くだされ; granjero cortés."
+    },
+    "TAHLAMOLKOH": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Archivera miqo'te. Francés vous; japonés さん con ます.",
+      "voice": "Erre vibrada, una palabra por línea donde encaje: «Grrracias», «verrrdad». El francés se la triplica en TODAS sus líneas, así que es rasgo de personaje y no manía francesa."
+    },
+    "TAINA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Rak'tika: ja llano."
+    },
+    "TAKOTSUBO": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kojin folclórico. El francés le da vous por defecto, pero el japonés zanja con おまえさん; llama al jugador «陸のヒト».",
+      "voice": "Kojin: alarga una o dos vocales por línea, nunca la transcripción entera."
+    },
+    "TAMACHAG": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Mercader veterano de Reunion. Francés tu 17 contra 1, y japonés あんた con formas llanas."
+    },
+    "TAYNOR": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Side Story: corpus 20 filas, ja cortés. Con Unukalhai, usted hasta que se tutean en LucKun003."
+    },
+    "THAYMOTH": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «tu»."
+    },
+    "TOLAS": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Lakeland: fr «vous», ja 貴方/殿; caballero formal."
+    },
+    "TONATIUH": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie, fr «tu» 28 contra 5."
+    },
+    "TSUKIKAGE": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Jefe y prestamista de la Confederación. Francés tutea sin excepción; japonés お前さん con わし y 〜じゃ/〜のう. Trata al jugador de 殿 y el inglés le da «Master/Mistress», pero eso va en el tono. Dos traductores lo decidieron igual por separado."
+    },
+    "TUISHIRR": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: fr «tu»; ex-carpintero bronco."
+    },
+    "TWOB": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "NieR: 2B, militar y parca, fr «vous», ja 貴方. Con Anogg y 9S, camaradas, tú. La designación es «YoRHa No.2 Modelo B»."
+    },
+    "TWOP": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "NieR: 2P, fría y terca, fr «vous», ja 貴方達. Al grupo, imperativo en vosotros."
+    },
+    "ULTHON": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie, fr «tu» 31 contra 5."
+    },
+    "UNUKALHAI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Side Story: corpus 14 filas, ja です/ます."
+    },
+    "VALDEAULIN": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Werlyt: fr «vous», ja です y 英雄殿. Con Gaius, tú, frío y amenazante."
+    },
+    "VALENSVANVARRO": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Werlyt: nunca habla al jugador. A huérfanos y súbditos, tú despectivo y falso-paternal, ja キミ, se hace llamar «papá»."
+    },
+    "WALMET": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Kholusia: ja ます; Eulmore."
+    },
+    "WICHARD": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Joven organizador alamhigano. Keigo, いたします y おまかせあれ; francés vous."
+    },
+    "WILLFORT": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «vous»; guardia de Nabaath Areng."
+    },
+    "WLVEVA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Cazadora veterana del Clan Centurio, compañera de Estrild. Francés tu; japonés お前."
+    },
+    "WRENRIC": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Amh Araeng: fr «vous»; guardia de Nabaath Areng."
+    },
+    "WYDLAD": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Il Mheg: pixie mercader; el fr sobre-marca «vous» y no manda."
+    },
+    "XEMUTT": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: enana de Tomra, abuela."
+    },
+    "XYLLE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Lakeland: fr «tu»."
+    },
+    "YALFORT": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Eden: el intendente. Muy deferente, honoríficos 様. Con Gaia, usted, «señorita Gaia»."
+    },
+    "YUGIRI": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Francés `vous` en 183 filas contra 5 de `tu`. El japonés va en forma llana pero con pronombres formales — 貴殿 — así que es formal sin ser deferente, que es exactamente «usted» y no «vos». El corpus la tiene partida: «No comprende usted la urgencia» junto a «a vuestro servicio», y esas segundas son la fuga de vos que hay que corregir.",
+      "examples": [
+        "quest/013/GaiUse203_01347#TEXT_GAIUSE203_01347_YUGIRI_000_017",
+        "quest/041/AktKba421_04122#TEXT_AKTKBA421_04122_YUGIRI_000_020"
+      ]
+    },
+    "AYMERIC": {
+      "player": "tú",
+      "others": { "LUCIA": "tú", "ARTOIREL": "usted" },
+      "confidence": "high",
+      "why": "CAMBIADO DE «usted» A «tú» EL 25 DE AGOSTO DE 2026, resuelto contra el corpus y no contra el francés. Su francés es `vous` en 210 filas contra 3 y su japonés llano en 218 contra 3 con keigo, que es lo que sostenía el «usted» anterior con confianza media; pero el arco de Radz-at-Han YA ENTREGADO le da tuteo con el jugador, y un personaje que cambia de tratamiento entre dos expansiones es un defecto que solo se ve jugando seguido. Mismo caso que Alphinaud, decidido también contra su francés. Sus 29 filas con «vos» son la fuga cortesana que se barrió."
+    },
+    "LUCIA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés `vous` 135 contra 4; japonés llano 135 contra 13 con keigo. CONFIRMADA EN «usted» el 25 de agosto de 2026 contra el corpus entregado de Radz-at-Han, en la misma revisión que movió a Aymeric a «tú»: no van juntos, y esa es la gracia de tenerlos medidos por separado."
+    },
+    "ARTOIREL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés `vous` 113 contra 2; japonés llano 103 contra 24 con keigo."
+    },
+    "FLHAMINN": {
+      "player": "usted al conocerle, tú después",
+      "confidence": "high",
+      "why": "LA ÚNICA ENTRADA CON ARCO, y la estructura lo admite. En las secundarias de A Realm Reborn le llama «forasterrro» y le trata de usted; en el contenido posterior es «¿Acaso crees que hice todo este viaje por capricho?». Un traductor que iguale «lo publicado» contando ocurrencias acierta la mitad de las veces. Lleva además la erre arrastrada en las dos épocas: «terrrible», «verrrdad».",
+      "examples": [
+        "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_020"
+      ]
+    },
+    "RAUBAHN": {
+      "player": "",
+      "confidence": "undecided",
+      "why": "513 filas y el francés está genuinamente partido, 119 `tu` contra 93 `vous`; el japonés es llano en 273. Las notas de tanda le dan «tú» y «usted» en distintas tandas. Necesita que alguien lea su inglés al JUGADOR en concreto: las filas que salen en una búsqueda por hablante incluyen las que dirige a Raganfrid y a M'naago, que no valen para esto."
+    },
+    "GRAHATIA": {
+      "player": "tú",
+      "confidence": "high",
+      "voice": "Erre arrastrada OCASIONAL, no sistemática: «corrrazón», «verrrdad». 47 filas de 1.122, un 4 %. Es un guiño puntual en momentos de emoción, no un ceceo constante, y meterla en todas sus líneas lo convertiría en otro personaje.",
+      "why": "AVISO DE MEDICIÓN, Y ES EL VALOR DE ESTA ENTRADA. Sus filas están repartidas entre TRES claves de hablante distintas: `GRAHATIA` (1.122), `G'raha Tia` (36) y `GRAHATIA000` (2). Quien busque «G'raha» encuentra 36 filas, ninguna con la erre, y concluye que el tic no existe; dos lectores llegaron a esa conclusión el 26 de agosto de 2026, uno de ellos el orquestador. NORMALIZA LA CLAVE ANTES DE CONTAR: solo letras, en mayúsculas, como hace `NpcResolver.Normalise`. La misma trampa espera en cualquier personaje con apóstrofo o con un título alternativo.",
+      "examples": [
+        "custom/006/RegNor4CrystalExarch_00611"
+      ]
+    },
+    "KRILE": {
+      "player": "tú",
+      "others": { "MATOYA": "usted" },
+      "confidence": "high",
+      "why": "EL JAPONÉS ES EL QUE DECIDE AQUÍ, Y EL FRANCÉS MIENTE. Su japonés va en forma llana 129 veces contra 63 con です/ます en Eureka, la misma proporción que en Dawntrail (235 contra 111) y en Endwalker (112 contra 79): no es más formal en un sitio que en otro. El francés parece decir lo contrario en Eureka, `vous` 238 contra 33, y es un espejismo: ahí Krile se dirige al EQUIPO DE LA EXPEDICIÓN y ese `vous` es plural, no cortesía. Contarlo como formal es lo que produjo el defecto.",
+      "examples": [
+        "quest/043/AktKma102_04358#TEXT_AKTKMA102_04358_KRILE_000_280",
+        "quest/043/AktKma103_04359#TEXT_AKTKMA103_04359_KRILE_000_230"
+      ]
+    },
+    "ALPHINAUD": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO CONTRA EL FRANCÉS, a propósito. Su francés es `vous` en 1.027 filas contra 138, y aun así el trato es «tú»: el inglés lo zanja por su cuenta y el corpus manda donde discrepan. Está aquí precisamente porque las notas de tanda le dieron cuatro respuestas distintas — tú, usted y hasta vos — y ninguna dejó constancia de por qué. Sus 55 filas con «vuestro» son plural a los Videntes, no cortesía al jugador.",
+      "others": { "ALISAIE": "tú", "TATARU": "tú", "AYMERIC": "usted", "YUGIRI": "usted" }
+    },
+    "ASTRID": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_ASTRID_000_140",
+        "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_ASTRID_000_143"
+      ]
+    },
+    "BUTLER": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 6 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/052/FesPdx001_05237#TEXT_FESPDX001_05237_BUTLER_000_000",
+        "quest/054/FesPdx101_05444#TEXT_FESPDX101_05444_BUTLER_000_004"
+      ]
+    },
+    "CRISPIN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_CRISPIN_000_110",
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_CRISPIN_000_165"
+      ]
+    },
+    "DAMARIS": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/012/FesNyr001_01292#TEXT_FESNYR001_01292_DAMARIS_000_000",
+        "quest/012/FesNyr001_01292#TEXT_FESNYR001_01292_DAMARIS_000_003"
+      ]
+    },
+    "DENISE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_DENISE_000_120",
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_DENISE_000_220"
+      ]
+    },
+    "EDMONT": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/022/HeaVnd105_02246#TEXT_HEAVND105_02246_EDMONT_000_020",
+        "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_EDMONT_000_482"
+      ]
+    },
+    "EMMANELLAIN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 4 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/024/ClsWvr601_02431#TEXT_CLSWVR601_02431_EMMANELLAIN_000_033",
+        "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_EMMANELLAIN_000_030"
+      ]
+    },
+    "HORSEMISSIONARY": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 16 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/012/FesNyr001_01292#TEXT_FESNYR001_01292_HORSEMISSIONARY_000_011",
+        "quest/012/FesNyr001_01292#TEXT_FESNYR001_01292_HORSEMISSIONARY_000_012"
+      ]
+    },
+    "HORSEYORIKI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 5 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/052/FesNyx201_05229#TEXT_FESNYX201_05229_HORSEYORIKI_000_030",
+        "quest/052/FesNyx201_05229#TEXT_FESNYX201_05229_HORSEYORIKI_000_033"
+      ]
+    },
+    "ILIUD": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 4 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/008/GaiUsb601_00883#TEXT_GAIUSB601_00883_ILIUD_000_001",
+        "quest/008/GaiUsb601_00883#TEXT_GAIUSB601_00883_ILIUD_000_004"
+      ]
+    },
+    "ISHGARDRESIDENTOFFICER": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/041/AktKba501_04126#TEXT_AKTKBA501_04126_ISHGARDRESIDENTOFFICER_000_000",
+        "quest/041/AktKba501_04126#TEXT_AKTKBA501_04126_ISHGARDRESIDENTOFFICER_000_004"
+      ]
+    },
+    "KOANA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 5 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_034",
+        "quest/048/KinGmb106_04885#TEXT_KINGMB106_04885_KOANA_000_062"
+      ]
+    },
+    "KONGO": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 5 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/025/JobSam650_02568#TEXT_JOBSAM650_02568_KONGO_000_075",
+        "quest/025/JobSam650_02568#TEXT_JOBSAM650_02568_KONGO_100_081"
+      ]
+    },
+    "LAUROVIC": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_LAUROVIC_000_045",
+        "quest/052/FesVlx101_05251#TEXT_FESVLX101_05251_LAUROVIC_000_090"
+      ]
+    },
+    "MAKOTO": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 13 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/025/JobSam601_02566#TEXT_JOBSAM601_02566_MAKOTO_000_041",
+        "quest/025/JobSam630_02567#TEXT_JOBSAM630_02567_MAKOTO_000_002"
+      ]
+    },
+    "MYSTE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/029/JobDrk630_02916#TEXT_JOBDRK630_02916_MYSTE_000_154",
+        "quest/029/JobDrk650_02917#TEXT_JOBDRK650_02917_MYSTE_000_017"
+      ]
+    },
+    "OBORO": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/029/JobNin601_02948#TEXT_JOBNIN601_02948_OBORO_000_106",
+        "quest/029/JobNin630_02949#TEXT_JOBNIN630_02949_OBORO_000_003"
+      ]
+    },
+    "OLLIER": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 5 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_OLLIER_000_001",
+        "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_OLLIER_000_004"
+      ]
+    },
+    "POULTRYFARMER03829": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/038/BanQiq124_03829#TEXT_BANQIQ124_03829_POULTRYFARMER03829_000_012",
+        "quest/038/BanQiq124_03829#TEXT_BANQIQ124_03829_POULTRYFARMER03829_000_020"
+      ]
+    },
+    "PRINCIPIA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 15 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_PRINCIPIA_000_010",
+        "quest/026/JobSmn630_02626#TEXT_JOBSMN630_02626_PRINCIPIA_000_0040"
+      ]
+    },
+    "QHOTERLPASOL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 28 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/038/BanQiq101_03806#TEXT_BANQIQ101_03806_QHOTERLPASOL_100_010",
+        "quest/038/BanQiq101_03806#TEXT_BANQIQ101_03806_QHOTERLPASOL_100_020"
+      ]
+    },
+    "QITARLNATL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 10 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/037/BanQiq001_03794#TEXT_BANQIQ001_03794_QITARLNATL_000_106",
+        "quest/037/BanQiq001_03794#TEXT_BANQIQ001_03794_QITARLNATL_000_114"
+      ]
+    },
+    "REDGENERAL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 5 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/012/FesNyr004_01295#TEXT_FESNYR004_01295_REDGENERAL_000_003",
+        "quest/012/FesNyr004_01295#TEXT_FESNYR004_01295_REDGENERAL_000_005"
+      ]
+    },
+    "SUBORDINATEB": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_040",
+        "quest/012/FesNyr003_01294#TEXT_FESNYR003_01294_SUBORDINATEB_000_042"
+      ]
+    },
+    "URIANGER": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 3 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/011/GaiUse118_01192#TEXT_GAIUSE118_01192_URIANGER_000_010",
+        "quest/011/GaiUse118_01192#TEXT_GAIUSE118_01192_URIANGER_000_014"
+      ]
+    },
+    "UTERLMATL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Decidido en el barrido central de «vos» del 24 de agosto de 2026, que reescribió 4 filas suyas dirigidas al jugador. El §6 prohíbe «vos» al jugador; el trato se eligió por la tabla de registro donde el hablante figuraba, y si no, por el francés y el japonés: «vous» con japonés singular o cortés da usted, «tu» da tú. NO ESTÁ MEDIDO SOBRE TODAS SUS FILAS: solo sobre las que usaban vos, así que es una decisión firme para esas y una presunción para el resto.",
+      "examples": [
+        "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_UTERLMATL_000_013",
+        "quest/038/BanQiq118_03823#TEXT_BANQIQ118_03823_UTERLMATL_000_025"
+      ]
+    },
+    "ESTINIEN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Medido sobre sus 1.258 filas el 26 de agosto de 2026. El japonés no deja lugar a duda: お前 157 veces, 貴様 10, あなた ninguna, y CERO formas です/ます en todo el personaje. El francés acompaña, 312 tu/toi contra 163 vous. NO HABÍA NADA QUE ARREGLAR: el corpus entregado no tiene ni una fila suya con «vos» al jugador, así que el barrido central del 24 de agosto ya lo había limpiado. Su única fila con «usted» va dirigida a Alphinaud, no al jugador, y se queda.",
+      "examples": []
+    },
+    "VARSHAHN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Medido sobre sus 722 filas el 26 de agosto de 2026, y sobre las 226 de su forma de dragón. Como VARSHAHN dice 君 120 veces y あなた 8; como VARSHAHNBIG, 君 32 contra あなた 3 y ninguna forma cortés. Su です/ます es su manera de hablar en general, no distancia hacia el jugador: se llama a sí mismo 僕 y dice 君たち al grupo. SU FRANCÉS ENGAÑA — 207 vous contra 157 tu — y por eso hacía falta el japonés. Doce filas pasaron de usted a tú el 26 de agosto, y tres se quedaron como estaban a propósito: una va dirigida a Nidhana y dos son el dragón negociando con Garlemald, donde «ustedes» es una delegación y no el pronombre de cortesía.",
+      "examples": [
+        "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_VARSHAHN_000_246",
+        "quest/045/AktKmh110_04535#TEXT_AKTKMH110_04535_VARSHAHN_000_231"
+      ]
+    },
+    "VARSHAHNBIG": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "La forma de dragón del mismo personaje, con clave de hablante distinta. Mismo trato que VARSHAHN y medido aparte para comprobarlo: 君 32 veces contra あなた 3, sin una sola forma です/ます.",
+      "examples": []
+    },
+    "ARCHOMBADIN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "TÚ DESPECTIVO, NO USTED FRÍO, y es el japonés quien lo zanja: sobre sus 49 filas dice 貴様 nueve veces y お前 dos, あなた ninguna, y llama al jugador 平民 (plebeyo) siete veces. El inglés va en la misma dirección: «A lowborn stumbles into the scholasticate», «A simpleton like you», «I will never understand why they let you people in here». Su «vous» francés, 47 veces, no prueba nada: el francés se lo da a casi todo el mundo. DOS TRADUCTORES DE LA MISMA TANDA LLEGARON A CONCLUSIONES OPUESTAS sobre él, uno por el francés y otro por el japonés; ganó el japonés y se corrigió una fila ya entregada.",
+      "examples": [
+        "quest/018/HeaVnz601_01869#TEXT_HEAVNZ601_01869_ARCHOMBADIN_000_030",
+        "quest/029/ChrEnd102_02153#TEXT_CHREND102_02153_ARCHOMBADIN_000_062"
+      ]
+    },
+    "BRIARDIEN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "El inspector trata al aventurero de socio: japonés きみ/ぼく, y el inglés lo empareja con el jugador en toda la investigación del escolasticado. A su tío Bruvagnon y al clero, usted.",
+      "examples": []
+    },
+    "HILDIBRAND": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Medido sobre sus 399 filas de A Realm Reborn: japonés 貴方 8 y あなた 2, contra CERO 君, きみ, キミ, お前 y 貴様. Las terminaciones van igual, です 151 y ます 92, con el ぞ enfático encima (ですぞ 43, ますぞ 57) que es lo que le da el aire pomposo y antiguo. El francés coincide, vous 117 contra tu 26. El registro no es deferencia sino grandilocuencia: habla de sí mismo en tercera persona y se presenta con todos sus títulos.",
+      "examples": []
+    },
+    "GODBERT": {
+      "player": "usted",
+      "others": {
+        "HILDIBRAND": "tú",
+        "JULYAN": "tú",
+        "NASHUMHAKARACCA": "tú",
+        "KAMLITO": "tú",
+        "AITKEN": "tú",
+        "PIPIMAYA": "tú",
+        "SASAPANO": "tú"
+      },
+      "confidence": "high",
+      "why": "Medido sobre sus 727 filas de todo el corpus, no sobre una rodaja: japonés です／ます en 426, キミ o 君 en 21, francés vous en la inmensa mayoría y tu en 32. Y de esas 21 solo 8 son キミ al jugador, todas de A Realm Reborn y todas dentro de frases que terminan en です／ます (「持ってきてくれたのですかね」, 「用意したものですな」), con vous en el francés de las ocho: es campechanía teatral, no confianza. Las otras 13 son el sufijo 君 pegado al nombre de OTRO (カムリト君, オリアー君, アイトケン君, ウソ助君). NO HAY CAMBIO DE REGISTRO CON EL TIEMPO, comprobado en la escena más íntima que tiene con el jugador, el paseo de la Fiesta de las Estrellas de FesXms703_04470: 83 filas, CERO キミ, 50 con です／ます, CERO tu en francés y 37 vous. EL TÚ QUE SÍ LLEVA ES POR INTERLOCUTOR, no por época: su hijo, su mujer, Nashu y los chicos a los que apadrina. COMPARTE EL ぞ CON SU HIJO Hildibrand, que es de familia, y ahora también el trato.",
+      "examples": []
+    },
+    "GILGAMESH": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "EL CASO DE LIBRO DEL FRANCÉS ENGAÑOSO: vous 18 contra tu 8, y el japonés no le da una sola forma cortés en 83 filas, solo お前 y 君, 10 veces. Habla con オレ, frases cortadas y ねぇよ. Es un fanfarrón basto, no un cortesano.",
+      "examples": []
+    },
+    "NASHUMHAKARACCA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Japonés cortés, です／ます, y llama a su jefe ヒルディブランド様. El francés coincide, vous 41 contra CERO tu. TRAMPA DEL FRANCÉS: le pone una erre arrastrada («je trrravaillais») que no está ni en el inglés ni en el japonés, así que no se importa.",
+      "examples": []
+    },
+    "ELVIANE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Rectora del escolasticado de San Endalim, tradicional y severa; japonés muy cortés, en ます.",
+      "examples": []
+    },
+    "SATURNOIS": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Sacerdote del escolasticado; japonés です/ます y あなたたち a los alumnos. Dos traductores coincidieron por separado.",
+      "examples": []
+    },
+    "THEOMOCENT": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Alumno plebeyo y humilde; japonés さん/です/ます. El DefaultTalk ya entregado lo trata de usted. Dos traductores coincidieron por separado.",
+      "examples": []
+    },
+    "LEIGH": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Alumno plebeyo y brusco; japonés あんた/俺, pese al «vous» francés. Dos traductores coincidieron por separado.",
+      "examples": []
+    },
+    "CRAMMEVOIX": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Noble descarado que trata al jugador de igual a igual. Dos traductores coincidieron por separado.",
+      "examples": []
+    },
+    "LEBRASSOIR": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Servil y cortés, a diferencia de Archombadin, a quien sigue: japonés 貴方/です/ます.",
+      "examples": []
+    },
+    "CID": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Cid nan Garlond. Medido sobre el Stormblood entregado: 36 marcas de tuteo en singular contra ninguna de usted en 385 filas suyas. OJO, ES UNA SOLA CLAVE PARA DOS SAGAS: habla en Omega, 365 filas, y en Return to Ivalice, 47, donde es amigo de la familia Lexentale y no un personaje de Tactics. Sus filas de Ivalice parecen de usted y no lo son: son plural a un grupo, «no temáis, buenos días a todos».",
+      "examples": []
+    },
+    "NERO": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Nero tol Scaeva. Tuteo en 17 filas contra 3 de usted, y esas tres son a Rhitahtyn, un oficial garleano, no al jugador. Sardónico y teatral; a Cid le llama «Garlond».",
+      "examples": []
+    },
+    "GENBU": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El auspicio de la tortuga, en la saga de los Cuatro Señores. Decidido leyendo sus 154 filas de ese tramo.",
+      "examples": []
+    },
+    "JESSIE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "De las Forjas de Garlond, a diferencia de Cid y de Biggs y Wedge, que tutean.",
+      "examples": []
+    },
+    "RAMZALEXENTALE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Familia Lexentale, el crossover de Final Fantasy Tactics. Francés `vous` y japonés です／ます. Entre ellos se tutean: Ramza, Alma, Jenomis y Mikoto. Confianza media porque combate al lado del jugador y eso suele ablandar el trato.",
+      "examples": []
+    },
+    "JENOMISLEXENTALE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El padre. Francés `vous` y japonés です／ます, y coincide en los dos trozos de Return to Ivalice, decidido por separado.",
+      "examples": []
+    },
+    "LINAMEWRILAH": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Familia Lexentale. Misma medida que Ramza, con la misma reserva.",
+      "examples": []
+    },
+    "ALMALEXENTALE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Familia Lexentale. Tú con su hermano Ramza y con su padre.",
+      "examples": []
+    },
+    "ADALBERTA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ALBERIC": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ALDIS": {
+      "player": "tú",
+      "others": { "MYLLA": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ALISAIE": {
+      "player": "tú",
+      "others": { "ALPHINAUD": "tú", "ZERO": "tú", "GOSETSU": "usted", "URIANGER": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ALKAZOLKA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BADERON": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BAISHAEN": {
+      "player": "usted",
+      "others": { "MIKOTO": "usted", "CID": "usted" },
+      "confidence": "high",
+      "why": "Bozja: fr «vous», corpus RegOth4MycBaichaouen_00657. A Cid, usted, ja シド殿."
+    },
+    "BEATINE": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BIGGS": {
+      "others": { "WEDGE": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BLOEIDIN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BRITHAEL": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BRUVAGNON": {
+      "others": { "ELVIANE": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "BUNCHIN": {
+      "others": { "KABUTO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "CHUCHUTO": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "CLEM": {
+      "others": { "AYMERIC": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "COCOBANI": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "COCOBUKI": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "CONRAD": {
+      "others": { "MNAAGO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "COULTENET": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "CURIOUSGORGE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "DRUSILLA": {
+      "others": { "HERMIN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "EOTYR": {
+      "others": { "ANDEN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ERENVILLE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ERIK": {
+      "player": "usted",
+      "others": { "WIDARGELT": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ESUMIYAN": {
+      "player": "usted",
+      "others": { "SYLPHIE": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "EUELISS": {
+      "others": { "SAILEWQ": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "FORDOLA": {
+      "others": { "ANSFRID": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "FRANCEL": {
+      "others": { "MARCELLOIX": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "FRAY": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "FUFUCHA": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GEROLT": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GEVA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GHUNGUN": {
+      "others": { "JAMIAL": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GOSETSU": {
+      "others": { "YUGIRI": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GRENOLDT": {
+      "others": { "CHORAZOI": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "GULOOLJA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "HAMON": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "HAURCHEFANT": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "HERMES": {
+      "others": { "DOROS": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "HIEN": {
+      "player": "tú",
+      "others": { "GOSETSU": "tú", "ALPHINAUD": "usted", "LYSE": "tú" },
+      "confidence": "medium",
+      "why": "Francés tu; japonés そなた, de señor a amigo de confianza. Antes solo tenía el trato a otros personajes."
+    },
+    "HNAANZA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ICEHEART": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JACKE": {
+      "player": "tú",
+      "others": { "OBORO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JALZAHN": {
+      "others": { "GEROLT": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JANNEQUINARD": {
+      "player": "usted",
+      "others": { "LEVEVA": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JENLYNS": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JIHLIALIAPOH": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "JULLUS": {
+      "others": { "ALPHINAUD": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "KAZAGGCHAH": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "KEIMEI": {
+      "others": { "KOTOCHO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "KLYHIA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "KOFUINSEIGETSU": {
+      "others": { "GYOSHIN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "KONOGG": {
+      "player": "usted",
+      "others": { "ANOGG": "tú" },
+      "confidence": "high",
+      "why": "YoRHa: lo fija el corpus RegNor4YtcTwins1_00643, «¿quería usted algo?». Tímido y cortés, ja keigo."
+    },
+    "KORURI": {
+      "player": "usted",
+      "others": { "NAYOSHI": "tú" },
+      "confidence": "medium",
+      "why": "Aldeana de Isari. Al jugador, francés vous, «Je vous dois la vie», y japonés 恩人様 con ます. A Nayoshi lo tutea y le habla en llano: el trato al jugador no se hereda de lo que da a los suyos."
+    },
+    "KOZAKURA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Lo fija el corpus entregado, CtsDomReconCollectionBox_00484 «es usted demasiado amable». Japonés humilde en まする."
+    },
+    "LALAI": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LANDENEL": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LANUHANU": {
+      "others": { "NAHANSHE": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LATISHA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LEIHALIAPOH": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LEOFARD": {
+      "others": { "UTATA": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LETTERMOOGLE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LEVEVA": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LEWIN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LISETTE": {
+      "others": { "HORTEFENSE": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LISSETE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LLOONGAH": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LUCIANE": {
+      "player": "usted",
+      "others": { "SILVAIRRE": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LYNGSATH": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "LYSE": {
+      "others": { "MNAAGO": "tú", "WIDARGELT": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MARTYN": {
+      "player": "tú",
+      "others": { "PYANDIH": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MERLWYB": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MIAHMOLKOT": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MINFILIA": {
+      "player": "tú",
+      "others": { "URIANGER": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MIOUNNE": {
+      "player": "tú",
+      "others": { "PARSEMONTRET": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MNAAGO": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Camarada de la Resistencia, cercana. Confirmado leyendo sus escenas del arco abanio.",
+      "voice": "La erre arrastrada del francés, «rendrrre», «camarrrades», NO se importa: solo está en el francés, ni en el inglés ni en el japonés. Misma trampa registrada en NASHUMHAKARACCA."
+    },
+    "MOMODI": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MOTTE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MUSOSAI": {
+      "others": { "MOMOZIGO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "MYLLA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "NAMINGWAY": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "NANAMOULNAMO": {
+      "others": { "RAUBAHN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "NONOTTA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "NOVV": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "OHLDEEH": {
+      "others": { "GULLINBURSTI": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "OMEGA": {
+      "others": { "ALPHA": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "PAPALYMO": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "PAPASHAN": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "QUINFORT": {
+      "others": { "VALAN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "QYANTAA": {
+      "others": { "GYSOL": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "RAMMBROES": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "RAYAOSENNA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "REDOLENTROSE": {
+      "player": "usted",
+      "others": { "WAWARUKKA": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ROLAND": {
+      "others": { "DALUCE": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ROWENA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ROYSE": {
+      "player": "tú",
+      "others": { "MARTYN": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "RUNAR": {
+      "others": { "MATOYA": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "RYNE": {
+      "player": "tú",
+      "others": { "THANCRED": "tú", "URIANGER": "tú", "GAIA": "tú" },
+      "confidence": "high",
+      "why": "El corpus da siete marcas de tuteo hacia Thancred contra una de usted, y es trato de hija a figura paterna. El ja la hace llamarlo «サンクレッド» a secas, sin keigo."
+    },
+    "SCARLET": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SEARCHINGWAY": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SEKKA": {
+      "others": { "BRITHAEL": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SERENDIPITY": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SHALE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SHUNYE": {
+      "others": { "UVLO": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SIDURGU": {
+      "others": { "RIELLE": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SILVAIRRE": {
+      "others": { "LUCIANE": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SISIPU": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SKAETSWYS": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SLAFBORN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "SOLKWYB": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "STAELWYRN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "STEPHANIVIEN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "STORMPERSONNEL": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TANKIN": {
+      "others": { "HINAGESHI": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TATARU": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Francés `vous` sin excepción y el corpus «usted» 25 contra 2. Su calidez no está en el pronombre."
+    },
+    "THANCRED": {
+      "player": "tú",
+      "others": { "RYNE": "tú", "URIANGER": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "THUBYRGEIM": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TIISOLJA": {
+      "others": { "HHUKI": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TRACHRAET": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TRNA": {
+      "others": { "MARU": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "TSUKUMO": {
+      "others": { "KABUTO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "VKEBBE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WANDERINGMINSTREL": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WAWALAGO": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WEDGE": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WRENDEN": {
+      "others": { "CHAINUZZ": "usted" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WUKLAMAT": {
+      "player": "tú",
+      "others": { "SPHENE": "tú", "ERENVILLE": "tú", "OTIS": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "WYRNZOEN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "XEEROLJA": {
+      "others": { "HALNARUK": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "XRHUNTIA": {
+      "player": "tú",
+      "others": { "ARYA": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "YAANA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "YDA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "YMHITRA": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "YSHTOLA": {
+      "player": "tú",
+      "others": { "KRILE": "tú", "URIANGER": "tú", "ESTINIEN": "tú", "ZERO": "tú" },
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "YWAIN": {
+      "player": "tú",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ZHLOEALIAPOH": {
+      "player": "usted",
+      "confidence": "low",
+      "why": "Sin filas citadas: heredado de la guía de estilo inicial."
+    },
+    "ZLATAN": {
+      "player": "usted",
+      "others": { "REGANA": "usted", "GEROLT": "usted" },
+      "confidence": "high",
+      "why": "Bozja: fr «vous», ja 解放者殿, obsequioso. Trata a Gerolt de «maestro»."
+    },
+    "ZUMIESHAI": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Kholusia: ja llano; refugiada."
+    },
+    "ATHENA": {
+      "player": "tú",
+      "others": {
+        "LAHABREA": "tú"
+      },
+      "confidence": "medium",
+      "why": "Pandæmonium. El francés dice tu, y el japonés 貴方 no la contradice porque se lo dice igual a su marido (ATHENA_000_060 「貴方だって……」): es su pronombre habitual, no deferencia. Voz sedosa y elegante, imperativos suavizados («no te inquietes», «tenlo por seguro»), nada de brusquedad aunque diga cosas atroces."
+    },
+    "BRADIHILND": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Brandihild, secundarias de Hildibrand de Endwalker. です／ます extremo con 私, francés vous, y trata a todos de 殿. Voz: tartamudeo. HEREDA EL ぞ DE HILDIBRAND en cuatro filas japonesas de ChrHdb831."
+    },
+    "CLAUDIEN": {
+      "player": "usted",
+      "others": {
+        "RUISSENAUD": "tú"
+      },
+      "confidence": "high",
+      "why": "Entregado en custom/008/RegNot5Claudien_00838: «le agradecería que las compartiera con nosotros», «si alguna vez hay algo en lo que podamos ayudarle». El japonés coincide, 貴方 más です／ます, y se dirige al jugador con さん. Tratamiento: «el profesor Claudien», también entregado. A sus ayudantes, tú."
+    },
+    "COLLEAGUESOLDIER": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Manius. Lo fija AktKmb114_04393, entregado, «¿Qué hace aquí de vuelta?», que es el mismo personaje y la misma escena. El あんた japonés habría pedido tú; manda el corpus."
+    },
+    "CRAFTER04653": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "El artesano de la Casa Manderville. Francés vous con «<if(gnum4,Dame,Messire)>», japonés です／ます y ください en sus 30 filas. Trata a Gerolt de «maestro Gerolt» y a Godbert de «señor Godbert»."
+    },
+    "DEIANEIRA": {
+      "player": "usted",
+      "others": {
+        "ERICHTHONIOS": "tú",
+        "LAHABREA": "usted"
+      },
+      "confidence": "medium",
+      "why": "La reproducción de Agdistis. Japonés ですます con ございます／おります y 貴方; el francés le da vous a Lahabrea y un tu al jugador en DEIANEIRA_000_508, y ahí manda el japonés para no partirle la voz dentro de la misma escena. Trata a Lahabrea de «maestro Lahabrea». DOS REGISTROS A LA VEZ Y NO ES INCOHERENCIA: es la carcelera veterana y Erichthonios el guardián joven, y su grito de aviso en usted quedaba almidonado."
+    },
+    "DELION": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Entregado en DefaultTalk. Francés vous, japonés です／ます más さん."
+    },
+    "DERYK": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Lo zanjan las tres: 8 filas entregadas en custom/008/FesAnv2024LlymlaenStone_00854 («Sabía que eras tú», «Es muy propio de ti»), el francés 81 tu contra 34 vous sobre sus 298 filas, y el japonés llano 52 contra 8 cortés (俺／あんた／お前／君). Al grupo, vosotros. Y TUTEA TAMBIÉN A LOS DIOSES, único mortal que lo hace: es la pista deliberada de que es Oschon. Voz lacónica, sin adornos, frases cortas, con un giro elevado al aconsejar."
+    },
+    "DJINABAHA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Entregado en AktKmd103_04411: «Puede empezar por ayudarnos», «Pregunte a los demás»."
+    },
+    "ERICHTHONIOS": {
+      "player": "tú",
+      "others": {
+        "LAHABREA": "tú",
+        "THEMIS": "tú"
+      },
+      "confidence": "medium",
+      "why": "Pandæmonium. Francés tu 34 contra vous 9, y los nueve vous son plurales explícitos («tous les deux», ja あんたたち, ふたり); vosotros cuando habla a Themis y al jugador a la vez. Japonés あんた／俺, registro llano y algo brusco, coloquial hasta la brusquedad con Lahabrea. Voz directa, sin florituras, se disculpa mucho."
+    },
+    "FOURCHENAULT": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "258 filas entregadas y ninguna en contra: «Me gustaría acompañarle, si me lo permite», «Vaya a encontrar a esa bestia», «¿Averiguó algo...?»."
+    },
+    "GODBRAND": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "です／ます dirigido a 子孫たちよ, francés vous. Es un testamento grabado para un descendiente al que no conoce, y de ahí el usted."
+    },
+    "GROWINGWAY": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "157 filas entregadas: «¡No esperaba verle a usted aquí!». Su interjección es «¡Cáspita!», que es lo que el corpus ya da para su francés «Nom d'une carotte»."
+    },
+    "HEGEMONE": {
+      "player": "usted",
+      "others": {
+        "LAHABREA": "usted"
+      },
+      "confidence": "medium",
+      "why": "LO DECIDE EL JAPONÉS, NO EL FRANCÉS: 「<player>様ですね」, おります y ですます en sus 32 filas. El francés le pone tu, que es su reparto por defecto."
+    },
+    "HEPHAESTUS": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Es el mismo ser que Hesperos, y VoiceMan_06201, entregada, lo trata en plural de grupo, «con vuestra muerte», compatible con tú en singular. Grandilocuente y venenoso; se llama a sí mismo por su nombre."
+    },
+    "HESPEROS": {
+      "player": "tú",
+      "others": {
+        "ERICHTHONIOS": "tú"
+      },
+      "confidence": "medium",
+      "why": "Con desprecio, no con confianza. Francés tu 8 contra 2, japonés お前 y 貴様. Voz altiva y sentenciosa, con metáforas; llama al jugador «ese familiar» y nunca por su nombre."
+    },
+    "HUNGRYGARLEAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Tú donde se dirige al jugador solo (ja お前) y vosotros donde el «you» es el contingente (ja お前たち). El cambio dentro de una misma fila es deliberado y sigue al japonés."
+    },
+    "JULYAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés tu («Ravie de voir que tu t'entends toujours aussi bien avec mon Hildoudou»), japonés sin 様 ni です. Voz de matriarca de barrio de Ul'dah: el inglés le come las eses finales («yer», «ain't», «afore»), y en español eso se lleva con léxico llano y frases cortas, NO con apócope, que en castellano se lee como falta."
+    },
+    "KOYOKOYO": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "PuPu. LO DECIDE EL JAPONÉS, キミ en todas sus filas y ninguna forma cortés. El francés le pone vous en todas y no manda. Dos trozos lo midieron por separado y coincidieron."
+    },
+    "LAHABREA": {
+      "player": "tú",
+      "others": {
+        "ATHENA": "tú",
+        "ERICHTHONIOS": "tú",
+        "THEMIS": "tú"
+      },
+      "confidence": "high",
+      "why": "93 filas entregadas: GaiUsc101_00952 al jugador («ese eres tú»), MANFST503_00524 («No saldrás de este lugar con vida»), VoiceMan_05300 a Elidibus («Te preocupas demasiado, Elidibus»). Tú a todo el mundo. Voz alta y fría, con arcaísmo léxico y sintáctico, «Mas», «pues», «Ni que decir tiene», subjuntivo y futuro de mandato; nunca coloquial. Interjección «Hmpf»."
+    },
+    "LUGAE": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Tú o vosotros según el número, nunca usted, salvo con su patrón. Francés vous plural insultante («Approchez que je vous essore un à un»), japonés 貴様ら."
+    },
+    "MAHTI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés あなた con ね／わ corteses, francés vous."
+    },
+    "MANDERVILALCHEMIST": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous con «Dame／Messire», japonés ます."
+    },
+    "MARJORIE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "8 filas entregadas en quest/026/StmBdy002_02633."
+    },
+    "MENPHINA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Las nueve filas entregadas de custom/008/CmnCnt65MoeGods_00841 la tienen en tú: «¡Oh, ..., qué grata sorpresa! Querías verme, ¿verdad?». Voz cálida y algo ornada, efusiva, con わたくし; trata a los mortales de «niños». Como los otros once, vosotros al grupo."
+    },
+    "MYSTERIOUSMAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Vanhudi. LO DECIDEN LAS DOS: francés tu («deviens mon cobaye», «je te le demande de but en blanc») y japonés 君 con formas llanas (「私の仲間になるのだ！」). A Hildibrand y a los Manderville, ustedes. Es desdén de magnate, no cortesía."
+    },
+    "NASHVAN": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous en todas sus filas. El お前さん japonés es campechano, no rudo, y es un desconocido dando las gracias a un héroe."
+    },
+    "NEMJIJI": {
+      "player": "usted",
+      "others": {
+        "RUISSENAUD": "tú"
+      },
+      "confidence": "high",
+      "why": "76 filas entregadas en custom/007/CtsOpn60Nemjiji_00732: «le sugiero que rastree hasta el último rincón». ES MUJER: «me vería obligada», «una de mis ayudantes». Voz de académica entusiasta que confunde un informe con un relato de terror, y ese tic ya está en el corpus."
+    },
+    "REDROBEMAN04668": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés tu. En la plegaria trata de tú a Menphina, que es la convención castellana y coincide con el francés «je t'en conjure». A la pareja, vosotros."
+    },
+    "RUISSENAUD": {
+      "player": "usted",
+      "others": {
+        "NEMJIJI": "tú"
+      },
+      "confidence": "medium",
+      "why": "Francés vous 4 y cero tu, japonés ます en 6 de sus 8 filas. Es el ayudante y habla como tal. Sus filas entregadas son todas a Nemjiji y son tú."
+    },
+    "SCIENTIST04586": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El técnico de gafas, sin nombre. LO DECIDE EL JAPONÉS: キミ cinco veces más terminaciones llanas だ／さ／かな. El francés vous no decide la fila del jugador."
+    },
+    "SNOEGEIM": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El francés está partido 11／10, pero las seis filas dirigidas AL JUGADOR SOLO usan tu y ninguna usa vous singular: todos sus vous son plurales al grupo o van a Deryk ya revelado como Oschon. Su です／ます, 56 filas y ninguna llana, es MANERA DE HABLAR, no deferencia: lo usa igual con Krile y con Raha, a quienes llama ちゃん y くん. Voz académica atropellada, exclamativa, hambrienta."
+    },
+    "STAFF04476": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "El portavoz de los Escritos, y el archivero de Peripeteia (STAFF04635) va igual. Francés vous, japonés あなた方 más です／ます; ustedes cuando se dirige a los dos."
+    },
+    "THEMIS": {
+      "player": "tú",
+      "others": {
+        "ERICHTHONIOS": "tú",
+        "LAHABREA": "tú"
+      },
+      "confidence": "high",
+      "why": "VoiceMan_06401 está entregado y lo trata de tú: «Confieso que llevo mucho meditando cómo enfrentarme a ti», «No habría llegado hasta aquí sin ti, amigo». Concuerda con francés tu 83 contra vous 7 y japonés 君; los siete vous son plurales o van al portavoz de los Escritos, a quien trata de usted. OJO: en japonés trata a Lahabrea de あなた, no de お前, y el francés le da tu. Voz cortés, algo teatral, curiosa; frases medidas, ironía suave."
+    },
+    "TOMODACHI": {
+      "player": "vosotros",
+      "confidence": "medium",
+      "why": "Vosotros al grupo y tú a PuPu. Francés vous al grupo y tu a su compañero; japonés キミたち／キミ."
+    },
+    "WATCHEROFMOON": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "139 filas entregadas en AktKmb117-119, AktKmc101-102, AktKmc109, AktKmk106-107 y AktKml106, todas tú en singular («si pretendes evitar los Días Finales», «el familiar que conociste antes») y vosotros solo donde se dirige al grupo («si me permitís descansar», «Seguidme»). Cero «usted». Francés tu y japonés 貴殿 coinciden."
+    },
+    "CARNELIAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Secundarias de Hildibrand de Dawntrail. Japonés お前 9 y 俺 4, con お前ら／お前たち para el grupo, así que vosotros en plural."
+    },
+    "ELSEBEEIRONHEART": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El francés le da vous y el japonés 君 con formas llanas (あたし, ～さ, ～かい). Con el corpus callado manda el japonés. NO HEREDA EL USTED DE BABETHIRONHEART, que sí está entregado: a Babeth el japonés le da 貴方 más ます y わ. El juego separa a propósito a las Ironheart cortesanas de las campechanas."
+    },
+    "EMELINEIRONHEART": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Misma voz que su gemela [[ELSEBEEIRONHEART]]: japonés 君, 私, ～かい. Tampoco hereda el usted de Babeth."
+    },
+    "EYECLOPS": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés «Toi aussi, jette ton arme au sol», japonés お前も、武器を捨てるんだ."
+    },
+    "HARDIBOILED": {
+      "player": "tú",
+      "others": {
+        "HILDIBRAND": "tú",
+        "NASHUMHAKARACCA": "tú"
+      },
+      "confidence": "high",
+      "why": "LO DECIDE EL JAPONÉS Y EL FRANCÉS ES JUSTO LA FUENTE QUE SE DESCARTA, el caso Varshahn. Sobre sus 260 filas: 俺 70, terminaciones llanas (だな 26, だぜ 10, だろ 9), お前 7, アンタ recurrente, ます una sola vez, y cero あなた y cero 君. El francés dice vous 105 contra tu 29. Tú con todo el mundo y vosotros al grupo. QUE ÉL TUTEE NO OBLIGA A LO CONTRARIO: Hildibrand y Nashu le hablan de usted, medido aparte. Voz de novela negra, frases cortas y léxico de calle. TRAMPA DE CLAVE: ChrHdb922_05296 _000_520 y _000_521 llevan su clave y son de Hildibrand (ja ですぞ, 窃盗犯殿)."
+    },
+    "KEMAKKA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El sheriff. Vosotros al grupo y tú en singular: japonés 君たち, marcador de plural explícito, con terminaciones llanas (用かね, 増してきたよ, 約束しよう) y cero です／ます. TRAMPA DEL FRANCÉS: le pone una erre arrastrada («vrrraiment», «retarrrd») que no está ni en el inglés ni en el japonés, la misma que a [[NASHUMHAKARACCA]], y no se importa."
+    },
+    "MALIHALI": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "El francés la tutea y no manda: el japonés le da あなた様 con でしょうか／いらっしゃる, que es honorífico y no solo cortés, y el inglés abre con «Excuse me, miss/sir». Es la ventanilla de un organismo de gobierno hablando con un desconocido."
+    },
+    "MYMOND": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés «te prenais pour un loup solitaire», «si jamais tu as des informations»; japonés アンタは探偵のオッサンにそっくりだぜ. Coincide con Wymond, su gemelo de Ul'dah, que trata de tú al jugador en 155 filas entregadas."
+    },
+    "MYSTERIOUSRESEARCHER": {
+      "player": "vosotros",
+      "confidence": "medium",
+      "why": "Keshkayi. Vosotros hacia abajo, a sus criminales a sueldo («ご苦労だった», «You fugitives have served me well») y al grupo cuando les pide venganza desde la cama. 私 en japonés y tono de superioridad constante."
+    },
+    "OBLIVIONMEMBER05295": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous, japonés です／ます y ハルディボイルドさん."
+    },
+    "RHODINA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "El francés la tutea en sus 7 filas y el japonés le da あなた con ～わ／ちょうだい, registro de comerciante desenvuelta."
+    },
+    "SABOTENDER": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "«Spike». Japonés 俺さま, テメェ, オラオラ, 夜露死苦: motero delincuente. En español, macarra de barrio, y sin erre arrastrada. Vosotros al grupo. El nombre del hablante no sale en pantalla."
+    },
+    "SHORTHANDDOLL": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Memolivia. Francés vous, japonés です／ます."
+    },
+    "TONAWAWTANOFFICER": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Francés «si jamais tu as des informations», «viens immédiatement»; japonés 君."
+    },
+    "ZOMBIEA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés 私 5 y です 2, francés vous. Voz almidonada y solemne. El japonés le pone las terminaciones en katakana (デス, マシタ, トコロ), y eso en español se compensa con sintaxis rígida y léxico elevado, NO con ortografía rara."
+    },
+    "ANFROY": {
+      "player": "tú",
+      "others": {
+        "MOVAMUQ": "tú"
+      },
+      "confidence": "medium",
+      "why": "Secundarias de Yok Tural. Francés tu y japonés 君 con formas llanas («君はたしか», «聞いてきてくれないかい？»)."
+    },
+    "BOLOGAW": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés 貴方 más ます constante y francés vous. Las dos fuentes coinciden."
+    },
+    "CONSTANCY": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "LO DECIDE EL CORPUS, NO EL FRANCÉS: sus filas entregadas usan el plural FAMILIAR («como vosotros», «vuestros recuerdos», «notaréis»), cuyo singular es tú, y el japonés coincide con 君 y formas llanas. El francés dice vous y pierde."
+    },
+    "CORNSERVANT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "La mazorca parlante. Francés tu y japonés おぬし con 〜んしゃい rústico. Voz de viejo de pueblo, con juegos de palabras. Su acotación `<rustle>` es «\\\\<crujido>», que es lo que fija el glosario, NO «\\\\<susurro>»."
+    },
+    "GIGIMOLU": {
+      "player": "usted",
+      "others": {
+        "NOPLI": "tú"
+      },
+      "confidence": "medium",
+      "why": "Japonés あなた más です／ます en 43 filas y francés vous; a Nopli, japonés 君／くん y francés tu. Untuoso, comerciante de Ul'dah."
+    },
+    "GOTOLLJA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "20 filas entregadas ya lo tratan de tú, y coinciden el francés («Tu veux bien jeter un œil») y el japonés con アンタ y formas llanas. Ex mercenario, seco y directo, sin coletilla."
+    },
+    "KAYAMENE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés です／ます en todas sus filas y さん al jugador; francés vous. A su jefe Wesanpe, usted también."
+    },
+    "MOVAMUQ": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Japonés llano sin excepción («くれないか～？», «お仕事よ», «出かけよう～！»). El 貴方 suelto que suelta no pesa contra eso."
+    },
+    "MURFURLUR": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Japonés 貴殿 en más de veinte filas y trato de 殿 al jugador; francés vous 120 y tu 0. CONTRADECÍA LO ENTREGADO, que lo tenía partido en tres: usted, «vos» cortesano, que el §6 prohíbe, y tú. Barridas las cuatro filas que iban al jugador, comprobando 貴殿 en cada una; la de `BanAll420_05463` que habla al grupo se queda en plural. Voz solemne y formal, SIN las mayúsculas enfáticas que le pone el francés."
+    },
+    "NAHANSHE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés あなた más ですます sin una sola excepción («でも、あなたハヌハヌ族じゃないですよね？»). A todo el mundo igual."
+    },
+    "NAKENTE": {
+      "player": "tú",
+      "others": {
+        "SHALOACI": "tú"
+      },
+      "confidence": "medium",
+      "why": "Japonés あんた y francés tu."
+    },
+    "NOPLI": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Japonés 君 en 22 filas y el corpus entregado ya en tú («¡Vaya, vaya, no esperaba verte por aquí!», `BanYok001_05330`). El francés dice vous y no manda. SIN el tic «hop hop» del francés ni el ういうい del japonés: el inglés no lleva ninguno y lo entregado tampoco. Dos trozos lo midieron por separado y coincidieron."
+    },
+    "NOSTALGIA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Japonés さん más です／ます y francés vous. El corpus entregado solo tiene filas suyas en plural y está partido entre «os» y «ustedes», así que no decide."
+    },
+    "ROSTAND": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "EL JAPONÉS DESEMPATA CONTRA EL FRANCÉS: francés vous, japonés 君 con formas llanas."
+    },
+    "SHALOACI": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Japonés plano en sus 127 filas, sin una sola forma です／ます."
+    },
+    "SHIIDILJA": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous y japonés あなた con ます: «あなたは、ウクラマト様と…！»."
+    },
+    "TOANZOHE": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "Francés vous, japonés です／ます y 殿 al jugador. A su nieto, tú."
+    },
+    "TYATROH": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Francés tu y japonés 君 coinciden: «君って、ウクラマト様が協力者に選ぶくらい». Entusiasta y atropellado. El jugador también lo tutea a él."
+    },
+    "ZEYCIHAN": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "LO DECIDE EL JAPONÉS CONTRA EL FRANCÉS: キミ, <nombre>くん, ～たまえ y ～かね, todo de superior a subordinado."
+    },
+    "ZITEKKWA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Francés tu desde la primera línea («Tu m'veux quoi au juste?») y japonés あんた／俺 con formas llanas. Prestamista joven de saloon, cordial y algo bronco, frases cortas. OJO CON SU ENTORNO: Zemeshpe la trata de ディテッカさん con ます, y esa deferencia se lleva en el léxico, no en el pronombre."
+    },
+    "ANTOINAUT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "El encargado de la posada de Gridania. LO DECIDE EL CORPUS ENTREGADO, no el idioma de referencia solo: `RegFstInnInfo_00022` tiene el mismo inglés fila a fila y dice «no puedo darte una habitación sin el permiso expreso de la madre Miounne» y «Esperamos que tengas una estancia agradable». El japonés coincide con お前さん y お前たち, y el francés con tu. NO SE HEREDA DE OTRO POSADERO: los de Ul'dah, Ishgard, Kugane y Tuliyollal tratan de usted."
+    },
+    "MYTESYN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "El encargado del Palo de Mesana, en Limsa Lominsa. Entregado en `RegSeaInn_00052`: «Cuando te distingas y te ganes la confianza de la gente», «Descansa a gusto». Japonés あんた con formas llanas (貸せねぇのさ, 休めよ). SU INGLÉS RÚSTICO CON «ye» Y «yer» ES ACENTO, NO REGISTRO, pero aquí el registro también resulta ser familiar."
+    },
+    "OTOPAPOTTOPA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El encargado del Reloj de Arena, en Ul'dah. Japonés あなた con keigo, y entregado así en `RegWilInn_00061`."
+    },
+    "GUIDEOFTHEPENDANTS": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La encargada de los Pendants, en el Cristarium. Japonés en keigo puro (でございます, なされますか) y francés vous."
+    },
+    "BAMPONCET": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El encargado de Cloud Nine, en Ishgard. Japonés ございます, お客様, お待ちください. SU INGLÉS RÚSTICO ES VOZ DE CRIADO DEFERENTE, no tuteo: la deferencia se lleva en el léxico («con perdón», «muy buenos días tenga»), no en el pronombre."
+    },
+    "USHITORA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El encargado del Bokairo Inn, en Kugane. Keigo de hostelería: でございます, 承ります, おくつろぎくださいませ."
+    },
+    "PESHEKWA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La encargada de las Cabinas de Proa, en Tuliyollal. Keigo (おかえりなさいませ, 承知いたしました) y francés vous."
+    },
+    "ETOINELLE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La guía de la Capilla de Marfil, en la Ceremonia del Vínculo Eterno. Keigo y vous; el hermano entregado `RegFstEternalCeremonyGuideHall_00017` trata de usted a los invitados en toda la conversación."
+    },
+    "RENTALCHOCOBO": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El mostrador de alquiler de chocobos. Entregado en `CmnDefRentalChocobo_00012` con el mismo inglés fila a fila."
+    },
+    "JBROHKA": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La guía de la entrada de las Binding Coils. Lo fija su escena de presentación ya entregada, `GaiUsd101_01159`: «Le esperaba», «no escatime ni preparativos ni cautela». Es mujer. QUEDA UNA FILA DISCREPANTE en `DefaultTalk#591422.20`, que entrega la misma frase inglesa en tú."
+    },
+    "ANAELLE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Guía de raid. `GaiUsd301_01313` entregado: «¿<string(gstr1)>? Le esperaba. Me llamo Anaelle», «prepárese para lo peor»."
+    },
+    "ERKENRAD": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "Guía de raid. `GaiUsd501_00043` entregado: «Si le place, mi señora, me llamo Erkenrad». Al grupo, ustedes."
+    },
+    "EUNAKOTOR": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La proveedora de la expedición del Palace of the Dead. `CtsDdd1Reward_00823`: «como habrá advertido por los cuernos de mi cabeza», «Ande con cuidado»."
+    },
+    "WOODWAILERCAPTAIN01556": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "El capitán de la expedición del Palace of the Dead. `CtsDdd1Entrance_00821`: «Seas aventurero o no, no toleraré que nadie interfiera en mi labor»."
+    },
+    "WOODWAILERAPPRAISERS": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "La tasadora de la expedición. `CtsDdd1Gacha_00822`: «Se ha aventurado en las ruinas, ¿verdad?». NO SE HEREDA DE SU CAPITÁN, que tutea."
+    },
+    "DD2FORMERLEADER": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "El pirata viejo de la Confederación, en Heaven-on-High. `CtsDdd2Achievement_00827`: «¿Así que te has topado con Hiruko y has vivido para contarlo?»."
+    },
+    "DD2GACHA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "La tasadora confederada de Heaven-on-High. `CtsDdd2Gacha_00825`: «¿Qué andas husmeando por aquí?»."
+    },
+    "DD2SHOP": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "La proveedora confederada de Heaven-on-High. CONTRA EL FRANCÉS, que la pone en vous: `CtsDdd2Reward_00826` entrega «¿Has traído algo de la torre?»."
+    },
+    "MEMBERC01548": {
+      "player": "usted",
+      "confidence": "medium",
+      "why": "El maestro de ceremonias de la mansión encantada de Halloween. `FesHlw2018Entrance_00540`: «¿Le cuento más sobre lo que aguarda dentro?». Voz teatral de feria."
+    },
+    "NYBETHOBDILORD": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El nigromante de Tactics. Japonés ですねぇ／ませンよ, cortesía untuosa con el ン marcado; francés vous; inglés formal. La untuosidad se lleva en el léxico, no en el pronombre."
+    },
+    "EDDA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "La aventurera enloquecida del Palace of the Dead. Voz entrecortada: el japonés separa los sintagmas con espacios y el inglés con puntos suspensivos, y esa vacilación se conserva."
+    },
+    "CLOUDOFDARKNESS": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "NO USA SEGUNDA PERSONA SINGULAR: se dirige a los mortales en plural, japonés お前たち y francés vous plural. El valor está aquí para que nadie le invente un trato al jugador; si alguna vez habla a uno solo, medir antes."
+    },
+    "CHOCOBOKEEP": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El mozo del mostrador de chocobo porter, y sus variantes de halcón, amaro y alpaca. Keigo de servicio: 申し訳ありません, ご案内, お客様. EXCEPCIÓN MEDIDA: la variante enana del mozo de amaros (`00200_*_DWARF`) tutea en francés y en japonés."
+    },
+    "LEVEMETE": {
+      "player": "usted",
+      "confidence": "high",
+      "why": "El levemete de `leve/GuildleveAssignment`. です／ます y vous en todas sus filas."
+    }
+  }
+}

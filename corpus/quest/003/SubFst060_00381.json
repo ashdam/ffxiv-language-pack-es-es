@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/003/SubFst060_00381",
+  "questName": "Migrant Marauders",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_1", "hash": "A5656DA8259DB548", "target": "Se te ve <if(gnum4,una aventurera,un aventurero)> de buen corazón, por lo que dicen. En fin, a chocobo regalado no le mires el pico... Me viene bien <if(gnum4,una mujer,un hombre)> capaz como tú." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_2", "hash": "5D063235E0F4C827", "target": "Hace unos días se nos presentó un vendedor ambulante en las puertas: un Lalafell nervioso, sudando y jurando que unas grandes bestias aladas lo habían atacado. Pero, aparte de los avispones, no conozco criatura voladora alguna en esta región." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_3", "hash": "69C6471C5681D06C", "target": "Si hay algo de verdad en lo que dijo, podría suponer un problema para otros viajeros. Sigue el camino hacia el sur y mira si encuentras alguna prueba que respalde su relato." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_EYLGAR_000_4", "hash": "A603CF06CC74BF94", "target": "Y, si encuentras algo, ten la bondad de decirle a Lothaire que patrulle su zona de vez en cuando, en lugar de plantarse bajo la atalaya a contemplar el maldito camino. Con esas mismas palabras." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_11", "hash": "491C34BAFC86A429", "target": "...¿Un Northern Vulture? ¿Dos? ¡¿Y defendían un <italic(1)>nido<italic(0)>?!" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_12", "hash": "1A34B309AFED0366", "target": "Bueno, yo, eh... quizá podríamos omitir ese último detalle en los informes oficiales. Preferiría no darle a Eylgar más motivos para enfadarse." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_LOTHAIRE_000_13", "hash": "0C91885941C6DA7C", "target": "Gracias por acabar con las bestias. Puede tener la certeza de que no permitiré que esto vuelva a suceder." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_POP_MESSAGE", "hash": "7609B415390F3B09", "target": "Oyes el batir de unas alas..." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_00", "hash": "028AF9FD1475E021", "target": "Eylgar quisiera abusar de la amabilidad de un aventurero." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_01", "hash": "AABF888931CBB065", "target": "Eylgar te ha pedido que verifiques lo que afirma un vendedor ambulante Lalafell, que jura que unas bestias aladas lo atacaron en el camino al sur de Rama Torcida. Rehaz sus pasos y busca cualquier prueba que respalde su relato." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_02", "hash": "C324D8DB94D61B52", "target": "Tras dar con un gran huevo de buitre, dos Northern Vultures descienden para defender su nido. Ahora que has abatido a las bestias, busca a Lothaire en la Aguja de Galvanth y cuéntale lo sucedido." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SEQ_03", "hash": "E320896E508371DF", "target": "Lothaire se queda atónito al saber del nido oculto a menos de veinte yalms de su puesto. Te implora que guardes en secreto su existencia y jura que no volverán a producirse incidentes semejantes." },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_TODO_00", "hash": "8172B9D13AC396CF", "target": "Buscar indicios de las bestias aladas" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_TODO_01", "hash": "ED9BFEE3E39102E4", "target": "Hablar con Lothaire" },
+    { "gameKey": "quest/003/SubFst060_00381#TEXT_SUBFST060_00381_SYSTEM_100_000", "hash": "AA8D54DD2EADA620", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." }
+  ]
+}

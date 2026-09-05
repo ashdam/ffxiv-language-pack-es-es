@@ -1,0 +1,508 @@
+{
+  "conversation": "quest/049/KinGmd118_04929",
+  "questName": "A Day in the Life",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SEQ_00", "hash": "FEF5A1D38FAA71CF", "target": "Sphene está deseosa de enseñarte el lugar." },
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_TODO_00", "hash": "14AA141852D46B96", "target": "Hablar con Mahuwsa" },
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_TODO_01", "hash": "B9506D100421EF02", "target": "Hablar con los granjeros" },
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_TODO_02", "hash": "676569337CA8787B", "target": "Hablar con Sphene" },
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_TODO_03", "hash": "141AE34D1589AC7B", "target": "Otear los lugares indicados y abatir a los enemigos que aparezcan" },
+    { "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_TODO_04", "hash": "55542988B3F96E6F", "target": "Hablar con Sphene" },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_001",
+      "hash": "69E730F3AF359A16",
+      "target": "Recorrer tierras de cultivo con la reina de otra nación no es como esperaba pasar el día."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_010",
+      "hash": "30CAFF34F78B1729",
+      "target": "En vez de aburriros con explicaciones largas, volvamos a la granja por la que pasamos antes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_011",
+      "hash": "75F022E727B47CA0",
+      "target": "Se llama el Halo de Yyupye. Cuando lleguemos podremos hablar con uno de los agricultores."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_012",
+      "hash": "A2E4B1479794E61B",
+      "target": "...Pues nada, al Halo de Yyupye."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_015",
+      "hash": "ED538BCF11990074",
+      "target": "¿Qué te imaginas que guardan dentro de este edificio?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_020",
+      "hash": "08D1448E0E864ACE",
+      "target": "Ya hemos llegado. Seguro que aprendéis mucho de la gente que trabaja aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_030",
+      "hash": "D1C9ED360D0F6B5C",
+      "target": "Permitidme presentaros a Mahuwsa, una de las jornaleras más experimentadas de toda Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_031",
+      "hash": "23667A1CE70BF398",
+      "target": "Domina infinidad de técnicas agrícolas. De hecho, el caudal de conocimientos que ha compartido con los demás agricultores es lo que ha permitido que este lugar prospere."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_032",
+      "hash": "B3EF7EF177304C66",
+      "target": "¡Reina Sphene! ¿A qué debo esta lluvia repentina de elogios?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_033",
+      "hash": "48E019CBBA515CD1",
+      "target": "Disculpa la interrupción. Vengo con invitados de más allá de la barrera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_034",
+      "hash": "53F8F2E9B228BC53",
+      "target": "Quieren conocer mejor Alexandria, así que los he invitado a ver cómo cultivamos. Espero que no te importe."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_035",
+      "hash": "6133F7E97209F79E",
+      "target": "¡Así que los rumores sobre visitantes de fuera eran ciertos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_036",
+      "hash": "BD68E1C23C3E9042",
+      "target": "¿Qué clase de anfitriones seríamos si les negáramos una visita? Y me imagino que Su Majestad también pensaba pasarse a ver cómo va todo, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_037",
+      "hash": "0C61D27DDC3EC1E0",
+      "target": "Me conoces demasiado bien, Mahuwsa. Pensaba aprovechar la ocasión para ver cómo están los agricultores y quizá acribillarlos a preguntas. Aunque también disfruto mucho observando el trabajo y echando una mano."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_038",
+      "hash": "16B4710A91F32C69",
+      "target": "Parece que tenemos su permiso. Así que recorred el lugar cuanto queráis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_039",
+      "hash": "4280A10CDF6A8546",
+      "target": "Tú adelántate. Yo le haré compañía a Sphene."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_040",
+      "hash": "29435DA2765C8151",
+      "target": "No me malinterpretes─no soy de las que desconfían. Pero, dadas nuestras posiciones, tiene sentido que vayamos juntas, ¿no crees?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_041",
+      "hash": "16DBD414DAFAB310",
+      "target": "Tienes razón. ¡Pero no me pierdas de vista!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_042",
+      "hash": "6F530E58F672BE43",
+      "target": "Yo me quedaré bajo la atenta mirada de Wuk Lamat. Ven a buscarnos cuando hayas visto todo lo que quieras y hayas hablado con los demás jornaleros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_045",
+      "hash": "D31C035BB365FC43",
+      "target": "Qué pena que Koana no esté aquí para ver todos estos artefactos tan raros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_050",
+      "hash": "F126D2BE9006FD3D",
+      "target": "¿Ya has terminado? Si es así, me encantaría oír qué te parecen nuestras instalaciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_055",
+      "hash": "166990FC10AAA0A2",
+      "target": "Mis tareas aquí son de lo más variadas, aunque no sea más que una agricultora. Todos tenemos que arrimar el hombro si queremos prosperar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_060",
+      "hash": "D4BF8979C1E32FF1",
+      "target": "Los niveles de luz parecen correctos. En cuanto a la fuente de energía..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_061",
+      "hash": "F38F17BB2D87C343",
+      "target": "¿Mm? ¿Quiere saber en qué consiste mi trabajo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_062",
+      "hash": "FCA28700A0B053C2",
+      "target": "Me ocupo sobre todo de los campos. Regar los cultivos, mantener fértil la tierra, cosas así."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_063",
+      "hash": "69B3C373CEB1A7B9",
+      "target": "Reconozco que me llevó un tiempo entender del todo cuál era la mejor manera de hacer mi trabajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_064",
+      "hash": "F9F6289A0F2D61B8",
+      "target": "También me encargo de las lámparas que usamos en los campos. Hacemos lo posible por que todo cumpla el código, pero si empiezan a fallar, me toca a mí arreglarlas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_065",
+      "hash": "501883F013C7A7DF",
+      "target": "Con la tierra y el cielo que tenemos, garantizar una buena cosecha es trabajo constante. Pero, sinceramente, me gusta lo laborioso que es el proceso."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_066",
+      "hash": "451DBBFCC19CEA50",
+      "target": "Como mis padres eran los dos alejandrinos, crecí sin saber casi nada de agricultura. Cada día es una oportunidad para aprender y mejorar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_ELIAS_000_070",
+      "hash": "A45F0545207A84AD",
+      "target": "Si alguna vez le interesa la agricultura, estaré encantado de enseñarle lo que sé."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_080",
+      "hash": "627283405B0E23B2",
+      "target": "Vaya, una cara nueva. Deduzco que es su primera vez por aquí, ¿me equivoco?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_081",
+      "hash": "51F98BBA404F5C41",
+      "target": "Bueno, esto de aquí es el almacén. O más bien la entrada. El almacén de verdad está bajo tierra, es mucho más espacioso y cuenta con un sistema de regulación de temperatura para que la cosecha no se eche a perder."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_082",
+      "hash": "42C0E97EC4359BFE",
+      "target": "Como la entrada es tan pequeña, resulta mucho más fácil evitar que las bestias salvajes se cuelen dentro, lo que también lo hace apto para criar ganado. Abajo tenemos incluso unas camas para emergencias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_083",
+      "hash": "C2A00579F10682A6",
+      "target": "Mis padres se quejan a menudo de que la tecnología alejandrina y el electrope nos complican la vida, pero es solo cuestión de aprender cómo funcionan las cosas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_084",
+      "hash": "150190A31ADBF3E0",
+      "target": "Mi trabajo, sin ir más lejos: ahora mismo superviso el almacenamiento de las cosechas recogidas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_085",
+      "hash": "394FE0386C18091D",
+      "target": "De aquí subirán a la torre para su procesado, y desde allí llegarán a todas las mesas de Alexandria. No niego que el trabajo es duro, pero me deja muy satisfecho."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_HHINEK_000_090",
+      "hash": "13C67E8364429A2E",
+      "target": "Yo, de hecho, vivo allí arriba. Solo bajo a los Arrabales por trabajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_100",
+      "hash": "4D165610680CB49E",
+      "target": "Dicen por ahí que usted y los suyos son visitantes de más allá de la barrera. ¿Es cierto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_101",
+      "hash": "E0FFB4741EFA632C",
+      "target": "¡Pues sí que lo es! Lo cual significa que volvemos a estar conectados con el mundo exterior."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_102",
+      "hash": "A2D75261F469138C",
+      "target": "No es que yo tenga ganas de marcharme, ojo. Estoy muy a gusto con la vida aquí en Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_103",
+      "hash": "D0CBE79718DEC6B3",
+      "target": "Pero dejando eso a un lado, ha venido a ver cómo trabajamos, ¿no? Como puede ver, yo me encargo del ganado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_104",
+      "hash": "582364590B6CC10D",
+      "target": "Aquí en el Halo de Yyupye no solo producimos frutas y verduras, sino también carne, aves y huevos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_105",
+      "hash": "85012283F330AFA0",
+      "target": "Cuidar de los animales es una alegría absoluta, pero tengo que andarme con cuidado para no encariñarme. Siempre da un poco de pena cuando se los llevan, pero el trabajo es el trabajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_106",
+      "hash": "7188BC9112F774E9",
+      "target": "Bueno, tengo que volver a lo mío, pero ha sido un gusto hablar con usted. ¡Salude a la reina de mi parte, por favor!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_KIPEHWI_000_110",
+      "hash": "25F5D3A4D7F8C923",
+      "target": "Quizá más adelante pueda contarme cómo es el mundo más allá de la barrera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_120",
+      "hash": "8CB21CC47D8BAEC5",
+      "target": "Ya veo. No te culpes tanto. A cualquiera le habría costado lidiar con algo así."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_121",
+      "hash": "1E7C5FC61D57D613",
+      "target": "Ah, ya has vuelto. Perdona por no darme cuenta."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_122",
+      "hash": "E70FD44017DD3BDA",
+      "target": "Deduzco que ya has hablado bastante con los agricultores. Entonces volvamos con Mahuwsa."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_123",
+      "hash": "2ED204F8B2701CA4",
+      "target": "¿Y bien? ¿Qué impresión te ha dado la granja?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_Q1_000_000",
+      "hash": "0BAB2B21BFAAA3EF",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_A1_000_001",
+      "hash": "41CBD6320C1E06DB",
+      "target": "Todo era sorprendentemente normal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_A1_000_002",
+      "hash": "AB46FA431F9E204C",
+      "target": "Me ha asombrado que todos amen su trabajo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_A1_000_003",
+      "hash": "60E1F9F14BFA2F53",
+      "target": "El electrope es bastante impresionante."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_125",
+      "hash": "ABA0824A79C4AEAE",
+      "target": "Ay, eso es un consuelo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_126",
+      "hash": "C0E52F9CA9ACEF96",
+      "target": "Tus palabras me confirman que mi gente no trabaja bajo una presión indebida."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_127",
+      "hash": "36DE46F8C3BFEA68",
+      "target": "Curiosa observación. ¿Es que tú no amas tu propio trabajo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_128",
+      "hash": "A9B1F7B9281DCF7C",
+      "target": "Bueno, es broma. Es cierto que la gente de los Arrabales parece la más realizada. Siempre se entregan a sus tareas de buen humor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_129",
+      "hash": "AFCA42539B5A96D8",
+      "target": "Así que lo que te llamó la atención fue el electrope. Es natural, supongo, si vienes de un lugar donde no existe."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_130",
+      "hash": "D3BBA8A78B7E37A5",
+      "target": "Aun así, solo pareces levemente <if(gnum4,impresionada,impresionado)>. Eso me lleva a pensar que has conocido tecnologías aún más maravillosas. ¡Me encantaría oír tus historias algún día!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_131",
+      "hash": "1F4A7854FA95B0DA",
+      "target": "¿Y a ti qué te ha parecido nuestra pequeña visita, Lamaty'i?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_132",
+      "hash": "0C4BFC7DC90C2700",
+      "target": "¿C-Cómo me has llamado?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_133",
+      "hash": "31171F37B3024A90",
+      "target": "¿Ha estado fuera de lugar? Lo siento. Oí que los demás te llamaban así y pensé..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_134",
+      "hash": "5BF2966CB77643A5",
+      "target": "No. No, está bien. Como dijiste antes, no necesitamos títulos ni formalidades."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_135",
+      "hash": "12CBDE9B0C3D48E5",
+      "target": "En cuanto a lo que pienso, me ha impresionado mucho. Que se puedan usar máquinas para superar un entorno tan duro es asombroso. Nunca había visto nada igual."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_136",
+      "hash": "AF41BA5B213EA444",
+      "target": "Es comprensible. De hecho, a muchos todavía les desconcierta la maquinaria que tengo detrás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_137",
+      "hash": "F3978BF81ED47EC9",
+      "target": "Es un sistema que controla la distribución del agua para los campos y el ganado. Aunque últimamente está dando problemas..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_138",
+      "hash": "A9BDDC9EFD3FF1CD",
+      "target": "¿Dando problemas, dices?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_139",
+      "hash": "1E275F62340DF528",
+      "target": "No se preocupe, mi reina. Pasa bastante a menudo. En pocas palabras, ha absorbido agua con una fuerte carga eléctrica."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_140",
+      "hash": "21AA4602B9436B04",
+      "target": "Creemos que algunas criaturas se han cargado de esa energía y la sueltan en el río del que nos abastecemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_141",
+      "hash": "1FBB4BC0D927338E",
+      "target": "El sistema volvería a la normalidad si alguien se ocupara de esas criaturas. Pero me resisto a suplicárselo al ejército..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_142",
+      "hash": "DD4D6C224C8A88C3",
+      "target": "Podemos encargarnos nosotros, si queréis."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_143",
+      "hash": "EE4A8AFC828D2B6E",
+      "target": "Es muy generoso por vuestra parte ofreceros, pero es demasiado peligroso."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_144",
+      "hash": "F082B50A89E43E64",
+      "target": "¡Bah, no es nada para el Juramento de la Resolución de Tuliyollal!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_100_144",
+      "hash": "AC18D7AF8AD35811",
+      "target": "Se desarrolle como se desarrolle la relación entre nuestras naciones, si hay gente que lo necesita, quiero ayudar. Así de simple."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_145",
+      "hash": "B7F4F728DEB4A15E",
+      "target": "Y <split(<string(gstr1)>, ,1)> es todavía más fuerte que yo. No nos llevará nada de tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_146",
+      "hash": "ECAD546C15D19A89",
+      "target": "Está bien, entonces acepto agradecida. Pero tened mucho cuidado, por favor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_147",
+      "hash": "002F9E7AC1AE8E7A",
+      "target": "Esto irá aún más rápido si tú y yo buscamos por separado a las bestias cargadas de rayo. ¡Buena caza!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_150",
+      "hash": "3B3CF0B032086A06",
+      "target": "No dudo de vuestra fuerza, pero tened cuidado, por favor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_155",
+      "hash": "1B1CA12F5D633063",
+      "target": "Siento haberos metido en nuestros líos. Si veis que es demasiado peligroso, no dudéis en volveros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_160",
+      "hash": "76C160CE122D993D",
+      "target": "¡Vaya, sí que sois fuertes!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_170",
+      "hash": "CDD9FC4082F46BF1",
+      "target": "¡Ay, estáis bien los dos, menos mal!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_171",
+      "hash": "A30EE30D1B62CA84",
+      "target": "No hacía falta que te preocuparas tanto. Apenas hemos sudado con esas bestias. Ya no queda ninguna."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_172",
+      "hash": "4BC44ABD0476C6F6",
+      "target": "¡Claro que estaba preocupada! ¡Sois mis queridos invitados!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_173",
+      "hash": "EF37E036E111A99D",
+      "target": "Pero gracias. De verdad que os lo agradecemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_174",
+      "hash": "B191B1632A858B7E",
+      "target": "¡Desde luego! Así no tendremos que pedirles ayuda a las máquinas de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_175",
+      "hash": "6F270A4256F0F812",
+      "target": "Se ha esforzado a conciencia por reforzar sus tropas y solo destina una fracción a proteger al pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_176",
+      "hash": "E73CE2CFBD641799",
+      "target": "Nuestra seguridad le trae sin cuidado. No como a la reina Sphene..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_177",
+      "hash": "5D0FB8071AC7389D",
+      "target": "Y-Ya basta, Mahuwsa. Si tienes quejas, te las escucharé luego. Pero hablar ahora del rey..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_178",
+      "hash": "6781B276C93C9786",
+      "target": "No, tiene razón. Nunca ha sido de los que cuidan de su gente."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_179",
+      "hash": "85C31C512C0C0D28",
+      "target": "...En fin, gracias por dejarnos visitar la granja. La gente de aquí es encantadora y ha sido un placer conocerlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_180",
+      "hash": "503E063AAFD99B08",
+      "target": "No podrías habernos dedicado palabras más alentadoras. Mi gente es mi mayor orgullo y alegría."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_181",
+      "hash": "6782F8D63A246BDF",
+      "target": "Y usted nunca deja de decírnoslo─ni de demostrarnos cuánto le importamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_182",
+      "hash": "034B5F3212EEE127",
+      "target": "¡Pues claro! Sois mi preciada familia, todos vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_183",
+      "hash": "937395E4962D8BA8",
+      "target": "Pareces buena gente, Sphene. Eso lo admito."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_WUKLAMAT_000_184",
+      "hash": "D2C789DCDA311DC7",
+      "target": "Pero perdóname si todavía no estoy dispuesta a bajar la guardia ante la reina enemiga."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_MAHUWSA_000_185",
+      "hash": "D759CA72D8BC48F2",
+      "target": "¡Jajajaja! ¡Que la llamen a usted así...! No quiero ni imaginar qué villanías habrá cometido Su Majestad."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_186",
+      "hash": "F5AC983383495027",
+      "target": "Vamos, que esto no es cosa de risa."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_187",
+      "hash": "D5A46538006C468A",
+      "target": "Un gobernante es responsable del bienestar de incontables vidas, y una sola decisión equivocada puede acarrear un sufrimiento indecible. Fallar es inadmisible..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd118_04929#TEXT_KINGMD118_04929_SPHENE_000_188",
+      "hash": "8B3D4B9DFD104CE3",
+      "target": "Bien, creo que hemos terminado con la granja. Sigamos, ¿os parece?"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "conversation": "quest/020/ClsCul550_02045",
+  "questName": "Looking for Some Hot Stuff",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_00",
+      "hash": "82FA4A7823DC8154",
+      "target": "Melkoko luce una expresión a partes iguales de deleite y picardía."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_01",
+      "hash": "D582E45BCF9893E3",
+      "target": "Con apenas contenida euforia, Melkoko te comparte su placer por haber visto a H'mhasi Tia humillado por Rhoswen. Ese placer duró poco, sin embargo, pues Rhoswen dirigió luego su descontento hacia ella. Le han encargado idear un plato de sopa bien caliente para su señora, y ahora esa tarea recae en ti. Melkoko sugiere que hables con Lyngsath para conocer las preferencias de Rhoswen en materia de sopas."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_02",
+      "hash": "5185CA0B64DF0077",
+      "target": "Acudes a Lyngsath por las preferencias de Rhoswen, y él revela que la buena capitana anda últimamente obsesionada con la cocina ishgardesa. Sin embargo, se niega a entrar en más detalles apelando a la relación entre cocinero y cliente. Si deseas más información, parece que tendrás que hablar con la propia capitana."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_03",
+      "hash": "1C679F1F84A8F501",
+      "target": "Rhoswen te revela su plan para tender una trampa y acabar con su rival, Carvallain, y para ello necesita conocer el plato favorito del hombre. Con este fin, te pide que vayas a la Séptima Salvia y le preguntes el nombre del mejor chef ishgardés. La bolsa de monedas que te ha dado debería servir para soltarle la lengua."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_04",
+      "hash": "A3B2939ED758CB50",
+      "target": "La bolsa surte efecto, y Carvallain te cuenta que el jefe de cocina de la Casa Durendaire es la máxima autoridad en cocina ishgardesa. Aunque se guarda el nombre del hombre, Carvallain te entrega una botella de tinto lohmani para facilitar tu encuentro. Dirígete a Ishgard y busca al chef en las inmediaciones de la Mansión Durendaire."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_05",
+      "hash": "7AF0F835AF8E7108",
+      "target": "Encantado con el regalo del tinto lohmani, el chef de la Casa Durendaire se complace en enseñarte todo sobre la humilde pero ubicua beet soup. Además, te inculca su convicción de que el amor es un ingrediente esencial en todo plato, y al despedirse te da los nombres de los acompañamientos populares de la sopa. Prepara un cuenco de beet soup, un kaiser roll y una ración de grilled sweetfish, y preséntaselos a Melkoko."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_SEQ_06",
+      "hash": "321FB012E62166E9",
+      "target": "Rhoswen queda profundamente impresionada con tu beet soup, y declara que hará que H'mhasi Tia domine la receta. Después de que Melkoko se marche, Rhoswen te hace una revelación asombrosa: Melkoko está en realidad prendada de H'mhasi Tia. Aunque te cuesta conciliar este hecho con su plan de humillarlo en el Dellemont d'Or, por ahora debes seguir centrado en preparar el concurso, sin olvidar el ingrediente secreto: el amor.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 58."
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_TODO_00",
+      "hash": "F7362159BBC921C2",
+      "target": "Hablar con Lyngsath"
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_TODO_01",
+      "hash": "E1FC8F6A7840398C",
+      "target": "Hablar con Rhoswen"
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_TODO_02",
+      "hash": "87736B4C4CBE8393",
+      "target": "Entregar la abultada bolsa de monedas a Carvallain"
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_TODO_03",
+      "hash": "F840872FAD6B35E4",
+      "target": "Entregar la botella de tinto lohmani al chef de la Casa Durendaire, cerca de la Mansión Durendaire"
+    },
+    {
+      "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_TODO_04",
+      "hash": "F9B18C4DE274C1E6",
+      "target": "Entregar un cuenco de beet soup <sheet(Addon,9,0)>, un kaiser roll <sheet(Addon,9,0)> y una ración de grilled sweetfish <sheet(Addon,9,0)> a Melkoko"
+    },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_001", "hash": "06BFED0DCCFC348B", "target": "<split(<string(gstr1)>, ,1)>, ¡tienes que oír esto! ¡Ese malnacido de H'mhasi Tia está <italic(1)>deprimido<italic(0)>! ¿A que es sencillamente maravilloso?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_002", "hash": "E6AD7588C67D9732", "target": "Verás, la capitana Rhoswen le pidió que inventara un nuevo tipo de sopa, así que va y prepara un finolis potaje frío." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_003", "hash": "EF5207CB32C73CB6", "target": "Cuando está listo, se lo sirve, tan ufano como quieras. Pero, en cuanto lo prueba, se le ensombrece la cara y dice: «¿Qué demonios es esta bazofia?». ¡Ay, fue una gloria, te lo digo!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_004", "hash": "9B91EC59D5D542E2", "target": "...Ejem. Por desgracia, mi gozo duró poco, pues entonces la capitana fijó la mirada en mí. Me ordenó idear una sopa bien caliente, casi ladrando al decirlo. Y, hasta que le hagamos algo de su agrado, me temo que seguirá de un humor de perros." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_005", "hash": "5A6EEEB21F2D6831", "target": "Aunque tiene su propio local, la capitana Rhoswen cena a menudo en el Bismarck a escondidas. Me atrevería a decir que el maestro Lyngsath conoce bien sus preferencias. ¿Podrías averiguar de él una sopa que seguro le guste y luego prepararla para ella?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_010", "hash": "88C124F102E9BD5D", "target": "Me atrevería a decir que el maestro Lyngsath conoce bien las preferencias de la capitana Rhoswen. ¿Podrías averiguar de él una sopa que seguro le guste y luego prepararla para ella?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_020", "hash": "FDF9DAD01ABA1BB2", "target": "Vaya, hola, <split(<string(gstr1)>, ,1)>. Tus preparativos para el concurso van bien, según he oído. Verte tan aplicad<if(gnum4,a,o)> me trae recuerdos, sí. En mis años mozos, participé en casi todas las ediciones del Dellemont d'Or." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_021", "hash": "217DDBFACAFFB1EA", "target": "...¿Que por qué no me presento otra vez, dices? A decir verdad, estuve muy tentado, pero mis días de competición quedaron muy atrás. ¡Además, no me gustan mis posibilidades contigo cerca! ¡Jajaja! En fin, ¿necesitabas algo?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_022", "hash": "5288DEA5150FD47D", "target": "¿La capitana Rhoswen anda antojada de una sopa bien caliente, eh? No me extraña: últimamente la mujer está bastante obsesionada con la cocina ishgardesa." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_025", "hash": "79B532D88F46A8AB", "target": "...Y eso es todo lo que puedo contarte. Siento ser tan parco en detalles, <if(gnum4,hija,hijo)>, pero, si quieres saber más, tendrás que preguntarle a la buena capitana en persona." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_030", "hash": "EF032EAAFADDEFEB", "target": "...Y eso es todo lo que puedo contarte. Aguda como eres, seguramente acabarás atando todos los cabos. Pero, si quieres saberlo con certeza, tendrás que preguntarle a la buena capitana en persona." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_035", "hash": "53F3B3AEE93B682B", "target": "Lo siento, <if(gnum4,hija,hijo)>, pero no puedo hablarte de las preferencias de la capitana Rhoswen. Es malo para mi salud, si captas por dónde voy. Si quieres saber más, tendrás que preguntarle a la buena capitana en persona." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_040", "hash": "4C2B5F27192315F6", "target": "¡Averigua qué clase de sopa le gusta a la capitana Rhoswen y prepárasela, por favor!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_050", "hash": "9CEB0625ABC7C6D2", "target": "...¿Yo, obsesionada con la cocina ishgardesa? ¡Ja! ¡En mi vida oí nada más ridículo!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_051", "hash": "45335625684FB3BB", "target": "¡No me pillarían ni muerta compartiendo una afición con Carvallain, y mucho menos estudiando sopas ishgardesas para ese fantoche de camisa ahuecada!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_052", "hash": "2AB5C383F179CABD", "target": "...Ay, maldita sea. \\<suspiro> Está bien, está bien, te lo contaré todo." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_053", "hash": "9EEFAB93EDA882EA", "target": "Intento tenderle una trampa a Carvallain. El plan es atraer al malnacido con su plato favorito y cebarlo a base de bebida. Y, cuando baje la guardia, acabo con él. Como le sueltes una sola palabra de esto a nadie, ¡te arranco esa lengua parlanchina y la sirvo en un guiso!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_054", "hash": "02D51F06B99AF192", "target": "Mmm... Ya que estás al tanto del plan, bien puedo sacarte partido. Ve a ver a Carvallain y pregúntale por el mejor chef ishgardés que haya. Cuando tengas un nombre, busca al tipo y que te enseñe a preparar una sopa ishgardesa tradicional." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_056", "hash": "F6658E9B272F6CFA", "target": "¿Que actúas por encargo de Melkoko, dices? Sí, bueno, hazme esto y consideraré cumplida su tarea." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_057", "hash": "CFAC05D6DAFEADD1", "target": "Bien, encontrarás a Carvallain en el Séptimo Sabio. Aquí tienes una bolsa de monedas para ayudar a soltarle la lengua." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_060", "hash": "9576A10321DFDA31", "target": "Encontrarás a Carvallain en el Séptimo Sabio. La bolsa de monedas que te di debería ayudar a soltarle la lengua." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_LYNGSATH_000_065", "hash": "14E2FC0A1DBC997B", "target": "¿Conseguiste la información que buscabas? Bien, bien." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_070", "hash": "1A398D172E0CB9DA", "target": "¿Deseáis saber el nombre del mejor chef ishgardés del país? Me cuesta comprender por qué me hacéis a mí, precisamente, esta pregunta." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_071", "hash": "C69DC4B4E6843269", "target": "Mmm, noto que mi interés por vuestro motivo decae de repente. Parece improbable que este dato pueda usarse para hacer diabluras, así que, muy bien." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_072", "hash": "6D73C6803DCB15B5", "target": "Como aventurer<if(gnum4,a,o)> de mucho mundo, sin duda conocerá la Casa Durendaire de Ishgard. Se dice que su chef principal es la mayor autoridad en la cocina de su tierra natal." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_073", "hash": "42C64CB21AE66875", "target": "Al buscarlo, aparte de las señales obvias como el atuendo, fijaos en una campana dorada sobre su pecho. Es el blasón de la casa a la que sirve.<br>...¿Mmm? ¿Queréis saber su nombre? Ah, pero ¿dónde estaría la gracia en eso?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_074", "hash": "30F19FB5BB5D0283", "target": "Ahora bien, como consumado cocinero, tendrá con toda seguridad debilidad por los buenos vinos. Cuando conozcáis al hombre, obsequiadle con esta botella de Lohmani red. Decid que viene de un admirador de allende los mares." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_080", "hash": "8796EFEECD4D31A5", "target": "Cuando conozcáis al chef principal de la Casa Durendaire, obsequiadle con la botella de Lohmani red. Decid que viene de un admirador de allende los mares." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_085", "hash": "48D6DCA2A7E99ED7", "target": "Hazme esto y consideraré cumplida la tarea de Melkoko." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_090", "hash": "B0690531F4D415F5", "target": "En efecto, soy el chef principal de la Casa Durendaire. ¿Qué precisáis de mí?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_091", "hash": "4EF7BDA3A40362E3", "target": "¡Por la Furia! ¡Rara vez disfrutamos de añadas tan finas como esta! No sabía que tuviera admiradores, ¡y menos aún que estuvieran tan extendidos como para encontrarse en Limsa Lominsa!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_092", "hash": "A0763DBBA4DFA550", "target": "¿Deseáis aprender una receta de sopa ishgardesa tradicional? No hallaréis ninguna más común que la beet soup. Adorna las mesas de todos los ishgardeses, calentando el corazón y el estómago de plebeyos y nobles por igual." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_093", "hash": "15D2E7A19583C864", "target": "Los ingredientes, el principal la magma beet, se cortan y se saltean; luego se añade el caldo y el condimento. Se deja cocer a fuego lento hasta que todo queda estofado y el caldo adquiere un intenso tono carmesí." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_094", "hash": "77F223F3CEA5C995", "target": "Ahora bien, hay tantas variantes de la sopa como personas que la preparan, pero la más cercana a mi corazón es la que solía hacer mi querida madre. Verás, de niño era enfermizo, y ella añadía ingentes cantidades de verdura con la esperanza de que me hiciera fuerte.<br>A través de su cocina, sentía su amor, y todo sabía mejor por ello. Llamadme sentimental, pero es mi convicción que el amor es un ingrediente esencial en todo plato." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ02045_000_095", "hash": "FF8249EAB61A2E22", "target": "Una última nota: para los ishgardeses de posibles, la beet soup suele servirse acompañada de un kaiser roll y grilled sweetfish. Espero que esta información os sea de utilidad. Gracias de nuevo por el vino." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_DRYOURININ_000_100", "hash": "68DDC32918A10AB3", "target": "La beet soup suele servirse acompañada de un kaiser roll y grilled sweetfish. Espero que esta información os sea de utilidad. Gracias de nuevo por el vino." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_CARVALLAIN_000_105", "hash": "DB8AF7BA54D5182B", "target": "Confío en que vuestro encuentro con el chef principal de la Casa Durendaire fuera instructivo. Que preguntarais por él me ha recordado la primera vez que probé su cocina. Me gustaría tener la ocasión de hacerlo de nuevo." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_110", "hash": "8107D46A350FDBED", "target": "¡Ah, ahí estás, <split(<string(gstr1)>, ,1)>! Tardaste tanto que empezaba a preocuparme. Dime, ¿lograste encontrar una sopa que contente a la capitana Rhoswen?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_111", "hash": "644900FB6C03E62D", "target": "¡Muchísimas gracias! Así que este es el plato con el que atraerá a Carvallain..." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_112", "hash": "432ACDDE63C69448", "target": "Sí, lo sé todo sobre su plan. Es difícil no oír las apasionadas peroratas de la capitana cuando una está justo al otro lado de la puerta. Pero no le mencionaré nada, tranquil<if(gnum4,a,o)>." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_113", "hash": "BF38219ADBEE6960", "target": "\\<suspiro> Y pensar que sigue en las mismas... persiguiendo a Carvallain, quiero decir. ¿Cuándo reconocerá lo que siente? Terca como es, seguramente nunca. En cualquier caso, no deberíamos hacerla esperar. Dejemos que pruebe tu obra, ¿de acuerdo?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_115", "hash": "34169ED741460C2F", "target": "¡Esta sopa está de muerte! Sabe a...a <italic(1)>hogar<italic(0)>, aunque nunca la había probado hasta ahora. ¿Cómo demonios se prepara?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_116", "hash": "B0916313A5851F24", "target": "A ver si lo entiendo: ¿el ingrediente secreto es el amor? En cierto modo tiene sentido, tal como lo planteas.<br>...¡Melkoko! ¡Ve y dile a H'mhasi Tia que quiero que domine esta sopa!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_MELKOKO_000_117", "hash": "B06C7AA5125A271A", "target": "¡A la orden, capitana!" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_118", "hash": "62303E8D26CEC7B9", "target": "...¿Cuándo reconocerá esa muchacha lo que siente? Está coladita por H'mhasi Tia, y aquí la tienes, intentando hundirlo." },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_119", "hash": "BD5667F813DB2577", "target": "Sí, lo sé todo sobre su plan. Digo, ¿cómo no iba a saberlo, cuando despotrica sobre él justo al otro lado de la puerta con una voz que despertaría a los muertos?" },
+    { "gameKey": "quest/020/ClsCul550_02045#TEXT_CLSCUL550_02045_RHOSWEN_000_120", "hash": "304DEE589B9E136D", "target": "A mí el concurso me importa un comino, pero no puedo evitar preocuparme por Melkoko. Me da a mí que no lo ha pensado bien." }
+  ]
+}

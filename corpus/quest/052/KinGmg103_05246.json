@@ -1,0 +1,461 @@
+{
+  "conversation": "quest/052/KinGmg103_05246",
+  "questName": "In Search of the Past",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_00", "hash": "28B35D3D7F2B48C8", "target": "G'raha Tia tiene una idea de cómo proceder con la investigación." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_01", "hash": "2C912CA074D4DFA4", "target": "Dado que quizá no existan ni recuerdos ni registros de la madre de Gulool Ja, G'raha Tia sugiere separaros para interrogar al mayor número de gente posible. Él y los demás preguntarán por Solución Nueve, y tú recabarás información hablando con los habitantes de los Arrabales." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_02", "hash": "E2CEFEC685D3A9F8", "target": "Aunque las personas que interrogas no tienen conocimiento directo de la Mamool Ja que buscas, sus relatos contienen retazos de la historia de Zoraal Ja que insinúan un cuadro más amplio al que le faltan piezas. Lo mejor sería regresar a la Trastienda y ver si los demás pueden ayudar a completar el cuadro." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_03", "hash": "6CAA738A45DADE08", "target": "Los relatos recopilados por ti y tus camaradas revelan que, hace casi veinte años, Zoraal Ja empezó a visitar un asentamiento situado en una región conocida como Yuweyawata, donde en su día luchó y derrotó a un tural vidraal junto a un destacamento de la Legión del Alba, entre cuyos miembros había una Mamool Ja. Es posible que ese asentamiento fuera también el escenario de una investigación clandestina, y Shale determina su ubicación analizando el historial de suministros enviados desde Everkeep. Fijado vuestro próximo destino, Gulool Ja está deseoso de partir y saber más de su familia." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_04", "hash": "C04D2750DAA29BBB", "target": "Con un destello de emoción en los ojos, Gulool Ja dice estar listo para cruzar el lago. El joven rey se mantendrá cerca de ti mientras abres camino por la instalación largo tiempo olvidada.<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_05", "hash": "5453B97283419E3C", "target": "Venciendo tanto a bestias salvajes como a abominaciones inhumanas, atraviesas la instalación en ruinas y descubres poco a poco su terrible propósito. Al final de tu camino, te topas con una tormenta que ruge sobre un profundo cañón y, al acercarte, los vientos cesan mientras un aullido resuena en tus oídos. Liberándose de su prisión, un tural vidraal desciende de los cielos para sembrar el caos en la tierra. Pero ni siquiera semejante furia sin límites es rival para ti y tus aliados y, tras una feroz batalla, la bestia yace quebrada y moribunda.<br><br>※Si abandonas Yuweyawata, podrás regresar a través de la Deriva." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_06", "hash": "1E4AE05437B13831", "target": "Mientras contemplas cómo el tural vidraal exhala su último aliento, el Eco te transmite una visión de su pasado. En ella, Zoraal Ja aprueba la propuesta de Kanilokka de experimentar con la transferencia de almas humanas a receptáculos bestiales y, tras marcharse el investigador, una mujer Mamool Ja se une a Zoraal Ja. Dirigiéndose a ella como Teeshal Ja, el Rey de la Resolución le ordena colaborar en el proyecto, y ella acepta con una condición: que, si el trabajo da fruto, se le permita tomar lo que ella misma más desea. La visión termina en esta nota imprecisa y, tras compartir su contenido con los demás, se concluye que Teeshal Ja podría ser la mujer que buscabas. Envalentonado por esta nueva revelación, Gulool Ja quiere seguir registrando la instalación." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SEQ_07", "hash": "23C401B8D247FDF4", "target": "Ahora que la instalación está libre de amenazas, eres libre de buscar pistas sobre el pasado de Teeshal Ja. Acceder a la planta superior del observatorio sería lo prudente en este momento..." },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_00", "hash": "FB215724C73E8249", "target": "Recabar información en los Arrabales" },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_01", "hash": "AA3F9AE9C58AA7D6", "target": "Informar de tus hallazgos a Shale en la Trastienda" },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_02", "hash": "65B5987306E9C0B0", "target": "Hablar con Gulool Ja en la Deriva" },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_03", "hash": "23E1011E8E3ECC6F", "target": "Entrar en Yuweyawata Field Station" },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_04", "hash": "7E1DCBD2A38DA6D4", "target": "Entrar en Yuweyawata Field Station" },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_TODO_05", "hash": "4E078B648026B54B", "target": "Hablar con Gulool Ja" },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_001",
+      "hash": "CABEFCC378067590",
+      "target": "Si esto es lo que quiere Gulool Ja, lo ayudaré en todo lo que pueda. ¡Al fin y al cabo, somos familia!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_005",
+      "hash": "7F1D6A0096CCCE97",
+      "target": "¿Puede que también sepamos más de mi padre? No se me había ocurrido."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_010",
+      "hash": "9D6ADFDDB7CA1253",
+      "target": "Comprendo demasiado bien el deseo de Gulool Ja. Durante muchísimo tiempo los actos de mi propio padre me resultaron inexplicables..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_015",
+      "hash": "01849146380FD7AF",
+      "target": "Si no queda ningún registro de la madre de Gulool Ja, ¿por dónde empezamos a buscar?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_020",
+      "hash": "D64DB0199995F1EF",
+      "target": "Me identifico mucho con lo que siente. Ruego que Gulool Ja encuentre lo que busca."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_030",
+      "hash": "5C47EC8DFBDDDBDA",
+      "target": "Si no quedan ni recuerdos ni registros de la madre de Gulool Ja, debemos echar la red lo más amplia posible. Propongo que nos dividamos en grupos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_031",
+      "hash": "AC7DED3790D5B55B",
+      "target": "<split(<string(gstr1)>, ,1)>─si tú preguntas fuera, en las afueras, los demás haremos lo mismo en Solución Nueve."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246A_000_100",
+      "hash": "E376EE2581966B45",
+      "target": "¿Una mujer Mamool Ja? Mmm, su gente nunca ha sido algo común por aquí..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246A_000_101",
+      "hash": "65970C0574337D8E",
+      "target": "La última vez que vi a una fue antes de que la cúpula cayera sobre nuestras cabezas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246A_000_102",
+      "hash": "57C09236C6EEB403",
+      "target": "Iba en un séquito de la Legión del Alba que destinaron aquí. Supongo que volvieron todos a Tuliyollal después de su misión."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246A_000_103",
+      "hash": "3A35CE360A572DF3",
+      "target": "Pero, si alguno se quedó, supongo que pudo acabar atrapado aquí dentro con los demás."
+    },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SYSTEM_100_103", "hash": "79DF619C68D2D271", "target": "Tu conversación con la parlanchina Shetona te ha revelado algo sobre “una mujer Mamool Ja”." },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246A_200_103",
+      "hash": "88AB27C5A095193C",
+      "target": "No he vuelto a ver a esa mujer Mamool Ja ni a ningún otro de la Legión del Alba desde entonces, pero supongo que es posible que algunos quedaran atrapados aquí con los demás."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246B_000_104",
+      "hash": "5416CA535BD74B6D",
+      "target": "Lo siento, pero nunca he oído hablar de ninguna mujer Mamool Ja que viviera por aquí, y menos aún de una relacionada con Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246B_000_105",
+      "hash": "69FC417525AA939C",
+      "target": "Quizá tenga más suerte hablando con la gente de un poblado Tonawawta al norte de Everkeep, en un lugar llamado Yuweyawata."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246B_000_106",
+      "hash": "9A3E55FB89CB1510",
+      "target": "El Hijo Resiliente se ganó su lealtad al salvarlos de no sé qué crisis, o eso cuentan. Si mal no recuerdo, su jefe se llamaba Kanilokka."
+    },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SYSTEM_100_106", "hash": "60987C1CD1BB0E10", "target": "Tu conversación con el Tonawawta de mediana edad te ha revelado algo sobre “los devotos de Zoraal Ja”." },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_000_107",
+      "hash": "104DBE2FE79F91BB",
+      "target": "¿Busca a una mujer Mamool Ja?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_000_108",
+      "hash": "83EC637180F33AB6",
+      "target": "Ah, la madre de Gulool Ja... Me temo que ahí no puedo ayudarle."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_000_109",
+      "hash": "CAF2034839F6BBA8",
+      "target": "De Zoraal Ja solo sé un poco, y únicamente lo que me contó mi padre."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_000_110",
+      "hash": "569704E90EBC8610",
+      "target": "Decía que, antes de que la cúpula nos aislara del mundo exterior, había aparecido un tural vidraal que aterrorizaba la región."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_000_111",
+      "hash": "00262372D6094E6E",
+      "target": "En respuesta, Zoraal Ja reunió una partida de guerreros y con ellos se enfrentó a la bestia y la abatió. Fue interesante oír aquella hazaña del rey."
+    },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SYSTEM_100_111", "hash": "EAD8853A309ECE60", "target": "Tu conversación con el joven Tonawawta te ha revelado algo sobre “una batalla con un tural vidraal”." },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_CITIZEN05246C_200_111",
+      "hash": "514C7EBC0BFCED95",
+      "target": "Menuda batalla debió de ser aquella, entre los hombres del rey y el tural vidraal. Y encima sin reguladores..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_115",
+      "hash": "6AD79DDECA2DED20",
+      "target": "Lo siento, pero no he averiguado nada útil. Ninguna de las personas a las que pregunté había oído hablar de una mujer Mamool Ja..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_120",
+      "hash": "9FE3A6F1B485C05F",
+      "target": "¡Ah, tú también has vuelto! Le he contado a Shale todo lo de la búsqueda."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_125",
+      "hash": "2AE2BA2301159964",
+      "target": "Aunque no logré averiguar nada directamente relacionado con la madre de Gulool Ja, sí encontré información que puede arrojar algo de luz sobre Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_130",
+      "hash": "92EAB6EF5BF6AD55",
+      "target": "Parece que Lamaty'i no tuvo mucha suerte. ¿Cómo te ha ido a ti?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_135",
+      "hash": "7427F1C0336F6554",
+      "target": "Zoraal Ja rara vez aparecía en público, así que la gente no tenía ni idea de cómo pasaba la mayor parte del tiempo. Y creo que ahí está la clave de las respuestas que buscamos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_140",
+      "hash": "71057C03089C28A7",
+      "target": "Solución Nueve es realmente enorme. Ni con los teletransportadores pudimos cubrir más que una pequeña parte."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_100_200",
+      "hash": "B98467107CC0C4D6",
+      "target": "Gulool Ja me lo ha contado todo. Ya intentamos antes rastrear registros de su madre, pero nos quedamos con las manos vacías."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_100_201",
+      "hash": "2743CDF3E4040394",
+      "target": "Con la ayuda de todos, ojalá esta vez lleguemos a alguna parte..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_100_202",
+      "hash": "98DF421A78C36255",
+      "target": "Ah, así que tú también hablaste con bastante gente distinta. Juntemos todos los hallazgos y veamos qué conclusiones sacamos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_200",
+      "hash": "0115AEB6EE9B2BE4",
+      "target": "Así pues, Zoraal Ja trajo un séquito de la Legión del Alba a Yyasulani, y entre ellos había una Mamool Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_201",
+      "hash": "EBF1DF74CF91DE19",
+      "target": "Su misión era librar la región de un tural vidraal, y creo que puede afirmarse que esa fue la “crisis” de Yuweyawata que resolvió."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_202",
+      "hash": "04E56F08E691BEB0",
+      "target": "Si parte de sus tropas se quedó una temporada, quizá para ayudar a los aldeanos con la recuperación, sí que pudieron acabar atrapadas en la cúpula."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_205",
+      "hash": "C5F5EDAA14EB7040",
+      "target": "Nosotros también oímos historias sobre el poblado de Yuweyawata. Vivió gente allí hasta hace casi una década, y Zoraal Ja lo visitaba con regularidad."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_209",
+      "hash": "2F0A95D85BAD44D8",
+      "target": "Si necesitaba discreción, un lugar habitado por sus seguidores más leales sería ideal. Y, si esa mujer Mamool Ja se hubiera quedado allí, habrían tenido ocasión de coincidir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_210",
+      "hash": "5A61B320ADDD0141",
+      "target": "Ya veo. Pero ¿qué podía estar haciendo Zoraal Ja en ese poblado?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_211",
+      "hash": "9C7BA13E353EBE09",
+      "target": "Creo que podemos responder a esa pregunta."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_212",
+      "hash": "810B7802B6841D7F",
+      "target": "Para rehacer los pasos de Zoraal Ja, Raha y yo hablamos con un investigador que trabajaba en la Origénesis."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_213",
+      "hash": "E72E26C329E2D2B4",
+      "target": "Dijo que, hace unos veinte años, varios compañeros suyos fueron trasladados a una instalación de investigación fuera de Everkeep─por orden directa del rey."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_214",
+      "hash": "755B7690E08B52CD",
+      "target": "Es la primera noticia que tengo de esa instalación. Se creía que solo la Vanguardia estaba bajo jurisdicción del rey..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_215",
+      "hash": "20010199FCE797E8",
+      "target": "Por lo visto se usaba para desarrollar un nuevo tipo de arma, pero me temo que eso es todo lo que pudimos averiguar."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_216",
+      "hash": "C966DE16532777FD",
+      "target": "Es más que suficiente para empezar. Aunque el trabajo fuera secreto, los materiales y el equipo necesarios se habrían fabricado dentro de Everkeep."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_217",
+      "hash": "85E7A1F008B7EF23",
+      "target": "Así que, si miramos los registros de transporte..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_218",
+      "hash": "1398FC23CCD719ED",
+      "target": "Ahí está."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_219",
+      "hash": "2DA274A71B2BC0B2",
+      "target": "Las rutas están llenas de rodeos e intentos de despiste, pero se hacían grandes entregas a Yuweyawata. Demasiado grandes para un simple poblado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_220",
+      "hash": "8D618C44CA35295E",
+      "target": "Aunque no hay actividad desde hace años. Lo más probable es que la instalación esté clausurada."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_221",
+      "hash": "6E5664977672EF03",
+      "target": "¿Creéis que ahí es donde estaba mi madre?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_222",
+      "hash": "646CCD54618E8C24",
+      "target": "Todavía no podemos asegurarlo, ¡pero yo diría que hay bastantes posibilidades!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_223",
+      "hash": "C662AAA0ED03A1E0",
+      "target": "¡Es increíble! ¡Aunque nadie la recuerde, habéis conseguido deducir todo esto!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_224",
+      "hash": "359C111F83BD6BB2",
+      "target": "Cada pieza del rompecabezas revela poco por sí sola, pero, cuando juntas varias, empieza a formarse una imagen."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_225",
+      "hash": "38971C2F825BE68D",
+      "target": "Y, aunque los recuerdos se desvanezcan, quedan las huellas que marcan el camino de quienes pasaron antes."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_226",
+      "hash": "5117F49CF6F3387D",
+      "target": "Una lección que aprendí en otra vida."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_227",
+      "hash": "CE7221FE797B8B25",
+      "target": "Entonces vamos a investigar esa instalación secreta de Yuweyawata."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_228",
+      "hash": "3B248BF141A09BF0",
+      "target": "Y esta vez quiero que vengas con nosotros, Gulool Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_229",
+      "hash": "F9B168904752AF27",
+      "target": "Yuweyawata está al otro lado del lago. Para llegar tendréis que coger un cargo flotante en los Bajíos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_230",
+      "hash": "C644C839C20DB5E2",
+      "target": "Vale. ¡Gracias, Shale!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SHALE_000_235",
+      "hash": "DD42D0BFE4353CC2",
+      "target": "Id a los Bajíos cuando estéis listos. Kiluwsa os tendrá preparado un cargo flotante."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_240",
+      "hash": "8F0AABBB62C1F4EF",
+      "target": "Ya hemos visto cuánto ha cambiado la parte de Yyasulani que está a este lado de la cúpula. Me pregunto cómo estará el otro..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_245",
+      "hash": "A9067BF07EE1ED57",
+      "target": "Alguien se habría fijado si Zoraal Ja hubiera viajado desde los Bajíos. Supongo que usaba un vehículo volador."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_250",
+      "hash": "57FBCC5031589432",
+      "target": "El asentamiento de las afueras─ese también era Tonawawta en origen, ¿no? Me pregunto si Yuweyawata se le parecerá."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_255",
+      "hash": "EA38A1F4AB8EC32B",
+      "target": "Aunque el investigador con el que hablamos recordaba que tenía compañeros, no lograba recordar detalles de ninguno en concreto. Ni sus nombres ni cómo eran..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_260",
+      "hash": "FF0B040D291FA0AD",
+      "target": "Armas desarrolladas en secreto con la ayuda de seguidores devotos... De ahí no habrá salido nada bueno."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KILUWSA_000_265",
+      "hash": "25FA2BA51A91ECDD",
+      "target": "Me quedaré cerca después de dejaros. Avisadme cuando queráis volver."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_300",
+      "hash": "0EFFEB9261AE5E2C",
+      "target": "Así que el cargo flotante nos llevará al otro lado del lago... Nunca he estado allí."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_301",
+      "hash": "75544D934A5C5BA9",
+      "target": "Sigue estando dentro de la cúpula, así que no creo que sea muy distinto de aquí."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_302",
+      "hash": "23F3909F3944C77F",
+      "target": "Es probable que nos crucemos con bestias peligrosas, así que los demás iremos delante. Tú síguenos cuando sea seguro, ¿vale?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_303",
+      "hash": "F347F320332376D1",
+      "target": "Vale. ¡Tened cuidado!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_Q1_000_000",
+      "hash": "4EDD073F69465844",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_A1_000_001",
+      "hash": "7E34CA16ED8AA938",
+      "target": "Charlar."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_A1_000_002",
+      "hash": "B14531F6258132D3",
+      "target": "Formar un grupo y entrar en la Estación de Campo de Yuweyawata."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_A1_000_003",
+      "hash": "0A562DB05C4E9A0D",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_305",
+      "hash": "0C4CC031F250AE7A",
+      "target": "Prometí cuidar de Gulool Ja, pero apenas he pasado tiempo con él. Voy a compensarlo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_310",
+      "hash": "8CFD50A10255C342",
+      "target": "Aunque yo sea el que menos ha visto de la cúpula, no soy ajeno a enfrentarme a lo desconocido. No os retrasaré."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_315",
+      "hash": "45D2570F7EBAA893",
+      "target": "No puedo evitar acordarme de nuestra incursión en la Origénesis. Y de Cahciua..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_320",
+      "hash": "6A1B221BF7357D0C",
+      "target": "Ya vimos los estragos que causó Valigarmanda en Urqopacha. Me pregunto qué habrá dejado a su paso este otro tural vidraal."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_325",
+      "hash": "472A5971D51523B3",
+      "target": "Si la instalación se usaba para investigar armamento nuevo, tendría una seguridad férrea. Aunque esté clausurada, avancemos con cautela."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_330",
+      "hash": "CF29234B1FEB37D9",
+      "target": "No os preocupéis por mí. Se me da bien esconderme de las bestias."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KILUWSA_000_400",
+      "hash": "115824D95CAD3E3A",
+      "target": "Sacaré el cargo flotante cuando estéis listos. Solo tenéis que decirlo."
+    },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SYSTEM_000_401", "hash": "178F4AE096DE83FC", "target": "¿Viajar a Yuweyawata?" },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_WUKLAMAT_000_600",
+      "hash": "30AD4814539D7C48",
+      "target": "Teeshal Ja, ¿dijiste que se llamaba? Me pregunto cuál será su historia..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALPHINAUD_000_605",
+      "hash": "4B15EF56F1216359",
+      "target": "Es probable que los aldeanos vigilaran al tural vidraal encerrado por orden de Zoraal Ja. Y en algún momento acabaron implicados en la investigación de las almas..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_ALISAIE_000_610",
+      "hash": "A488F3F0CF449F5E",
+      "target": "Ahora que el peligro ha pasado, empiezo a darme cuenta de lo inquietante que es este sitio. Cuesta creer que fuera un poblado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_KRILE_000_615",
+      "hash": "00737B3EC85DEE38",
+      "target": "Que hayas podido asomarte al pasado del tural vidraal... Me pregunto qué implica eso sobre la conciencia de la bestia mientras estuvo sellada."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_620",
+      "hash": "826C1766CDBD32AA",
+      "target": "Parece que ese tal Kanilokka estaba al mando aquí. Por lo que cuentas, era muy devoto de Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_700",
+      "hash": "6C643C4BF0B6D06C",
+      "target": "Ojalá pudiera ver el pasado como tú. Así podría ver a las personas que ya no están."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_701",
+      "hash": "439A5999C0611876",
+      "target": "Como aquí no hay ninguna otra mujer Mamool Ja, durante mucho tiempo ni siquiera podía imaginarme cómo era mi madre."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_702",
+      "hash": "D38032D0E3DE53FA",
+      "target": "Pero, cuando fui a Tuliyollal y vi a algunas, por fin pude imaginármela."
+    },
+    {
+      "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GULOOLJA_000_703",
+      "hash": "FB3FD95C725EDD45",
+      "target": "Y espero que algún día pueda ver también cómo era de verdad."
+    },
+    { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_SYSTEM_000_704", "hash": "AA4822E985EAC19D", "target": "Ahora puedes entrar en Yuweyawata Field Station con un grupo de avatares NPC. Para usar esta función, abre la interfaz <colortype(500)><edgecolortype(501)>Trust<edgecolortype(0)><colortype(0)>, en <colortype(500)><edgecolortype(501)>Contenido<edgecolortype(0)><colortype(0)>, del menú principal." }
+  ]
+}

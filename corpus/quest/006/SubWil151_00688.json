@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/006/SubWil151_00688",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_00", "hash": "6ABA344BC38C8900", "target": "Poponagu, el representante de guildleves locales en el Campamento Huesos Secos, busca a un aventurero que se encargue de guildleves." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_01", "hash": "7E93A3EE8C32DF8E", "target": "Para calibrar tu capacidad de encargarte de los diversos guildleves que ofrece, Poponagu exige que lleves a cabo una tarea preliminar." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_02", "hash": "DA3F76DCFE6AA85B", "target": "Has completado con éxito el guildleve de prueba. Preséntate ante Poponagu en el Campamento Huesos Secos." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SEQ_03", "hash": "1BFF20F023FF17F1", "target": "Poponagu confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores del Campamento Huesos Secos. Demuestra tu valía como aventurero y sigue encargándote de los guildleves que ofrece." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_TODO_00", "hash": "ECF6D63B34FE1FA3", "target": "Completar el guildleve de prueba de Poponagu" },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_TODO_01", "hash": "8E0FF7B1171BC17C", "target": "Informar a Poponagu" },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_1", "hash": "D9709B9918EE357E", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, aventurero. Soy Poponagu, representante del Gremio de Aventureros." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_2", "hash": "447892BFF1E263E3", "target": "Tengo en mi poder varios buenos guildleves que con gusto le dejaré emprender... si demuestra ser suficientemente capaz, claro está." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_3", "hash": "C1CE21D52E82CCA3", "target": "Verá, el protocolo dicta que le administre un guildleve de prueba. Hasta que no lo complete, no puedo concederle ninguno más." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_4", "hash": "8403B61E11222D9D", "target": "¿Qué le parece esta tarea? Revise los detalles y dígame si está a la altura del reto." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_5", "hash": "06509C55E3908C05", "target": "Muy bien. Solo tiene que <colortype(500)><edgecolortype(501)>hacer señas<edgecolortype(0)><colortype(0)> al crédulo goblin, Guttrix Sliverpicks, para ayudar a guiarlo hasta su destino." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_SYS_000_6", "hash": "B9DE3F7470E94EAE", "target": "Usa la emote <colortype(500)><edgecolortype(501)>beckon<edgecolortype(0)><colortype(0)> para guiar a Guttrix Sliverpicks sano y salvo hasta el destino. Puede resultarte cómodo añadir la emote a la hotbar antes de empezar el guildleve." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_10", "hash": "2B33BB93D052667B", "target": "Puede comenzar el levequest cuando quiera." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_15", "hash": "40372EF42591BDAF", "target": "Veo que el calor del desierto no pudo con usted. Aquí tiene su recompensa. ¡Procure no gastárselo todo en la taberna!" },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_20", "hash": "F4709A003B44646C", "target": "Ah, ¿no ha iniciado ya la prueba? ¿No debería atender entonces a su protegido goblin?" },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_25", "hash": "1B18CE3EF75F8842", "target": "Y con eso, ha cumplido los requisitos. Es libre de tomar mis guildleves a voluntad." },
+    { "gameKey": "quest/006/SubWil151_00688#TEXT_SUBWIL151_00688_POPONAGU_000_26", "hash": "DB3F1DFEEE4D87A4", "target": "Siempre hay trabajo que hacer aquí en Campamento Huesos Secos. Sean cuales sean sus talentos, no me cabe duda de que encontrará a alguien necesitado y dispuesto a pagar." }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/011/SubSea165_01151",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_SEQ_00", "hash": "CCA8A319B0CB08E8", "target": "El sargento Roehanth tiene la mirada bizca de quien enhebra una aguja, y nadie puede dudar de que tú eres la puntada a tiempo que ahorra ciento." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_SEQ_01", "hash": "0E3220881589279C", "target": "Han aparecido killer mantises cerca de la Cripta del Fundador y, pese a los denodados esfuerzos del Maelstrom, varias campan aún a sus anchas. Se te encomienda abatir las cuatro restantes." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_SEQ_02", "hash": "4B4EBAFFBE3AA7B0", "target": "Las últimas killer mantises han muerto. Cabe esperar que no dejaran atrás algún que otro saco de huevos. Preséntale tu informe al sargento Roehanth." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_SEQ_03", "hash": "07D60106C9C0840E", "target": "Los muertos pueden dormir sin oír el chirriar de la macabra guadaña. El sargento Roehanth está satisfecho. Como esta tarea es asunto del Maelstrom, debes acudir a la comandante Falkbryda en el Campamento Valle de la Calavera para cobrar tu paga." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_SEQ_04", "hash": "B012EA5B2E159E46", "target": "Informas a la comandante Falkbryda de la destrucción de las killer mantises, quien parece encontrar nuevo valor en que un aventurero se encargue de tales misiones. Un trabajo bien hecho suele ser el preludio de otro." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_TODO_00", "hash": "08268B80DE72239C", "target": "Abatir las killer mantises" },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_TODO_01", "hash": "8393F44864F5939E", "target": "Informar a Roehanth" },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_TODO_02", "hash": "067F559F0039E9B2", "target": "Informar a Falkbryda" },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_ROEHANTH_000_000", "hash": "C63E8F57AE4C2365", "target": "¿Un aventurero, eh? Sería una pena que hubiera venido hasta aquí sin más que enseñar por ello. ¿Qué tal un poco de caza de sabandijas?" },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_ROEHANTH_000_001", "hash": "63C1ADD7822AD16D", "target": "Hay unas cuantas killer mantises por ahí a causa de una eclosión que se nos pasó. La comandante envió partidas de caza y reunieron dieciséis cabezas. No hay más de veinte por nidada, ¿cree que puede encargarse de las cuatro últimas?" },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_ROEHANTH_000_020", "hash": "BB8A909FB0493579", "target": "Bichos desagradables, esas killer mantises. Seguro que Aerghaemr no habría querido que nadie muriera cerca de su lugar de descanso. Buena caza, aventurero." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_ROEHANTH_000_021", "hash": "4FDD1BEF9F162D00", "target": "Tsk, mira <if([gnum11<12],<if([gnum11<4],cómo vuelan los pájaros a sus nidos,cuánto sube el sol)>,<if([gnum11<17],cómo crece mi sombra,cómo vuelan los pájaros a sus nidos)>)>, es hora de que vuelva a la puerta. Alyrloef dijo que probaríamos un cañón nuevo. Es capaz de volarse en pedazos sin mí delante." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_ROEHANTH_000_022", "hash": "27E5CDB1C235ACCB", "target": "Puede cobrar su paga de la comandante Falkbryda, en el Campamento Valle de la Calavera. Que le vaya bien, aventurero. Que los Doce le acompañen." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_FALKBRYDA_000_030", "hash": "DA68E42A2BA347BA", "target": "Ah, <split(<string(gstr1)>, ,1)>, te has convertido en una cara conocida por estos lares. ¿Qué te trae hoy por aquí?<br>¿Las killer mantises que quedaban? Bien hecho, y he de felicitar al sargento Roehanth por su rapidez de reflejos." },
+    { "gameKey": "quest/011/SubSea165_01151#TEXT_SUBSEA165_01151_FALKBRYDA_000_031", "hash": "EEDC427BA558CC92", "target": "Tienes el agradecimiento de este campamento. A veces temo que perdamos la guerra contra los Sahagin por tener que lidiar con plagas y bestias..." }
+  ]
+}

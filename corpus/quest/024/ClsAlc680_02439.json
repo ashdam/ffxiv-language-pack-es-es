@@ -1,0 +1,189 @@
+{
+  "conversation": "quest/024/ClsAlc680_02439",
+  "questName": "No Sin Unpunished",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_00",
+      "hash": "AA13F077CEE7E5DB",
+      "target": "Greinfarr te aguarda con noticias en la Cámara Mortuoria de Erralig."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_01",
+      "hash": "616A43404E9BAB67",
+      "target": "Greinfarr lamenta los errores de su pasado. Para enmendarlos, resuelve encontrar Traspasacorazón, y hacerlo recurriendo primero a los tenderos de Ul'dah para averiguar lo que pueda. Viaja a la Cámara Mortuoria de Erralig y habla allí con Greinfarr sobre su plan."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_02",
+      "hash": "271DD13DC672F046",
+      "target": "Tras deliberar con Greinfarr, habéis determinado a qué tiendas acudirá cada uno. Por tu parte, busca a Marcel en Joyas de Eshtaime."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_03",
+      "hash": "B906BCC6CA4E1BF3",
+      "target": "Marcel te informa de que vendió Traspasacorazón a un mercader llamado Ansobert. Mientras hablas con Marcel, recibes noticias de F'lhaminn. Parece que algo le ha ocurrido a Greinfarr. Ve a hablar con F'lhaminn en el Frontisterio de Frondale."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_04",
+      "hash": "6AEEF4A925299D0B",
+      "target": "Greinfarr fue atacado por un asaltante desconocido, y el autor escapó, aunque con una mano herida. Tras consultar con Popokkuli cuál es la mejor forma de analizar la sangre dejada en la escena, este te aconseja hablar con Severian en el Gremio de Alquimistas."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_05",
+      "hash": "4542500B4535F919",
+      "target": "Severian te habla de una sustancia capaz de aislar ciertos elementos traza presentes en una muestra de sangre y provocar en ellos una reacción luminiscente. Usando un juego de luminol ingredients como base, sintetiza una botella de luminol y entrégasela a Popokkuli en los Peldaños de Thal.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_06",
+      "hash": "E9D25CBDE15FC2BD",
+      "target": "Has entregado la botella de luminol a Popokkuli. Sigue las manchas de sangre a lo largo del camino y luego viaja al Mercado de la Avenida Zafiro para hablar de nuevo con Popokkuli."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_07",
+      "hash": "9CAAD2B40BDB51A0",
+      "target": "El boticario Rarakiya te habla de un cliente que recientemente compró un ungüento para una herida abierta en la mano. Sigue a Popokkuli, que partió en dirección a la Puerta de Thal."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_08",
+      "hash": "6F28733648D8108C",
+      "target": "Junto a Popokkuli, sigues el rastro del autor del ataque a Greinfarr y llegáis a un almacén alquilado. Allí averiguas que el almacén lo usa el mismo mercader que compró Traspasacorazón en Joyas de Eshtaime: Ansobert.<br><br>※La próxima misión de alquimista estará disponible con Popokkuli, en el Mercado de la Avenida Zafiro, al alcanzar el nivel 70."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_00",
+      "hash": "3EDDAD20921E7A14",
+      "target": "Hablar con Greinfarr"
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_01",
+      "hash": "4805EBDE2F70EEB8",
+      "target": "Hablar con Marcel en Joyas de Eshtaime"
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_02",
+      "hash": "D31669EA405A6842",
+      "target": "Hablar con F'lhaminn"
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_03",
+      "hash": "BD389D298BF5A620",
+      "target": "Hablar con Severian"
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_04",
+      "hash": "E0743AB3AEC91B2D",
+      "target": "<if([lnum1<lnum2],Sintetizar una botella de luminol <sheet(Addon,9,0)>,Entregar la botella de luminol <sheet(Addon,9,0)> a Popokkuli)>."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_05",
+      "hash": "B902E4D3182ADDA6",
+      "target": "Seguir a Popokkuli"
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_06",
+      "hash": "B4B1C8A0FEB85C50",
+      "target": "Seguir a Popokkuli"
+    },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_001", "hash": "FA903691C221DA7A", "target": "Perdón por la espera, amigo. Gracias a su pequeño regalo, oí de Mumuepo lo que necesitaba. Lo contaré todo en cuanto lleguen unos viejos camaradas míos." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_002", "hash": "3D545F4AA6DE2729", "target": "Estos dos son Popokkuli y Seserukka, los hijos de la Compañía Minera Amajina e Hijos, y viejos amigos míos. Fueron ellos quienes concertaron mi encuentro con Mumuepo." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_003", "hash": "97FEDB3A5E79C3C7", "target": "Antes de contarle lo que Mumuepo dijo del Traspasacorazón, debo hablarle de nuestro crimen: el imperdonable crimen que privó a una joven de una vida feliz." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_004", "hash": "D95B8FF58653C712", "target": "Fue hace quince años. Los dirigentes de Ul'dah se mostraban débiles ante la amenaza garleana. Y así fue como Niellefresne y nosotros albergamos la rebelión en el corazón." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_005", "hash": "34D479F4B18E8BE1", "target": "Un día, con la gente humilde de nuestro lado, pretendíamos llevar al Sindicato una propuesta de guerra temprana y abierta contra el Imperio. Para dar peso a nuestro movimiento, orquestamos un tumulto en pleno centro de la ciudad." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_006", "hash": "02753F4FEA3CB4C7", "target": "Había un festival, un desfile y una bestia, atada y encadenada. El plan era soltarla para poder luego volver a someterla. Greinfarr y Niellefresne se convertirían en héroes del pueblo, y usarían esa influencia para encabezar el levantamiento. Fue... una locurrra." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_007", "hash": "0A4EC7012A986EFC", "target": "Nuestro plan fracasó. Una vez suelto, no hubo modo de dominar al monstruo. Sembró el caos y, al hacerlo, mató al padre de Ascilia, Warburton. Por nuestras manos descarriadas, a aquella niña le fue arrebatada la única familia que le quedaba." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_008", "hash": "E7AF0B3F1EB7E782", "target": "Pero después de aquello la criaste como si fuera tuya. Hiciste cuanto pudiste por enmendar las cosas. No como yo. Yo tomé el camino del cobarde: huí." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_009", "hash": "8C9A1FADAB717AD5", "target": "Por mucho bien que traigan el resto de mis días, jamás deshará aquel día. He de vivir con ello, y lo haré. Cargaré con ese peso por mí, y por Niellefresne." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_010", "hash": "C385B6C5F1B0F163", "target": "Este mal fue nuestro y solo nuestro. No le pediremos ni esperaremos que lo entienda. Basta con que busque el Traspasacorazón por sus propias razones. Pero, allí donde nuestros intereses coincidan, nos gustaría ayudar. Seserukka, cuéntaselo <if(gnum4,a ella,a él)>." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_011", "hash": "9ADAC02C899021BF", "target": "Como espía garleano leal a la Resistencia alamhigana, Warburton se enteró de una amenaza para Ul'dah mucho más temible que el Imperio. Mirando atrás, solo podemos suponer que se trataba de Dalamud, y de lo que albergaba." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_012", "hash": "3EBD266624309A79", "target": "Jamás imaginamos semejante horror. Solo pensábamos en usar la idea de una amenaza para incitar al pueblo a la rebelión, para empujarlo a favorecer la guerra con el Imperio." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_013", "hash": "925536E2ED4806EB", "target": "Pero Warburton murió, y con él todo el conocimiento que tuviera. Así que no pudimos saber a ciencia cierta cuál era la amenaza para Ul'dah. Aun así, Niellefresne no cejó." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_014", "hash": "4807176898FF2F90", "target": "Conspiró con Mumuepo para servirse del Traspasacorazón. Sin duda pretendía revivir a Warburton y oír de sus labios lo que sabía." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_015", "hash": "73CE7B76F662D749", "target": "Pero, antes de que pudiera, el Sindicato tomó cartas en el asunto. Buscaron frenar el levantamiento que ansiaba la guerra con el Imperio, y lo hicieron enviando a los asesinos del Abrazo de la Muerte a matar a Niellefresne." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_016", "hash": "E6AC6B4AF3DA2A46", "target": "Mumuepo dio con sus restos, y lo consideró la ocasión perfecta para probar el Traspasacorazón con sus propios fines. Así fue como Niellefresne se convirtió en su primer... sujeto." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_017", "hash": "1545B9EC86B71E42", "target": "Huelga decir que Niellefresne no se alzó de entre los muertos. Los poderes del Traspasacorazón ya no bastaban para obrar tales milagros." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_018", "hash": "78D20B3B7F0D120A", "target": "Es probable que haya una historia similar tras el cadáver de la joven dama que encontraste. Después de que Mumuepo incurriera en la ira de la sultana y fuera expulsado de la Orden de Nald'thal y encarcelado, el Traspasacorazón fue devuelto a su guardián original: el señor Lolorito." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_019", "hash": "5F9E24EC1C7688A9", "target": "Fue entonces cuando me colé en la hacienda del señor Lolorito y me largué con el Traspasacorazón. Pero, como hemos dicho, sus poderes ya habían menguado." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_020", "hash": "363E289EF2D42CA9", "target": "Juro por los dioses que arrojé el maldito trasto al arroyo de Hollín para acabar con el asunto. Si alguien lo usó de veras con esta muchacha, tuvo que pescarlo de allí." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_021", "hash": "2077F51A0F99D65D", "target": "Más allá de todo poder mágico, el Traspasacorazón vale un buen puñado de gil sencillamente como hoja ornamental. Un verdadero tesoro. Quizá alguien lo encontró en el fondo del arroyo, lo vendió en el mercado, y de ahí fue a parar a alguna mano criminal." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_022", "hash": "5EDDB95A0C858E6E", "target": "Si hay alguna pista que sacar, estará en el mercado. Haríamos bien en preguntar a los tenderos de la ciudad qué saben, pero no puedo interrogarlos a todos yo solo. ¿Me ayudará en esto, amigo?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_023", "hash": "895234A2CDD4663E", "target": "Entonces estoy en deuda con usted. Venga, hablemos de quién visitará qué tiendas una vez estemos fuera de la cámara mortuoria." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_040", "hash": "1236E9BB5B23D187", "target": "Yo me encargaré de la Lonja de la Avenida Zafiro. Seserukka y Popokkuli, vosotros ocupaos de la Lonja del Camino Rubí." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_041", "hash": "62A38D4E63A03B46", "target": "En cuanto a usted, amigo, hágase una visita a Joyas de Eshtaime. Al fin y al cabo, es propiedad del señor Lolorito. Alguien de allí quizá sepa algo del camino que ha seguido desde que salió de sus manos." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_045", "hash": "D3412BC201F77EA6", "target": "¿Piensas ayudarnos, aun después de conocer la cosa tan horrrible que hemos hecho?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_046", "hash": "2CDFB7CE49D621DF", "target": "Encontraremos ese Traspasacorazón. ¡Por Niellefresne!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_047", "hash": "EB1267C3BF78F648", "target": "Nunca pensé que vería el día que nos reuniría de nuevo a los cuatro." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_050", "hash": "34F3BD61BA25675C", "target": "Por las estrellas, si es <split(<string(gstr1)>, ,1)> en persona. ¿Qué le trae hoy hasta nosotros?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_051", "hash": "C1FCC6C9E94C6F8C", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, amigo. ¿En qué puedo ayudarle?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_052", "hash": "344A154A92ED3731", "target": "¿El Traspasacorazón? Vaya, ese es un nombre que no oía desde hace muchas lunas." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_053", "hash": "F321EC0FAE78313E", "target": "Pero puedo asegurarle que el Traspasacorazón jamás fue en el pasado el botín de un ladrón. Aunque, ahora que recuerdo... Sí, sí, en su día lo codició algún que otro rufián amigo de lo ajeno. Sin que él, o ella, lo supiera, sin embargo, la hoja con la que se largó era una falsificación encargada a un talentoso aventurero." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_054", "hash": "4146CE89535C27DE", "target": "El verdadero Traspasacorazón había perdido para entonces cuantos poderes mágicos hubiera tenido. Cuando corrió la voz, su precio en el mercado se desplomó hasta poco más que el de la propia falsificación. Por esa razón se tomó la decisión de vendérselo al mercader Ansobert." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_055", "hash": "245A15348E74DFE5", "target": "Y, aun así, me atrevo a decir que nuestro querido Niellefresne sigue preso en las garras de su maldición. Y pensar que era uno de los nuestros, y uno de los mejores de Eshtaime. Ay, mi pobre Niellefresne..." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_056", "hash": "AFBFDB70B6713580", "target": "<split(<string(gstr1)>, ,1)>, ¿estás ahí?! ¡Por favor, tienes que venir al Frontisterio de Frondale ahora mismo! ¡Algo terrrible le ha ocurrido a Greinfarr!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_MARCEL_000_057", "hash": "B28570026F8E2C51", "target": "Vaya, tiene usted aspecto de que le reclaman en otra parte. Por favor, por favor, no se demore por mí. Si alguna vez necesita cualquier cosa, no dude en volver a preguntar." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_060", "hash": "DB897F5F102637D1", "target": "Es terrrible, <split(<string(gstr1)>, ,1)>. Atacaron a Greinfarr y lo apuñalaron. Me dicen que sus heridas son de gravedad." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_061", "hash": "5D203516E13C2476", "target": "Y parece que él, a su vez, hirió a su agresor. No tenemos ni idea de quién fue, pero contamos con un rastro de sangre que sale de la escena del crimen." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_062", "hash": "CD63ECC47AF59344", "target": "Sin más, seguiríamos el rastro de sangre directo hasta nuestro atacante, pero lo han limpiado a fondo en algunos tramos. De forma bastante deliberada." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_063", "hash": "DAA2B2CF5AF6D039", "target": "Eres alquimista, ¿no es así? Debes preguntarle al gran Severian de tu gremio qué haría él. ¿Con qué alquimia podemos seguir un rastro de sangre que ya no existe?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_064", "hash": "FDA528DF006671F5", "target": "Te esperaremos en el lugar del ataque a Greinfarr. Está en el camino hacia la Calle de la Perla y Gold Court. ¡Tráenos lo que necesitamos!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_065", "hash": "B2612568085D62BF", "target": "Hola, <split(<string(gstr1)>, ,1)>. Habla con F'lhaminn si deseas oír lo que sabemos." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_066", "hash": "D66AC4B32F004000", "target": "¡No se te ocurra morírtenos, Greinfarr!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_070", "hash": "7003C57378F501BB", "target": "¿Que atacaron a un amigo tuyo, dices? Mmm, cuéntame." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_071", "hash": "A32B09E018C0BAAD", "target": "Ya veo. Así que la sangre que quedó es la única prueba con que cuentas en tu esperanza de identificar a este agresor, y se ha atendido a ella de la manera más conveniente y pulcra, dejándote sin poder darle caza. Y por eso has acudido a mí, ¿verdad?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_072", "hash": "EBDB3725C67EDFBC", "target": "Pues bien, hiciste bien en hacerlo. Los laureles alquímicos que he acumulado no carecen de mérito, que conste. Se me conceden precisamente por mi pericia para resolver tales casos con destreza y ligereza. ¿Ha rimado eso? Creo que sí. Al parecer, soy tan gran poeta como científico." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_073", "hash": "868C873042949B5D", "target": "¿Damos comienzo a la clase, entonces? Lección número uno: una vez derramada, la sangre no puede eliminarse por completo de ninguna superficie. Puede parecer que ha desaparecido a simple vista, pero hay componentes químicos de la sangre que permanecen impertérritos." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_074", "hash": "F0000D0DD9B21723", "target": "Y esos componentes pueden hacerse danzar de nuevo ante el ojo mortal mediante un brebaje conocido como luminol. Sirve de catalizador para desencadenar una reacción luminiscente en cualquier derrame sanguíneo. Ven, yo te proporcionaré los ingredientes." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_075", "hash": "C75E4DF2822B39AB", "target": "¿Esto te lo ha pedido Popokkuli de Amajina e Hijos? Un cliente de valía, sin duda. Mejor no hacerlo esperar. Entrégale el luminol con toda premura, antes de que sea tarde y tu criminal esté demasiado lejos." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_076", "hash": "124950945CDEEA91", "target": "Me atrevo a decir que este caso te acerca cada vez más a las llamas de la verdad. Pero ten cuidado, no sea que las llamas te quemen al aproximarte. No consentiré que te ocurra nada cuando aún te queda tanto trabajo por hacer aquí." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_077", "hash": "B71E11398C0DF3C4", "target": "Tengo aquí suficientes ingredientes de luminol para soportar tus torpes fracasos durante días. Solo asegúrate de que, si acaso lo logras al fin, le lleves el mejunje a Popokkuli sin demora." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEVERIAN_000_078", "hash": "A15FF9F5F29BF956", "target": "Veo que has preparado una botella de luminol. Un buen trabajo. Ahora, deprisa, llévasela a Popokkuli mientras aún hay tiempo." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_080", "hash": "95D490C61A3EC96B", "target": "Este es el lugar donde atacaron a Greinfarr. Ohhh, no veo la hora de atrapar a quien lo hiciera. Voy a hacerle cosas a esta persona. Cosas indecibles..." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_085", "hash": "C9C977E4D96F6B5F", "target": "Te hemos pedido una tarea, y hemos preparado una recompensa. Cumple la una, y la otra será tuya." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_FLHAMINN_000_090", "hash": "78EDA165B5B560CE", "target": "Greinfarr..." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_110", "hash": "4F6A537A12AFFF3A", "target": "¿Has traído lo que pedimos? Entonces no perdamos más tiempo." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_111", "hash": "BADE2593BA3464BC", "target": "¡Mira, ahí! Donde borraron el rastro de sangre. ¡Resplandece! Y conduce hacia la Lonja de la Avenida Zafiro." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_112", "hash": "15EFD414D5ACC429", "target": "¡Empieza la persecución!" },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_100_112",
+      "hash": "53D9EAAD6C26C106",
+      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el norte."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_200_112",
+      "hash": "4018936CE38C8C79",
+      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el nordeste."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_300_112",
+      "hash": "D5C360EFC4A3BB05",
+      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el Mercado de la Avenida Zafiro."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_400_112",
+      "hash": "A185BE7565DADA5D",
+      "target": "El rastro de sangre brilla con un azul astral y serpentea por la zona. Parece como si el atacante hubiera estado buscando algo aquí."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_500_112",
+      "hash": "B92352E787E5D800",
+      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el sur."
+    },
+    {
+      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_600_112",
+      "hash": "B60CE242EC138151",
+      "target": "El rastro de sangre brilla con un azul astral e indica un paso más lento. Quizá el refugio del atacante esté cerca."
+    },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_114", "hash": "453FB4F9F862C63B", "target": "¿Tienes lo que pedimos? ¡Bien! ¡Entrégaselo a mi hermano de inmediato!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_120", "hash": "FB9D684C404C48DF", "target": "¡Tenemos una pista, <split(<string(gstr1)>, ,1)>! ¡Este mercader dice haber visto a un tipo de aspecto turbio con una herida abierta!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_DRUGSTORE02439_000_121", "hash": "8172AC97FAB7FF7F", "target": "Así es. Le manaba sangre de un tajo en la mano. Le dije que fuera al Frontisterio a que lo curaran, pero se limitó a comprar un ungüento para la herida y se largó hacia la Puerta de Thal." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_122", "hash": "1863370557AAC87C", "target": "¡Sigámoslo, pues! Vamos, <split(<string(gstr1)>, ,1)>. ¡Contigo y tu magia líquida, husmearemos a ese perro vaya donde vaya!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_125", "hash": "23D6F6A8E838718F", "target": "Esa poción que preparaste es de veras algo digno de ver. ¡Jamás habría creído que un simple líquido nos permitiría ver las mismísimas pisadas de un criminal en fuga!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_130", "hash": "BB23DCF85A088B08", "target": "Ahí estás, <split(<string(gstr1)>, ,1)>. Gracias a ese brebaje tuyo, creo que hemos dado con la guarida de nuestro atacante. Parece ser este almacén alquilado." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_131", "hash": "704EC988BC57D95B", "target": "He hablado con el encargado de aquí. Dice que este almacén lo tiene alquilado un mercader llamado Ansobert. ¿Te suena ese nombre?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_132", "hash": "612972D0697646E1", "target": "¿¡Qué!? ¿¡Es el mismo mercader que compró el Traspasacorazón en Joyas de Eshtaime!?" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_133", "hash": "44D6BD10E5C30069", "target": "Eso solo podría significar que atacaron a Greinfarr para estorbar nuestra investigación de estos cadáveres. Ohhh, ahora sí que me estoy enfadando." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_134", "hash": "93EB9F9D2B0B9A07", "target": "Gracias a que este chucho echó a correr, hemos podido agarrarlo por el rabo. Ahora solo queda atraparlo." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_135", "hash": "2078974548E18AAA", "target": "Seserukka, avisa a las Espadas de Latón. Yo me quedaré apostado aquí para asegurarme de que nadie se escabulle." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_136", "hash": "E05898D499395B2C", "target": "¡Dalo por hecho!" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_137", "hash": "695269CF1BFFEC32", "target": "Y tú, <split(<string(gstr1)>, ,1)>, descansa un poco. Podríamos vernos en una guerra de desgaste si nuestra presa se queda en su madriguera." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_140", "hash": "530BF70D1ED4A6FD", "target": "Ya no queda a dónde huir. ¡Acabaremos contigo!" }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "warp/WarpInnUldah",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_1", "hash": "A408F68CBFD76D62", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, aventurero. ¿Busca alojamiento en el Reloj de Arena?" },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_2", "hash": "BF59B595AC0455F6", "target": "Disculpe, ¿cómo era su nombre? ¿<string(gstr1)>? Mmm... La señora Momodi no me ha comentado nada al respecto. Por desgracia, sin su permiso expreso, no puedo permitirle alojarse." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_00061_Q1_000_1", "hash": "9A533B8F42CD22A7", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A1_000_1", "hash": "4D2199810991615F", "target": "Preguntar por el Reloj de Arena." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A1_000_2", "hash": "B47CE68BBA5FA86E", "target": "Nada." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_3", "hash": "83ACF65FC9279790", "target": "El Reloj de Arena no es sino la posada más famosa de la Franja de los Mercaderes." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_4", "hash": "C2F0B169B9C3697E", "target": "Tenemos alojamientos para satisfacer los gustos de cada cliente, desde suntuosas suites hasta sencillas habitaciones." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_5", "hash": "1BAACC9B86E96DDC", "target": "De ser otras las circunstancias, con gusto lo invitaría a hacer uso de nuestras instalaciones. Sin embargo, hemos tenido que aplicar ciertas normas a raíz de la Calamidad y los sinsabores que la siguieron. Solo pueden alojarse quienes han demostrado ser dignos de confianza." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_6", "hash": "4EBA0DC7917D4CC0", "target": "Si la señora Momodi lo considera una de esas personas, podrá disfrutar de nuestra hospitalidad cuando guste." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_10", "hash": "FFDB63AB289472A3", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, aventurero. ¿En qué puedo servirle?" },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_Q2_000_1", "hash": "301CD8011DFAAE14", "target": "¿Qué desea hacer?" },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A2_000_1", "hash": "B5A8D5D37CA537FB", "target": "Retirarse a una habitación de posada." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A2_000_3", "hash": "33A01650725C77B2", "target": "Preguntar por las normas de la posada." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A2_000_4", "hash": "57B0F212880640F1", "target": "Preguntar por el Reloj de Arena." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_A2_000_5", "hash": "8D5A43F8971BC73F", "target": "Nada." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_11", "hash": "34C5C00DAD8FA73A", "target": "Como desee, <if(gnum4,señora,señor)>. Por aquí, por favor." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_17", "hash": "BA820E46076DF765", "target": "Me temo que nuestras instalaciones están destinadas solo al descanso y la relajación, de modo que ciertas actividades quedan expresamente prohibidas." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_18", "hash": "08A97F9239E2E385", "target": "Aunque sea un artesano de renombre, debemos insistir en que se abstenga de ejercer su oficio. El ruido podría molestar a nuestros huéspedes, que desean descansar." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_SYSTEM_000_18", "hash": "B85B7EA9AED314FA", "target": "En las habitaciones de posada no se pueden realizar síntesis, reparaciones ni engarces de materia." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_19", "hash": "85117BCAB0BD8371", "target": "El Reloj de Arena no es sino la posada más famosa de la Franja de los Mercaderes." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_20", "hash": "4DADAB9E37F0BA64", "target": "Tenemos alojamientos para satisfacer los gustos de cada cliente, desde suntuosas suites hasta sencillas habitaciones." },
+    { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_21", "hash": "4AD64BD97B7D9C1A", "target": "A petición de la señora Momodi, puede disfrutar de nuestra hospitalidad cuando guste. Si desea descansar, será un placer acompañarlo a una habitación." }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "conversation": "quest/049/KinGmc104_04900",
+  "questName": "The Feat of Repast",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_SEQ_00", "hash": "7B5BF71CC7BAE2A5", "target": "Los plátanos siguen ocupando por completo la mente de Koana." },
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_TODO_00", "hash": "26B98864EB86341F", "target": "Hablar con Wuk Evu" },
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_TODO_01", "hash": "660703A7D10E39FE", "target": "Hablar con Koana" },
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_TODO_02", "hash": "6B78B39008F7A878", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_TODO_03", "hash": "E8C4EF606BCC0640", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_001",
+      "hash": "89017E37BCA9C4A9",
+      "target": "Espero haber servido lo suficiente a la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_005",
+      "hash": "F82E384DB9871C37",
+      "target": "Gracias a Wuk Evu hemos podido conocer la historia de este bosque."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_010",
+      "hash": "ED09F91439277E60",
+      "target": "Ya van dos veces que nos echa una mano. Y pensar que quizá nunca lo habríamos conocido si no se nos hubiera ocurrido arreglar el palanquín..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_015",
+      "hash": "A26DC7AF7371B6AB",
+      "target": "Wuk Evu nos ha dado una idea valiosa de los orígenes del xibruq pibil."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_016",
+      "hash": "A65AB8A941F6D3D8",
+      "target": "Sin embargo, seguimos igual de lejos de conseguir las hojas de najool necesarias. A menos que..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_017",
+      "hash": "FD7619AF686E7573",
+      "target": "Decidme─¿aquel banquete histórico se conmemoró de algún modo? ¿Con un monumento, por ejemplo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_018",
+      "hash": "2D8705EB07E780EF",
+      "target": "Así fue, en efecto. Permitidme mostrároslo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_100_018",
+      "hash": "4E018B66DBD3F70B",
+      "target": "Es solo una conjetura, pero me atrevo a esperar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_100_019",
+      "hash": "7DC0337D42D29959",
+      "target": "¿Qué querrá Koana con un monumento?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_100_019",
+      "hash": "12F47960DE230C81",
+      "target": "Aquí está."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_019",
+      "hash": "48038D11742D4EC6",
+      "target": "Ofrendadas por ambos bandos, estas armas simbolizan su juramento de no volver a alzarlas jamás el uno contra el otro."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_020",
+      "hash": "B59D1A133ED3E883",
+      "target": "Puesto que esta prueba exige un viaje por la historia, me pareció lógico que un monumento así pudiera orientarnos bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_100_020",
+      "hash": "CC7E956B5F2D223B",
+      "target": "Sobre todo uno situado en el corazón de un campo de batalla tan señalado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_021",
+      "hash": "2672D0D905A98E3F",
+      "target": "Lamaty'i, <split(<string(gstr1)>, ,1)>─¿me ayudáis a buscar pistas por la zona? Decidme si algo os llama la atención."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_022",
+      "hash": "526F706AFD676C1E",
+      "target": "¡Marchando!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_100_022",
+      "hash": "80B6605E6062CFE2",
+      "target": "Mirad aquí─esta tierra se ha removido hace poco."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_023",
+      "hash": "50F1C984D09D0652",
+      "target": "¡Ooooh, alguien ha enterrado una caja!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_024",
+      "hash": "02C3840E9E85F430",
+      "target": "Vaya, vaya... Me habría dado por satisfecho con encontrar solo una pista, y aquí están─hojas de najool frescas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_100_024",
+      "hash": "BE350529AB4A57CE",
+      "target": "Obra de Hunmu Rruk, apostaría. Tiene su poesía esconderlas en este campo de batalla, siendo como fue el centro de la guerra que ayudaron a terminar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_027",
+      "hash": "E497481A0BC16A4D",
+      "target": "¡Je! ¡Así que lo tenía todo planeado desde el principio!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_028",
+      "hash": "71FE17BBF274C528",
+      "target": "Gracias otra vez, Wuk Evu. No habríamos encontrado estas hojas sin tu ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_029",
+      "hash": "3A1E6F4FAA06E6E8",
+      "target": "Ha sido un honor prestar ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_030",
+      "hash": "AA92791225DB5FB5",
+      "target": "Y, con perdón de los presentes, permitidme daros ánimos también, Tercera Promesa. Desde que os vi actuar en la Prueba de los Juncos, tengo la certeza de que sois <italic(1)>vos<italic(0)> la aspirante más digna de guiar nuestra nación."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_031",
+      "hash": "CD80CADF63605676",
+      "target": "Todos idearon soluciones para los cultivos enfermos de los Hanuhanu, pero solo vos quisisteis conocer su cultura y recuperar Ihih'hana, aunque pareciera ajeno a vuestra tarea."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_032",
+      "hash": "EBD744019918E2DE",
+      "target": "En mi humilde opinión, nadie se preocupa más por la gente de Tuliyollal y por lo que ellos aprecian."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_033",
+      "hash": "A5D75C42121E8D91",
+      "target": "Si volvéis a necesitar las cavilaciones históricas de un viejo carpintero de ribera, estoy siempre a vuestro servicio."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKEVU_000_034",
+      "hash": "73CBE1054B2FC44B",
+      "target": "Por ahora, me despido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_035",
+      "hash": "8793A5F606A068CF",
+      "target": "No puedo discutirlo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_036",
+      "hash": "1CED75278315D03F",
+      "target": "...Tenemos lo que necesitamos. Volvamos a Iq Br'aax."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_040",
+      "hash": "8E233A1D5556FA54",
+      "target": "Uno se pregunta si Wuk Evu no será en realidad historiador en vez de carpintero de ribera."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_045",
+      "hash": "633D36C53B45EA9F",
+      "target": "Me alegra que lo hayamos conseguido. Imagino que los demás no tardarán en volver."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_046",
+      "hash": "0ECC2E41D7C0B42E",
+      "target": "Eso espero─¡estoy muerta de hambre!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_050",
+      "hash": "5FC314A27ECC2D8A",
+      "target": "¿Cómo os ha ido a todos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_051",
+      "hash": "D0760BE241B51009",
+      "target": "¡Tenemos las hojas de najool! ¡Apareció Wuk Evu y nos ayudó a encontrarlas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_000_052",
+      "hash": "4089C12A17C73058",
+      "target": "¿Estaba Wuk Evu aquí? Me habría gustado saludarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_053",
+      "hash": "9240C613A1AF597B",
+      "target": "Sí, nos dio una lección de historia importante..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALPHINAUD_000_054",
+      "hash": "03EC2620DA5B098F",
+      "target": "Que Gulool Ja Ja pusiera fin a siglos de guerra me sorprende poco─pero que lograra esa paz a través de la cocina ya es otra cosa muy distinta."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_055",
+      "hash": "3FF1FA904D9F26E5",
+      "target": "Cómo no, mi viejo siempre con las soluciones más raras. ¿Y vosotros qué? ¿Está lista la cocina?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_000_056",
+      "hash": "0870FE535E0CC508",
+      "target": "Todo debería estar en orden. Urianger y yo dimos otra vuelta por el poblado y tomamos prestados los utensilios de cocina que necesitamos─sin mencionar <italic(1)>para qué<italic(0)> los necesitábamos, claro."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALPHINAUD_000_057",
+      "hash": "6F228540ED58F5F7",
+      "target": "Y me complace informar de que estamos abastecidos con la mejor leña que ofrecía este bosque."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALISAIE_000_058",
+      "hash": "2253AE0536A584AE",
+      "target": "Hablas como un auténtico experto."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALISAIE_000_059",
+      "hash": "F7B88BFC74D85315",
+      "target": "Erenville y yo encontramos nuestro ibruq, así que carne no ha de faltarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ERENVILLE_000_060",
+      "hash": "78B0E1B52A2A528A",
+      "target": "Era una criatura briosa. Tanto que su cazadora se cayó por un cenote intentando atraparla..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALISAIE_000_061",
+      "hash": "D839C0EEFF683F79",
+      "target": "¿¡Qué parte de “no se lo cuentes a nadie” no has entendido!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_THANCRED_000_062",
+      "hash": "B7B72F05344C5165",
+      "target": "He recogido una buena cantidad de hierbas del lugar, con especial atención a las semillas que dan el achiote. Me dicen que nuestro astrólogo de cabecera ha adivinado también las medidas apropiadas del aliño."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_URIANGER_100_062",
+      "hash": "E790E95620E7D4EB",
+      "target": "Así es. Mediante ulterior indagación determiné el equilibrio ideal de las especias."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KOANA_000_063",
+      "hash": "83AC5642E6768C9C",
+      "target": "Entonces solo queda preparar el plato en sí. Presumo que al menos uno de nosotros estará versado en las artes culinarias, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_000_064",
+      "hash": "6866202EF4B792E4",
+      "target": "No puedo presumir de gran destreza, pero he cocinado para mí misma. Podéis dejarme el resto a mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_100_064",
+      "hash": "22609285E6B43CB4",
+      "target": "Y tú también, espero. Si mal no recuerdo, eres <if(gnum4,una cocinera consumada,un cocinero consumado)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_200_064",
+      "hash": "34572D202ACA64EC",
+      "target": "Y tú también, espero. Me vendría bien tu temple de aventura a la hora de despellejar el ibruq."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_065",
+      "hash": "F31F11C3142E4788",
+      "target": "¡Ooooh, ya se me hace la boca agua!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_000_066",
+      "hash": "BA2ACBE49C1804DC",
+      "target": "¡Sin más demora, entonces!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_KRILE_000_070",
+      "hash": "77F0EBC9CC0A0492",
+      "target": "Me alivia que nuestro plato gustara."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ERENVILLE_000_075",
+      "hash": "37F5D9CF2AC2F3CA",
+      "target": "Queda una última prueba. Después de esta, ya no sé ni qué esperar."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALPHINAUD_000_080",
+      "hash": "84E8161FAD2FB77A",
+      "target": "Privar a la Primera Promesa de una piedra clave es, desde luego, una victoria crucial."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_ALISAIE_000_085",
+      "hash": "D43569504550010B",
+      "target": "Tenemos que empezar a pensar cómo recuperarle esa piedra clave a Bakool Ja Ja..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_090",
+      "hash": "216DB97588D24A13",
+      "target": "¡Estaba buenísimoooo! Ya tengo ganas de volver a comer xibruq pibil."
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_091",
+      "hash": "D84D56C686E2E319",
+      "target": "Toma, <split(<string(gstr1)>, ,1)>. Krile hizo más con los ingredientes que sobraron. ¡Te va a encantar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_WUKLAMAT_000_092",
+      "hash": "681E138C75918031",
+      "target": "Yo estoy pensando en comprar más para el camino. Ahora que la Prueba del Festín ha terminado, los del poblado deberían poder ofrecérnoslo, ¿no?"
+    },
+    { "gameKey": "quest/049/KinGmc104_04900#TEXT_KINGMC104_04900_SYSTEM_000_093", "hash": "454BFD6238A80753", "target": "El mercader Xbr'aal de Iq Br'aax tiene nuevos artículos a la venta." }
+  ]
+}

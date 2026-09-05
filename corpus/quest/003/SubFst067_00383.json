@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/003/SubFst067_00383",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_00", "hash": "F0FEB53A6BB11F5D", "target": "Finnea tiene trabajo para algún aventurero entrometido." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_01", "hash": "6FD41A3DBFE5525E", "target": "Aunque a Finnea le importan poco los aventureros de Gridania, está dispuesta a remitirte a alguien que quizá necesite tus servicios. Busca a Balarr, el guarda del Tam<-->Tara Deepcroft." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_02", "hash": "5B6B6190BA142B78", "target": "Balarr se alegra, en efecto, de recibirte, y te pide que hagas ofrendas para apaciguar los espíritus de los enterrados en el Deepcroft. Deposita los Nymeia lilies en lo alto de cada túmulo." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_03", "hash": "F71AF681769FFD84", "target": "Depositas respetuosamente los lirios en cada túmulo. Vuelve con Balarr y hazle saber que la tarea está completada." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_SEQ_04", "hash": "D925D5A035FBA0A4", "target": "Balarr te agradece que lo hayas ayudado a apaciguar las inquietas almas de los muertos de Gridania. Sin embargo, está por ver cuán eficaz será tu gesto..." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_00", "hash": "035312254F9401FD", "target": "Hablar con Balarr" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_01", "hash": "DE0C23F8940DFFAA", "target": "Depositar los Nymeia lilies en lo alto de los túmulos" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_TODO_02", "hash": "1361888CC8B163EA", "target": "Informar a Balarr" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_1", "hash": "C9EE5E06B6687F25", "target": "¿<if(gnum4,Otra maldita aventurera,Otro maldito aventurero)> con ganas de meter las narices en los asuntos de todos? Entonces busque al guarda del Tam<-->Tara Deepcroft." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_2", "hash": "E7760DB5AA36561C", "target": "Lo encontrará en una choza junto a la entrada; al ermitaño le encanta vivir cerca de su trabajo." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_FINNEA_000_3", "hash": "5B7AF68933043B96", "target": "La última vez que patrullé esa zona, lo oía maldecir dentro de su choza desde el camino. No sé qué le molesta al hombre, pero sospecho que agradecerá su presencia más que yo." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_11", "hash": "1756232C1455BC38", "target": "¿Busca algo de trabajo? Sí, tengo una tarea que hacer. Tome estos lirios de Nymeia y déjelos en lo alto de cada túmulo." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_12", "hash": "FDA5F1C126666790", "target": "Sin duda habrá visto los huesos devueltos a la vida por <italic(1)>viles<italic(0)> hechizos, arrastrándose por ahí y hostigando a sus compañeros supervivientes. Me duele en el <italic(1)>alma<italic(0)> verlo, <if(gnum4,aventurera,aventurero)>... ¡no puedo tolerar semejante <italic(1)>blasfemia<italic(0)>!" },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_13", "hash": "14C9769D40B9318D", "target": "Confío en que estos lirios apacigüen sus espíritus y los ayuden a volver al seno de la Matrona. Véame cuando haya terminado." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_21", "hash": "72096CE02C0D3CD9", "target": "Ha hecho una obra sagrada <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>, <if(gnum4,muchacha,muchacho)>." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_22", "hash": "64AD7AAA474BC54E", "target": "No alcanzo a comprender qué podría llevar a los muertos a alzarse y buscar hacernos daño, pero rezo por que esto ayude a ponerle fin." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_BALARR_000_23", "hash": "8F0B41377BB47C22", "target": "Que la Matrona vele por usted y <if(gnum4,la,lo)> mantenga a salvo." },
+    { "gameKey": "quest/003/SubFst067_00383#TEXT_SUBFST067_00383_POP_MESSAGE", "hash": "CED2B6DE8757198D", "target": "Una luz espectral te llama la atención..." }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "conversation": "opening/OpeningUldah",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WYMOND_000_10", "hash": "2A5C316581CE46DA", "target": "¡No te pongas así, amigo! ¡Te prometo que merecerá la pena!" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_TUTUMOKO_000_10", "hash": "D8125B61818DEE05", "target": "¿No te gusta Ul'dah, forastero? ¿Por qué no disfrutas de la hospitalidad de Quicksand antes de decidir que nos dejas?" },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_BUBUKKULI_000_05", "hash": "AF9C34872AEE4A46", "target": "¡Alto! Aún no te has unido al gremio, ¿verdad? Ya me parecía. Ve a Quicksand, aventurero: inscribirse es obligatorio." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_YUYUTAZI_000_10", "hash": "33DA039823399665", "target": "Oye, ¿no venías en el carruaje que acaba de llegar? Todo aventurero recién llegado tiene que inscribirse en el gremio antes de andar suelto por la ciudad." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_20", "hash": "E86CA3A1D168BC00", "target": "Bienvenido a Ul'dah, faro reluciente de prosperidad alzado sobre los desiertos de Thanalan." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_21", "hash": "8CAA87B68658ADAB", "target": "Sigue las instrucciones para mover a tu personaje y ajustar la posición de la cámara." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_WIL_SYSTEM_000_22", "hash": "C58246B33E85D61A", "target": "Cuando estés listo para continuar, habla con Wymond." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_000_23", "hash": "71928367B2440DE2", "target": "Selecciona el modo de control que quieras usar." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_Q_01", "hash": "361F61A12A1BCADE", "target": "Selecciona un modo de control." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_01", "hash": "5AB63CA164818077", "target": "Ratón y teclado." },
+    { "gameKey": "opening/OpeningUldah#TEXT_OPENINGULDAH_FST_SYSTEM_A_02", "hash": "7EBB6528D92BFF35", "target": "<if([gnum75>1],Mando,Gamepad)>." }
+  ]
+}

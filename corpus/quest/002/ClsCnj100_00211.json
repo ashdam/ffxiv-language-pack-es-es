@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/002/ClsCnj100_00211",
+  "questName": "Way of the Conjurer",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_00", "hash": "A0F3CD58FFBADEF7", "target": "El hermano E<-->Sumi<-->Yan desea encomendarte tu primera tarea como <if(gnum4,conjuradora,conjurador)> del Santuario del Claro Sereno." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_01", "hash": "DE584871188A7807", "target": "El hermano E<-->Sumi<-->Yan te pide que ayudes a la recuperación de la Selva de los Doce purgándola de tres ardillas, tres mariquitas y tres funguars." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_02", "hash": "087FC4289FE0AA43", "target": "Has logrado abatir a las criaturas indicadas. Informa al hermano E<-->Sumi<-->Yan en el Gremio de Conjuradores." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SEQ_03", "hash": "BC70B800D88A9AC2", "target": "El hermano E<-->Sumi<-->Yan te explica que los conjuradores canalizan el poder de la naturaleza para provocar cambios. Con esta lección aprendida, te dispones a habituarte a estar en comunión con las fuerzas que te rodean.<br><br>※La próxima misión de conjurador estará disponible con E<-->Sumi<-->Yan al alcanzar el nivel 5." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_00", "hash": "A652CE2F3E0D3184", "target": "Abatir ground squirrels como <if(gnum4,conjuradora,conjurador)>" },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_01", "hash": "95E25210D7340027", "target": "Abatir little ladybugs como <if(gnum4,conjuradora,conjurador)>" },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_02", "hash": "6E2854AADB41E548", "target": "Abatir forest funguars como <if(gnum4,conjuradora,conjurador)>" },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_TODO_03", "hash": "4DBA44C0A5690402", "target": "Informar al hermano E<-->Sumi<-->Yan en el Gremio de Conjuradores" },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_1", "hash": "C07CE05799380C49", "target": "El papel de conjurador le sienta bien, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_2", "hash": "75D4D47B6BB49B4C", "target": "Sin más dilación, le asignaré su primera tarea como <if(gnum4,conjuradora,conjurador)> del Santuario del Claro Sereno." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_3", "hash": "37C682C0234AACEF", "target": "Justo pasadas las puertas de la ciudad encontrará ardillas, mariquitas y funguars. Quiero que abata tres de cada." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_4", "hash": "6F9C9BE447183245", "target": "No vaya a preguntarse cómo puedo ordenar tan fríamente quitar una vida: sepa que las cosas ya no son como eran. A consecuencia de la Calamidad ─y, debo añadir, sin culpa alguna por su parte─, estas criaturas se han vuelto una carga para la Selva de los Doce. Una carga que a duras penas puede soportar." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_5", "hash": "C3A17FC2BECE23C0", "target": "Como conjurador, es su deber cumplir la voluntad del bosque. Y, al emplear sus poderes en ello, aprenderá algo sobre su arte." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_6", "hash": "E7B20C7A49C43BF8", "target": "Vaya ahora, <split(<string(gstr1)>, ,1)>, y lleve a cabo su primera tarea en nombre de los elementales." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_10", "hash": "9A6546D32EFA11A7", "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. Los elementales me han hablado de su éxito." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_11", "hash": "6CEE67ED42B3F8EE", "target": "Al situarse en medio de la naturaleza y contemplarla con ojos de conjurador, ha dado su primer paso por la senda hacia la iluminación." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_12", "hash": "3D67BB3EC3238DF3", "target": "Sanación, protección y destrucción... Aunque nuestros conjuros varían en su función, todos extraen su poder de la misma fuente: las fuerzas encarnadas en toda la creación." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_13", "hash": "472638E878979A07", "target": "Al alcanzar una verdadera comprensión de estas, el conjurador puede recurrir a ellas para manipular su entorno, dando así forma al estado de las cosas que desea." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_14", "hash": "042656E18128B401", "target": "Ah, sí... esa mirada me resulta familiar: ¡el vivo retrato de la confusión! No se desanime, pues la comprensión llegará a su debido tiempo." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_15", "hash": "B3F69A0F64687524", "target": "Por ahora, debe aprender a tender la mano a las fuerzas que habitan en cada uno de nosotros. Le ruego que atienda mis instrucciones." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_16", "hash": "D72A1CA8824961B7", "target": "Respire hondo y abra los ojos a lo que no puede verse. Sienta la miríada de vida a su alrededor y beba de este inagotable manantial de energía. Empuñe su bastón y úselo para dar forma a esa energía." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_ESUMIYAN_000_17", "hash": "B090F8B567C318CA", "target": "Adelante, mi joven conjurador, y hágase uno con el mundo. Vuelva a mí cuando haya aprendido a recurrir a las fuerzas que le rodean con la misma soltura con que recurre a las que lleva dentro." },
+    { "gameKey": "quest/002/ClsCnj100_00211#TEXT_CLSCNJ100_00211_SYSTEM_000_20", "hash": "77E3157EAFC4087D", "target": "La próxima misión de conjurador estará disponible con E<-->Sumi<-->Yan al alcanzar el nivel 5." }
+  ]
+}

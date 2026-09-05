@@ -1,0 +1,551 @@
+{
+  "conversation": "quest/049/KinGmf107_04952",
+  "questName": "A Knight of Alexandria",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_00", "hash": "4A71E3201AEE6E8F", "target": "Wuk Lamat está deseosa de ir tras Otis." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_01", "hash": "0A923C395551B43F", "target": "Tras haberse topado con una encarnación Perpetua de Ser Otis Velona en la Tierra de Ayer, Wuk Lamat está deseosa de seguir hablando con él. Así pues, partís hacia la estación de aerotaxis, adonde parecía dirigirse." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_02", "hash": "973600181C23E57D", "target": "Encuentras a Otis ensayando los diálogos de la próxima obra de la Celebración de la Fundación, que narra el nacimiento del reino. El caballero revela que, al haber menos Perpetuos, se ha vuelto difícil reunir público. Con ese fin, os encarga a ti y a Wuk Lamat que difundáis la noticia de la representación entre los pequeños de la Tierra de Ayer, para lo cual os proporcionará unos disfraces de animales del agrado de los niños." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_03", "hash": "EA0F31820752A2C5", "target": "Te pones el disfraz y adoptas la apariencia de un simpático conejo. Siguiendo las instrucciones de Otis, diriges tu atención a los niños en las inmediaciones de la estación de aerotaxis.<br><br>※Debes llevar puesto el disfraz que te proporcionó Otis para completar esta tarea. Habla de nuevo con él para prolongar o restaurar la apariencia." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_04", "hash": "1885A49D46083C9F", "target": "Has hablado de la obra a un buen número de niños. Con la tarea bien hecha, regresas junto a Otis." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_05", "hash": "A966C9B490EE442D", "target": "Tras agradeceros la promoción de la representación, Otis os pide ahora que interpretéis un duelo en ella. Aunque Wuk Lamat se muestra reticente al principio, tu entusiasmo la convence y, juntos, os dirigís a Proto Alexandria para prepararos." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_06", "hash": "A758648538D36EBC", "target": "Por fin comienza la obra y representáis vuestros papeles con aplomo. Pero cuando Otis sube al escenario para el suyo, lo asaltan los recuerdos de no haber logrado proteger a su reina y se queda paralizado. Por fortuna, la función se salva cuando Wuk Lamat se lanza a una inspirada improvisación que lleva el relato a una conclusión satisfactoria.<br><br>Después, cuando por fin logras un momento a solas con Otis, le revelas que en realidad sois personas vivas. Respondiendo a sus preguntas, le cuentas que Alexandria perdura y que su otro yo sirvió al reino con valentía. Reconfortado por esta noticia, el caballero declara que ya puede descansar en paz, y su recién hallado sosiego te reconforta a su vez mientras avanzáis hacia el Geoterminal." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_07", "hash": "95B4C12EDFDBC95D", "target": "Wuk Lamat apaga el terminal, con lo que los Perpetuos de la Tierra de Ayer se desvanecen. Su tiempo aquí le ha hecho comprender cuánto amaban a Sphene los suyos y cuánto anhelaban la paz, y jura llevarlo todo consigo." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SEQ_08", "hash": "DF58CCFC9E15C9F1", "target": "Borrar a los Perpetuos está resultando una tarea tan difícil como habías imaginado. Pero mientras alguien los recuerde, nunca se desvanecerán del todo..." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_00", "hash": "2A0A6868035CB297", "target": "Buscar a Otis" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_01", "hash": "28E05E31CBF1206D", "target": "Hablar con Otis" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_02", "hash": "9EA6A30DE375C744", "target": "Hablar con los niños con el disfraz puesto" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_03", "hash": "19BDE45EF3B6D0B7", "target": "Hablar con Otis" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_04", "hash": "E42B7BF96ADB3E3E", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_05", "hash": "058A82BEA09C2719", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_TODO_06", "hash": "E3F9A47C1DBE4118", "target": "Volver a hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_001",
+      "hash": "DB3EAFB8A7E3ABB9",
+      "target": "Venga, vamos a por Otis. Seguro que sabe cosas del pasado─de la vieja Alexandria y también de Sphene cuando era una persona viva."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_002",
+      "hash": "0F12D8E736E6AAFD",
+      "target": "El problema es que no parece de humor para hablar... Quizá podamos ofrecerle ayuda con esa Fiesta de la Fundación─a lo mejor así se ablanda."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_003",
+      "hash": "EB6076C615AC546D",
+      "target": "Se ha ido por aquí. ¡Vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_010",
+      "hash": "7FB38426091BB41B",
+      "target": "“¿Estáis herida?”... ¿o “¿<italic(1)>No<italic(0)> estáis herida?”? Mmm, lo segundo, creo yo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_011",
+      "hash": "956B3820164B7D4A",
+      "target": "A lo que Su Alteza responde con su encantadora sonrisa..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_012",
+      "hash": "BED3C5E9C3C7A4A8",
+      "target": "“¡Gracias a ti, mi queridísimo Otis!”"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_013",
+      "hash": "65E6540A32FBF6AA",
+      "target": "¿¡O-Otra vez vos!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_Q1_000_000",
+      "hash": "C79254752B824D8D",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_A1_000_001",
+      "hash": "7CD293D61CD9E0D9",
+      "target": "Perdona, no pretendía interrumpir tu ensayo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_A1_000_002",
+      "hash": "86A24DDA717F3319",
+      "target": "¿Quieres que haga yo de reina?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_015",
+      "hash": "6A83A41725A4F49E",
+      "target": "No pasa nada; para la función no tendré problemas con las frases. ¡Al fin y al cabo, el guion es obra mía!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_016",
+      "hash": "FA6D1E08A30D4B9E",
+      "target": "Os agradezco el ofrecimiento, pero no hace falta. El guion es obra mía, ¿sabéis?, ¡y me sé las frases de la princesa Sphene mejor que las mías!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_017",
+      "hash": "1CD5F0E9B1EC7E06",
+      "target": "Hay, no obstante, una escena que se me resiste..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_018",
+      "hash": "A88C3083023E5777",
+      "target": "¡Eh, esto tiene buena pinta! ¿Puedo apuntarme?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_019",
+      "hash": "0F86A92F95B1E935",
+      "target": "Hmpf, ¿vos también? ¡Creía haber dicho que estaba ocupado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_020",
+      "hash": "B4528D1ACA29695A",
+      "target": "Sí, pero pensamos que a lo mejor podíamos echar una mano. Estás preparando la Fiesta de la Fundación, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_021",
+      "hash": "F9AA9C7817183EDC",
+      "target": "Así es... Y, a decir verdad, necesitamos ayuda desesperadamente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_022",
+      "hash": "2646A614EF6E00EB",
+      "target": "Para esta edición de la fiesta habrá una obra de teatro sobre la historia de nuestro reino, para deleite de los niños."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_023",
+      "hash": "F1CA36A681C9079D",
+      "target": "Pero, como cada vez tomamos forma menos de nosotros, no hay manos suficientes para sacar adelante la producción. Así que se me ha encomendado no solo escribir el guion, sino además interpretarme a mí mismo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_024",
+      "hash": "74087EC713A085AA",
+      "target": "Tranquilo, no pasa nada. De verdad que nos alegra ayudar en lo que sea. Tú dinos qué hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_025",
+      "hash": "EB26FCD8BACC9971",
+      "target": "Por ese mismo motivo escasea también el público. Os quedaría muy agradecido si corrierais la voz sobre la obra entre los niños de Tierra de Ayer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_026",
+      "hash": "7F1BC515BAC9D712",
+      "target": "¡Dalo por hecho! Nos daremos una vuelta y hablaremos con los pequeños."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_027",
+      "hash": "CAD02907A46E85F6",
+      "target": "¡Espléndido! Ah, y para atraerlos mejor, tenemos unos disfraces de animales adorables que llevaréis puestos─¡con vuestra actitud más alegre, por supuesto!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_028",
+      "hash": "44E5A83F4B154C4B",
+      "target": "V-Vale. ¡Lo que sea con tal de hacer felices a los niños!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_029",
+      "hash": "8C2CD6679EFF44D6",
+      "target": "Veamos... Ah, sí, este os irá bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_030",
+      "hash": "8D70ADBACE417252",
+      "target": "¡Ooooh, es un glamour! ¡Me he quedado descolocada un momento cuando me has dado el aparato!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_031",
+      "hash": "40BAE010BF6FA435",
+      "target": "Para usted también tengo algo pensado. Avíseme cuando esté <if(gnum4,lista,listo)> y lo activaré."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_035",
+      "hash": "35758B5ECD84C675",
+      "target": "Me pregunto cuál te tocará a ti..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_040",
+      "hash": "956026BB52F4F0D1",
+      "target": "¿Ya está <if(gnum4,lista,listo)>? Pues pongámonos el disfraz sin demora."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_041",
+      "hash": "7E2157B564F22B32",
+      "target": "¡Maravilloso! ¡No hay niño que no quede encantado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_042",
+      "hash": "B6E04062385B7E7C",
+      "target": "Je, je, ¡te queda que ni pintado!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_043",
+      "hash": "E1DDA992A7FF9910",
+      "target": "Ahora que vais debidamente ataviados, os ruego que salgáis a promocionar nuestra obra entre los niños. Concentrad los esfuerzos por aquí, cerca de la parada de taxis aéreos, ¡y que sea divertido!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_044",
+      "hash": "B8C0F9EADACC995D",
+      "target": "Mientras tanto, yo seguiré aquí con mis preparativos. Si se os pasa el efecto del disfraz, os daré otro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_050",
+      "hash": "DE52F349DD8DD185",
+      "target": "Ah, veo que se os ha pasado el efecto del disfraz. Tomad, os daré otro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_055",
+      "hash": "C4A4F166E07B8843",
+      "target": "¿Que se os está pasando el efecto del disfraz? Muy bien, os daré otro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_060",
+      "hash": "91F9D995118090B1",
+      "target": "¡Eso es, Ser Otis saldrá en la obra interpretándose a sí mismo! ¡No os lo podéis perder!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYA04952_000_070",
+      "hash": "B576A8F02CE391A5",
+      "target": "¡Aja, un monstruo conejo! ¡Lamentarás el día en que te cruzaste con este caballero real!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYA04952_000_071",
+      "hash": "73D5410D2A25238B",
+      "target": "¿Va a haber una obra? ¿¡Con caballeros y todo eso!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYA04952_000_072",
+      "hash": "03F80BDBACBFE73D",
+      "target": "¡Venga, vamos a verla! ¡El taxi aéreo lo cogemos luego!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYA04952_000_073",
+      "hash": "CD9970D3ED54042D",
+      "target": "Lo siento, <if(gnum4,señorita,señor)>, pero ahora estamos ocupados. Estamos hablando de cazar monstruos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLA04952_000_074",
+      "hash": "EFD64A2F3366F562",
+      "target": "Ah, hola, señor Conejo. ¿Qué pasa?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLA04952_000_075",
+      "hash": "172402FDEB4CAB9D",
+      "target": "Ahhh, la obra. Ya la conozco. A veces hacen funciones allí, en el castillo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLA04952_000_076",
+      "hash": "2E614DDFF12B667E",
+      "target": "Ya la he visto, así que iba a saltármela. Pero, si dices que esta vez es especial, ¡vale! ¡Iré!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLA04952_000_077",
+      "hash": "CDC16BC2F5F22EF6",
+      "target": "Mmm... Ya he visto la obra, así que igual esta vez me la salto..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLB04952_000_078",
+      "hash": "CC687AAF4D55E155",
+      "target": "¡Mira, mira! ¡Un conejo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLB04952_000_079",
+      "hash": "039144CEC9EAD9CC",
+      "target": "¿Qué pasa? ¿Quieres jugar con nosotras?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLB04952_000_080",
+      "hash": "968733E51531FDC7",
+      "target": "¿Va a haber una obra sobre la reina Sphene? ¡Quiero verla, quiero verla!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLB04952_000_081",
+      "hash": "C4D937AEC0ED8F31",
+      "target": "Vamos ahora mismo al castillo. ¡Gracias por avisarnos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLB04952_000_082",
+      "hash": "8A30A2EB971F599F",
+      "target": "...¡Y, cuando mi padre me vio, se pensó que era su madre! ¿A que tiene gracia?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_000_083",
+      "hash": "EFA89A06AC9C68F6",
+      "target": "¿Ah, sí? ¿Tú también has venido a mirar a la reina Sphene, señor Conejo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_000_084",
+      "hash": "40E99E9E1EA3C27A",
+      "target": "Esa estatua dorada tan grande es exactamente como es ella. Me lo dijo mi madre─¡y es científica!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_100_084",
+      "hash": "BC88AC171CEA3060",
+      "target": "Mi madre también me dijo que el terminal es una tumba. Su Majestad debe de velar por todos nosotros desde ahí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_000_085",
+      "hash": "86ED090FE9CD249F",
+      "target": "¿Una obra sobre la fundación del reino? ¡Me encanta la historia, suena genial!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_000_086",
+      "hash": "DEA610E494A909E0",
+      "target": "Se lo diré a mi madre para que vayamos a verla juntas. ¡Gracias, señor Conejo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSGIRLC04952_000_087",
+      "hash": "FFB6C9A60493C1EA",
+      "target": "Mi madre dice que la reina Sphene es muy simpática. Ojalá pueda conocerla algún día."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYC04952_000_088",
+      "hash": "3C79800AA4592F2A",
+      "target": "Vaya, vaya, quién iba a interrumpirme mientras miro los taxis aéreos sino alguien con un disfraz ridículo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYC04952_000_089",
+      "hash": "1C8BAA67CDD6121A",
+      "target": "Déjame adivinar: vienes a hablarme de la obra. No te molestes─ya la he visto lo menos cincuenta veces."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYC04952_000_090",
+      "hash": "619EC5EEE29604A2",
+      "target": "¿¡Que Otis va a interpretarse a sí mismo!? Bueno, eso sí que es una vuelta de tuerca a un viejo clásico..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYC04952_000_091",
+      "hash": "503B9C7CE0697213",
+      "target": "Vale, vale. Solo por eso, estoy dispuesto a ver la obra otra vez."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ENDLESSBOYC04952_000_092",
+      "hash": "4484910E90806BC4",
+      "target": "Te agradecería que no me interrumpieras mientras miro los taxis aéreos."
+    },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SYSTEM_000_095", "hash": "55C50B9331642639", "target": "Debes llevar puesto el disfraz que te proporcionó Otis para poder avanzar." },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_100",
+      "hash": "184D2CDDA3920A69",
+      "target": "¿Habéis terminado la ronda? ¡Excelente! Os quitaré el disfraz de encima."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_101",
+      "hash": "BCC90F9D7BAEFC28",
+      "target": "Gracias a que vosotros dos habéis promocionado la obra en mi lugar, he podido memorizar las frases a mi entera satisfacción. ¡Os estoy infinitamente agradecido!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_102",
+      "hash": "7045669964F7D149",
+      "target": "No hay de qué. Ha estado bien conocer a niños Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_103",
+      "hash": "DC4B753CC7BCC62E",
+      "target": "¿Niños “Perpetuos”...? Qué cosa más rara de decir cuando nosotros también somos Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_104",
+      "hash": "E2B0DBA4B6CF1B53",
+      "target": "Es que... eh... es complicado. Te lo explicaría, pero la obra empieza pronto, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_105",
+      "hash": "93E95DC36AA36A3D",
+      "target": "Así es, muy pronto. He de dirigirme al lugar y ocuparme de los últimos preparativos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_106",
+      "hash": "075B921B8F9EAA2B",
+      "target": "Pues hablamos luego. ¡Te animaremos desde el público!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_107",
+      "hash": "4FCFA359F417D0A3",
+      "target": "Por supuesto. Pero, esperad... ¿Qué me diríais de actuar también en la obra?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_108",
+      "hash": "DA46D0CD0A6A335D",
+      "target": "¿¡L-Lo dices en serio!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_109",
+      "hash": "798D34ABE028FB07",
+      "target": "Ah, no, ni hablar. Nunca he hecho nada parecido y no creo que pueda aprenderme un papel con tan poco tiempo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_110",
+      "hash": "B4A0C5A2852A47B9",
+      "target": "¡Ja, ja, ja! Descuidad, no sería un papel difícil."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_111",
+      "hash": "2C1C1F8CF08866BC",
+      "target": "Lo que tengo pensado para vosotros dos es un poco de esgrima─un duelo entre soldados de Alexandria y de Lindblum."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_112",
+      "hash": "17A0122B8CBB76EE",
+      "target": "Eso encantará a los niños sin necesidad de palabras."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_113",
+      "hash": "275ABF27B9D1A4C8",
+      "target": "¿Q-Qué te parece?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_Q2_000_000",
+      "hash": "FAC4333A275F48D4",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_A2_000_001",
+      "hash": "7F6CC1E32F2413D7",
+      "target": "¡En guardia, escoria de Lindblum!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_A2_000_002",
+      "hash": "C5DF957F1AD727B3",
+      "target": "¡Este caballero de Alexandria va a acabar contigo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_115",
+      "hash": "099A853AAA8BC478",
+      "target": "Je, ¿tantas ganas tienes? ¡Vale, tú lo has querido!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_116",
+      "hash": "071FC8D799AC87F6",
+      "target": "¡Pues asunto zanjado! Yo os prepararé los trajes. Vosotros solo tenéis que fingir un combate."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_117",
+      "hash": "E803EC72326059C0",
+      "target": "No hay tiempo para un ensayo, ¡pero los pequeños fallos forman parte del espectáculo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_118",
+      "hash": "587B0AFD556F3862",
+      "target": "Dicho esto, iré a informar a la compañía de los cambios. Os ruego que os dirijáis a Proto-Alexandria y esperéis nuevas instrucciones."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_119",
+      "hash": "AC15CAED74EDD5E3",
+      "target": "Es el castillo donde está el terminal. Cuando lo apaguemos, Tierra de Ayer y los Perpetuos que hay en ella también se desvanecerán..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_120",
+      "hash": "E869FAAA680EA5DA",
+      "target": "Así que démosles un espectáculo para recordar."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_121",
+      "hash": "0E5D5C99B8E8CEE7",
+      "target": "Y nosotros también los recordaremos a ellos. A ellos y a lo que intentan preservar con esta fiesta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_125",
+      "hash": "EB82DB733DCC14E5",
+      "target": "Venga, démoslo todo─¡y pasémonoslo bien!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_KRILE_000_130",
+      "hash": "610581BFC1F6410C",
+      "target": "Baste decir que no esperaba veros subir al escenario. ¡Lo habéis hecho muy bien los dos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_GRAHATIA_000_135",
+      "hash": "A757E0E27995BC33",
+      "target": "Ha sido una obra maravillosa. Es una pena que esa vaya a ser la última función, pero quedará grabada para siempre en mi memoria."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ERENVILLE_000_140",
+      "hash": "3F43A28E00D23D0B",
+      "target": "Que en Tierra de Ayer haya sobre todo niños explica tantas atracciones. Pero, por felices que parezcan, cuesta pensar en la vida que tuvieron antes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ERENVILLE_000_145",
+      "hash": "DD3B2C56B5C002F7",
+      "target": "Porque, si la forma de un Perpetuo refleja su yo más feliz, significa que murieron antes de crecer, o que crecieron y no hallaron mayor felicidad."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_CAHCIUA_000_150",
+      "hash": "C5CA6A133AA44946",
+      "target": "Me lo he pasado maravillosamente, y creo que todos los de aquí también."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_155",
+      "hash": "224C4CD277598E43",
+      "target": "No hacen falta explicaciones─he intuido vuestro propósito. Hay caminos que solo los vivos pueden recorrer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_160",
+      "hash": "0553F0B8B425EA2A",
+      "target": "La mía fue una vida tumultuosa, llena de alegrías y de penas, pero termina con buen sabor gracias a vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_OTIS_000_165",
+      "hash": "069F909B50A87379",
+      "target": "Si algo lamento, no obstante, es no haber podido conocer al nuevo rey. Dadle recuerdos de mi parte, ¿queréis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_170",
+      "hash": "47BABC8EEDDD5255",
+      "target": "Bueno, ya estamos aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_CAHCIUA_000_171",
+      "hash": "97EF216EA67477DC",
+      "target": "¿Tienes dudas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_172",
+      "hash": "1F07919DB927FD5B",
+      "target": "No, haré lo que he venido a hacer. Es solo que... cuanto más quieres a alguien, más duele despedirse."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_173",
+      "hash": "9E972B933C278111",
+      "target": "Si tú estás <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>, yo también."
+    },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SYSTEM_000_174", "hash": "BFA138D2D09BBA17", "target": "Una vez apagado el Geoterminal, no será posible devolver la Tierra de Ayer a su forma actual." },
+    { "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_SYSTEM_100_174", "hash": "999D5D9A673785F7", "target": "¿Seguro que quieres apagar el terminal?" },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_175",
+      "hash": "54279D3902CE6D68",
+      "target": "Está bien. Deja que diga unas palabras sobre los que hemos conocido aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_KRILE_000_180",
+      "hash": "D91A3C9B71EB08BB",
+      "target": "Y con esto, la mitad..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_GRAHATIA_000_185",
+      "hash": "50AA1CB5D09F2D76",
+      "target": "Cuando volvamos, tenemos que contarle a Gulool Ja la gesta heroica de Ser Otis Velona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_ERENVILLE_000_190",
+      "hash": "2DED4A7B6F697970",
+      "target": "...Quedan dos zonas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_CAHCIUA_000_195",
+      "hash": "1E753A793403DC16",
+      "target": "Otis el soldado mecánico y Otis el Perpetuo... Gracias a vosotros, sus caminos volvieron a juntarse al final."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_200",
+      "hash": "BEEF0A4479E742E1",
+      "target": "Es como despertar de un dulce sueño a una realidad amarga..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_WUKLAMAT_000_201",
+      "hash": "EBC0B5C918D59580",
+      "target": "Pero nunca olvidaré el tiempo que pasé con los Perpetuos, ni el dolor que siento ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmf107_04952#TEXT_KINGMF107_04952_CAHCIUA_000_202",
+      "hash": "E71B2B0054470048",
+      "target": "Somos más que recuerdos guardados en máquinas. Mientras alguien nos recuerde y continúe nuestro legado, nunca nos desvaneceremos del todo."
+    }
+  ]
+}

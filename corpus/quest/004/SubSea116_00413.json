@@ -1,0 +1,137 @@
+{
+  "conversation": "quest/004/SubSea116_00413",
+  "questName": "Do Angry Pirates Dream",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_AHTBYRM_000_1",
+      "hash": "A5489252D3CEED94",
+      "target": "<split(<string(gstr1)>, ,1)>. Aunque al principio tenía dudas sobre tus motivos, has demostrado una y otra vez ser un activo para Naldiq y Vymelli. Sigues sin caerme bien, pero eso no significa que no confíe en ti."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_AHTBYRM_000_2",
+      "hash": "B7AA21586D06959C",
+      "target": "Ghimthota, jefa de la guardia aquí en los Drydocks, cree que unos piratas podrían estar tramando un ataque contra la <italic(1)>Victoria<italic(0)>, y necesita ayuda para investigar a un grupo de individuos de mala pinta que acampan cerca. Te he recomendado para la tarea."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_AHTBYRM_000_3",
+      "hash": "D54D546534642564",
+      "target": "Pese a todo lo que Limsa Lominsa soportó antes, durante y después de la Calamidad, que aún haya quienes le den la espalda a la ciudad<-->estado con tal de llenarse los bolsillos con unos puñados de monedas... Solo de pensarlo me revuelve las tripas."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_10",
+      "hash": "D8A43020A03D073C",
+      "target": "Ah, sí. Presentía que serías tú a quien enviara Ahtbyrm. Desde que llegaste a los Astilleros de Moraby, he tenido a mis hombres vigilándote. No te enfades: vigilo a todos los recién llegados a la zona. Es simple protocolo."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_11",
+      "hash": "8A4094FF93CC7BBB",
+      "target": "Y te complacerá saber que no se halló nada... incriminatorio. <italic(1)>Aparentas<italic(0)> ser <if(gnum4,una ciudadana modelo,un ciudadano modelo)>. Eso, y que el capataz parece tenerte en estima... lo cual, lo admito, resulta chocante. Ese hombre no se fía ni de su madre."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_12",
+      "hash": "BAD516CE2EE2FFAA",
+      "target": "Muy bien, pues. Supongo que Ahtbyrm te informó de lo que implicaría tu tarea. A los piratas que creemos que conspiran para asaltar los Drydocks se los vio por última vez acampados cerca de una antigua piedra llamada la marca de la Hilandera. Quiero que te acerques a esos hombres, haciéndote pasar por un aventurero perdido, y veas si de algún modo logras averiguar sus intenciones. C'nangho, apostada en las puertas traseras, puede darte la ubicación exacta del campamento."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CNANGHO_000_20",
+      "hash": "F8BA4A72538CA655",
+      "target": "¡<split(<string(gstr1)>, ,1)>! ¡Ja, ja! ¡Lo sabía! Se acabaron las sardinas para C'nangho. ¡Esta noche cenarrré el mejor salmón de la península! ¿Por qué? Aposté con otros guardias sobre a quién recomendaría Ahtbyrm para el próximo encargo. ¡Y aposté por usted!"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CNANGHO_000_21",
+      "hash": "BB64610F8B2D14C5",
+      "target": "Ah, el trabajo. Sí, por supuesto. Si sigue la carrrretera más allá de las puertas hacia el sureste, acabará llegando a un cabo yermo con una única piedra grande medio enterrada en el acantilado que domina el mar. Los seguidores de los Doce dicen que es un lugar sagrado dedicado a Nymeia, la Hilandera. Aunque me sorprendería que los piratas acampados allí lo supieran."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIR_000_30",
+      "hash": "B32E52816963B333",
+      "target": "Te doy hasta que cuente nueve para que vuelvas a ese sendero y arrastres tu culo de aventurero de vuelta a la piedra bajo la que te arrastrabas."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIR_000_31",
+      "hash": "162D6B1A5E8E488D",
+      "target": "Mira, estoy hasta las orejas de los de tu calaña, campando por las colinas como si fueran suyas. Ya no puede uno disfrutar de una jarra de ron sin que algún forastero con aliento de cloaca venga corriendo a preguntar por dónde se va al levemete de turno. ¡Siete infiernos si lo sé! ¡Soy un maldito pirata, por todos los dioses!"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIR_000_32",
+      "hash": "7253A06B6947F4D2",
+      "target": "¡Por los cojones de Thal! En cuanto recupere a mi chico, voy a dejar tan atrás esta isla dejada de la mano de los dioses que nadie recordará que estuve aquí. Vamos, panda. Tenemos cuchillos que afilar."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIRFOLLOWA_000_40",
+      "hash": "549BC04472CFEFD5",
+      "target": "¿Qué tenemos aquí? ¿<if(gnum4,Una corderita perdida,Un corderito perdido)> que viene buscando a su mamá? Tenemos un buen fuego encendido. ¿Por qué no vienes y plantas ese tierno trasero junto al viejo Mellado? Te tendré calentito y a gusto. Je, je, je."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIRFOLLOWB_000_45",
+      "hash": "5C2F42B3CABD45DB",
+      "target": "Lárgate, cachorro que aún no ha visto sangre. Apestas a tetas de solterona, y me estás agriando el vino aún más de lo que ya está."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_50",
+      "hash": "978F30319C5F6AAD",
+      "target": "Así que los intrusos son, en efecto, piratas, y sí que están tramando algo. Pero ¿qué es eso de “recuperar a mi chico”?"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_51",
+      "hash": "ABC47C45D9A2DE44",
+      "target": "¿Será que su objetivo nunca fue la <italic(1)>Victoria<italic(0)>?"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_52",
+      "hash": "FFF349BFFAAFEE06",
+      "target": "Algo no anda bien, y no pienso cruzarme de brazos esperando a que esos piratas den el primer paso. Ordenaré reforzar las patrullas de inmediato. Gracias otra vez por tu ayuda, <split(<string(gstr1)>, ,1)>. Parece que hicimos bien en confiar en ti."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_00",
+      "hash": "85009C12F590FA13",
+      "target": "Ahtbyrm, capataz de la <italic(1)>Victoria<italic(0)>, se plantea recomendarte para un trabajo importante relacionado con la seguridad de los astilleros."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_01",
+      "hash": "CB0DE9422A483A51",
+      "target": "Ghimthota, jefa de la guardia de los Astilleros de Moraby, ha pedido a Ahtbyrm, capataz de la <italic(1)>Victoria<italic(0)>, que recomiende a un aventurero para ayudar a la guardia a averiguar más sobre una banda de individuos sospechosos que han acampado hace poco en el Gods' Grip. El capataz te ha recomendado a ti. Date prisa en llegar a la eterita para recibir tus órdenes."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_02",
+      "hash": "F9BC5BC156276D52",
+      "target": "Ghimthota cree que los individuos sospechosos en cuestión son piratas que planean sabotear la <italic(1)>Victoria<italic(0)>. Quiere que te infiltres en su banda y veas si puedes averiguar algo de sus intenciones. Habla con C'nangho, apostada en la puerta trasera, para conocer la ubicación exacta del campamento de los piratas."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_03",
+      "hash": "87B0D2A02274B7C3",
+      "target": "A los piratas se los vio por última vez al sureste, cerca de una antigua piedra conocida como la marca de la Hilandera."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_04",
+      "hash": "784D80D768A7A436",
+      "target": "Tus conversaciones con los sospechosos revelan que en efecto son piratas y que podrían estar tramando un secuestro. Informa de ello a Ghimthota de inmediato."
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_SEQ_05",
+      "hash": "373056A32AC085EC",
+      "target": "Al enterarse del complot de los piratas, Ghimthota decide reforzar las patrullas de la zona. Con todo, ¿quién será ese «chico» del que hablan los piratas?"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_TODO_00",
+      "hash": "630957682C8C3DF7",
+      "target": "Hablar con Ghimthota"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_TODO_01",
+      "hash": "6091C29FBC22D784",
+      "target": "Hablar con C'nangho"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_TODO_02",
+      "hash": "2B691E2E08E8168F",
+      "target": "Encarar a los individuos sospechosos"
+    },
+    {
+      "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_TODO_03",
+      "hash": "BA37C2ED19A6B659",
+      "target": "Volver a los Astilleros de Moraby e informar a Ghimthota"
+    }
+  ]
+}

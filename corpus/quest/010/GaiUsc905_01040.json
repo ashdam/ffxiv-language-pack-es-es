@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/010/GaiUsc905_01040",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_00", "hash": "71D0C2C5CB5EE34F", "target": "Spiraling Path te necesita para un viaje por el camino." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_01", "hash": "7EEC1F29BB3A2AB4", "target": "Un grupo de suministros encubierto, disfrazado de mineros, se ha marchado sin una caja de cimitarras. Spiraling Path te pide que hagas llegar las hojas a sus manos sanas y salvas." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_02", "hash": "8EF5BDA49C4D6AA3", "target": "Dodoroba te agradece que trajeras la caja de cimitarras. Vuelve al Campamento Nieblazul e informa a Spiraling Path de tu éxito." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SEQ_03", "hash": "7F2F521B26CB5F1A", "target": "Las armas van a donde más se necesitan y, con un aventurero ayudando en su entrega, los garleanos no se enterarán de nada." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_00", "hash": "83A0E4C26617171C", "target": "Entregar las cimitarras de las Llamas Inmortales a Dodoroba" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_TODO_01", "hash": "A9D81757CAAE90D1", "target": "Informar a Spiraling Path" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_000", "hash": "A6528D36AFCE6C4E", "target": "La clave de la victoria es el factor sorpresa, y la clave de la sorpresa es el secreto. Nos disfrazamos de mineros para ocultar nuestros movimientos de suministros a los centinelas garleanos." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_001", "hash": "4043281B07CF3C7C", "target": "Sin embargo, al último envío que salió de aquí parece faltarle una caja de armas, lo que podría suponer una desafortunada sorpresa para la brigada que lo espera." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_002", "hash": "4861AEE107845D7E", "target": "La cuadrilla se dirige a la atalaya oriental. Espero que pueda alcanzarlos y entregarles estas cimitarras." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_010", "hash": "E17344432A001EE3", "target": "Como bien puede ver, somos mineros que acarrean un cargamento de mineral, y no tenemos tiempo para charlas." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_020", "hash": "2251750042E92156", "target": "¡Ah! ¡Estas cimitarras debían formar parte del cargamento!" },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_ENPC_000_021", "hash": "E1A2A75C18AFE833", "target": "Fue prudente no enviar a un soldado de las Llamas, pues habría atraído atención indeseada. Gracias, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_030", "hash": "50DD36AB6B60DE0C", "target": "Me alivia que haya vuelto <if(gnum4,sana y salva,sano y salvo)> con nosotros, y que las armas vayan a llegar a su destino sin contratiempos." },
+    { "gameKey": "quest/010/GaiUsc905_01040#TEXT_GAIUSC905_01040_SPIRALINGPATH_000_031", "hash": "43D669E1DBA69CC5", "target": "Los movimientos hacia las tierras fronterizas de Thanalan y por sus alrededores están sometidos a un escrutinio constante. Un solo paso en falso podría prender un fuego que consumiría todo el reino." }
+  ]
+}

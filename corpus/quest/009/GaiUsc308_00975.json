@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/009/GaiUsc308_00975",
+  "questName": "Better Late than Never",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_00", "hash": "DFA9A69AB6E07092", "target": "Hedyn ha olvidado devolverte tu corrupted crystal." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_01", "hash": "C087FB72C384FB38", "target": "Tu inexplicablemente larga y tediosa búsqueda para conseguir un corrupted crystal llega por fin a su término. Entrega el cristal a Cid en el embarcadero de aeronaves de New Gridania." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_SEQ_02", "hash": "EFCD86A80D52E0AD", "target": "El trabajo de Cid en la <italic(1)>Enterprise<italic(0)> está casi terminado, y solo le queda probar el cristal que has traído. Con la voz henchida de orgullo, Cid declara que la aeronave pronto se transformará en algo mucho mayor, algo extraordinario. Solo tienes que esperar para ver el fruto de su labor." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_TODO_00", "hash": "A72A8F7988F3246E", "target": "Entregar el corrupted crystal a Cid" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_000", "hash": "4A2498058E60EF51", "target": "Le ruego que me disculpe, <split(<string(gstr1)>, ,1)>... olvidé devolverle su cristal." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_001", "hash": "8500E22D29D647B1", "target": "Ah, y había un mensaje para usted del profesor Lamberteint. ¿Algo sobre un hombre llamado Marques? Al parecer, el profesor echa de menos el estímulo intelectual. Disculpe, debería haberlo anotado." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_002", "hash": "3D2F48B5FCF1F5E5", "target": "Se me ocurre que aún no le he preguntado <italic(1)>para qué<italic(0)> necesitaba ese cristal. No estará tramando nada malvado, ¿verdad? Quedaría muy mal para mí y para mi investigación si se usara con fines perversos..." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_HEDYN_000_003", "hash": "5A64F01648DB5D87", "target": "Ah, bueno, quizá sea mejor que permanezca en la ignorancia. No me convertí en el mejor discípulo del profesor llenándome la cabeza de información innecesaria." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_010", "hash": "325C317F1DD7D5F2", "target": "Todas las reparaciones y modificaciones están terminadas, <split(<string(gstr1)>, ,1)>. En cuanto me traigas ese cristal, nada se interpondrá entre nosotros y Garuda." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_020", "hash": "7115461A179BDBD9", "target": "Tendré que hacer algunas pruebas para asegurarme, pero esto parece ser justo lo que necesitamos." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_021", "hash": "AA79BB7B9477C4EE", "target": "No te preocupes, <split(<string(gstr1)>, ,1)>. Me aseguraré de que tu esfuerzo no sea en vano." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_022", "hash": "42E0FB81695F8E39", "target": "La <italic(1)>Enterprise<italic(0)> ya es más que una aeronave corriente. Pero recuerda mis palabras: pronto se convertirá en algo mayor, algo <italic(1)>extraordinario<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_CID_000_023", "hash": "6E912956182E2778", "target": "Esto... esto soy yo. Para esto nací." },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_LIONNELLAIS_000_030", "hash": "26951B9F7B209181", "target": "Saludos, <if(gnum4,señora,señor)>. ¿Desea dirigirse a su nave?" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_Q1_000_040", "hash": "2CA3DBBCBEF8E40F", "target": "¿Pasar a la zona de embarque?" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_A1_000_041", "hash": "53C9C85F1AA4721A", "target": "Sí" },
+    { "gameKey": "quest/009/GaiUsc308_00975#TEXT_GAIUSC308_00975_A1_000_042", "hash": "937BF4DAF524A9E3", "target": "No" }
+  ]
+}

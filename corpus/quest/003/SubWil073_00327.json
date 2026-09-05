@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/003/SubWil073_00327",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_SEQ_00", "hash": "971C5A67D65BD14C", "target": "Warin necesita tu ayuda para resolver un misterio." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_SEQ_01", "hash": "6A73D4676F83EF5C", "target": "<colortype(533)><edgecolortype(534)><icon(63)>Esta misión ha sido ajustada. Abandónala y vuelve a aceptarla hablando con Zuzumeda en la Estación de la Maleza Negra.<edgecolortype(0)><colortype(0)><br><br>※La guía de la trama principal muestra la siguiente misión disponible. Puedes activarla o desactivarla en Configuración de personaje, dentro de Ajustes de interfaz." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_SEQ_02", "hash": "806502D053E3EBF7", "target": "Vuelve a la Estación de la Maleza Negra e informa a Warin de que el misterio está resuelto." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_SEQ_03", "hash": "12B9A684425F9723", "target": "Aunque muchos mineros veneran a los spriggans como portadores de buena fortuna, Warin no pone objeción alguna a que acabes con esos bichos. Puede que los spriggans no pretendan hacer ningún mal, pero sus actos habrían acabado provocando un desastre." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_TODO_00", "hash": "B2DD1013BC082019", "target": "<colortype(533)><edgecolortype(534)><icon(63)>Esta misión ha sido ajustada. Abandónala y vuelve a aceptarla hablando con Zuzumeda en la Estación de la Maleza Negra.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_TODO_01", "hash": "7CB99D3933C1B278", "target": "<colortype(533)><edgecolortype(534)><icon(63)>Esta misión ha sido ajustada. Abandónala y vuelve a aceptarla hablando con Zuzumeda en la Estación de la Maleza Negra.<edgecolortype(0)><colortype(0)>" },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_1", "hash": "CCC5EA23DFA2931E", "target": "Ah, <split(<string(gstr1)>, ,1)>. Diría que eres <if(gnum4,la mujer indicada,el hombre indicado)> para resolver este misterio." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_2", "hash": "F884EC68EC6F596E", "target": "Alguien o <italic(1)>algo<italic(0)> ha estado ensuciando las vías con trozos de mineral de plata." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_3", "hash": "F23D184BA5EFFB78", "target": "Hasta un pedrusco diminuto puede sacar un vagón de su vía, así que he tenido que destinar buena parte de mi gente a localizar y despejar estos obstáculos." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_4", "hash": "357E7E3DDDA6D277", "target": "Pero así no podemos seguir eternamente. Necesito que encuentres a los culpables y pongas fin a sus fechorías. Busca cualquier trozo de mineral de plata picado sobre las vías. Si tienes suerte, pillarás a esos cabrones antes de que escapen." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_10", "hash": "3E2BD8B52CA92C89", "target": "¡Así que los responsables eran los spriggans!" },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_11", "hash": "396DC94F9167C3FF", "target": "Esos bichejos roen el mineral como un sabueso un hueso. ¡Las piedras de las vías eran sus malditas sobras!" },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_12", "hash": "D84743C78FE33529", "target": "Algunos mineros supersticiosos creen que los spriggans son heraldos de la fortuna, pero, según mis cuentas, esas criaturas no son más que una plaga, como los coblyns." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_WARIN_000_13", "hash": "7811934C8FA4044F", "target": "Por lo que a mí respecta, no hay mejor augurio para Amajina e Hijos que tú. Desde que empezaste a echar una mano en la estación, nuestras operaciones marchan sin el más mínimo contratiempo." },
+    { "gameKey": "quest/003/SubWil073_00327#TEXT_SUBWIL073_00327_POP_MESSAGE", "hash": "0F7E941560CEDAEA", "target": "Alguien te observa..." }
+  ]
+}

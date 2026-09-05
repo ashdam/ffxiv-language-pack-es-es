@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/025/StmBda619_02545",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_SEQ_00", "hash": "F70DD799DBDD89B1", "target": "Raubahn quiere darte las gracias por tus servicios." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_TODO_00", "hash": "FDEA6C2BF4CDCFE5", "target": "Seguir a Raubahn hasta Hogarfrío" },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_SERPENTOFFICER_000_001", "hash": "11F3348E99A336FF", "target": "Me dicen que uno de vuestros camaradas resultó herido durante la operación. Si hay algo que podamos hacer para ayudar, os ruego que no dudéis en pedirlo." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_005", "hash": "D1A812AFFE2A9680", "target": "...Puede que debamos hablar con el general Aldynn. Por si sus hombres han averiguado algo sobre Krile." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_010", "hash": "2172640A89E2168A", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>)>)>, comandante Hext. Buen trabajo el de hoy." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_011", "hash": "7CB86AF24F7DB166", "target": "Después de Specula Imperatoris, necesitábamos una victoria rotunda como esta. Gracias a vosotros, la estrella de Rhalgr aún brilla con fuerza." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_012", "hash": "9A7252D23D7A4168", "target": "Me alegro, de verdad. Pero debería saber que Alisaie resultó herida en el combate..." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_013", "hash": "F96B10F0DB974A66", "target": "...Lamentable, pero me complace saber que se recuperará por completo. Las palabras de despedida de Fordola, en cambio, me suenan menos halagüeñas." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_014", "hash": "6DA7A31EE9B7972B", "target": "Pero, si Zenos desea invitarnos a su llamada “cacería real”, ¡este toro la aceptará de buen grado!" },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_015", "hash": "426F587F3381832D", "target": "...¿Qué te preocupa, Lyse?" },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_016", "hash": "803386946473F808", "target": "Ah, n-no es nada, de verdad, es solo que... casi hemos llegado al final, pero aún tenemos que salvar a Krile y hacer muchísimo más..." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_017", "hash": "8BD6A9735FB823D3", "target": "La encontraremos pronto. Pipin tiene a sus mejores hombres peinando los archivos del castrum mientras hablamos." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_100_017", "hash": "654BF26541080015", "target": "..." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_018", "hash": "0D4550C48EE5A44F", "target": "...Escucha, Lyse. Nos llevará tiempo ocupar del todo el castrum y prepararnos para avanzar hacia los Lochs. Mientras esperamos, hay algo que me gustaría enseñaros. A los dos." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_019", "hash": "A56111ACDD2E312D", "target": "A fin de cuentas, puede que sea la última ocasión que tengamos de tomar aliento antes del empujón final." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_020", "hash": "DD6F4A2841E9EA0C", "target": "No veo por qué no..." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_021", "hash": "DF16DF05AFB37E51", "target": "Entonces venid conmigo a Radiata. Desde allí tendremos que tomar otro camino hacia el sur." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_LYSE_000_035", "hash": "2242399DB50FBF70", "target": "Creo que no conozco este pueblo. Es tan pequeño..." },
+    { "gameKey": "quest/025/StmBda619_02545#TEXT_STMBDA619_02545_RAUBAHN_000_040", "hash": "E7DFB0C236571900", "target": "Incluso después de todos estos años, sigue igual... Ah, pero me estoy adelantando. Os merecéis una bienvenida como es debido." }
+  ]
+}

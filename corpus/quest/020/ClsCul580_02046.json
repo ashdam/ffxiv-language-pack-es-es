@@ -1,0 +1,64 @@
+{
+  "conversation": "quest/020/ClsCul580_02046",
+  "questName": "Love Meat Tender",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_00",
+      "hash": "E1846AC6F6A992E1",
+      "target": "Melkoko querría compartir contigo el desenlace del plan de Rhoswen."
+    },
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_01",
+      "hash": "6F4717D2115566FB",
+      "target": "Tras informarte del fallido intento de Rhoswen de tender una trampa a Carvallain, Melkoko recuerda que Lyngsath te andaba buscando. Corre al Bismarck y pregúntale al maestro del gremio qué necesita de ti."
+    },
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_02",
+      "hash": "63F245FD1C48A7A7",
+      "target": "Lyngsath te informa de que Maese Dellemont, fundador y juez del concurso que lleva su nombre, va a venir al Bismarck a inspeccionar la sede. Con las manos ocupadas preparando la visita, Lyngsath necesita que cocines en su lugar para un viejo amigo. El amigo, un anciano pirata retirado, es aficionado a la carne, pero ya no tiene dientes con que masticarla. Con este fin, Lyngsath te pide que le prepares un plato a la vez carnoso y tierno: cockatrice meatballs."
+    },
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_03",
+      "hash": "236AB3D70C446C06",
+      "target": "Apenas presentas las cockatrice meatballs a Lyngsath, Maese Dellemont llega al Bismarck. Espera con paciencia mientras el maestro del gremio sirve a su viejo amigo, que devora su comida con fruición y se marcha con una sonrisa. Poco después, H'mhasi Tia y Melkoko vienen a presentar sus respetos a Maese Dellemont, pero estalla entre ellos una discusión que culmina en una apuesta inesperada. Aunque no le corresponde en absoluto, Melkoko acepta ceder la propiedad del Bismarck a H'mhasi Tia si este sale triunfante en el Dellemont d'Or. Si pierde ante ti, en cambio, deberá renunciar a su vocación. Lo que está en juego ha subido enormemente; procura estar bien preparado para el concurso, aunque solo sea por Lyngsath.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 60."
+    },
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_00",
+      "hash": "3B1B41D5DFCF22E5",
+      "target": "Hablar con Lyngsath"
+    },
+    {
+      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_01",
+      "hash": "8099264D4FC0FC45",
+      "target": "<if([lnum1<lnum2],Sintetizar una ración de albóndigas de cockatrice <sheet(Addon,9,0)>,Entregar las albóndigas de cockatrice <sheet(Addon,9,0)> a Lyngsath)>"
+    },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_000", "hash": "4568324C012B0A2C", "target": "Sin duda te preguntas en qué quedó el plan de la capitana Rhoswen. Pues bien, poco después de que te fueras, invitó a Carvallain a cenar a su barco. Ay, él sospechó de sus intenciones desde el primer momento, y se negó a llevarse nada a la boca. Se quedó ahí sentado, pinchando y hurgando en su comida..." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_001", "hash": "2C98B8161476B8A3", "target": "¡Bah, qué desperdicio! Con todo lo que hablaba de acabar con él, ¡no era ninguna trampa! \\<suspiro> Si no fuera tan condenadamente orgullosa y testaruda..." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_002", "hash": "B36E68790FCE2F75", "target": "Y esas son todas las novedades que tengo que contar.<br>...¡Ah, cierto! Lyngsath te estaba buscando. Parecía andar en algún apuro, así que más vale que vayas a ver qué se cuece." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_005", "hash": "1EF68B20F9184138", "target": "Lyngsath te estaba buscando. Parecía andar en algún apuro, así que más vale que vayas a ver qué se cuece." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_010", "hash": "B756C760C073133B", "target": "Gracias por venir, <split(<string(gstr1)>, ,1)>. Ya sé que andas ocupado preparándote para el concurso y demás, pero necesito tu ayuda con una cosa." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_011", "hash": "B7D2B4B5F27F6E7F", "target": "Verás, el maestro Dellemont va a venir a inspeccionar el Bismarck. No dudo que ves la relación, pero es el fundador del concurso y una leyenda viva de la cocina. Y, lo más importante para ti, también es el juez." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_012", "hash": "4013510ABCB7121F", "target": "En fin, tengo las manos ocupadas tratando de dejar el local a punto antes de que llegue el maestro Dellemont. La cosa es que un viejo amigo mío viene a comer de un momento a otro, pero no puedo despegarme del trabajo lo bastante para atenderlo. Te agradecería que le prepararas la comida en mi lugar." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_013", "hash": "49186C7A4A02796D", "target": "El hombre lleva amando la carne desde que era un joven pirata, pero la edad le ha pasado factura, y apenas le quedan dientes." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_014", "hash": "8CA728E322D6E60A", "target": "Siendo así, quiero que le cocines algo que sea sustancioso pero tierno. Una buena ración de albóndigas de cockatrice, por ejemplo. Gracias de antemano, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_030", "hash": "75596A48D3A8A475", "target": "¿Cómo van esas albóndigas de cockatrice? Mi amigo llegará de un momento a otro." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_100_030", "hash": "E7F116598CBD8C2F", "target": "¡Bienvenido al Bismarck, maestro Dellemont! ¡Nos honra su visita!" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_DELLEMMONT_000_032", "hash": "1FF014E03BDEFD69", "target": "Usted debe de ser el discípulo más destacado de Lyngsath. Sí, he oído mucho y más sobre sus proezas. Pero está en plena faena atendiendo a un cliente─no se preocupe por mí." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_033", "hash": "DC17CC0C163BDCB3", "target": "Y bien, ¿qué te parece, viejo amigo?" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_GOINKYO02046_000_034", "hash": "4645619B3D2ADC69", "target": "¡Ef tan tierno que fe defhace en la boca, pero conferva todo lo que amo de la carne: el fabor, la textura, la jugofidad! O fea... ¡me encanta!" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_036", "hash": "32F3E2F743780068", "target": "En sus tiempos fue capitán de su propio barco. Y era fuerte como un buey." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_037", "hash": "E553DE4D58623B30", "target": "Pero la edad le robó la fuerza, junto con casi todos los dientes, y ya no podía comer todas las cosas que amaba. Verlo tan feliz me saca una lágrima. Gracias, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_DELLEMMONT_000_039", "hash": "B6A8609E73770135", "target": "Me complace ver que todo marcha viento en popa en el Bismarck." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_HMHASITIA_000_040", "hash": "12339ECD65F9299E", "target": "Maestro Dellemont, cuánto tiempo. Me dijeron que vendría hoy, y quise presentarle mis respetos." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_DELLEMMONT_000_041", "hash": "5A1CD88655EC77C4", "target": "Ah, pero si es el campeón reinante. La última vez superaste todas las expectativas, y confío plenamente en que volverás a hacerlo." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_043", "hash": "946FE84ECD39E89B", "target": "Bah, ¿a quién crees que engañas con esa falsa modestia?" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_HMHASITIA_000_044", "hash": "3B682A2019A1E1C1", "target": "Tú también participas en la Dellemont d'Or, ¿verdad? Hazte un favor: no te molestes en preparar un discurso. No tendrás ocasión de usarlo." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_047", "hash": "019E3378FB99F95C", "target": "¡Serás arrogante...! ¡<split(<string(gstr1)>, ,1)> es el mejor cocinero del gremio, para que lo sepas! ¡A <if(gnum4,ella,él)> no le llegas ni a la suela del zapato!" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_HMHASITIA_000_048", "hash": "8478138FA3A2415A", "target": "Así que <split(<string(gstr1)>, ,1)> compite por el honor del gremio. Todo muy bonito, pero ¿qué tal si competimos por algo más... tangible? Este restaurante, por ejemplo." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_049", "hash": "72509652434F516B", "target": "¡Hecho! ¡Pero si pierdes, tendrás que jurar que dejarás de ser cocinero!" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_HMHASITIA_000_050", "hash": "1BDAD26447380EAB", "target": "Maestro Dellemont, ¿podemos pedirle que sea testigo de este acuerdo?" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_DELLEMMONT_000_051", "hash": "52EC195EE404258C", "target": "Un restaurante y una vocación─¡tan altas apuestas servirán para animar el concurso! ¡Estoy deseando ver cómo se desarrolla esto!" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_058", "hash": "AB6729C9F25F0195", "target": "No... no me lo he imaginado, ¿verdad? ¿Melkoko apostando el Bismarck a que ganas la Dellemont d'Or? No es que no crea en ti, <if(gnum4,muchacha,muchacho)>... ¡pero este local no es suyo para apostarlo! ¡Aaargh, maldita sea!" }
+  ]
+}

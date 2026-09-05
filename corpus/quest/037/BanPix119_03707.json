@@ -1,0 +1,30 @@
+{
+  "conversation": "quest/037/BanPix119_03707",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_SEQ_00", "hash": "8B6947B02328EFC3", "target": "Uin Nee espera con ansia una entrega de flores y, con algo menos de ansia, el regreso de una amiga que quizá haya corrido una suerte terrible.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o job distintos de aquellos con los que la aceptaste." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_00", "hash": "E69E412A52E5D927", "target": "Hablar con la pixie recolectora de flores al este de Phisor Lran y lanzar porxies para ahuyentar cualquier amenaza" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_TODO_01", "hash": "82DE4B8E2DC1DB80", "target": "Hablar con Uin Nee" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_001", "hash": "B6222307F49ADCBB", "target": "¡<split(<string(gstr1)>, ,1)>, necesito tu ayuda! Mi amiga se fue a recoger flores hace un rato, ¡y desde entonces nadie le ha visto el pelo!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_002", "hash": "1DF9FB45E752552C", "target": "Sospecho que ha sido obra de─ No, es demasiado pronto para asegurarlo." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_003", "hash": "1E809B1BA225F5AB", "target": "Lo mejor será enviar una partida de búsqueda, formada por... ¡bueno, por ti, claro!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_004", "hash": "C560DC6BC05DAB4E", "target": "Seguramente deberías empezar a buscar donde crecen las flores más bonitas, que es al este de Phisor Lran. Y, si es lo que creo que es, ¡prepárate para un encuentro épico que hará temblar los cielos! O que al menos los hará tambalearse un poco..." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_010", "hash": "F6E23211A50A2306", "target": "Lo siento, pero, como ves, estoy bastante ocupada. ¿O acaso has venido a ayudar?" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_011", "hash": "7D5E7F7C4E1F46D9", "target": "¿Uin Nee estaba preocupado por mí? ¡Estoy perfectamente a salvo, te lo aseguro! Y, si algo viniera a molestarme, ¡estos porxies lo mandarían a paseo!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_012", "hash": "6B2C1BD74FEF4BA4", "target": "Pero, ya que has venido hasta aquí, ¿quizá podrías cubrirme las espaldas mientras sigo recogiendo flores? Por si aparece algún bicho, ¡lánzale uno de mis adorables compañeros!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_SYSTEM_000_013", "hash": "D15179FCE7E6CEE0", "target": "Si aparecen enemigos, lánzales un porxie. Puedes mover la cámara y acercar o alejar la vista. Fija al enemigo y lanza un porxie con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_014", "hash": "6EADDC7340CF0F7F", "target": "¡Aaaaaaiiii!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_000_015", "hash": "0D6FD77ABDCE1826", "target": "Qué raro... ¿Has visto a otra pixie recogiendo flores por aquí? ¿No? Bueno, en fin. ¡Tendré que terminar el trabajo yo sola! ¡Tra-la-lá!♪" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_PICKFLOWERPIXIE_100_015", "hash": "5817A5431653A9D3", "target": "¡Uf! Con esto debería bastar por ahora. Y bien, ¿ha habido algún problema? ¿No? Estupendo. Gracias por estar pendiente de mí. ¡Hasta la vista!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_020", "hash": "5AD612C579AD66AA", "target": "Bueno, al menos has vuelto." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_021", "hash": "1DDBAF3F49C3AA28", "target": "Aunque, sinceramente, no tengo muchas esperanzas de volver a ver a mi amiga. ¿Sabes qué le pasó?" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_Q1_000_000", "hash": "9A6FA8886C31AEDF", "target": "¿Qué vas a decir?" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_A1_000_001", "hash": "2DA7E8DD6A152A26", "target": "Mejor pregúntales a los castores." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_A1_000_002", "hash": "C4E597382402D9BC", "target": "Hay cosas que es mejor dejar en el misterio." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_A1_000_003", "hash": "38CB04548E1CC70E", "target": "Aunque cierre los ojos, sigo viendo... los castores." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_023", "hash": "378391F4FDC1402F", "target": "¡No, los castores no! Que no te engañe su aspecto: no hay mayor mal en todo Il Mheg que esos horrores de dientes largos." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_024", "hash": "261ADF778D302226", "target": "No pasa nada. ¡De todos modos ya había sacado mis propias conclusiones!" },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_025", "hash": "AF028E91CD1C584E", "target": "¡Oooh! ¡Parece que te esperan unas pesadillas fantásticas! Si es que consigues volver a dormir alguna vez, claro." },
+    { "gameKey": "quest/037/BanPix119_03707#TEXT_BANPIX119_03707_UINNEE_000_026", "hash": "26869C886E2086E4", "target": "En cualquier caso, parece que la recolección de flores avanza a buen ritmo, y pronto podremos decorar Lyhe Mheg con flores preciosas. Y, si en el proceso perdemos una pixie o tres, ¡que así sea!" }
+  ]
+}

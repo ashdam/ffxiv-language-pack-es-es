@@ -1,0 +1,66 @@
+{
+  "conversation": "quest/004/SubSea050_00462",
+  "questName": "On to Summerford",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_1",
+      "hash": "B3878928623F5450",
+      "target": "¿Todavía en Limsa, <split(<string(gstr1)>, ,1)>? ¿Qué te parecería un viaje más allá de las murallas de la ciudad?"
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_2",
+      "hash": "6E2F8C37C0FB515C",
+      "target": "Me gustaría que visitaras un huerto llamado la Granja Summerford. ¿Te suena el sitio? El dueño, Staelwyrn, es un viejo camarada mío."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_3",
+      "hash": "ADFB0EBC1C97B2E8",
+      "target": "Tiene una cuadrilla casi toda de piratas reformados, aunque no te lo creas, e intenta devolver algo de vida a los campos desde que la Calamidad arruinó la tierra. Comentó que le faltaban un par de manos, y me acordé de ti."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_BADERON_000_4",
+      "hash": "1CE445CE49C8CE32",
+      "target": "Te di una recomendación de las buenas, así que arrima el hombro y deja bien impresionado al viejo cabrón. ¿Necesitas indicaciones? El sitio no es difícil de encontrar: sal de la ciudad por la Puerta del Céfiro y sigue el camino hacia el noreste."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_11",
+      "hash": "BE412E67CBE641A9",
+      "target": "Ah, tú debes de ser el aventurero que Baderon prometió enviarme. <string(gstr1)>, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_12",
+      "hash": "5523EE744CDEC25B",
+      "target": "Has hecho honor a su palabra, así que buen comienzo. Soy Staelwyrn, el “viejo cabrón”, como seguramente me habrá descrito Baderon, y este de aquí es mi humilde huerto."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_13",
+      "hash": "346BF4A99BC7A875",
+      "target": "Buena parte de los mozos y mozas que trabajan aquí aterrorizaron en su día la alta mar. Y si te preguntas por qué empleo a semejantes pendones, pues bien: fueron la tripulación de mi barco pirata."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_14",
+      "hash": "D8BFE1699BEBAF8B",
+      "target": "Pero la Calamidad acabó con nuestro barco, como acabó con tantos otros, y por si fuera poco yo salí malherido."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_15",
+      "hash": "75B8E83472D32FDB",
+      "target": "Tenía que dar de comer a los míos y a mí mismo de algún modo, y la iniciativa de la almirante Merlwyb para poner a labrar los campos a los bucaneros varados en tierra parecía una oferta demasiado buena para rechazarla."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_16",
+      "hash": "51EA7130A7BAF83E",
+      "target": "Bueno, resulta que puedes apartar al pirata del mar, pero no puedes apartar el mar del pirata. Muchos de mis muchachos nunca llegaron a hacerse al cultivo de la tierra, ya ves."
+    },
+    {
+      "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_STAELWYRN_000_17",
+      "hash": "31C4A4C5A59FC499",
+      "target": "Y por desgracia, los botánicos que hice venir para instruirlos se retuercen las manos sumidos en la más negra desesperación. Con tanto trabajo acumulándose, necesito un alma más recia como la tuya que intervenga y eche una mano donde haga falta."
+    },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_00", "hash": "EAFE607D35B84442", "target": "Baderon, dueño de Drowning Wench, quiere que eches una mano en la Granja Summerford." },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_01", "hash": "81E24B78375FB2CC", "target": "Staelwyrn, el dueño de la Granja Summerford, necesita una mano. Sal de Limsa Lominsa por la Puerta del Céfiro y hazle una visita al laborioso granjero." },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_SEQ_02", "hash": "17673FECE54ADF00", "target": "Staelwyrn te explica que muchos de sus trabajadores fueron antaño la tripulación de su barco pirata, una nave perdida en la destrucción de la Calamidad. Como esos antiguos bucaneros no acaban de abrazar la vida en tierra, surgen numerosos problemas por todo el huerto. Busca a quienes se las ven y se las desean con los díscolos peones y préstales cuanta ayuda puedas." },
+    { "gameKey": "quest/004/SubSea050_00462#TEXT_SUBSEA050_00462_TODO_00", "hash": "5667E944718BB231", "target": "Hablar con Staelwyrn en la Granja Summerford" }
+  ]
+}

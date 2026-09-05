@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/001/SubWil000_00149",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_00", "hash": "AF7AA8A475CA8658", "target": "Wymond querría saber qué opinas de Ul'dah." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_01", "hash": "3EEBE15B015A3773", "target": "Profesional consumado como siempre, Wymond ha aprovechado la ocasión para encargarte una entrega. Haz lo que te pide y lleva su mensaje a Josias, en el Gremio de Púgiles, dentro del Espejismo de Platino." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_SEQ_02", "hash": "B8B343ED0D08E1DA", "target": "El Gremio de Púgiles ofrece servicios de protección, pero solo a quienes pueden pagarlos. El sobre sin firmar contenía la valoración de un solicitante cuyas finanzas resultaron insuficientes. Por desgracia, el Espejismo de Platino no es una obra de caridad." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_TODO_00", "hash": "B12593D6D4F774DD", "target": "Entregar el sobre sin firmar a Josias" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_1", "hash": "914A3C5880C15D9E", "target": "Y bueno, ¿qué tal te va en Ul'dah, <split(<string(gstr1)>, ,1)>? <if([gnum70==1],¿Eh? ¿Que cómo sé tu nombre? ¡Je! La información es mi oficio\\, aventurero. Te asombraría lo que llego a saber.,<if([gnum70==2],¿Eh? ¿Que cómo sé tu nombre? ¡Je! La información es mi oficio\\, aventurero. Te asombraría lo que llego a saber.,<if([gnum70==3],¿Ya has hecho amigos en las altas esferas? ¡Ja! Bueno\\, cuando algún día tengas el oído de la sultana\\, ¡espero que no te hayas olvidado del viejo Wymond!,¿Eh? ¿Que cómo sé tu nombre? ¡Je! La información es mi oficio\\, aventurero. Te asombraría lo que llego a saber.)>)>)>" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_2", "hash": "0CF8F49A27BB8DB7", "target": "Ya que estás aquí, quizá puedas hacerme un favor y llevarle esta misiva a Josias, en el Espejismo de Platino." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_WYMOND_000_3", "hash": "8E9C640AE2FF8828", "target": "Está aquí al lado, y el hombre hasta te dará algo de gil por las molestias. Ojalá todo el trabajo de la ciudad fuera así de fácil, ¿eh?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_5", "hash": "1C5E2FA9CFCC5C6C", "target": "¿Tiene algún asunto con el Espejismo de Platino <if([gnum11<12],<if([gnum11<4],esta noche,esta mañana)>,<if([gnum11<17],hoy,esta noche)>)>?" },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_6", "hash": "0920DA0A0FA23C5D", "target": "¿Una misiva de Wymond? Muy bien, echemos un vistazo..." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_7", "hash": "D19346F9238550D9", "target": "«El pájaro no da fruto. Que los perros se den un festín.» \\<suspiro> Así son las cosas." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_8", "hash": "4E066EBFB9B0894E", "target": "¿Ah, esto? Verá, a menudo se contrata al gremio para prestar servicios de protección. Por desgracia para este solicitante en concreto, la investigación de Wymond ha revelado que sus finanzas están... algo escasas." },
+    { "gameKey": "quest/001/SubWil000_00149#TEXT_SUBWIL000_00149_GAGARUNA_000_9", "hash": "FDC3DD6C9BC685C7", "target": "Quizá a los aventureros como usted no les importe trabajar gratis, pero nosotros tenemos un negocio que llevar. Yo mismo tengo cuatro bocas que alimentar, así que me temo que este <italic(1)>pájaro<italic(0)> tendrá que apañárselas solo." }
+  ]
+}

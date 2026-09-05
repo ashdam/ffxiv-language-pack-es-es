@@ -1,0 +1,81 @@
+{
+  "conversation": "quest/020/ClsAlc502_02065",
+  "questName": "Without a Trace",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_00",
+      "hash": "FA5E3C762BBCD5C6",
+      "target": "Hay un brillo diabólico en la mirada del maestro del gremio Severian."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_01",
+      "hash": "3CE3385CD13449C4",
+      "target": "El maestro del gremio tiene una tarea de la máxima importancia para ti, su ayudante favorito: entregar un informe de algún tipo a alguien en el Peaje del Aparecido. Como Severian ha sido más bien escaso en detalles, habla con Deitrich para averiguar el quién, el qué y el porqué."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_02",
+      "hash": "6B859D4D0444A36B",
+      "target": "Deitrich —sin sorprenderse de que el maestro del gremio te haya endosado la entrega— te explica que el destinatario previsto es un tal Wiltwaek. Miembro del Gremio de Aventureros encargado de mantener la paz, Wiltwaek investiga actualmente un crimen en Mor Dhona. Ciertas pruebas dejadas en la escena requerían el ojo experto del maestro del gremio Severian, y los resultados de su análisis son lo que debes llevar al Peaje del Aparecido. Ponte en marcha ya con el certificado de tasación."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_03",
+      "hash": "6CD898C69F2A5278",
+      "target": "Te reúnes con Wiltwaek y su fiel compañera Chanene. Te informan de que una serie de misteriosas desapariciones ha asolado el Peaje del Aparecido últimamente. Wiltwaek abre el certificado de tasación y exclama que la alquimia está implicada en estos crímenes. Además, declara que serás su asesor en el caso. Perplejo, escuchas cómo lee en voz alta una nota del maestro del gremio Severian que te pone por las nubes. Como tu pericia puede no ser necesaria de momento, Wiltwaek te pide que aguardes nuevos acontecimientos.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 53."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_TODO_00",
+      "hash": "AD769FDBE7201193",
+      "target": "Hablar con Deitrich"
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_TODO_01",
+      "hash": "A87330EC4DFB3FDA",
+      "target": "Entregar el certificado de tasación a Wiltwaek en el Peaje del Aparecido"
+    },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_000", "hash": "58F3A5EA9BE2E8DC", "target": "¡Mi ayudante favorito! Tengo justo la tarea para ti. Alguien de tu destreza alquímica quizá se mofe al oírla, pero reserva tu juicio: solo <italic(1)>tú<italic(0)>, que has rozado la cumbre de nuestro arte, puedes llevarla a cabo." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_001", "hash": "C0B1754775526928", "target": "Debo pedirte que entregues un informe a un amigo. Deitrich puede ayudarte con los pormenores: el quién, el qué y demás. ¡Ahora ve, ve!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_010", "hash": "796367E8F65A969B", "target": "¡Deitrich, Deitrich, trátalo con Deitrich!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_030", "hash": "12C602AA373ED2CC", "target": "Así que se lo ha endosado a usted, ya veo. Aquí tiene el certificado de tasación para Wiltwaek." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_031", "hash": "BEAA2CA9D016E2D4", "target": "¿El maestro del gremio no le...? ¿No? \\<suspiro> ¿Por qué lo pregunto siquiera? En fin, Wiltwaek es miembro del Gremio de Aventureros, y responsable de mantener la paz en el Peaje del Aparecido." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_032", "hash": "5C872CBE951834C9", "target": "Hace poco pidió al maestro Severian que analizara unas pruebas dejadas en la escena de cierto crimen. Acabo de entregarle los resultados." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_033", "hash": "8ED5049B59243386", "target": "Creo que el maestro del gremio le encomendó la tarea porque no quería moles─ Ejem. Disculpe. Porque confía en su destreza como alquimista." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_040", "hash": "2797586E67FAFA0B", "target": "No debería costarle encontrar a Wiltwaek. Es un tipo más bien corpulento, y no va a ninguna parte sin su compañera." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_CHANENE_000_045", "hash": "171B3167557C163D", "target": "¡Hola, hola! ¿Busca a Wiltwaek? ¡Pues lo ha encontrado! Está aquí mismo." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_060", "hash": "C9077B7FD9A237A4", "target": "No puedo hablar ahora mismo, <if(gnum4,señorita,señor)>. Estoy esperando una carta del Gremio de Alquimistas. La condenada ya debería haber llegado..." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_061", "hash": "2A43AD7682965273", "target": "¿<italic(1)>Es usted<italic(0)> el ayudante de Severian? ¿Cómo está, amigo? Soy Wiltwaek, y esta es mi compañera, Chanene." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_062", "hash": "68C60BFABBA7FC6C", "target": "Veamos, ¿qué dice su maestro del gremio...? ¡Ajá, justo lo que sospechaba: alquimia!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_063", "hash": "3A6A771AC8542162", "target": "Es un asunto de lo más extraño, esta ristra de desapariciones. ¡Hay una banda suelta por ahí, se lo digo yo!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_064", "hash": "E0F4A504CCBBD1AD", "target": "Pero eso es <italic(1)>todo<italic(0)> lo que podemos decir. Han robado de arcones sellados y arrebatado hombres de habitaciones cerradas con llave... pero ¿cómo? ¿Por qué? Ni siquiera tenemos la menor idea de qué hacen con sus víctimas." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_065", "hash": "A15ED78BD3F770AE", "target": "Aunque quizá Severian nos haya dado una. Identificó nuestra prueba como un catalizador alquímico. Sean quienes sean nuestros villanos, están usando sus artes, amigo. ¡Así que menos mal que está aquí para ayudar!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_CHANENE_000_066", "hash": "56E192522000BFA0", "target": "...Usted es <italic(1)>solo<italic(0)> el mensajero, ¿verdad? ¿Vendrá después, entonces, el asesor que pedimos?" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_067", "hash": "878B74F0D0927CB4", "target": "No, no, hay una nota de Severian: «<if(gnum4,La mujer,El hombre)> que he enviado es lo mejor del gremio. <if(gnum4,Ella,Él)> se ha ganado mi confianza y mi admiración como ayudante, y no me cabe duda de que <if(gnum4,ella,él)> os será de la máxima ayuda.»" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_CHANENE_000_068", "hash": "803923275F5936C1", "target": "¡Madre mía! ¡Un cumplido del maestro Severian es un cumplido de los de verdad!" },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_WILTWAEK_000_069", "hash": "6F34CBE16355234C", "target": "Sí, nos alegra contar con usted como nuestro alquimista asesor. Este caso no ha hecho más que empezar, y pronto necesitaremos su intelecto. ¡El juego, <split(<string(gstr1)>, ,1)>, está en marcha!" },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SYSTEM_000_900",
+      "hash": "F12C6C3C5D65323E",
+      "target": "La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 53."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SYSTEM_000_901",
+      "hash": "A3D7AEB53B90D76E",
+      "target": "Los requisitos para emprender misiones posteriores pueden consultarse en tu diario."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SYSTEM_000_910",
+      "hash": "E17CD3C6CC1E7CCA",
+      "target": "Tus habilidades como artesano serían de gran utilidad para elaborar objetos de coleccionista. Habla con Morgayne en el Foro de Santa Reinette, en Ishgard, para saber más sobre esta lucrativa oportunidad de negocio."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SYSTEM_000_911",
+      "hash": "23A25528CCD2E6F4",
+      "target": "Si buscas pruebas aún mayores de tu destreza artesanal, harías bien en adquirir recetas maestras."
+    },
+    {
+      "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SYSTEM_000_912",
+      "hash": "BD48CA60F652146C",
+      "target": "Habla con Guiding Star en el Peaje del Aparecido para conocerlas."
+    }
+  ]
+}

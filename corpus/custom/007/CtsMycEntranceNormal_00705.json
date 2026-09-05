@@ -1,0 +1,32 @@
+{
+  "conversation": "custom/007/CtsMycEntranceNormal_00705",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_Q1_000_000", "hash": "F174322AE1B8A888", "target": "Elige una opción." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_MENU_CONTENT", "hash": "DFC3A4F1562B9453", "target": "Delubrum Reginae." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A1_000_001", "hash": "855BB045FBC5C2F9", "target": "<head(<sheet(ContentFinderCondition,lnum1,43)>)>." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A1_000_004", "hash": "56B224F7F7D371EE", "target": "Comprobar el rango de la Resistencia y el temple." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A1_000_005", "hash": "21D1F39C826B5669", "target": "Nada." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_Q2_000_000", "hash": "B176ABF4EB1FA7FB", "target": "¿Qué vas a hacer?" },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A2_000_000", "hash": "86408A1BE2C7459F", "target": "Entrar en Delubrum Reginae." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A2_000_001", "hash": "3B9A0C2D869F5FB6", "target": "Preguntar por Delubrum Reginae." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A2_000_005", "hash": "777E4BD28CE49F99", "target": "Volver." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_Q3_000_000", "hash": "66DCC1A700A838B2", "target": "¿Qué vas a hacer?" },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A3_000_000", "hash": "B1FADF42ADFE8872", "target": "Entrar en <if([lnum1==735],the Bozjan Southern Front,Zadnor)>." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A3_000_001", "hash": "965DA3DF2029808F", "target": "Preguntar por las condiciones en the Bozjan Southern Front." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A3_000_005", "hash": "01C501F8981CCF5D", "target": "Volver." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_SERAOUSH_000_000", "hash": "F434B14FAA53ED7E", "target": "Me atrevo a decir que no hay un solo soldado en toda la Resistencia que aún no haya oído hablar de sus proezas en el frente sur." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_SYSTEM_000_001", "hash": "6205734ACCF6D048", "target": "Tu rango de la Resistencia es <num(lnum1)> y has acumulado <kilo(lnum2,\\,)> de temple." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_SYSTEM_000_005", "hash": "79FF7C34D841FF29", "target": "Ten en cuenta que has alcanzado el rango de la Resistencia máximo." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_SYSTEM_000_010", "hash": "27480C3D906783F2", "target": "Necesitas <kilo(lnum1,\\,)> de temple para alcanzar el siguiente rango de la Resistencia." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_SYSTEM_000_015", "hash": "E96A4DDEDC562C48", "target": "Has ganado temple suficiente para aumentar tu rango de la Resistencia. Preséntate ante el comandante de la Resistencia en the Bozjan Southern Front." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_Q4_000_000", "hash": "FAED406344807E0E", "target": "¿Qué vas a hacer?" },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A4_000_000", "hash": "8C541B7A44FA952F", "target": "Entrar en Delubrum Reginae." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A4_000_001", "hash": "AC232D32F4F31C0F", "target": "Preguntar por Delubrum Reginae." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A4_000_002", "hash": "7DB581EE9AB3514D", "target": "Charlar." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_A4_000_005", "hash": "4AF32DFC789AB94C", "target": "Nada." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_MIKOTO_000_100", "hash": "D1927F35CE34C860", "target": "Ojalá hubiera recordado lo que Misija me hizo. Recuerdo un extraño artilugio y estar atada, pero por desgracia el resto es una neblina..." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_MIKOTO_000_101", "hash": "D1258769392B376E", "target": "Que llegara a tales extremos para reclamar esas ruinas solo puede significar una cosa: en su interior debe de haber una reserva de cristales con capacidad para alimentar Save the Queen." },
+    { "gameKey": "custom/007/CtsMycEntranceNormal_00705#TEXT_CTSMYCENTRANCENORMAL_00705_MIKOTO_000_102", "hash": "38DE4AC6549E88E2", "target": "¡Por favor, tiene que detenerla! ¡Si llega a desplegar todo el poder de la espada, no quedará esperanza alguna!" }
+  ]
+}

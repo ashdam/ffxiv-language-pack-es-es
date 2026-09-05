@@ -1,0 +1,20 @@
+{
+  "conversation": "quest/009/GaiUsc012_00949",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_00", "hash": "99D2D5897EA392BC", "target": "Ourdilic busca ayuda para un intento de rescate." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_01", "hash": "0078A94A13543EEA", "target": "Uno de los investigadores de Snowcloak aún no ha regresado de recoger muestras de hielo, y tiene fama de atraer a los ice sprites. Ourdilic te pide que encuentres al desdichado y, si es necesario, lo rescates de sus atacantes." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_02", "hash": "EED2E053527CD960", "target": "Ourdilic resulta asombrosamente acertada en su conjetura, pues te encuentras al investigador, pálido como la cera, encogido ante el ice sprite. Ahora que has abatido al sprite y te has zafado de las aduladoras atenciones del investigador, debes informar a Ourdilic." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_SEQ_03", "hash": "E410D2E3BA38B247", "target": "Ourdilic también tiene una pizca de buenas noticias para ti; ha cortado de raíz las esperanzas del investigador de un <if(gnum4,romance,bromance)>. Un final feliz para todos... salvo para el ice sprite, por supuesto." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_00", "hash": "56B18F0DC9665CB8", "target": "Rescatar al investigador" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_TODO_01", "hash": "2161F4F2732B6F8E", "target": "Informar a Ourdilic" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_000", "hash": "1C7061108D51161A", "target": "Nunca ha ido sobre ruedas la investigación en Snowcloak. Nos atormentan los ice sprites, para empezar." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_001", "hash": "5DD58B8219320698", "target": "Sospecho que los sprites tienen la culpa de nuestro último problema: un investigador que estaba perforando para tomar muestras tarda en regresar al campamento." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_002", "hash": "4F57894AA75C1775", "target": "A los sprites les encanta atormentar a unos más que a otros, y, en fin, él es de esos. ¿Correrá a rescatarlo?" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_NPCA_000_010", "hash": "47B4606ACE3322E5", "target": "¡Me ha <italic(1)>salvado<italic(0)>! <if(gnum4,¡Creo que me he enamorado de usted!,¡Es usted mi mejor amigo!)> Volvamos juntos al campamento... ah, ¿primero tiene algo peligroso que hacer? Eh, de acuerdo. Pues... ¡hasta luego!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_030", "hash": "E878376B3D26A2B2", "target": "Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>. Acabo de hablar con ese carasuero. Me he asegurado de que entienda que usted también es <if(gnum4,una mujer ocupada,un hombre ocupado)>." },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_OURDILIC_000_031", "hash": "8AFB34FBA29CC8A1", "target": "¡Gracias a usted, nosotros también podemos dedicarnos a nuestra misión! Aún habrá muchas penalidades, pero, con su ayuda, ¡<italic(1)>sí<italic(0)> hallaremos un camino a través del muro de hielo!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_POP_MESSAGE_000", "hash": "E9927F20BA8EC64B", "target": "¡Sientes un frío repentino en el aire!" },
+    { "gameKey": "quest/009/GaiUsc012_00949#TEXT_GAIUSC012_00949_ACCESS_MESSAGE", "hash": "99FDEF278F139169", "target": "¡El sprite sigue con vida!" }
+  ]
+}

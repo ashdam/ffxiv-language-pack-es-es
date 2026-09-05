@@ -1,0 +1,430 @@
+{
+  "conversation": "quest/049/KinGmf109_04954",
+  "questName": "The Taste of Family",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_00", "hash": "F66D1A8A93CA820D", "target": "Krile ha recobrado algo de compostura." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_01", "hash": "BC361CB7FD15C328", "target": "Quiso el destino que Krile se reencontrara con su madre y su padre, Alayla y Robor. Aunque insegura de cómo tratar a los progenitores que perdió hace tanto, con tu apoyo y aliento parte hacia los pozos termales para aprovechar al máximo esta oportunidad de estar con ellos." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_02", "hash": "F491E714B54ACF87", "target": "Los primeros intentos de Krile y sus padres por conocerse resultan incómodos. Mientras observas sus apuros, inspirada por su experiencia con el xibruq pibil, Wuk Lamat se ofrece a llevarles comida para romper el hielo. Alayla pide algo frío, y te vuelves hacia tus camaradas para valorar las opciones." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_03", "hash": "6571B8E6D3D63744", "target": "Como es un momento especial, se decide que buscaréis un manjar que deje huella. La búsqueda empieza pidiendo recomendaciones a los lugareños, y te diriges al nodo telúrico pyro para preguntar a los Perpetuos de allí." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_04", "hash": "A87F97AD9092D342", "target": "Las respuestas que recibes te señalan un puesto al suroeste del nodo telúrico, que al parecer ofrece algo llamado helado Estrella de Oro. Sin demora, partes en su busca." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_05", "hash": "2FEC7C1827145E0B", "target": "Llegas al puesto y encuentras a Wuk Lamat también echándole el ojo. El helado se ve tan impresionante como aparatoso pero, con plena confianza en tu destreza para transportarlo, te ofreces a entregar las tres raciones a Krile y sus padres." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_06", "hash": "0D52B400885CBD13", "target": "Has recogido las raciones de helado Estrella de Oro. Con paso rápido pero ligero, emprendes el regreso a los Manantiales Opalinos." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_07", "hash": "C00A7F5469EE6A04", "target": "Entregas el helado intacto pero, aun con tan deliciosos manjares, el aire incómodo persiste entre Krile y sus padres. Por fortuna, el hielo se rompe al fin cuando G'raha Tia interviene con maña, y en los rostros de todos los presentes afloran sonrisas genuinas.<br><br>Al concluir la comida, los padres de Krile te hablan de la fusión interdimensional. La llave para invocar ese poder es una reliquia que perteneció a su pueblo, los Milalla, que la emplearon en un pasado remoto para huir a otra realidad cuando una gran calamidad congeló su tierra natal. Cuando después los rayos amenazaron este mundo, Robor y Alayla intentaron invocar el poder de nuevo, pero no lo lograron. Desesperados, aceptaron cooperar con Preservación, solo para descubrir que la orden pretendía drenar el éter de otros mundos. Esto llevó a la deserción de la pareja y, mientras huían de sus perseguidores, trajeron a su única hija al Origen para mantenerla a salvo. Así es como Krile llega a conocer la verdad de su origen y, para saber más sobre los Milalla, decidís visitar la caverna del interior del volcán, donde se ha recreado su antigua tierra natal." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SEQ_08", "hash": "AADA65C235832C64", "target": "A la entrada de la caverna, Krile os expresa a todos su más sincera gratitud. Gracias a vuestra intervención, no solo pudo estrechar lazos con sus padres, sino conocer además la alegría de compartir una comida con ellos." },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_00", "hash": "C8240CE5ACC6BD56", "target": "Hablar con Krile" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_01", "hash": "68D9CCCC8D1DA4B4", "target": "Hablar con G'raha Tia" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_02", "hash": "E8C74AB428755B19", "target": "Recabar información en el nodo telúrico pyro" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_03", "hash": "16DDF25922DDD73D", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_04", "hash": "3AFA31B7C71572B7", "target": "Hablar con el vendedor de helados" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_05", "hash": "6CF6BF3774A5D244", "target": "Entregar el gold star ice cream a Krile" },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_TODO_06", "hash": "EA6AFAB37900B7B6", "target": "Hablar con Krile" },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_001",
+      "hash": "5792F12106CD1EEA",
+      "target": "Y pensar que Krile iba a encontrarse de verdad con sus padres..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_005",
+      "hash": "F30D846E219BD6DD",
+      "target": "Aquí sí que ocurren milagros... Me alegro por Krile."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_010",
+      "hash": "0CC47C54E5840963",
+      "target": "Bien. Ya estoy un poco más tranquila."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_011",
+      "hash": "DDEACBF20EF9D6F7",
+      "target": "Creía estar preparada para esa posibilidad, pero encontrarme cara a cara con mis padres me ha superado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_012",
+      "hash": "09BE7887FE4E9394",
+      "target": "Y, como me separaron de ellos siendo un bebé, no sé muy bien cómo comportarme..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_013",
+      "hash": "98E5370CA35B5850",
+      "target": "Tómate tu tiempo. Después de todo lo que ha pasado, te lo mereces."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_014",
+      "hash": "914EAC647901219D",
+      "target": "Tenéis muchas cosas que deciros. Ahora podéis decirlas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_015",
+      "hash": "7AF5FB0766416830",
+      "target": "Eso es. Este encuentro hay que atesorarlo. Tú haz lo que te salga, ¿vale?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_016",
+      "hash": "9FA03C61A5F1DFF7",
+      "target": "Gracias a todos. Aprovecharé al máximo el tiempo que pasemos juntos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_020",
+      "hash": "1F2ABEBFB02F2B73",
+      "target": "De momento, quedémonos observando."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_025",
+      "hash": "A1C3C178EAAB6A0F",
+      "target": "La tensión se podría cortar con un cuchillo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_030",
+      "hash": "E6AA3024CB4DC711",
+      "target": "Ustedes son todos amigos de nuestra hija, ¿verdad? Gracias por traérnosla hasta aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ROBOR_000_035",
+      "hash": "23035F4360A84B11",
+      "target": "Que volvamos a ver a nuestra hija precisamente aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_040",
+      "hash": "16B193BDDE509766",
+      "target": "Es una sensación extrañísima reunirnos contigo más allá de la muerte..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_041",
+      "hash": "677840580D3B5303",
+      "target": "Tus compañeros─¿cómo se llaman?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_042",
+      "hash": "4AA9EFE21D2B1C8A",
+      "target": "¡Ay, se me había olvidado por completo presentarlos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_043",
+      "hash": "15051231E8F10FD1",
+      "target": "Esta es Wuk Lamat, Juramento de la Resolución de Tuliyollal. A su lado, G'raha Tia, compañero mío en los Discípulos de Baldesion."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_044",
+      "hash": "A1E2DAC778A89EB7",
+      "target": "Y <if(gnum4,esta,este)> es <split(<string(gstr1)>, ,1)>, <if(gnum4,aventurera,aventurero)>─aunque eso apenas le hace justicia. Es <if(gnum4,la amiga más de fiar,el amigo más de fiar)> que se pueda tener, y le debo la vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_045",
+      "hash": "608A46D1A5FB7566",
+      "target": "Válgame. Está claro que tenemos mucho que agradecer. ¿Verdad, querido?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ROBOR_000_046",
+      "hash": "4F4740C261E5516F",
+      "target": "Ah, eh... ¡sí! ¡Sí que lo tenemos! Nuestra más sincera gratitud a todos ustedes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_047",
+      "hash": "C04C130672B1D116",
+      "target": "No es el comienzo más fluido, ¿verdad...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_048",
+      "hash": "D91492149928520E",
+      "target": "Si tuviéramos un poco de xibruq pibil para allanar el camino... ¿a que sí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_049",
+      "hash": "2F8BCF04DDF190FD",
+      "target": "Espera... No es mala idea."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_050",
+      "hash": "8F92457663BCF3CC",
+      "target": "Oye, ¿tenéis hambre? Podríamos traeros algo de comer, si queréis."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ROBOR_000_051",
+      "hash": "B7B75969E64EFA15",
+      "target": "Ah... eh, gracias, pero estamos bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_052",
+      "hash": "8A42B93296C4173A",
+      "target": "Pues aquí, junto a los manantiales, hace bastante calor."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_053",
+      "hash": "31E73BFAE0457407",
+      "target": "Algo frío sería estupendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_054",
+      "hash": "E4343095DFE9D1C0",
+      "target": "¡Entendido! ¡Os traeremos algo rico que os ayude a refrescaros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_055",
+      "hash": "3D8EA1089F24A015",
+      "target": "No quisiera ser una molestia, pero..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_056",
+      "hash": "86404E18C21A0D1B",
+      "target": "No es nada. Para eso están los amigos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_057",
+      "hash": "97D733DAC1060293",
+      "target": "Gracias. Esperaremos con ganas esas delicias frías."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_060",
+      "hash": "D279871D648FD6EA",
+      "target": "Como hemos aprendido, la buena comida une a la gente─¡incluso a enemigos jurados!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_065",
+      "hash": "979E1771A3649E3C",
+      "target": "Son ustedes muy considerados."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ROBOR_000_070",
+      "hash": "17E3F920D5FDCDA1",
+      "target": "Estoy hecho un manojo de nervios..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_075",
+      "hash": "3772A6C74E87C9D1",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>. Estamos deseando ver qué traes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_080",
+      "hash": "27CABA6CB91FA7A4",
+      "target": "Bien pensado, Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_081",
+      "hash": "1C5C02FDED50872B",
+      "target": "Je, je, solo estoy aplicando lo que aprendí en Yak T'el."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_082",
+      "hash": "79FB5BBC95712B47",
+      "target": "Si tuviera que señalar un posible problema, sería que aquí la comida no sabe a nada para los vivos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_083",
+      "hash": "41E6F65F5D584821",
+      "target": "¿¡En serio!? No tenía ni idea..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_084",
+      "hash": "0170D0522C540C3F",
+      "target": "Aun así, parece que los Perpetuos la disfrutan perfectamente. Al aceptar la idea, seguramente Krile ya lo sabía."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_085",
+      "hash": "94AF6A07A342EB80",
+      "target": "Puede que no rompa el hielo al instante, pero confío en que ayude a derretirlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_086",
+      "hash": "92F45B49E63F2D3D",
+      "target": "¿Nos separamos, entonces, y buscamos lo que pidió Alayla? Algo frío, irónicamente."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_087",
+      "hash": "FD65C242E0B97E8F",
+      "target": "Se supone que es un momento especial, así que digo yo que llevemos lo mejor que haya─¡algo que deje huella! La gente de aquí seguro que puede recomendarnos algo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_088",
+      "hash": "4CABBA3EB756936D",
+      "target": "Si te encargas de preguntar a la gente de cerca de la eterita, <split(<string(gstr1)>, ,1)>, G'raha Tia y yo haremos lo mismo por otras zonas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSA04954_000_090",
+      "hash": "998757B02E5610A7",
+      "target": "Mmm, ¿qué picoteo me tomo hoy...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSA04954_000_091",
+      "hash": "5D6B35A38AA97F2B",
+      "target": "¿Eh? ¿Que le recomiende algo rico y frío? Me temo que en este puesto no tienen de eso."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSA04954_000_092",
+      "hash": "D54AAA4B19FCA410",
+      "target": "Aunque, hablando de frío, me vendría bien una bebida helada con el picoteo. Creo que me pediré un café. Bueno, quizá mejor un té, o incluso una limonada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSA04954_000_093",
+      "hash": "9FD3C60535FD00B7",
+      "target": "¡Ah, aunque no puedo pasar de largo ante una cerveza! Sí, hoy que sea una cerveza blanca."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSA04954_000_095",
+      "hash": "8BE744381CBF1482",
+      "target": "Bueno, quizá mejor una negra. ¿O no...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSB04954_000_100",
+      "hash": "11F34CA11AF85735",
+      "target": "¿Algo frío y rico que deje huella? Eso es difícil."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSB04954_000_101",
+      "hash": "AF1EF4070EFCADCF",
+      "target": "El Asilo Volcánico es tierra de luchadores, así que aquí la comida es sobre todo contundente y saciante..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSB04954_000_102",
+      "hash": "0B39CB52A92658B5",
+      "target": "¡Ah, ya sé! Hay un puesto muy popular al suroeste que quizá tenga justo lo que busca. ¿Por qué no se acerca a echar un vistazo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSB04954_000_105",
+      "hash": "17BA4189CBDEA47C",
+      "target": "A mí también me da curiosidad ese puesto, pero todavía no me he pasado. Aun así, podría ser justo lo que hace falta."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSC04954_000_110",
+      "hash": "5F70D41CF752CB17",
+      "target": "Uf... Después de un buen rato en remojo con este calor, necesito un helado de estrella dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSC04954_000_111",
+      "hash": "DF2EEDD9861D0289",
+      "target": "¿Qué? ¿No conoces el helado de estrella dorada? ¡Es nada menos que la golosina más popular del Asilo Volcánico!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSC04954_000_112",
+      "hash": "24AF52B477A9AFA0",
+      "target": "Cuesta un poco hincarle el diente, pero no puedes venir aquí y no probarlo. Hay un puesto justo al suroeste, ¡así que no tienes excusa!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ASYLEVENDLESSC04954_000_115",
+      "hash": "0F646BE2A796DA2A",
+      "target": "Cuando veas el helado lo entenderás: hay que manejarlo con cuidado. ¡No querrás que toda esa delicia acabe hecha un charco en el suelo!"
+    },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SYSTEM_000_116", "hash": "60220A61213A0C01", "target": "Según lo que has averiguado por los lugareños, el puesto del suroeste parece prometedor." },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ICECREAMCLERK04954_000_118",
+      "hash": "13FC0AE7705BB0A9",
+      "target": "¡Hola! ¿Le apetece nuestro famoso helado de estrella dorada?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_120",
+      "hash": "373FB3B84FD522DA",
+      "target": "Je, tú también por aquí. Todos con los que he hablado me han recomendado el helado de estrella dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_121",
+      "hash": "A5E5C4161ACD36E7",
+      "target": "Esas bolas de colores apiladas unas sobre otras─eso será el helado, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_122",
+      "hash": "4173D56D6A85C74D",
+      "target": "Ya veo el atractivo, pero va a ser difícil entregarlo de una pieza. Necesitamos tres raciones, así que pidámosle a G'raha que lleve una."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_Q1_000_000",
+      "hash": "017BDD9E0F73D3E5",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_A1_000_001",
+      "hash": "0F6DA68B3E839DB1",
+      "target": "¡Déjamelo a mí!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_A1_000_002",
+      "hash": "DAB80D8F6F095243",
+      "target": "Estás hablando con <if(gnum4,una experta,un experto)> en transporte."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_123",
+      "hash": "A7A3021ED2E46266",
+      "target": "¿¡Quieres decir que puedes hacerlo <if(gnum4,tú sola,tú solo)>!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_124",
+      "hash": "58646E3E794D0FE8",
+      "target": "Bueno, parece que hay recipientes para llevar tres... ¿Seguro que puedes?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_125",
+      "hash": "E47FBAB745F1966B",
+      "target": "Genial. Desde luego están más seguros en tus manos que en las mías."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_126",
+      "hash": "F1A801697182EB56",
+      "target": "Voy a decirle a G'raha que está todo controlado. ¡Nos vemos en los manantiales!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ICECREAMCLERK04954_000_130",
+      "hash": "31E72CAD7CC240D1",
+      "target": "¡Hola! ¿Le apetece nuestro famoso helado de estrella dorada?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ICECREAMCLERK04954_000_131",
+      "hash": "87529EADE3F22F2E",
+      "target": "¡Muy bien, tres raciones marchando!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ICECREAMCLERK04954_000_132",
+      "hash": "99722F01B13ED07C",
+      "target": "¡Aquí tiene! Conviene ir rápido para que no se derrita, pero también con cuidado para que no se venga abajo. ¡Suerte y que aproveche!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ICECREAMCLERK04954_000_138",
+      "hash": "2F163C37F2BDE5BA",
+      "target": "Vaya, ¿se le ha venido abajo el helado? ¡No se preocupe, se lo arreglo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_140",
+      "hash": "F10EBFD63F6FED19",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>. Estamos deseando ver qué traes."
+    },
+    { "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_SYSTEM_100_140", "hash": "7F74BB74793B8BC0", "target": "Habla con el vendedor de helados y entrega el helado a Krile antes de que se acabe el tiempo." },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_141",
+      "hash": "C2D3DB75DAB02A6F",
+      "target": "¡Madre mía, qué pinta más espectacular! ¡Muchísimas gracias, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_WUKLAMAT_000_145",
+      "hash": "2D908CD0429195DC",
+      "target": "¡Ha salido genial! Y tú, <split(<string(gstr1)>, ,1)>─¡menudo sentido del equilibrio tienes!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_GRAHATIA_000_150",
+      "hash": "54592F9BFB1DA836",
+      "target": "Aunque no supiera a nada, el helado ha sido un festín para la vista. Me alegro de que haya servido para relajar la tensión."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ALAYLA_000_155",
+      "hash": "6576CFBE7BC18F7A",
+      "target": "Todos ustedes tienen buen corazón. Nuestra hija tiene suerte de contar con amigos como ustedes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_ROBOR_000_160",
+      "hash": "447A8A5C272129AF",
+      "target": "Se han tomado muchas molestias por nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_170",
+      "hash": "7FB4D0E4E86C4B5C",
+      "target": "<split(<string(gstr1)>, ,1)>, Raha, Lamaty'i..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_171",
+      "hash": "5F3B2276EEB896E1",
+      "target": "Con vuestra ayuda no solo he podido estrechar lazos con mis padres, sino también conocer la alegría de compartir una comida con ellos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf109_04954#TEXT_KINGMF109_04954_KRILE_000_172",
+      "hash": "38266952E8AEAA51",
+      "target": "Por eso, y por tantas otras cosas, os doy las gracias."
+    }
+  ]
+}

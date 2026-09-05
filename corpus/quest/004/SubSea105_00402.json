@@ -1,0 +1,87 @@
+{
+  "conversation": "quest/004/SubSea105_00402",
+  "questName": "Thanks a Million",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_1",
+      "hash": "1C300DB0E8A7A53E",
+      "target": "Me alegra volver a verte, <if(gnum4,muchacha,muchacho)>. Un carretero acaba de volver con muchísima prisa, gritando sobre no sé qué monstruosidad que salió de una plántula de millioncorn de su carga."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_2",
+      "hash": "DE05DF36F6BD78DE",
+      "target": "Por lo visto, el cobarde la tiró por la borda antes de dar media vuelta y salir corriendo por su vida. Necesito que vayas por el camino, recuperes esa plántula y se la entregues a Lyulf, en el Vencejo, en La Noscea Occidental."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_3",
+      "hash": "BEBD34F451A69340",
+      "target": "Lo que te pague por la carga es tuyo, quédatelo. A fin de cuentas, no sé muy bien qué más andará acechando dentro de esa planta, y mereces recompensa por las molestias."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_WYRKRHIT_000_4",
+      "hash": "02C72890F934467B",
+      "target": "Ah, y también encontrarás una eterita en el Vencejo, así que el viaje bien merecerá la pena."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_11",
+      "hash": "ABFBE9B3C5EE1BA2",
+      "target": "¿Acaso la propia Nymeia ha abandonado esta tierra desolada? Sabía que había riesgos en jugarme toda mi fortuna a una cosecha de millioncorn, ¡pero al menos esperaba que la plántula llegara antes de que sobreviniese el desastre!"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_12",
+      "hash": "51DE7422511B2F2A",
+      "target": "¿Es... es esa mi plántula de millioncorn? ¡Oh, día venturoso! Puede parecer un comienzo insignificante, pero el rendimiento de esta variedad de planta de cultivo es sencillamente asombroso."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_13",
+      "hash": "DF05EBBE229D051D",
+      "target": "Como sin duda habrá notado, al Vencejo le falta cierta... ¿cómo decirlo?, energía vital. Por eso me propongo devolver una pizca de esperanza a sus habitantes ¡cultivando todo un océano de maíz!"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_LYULF_000_14",
+      "hash": "F720CBEE82E973A9",
+      "target": "¡Usted, <if(gnum4,señora,señor)>, parece a punto de reventar de brío y vigor! ¿Podría convencerle de que se quede un tiempo y ayude a sacar adelante este alicaído asentamiento?"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_POP_MESSAGE",
+      "hash": "A625C25C5B1F4771",
+      "target": "¡Percibes una presencia hostil!"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_00",
+      "hash": "CDF9D48B2A1E9D1D",
+      "target": "Wyrkrhit, operario del Skylift, necesita que recuperes una carga abandonada por un carretero aterrorizado y la entregues a su destinatario."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_01",
+      "hash": "8A185A38910291F0",
+      "target": "Un carretero se asustó tanto al ver surgir una criatura de pesadilla de entre su carga que la arrojó por la borda antes de huir de vuelta al Skylift. Busca la plántula de millioncorn abandonada en algún punto del camino al Vencejo."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_02",
+      "hash": "69250F7BF50049A9",
+      "target": "Has recuperado la plántula de millioncorn abandonada. Continúa hasta el Vencejo, en La Noscea Occidental, y entrega la carga a un impaciente Lyulf."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SEQ_03",
+      "hash": "6F2A70F76BB358E0",
+      "target": "Llegas al Vencejo y encuentras a sus habitantes tan desolados como los campos que los rodean. Solo Lyulf parece tener un propósito, pero queda por ver si sus esfuerzos por devolver algo de vitalidad al asentamiento darán fruto... o mazorca, más bien."
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_TODO_00",
+      "hash": "5854C50DCD5A8348",
+      "target": "Recuperar la plántula de millioncorn"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_TODO_01",
+      "hash": "53B59DF68660DD5D",
+      "target": "Entregar la plántula de millioncorn a Lyulf, en el Vencejo"
+    },
+    {
+      "gameKey": "quest/004/SubSea105_00402#TEXT_SUBSEA105_00402_SYSTEM_100_000",
+      "hash": "D16031DDEE2F1CA3",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "conversation": "quest/004/SubSea106_00403",
+  "questName": "Relighting the Torch",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_FRAELOEF_000_1",
+      "hash": "F4C1AB2F00D588B1",
+      "target": "Eh, tú. Aventurero. Dirige la vista hacia el Faro del Cervecero. ¿No te parece que su luz está inusualmente débil?"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_FRAELOEF_000_2",
+      "hash": "93DB3C31B6470756",
+      "target": "No puede tener brillo suficiente para guiar a los barcos que navegan por la bahía. Yo mismo me acercaría al faro a investigar, pero el deber me obliga a permanecer en mi puesto."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_FRAELOEF_000_3",
+      "hash": "30A65ECC16FE8116",
+      "target": "Te agradecería que te acercaras al Faro del Cervecero y comprobaras si algo le ha pasado a Khanswys, la farera."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_11",
+      "hash": "1309DD3E5BA7817B",
+      "target": "¿Dices que te ha mandado aquí una Casaca Amarilla? ¿Eh? ¿Que mi luz se ha apagado? ¡Pues claro que sí, maldita sea!"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_12",
+      "hash": "F17A65CDAEEE69FB",
+      "target": "Es que la bomba que alimenta mi horno ha ido y se ha largado, ¿ves? Como no arregle ese faro pronto, habrá problemas en el agua..."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_13",
+      "hash": "61ABAB6FF44032EE",
+      "target": "Sé que solo eres el mensajero, <if(gnum4,muchacha,muchacho)>, pero reconozco a un aventurero en cuanto lo veo. Voy a necesitar que persigas a esa bomba y me traigas una garra que le arranques de su humeante cadáver."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_14",
+      "hash": "786DB54D8D5E06F3",
+      "target": "Coge este brasero de hierro y colócalo en medio de the Flock, cerca del espantapájaros, diría yo. Enciende un buen fuego y esa bomba juguetona no tardará en aparecer. Ojo, no vayas a chamuscarte las cejas, <if(gnum4,muchacha,muchacho)>."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_FRAELOEF_000_31",
+      "hash": "A1398CF3587DC6E9",
+      "target": "¿Que el horno está dañado? Muy bien, redactaré los informes pertinentes, pero estas reparaciones han de efectuarse sin demora."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_FRAELOEF_000_32",
+      "hash": "FBFBD2048793DD89",
+      "target": "Parece que he de pedirte otro favor, aventurero. Ve derecho al Gremio de Armeros de Limsa Lominsa y explícale la situación a la maestra herrera H'naanza."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_HNAANZA_000_41",
+      "hash": "E853979EB537335E",
+      "target": "¿El horno del Faro del Cervecero necesita reparrraciones? Por las barbas de Byregot, si no hace ni una semana que mandé a alguien a trastear con él. ¿Será que la bomba que Khanswys tenía encerrada ahí era un pelín demasiado volátil...?"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_HNAANZA_000_42",
+      "hash": "74C41649B9C0737F",
+      "target": "Mandaré a un artesano al faro y le diré que preste especial atención a reforrrzar la carcasa de ese horno. Aquí tu labor ha terminado, aventurero. Que la Navegante te guíe en tus viajes."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_21",
+      "hash": "C1A424B9A3304B85",
+      "target": "Todo lo que tienes que hacer es acabar con esa bomba fugitiva y traerme una de sus garritas."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_22",
+      "hash": "B8F4D0C08AC7A939",
+      "target": "Ah, ¿así que le has dado al condenado ceniciento? En cuanto meta este petardillo en el horno, la cosa debería seguir funcionando una temporada."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_23",
+      "hash": "CF70D9A02092BF33",
+      "target": "Le eché un vistazo mientras no estabas y, que Llymlaen me maldiga si el horno no estaba todo torcido y roto. No me extraña que la maldita bomba pudiera escapar."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_KHANSWYS_000_24",
+      "hash": "24864B9F02335853",
+      "target": "Lo apañé lo mejor que pude, pero yo no soy herrera. Quizá te convenga hablar con ese amigo tuyo Casaca Amarilla del Vencejo y que él pase el aviso a alguien de Limsa."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_POP_MESSAGE",
+      "hash": "95B434B89B48712A",
+      "target": "¡Percibes una presencia hostil!"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_00",
+      "hash": "6510E742E667371A",
+      "target": "Fraeloef, un Casaca Amarilla de guardia en el Vencejo, quiere que visites el Faro del Cervecero e investigues por qué se debilita su luz."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_01",
+      "hash": "8DAE99F24C3F493C",
+      "target": "Con el haz del faro peligrosamente apagado, los barcos podrían acabar navegando hacia peligros que no ven. Visita el Faro del Cervecero y averigua qué le ha ocurrido a Khanswys, la farera."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_02",
+      "hash": "3F7F64B5FDFE1D77",
+      "target": "Localiza el espantapájaros en el centro del criadero de dodos conocido como «la Bandada» y deja el brasero de hierro en el suelo, cerca de él."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_03",
+      "hash": "2D51C0ACF3C550A8",
+      "target": "Enciende un fuego en el brasero para atraer a la bomba fugitiva. Derrótala y consigue una garra de bomba de sus restos."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_04",
+      "hash": "E85E564DD49BC4DD",
+      "target": "Has conseguido la garra de bomba que Khanswys necesita para alimentar su horno. Vuelve al Faro del Cervecero y entrega el humeante apéndice a la farera."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_05",
+      "hash": "A7ED86953912946C",
+      "target": "Aunque la garra de bomba basta para alimentar el faro por el momento, Khanswys duda de la calidad de su arreglo improvisado. Vuelve al Vencejo e informa de la situación a Fraeloef."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_06",
+      "hash": "9D54EEFF9538DEAD",
+      "target": "Fraeloef piensa presentar informes sobre el incidente del faro, pero le preocupa el frágil estado del horno. El Casaca Amarilla te pide que te des prisa en llegar al Gremio de Armeros y le pidas a la maestra herrera H'naanza que supervise las reparaciones necesarias."
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SEQ_07",
+      "hash": "290A41F1DAE5F4FB",
+      "target": "Tras oír tu petición, la maestra herrera H'naanza accede a reparar el horno averiado. La armera comenta, con cierta irritación, que el horno se había arreglado hace bien poco. Parece que la bomba encerrada dentro pudo ser demasiado volátil, pero ¿habrá otra razón para el fallo del aparato...?"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_00",
+      "hash": "718864AA82937986",
+      "target": "Hablar con Khanswys"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_01",
+      "hash": "C613B8153CD2A1E8",
+      "target": "Colocar el brasero de hierro en el suelo, cerca del espantapájaros"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_02",
+      "hash": "5C177B3909E09D22",
+      "target": "Encender el brasero y conseguir una garra de bomba de la bomba que atraigan las llamas"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_03",
+      "hash": "2AE858B5DA4E4011",
+      "target": "Entregar la garra de bomba a Khanswys"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_04",
+      "hash": "224244676B8A5C24",
+      "target": "Volver al Vencejo e informar a Fraeloef"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_TODO_05",
+      "hash": "CC3B2693E9C70CF5",
+      "target": "Hablar con la maestra herrera H'naanza, en Limsa Lominsa"
+    },
+    {
+      "gameKey": "quest/004/SubSea106_00403#TEXT_SUBSEA106_00403_SYSTEM_100_000",
+      "hash": "A5070F9838C4BF0A",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»."
+    }
+  ]
+}

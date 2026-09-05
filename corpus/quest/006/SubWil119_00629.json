@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/006/SubWil119_00629",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_00", "hash": "E1C951B617A3F83E", "target": "Eaduuard quiere hacer una lápida para su difunta hermana." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_01", "hash": "A1572F074B592EE9", "target": "Eaduuard quiere que se labre una lápida solemne, digna de su difunta hermana. Búscale algo de mármol nuboso en los peñascos del este." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_02", "hash": "59B6FF768FF1DFD3", "target": "Has obtenido el mármol nuboso. Llévaselo al hermano Esmour a la Iglesia de San Adama Landama." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_03", "hash": "0962EE18550DCCA7", "target": "El hermano Esmour parece contrariado por la obstinación de Eaduuard en conseguir el mármol nuboso, pero entiende la necesidad del muchacho de hacer su duelo a su manera. Habla con Eaduuard y hazle saber que ya tiene su piedra." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_SEQ_04", "hash": "9BDACA24B6D2E52A", "target": "Eaduuard se siente aliviado de que la lápida de su hermana pueda prepararse ya con los materiales adecuados. Sin embargo, parece que tendrá que trabajar en la iglesia una temporada para sufragar los gastos del funeral." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_00", "hash": "FD904DF8A1FABD8D", "target": "Obtener una losa de mármol nuboso" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_01", "hash": "75E9CFD21A31B5FF", "target": "Entregar el mármol nuboso al hermano Esmour" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_TODO_02", "hash": "368B0ACD5CA0C791", "target": "Informar a Eaduuard" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_1", "hash": "D44EF9870451E37A", "target": "Eres de esos aventureros, ¿a que sí? Te agradecería un montón que me echaras una manilla. Es que quiero hacerle una lápida a mi hermanita, que se murió, ¿sabes?..." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_2", "hash": "7F349B72430C5B4A", "target": "Pero no tengo gil pa' pagarla. He oído que hay piedras buenas pa' coger no muy lejos de aquí, pero no soy lo bastante mayor pa' plantar cara a las bestias salvajes y esas cosas." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_3", "hash": "7EF60ED511946D2C", "target": "Tenía la esperanza de conseguir un poco de mármol nube. A ella le habría encantado. Dicen que brota del suelo al este de aquí. Si pudieras encontrar un poco y llevárselo al hermano Esmour, mi hermana y yo te estaríamos superagradecidos." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_10", "hash": "A627D1EF4BDA4F72", "target": "¿Tiene otra vez algún asunto por aquí, <if(gnum4,amiga,amigo)>?" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_11", "hash": "08361D33C452DD3D", "target": "¿Mármol nube? ¿Para hacerle una lápida a la hermana de Eaduuard? \\<suspiro> Ese chaval no da más que problemas." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ESMOUR_000_12", "hash": "8FE62BB875CCA32F", "target": "Bastante me costó convencerle de que no fuera a buscar la piedra él solo. Aun así, supongo que no hay más remedio, y perder a un ser querido nunca es fácil. Gracias por su parte en todo esto. Me encargaré de que el mármol se use como Eaduuard desea." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_20", "hash": "6305FE5D62EE50FF", "target": "¡Por los dioses, los aventureros sí que sois buena gente! Ahora solo me falta dinero pa' el funeral. Me voy a quedar un tiempo aquí, en la iglesia, echando una mano." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_21", "hash": "4F3130B53A6B4151", "target": "No estaría bien dejárselo <italic(1)>todo<italic(0)> a otro. Significará más pa' mi hermana si hago lo que pueda por mí mismo." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_EADUUARD_000_22", "hash": "A60E7D5365E7C944", "target": "El hermano Esmour y la hermana Airell también son buena gente. Dicen que no me hace falta gil pa' enterrar aquí a mi hermana, pero yo sé cómo va esto. Hace falta dinero pa' enviarla como es debido junto a Thal." },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_POP_MESSAGE", "hash": "B3E7C74C9FA692DD", "target": "¡Percibes una presencia hostil!" },
+    { "gameKey": "quest/006/SubWil119_00629#TEXT_SUBWIL119_00629_ACCESS_MESSAGE", "hash": "9050AF0AC9CC7D66", "target": "¡El enemigo aún ronda por aquí!" }
+  ]
+}

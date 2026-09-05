@@ -1,0 +1,801 @@
+{
+  "conversation": "quest/049/KinGmd112_04923",
+  "questName": "In Yyasulani's Shadow",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SEQ_00", "hash": "4D9D3928725DAB8C", "target": "Alphinaud reflexiona sobre la mejor manera de ayudar a llevar a cabo el plan de Wuk Lamat." },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_00", "hash": "7E8BD7D1BADD14B0", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_01", "hash": "238C80C15C7704D4", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_02", "hash": "CD31C92FC2EFC501", "target": "Hablar con Kemakka en Hhusatahwi" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_03", "hash": "896FFF4B83AFAE2E", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_04", "hash": "A323E7A6D14AEE54", "target": "Inspeccionar al soldado caído" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_05", "hash": "F681C79E73AD2869", "target": "Hablar con Iyaate" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_06", "hash": "1D16A3555A573572", "target": "Hablar con un empleado de Xak Tural Railing" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_07", "hash": "120183DDF67883F7", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_08", "hash": "4C35AE7011588AB4", "target": "Hablar con Y'shtola" },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_TODO_09", "hash": "01C2E5901316E089", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KRILE_000_001",
+      "hash": "9EED8E85DA6F2E50",
+      "target": "El pueblo de Tural se ha unido para esta lucha. Debemos esforzarnos por no fallarles."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_002",
+      "hash": "159987B64827B48A",
+      "target": "Resulta inspirador ver a pueblos tan distintos unirse como uno solo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_003",
+      "hash": "174577D97CF37403",
+      "target": "...Lo ha hecho bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_004",
+      "hash": "23DC8497761399B8",
+      "target": "Me alegra ver que ha venido tanta gente. No sabía a cuántos había convencido, así que decidí seguir insistiendo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_GRAHATIA_000_005",
+      "hash": "CC4FBD064E0F7073",
+      "target": "Espero con ganas el día en que la paz vuelva a Tural. Hay tantísimo que quiero ver."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_010",
+      "hash": "D69B3D0BDF72A552",
+      "target": "Bien, ha llegado la hora de partir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_011",
+      "hash": "5825E146F6BCA350",
+      "target": "Los que nos quedamos aquí os acompañaremos parte del camino."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_012",
+      "hash": "D2311499B84AD0D0",
+      "target": "Yo, desde luego, quisiera ver la cúpula de primera mano."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_013",
+      "hash": "E7B666BE419A7E04",
+      "target": "Saldremos en cuanto todos estén listos. Le diré a Wuk Lamat que─"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_014",
+      "hash": "D8AD1787986ADAA0",
+      "target": "¡Aquí estáis todos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_015",
+      "hash": "24B01FD91A1A54A8",
+      "target": "¡Ah, Lamaty'i!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_016",
+      "hash": "38AA0561F624AC46",
+      "target": "Justo íbamos a ir a buscarte. ¿Estás lista para partir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_017",
+      "hash": "5C5839FDDE8164AE",
+      "target": "Lo estoy. Ver al pueblo unirse como uno solo y saber que no ha perdido la esperanza ha sido todo el ánimo que podía pedir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_018",
+      "hash": "104E27FB39F23FC5",
+      "target": "¡Muy bien, en marcha! ¡Salimos por la Puerta de Xak Tural!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_020",
+      "hash": "EC8D5832CEB9E8C1",
+      "target": "¿Estamos todos? Bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_021",
+      "hash": "2DA8C451CF065F7B",
+      "target": "Ha llegado el momento, amigos. Vamos a acabar con Zoraal Ja y a asegurar la paz de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_022",
+      "hash": "09FB2ABCD9C114BB",
+      "target": "Pasaremos por Shaaloani, donde ha habido informes de movimientos enemigos, así que estad atentos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KRILE_000_025",
+      "hash": "8667B1C9E373BAD2",
+      "target": "Deberíamos tener todo lo necesario para la expedición: comida, medicinas y equipo. ¡Es asombroso lo que cabe en la mochila de Erenville!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_026",
+      "hash": "5BA3ABE38AEA3398",
+      "target": "Incluso desde lejos noto que hay algo que no encaja en esa cúpula."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_027",
+      "hash": "ACC796929CE96EA8",
+      "target": "Yyasulani no está precisamente cerca de Shaaloani. Si el tren no funciona, tendremos que buscar otros medios de viajar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_028",
+      "hash": "25AD60EF5E8222A9",
+      "target": "Como dice Lamaty'i, no bajemos la guardia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_029",
+      "hash": "E64D467E73E5B628",
+      "target": "Koana y Ketenramm seguirán llevando los asuntos del palacio. En cuanto inspeccione la cúpula, me uniré a ellos para preparar la defensa ante nuevas incursiones."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_GRAHATIA_000_030",
+      "hash": "E96C765F8578A44B",
+      "target": "Al parecer la cúpula queda bastante más allá de Shaaloani. Menos mal que tenemos a Erenville para guiarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_040",
+      "hash": "67A38887FA4755A8",
+      "target": "La Legión del Alba me habló de ellas. Salieron de la cúpula una tras otra y se quedaron ahí arriba, cerniéndose sobre nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_041",
+      "hash": "4E96786452C2632D",
+      "target": "Una demostración de fuerza, como las naves de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_042",
+      "hash": "34E533E851EA4CE9",
+      "target": "Así es. Y aunque no hayan emprendido ninguna acción agresiva, quiero ver cómo están las cosas por la zona antes de seguir."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_043",
+      "hash": "34BD4A142AF67D99",
+      "target": "Pasaremos por unos cuantos asentamientos de camino a la Estación de Shaaloani. Es la ocasión perfecta para echar un vistazo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_044",
+      "hash": "2FEDEE227760A6C5",
+      "target": "En ese caso, <split(<string(gstr1)>, ,1)> y yo conocemos a algunos lugareños que pueden ayudarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_045",
+      "hash": "9CE2DC7E2AD4AAA4",
+      "target": "Entonces dividámonos en dos grupos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_046",
+      "hash": "BF07D52C5E3617E6",
+      "target": "Erenville, Alisaie y <split(<string(gstr1)>, ,1)> vendrán conmigo a preguntar a los lugareños. Mientras tanto, los demás podéis ir a inspeccionar la cúpula."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_047",
+      "hash": "863F5CFF86B19F85",
+      "target": "Entendido. Cuando todos hayan terminado, reunámonos en la Estación de Shaaloani."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_048",
+      "hash": "2DE2578F1ADDB558",
+      "target": "Podemos empezar por Hhusatahwi. Allí es donde tiene su base la Guardia del Polvo, si no recuerdo mal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_049",
+      "hash": "CDC40CCD4CC82B7C",
+      "target": "No recuerdas mal. El jefe Kemakka debería poder contarnos alguna cosa."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KEMAKKA_000_050",
+      "hash": "4EAF273795D8641B",
+      "target": "Vaya, sois vosotros dos... ¡y no me lo puedo creer, también el Juramento Wuk Lamat!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_051",
+      "hash": "A084FFAC00DE8678",
+      "target": "Eres el jefe de la Guardia del Polvo, ¿verdad? ¿Cómo está la cosa aquí, en Hhusatahwi?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KEMAKKA_000_052",
+      "hash": "B30131ADF679EA43",
+      "target": "Bueno, el enemigo aún no ha intentado meterse con nosotros. Las naves nos dieron un buen susto cuando aparecieron, pero se han quedado ahí flotando, sin moverse."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KEMAKKA_000_053",
+      "hash": "5EE0D41ED3E81E19",
+      "target": "Dicho eso, he recibido informes inquietantes de otros sitios. Hemos investigado lo que hemos podido, pero vamos escasos de gente y todavía no nos hemos acercado a los Manantiales de Sheshenewezi."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KEMAKKA_000_054",
+      "hash": "8FEE016113DE5D26",
+      "target": "Al parecer se vieron soldados mecánicos por allí cerca..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_055",
+      "hash": "E0EBCC65AE1A746E",
+      "target": "¿¡Cómo!? Si eso es cierto, ¡la gente de allí corre peligro!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_056",
+      "hash": "2B5F57D38C47B547",
+      "target": "Los demás poblados también me preocupan. Si vosotros vais a los Manantiales, yo me acercaré a Mehwahhetsoan."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_057",
+      "hash": "44FEDD3C8BDB38B3",
+      "target": "Yo acompañaré a Erenville. Nos vemos dentro de un rato."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_060",
+      "hash": "E5C2FBB7B3C4EEFB",
+      "target": "A primera vista todo parece en orden..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_061",
+      "hash": "01024117C1E706DA",
+      "target": "La gente de estas tierras es valiente de verdad, quedándose aquí con esas naves sobre sus cabezas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_100_061",
+      "hash": "D7F87BBD3E02530D",
+      "target": "Así que esta región tiene su propia fuerza del orden."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KEMAKKA_000_062",
+      "hash": "99C22F96B959D3B4",
+      "target": "Es un honor que el Juramento Wuk Lamat nos visite en persona. Tened cuidado ahí fuera."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_070",
+      "hash": "24499EBE87B156FB",
+      "target": "Y por aquí, todo despejado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_100_070",
+      "hash": "6F65A5C92A72CABD",
+      "target": "Los soldados mecánicos no parecen andar por la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_071",
+      "hash": "D4862E6BCE6DA24A",
+      "target": "Aun así, deberíamos hablar con los vecinos. Demos una vuelta cada uno a ver qué averiguamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_080",
+      "hash": "C4F9184ABF472B26",
+      "target": "¡<split(<string(gstr1)>, ,1)>, has venido! Como ves, estamos bien."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_081",
+      "hash": "7F7A0538C32DEDD4",
+      "target": "Después de que aparecieran esas naves en el cielo, se presentaron unos soldados de blanco y rodearon el pueblo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_082",
+      "hash": "BBB8A1B8E844FFDF",
+      "target": "Pero, para nuestra sorpresa y alivio, llegó un viajero y acabó con todos en un pispás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_083",
+      "hash": "A3A1590E3636EF7D",
+      "target": "Nunca olvidaré cómo volaba por el aire con la lanza en la mano. Lástima que no tuviera ocasión de preguntarle el nombre."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_084",
+      "hash": "78B73675ED72A386",
+      "target": "Estamos todos a salvo gracias a él, pero no puedo decir lo mismo de los de Yyasulani. No hemos sabido nada de nadie de allí. Espero que Namikka esté bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_095",
+      "hash": "DF98F90AE0F1DA67",
+      "target": "¡Ah, usted es quien nos ayudó el otro día!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_096",
+      "hash": "701FC1FC10422494",
+      "target": "Wawlika y los demás han salido a investigar, y han confirmado que Nitowikwe está a salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_097",
+      "hash": "885254F0969D66E0",
+      "target": "La cúpula apareció después de que el tren emprendiera el viaje de vuelta hacia aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_098",
+      "hash": "B20C6CE38E3D3997",
+      "target": "Así que los que iban a bordo entonces están bien, pero no sabemos qué ha sido de quienes se bajaron en Yyasulani..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_099",
+      "hash": "F211297D080DB08A",
+      "target": "\\<suspiro> Menudo desastre. Y justo después de terminar de arreglar las vías."
+    },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SYSTEM_000_100", "hash": "6FBA1F167E9C1797", "target": "El soldado mecánico no muestra signos de vida." },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SYSTEM_000_101", "hash": "812B1ABCB2B1BEF2", "target": "Parece que lo han atravesado con un arma de asta." },
+    { "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SYSTEM_100_101", "hash": "5AE4E059D110CF0A", "target": "El soldado mecánico parece haber sido atravesado con un arma de asta." },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_IYAATE_000_102",
+      "hash": "2BD54A06A176FA90",
+      "target": "Elene'shpya debe de estar preocupadísimo. Ojalá esté bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_XTRREMPLOYEE04923_000_103",
+      "hash": "EAF4F50E36DD1ADE",
+      "target": "Cuando vuelva el jefe, le diré que se ha pasado usted por aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_104",
+      "hash": "75A82AE1AEDB01C6",
+      "target": "Ah, así que fue eso. Menos mal que apareció cuando lo hizo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_105",
+      "hash": "0E17FE0979C7992E",
+      "target": "¿Tú también has oído lo del hombre de la lanza?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_106",
+      "hash": "FF65BC7299663676",
+      "target": "No puede ser otro..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_107",
+      "hash": "CFCF32A915DCDBFE",
+      "target": "¿Qué pasa? ¿Alguien anda cotilleando sobre mí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_108",
+      "hash": "5CA3CED23A3424E8",
+      "target": "¡Las noticias de cómo salvé el pueblo vuelan, jajaja!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_109",
+      "hash": "5967122C97B19A54",
+      "target": "Lo cual no le quita mérito a la ayuda de mi amigo aquí presente, claro. ¡Les dimos una buena paliza a esas máquinas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_110",
+      "hash": "F929AFEE0A5D3141",
+      "target": "Suponía que aparecerías tarde o temprano. ¿Sabéis qué está pasando?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_111",
+      "hash": "8BB6FE5F7D8CD8AC",
+      "target": "¡Así que eras tú quien mantenía a salvo a la gente! Gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_112",
+      "hash": "6113E1F95BF4091C",
+      "target": "No tiene importancia. Los autómatas no son especialmente fuertes."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_113",
+      "hash": "D87947ED2D15F5CF",
+      "target": "Pero ¿son ciertos los rumores? ¿Han matado a Gulool Ja Ja?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_114",
+      "hash": "B1ACD8618526656D",
+      "target": "Me temo que sí... Zoraal Ja recurrió a una treta sucia para vencerlo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_115",
+      "hash": "9003AF6FA16C36F4",
+      "target": "Le haremos pagar lo que ha hecho, dalo por seguro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_116",
+      "hash": "DBF683CF14931B7D",
+      "target": "Vas a ayudarla, supongo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_117",
+      "hash": "5731116CCC62A396",
+      "target": "Ya veo. Con vuestro grupo no os faltará fuerza. En tal caso, me quedaré en Shaaloani vigilando la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_118",
+      "hash": "EAFF19A0A380B408",
+      "target": "¡Eso nos ayuda más de lo que crees! Le mandaré aviso a mi hermano antes de partir. Si te ves en apuros, no dudes en ponerte en contacto con Koana."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_119",
+      "hash": "AA4DE951C1339464",
+      "target": "¿Koana? ¿Hermano?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_120",
+      "hash": "CC0336FE642921A1",
+      "target": "¡Un momento! ¿¡Tú eres el Juramento de la Resolución!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_121",
+      "hash": "86C4083E3AEC2D05",
+      "target": "Lo soy. Y tú eres Zekowa, ¿verdad? Contaré contigo para mantener a salvo a la gente de aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_122",
+      "hash": "3BB652BF2F14D46E",
+      "target": "¡Por supuesto! Si aparecen más de esos hombres huecos, ¡los mando de vuelta a casa a patadas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_123",
+      "hash": "AA4B01D7C843921A",
+      "target": "Al fin y al cabo, soy el pistolero más rápido de Shaaloani. <split(<string(gstr1)>, ,1)> puede dar fe."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_124",
+      "hash": "D2CE4AECBB9B519E",
+      "target": "Me alegra oírlo. Dejamos Shaaloani en vuestras buenas manos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZEKOWA_000_125",
+      "hash": "05CF7EF27C053C5D",
+      "target": "¡Pues vamos a patrullar ahora mismo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_126",
+      "hash": "BBB8EF832904B786",
+      "target": "Ten cuidado ahí fuera y no hagas ninguna imprudencia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ESTINIEN_000_127",
+      "hash": "5D448AA2241CDF7A",
+      "target": "...Palabras perdidas, ¿eh? Tú haz lo que te salga de dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_128",
+      "hash": "1CDA0BBE734C905C",
+      "target": "Bien, va siendo hora de que vayamos a la estación a reunirnos con los demás."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_130",
+      "hash": "DFF5B9B7DF1AC9B9",
+      "target": "Gracias a Estinien, en Shaaloani no ha habido bajas que lamentar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_131",
+      "hash": "8CB1232673394772",
+      "target": "Los Hhetsarro también estaban a salvo. Por lo menos, allí no se ha visto ningún soldado."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_132",
+      "hash": "BD0DE8F27B339EFE",
+      "target": "¿Y la cúpula? ¿Habéis averiguado algo de interés?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_133",
+      "hash": "1AB10D03DDF744A1",
+      "target": "Está compuesta por concentraciones altísimas de energía de rayo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_134",
+      "hash": "02C8C5095CC3FC6B",
+      "target": "Bastaría con tocar la barrera para morir. Al acercarnos, debemos extremar la precaución."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_135",
+      "hash": "ACD0C0BFE5E4DCEC",
+      "target": "¿Y cómo se supone que vamos a entrar? Si Zoraal Ja y su ejército salieron de ahí dentro, tiene que haber una entrada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_136",
+      "hash": "0D293385544469F5",
+      "target": "¿Una entrada, dice? Da la casualidad de que quizá tengamos una idea de dónde está."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_100_136",
+      "hash": "386E066001E3BAD2",
+      "target": "Son los ingenieros de Xak Tural Railing, que explota el tren entre Shaaloani y Yyasulani."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZAWPYA_000_137",
+      "hash": "58917EE09FA9C584",
+      "target": "Cuando salimos a recuperar el tren, echamos un vistazo a la cúpula con un catalejo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_138",
+      "hash": "F194AE85B76B5B83",
+      "target": "¡Y fue entonces cuando lo vimos: una gran estructura como una fortaleza que parecía atravesar el borde de la cúpula!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_139",
+      "hash": "73BF93CBB7BED518",
+      "target": "¿Nos estáis diciendo que una parte está dentro y otra fuera?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZAWPYA_000_140",
+      "hash": "CC43CC78CDAEEC86",
+      "target": "Eso parecía, sí. Aunque solo lo observamos de lejos, los soldados entraban y salían de allí. Por eso diría que sirve de paso entre el mundo exterior y lo que haya dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZAWPYA_000_141",
+      "hash": "D50E2BF54A0AC1C1",
+      "target": "Pero, como cabía esperar, la zona estaba muy defendida. No será fácil acercarse."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_142",
+      "hash": "C8B89EC42D3690EB",
+      "target": "¿Sabéis qué ha sido de los pasajeros que fueron a Yyasulani? La nodriza de Wuk Lamat iba entre ellos, una mujer llamada Namikka."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_143",
+      "hash": "B730F3794D71A7BC",
+      "target": "¿¡Cómo!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_144",
+      "hash": "69CFABD84AD57575",
+      "target": "Me temo que no. Solo tenemos constancia de los pasajeros que volvían hacia aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_145",
+      "hash": "1B6EB40CCFF6A8BF",
+      "target": "Puedo asegurar que todo estaba en orden cuando llegamos a Yyasulani."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_146",
+      "hash": "A0D7FBAEC41D0961",
+      "target": "Pero cuando se produjo aquel temblor tan fuerte, poco después de salir de la estación, eché el freno de emergencia y miré atrás, y lo único que vi fue la cúpula."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_147",
+      "hash": "F6CD7F42048968E6",
+      "target": "Y encima la fortaleza está justo sobre las vías, mira tú por dónde. ¿Qué probabilidad había, eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KRILE_000_148",
+      "hash": "A216C82F1116E5F4",
+      "target": "Suponiendo que esa fortaleza sirva para atravesar la cúpula, primero deberíamos determinar cómo llegar hasta ella sin ser detectados."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_149",
+      "hash": "0D4FB168ADF3419B",
+      "target": "Me da igual que nos detecten. Yo digo que entremos por las bravas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_150",
+      "hash": "E6C6EBD3138F2B12",
+      "target": "Aunque suene así, lo he pensado bien. Zoraal Ja quiere que demuestre que soy digna sucesora de mi padre. Si fracaso, destruirá Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_151",
+      "hash": "D211C6A2A7DC6325",
+      "target": "Cargando de frente, dejo mis intenciones más claras que el agua y, con ello, mantengo sus ojos puestos en mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_152",
+      "hash": "041696FDF26D4AB4",
+      "target": "Una estrategia audaz. ¡Me gusta!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_153",
+      "hash": "124D4C273566C640",
+      "target": "Claro que de poco servirá vuestro plan si os abaten antes de llegar a su base."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_154",
+      "hash": "C79A56D2E536667C",
+      "target": "Lo que necesitáis es algo que os lleve allí rápido y rompa sus defensas de un solo golpe decisivo─y da la casualidad de que lo tenemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_155",
+      "hash": "F45CB7AF9E692356",
+      "target": "Como las vías llegan directas hasta la fortaleza, podemos blindar nuestro tren, cargarlo con todo el combustible que aguante y lanzarlo contra ella para que estalle al impactar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_156",
+      "hash": "9AB50591102411E8",
+      "target": "Jefe, ¿¡se ha vuelto loco!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZAWPYA_000_157",
+      "hash": "3269DEF1AADF70C0",
+      "target": "Si acaba de decir lo aliviado que estaba de que el tren siguiera de una pieza. ¿¡Y ahora quiere convertirlo en una bomba!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_158",
+      "hash": "E7A580DE29BC22A0",
+      "target": "¡El tren no es lo importante! Nuestro sueño era tener un ferrocarril que cruzara el continente de costa a costa, ¿os acordáis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_159",
+      "hash": "0162A376A7108E6F",
+      "target": "Si estos invasores se salen con la suya, puede que no queden ferrocarriles, y mucho menos trenes que circulen por ellos. ¿¡Es eso lo que queréis!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_160",
+      "hash": "B4575EE0574AFB9A",
+      "target": "Es un sacrificio que tenemos que hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_161",
+      "hash": "815ED11D4B35EB57",
+      "target": "Esta buena gente está dispuesta a jugarse la vida para entrar en esa cúpula y poner fin a todo esto. Lo mínimo que podemos hacer es ayudarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_162",
+      "hash": "8E55B6BE0CA99A95",
+      "target": "Pero, jefe..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_163",
+      "hash": "63C6FEA5D3A80D91",
+      "target": "Escuchad. Por muy mal que se pongan las cosas, por muchas veces que caigamos, siempre podemos volver a levantarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_164",
+      "hash": "ED5D4E737AA7C195",
+      "target": "Mientras estemos vivos, siempre podremos construir otro tren. Así que tened fe... ¡y dejaos de quejas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_165",
+      "hash": "9366BC69CB8DF9B5",
+      "target": "¿Y si caemos muy, <italic(1)>muy<italic(0)> fuerte? Si estamos muertos no hay quien se levante..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_166",
+      "hash": "A42D6895276E1727",
+      "target": "En este tren no va a morir nadie. Yo me encargo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_167",
+      "hash": "87CBC3461BB9A535",
+      "target": "Ni que decir tiene que será un viaje de ida, y habrá que saltar en el último momento si no queremos irnos en una llamarada de gloria."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_NITOWIKWE_000_168",
+      "hash": "258E9F472A5F75C2",
+      "target": "¿Os parece bien?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_169",
+      "hash": "A130D784F627825F",
+      "target": "No hay quien la haga cambiar de idea, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_170",
+      "hash": "5856298259467CD4",
+      "target": "Solo prométeme que tendrás cuidado ahí fuera, cariño."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_Q1_000_171",
+      "hash": "7D89230E5A83AF63",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_A1_000_172",
+      "hash": "997C43F857DD1F38",
+      "target": "Cuidaremos de tu mujer, te lo prometemos."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_A1_000_173",
+      "hash": "4DADC02345C9ADFB",
+      "target": "No te dejaremos penas que ahogar, no temas."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_174",
+      "hash": "75BDBDD060D44F43",
+      "target": "Os tomo la palabra. No se puede montar un negocio familiar sin ella, y mucho menos una familia."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_175",
+      "hash": "B910253AD07AAE4E",
+      "target": "Espero que no: en mi vida he probado una gota de alcohol."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_176",
+      "hash": "CE037FC2FA87508F",
+      "target": "Mentiría si dijera que perder el tren no me duele."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_177",
+      "hash": "9B4A2CC4ACE3D634",
+      "target": "Pero con buenos amigos y mi querida esposa al lado, al final eso es todo lo que necesito."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_SHENZA_000_178",
+      "hash": "872548C0F22F7FEA",
+      "target": "Bueno, al menos pasará a la historia como el tren legendario que salvó Tural."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ZAWPYA_000_179",
+      "hash": "D0D0CBF300948F49",
+      "target": "Así será. Pero antes tenemos trabajo que hacer para que dé la talla."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_180",
+      "hash": "29129BEA1EEE79B4",
+      "target": "No sé mucho de magitek, pero si hay algo que pueda hacer para ayudar, no tenéis más que decirlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_181",
+      "hash": "076267EA701A4115",
+      "target": "Lo tendremos en cuenta."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WAWLIKA_000_182",
+      "hash": "1075F337BBFD50E7",
+      "target": "Si alguno más puede y quiere echar una mano, hay faena en el almacén."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_183",
+      "hash": "CCDA653638559886",
+      "target": "Parece que tenemos un camino por delante. Creo que es buen momento para volver a Tuliyollal e informar a Koana de la situación."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_184",
+      "hash": "D4161C0A71EEE935",
+      "target": "Yo también volveré. Tengo nuevas investigaciones que emprender."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_YSHTOLA_000_185",
+      "hash": "A0DA3FD0AFCA457A",
+      "target": "El aspecto elemental de la cúpula se parece al de la puerta de la ciudad dorada. Si logramos identificar una relación, quizá aprendamos algo útil para la lucha."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_186",
+      "hash": "1FB8A3AB762A505F",
+      "target": "Es un misterio tras otro, pero al menos no nos faltan pistas. No será fácil, pero sé que juntos saldremos de esta."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KRILE_000_200",
+      "hash": "3C77F19AAACBF61B",
+      "target": "Raha y yo hemos visitado los asentamientos del oeste. Por suerte, no ha habido daños ni bajas que lamentar."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_205",
+      "hash": "62489A9B89A11CF3",
+      "target": "Mehwahhetsoan sigue a salvo, pero los animales están inquietos por lo ocurrido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_210",
+      "hash": "7E85376C29527611",
+      "target": "Parece que esos soldados solo aparecieron en los Manantiales de Sheshenewezi. ¿Irían tras el ceruleum?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_215",
+      "hash": "DF295564DEE89FD1",
+      "target": "Wuk Lamat me ha contado que Estinien estaba aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALPHINAUD_000_220",
+      "hash": "FCDDAC77B1D1FD6E",
+      "target": "Con él velando por ellos, la gente de Shaaloani no tendrá nada que temer."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_GRAHATIA_000_225",
+      "hash": "A26F83A265695A63",
+      "target": "La cúpula es absolutamente inmensa. ¿Qué clase de reino te imaginas que se ha adjudicado dentro de sus límites?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_230",
+      "hash": "EC6C58D7809DFBBF",
+      "target": "Parece que la gente de Shaaloani está a salvo. Menudo alivio."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_240",
+      "hash": "03016D93E0D2C0AE",
+      "target": "Aunque acabo de conocerlos, veo lo importante que es el tren para Wawlika y los ingenieros."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_WUKLAMAT_000_241",
+      "hash": "FDB41DE9EA73A397",
+      "target": "No podemos permitir que su sacrificio sea en vano."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_KRILE_000_245",
+      "hash": "A8011D2F3F124581",
+      "target": "Usar este tren como explosivo es un plan descarado. Solo tendremos una oportunidad, ¡así que más vale que la aprovechemos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ERENVILLE_000_250",
+      "hash": "346337342F563CE7",
+      "target": "Espero que Namikka esté a salvo..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_ALISAIE_000_255",
+      "hash": "E9C6D5E068A119EF",
+      "target": "Bien, ya tenemos plan. Ahora terminemos este tren y abramos a cañonazos nuestro camino hacia la cúpula."
+    },
+    {
+      "gameKey": "quest/049/KinGmd112_04923#TEXT_KINGMD112_04923_GRAHATIA_000_260",
+      "hash": "E1AB871C58998638",
+      "target": "Las naves parecen conformarse con esperar en el cielo, así que aprovechemos para hacer lo que podamos y prepararnos."
+    }
+  ]
+}

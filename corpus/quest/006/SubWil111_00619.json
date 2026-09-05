@@ -1,0 +1,132 @@
+{
+  "conversation": "quest/006/SubWil111_00619",
+  "questName": "What Poor People Think",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_ISEMBARD_000_1",
+      "hash": "1E51AE99C3849B16",
+      "target": "¿Qué te parece si ponemos ahora la mirada en los propios humildes? Quizá sea entre ellos donde hallemos las razones de estas desapariciones, no lo quieran los Doce."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_ISEMBARD_000_2",
+      "hash": "EB699879A00702D2",
+      "target": "Hay un mercader llamado Ungust que nació aquí, en Huesos Secos, y se crió en el Bazar Dorado. Un tipo... rudo, pero conoce a la gente de aquí mejor que nadie."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_ISEMBARD_000_3",
+      "hash": "FE886B305741EFA1",
+      "target": "Apostaría a que está en la posada, bebiéndose las ganancias del día. Toma, te escribiré una nota para que se la enseñes, o no habrá quien le saque una palabra."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_10",
+      "hash": "7AB57100719F503D",
+      "target": "\\<eructo> ¡Malditos sean los dioses! ¡Tú eres <if(gnum4,esa dichosa aventurera,ese dichoso aventurero)> que me amenazó en Ul'dah! ¿¡Qué demonios quieres de mí ahora!?"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_11",
+      "hash": "FA5565C7BF00CDA2",
+      "target": "«Querido amigo... \\<eructo> Gente desaparecida... Por favor, ayuda... \\<hipo> Tuyo, Isembard.»"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_12",
+      "hash": "DBEB19AA96E333F7",
+      "target": "La gente de por aquí es más desconfiada que nadie. Salen huyendo con solo que te tires un pedo cerca. A todos los engañé como a tontos y les saqué lo suyo de trabajo duro, ya te digo."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_13",
+      "hash": "B089446165687F13",
+      "target": "Es más, ahora están <italic(1)>aún<italic(0)> más asustados que antes, con tanta desaparición. Ve a hablar con ellos tú mism<if(gnum4,a,o)> si no me crees."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_20",
+      "hash": "C1F718130AF16101",
+      "target": "La gente de por aquí está ahora más asustada que nunca, con tanta desaparición. Ve a hablar con ellos tú mism<if(gnum4,a,o)> si no me crees."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_POVERTY1_000_30",
+      "hash": "DB3E672FD7195600",
+      "target": "¿¡Q-Qué quiere de mí!? ¡N-No sé nada, lo juro! ¡Por favor, no me mate!"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_POVERTY2_000_31",
+      "hash": "0D93B65ECB946B2D",
+      "target": "No tengo nada que decir, salvo esto: que Thal se lleve a quien... o a <italic(1)>lo<italic(0)> que sea que se ha estado cebando con los pobres."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_POVERTY3_000_32",
+      "hash": "DB85501608DF46B3",
+      "target": "P-Por favor, <if(gnum4,señora,señor)>, déjeme en paz..."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_40",
+      "hash": "85195ED3C3C79280",
+      "target": "Justo como te dije, ¿a que sí? Están todos aterrados. \\<hipo>"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_UNGUST_000_41",
+      "hash": "5B6F12336C856C8C",
+      "target": "Se habla de que secuestran a la gente, pero si quieres mi opinión, sencillamente se largaron a un sitio mejor. Esto no es precisamente Costa del Sol, ya me entiendes."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_ISEMBARD_000_50",
+      "hash": "B29823D4714F8147",
+      "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <split(<string(gstr1)>, ,1)>. ¿Has averiguado algo de importancia?"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_ISEMBARD_000_51",
+      "hash": "1A9C516A15C2D937",
+      "target": "Ya veo... Supongo que no cabía esperar otra cosa de Ungust. En fin, se me ocurrió otra idea en tu ausencia. Si algo son los humildes, es fervientes en sus creencias. Quizá, si se sinceran con sus dioses, el clero sepa algo de utilidad."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_00",
+      "hash": "66C29402AD8DB7BA",
+      "target": "Isembard quiere dirigir su investigación hacia los humildes."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_01",
+      "hash": "F05C0E4DEC49729D",
+      "target": "Isembard te ha hablado de alguien que conoce mejor que nadie a los humildes y sus costumbres. Busca a Ungust y enséñale la nota que te ha dado Isembard."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_02",
+      "hash": "351AEB53BCCFAD83",
+      "target": "Ungust te dice que los humildes son tan recelosos como el que más, y más que la mayoría. Habla tú mism<if(gnum4,a,o)> con ellos para ver si dice la verdad."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_03",
+      "hash": "2EC57F9CBBBF6DDF",
+      "target": "Presos del terror, los humildes te cuentan poco de utilidad. Ve a hablar de nuevo con Ungust."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_04",
+      "hash": "36C1D8315BD484B1",
+      "target": "A Ungust parece traerle sin cuidado la creciente lista de desaparecidos en los alrededores de Huesos Secos. Vuelve con Isembard para ver si se le ocurre cómo proceder."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_SEQ_05",
+      "hash": "D599F8AE54263A1D",
+      "target": "Isembard cree que quizá la gente calla porque ha llegado a confiar solo en sus dioses."
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_00",
+      "hash": "2979DC197422BB66",
+      "target": "Entregar la nota de Isembard a Ungust"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_01",
+      "hash": "0BA7583ADBDBC92B",
+      "target": "Hablar con los humildes"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_02",
+      "hash": "E92462A056625B27",
+      "target": "Hablar con Ungust"
+    },
+    {
+      "gameKey": "quest/006/SubWil111_00619#TEXT_SUBWIL111_00619_TODO_03",
+      "hash": "4C174EA5BB88B41D",
+      "target": "Informar a Isembard"
+    }
+  ]
+}

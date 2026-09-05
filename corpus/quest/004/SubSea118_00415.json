@@ -1,0 +1,132 @@
+{
+  "conversation": "quest/004/SubSea118_00415",
+  "questName": "Righting the Shipwright",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_HALDBRODA_000_1",
+      "hash": "351F65960CC02F11",
+      "target": "Mira, tal como yo lo veo, si tienes tiempo de plantarte aquí a cuestionar mi honradez, entonces sin duda tienes tiempo de arrastrar ese trasero hasta la los Atolones de Sal y ayudarnos a buscar supervivientes del naufragio."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_HALDBRODA_000_2",
+      "hash": "1AA348B888AABBFB",
+      "target": "¿Quién sabe? A lo mejor te topas con ese Fyrilsmyd que todos andan tan ansiosos por encontrar. Esperemos que la Navegante no lo haya encontrado antes."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_10",
+      "hash": "FD0862A45F050EAD",
+      "target": "Sí, soy Fyrilsmyd. ¿Dice que el capataz se pregunta por mi paradero? Me lo imaginaba. Pero ha de saber que no puedo dejarme ver por los Drydocks hasta haber enmendado el terrible mal que causé."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_11",
+      "hash": "0F00924500E16028",
+      "target": "Hace dos noches hice el viaje de los Drydocks al Muelle de Candlekeep, tal como pidió el capataz. La mar estaba muy brava, y el capitán del carguero recelaba de acercarlo demasiado a los acantilados, así que pagué unas monedas a un pescador para que me llevara a su encuentro."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_12",
+      "hash": "04EA0B9CF0601C44",
+      "target": "Cuando estábamos a medio camino entre la orilla y el barco, el oleaje había subido hasta casi diez yalms, y no tardaron las olas en apresarnos. Por más que intentábamos estabilizar la barca, la garra de la naturaleza apretaba demasiado, y salimos despedidos de cabeza contra la galera lominsana."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_13",
+      "hash": "6D43B93A443D10A3",
+      "target": "Cuando desperté, ambos barcos habían desaparecido, y la carga que debía recoger estaba desperdigada por la los Atolones de Sal. He hecho cuanto he podido por recuperarla, pero las arenas están plagadas de Qiqirn, y yo no soy hombre de espada. Ahora ve por qué no puedo volver a los Drydocks..."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_AHTBYRM_000_20",
+      "hash": "C8EFDC60D5F0C7F8",
+      "target": "Me alivia saber que tanto Fyrilsmyd como los suministros están a salvo, aunque fue una necedad por su parte creer que yo le culparía de algo que a todas luces escapaba a su control."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_AHTBYRM_000_21",
+      "hash": "071EFF242514A19A",
+      "target": "Verás, aquel día no hubo tormenta, y la mar aquí, junto a los Drydocks, estaba tan calma como un niño dormido. Eso me lleva a pensar que el percance que sufrieron los barcos frente al Muelle de Candlekeep fue de índole menos natural... de la que se sabe que los Sahagin son capaces de conjurar."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_30",
+      "hash": "05676BE8742791B2",
+      "target": "Aquella noche me lanzaron al mar como a un muñeco de trapo, y no tardó el mundo a mi alrededor en fundirse a negro mientras me hundía cada vez más en el abismo. Mas he aquí que la Navegante no quiso llevarme hasta las puertas de los siete infiernos, y desperté para hallarme arrastrado a la orilla. Y aquí he estado desde entonces, esperando la ocasión de rescatar la carga de mi maestro."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_31",
+      "hash": "6B30D729853CEA8C",
+      "target": "¡Las piezas que faltaban! N-no sé cómo podré pagárselo."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_32",
+      "hash": "EBDB3DB8E15A26C0",
+      "target": "Entregaré los suministros de inmediato... pero antes he de pasarme por el Quay para presentar mis respetos a la viuda del valiente pescador que dio su vida por un puñado de monedas."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_FYRILSMYD_000_33",
+      "hash": "4004C44E983148B2",
+      "target": "¿Podría decirle a Ahtbyrm que estaré de vuelta en los Drydocks al <if([gnum11<12],<if([gnum11<4],amanecer,anochecer)>,<if([gnum11<17],anochecer,amanecer)>)>? ¡Mil gracias, aventurero! ¡No olvidaré esta bondad!"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_00",
+      "hash": "E0BEAB947257BEA0",
+      "target": "Haldbroda tiene una sugerencia para el amable aventurero que llegó portando el mensaje del capataz Ahtbyrm."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_01",
+      "hash": "C3065A7CC5AC1224",
+      "target": "Según Haldbroda, aún podría haber supervivientes del reciente accidente arrastrados hasta la los Atolones de Sal. Uno de ellos podría ser incluso el carpintero de ribera desaparecido, Fyrilsmyd."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_02",
+      "hash": "553123F5294C2DB3",
+      "target": "Como por milagro, encuentras a Fyrilsmyd sano y salvo en la los Atolones de Sal. El náufrago carpintero de ribera, sin embargo, te revela que no puede volver a los Astilleros de Moraby sin recuperar antes las tres piezas de carga que lo enviaron a recoger en un principio... una carga que ahora custodian unos letales Qiqirn carroñeros de playa."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_03",
+      "hash": "C7736DA216654429",
+      "target": "Has rescatado las tres piezas de carga que faltaban. Entrégaselas a Fyrilsmyd de inmediato."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_04",
+      "hash": "B4C1B29CFE447961",
+      "target": "Fyrilsmyd te agradece haber localizado la carga y te pide un último favor antes de salir corriendo de nuevo: vuelve con Ahtbyrm a los Astilleros de Moraby y cuéntale al capataz qué ha sido de su carpintero de ribera."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SEQ_05",
+      "hash": "71916B6ACF1BAE4F",
+      "target": "Ahtbyrm parece complacido de que tanto la carga como el carpintero aparecieran sin mayor daño. Al contrario que Fyrilsmyd, el capataz no cree que la tormenta que hundió los barcos fuera natural, sino obra de los Sahagin."
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_00",
+      "hash": "68AA02997C47AE86",
+      "target": "Buscar supervivientes en la los Atolones de Sal"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_01",
+      "hash": "2E1788D4A653A8B6",
+      "target": "Rescatar el timón de la <italic(1)>Victoria<italic(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_02",
+      "hash": "765BDFF337A653BC",
+      "target": "Rescatar el aparejo de la <italic(1)>Victoria<italic(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_03",
+      "hash": "0E00AEEF8A29C9A7",
+      "target": "Rescatar la lona de la <italic(1)>Victoria<italic(0)>"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_04",
+      "hash": "CD7A03AC2E232AB8",
+      "target": "Llevar los tres objetos a Fyrilsmyd"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_TODO_05",
+      "hash": "973AA1BF8FBC1D69",
+      "target": "Informar a Ahtbyrm"
+    },
+    {
+      "gameKey": "quest/004/SubSea118_00415#TEXT_SUBSEA118_00415_SYSTEM_000_40",
+      "hash": "D1A1CC1965558314",
+      "target": "¡Un Qiqirn te ha descubierto!"
+    }
+  ]
+}

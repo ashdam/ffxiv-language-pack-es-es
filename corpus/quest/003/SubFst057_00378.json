@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/003/SubFst057_00378",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_00", "hash": "FADC8C9C396F08FB", "target": "Roseline necesita a un aventurero que destruya unos huevos de diremite." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_01", "hash": "54119C1B17F184D9", "target": "Roseline descubrió hace poco dos puestas de huevos de diremite junto al Olvido de la Matrona. Sin embargo, pese a ser una Vigía del Bosque curtida en batalla, la sola visión de los huevos le repugna. Busca y destruye las dos puestas de huevos." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_02", "hash": "C37D3983EADAF458", "target": "Abates a los diremites nonatos y a sus enfurecidos progenitores. Dile a Roseline que la tarea está completada." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_SEQ_03", "hash": "9E8041F1B228B437", "target": "Roseline agradece tu disposición a mancharte las manos, y lamenta no poder contar siempre con una ayuda tan oportuna." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_TODO_00", "hash": "084A5909B2C1D2E3", "target": "Destruir los huevos de diremite" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_TODO_01", "hash": "61B0F9EF647FE616", "target": "Informar a Roseline" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_1", "hash": "7574B2E7A8D7B0A4", "target": "Tu disposición a ayudar a los habitantes de la Selva de los Doce es encomiable. Si tienes un momento, ¿quizá puedas ayudarme con un asunto delicado?" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_2", "hash": "B770877AE2CE687F", "target": "Entre mis deberes como Vigía del Bosque está inspeccionar el Olvido de la Matrona en busca de daños o deterioro. Nunca ha sido una tarea difícil... hasta el otro día, cuando descubrí varias puestas de huevos de diremite." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_3", "hash": "DD09C9AA5391A8D5", "target": "No tengo problema en abatir a las bestias ya adultas, pero la mera visión de sus huevos me <italic(1)>revuelve las tripas<italic(0)>. Ahórrame esta asquerosa tarea y destruye los huevos." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_11", "hash": "D9D640865286A857", "target": "¡Ojalá pudiera contar siempre con un alma bondadosa para estas tareas!" },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_12", "hash": "7C9486B0B3AA57FE", "target": "Mi adiestramiento me preparó para enfrentarme a las bestias en combate, y ni una sola vez he rehuido ese deber. Pero poner las manos sobre esos huevos pegajosos y viscosos es simplemente..." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_ROSELINE_000_13", "hash": "02360712DA6E29EB", "target": "Bueno, es evidente que a ti no te supone ningún problema. Gracias por tu ayuda, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/003/SubFst057_00378#TEXT_SUBFST057_00378_POP_MESSAGE", "hash": "5A15183446A74807", "target": "¡Un diremite se abalanza en defensa de los huevos!" }
+  ]
+}

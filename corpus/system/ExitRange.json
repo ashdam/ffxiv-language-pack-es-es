@@ -1,0 +1,14 @@
+{
+  "conversation": "system/ExitRange",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_DISMOUNT_Q", "hash": "E768A4BF79181EB2", "target": "No puedes avanzar más a lomos de una montura. ¿Desmontar?" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_DISMOUNT_YES", "hash": "EA729A1BE3C8637A", "target": "Sí" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_DISMOUNT_NO", "hash": "91EF85A20BF2ABA1", "target": "Todavía no" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_EXITCONTENT_Q", "hash": "5E95B22A3BB81746", "target": "Si sales de la zona, abandonarás la misión en curso. ¿Deseas continuar?" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_EXITCONTENT_YES", "hash": "E53BC3BD772E1340", "target": "Sí" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_EXITCONTENT_NO", "hash": "9B83F4ECFA4AA51E", "target": "No" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_EXITCONTENT_Q_PARTY", "hash": "0795C26C8D625667", "target": "Si sales de la zona, abandonarás la misión en curso y saldrás del grupo. ¿Deseas continuar?" },
+    { "gameKey": "system/ExitRange#TEXT_EXITRANGE_EXITCONTENT_Q_PARTY_02", "hash": "4D2AC148678C62D9", "target": "Un miembro del grupo que monta como acompañante está participando en una misión. Si sales de la zona, esa misión se abandonará y saldrás del grupo. ¿Deseas continuar?" }
+  ]
+}

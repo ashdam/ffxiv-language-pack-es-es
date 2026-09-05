@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/008/GaiUsb007_00814",
+  "questName": "A Modest Proposal",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_SEQ_00", "hash": "ED22C22E3590AAB5", "target": "Wheiskaet tiene una misión importante para ti." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_SEQ_01", "hash": "2496DA976030C47A", "target": "Dos personajes muy distinguidos tienen previsto visitar Costa del Sol, y el señor Gegeruju desea agasajarlos con un elaborado banquete. Wheiskaet te pide que colabores en la empresa trayéndole los ingredientes que requiere este festín exótico. Para conseguir el primero, tendrás que buscar a Landenel en el Campamento Tranquilo, en el Sudario Meridional." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_SEQ_02", "hash": "4CF7A0788DEB8954", "target": "Descubres que el primer ingrediente es el huevo de un adamantoise gigante. Aunque Landenel no te ayudará directamente, te dirá cómo conseguir uno por tu cuenta." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_TODO_00", "hash": "172DD654AD13C5A5", "target": "Hablar con Landenel en el Campamento Tranquil" },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_000", "hash": "F27E6970417E5FE8", "target": "Dos personajes muy distinguidos visitarán Costa del Sol en breve, y el señor Gegeruju desea agasajarlos con un elaborado banquete." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_001", "hash": "614DBB0C437608A5", "target": "Pero, aunque el dinero no es problema, no todo lo que el señor Gegeruju desea puede comprarse con tanta facilidad." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_002", "hash": "EBD270B7C6E1FA2B", "target": "Va a ser un festín sumamente exótico. Así pues, <split(<string(gstr1)>, ,1)>, tu misión es buscar y conseguir los raros ingredientes que necesita nuestro cocinero." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_100_002", "hash": "A1BB7F7054975B8E", "target": "Naturalmente, semejante festín ha de acompañarse de un vino a la altura. Y por «a la altura» quiero decir «el mejor que exista». Pero eso puede esperar de momento, pues creo que ya tienes bastante entre manos." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_003", "hash": "946C4AFEBAB80447", "target": "Será un viaje largo y arduo, pero no tendrás que penar en soledad. Muchos de los mercenarios que en su día sirvieron a mis órdenes siguen vivos, y te guiarán en tu misión. Para el primer ingrediente, quiero que viajes al Sudario Meridional y hables con Landenel en el Campamento Tranquilo." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_004", "hash": "28B1C825E0B25D5A", "target": "...¿Qué? ¿Me estás diciendo que no puedes permitirte perder el tiempo, como hizo tu compañera?" },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_WHEISKAET_000_005", "hash": "CEFFE3A00FE7B8ED", "target": "<if(gnum4,Aventurera,Aventurero)>, si no tienes aguante para completar esta misión, ¿cómo esperas que crea que resistirás más que el Señor de los Riscos? Hazlo o no lo hagas, que tengo trabajo." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_LANDENEL_000_020", "hash": "98AFC16490A9EE3C", "target": "¿Necesita ayuda, <if(gnum4,aventurera,aventurero)>?" },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_LANDENEL_000_021", "hash": "6D30EA0571556639", "target": "...Así que este es quien osaría desafiar a Titán. Le esperaba, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_LANDENEL_000_022", "hash": "154D07E0C1477BAB", "target": "El ingrediente que busca es el huevo de un adamantoise gigante." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_LANDENEL_000_023", "hash": "D8AA6F8590C3CC7C", "target": "El método de obtención debería ser obvio: se lo roba del nido a la bestia, por supuesto. Sencillo en teoría, difícil en la práctica. La mayoría de quienes lo intentan mueren." },
+    { "gameKey": "quest/008/GaiUsb007_00814#TEXT_GAIUSB007_00814_LANDENEL_000_024", "hash": "A1A1A5B26B6B74B9", "target": "¿Que si le ayudaré a conseguirlo? Ja, me hace gracia. No pondré en peligro mi puesto ayudándole abiertamente. De mí solo obtendrá información. Lo que haga con ella es cosa suya." }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/010/GaiUsc711_01023",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_00", "hash": "F4516EC2899FE9F4", "target": "U'odh Nunh ha recibido malas noticias." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_01", "hash": "963D05DDBE210216", "target": "Tres mujeres de la tribu U han sido emboscadas y capturadas por los Amalj'aa. U'odh Nunh te encarga llevar ungüento a las caídas, para que se les conceda la dignidad de luchar por sus propias vidas." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_02", "hash": "D4EFF612A2CCAF6E", "target": "Has aliviado las heridas de las cautivas mujeres de la tribu U. Vuelve e informa a U'odh Nunh de tu éxito." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_SEQ_03", "hash": "080FAA0931AB4762", "target": "Con su tribu de nuevo entera, U'odh Nunh rebosa de júbilo y te declara un verdadero amigo de la tribu U." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_00", "hash": "23E9039DB8021160", "target": "Usar el ungüento de combate en las mujeres de la tribu U" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_TODO_01", "hash": "F6092DC74FAA72C0", "target": "Informar a U'odh Nunh" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_000", "hash": "ED21CDD87BB20EF7", "target": "<if(gnum4,Forastera,Forasterrro)>... te dije que... ¿hm? ¿Ayudarías a los U? Vosotros los forasteros me desconcertáis... pero sería un necio si rechazara tu ayuda." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_001", "hash": "5C00C5AC97210FA4", "target": "Me dicen que a algunas de las mujeres de mi tribu las han emboscado y capturado los Amalj'aa. Si los rumores son ciertos, tienen heridas grrraves." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_002", "hash": "BACBF62EDED07D44", "target": "Los U no son ajenos a la muerrrte... pero ¿morir sin un combate justo? Esa no es forma de morir para un U." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_003", "hash": "09595D8BB0B7E581", "target": "No te pido que las <italic(1)>rescates<italic(0)>... si de verdad son U, su orrrgullo no lo permitirá. Alivia sus heridas con este ungüento y ellas se las apañarán solas." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUA_000_010", "hash": "0F7856FC28A801A2", "target": "Ten cuidado, <if(gnum4,forasterrra,forasterrro)>... herida o no, mis garras siguen afiladas." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUA_000_015", "hash": "BEA67B322CF4E35B", "target": "No sé por qué me ayudas, pero te lo agrrradezco." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUB_000_020", "hash": "5116841D9B25B18C", "target": "Grrrrrr... ¡El dolor...!" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUB_000_025", "hash": "D5A7A98198221665", "target": "Grrracias, <if(gnum4,forastera,forastero)>. Por tu bondad, vivo para luchar un día más." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_030", "hash": "6AA94AE3E757E625", "target": "¡Gah! ¡Antes morrriría que admitir la derrota ante los Amalj'aa!" },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UZOKUC_000_035", "hash": "07453F9C384288DB", "target": "Grrracias, <if(gnum4,amiga,amigo)>. No olvidaré esta deuda." },
+    { "gameKey": "quest/010/GaiUsc711_01023#TEXT_GAIUSC711_01023_UODHNUN_000_040", "hash": "30C89ED13647CCFA", "target": "Las tres desaparecidas han vuelto, y vuelven con cabezas de Amalj'aa. Eres <if(gnum4,una verrrdadera amiga,un verrrdadero amigo)> de los U, <if(gnum4,forastera,forastero)>." }
+  ]
+}

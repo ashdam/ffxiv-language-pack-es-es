@@ -1,0 +1,15 @@
+{
+  "conversation": "quest/009/GaiUsc502_00990",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_00", "hash": "83C5CE1DAF25C8A5", "target": "Según Kakamehi, hay trabajo y dinero contante con los Hijos de San Coinach, con solo que te presentes allí." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_01", "hash": "7053CE3527F4F4D3", "target": "Los Hijos de San Coinach, los hombres y mujeres eruditos que pretenden penetrar los secretos del antiguo Imperio allagano, han montado campamento al sudeste del Peaje del Aparecido. Con la calurosa recomendación de tu compañero aventurero Kakamehi apuntalando tu reputación, ve a hablar con un tal Nazyl Duzyl." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_SEQ_02", "hash": "79417F3ADB97572C", "target": "Nazyl Duzyl te recibe con los brazos abiertos y, sospechas, con la bolsa abierta. Parece que hay mucho que hacer, y tu larga experiencia te dice que tu piedra de afilar va a tener trabajo extra..." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_TODO_00", "hash": "1447FB99F70C76E4", "target": "Hablar con Nazyl Duzyl" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_000", "hash": "45A086A83C338DA6", "target": "<split(<string(gstr1)>, ,1)>, ¿verdad? ¡He oído que te mueves mucho! Yo también soy aventurero. Me llamo Kakamehi.<br>...Oye, no todos podemos tener un nombre tan interesante como el tuyo. Mira, puedo meterte en algo que merece la pena, si te interesa." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_001", "hash": "5ABBA46E25DD36D5", "target": "Al este de aquí hay un campamento montado por una panda que se hace llamar los Hijos de San Coinach. Gente de estudios, ya sabes, que investiga el... ¿cómo se dice?... el Imperio allagano. ¡Al parecer, una especie de civilización antigua!" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_KAKAMEHI_000_002", "hash": "C695D69F29839183", "target": "Habla allí con un tipo llamado Nazyl Duzyl y tendrá algo para ti. Buena gente, esos. Diles que te mando yo." },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_020", "hash": "2030DC367B1DBD48", "target": "¡Bien <if(gnum4,hallada,hallado)>, <if(gnum4,aventurera,aventurero)>! Cualquier camarada de Kakamehi será, sin duda, de gran ayuda para nosotros. <italic(1)>Sí<italic(0)> que le interesa ayudar, ¿me equivoco?" },
+    { "gameKey": "quest/009/GaiUsc502_00990#TEXT_GAIUSC502_00990_NAZYLDUZYL_000_021", "hash": "0409DCA1FF327B37", "target": "Los Hijos de San Coinach hemos tenido lo nuestro en cuanto a problemas últimamente, y su ayuda sería muy bienvenida. Creo que <italic(1)>usted<italic(0)> lo encontrará una empresa igual de gratificante." }
+  ]
+}

@@ -1,0 +1,537 @@
+{
+  "conversation": "quest/049/KinGme109_04940",
+  "questName": "Memories of a Knight",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_00", "hash": "82BE8CE2C7992A41", "target": "Otis está satisfecho con la carne que le has traído." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_01", "hash": "C53E928A9817C2B2", "target": "Tras recibir tu carne, Otis te pide a continuación que consigas electrope de yesca. Con ese fin, te acercas a las casas cercanas a recoger trozos de electrope, algunos de los cuales deberían ser de la variedad que necesitas." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_02", "hash": "687A9B5E828A8BD7", "target": "Tras rebuscar entre las ruinas, logras reunir una cantidad decente de trozos de electrope. Siguiendo las instrucciones de Otis, se los llevas a Gulool Ja para que los identifique." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_03", "hash": "3AC69BD766FA212B", "target": "Mientras observas, Gulool Ja examina los trozos de electrope y no tarda en identificar el que necesitas. Concluida tu tarea, vas a informar a Otis." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_04", "hash": "B408DF8D670F39B4", "target": "Terminados los preparativos, Otis cocina el prometido festín y lo sirve para que todos disfruten. Mientras descansáis después, con la panza llena de un delicioso guiso, Wuk Lamat mantiene una conversación franca con Gulool Ja y le explica lo que significa ser familia. A instancias de Alisaie, Otis os cuenta entonces su historia. Hace siglos, antes de que el rayo cambiara el mundo, era un hombre corriente que servía como caballero de Alexandria. Cuando sobrevino la gran calamidad, el rey y la reina fallecieron, y su única hija, la princesa, sucumbió a una enfermedad poco después de ascender al trono. Gracias al poder del electrope, sin embargo, su alma y sus recuerdos se preservaron, y se le ahorró la muerte eterna. Este procedimiento lo hizo posible nada menos que Otis, que se ofreció como sujeto de pruebas, lo que resultó en su transformación en la máquina que es ahora. A quienes se recrean así a partir de los recuerdos de los difuntos se los conoce como los Perpetuos y, para asombro de todos, se revela que Sphene fue la primera de ellos: la reina devuelta a la vida." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_SEQ_05", "hash": "A4E8CBF578269309", "target": "Mientras tú y tus compañeros tratáis de asimilar la revelación de la verdadera naturaleza de Sphene, surgen dudas sobre si Cahciua y su gente conocían este hecho. Con todo lo que has averiguado, parece que aún queda muchísimo por saber..." },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_TODO_00", "hash": "58612AF0EA02ED97", "target": "Reunir trozos de electrope procesado" },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_TODO_01", "hash": "57A76A57FD18C123", "target": "Entregar los trozos de electrope procesado a Gulool Ja" },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_TODO_02", "hash": "A009C9EB50B25AC1", "target": "Hablar con Otis" },
+    { "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_TODO_03", "hash": "12C2AFF84FEBD6E2", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_000",
+      "hash": "1BDD0B33F58DD6EB",
+      "target": "Aún no has terminado, ¿verdad? ¡Sería demasiado rápido, incluso para ti!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_001",
+      "hash": "DB3666CE505DAB36",
+      "target": "En cuanto Alisaie traiga su parte, tendremos un festín glorioso para saciar a jóvenes en pleno crecimiento como vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_002",
+      "hash": "6B31F3AEE4F4D318",
+      "target": "De hecho, espero que sobre lo bastante para compartirlo con la buena gente de la Deriva. Siempre agradecen una comida caliente."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_003",
+      "hash": "A49BF6E268350797",
+      "target": "Ahora bien, ya que has cumplido tu encargo tan deprisa, tengo otra petición que hacerte. Se nos ha agotado el electrope de encendido, y te agradecería que buscaras más en aquellas casas."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_004",
+      "hash": "71D04FE05FE0537F",
+      "target": "En el viejo reino se repartían raciones de electrope a cada ciudadano. Aunque pequeños, todavía pueden hallarse fragmentos aquí y allá."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_005",
+      "hash": "1DFD97ABE4E5C2B0",
+      "target": "Si consigues, digamos, cinco piezas, al menos una debería ser la que necesitamos: la que convierte el rayo en fuego. Gulool Ja las distingue por sus circuitos, así que llévaselas a él."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_006",
+      "hash": "2E950EBFEBBDB629",
+      "target": "El muchacho ha llegado a ser muy diestro en discernir los tipos de electrope, y en muy poco tiempo, todo hay que decirlo. ¡Venga, en marcha, y feliz rebusca!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_010",
+      "hash": "6A6EA53E993E4D97",
+      "target": "Últimamente, mis brazos y mis piernas se han vuelto algo chirriantes y poco obedientes. Unos cuantos siglos le hacen eso hasta al mejor de nosotros, supongo. ¡Jajaja!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_020",
+      "hash": "FFDFB5912F0E56A0",
+      "target": "Los demás también han vuelto. ¡Qué día tan bendecidamente animado!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_021",
+      "hash": "CD55902EEF88EC6A",
+      "target": "¡Tenemos las verduras que pedías y algún extra! Y tengo que decir que tanto ir y venir me ha abierto el apetito..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_022",
+      "hash": "ECC73D5E442D1666",
+      "target": "Hmpf, y yo que me atrevía a pensar que esta vez había ganado, y resulta que ya andabas con otro encargo."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_030",
+      "hash": "4ED5E2E5414EBEF4",
+      "target": "Otis dice que tienes electrope para mí."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_031",
+      "hash": "FF803524FEBF4142",
+      "target": "¡Hala, has encontrado un montón!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_032",
+      "hash": "C307181CB5C780E1",
+      "target": "A ver... Este crea viento, este es de agua..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_033",
+      "hash": "5987046C25F31AF2",
+      "target": "¿Los distingues así, sin más? Estoy impresionada."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_034",
+      "hash": "BB3D4AA439BC6E92",
+      "target": "Es listo, ¿verdad? Seguro que lo ha sacado de su padre..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_035",
+      "hash": "730446CDD7597A9D",
+      "target": "¡Ah, es este! ¡Este convierte a fuego!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_036",
+      "hash": "E88CF151B9D0A91E",
+      "target": "Ha absorbido mucho rayo, así que deberíamos poder encender una llama sin problema."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_037",
+      "hash": "4733A91292932B8D",
+      "target": "¡Gracias, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_040",
+      "hash": "A805DFD904414C6A",
+      "target": "Je... Ver a Gulool Ja contento me hace feliz."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_041",
+      "hash": "79CCCE63D753532B",
+      "target": "Wuk Lamat podía cargar con un montón de verduras a la vez. ¡Es fortísima!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_042",
+      "hash": "EDDE3A8DB93DD9A5",
+      "target": "Con perdón de Erenville y Krile, ¡a disfrutar de la comida!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_045",
+      "hash": "08F3E12E9D1F7C0E",
+      "target": "Gracias a vuestra amable ayuda, tenemos todo lo necesario para nuestro festín."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_046",
+      "hash": "C7D08EEE8D3D60BE",
+      "target": "Habéis cumplido con vuestra parte; ahora cumpliré yo con la mía. Relajaos, amigos: ¡la comida se servirá enseguida!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_050",
+      "hash": "BCE415C3FFAF3009",
+      "target": "Esto es de las cosas que hacen las familias, Gulool Ja. Comemos juntos y hablamos de lo que nos pasa por la cabeza."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_051",
+      "hash": "DA9EA11486386E1E",
+      "target": "¿Entonces tú comías con tu padre?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_052",
+      "hash": "01412A02EFC51617",
+      "target": "Sí, con ellos y con mis hermanos. Aunque los que más hablábamos éramos la Cabeza de la Resolución y yo. Koana y la Cabeza de la Razón se sumaban de vez en cuando, y Zoraal Ja... hablaba cuando le hablaban."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_053",
+      "hash": "72DDBA200B6905FE",
+      "target": "Has dicho que tienes dos papás. ¿Eso significa que uno es tuyo y el otro es de mi padre?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_054",
+      "hash": "0FC4E84C3230C430",
+      "target": "No, no, los dos son nuestro padre. Es lo que la gente llama hermanos benditos: un Mamool Ja con dos cabezas."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_055",
+      "hash": "4A936D3C81FF9F70",
+      "target": "Zoraal Ja es su hijo de sangre, mientras que a Koana y a mí nos adoptaron y no compartimos la misma sangre."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_056",
+      "hash": "A8499D634E70BC61",
+      "target": "Pero eso no nos hace menos familia. Lo que importa es que nuestros corazones estén unidos. Eso me lo enseñó la Cabeza de la Resolución."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_057",
+      "hash": "5D0D0BDF0781DEE5",
+      "target": "Familia..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_058",
+      "hash": "BDFB420382CC4C8B",
+      "target": "¿Vosotros también tenéis a alguien así? Alguien a quien consideráis familia aunque no compartáis la misma sangre."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_059",
+      "hash": "7EB25F8CDE5FD1E3",
+      "target": "Esa es... una buena pregunta."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_060",
+      "hash": "3C76D1836637D906",
+      "target": "¿Y tú qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_Q1_000_061",
+      "hash": "3BB77392ECBC318C",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A1_000_062",
+      "hash": "7C1296C7CC3171BB",
+      "target": "Sí, y les tengo mucho cariño."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A1_000_063",
+      "hash": "E3E6837882E55736",
+      "target": "Yo soy más bien <if(gnum4,una loba solitaria,un lobo solitario)>."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A1_000_064",
+      "hash": "2A1728EB3D145344",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_065",
+      "hash": "4EF58647A6B00DF0",
+      "target": "Me gustaría conocerlos algún día."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_066",
+      "hash": "5D9B69ECFDCFB3CA",
+      "target": "Debes de ser fuerte. Yo no creo que aguantara mucho tiempo así de solo."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_067",
+      "hash": "F40CC8F699F7ED9C",
+      "target": "P-Perdona si he dicho algo que no debía..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_069",
+      "hash": "063B16760CDE272E",
+      "target": "Bueno, Gulool Ja. Espero que tú y yo podamos ser familia."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_070",
+      "hash": "3ACB5CECAAF9A1D7",
+      "target": "¿No me contarás algo de ti?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_071",
+      "hash": "F88FCD8827E3C3B0",
+      "target": "¿De verdad... quieres saber de mí?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_072",
+      "hash": "540D118530D16C93",
+      "target": "Sí. Quiero saberlo todo de ti. Lo que te gusta, lo que odias... absolutamente todo."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_073",
+      "hash": "F204DABFBEA1B891",
+      "target": "¡Yo también quiero saberlo todo de ti!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_074",
+      "hash": "DE2A047639332E0C",
+      "target": "Eso me recuerda que también esperábamos oír tu historia, Otis."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_075",
+      "hash": "4E6382C534A32131",
+      "target": "Como deseéis. Quedáis advertidos de que la mía es una historia larga de contar."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_076",
+      "hash": "76B598F69FD7BBCF",
+      "target": "Fue antes de que el rayo alterara el mundo cuando se me nombró capitán general de los caballeros reales."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_077",
+      "hash": "E94E069234E61FCC",
+      "target": "Estamos hablando de cientos de años antes de la calamidad, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_078",
+      "hash": "000C6EA7ED1641BB",
+      "target": "En efecto. Incluso antes de que asumiera esta forma mecánica: hace cuatrocientos cincuenta y cuatro años, para ser exactos."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_079",
+      "hash": "5914BA486D3CCC9E",
+      "target": "Entonces... ¿fuiste una persona normal?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_080",
+      "hash": "8645E721EB8AB160",
+      "target": "Ya lo creo. Fui carne y hueso, como vosotros, y serví con orgullo como caballero de Alexandria."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_081",
+      "hash": "45C816C883279B86",
+      "target": "Entonces, más que una máquina que se comporta como una persona, ¿fuiste... <italic(1)>eres<italic(0)> una persona de verdad? ¿Cómo es posible?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_082",
+      "hash": "D9DCCD6C0C561452",
+      "target": "Es natural que estéis desconcertados. Escuchad mi historia hasta el final y todo quedará claro."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_083",
+      "hash": "EE8287A03558F113",
+      "target": "El deber primero de los caballeros reales era proteger a la familia real. En mi tiempo, eran sus majestades el rey y la reina, y su única hija, Su Alteza la princesa."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_084",
+      "hash": "9FFFF7BBA563F435",
+      "target": "Para entonces, todas las naciones de nuestro astro andaban enredadas en algún conflicto por el electrope. Así fue como nuestro reino se vio arrastrado a una guerra con su vecino."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_085",
+      "hash": "E60D7ABC6DAF226E",
+      "target": "Aquella guerra fue el detonante de la gran calamidad que alteró el entorno. Incontables compatriotas perdieron la vida en el caos, y entre ellos el rey y la reina."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_086",
+      "hash": "5E74C702B4F2ACBE",
+      "target": "Por fortuna, pudimos proteger a la princesa, que entonces estuvo a la altura y llevó esperanza a su pueblo en aquellos tiempos difíciles. Tan bondadosa era nuestra joven reina que, por deseo suyo, acogimos incluso a refugiados de la nación enemiga."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_087",
+      "hash": "6EF8790B357F84DD",
+      "target": "Pero, por desgracia, su reinado fue breve. Como a tantos otros, el rayo le había devastado el cuerpo, y un día se desplomó y falleció..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_088",
+      "hash": "C6EBBF047471903E",
+      "target": "Qué trágico..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_089",
+      "hash": "C19D77F39CC8809C",
+      "target": "Así es... Apenas hubo ciudadano cuyos ojos quedaran secos, y se dedicaron muchas lunas a construir una gran tumba digna de su memoria."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_090",
+      "hash": "2004DA76F9EC558C",
+      "target": "Y sin embargo, yo aún me aferraba a la esperanza. Pues, mientras Su Majestad agonizaba, los mejores científicos del reino habían logrado extraer su alma."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_091",
+      "hash": "D26DDBBFB02A574D",
+      "target": "¿Hemos oído bien? ¿Que le <italic(1)>extrajeron<italic(0)> el alma?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_092",
+      "hash": "B614282A29735F28",
+      "target": "Nuestra carne puede marchitarse y morir. Pero, mientras se nos recuerde, podemos seguir viviendo."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_093",
+      "hash": "D8F078B694019F4E",
+      "target": "Esa creencia antiquísima siempre había consolado a nuestro pueblo. Pero, al multiplicarse las víctimas tras la calamidad, buscamos hacerla realidad mediante el poder del electrope."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_094",
+      "hash": "FFF019E74FA0A65B",
+      "target": "Con el tiempo logramos desarrollar el medio de preservar el alma, y se empleó para librar a la reina de la muerte eterna."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_095",
+      "hash": "B9C9D330CB7B16CF",
+      "target": "Sin embargo, no bastaba con impedir la partida del alma. El objetivo último era recrear a una persona tal como era en vida, y eso exigía extraer además sus recuerdos del alma."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_096",
+      "hash": "4AC80B3B70DFCD45",
+      "target": "Hicieron falta muchos más años de investigación para lograrlo, y para entonces yo era ya un anciano canoso. Con los días contados, no dudé en ofrecerme como sujeto de prueba del procedimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_097",
+      "hash": "75E8E64A84688663",
+      "target": "Y así fue como obtuve este receptáculo."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_098",
+      "hash": "4D78B58554A7179E",
+      "target": "Y con mi renacer exitoso abrí el camino a quienes se recrean a partir de los recuerdos de los difuntos."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_099",
+      "hash": "58F3391F6F3EC864",
+      "target": "Los Perpetuos, así los llaman."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_100",
+      "hash": "7849BCE4AB43883B",
+      "target": "Si tu historia es cierta, entonces la reina que vuestra gente devolvió a la vida..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_Q2_000_101",
+      "hash": "8797F526D7BBB138",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A2_000_102",
+      "hash": "853F2127728B0364",
+      "target": "No será Sphene, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A2_000_103",
+      "hash": "EA10ED8380C840AA",
+      "target": "Creo que sabemos quién es."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_104",
+      "hash": "293BFBC4F40DE3E5",
+      "target": "¡Vaya, así que también conocéis a Su Majestad!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_105",
+      "hash": "CB0AFE59F7F17365",
+      "target": "Mi descripción de su bondad sin límites habrá palidecido al lado de lo que sin duda sentisteis en su presencia."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_106",
+      "hash": "B72F60F45D9EEEEC",
+      "target": "Yo no la he visto en persona, lo confieso. No desde que asumí mi forma actual. ¡No querría darle un susto de muerte!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_107",
+      "hash": "71A3F7CFFC312C84",
+      "target": "¡Jajaja!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_110",
+      "hash": "B4C49474012BB3F2",
+      "target": "He visto a mi reina de lejos muchas veces. Pero no tengo el valor de acercarme a ella..."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_111",
+      "hash": "33919376D654CFE9",
+      "target": "Y no es por cobardía, cuidado, sino más bien por... consideración. Sí, ¡consideración, para no causarle a Su Majestad una angustia innecesaria!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_115",
+      "hash": "7E4D9FD84B0B7A3C",
+      "target": "Otis ya me había contado la historia."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_120",
+      "hash": "FFDF6EFB08E01AF4",
+      "target": "¿Esto significa que la reina de Alexandria no es en realidad una persona como tú y como yo...?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_130",
+      "hash": "3CF1D8BC00A06C3F",
+      "target": "Los Perpetuos... ¿Entonces Sphene no estaba viva en todo este tiempo?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_131",
+      "hash": "19261A024E2915F8",
+      "target": "Vive y no vive. Es, lo admito, una distinción difícil de hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_132",
+      "hash": "5FCCDCD2A92E39DF",
+      "target": "Habiendo heredado los recuerdos de un alma difunta, un Perpetuo siente, piensa y actúa exactamente como lo haría esa persona."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_133",
+      "hash": "E181F59DE07DF08C",
+      "target": "En ese sentido, yo creo que están vivos."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_134",
+      "hash": "10AF3E87A283648E",
+      "target": "Los alejandrinos lo saben, ¿verdad? No puede haber pasado desapercibido que Sphene sea perpetuamente joven."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_135",
+      "hash": "45C159E3C9FC31D3",
+      "target": "Casi nadie sabe de los Perpetuos. La gente que lleva regulador ni siquiera piensa en la muerte."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_136",
+      "hash": "F65FE705D88FC2E5",
+      "target": "Todos ven que la reina no cambia, pero simplemente lo aceptan."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_GULOOLJA_000_137",
+      "hash": "40CE76A13620B855",
+      "target": "Para ellos, es sencillamente como es."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_Q1_000_000",
+      "hash": "A90FA7ED3F926B36",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A1_000_001",
+      "hash": "C42BEDEEE2E3BEE7",
+      "target": "¿Hay Perpetuos además de vosotros?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_A1_000_002",
+      "hash": "8ADA89F6F859EC10",
+      "target": "¿La gente de Everkeep también son Perpetuos?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_139",
+      "hash": "60780D036503C93D",
+      "target": "Aunque debería haber tantos Perpetuos como difuntos, creo que están limitados en cuanto a dónde pueden existir. La reina Sphene es única en su capacidad de presentarse ante vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_140",
+      "hash": "CD4D02EC2464C673",
+      "target": "En rigor, yo mismo no soy un Perpetuo. A ellos se los crea con los recuerdos extraídos de un alma, pero a mí me metieron el alma entera dentro de una máquina."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_141",
+      "hash": "30915B2AC3D399A7",
+      "target": "Estar dentro de una máquina te hace distinto... ¿en qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_OTIS_000_142",
+      "hash": "9A1F0523D6E7F5C1",
+      "target": "Aunque no comprendo los detalles más finos, mi vida está ligada a este receptáculo. Si se rompe, se acabó para mí, igual que para un ser de carne y hueso. ¡Difícilmente una vida perpetua e inmutable, convendréis conmigo!"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_143",
+      "hash": "7C94A6EB7E2B968D",
+      "target": "Una vida perpetua e inmutable... No puedo evitar acordarme de los Ea."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_WUKLAMAT_000_144",
+      "hash": "77C2BD55AEDFDBB7",
+      "target": "¿Cahciua y los demás sabían todo esto?"
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_145",
+      "hash": "AC9A33F3E7386E4C",
+      "target": "Con la cantidad de información que reúnen, me sorprendería que no."
+    },
+    {
+      "gameKey": "quest/049/KinGme109_04940#TEXT_KINGME109_04940_ALISAIE_000_146",
+      "hash": "0D28782F3A643B55",
+      "target": "Por ahora, compartamos lo que hemos averiguado con Krile y Raha. No puedo evitar tener un mal presentimiento con esto..."
+    }
+  ]
+}

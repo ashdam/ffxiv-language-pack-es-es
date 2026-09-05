@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/024/StmBda105_02450",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SEQ_00", "hash": "DF0C62AC5F2918E1", "target": "Alisaie asiente con aprobación ante los vivanderos." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_TODO_00", "hash": "8A3FFBD1500F3C0C", "target": "Hablar con Conrad" },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_TODO_01", "hash": "77230EDD803E0D51", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALPHINAUD_000_005", "hash": "0629BF01B350FF2F", "target": "No es de extrañar. Donde hay guerra, hay beneficios que sacar." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_LYSE_100_015", "hash": "6C1B0C3CA2AAB734", "target": "Si necesitas comprar algo, ahora podría ser un buen momento." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_020", "hash": "55963B5AAE8E0D98", "target": "¿Vienes a echar el ojo a nuestros simpáticos mercaderes del barrio?" },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_021", "hash": "A2DFA3738DF73470", "target": "Son gente audaz, eso está claro. Si los imperiales descubrieran que le venden sus mercancías a la Resistencia, tendrían suerte de salir con vida." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALPHINAUD_000_022", "hash": "D086115FD490B25F", "target": "Es un riesgo, sí, y admiro su valor. Aunque difícilmente podría decirse que sus motivos sean altruistas..." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MNAAGO_000_023", "hash": "A67E3EBD969E506E", "target": "Ah, aquí estáis. Os he buscado por todas partes." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MNAAGO_100_023", "hash": "F0B41AACAE4374F5", "target": "Ya hemos terminado de debatir vuestra propuesta y estamos listos para recibiros a todos de vuelta en la tienda." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MNAAGO_000_024", "hash": "F30EDAE452A90C52", "target": "He mandado a alguien a buscar a Y'shtola y a Krile, así que, si tenéis a bien seguirme..." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MNAAGO_000_030", "hash": "5C653569204A787E", "target": "Empezaremos en cuanto lleguen los demás." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MEFFRID_000_035", "hash": "56812CA41096E688", "target": "Siento haberos hecho esperar, pero asuntos como este requieren la debida deliberación." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_LYSE_000_040", "hash": "B9C9F8B847D34859", "target": "¡Qué alivio! Por un momento no tenía nada claro por dónde iba a salir la cosa..." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_YSHTOLA_000_045", "hash": "0AD839AC762896BE", "target": "Krile y yo nos quedaremos aquí por ahora. Si nos necesitas, eres bienvenid<if(gnum4,a,o)> a visitarnos." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_KRILE_000_050", "hash": "304DE7AF83D9633E", "target": "Yo misma coqueteé un tiempo con métodos parecidos, con destilaciones e infusiones de extractos de hierbas, pero he de confesar que sé bien poco de la medicina tradicional alamhigana. Ojalá supiera más, pues su eficacia supera toda expectativa..." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_CONRAD_000_055", "hash": "96422046563EF478", "target": "Ahora que hemos zanjado las formalidades, podemos ponernos manos a la obra. Me alegra teneros de nuestro lado, amigos." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MNAAGO_000_060", "hash": "B830744EEA258820", "target": "¡Je! ¡Como si hubiera alguna duda!" },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_MEFFRID_000_065", "hash": "59C826238AD2112A", "target": "Pellizcadme si estoy soñando, porque juraría que por fin está pasando. ¡Eorzea entera, comprometida al fin con la liberación de Ala Mhigo!" },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_070", "hash": "7BA9737694EA9F16", "target": "Muy bien, pues. M'naago y Meffrid serán quienes nos tengan a su cargo." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_ALISAIE_000_071", "hash": "65D9B442D588FF7C", "target": "Como no sabemos qué necesita cada uno, una tarea es tan buena como la otra. Tú eliges, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/024/StmBda105_02450#TEXT_STMBDA105_02450_SYSTEM_000_080", "hash": "36C2E90EA4B7F9D7", "target": "Ya puedes usar tu <colortype(500)><edgecolortype(501)>aether compass<edgecolortype(0)><colortype(0)> para localizar corrientes etéreas en regiones nuevas. El aether compass se encuentra en Colección, dentro de la sección Contenido del menú principal." }
+  ]
+}

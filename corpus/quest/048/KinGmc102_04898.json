@@ -1,0 +1,439 @@
+{
+  "conversation": "quest/048/KinGmc102_04898",
+  "questName": "Village of the Hunt",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_00", "hash": "0DFE80CC00E60FCF", "target": "La atención de Wuk Lamat se reparte entre el peligrosamente profundo cenote e Iq Br'aax." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_01", "hash": "A21A8C313D7A2B60", "target": "Llegas al Jardín de las Estrellas y te encuentras a los demás aspirantes esperándote con distintos grados de impaciencia. El amable aldeano que te dio la bienvenida a Iq Br'aax no es otro que Hunmu Rruk, líder del pueblo Xbr'aal y elector del rito de sucesión. Este presenta el objetivo de la Prueba del Festín: reproducir un plato tradicional llamado xibruq pibil. A diferencia de las pruebas anteriores, los aspirantes se dividen en dos equipos y, por fortuna, la suerte empareja a Wuk Lamat con Koana. Como solo el equipo ganador recibirá piedras clave, Koana está impaciente por hablar de estrategia..." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_02", "hash": "752EC4CDFFE57A5E", "target": "A falta de una receta como es debido o de conocimientos generales sobre el xibruq pibil, vuestro grupo se separa para recabar información por la aldea. Está por ver si los aldeanos se mostrarán dispuestos a orientaros." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_03", "hash": "8C093F65ECDE3070", "target": "A pesar de la falta de instrucciones explícitas, has logrado averiguar lo suficiente sobre el xibruq pibil para empezar. Es hora de volver al Jardín de las Estrellas y compartir tus hallazgos con los demás." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_04", "hash": "9EDA21C306A3F837", "target": "Tras reconstruir una receta y una lista de ingredientes, vuestro grupo vuelve a repartirse para conseguir lo que necesitáis. Koana anda tras unas hojas de plátano de Ja Tiika y quiere que lo acompañes a él y a su hermana." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SEQ_05", "hash": "B82168AA0AC72D6B", "target": "Wuk Lamat está impaciente por conseguir las hojas de najool que necesitáis para poder probar cuanto antes nuevas delicias culinarias. No serás tú quien le niegue el capricho a una Promesa hambrienta." },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_TODO_00", "hash": "6F694C8652626AAE", "target": "Hablar con Koana" },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_TODO_01", "hash": "62D92F4E412DB754", "target": "Buscar pistas en Iq Br'aax" },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_TODO_02", "hash": "52744C2E95B39E4C", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_TODO_03", "hash": "B0BCA1C89A62A13A", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_001",
+      "hash": "53894BFC1B2A6077",
+      "target": "¿Serán todos los cenotes así de profundos?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_005",
+      "hash": "4F70EF801820044C",
+      "target": "Deberíamos seguir. Puede que los otros candidatos nos lleven bastante ventaja."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_010",
+      "hash": "32105B0580DEBF26",
+      "target": "¿Estamos listos para seguir? Tengo ganas de saber más de Iq Br'aax y de las costumbres Xbr'aal."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALISAIE_000_015",
+      "hash": "41A4DE8A49F3F514",
+      "target": "Que lo sepas: me enfadaré mucho si me empujas."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_020",
+      "hash": "825147E58482ED1E",
+      "target": "¿Listos para entrar?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_021",
+      "hash": "EB97A9DB468D4630",
+      "target": "Lo primero debería ser encontrar al elector. Esperemos que nuestro relativo retraso no juegue en nuestra contra..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HUNMURRUK_000_022",
+      "hash": "8AE7A2F91BA0C30D",
+      "target": "La Tercera Promesa y su séquito, supongo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_023",
+      "hash": "6525ACE17B719511",
+      "target": "Supones bien. Busco al elector del Servidor del Alba."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HUNMURRUK_000_024",
+      "hash": "5CFC82D17A58BC15",
+      "target": "Entonces venid con nosotros al Jardín de las Estrellas, en el centro del poblado. Todos os esperan."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_025",
+      "hash": "68F4F2C82CD98248",
+      "target": "¿“Todos”?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_026",
+      "hash": "C9D65D7B2996A79A",
+      "target": "¿Y quiénes serán esos...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_027",
+      "hash": "6E5FE41909DD1C6B",
+      "target": "Solo hay un modo de averiguarlo. Vamos, sigámoslo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_030",
+      "hash": "2DB5921C2783CA10",
+      "target": "Me tengo por entendida en todo lo turalí que esté rico, pero es la primera vez que oigo hablar del xibruq pibil..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_035",
+      "hash": "3810ECBB765C3454",
+      "target": "La Primera Promesa y Bakool Ja Ja son temibles en el campo de batalla, pero ¿en la cocina? Creo que las probabilidades nos favorecen."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_040",
+      "hash": "81CF04CE4CAF29C6",
+      "target": "Solo dos aspirantes pueden llevarse piedras clave de esta prueba. Intimidante, quizá, pero irrelevante─¡venceremos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_045",
+      "hash": "EA0FB3CA87FA53A9",
+      "target": "La Segunda Promesa sin duda tendrá ideas sobre cómo proceder. Pidámosle su parecer."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALISAIE_000_050",
+      "hash": "E7C0A93501EC37D9",
+      "target": "¿Crees que la Primera Promesa y Bakool Ja Ja se pondrán delantales a juego? Ojalá que sí."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_THANCRED_000_055",
+      "hash": "DCAB1349083A27D5",
+      "target": "Por mucho que me habría encantado venceros a todos en una batalla culinaria de altos vuelos, no podría haber pedido mejores aliados."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_URIANGER_000_060",
+      "hash": "061C1E52F90B4AFB",
+      "target": "Que los emparejamientos se hayan decidido así... en verdad los astros nos son propicios."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_061",
+      "hash": "1C6F710C31DADFEA",
+      "target": "Qué afortunado que las condiciones particulares de esta prueba hayan frustrado los intentos de Bakool Ja Ja de retrasarnos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_062",
+      "hash": "20B8FEA62919162B",
+      "target": "¡Se lo tiene merecido! ¡Eso le pasa por poner en peligro a mi gente con sus tejemanejes!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_063",
+      "hash": "0032FE37943A4A5F",
+      "target": "¿Por qué no compite limpiamente y ya está? Fuerza le sobra─y está claro que tiene cabeza para la estrategia, por retorcida que sea."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_064",
+      "hash": "7370830381329920",
+      "target": "Nunca lo entenderé..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_065",
+      "hash": "07E6D0BDF23C9C37",
+      "target": "Dejando de lado por un momento nuestra rivalidad, permitidme decir cuánto me alegra esta ocasión de trabajar juntos. Tal como lo veo, nuestro equipo cuenta con una ventaja clara─"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_066",
+      "hash": "F80FB171CB6A6FDA",
+      "target": "Je. ¡Pues claro que sí! Cualquier equipo en el que esté <italic(1)>yo<italic(0)> está destinado a triunfar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_067",
+      "hash": "E34ED0AE49FE58DE",
+      "target": "...Exacto."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_068",
+      "hash": "288EC4194F1298DA",
+      "target": "Te refieres a que tenemos ventaja en <italic(1)>número<italic(0)>, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_069",
+      "hash": "BAFD0222DB3EE0BC",
+      "target": "El equipo rival son seis─los dos aspirantes, Sareel Ja y los secuaces de Bakool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_070",
+      "hash": "B7149C2049CC3C48",
+      "target": "Nosotros, en cambio, somos nueve. Eso son tres personas más que podemos movilizar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_071",
+      "hash": "40475CA004DF475A",
+      "target": "Con las tareas bien repartidas, averiguar la receta y reunir los ingredientes necesarios debería ser cosa rápida."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_072",
+      "hash": "1CE952FF9DC75C82",
+      "target": "¡Está chupado!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_073",
+      "hash": "925B261C7DC44FAB",
+      "target": "Bueno, no hay que confiarnos <italic(1)>demasiado<italic(0)>, no sea que cometamos un descuido que podría haberse evitado sin esfuerzo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_078",
+      "hash": "AF3D720385AC28E4",
+      "target": "Lo primero debería ser determinar la receta del xibruq pibil. Difícilmente podemos reunir ingredientes de un plato del que no sabemos nada."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_079",
+      "hash": "D7F1B1F46D5837D6",
+      "target": "Dada la naturaleza de esta prueba, preguntar directamente puede resultar menos eficaz que sencillamente observar las costumbres diarias del pueblo Xbr'aal."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_080",
+      "hash": "DD5FC3A3E663EF07",
+      "target": "Reunámonos aquí cuando hayamos visto qué pistas ofrece este poblado."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HOOBIGOBAKOOLJAJAMINIONSB_100_085",
+      "hash": "67F484827A6B365C",
+      "target": "Bah. Adiós a nuestro plan..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HOOBIGOBAKOOLJAJAMINIONSA_000_085",
+      "hash": "0FD47BAF4ECF96FD",
+      "target": "Deberíamos cortar por lo sano e irnos a Mamook. Esta prueba no es más que una pérdida de tiempo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HOOBIGOBAKOOLJAJAMINIONSB_000_086",
+      "hash": "198C00FAB8D91BF6",
+      "target": "¡El necio eres <italic(1)>tú<italic(0)> si crees que no nos curtirá el pellejo por volver sin piedras clave suficientes! Además, ya le quitamos una a la gata─¿qué tendría de difícil una segunda vez?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_HOOBIGOBAKOOLJAJAMINIONSB_000_087",
+      "hash": "CD669BC128B1B317",
+      "target": "¿¡Q-qué miras, lamesal!? ¡Métete en tus asuntos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALHUNGRY04898_000_090",
+      "hash": "60B7D96DAF224C78",
+      "target": "¿La receta del xibruq pibil?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALHUNGRY04898_000_091",
+      "hash": "22C2A09A40EE38C6",
+      "target": "¡Ojalá pudiera contártela, <if(gnum4,amiga,amigo)>! Un plato tan delicioso está hecho para compartirse. Pero nos han prohibido revelar <italic(1)>nada<italic(0)>─órdenes del propio Hunmu Rruk."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALHUNGRY04898_000_092",
+      "hash": "2B1F007C08E6F946",
+      "target": "¡Pero de tanto mencionarlo me ha entrado un antojo tremendo! Ojalá quede todavía <italic(1)>ibruq<italic(0)> en el mercado... \\<guiño>"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALHUNGRY04898_000_095",
+      "hash": "91FAA5006563BF6B",
+      "target": "¿Hmm? ¡Solo pensaba en voz alta en mi próxima comida! No hay nada de malo en eso."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALCOOKS04898_000_100",
+      "hash": "00F99D096A30F856",
+      "target": "Je, je... ¡Qué divertido es esto!"
+    },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SYSTEM_000_105", "hash": "9897DE317D3A4904", "target": "Una piel de plátano de color insólito ha quedado pulcramente dispuesta en el suelo, del que parece brotar humo." },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALCOOKS04898_000_106",
+      "hash": "937E01CBB146923E",
+      "target": "¡Ay, no! ¡Parece que se me ha caído la piel del najool─quiero decir, del <italic(1)>plátano Ja Tiika<italic(0)>! Apenas la veía con todo el <italic(1)>vapor<italic(0)> que sale de mi <italic(1)>horno subterráneo<italic(0)>. Ayyy, ¡no hay nada como disfrutar de un buen plátano mientras usas las <italic(1)>hojas<italic(0)> para cocinar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALCHEERFUL04898_000_110",
+      "hash": "B08F692A6839407B",
+      "target": "Con esto debería bastarme..."
+    },
+    { "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_SYSTEM_000_115", "hash": "5CD56035D4024118", "target": "En una cesta reposan varias especias, algunas totalmente desconocidas para ti." },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_XBALAALCHEERFUL04898_000_116",
+      "hash": "F768BAA49615C5AE",
+      "target": "\\<risita> A eso lo llamamos “achiote”. Lo usamos sobre todo para dar algo de color a, eh, <italic(1)>nuestro plato más popular<italic(0)>... pero sus virtudes medicinales también son notables."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_120",
+      "hash": "360622E6E261F574",
+      "target": "¡Perdón, perdón! ¡Ya estoy aquí!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_121",
+      "hash": "F21193C99080BFD4",
+      "target": "¿Qué hemos descubierto sobre el xibruq pibil?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_122",
+      "hash": "D2DE29083CEE6710",
+      "target": "Tal como predijiste, a los del poblado les habían prohibido instruirnos, eh, <italic(1)>directamente<italic(0)>."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_123",
+      "hash": "D0BC3E19B163F036",
+      "target": "Sin embargo, muchos seguían preparándolo como se prepara un plato de diario, y observar sus técnicas dio pistas de sobra."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_124",
+      "hash": "53D0D7C1E4AD65BC",
+      "target": "Una señora que mezclaba hierbas y especias del lugar estuvo encantada de describirme las que no reconocía─sin confirmar ni desmentir relación alguna con el xibruq pibil."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_125",
+      "hash": "D17D881E5F959941",
+      "target": "Pero una en concreto se la atribuyó a todos los platos Xbr'aal corrientes. “Achiote”, lo llamó."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_126",
+      "hash": "F57B3E1B15A82155",
+      "target": "Entiendo. Entonces, si el xibruq pibil es de verdad un plato tan omnipresente como afirma Alphinaud, tenemos confirmado nuestro primer ingrediente."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_URIANGER_000_127",
+      "hash": "F098EBF95FE5D12E",
+      "target": "Entretanto, observé a un cocinero enterrar hatillos envueltos en hoja de najool─o plátano, según el lugar. Diríase que el uso de hornos subterráneos es cosa común."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_128",
+      "hash": "7AB7E517C8C1B049",
+      "target": "¡Yo vi lo mismo! Entonces creo que todos sabemos qué hay dentro de esos hatillos, ¿no?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_Q1_000_000",
+      "hash": "843680636B68898C",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_A1_000_001",
+      "hash": "6ECBE15521197374",
+      "target": "Ibruq. Sin duda."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_A1_000_002",
+      "hash": "249A675A8C637EED",
+      "target": "Un chuletón de ternera chisporroteando. Olía tan bien que casi lo saboreaba..."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_A1_000_003",
+      "hash": "1513B5BEA5A452D8",
+      "target": "¡La carne chirriante de un pez bípedo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_130",
+      "hash": "1CE4E6DF790884D6",
+      "target": "Como cabría esperar de un plato llamado “xibruq pibil”, en efecto."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_131",
+      "hash": "3D68A2612B534FF8",
+      "target": "Creo que olías lo que querías oler. El ganado vacuno es poco común en Yok Tural y es improbable que sea ingrediente de la cocina tradicional Xbr'aal."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_132",
+      "hash": "AB42487E8D775B8A",
+      "target": "¿Qué clase de criatura es esa? Aquí parece haber más cazadores que pescadores, así que creo que buscamos otra carne─¡pero me apuntaría a probarla la próxima vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_133",
+      "hash": "726CEEEC379C65FC",
+      "target": "Así que, resumiendo: es un plato de ibruq, sazonado con una combinación de especias que incluye achiote, y cocido al vapor bajo tierra envuelto en hojas de najool─o plátano."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_134",
+      "hash": "679B72AA3094EA1B",
+      "target": "Suponiendo que estemos en lo cierto, ahora hay que averiguar dónde y cómo conseguir los ingredientes."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_135",
+      "hash": "3AC457AA2E07D137",
+      "target": "Al ser cocina de diario, sus ingredientes estarían a mano─por eso Thancred y yo exploramos los bosques de alrededor mientras vosotros recorríais el poblado."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_136",
+      "hash": "7DFA1F4625CBC328",
+      "target": "Entre la vegetación del lugar y los ibruq salvajes, deberíamos tener todo lo que necesitamos en cuanto a carne y especias."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_137",
+      "hash": "B6591E39868F5435",
+      "target": "Je, ¡para eso está un espigador de los buenos!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_138",
+      "hash": "C0D2579146517E02",
+      "target": "Con eso, lo siguiente es repartirnos las tareas. Mientras unos reúnen ingredientes, otros deberían preparar la cocina."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KRILE_000_141",
+      "hash": "1382DFE79A017C24",
+      "target": "Yo puedo ayudar a preparar la cocina."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ALPHINAUD_000_142",
+      "hash": "AA7100DB24DCDC4D",
+      "target": "Permitidme ayudar también. Sin duda los hornos necesitarán leña, y tengo cierta experiencia recogiéndola."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_URIANGER_000_143",
+      "hash": "BC27F05C05EB05EE",
+      "target": "También yo con gusto ofrecería mi ayuda."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_THANCRED_000_146",
+      "hash": "F436041589495564",
+      "target": "Entonces los demás reuniremos los ingredientes. De las especias y las hierbas puedo encargarme yo en un momento."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_147",
+      "hash": "FA63A6A047991172",
+      "target": "Con gusto llevo a alguien hasta un ibruq apropiado, si esa persona hace lo que hay que hacer. ¿Alisaie?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_148",
+      "hash": "C9DABA90953B5F2A",
+      "target": "En cuanto a las hojas de najool, creo que eso puedo conseguirlo yo solo."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_ERENVILLE_000_149",
+      "hash": "A76C314C80130FC8",
+      "target": "Aviso─najool no vas a encontrar por aquí. Solo crecen en el Corazón de Ja Tiika, unos bosques muy por debajo de estos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_150",
+      "hash": "71E40B59C467B182",
+      "target": "Hm. Semejante excursión llevaría mucho tiempo. Quizá deberíamos intentar el trueque primero."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_100_150",
+      "hash": "798E05E257B7DB19",
+      "target": "Al fin y al cabo, esta prueba fomenta que hablemos con los del lugar."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_151",
+      "hash": "2A751BBED2681614",
+      "target": "Lamaty'i, <split(<string(gstr1)>, ,1)>. ¿Me acompañaríais en el encargo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_152",
+      "hash": "DC6B5C69B4330492",
+      "target": "¡No hay mejor forma de abrir el apetito!"
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_153",
+      "hash": "DD3DA121C9D9B5FC",
+      "target": "Bien. Manos a la obra, entonces."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_KOANA_000_160",
+      "hash": "DA87229EE2D4D729",
+      "target": "...Lamaty'i no tenía ninguna tarea asignada, así que la traje conmigo. Ni más ni menos."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_165",
+      "hash": "A38E96EEE8D0E93F",
+      "target": "¡Venga! Vamos a por esas hojas de najool."
+    },
+    {
+      "gameKey": "quest/048/KinGmc102_04898#TEXT_KINGMC102_04898_WUKLAMAT_000_166",
+      "hash": "D48B2FEE540548A9",
+      "target": "¡Cuanto antes lo hagamos, antes comeremos!"
+    }
+  ]
+}

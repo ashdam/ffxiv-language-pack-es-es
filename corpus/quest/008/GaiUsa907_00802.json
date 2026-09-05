@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/008/GaiUsa907_00802",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_00", "hash": "06F024E26DB2284E", "target": "Tyoh Moui quiere concederte el paso a través de la Puerta del Lobo Blanco." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_01", "hash": "47C59927545571FC", "target": "En reconocimiento a tus recientes hazañas, la cabo de la Doble Víbora Tyoh Moui te ha abierto la Puerta del Lobo Blanco. Para pasar, muéstrale tu pase al guardián de la puerta, Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_SEQ_02", "hash": "4F3238714A9897DF", "target": "Con la presentación de tu pase, se te ha concedido paso libre a través de la Puerta del Lobo Blanco. Siempre que desees pasar, solo tienes que hablar con Franchemontiaux." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TODO_00", "hash": "AD7F617C3E5EBC13", "target": "Hablar con Franchemontiaux" },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_000", "hash": "641D88628A603907", "target": "Es <split(<string(gstr1)>, ,1)>, ¿no es así? He seguido sus hazañas con gran interés." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_001", "hash": "06A6ACA0232626A0", "target": "Ha servido bien a <switch(gnum70,Limsa Lominsa,Gridania,Ul'dah)>, pero creo que sus mayores logros están aún por llegar. Con tan altas expectativas, le concedo el paso a través de <switch(gnum70,la Puerta del Lobo Blanco de Gridania,nuestra Puerta del Lobo Blanco,la Puerta del Lobo Blanco de Gridania)>." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_TYOHMOUI_000_002", "hash": "8366548F9113CA77", "target": "Tome este pase y muéstreselo a Franchemontiaux, el guardián de la puerta. Pertréchese bien para las batallas que se avecinan, y estoy segura de que las nuevas de sus hazañas volverán a llegarme antes de mucho." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_020", "hash": "6441E2F38BD36146", "target": "Solo quienes posean un pase pueden cruzar la Puerta del Lobo Blanco. Es por su propio bien: las temibles bestias que acechan al otro lado despedazarían a un aventurero mal preparado." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_021", "hash": "096FAF41592A17A8", "target": "¿Tiene los papeles? Veamos... Sí, todo parece estar en orden." },
+    { "gameKey": "quest/008/GaiUsa907_00802#TEXT_GAIUSA907_00802_FRANCHEMONTIAUX_000_022", "hash": "127395BE909CF1D9", "target": "Vaya con bien, <split(<string(gstr1)>, ,1)>. En el futuro, si desea pasar, no tiene más que decírmelo." }
+  ]
+}

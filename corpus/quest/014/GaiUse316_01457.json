@@ -1,0 +1,632 @@
+{
+  "conversation": "quest/014/GaiUse316_01457",
+  "questName": "Recruiting the Realm",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_00",
+      "hash": "75582A8E28E26199",
+      "target": "Alphinaud desea solicitar tu ayuda para su nueva empresa."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_01",
+      "hash": "5B40829994BFE773",
+      "target": "Alphinaud te expone el plan de establecer una Gran Compañía que abarque todo el reino. El Heredero lamenta que, aunque los líderes de las tres naciones no se oponen a la idea en sí, las interminables deliberaciones sobre cómo llevarla a cabo han reducido el avance a un goteo. Para demostrar la eficacia de semejante compañía y así animar a los líderes a llegar a un acuerdo, Alphinaud explica que ha propuesto la creación de una organización precursora más pequeña: la vanguardia de una futura Eorzea unida. El joven Elezen te pide que lo acompañes en su viaje a cada una de las tres naciones para que empieces a buscar posibles miembros de esta compañía de prueba mientras él se ocupa de ultimar las formalidades burocráticas. Dirígete primero a Limsa Lominsa y reúnete con Alphinaud en la Sala del Baluarte."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_02",
+      "hash": "1066D188412A3380",
+      "target": "Tras darte una breve explicación del proceso de reclutamiento, Alphinaud sube al Puente para hablar con la Almirante. Dirígete a las cubiertas superiores y empieza a buscar posibles miembros para la compañía."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_03",
+      "hash": "0E09DD8163F99601",
+      "target": "Hablas con varios posibles candidatos para la organización de prueba, pero solo logras despertar el interés de Riol, miembro de la ya disuelta Compañía de Héroes. Dirígete al embarcadero de aeronaves e informa a Alphinaud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_04",
+      "hash": "1C8A9B2067D024AB",
+      "target": "Has informado al joven Heredero del fruto de tu labor. Le impresiona la talla de tu primer recluta y te pide que lo acompañes en la segunda etapa de su viaje. Viaja a continuación a Gridania y busca a Alphinaud en el Altar de Nophica."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_05",
+      "hash": "BDDF40390321B2F3",
+      "target": "Te reúnes con Alphinaud justo cuando va a comenzar su audiencia con Kan-E-Senna. Prosigue tu labor de reclutamiento por la Vieja Gridania mientras el resuelto Elezen habla con la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_06",
+      "hash": "92F808ABE51D7590",
+      "target": "Consigues reclutar a Laurentius y a Alianne para la compañía de prueba. Dirígete al mostrador de billetes de aeronave e informa a Alphinaud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_07",
+      "hash": "A80E3166A8BDFE13",
+      "target": "Al joven Heredero le despierta curiosidad, aunque también le complace, sumar a las filas a un antiguo Vigía del Bosque y a una avezada aventurera. Viaja a continuación a Ul'dah y reúnete con Alphinaud en el Paseo Real."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_08",
+      "hash": "B5AE52A90F927CFB",
+      "target": "Alphinaud está listo para inclinarse ante la sultana Nanamo Ul Namo y pedirle permiso para operar libremente en Ul'dah. Baja al nivel inferior de los Peldaños de Thal y completa la fase inicial del reclutamiento de la compañía de prueba."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_09",
+      "hash": "993853B338C93D6D",
+      "target": "Aunque tus esfuerzos por reclutar a algún nativo de Ul'dah fracasan, logras captar el interés del joven alamhigano Wilred. Regresa al Paseo Real e informa a Alphinaud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_10",
+      "hash": "C962D7487FC2C7E0",
+      "target": "Algo decepcionado, aunque por lo demás nada sorprendido, por el número total de reclutas, Alphinaud agradece de veras los pocos y valiosos miembros que has logrado conseguir. Tras informar de su propio éxito con la sultana e intentar disipar cualquier duda que puedas albergar sobre la implicación del Sindicato, el joven Heredero sugiere un rápido regreso al Peaje del Aparecido. Vuelve al Refugio de las Piedras y habla con Alphinaud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SEQ_11",
+      "hash": "38DB9BCF911B51EA",
+      "target": "Al regresar al cuartel general de los Herederos, encuentras a Alphinaud agotado por el viaje, pero deseoso de comenzar los preparativos de la ceremonia inaugural de su compañía de prueba. Te agradece tu labor de reclutamiento e insinúa que la Antecesora quizá quiera asignarte nuevas tareas. Habla con Minfilia y entérate de qué ha sucedido en el Peaje del Aparecido durante tu ausencia."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_00",
+      "hash": "88B8E505F8F17BAE",
+      "target": "Hablar con Alphinaud en la Sala del Baluarte"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_01",
+      "hash": "997DECD9E5C952DC",
+      "target": "Buscar posibles reclutas en las cubiertas superiores"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_02",
+      "hash": "4EE58234AD3DC77B",
+      "target": "Hablar con Alphinaud en el embarcadero de aeronaves de Limsa Lominsa"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_03",
+      "hash": "00C5D607FFD147C4",
+      "target": "Hablar con Alphinaud en el Altar de Nophica"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_04",
+      "hash": "3228FAF858A349EB",
+      "target": "Buscar posibles reclutas en la Vieja Gridania"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_05",
+      "hash": "7F72E3AD1E9A3B48",
+      "target": "Hablar con Alphinaud en el embarcadero de aeronaves de Gridania"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_06",
+      "hash": "19FCDD853DF78286",
+      "target": "Hablar con Alphinaud en el Paseo Real"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_07",
+      "hash": "45BB366576AC6A67",
+      "target": "Buscar posibles reclutas en los Peldaños de Thal"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_08",
+      "hash": "77BC95D7B121CCAD",
+      "target": "Hablar con Alphinaud en el Paseo Real"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_TODO_09",
+      "hash": "0B3495532469CB8E",
+      "target": "Hablar con Alphinaud en el Refugio de las Piedras"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_000",
+      "hash": "9A089C90E9FF4476",
+      "target": "Perdóneme si repito lo ya sabido, pero antes quisiera hablar del gran plan."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_001",
+      "hash": "65A6C48A0D41A69F",
+      "target": "Desde el advenimiento de la Séptima Era Astral, los líderes de las tres naciones vienen deliberando sobre un acuerdo que busca reunir las dispares fuerzas de Eorzea en una sola entidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_002",
+      "hash": "E304460208676245",
+      "target": "Una Gran Compañía que abarque todo el reino, por así decirlo. El poderío militar de tal institución se nutriría de todos los rincones de la tierra y se dirigiría contra amenazas que ninguna nación por sí sola podría esperar superar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_003",
+      "hash": "DD68CA59BAC29B6C",
+      "target": "Sin embargo, si bien el propósito de esa hipotética organización no se discute, la logística de su formación se ha convertido en fuente de un debate sin fin..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_004",
+      "hash": "706A9DE8C2CF048C",
+      "target": "Y cuanto más se prolongan esas discusiones, más noto cómo se desvanece el impulso hacia la unificación. Por eso he estado abogando por la creación de lo que podría considerarse una compañía de prueba."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_005",
+      "hash": "6343028D6BA83B80",
+      "target": "Será de una escala mucho menor que lo que esperamos lograr con el tiempo, pero capaz del mismo tipo de actuación sin restricciones que se concede a los Herederos. Confío en que el buen uso de tal fuerza dé impulso a las estancadas deliberaciones."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_006",
+      "hash": "DEF4883B110078FC",
+      "target": "Además, al tratarse de una formación esencialmente militar, pretendo apaciguar los temores a un mal uso poniendo la incipiente organización bajo la autoridad de la Antecesora."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_007",
+      "hash": "844F21D3731FBC36",
+      "target": "Los Herederos trabajan sin descanso para proteger Eorzea y a sus gentes."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_008",
+      "hash": "49703B0F7A184F8A",
+      "target": "...Pero, como usted <if(gnum4,misma,mismo)> ha presenciado con la revuelta de los refugiados, hay límites a lo que incluso nosotros podemos lograr."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_009",
+      "hash": "552730A171335874",
+      "target": "Con esta nueva compañía a las órdenes de los Herederos, en cambio, podremos responder a un abanico más amplio de dificultades sin agotar nuestros recursos ni exigir en exceso a sus formidables talentos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_010",
+      "hash": "C8A34B11BB4561BA",
+      "target": "Los objetivos de la organización que propongo y los de los Herederos son, en última instancia, idénticos, cosa que todos los implicados reconocen."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_011",
+      "hash": "BD47D9CA4598E716",
+      "target": "Pero, antes de poder avanzar en el establecimiento de este precursor de la verdadera Gran Compañía transfronteriza, aún es necesario que visite a los tres líderes y obtenga su aprobación oficial."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_012",
+      "hash": "8C55687731F966F9",
+      "target": "Una tarea tediosa y lenta... Por eso quisiera pedirle que me acompañe en el viaje y se ocupe de reclutar a nuestros primeros miembros mientras yo atiendo las formalidades burocráticas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_013",
+      "hash": "C8C9ED7B1ADD069C",
+      "target": "...Gracias. Es de veras tranquilizador saber que <if(gnum4,la Guerrera,el Guerrero)> de la Luz y su perspicaz mirada serán quienes seleccionen a nuestros futuros aliados."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_014",
+      "hash": "A961948CCD6F3D14",
+      "target": "Nuestro primer destino será Limsa Lominsa. Reunámonos en la Sala del Baluarte."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_020",
+      "hash": "3D83D0D5EFDCC872",
+      "target": "Ah, ya está aquí. Estoy listo para subir al Puente y hablar con la almirante Bloefhiswyn."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_021",
+      "hash": "2BD0CA3F885F4A77",
+      "target": "Mientras la Almirante y yo fijamos los límites de actuación y firmamos pergaminos, quisiera que usted comenzara en serio el proceso de reclutamiento."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_022",
+      "hash": "E64FC57A5C77A12A",
+      "target": "He procurado, por supuesto, difundir la existencia de nuestra organización por diversos cauces, pero creo que un trato personal llegará a muchos que de otro modo seguirían ignorando la oportunidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_023",
+      "hash": "9204B7941208B784",
+      "target": "En cuanto a los posibles miembros, no importa que ya estén comprometidos con otra institución, solo que estén dispuestos a prestar su fuerza cuando la situación lo exija. Y no necesita adentrarse en el campo: solo las cubiertas superiores albergan candidatos suficientes para nuestro propósito."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_024",
+      "hash": "04A8A25011524B6C",
+      "target": "Cuando quede <if(gnum4,satisfecha,satisfecho)> con su labor de reclutamiento, reúnase conmigo en el mostrador de billetes de aeronave para preparar la siguiente etapa de nuestro viaje."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RIOL_000_030",
+      "hash": "005495013C455F30",
+      "target": "¡Vaya, pero si es <split(<string(gstr1)>, ,1)>! ¡No olvidaría a <if(gnum4,una aventurera,un aventurero)> lo bastante valiente, o lo bastante <if(gnum4,loca,loco)>, como para buscar el atajo hasta la alcoba de Titán!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RIOL_000_031",
+      "hash": "48A7D04FC9B31097",
+      "target": "Te acuerdas del viejo Riol, ¿a que sí? El de la Compañía de Héroes. ¿Los Tres Silbatos del lago de Bronce? No es que me pase por Limsa a menudo a echar un trago, ¡pero me alegro un montón de haber venido! ¿Qué es de tu vida?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RIOL_000_032",
+      "hash": "8624CB2C9FB39D1B",
+      "target": "¿Eh? ¿Buscas montar una nueva cuadrilla? ¿Trabajo de primera? ¡Ja, suena de lo más divertido!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RIOL_000_033",
+      "hash": "07AEE02B00C9E111",
+      "target": "De acuerdo, <if(gnum4,muchacha,muchacho)>, cuenta conmigo. Puede que los Héroes tomáramos caminos distintos, ¡pero aún no estoy listo para meterme en la tumba!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_REYNER_000_040",
+      "hash": "11381B51B07DBBA4",
+      "target": "¿La nueva organización de maese Alphinaud? Sí, había oído que la formación de su compañía de prueba era inminente."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_REYNER_000_041",
+      "hash": "F6B7AF6528A58D13",
+      "target": "Con pesar, sin embargo, debo declinar tu invitación. Como comandante de los Casacas Amarillas, la protección de Limsa Lominsa reclama toda mi atención."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_REYNER_000_050",
+      "hash": "D444A9A5C315845E",
+      "target": "Te deseo lo mejor en tu empeño, pero los Casacas Amarillas —y la defensa de las gentes de Limsa Lominsa— deben seguir siendo mi única prioridad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_CARVALLAIN_000_060",
+      "hash": "DAD88632910E80BA",
+      "target": "¿Una organización con libertad para actuar con impunidad territorial? He de decir que su propuesta me intriga."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_CARVALLAIN_000_061",
+      "hash": "7C2ED70326E5BD8E",
+      "target": "Pero los Kraken sabemos bien que hay un tiempo para actuar y un tiempo para observar. Y me temo que esta... «compañía de prueba» suya cae en esta última categoría."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_CARVALLAIN_000_070",
+      "hash": "6A4EDD9266952DCD",
+      "target": "Los Kraken no nos movemos antes de poder leer las corrientes. Por el momento, mi respuesta ha de ser un respetuoso «no»."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RHOSWEN_000_080",
+      "hash": "4E37579D69414A38",
+      "target": "¿Eh? ¡¿Con quién demonios te crees que estás hablando, rata de tierra?! ¡Soy una pirata, no una maldita caballero de reluciente armadura! ¡Si buscas a un petimetre de moral remilgada, prueba a llamar a la puerta de ese fatuo de Carvallain!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_RHOSWEN_000_090",
+      "hash": "08A79E73C2005EFF",
+      "target": "¿Hace falta que saque mi garfio? Ya te lo he dicho: ve a dar la lata a Carvallain con tu palabrería de buenas obras."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_HNAANZA_000_100",
+      "hash": "A3EA50CC96BAA311",
+      "target": "¿Un precursor de una Gran Compañía eorzea unida? Mmm. Aunque admiro el alcance de su ambición, mis responsabilidades aquí, en Naldiq & Vymelli's, me tienen pegada a la forja. Menudo trrrabajo tengo encima."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_HNAANZA_000_101",
+      "hash": "0F9F1EF9CACE9F3F",
+      "target": "No tengo tiempo de andar de aquí para allá por todo el reino. Ahora bien, si necesitara mis habilidades como armera, quizá estaría dispuesta a aceptar algún encargo especial... Sé forrrjar buenas piezas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_HNAANZA_000_110",
+      "hash": "F3D008FAD19DFDF5",
+      "target": "Por noble que sea su causa, tengo un deber para con Naldiq & Vymelli's y para con la forja. Aun así, se me puede convencer de proveerle cualquier herrramienta o pieza de metal que precise. Vuelva con una lista de material y hablamos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_120",
+      "hash": "BE56C512CEE717BE",
+      "target": "<split(<string(gstr1)>, ,1)>, el reclutamiento fue bien, ¿me equivoco? Tengo curiosidad por saber cómo recibió mi propuesta la ruda y llana gente de Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_121",
+      "hash": "77CFDF0ECFF31BEC",
+      "target": "Ah, ¿un miembro de la legendaria Compañía de Héroes ha mostrado interés? Asombroso. Sabía que solicitar su ayuda era la elección acertada: pocos pueden presumir de conocer a un personaje tan esquivo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_122",
+      "hash": "FDC235F669A69A8C",
+      "target": "Yo también he tenido éxito en mi cometido: la Almirante accedió a firmar todos los documentos que requerían su aprobación. Solo cabe esperar que mi visita a la Gran Vidente transcurra con igual fluidez. Prosiga hacia Gridania a su ritmo; le aguardaré en el Altar de Nophica."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_130",
+      "hash": "124CDE80AF5E72F5",
+      "target": "Mi audiencia con la Gran Vidente está a punto de comenzar. Le agradecería que se encargara una vez más de la tarea de reclutamiento aquí, en Gridania."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_131",
+      "hash": "98FDEBAECD1998CD",
+      "target": "Cuando considere que se ha agotado el filón de posibles candidatos, reunámonos en el mostrador de billetes de aeronave, como antes."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_140",
+      "hash": "BB734263AD460518",
+      "target": "¡Por los dioses! ¿De veras es <italic(1)>usted<italic(0)>? ¡¿Por qué caprichosa fortuna ha de ser el suyo el primer rostro que veo al quedar libre?!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_141",
+      "hash": "07DBE6816B97991D",
+      "target": "...¿Eh? ¿Será posible que no me recuerde? Soy yo, Laurentius, el hombre cuyos crímenes usted destapó. Era un Vigía del Bosque y cliente habitual del local de Buscarron..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_Q1_000_142",
+      "hash": "9346A21BA7FA1BAF",
+      "target": "¿Recuerdas a Laurentius?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_A1_000_143",
+      "hash": "A66A80FF5D4C5AAB",
+      "target": "¡Sí, ya me acuerdo!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_A1_000_144",
+      "hash": "5C0C7A762CEF84F1",
+      "target": "...¿Quién?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_A1_000_145",
+      "hash": "71E59E4867331002",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_146",
+      "hash": "115C7D83DF4B6F67",
+      "target": "¡Pues claro que sí! Empezaba a preguntarme si la cárcel me había cambiado más de lo que creía. ...No es que tenga especial deseo de que me reconozcan tras mi vergonzosa conducta."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_147",
+      "hash": "B16B0B93127D0D85",
+      "target": "¡Laurentius! Yo... yo vendía mapas y provisiones a los garleanos, antes de que usted y aquellos furtivos Panza Roja barrieran el suelo del bosque con mis antiguos patronos. ...A ver, ¿con cuántos criminales ha tratado usted para que mi ignominioso relato no despierte ni la más leve chispa de reconocimiento?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_148",
+      "hash": "2C8FA8672D7F270D",
+      "target": "¡¿No va a decir nada?! ¿Tanto le repugna mi presencia? ¿O es que sencillamente no le importa recordar nuestro encuentro?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_149",
+      "hash": "ECEBB0CC06320DE0",
+      "target": "Hmpf. Cuanto menos se hable de mi pasado, mejor, supongo. ¿Y usted, <if(gnum4,aventurera,aventurero)>? ¿Qué asunto le trae a esta parte de Gridania?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_150",
+      "hash": "521107DD3F11CF3D",
+      "target": "Reclutando, ¿eh? ¿Y cuál es su política respecto a los convictos reformados?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_151",
+      "hash": "290EA6EED5EF10DB",
+      "target": "Tal como están las cosas, los Vigías del Bosque no quieren saber nada más de mí. Esta... esta podría ser justo la segunda oportunidad que buscaba..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LAURENTIUS_000_152",
+      "hash": "1538FC5C96DA6CF6",
+      "target": "¿El Peaje del Aparecido, dice? ¡Partiré de inmediato! ¡No se arrepentirá de esto, se lo prometo! ¡Soy un hombre nuevo!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_160",
+      "hash": "5C072EEADA469FE8",
+      "target": "¡Abuelo, tienes que dejarlo por hoy! ¡Volvamos al gremio a descansar antes de que esa espalda maltrecha te falle para siempre!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_161",
+      "hash": "5951B282E3FBF6BA",
+      "target": "Lo siento muchísimo, solo estábamos... Ah, <split(<string(gstr1)>, ,1)>, ¿verdad? Ha pasado un tiempo desde que nuestros caminos se cruzaron a las puertas de Copperbell Mines."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_162",
+      "hash": "A8CA55A3438F7863",
+      "target": "Vaya, por aquel entonces apenas era usted <if(gnum4,una aventurera novata,un aventurero novato)>, pero mire cuánto ha avanzado... ¡La madre Miounne me ha contado que fue usted quien abatió al temible Lobo Negro!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_163",
+      "hash": "E680FAA06CA861B6",
+      "target": "¿Y ahora busca almas de gran corazón para llenar las filas de una nueva orden? Mmm, bueno, su causa es sin duda justa, y mi viejo compañero de aquí se quedaría mucho más tranquilo al verme en buenas manos..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_164",
+      "hash": "1269791341D20374",
+      "target": "Sí. ¡Sí, lo haré! ¡Esto es justo aquello por lo que he trabajado durante toda mi carrera de aventurera! Me uniré a su compañía en cuanto haya llevado a Isildaure a casa sano y salvo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALIANNE_000_170",
+      "hash": "711E5F8F142B2876",
+      "target": "Si me acepta, con gusto me uniré a su nueva compañía. Partiré hacia el Peaje del Aparecido en cuanto haya escoltado a mi querido amigo de vuelta a casa."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ISILDAURE_000_175",
+      "hash": "3E97BC29144E9A0E",
+      "target": "¡Mi espalda está perfectamente, te lo digo yo! ¡Tendrás que atarme a la cama si pretendes impedirme que...! \\<ahogo> Ay. Bueno, quizá descanse solo un ratito..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_CEINGULED_000_180",
+      "hash": "62AA87112574C03A",
+      "target": "Mmm. No es frecuente que recluten a un oficial de gremio como yo. Y esta compañía suya desde luego parece prometedora... pero sus cometidos se antojan poco definidos. Debo rechazar su invitación hasta que su organización esté más... organizada."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_CEINGULED_000_190",
+      "hash": "7B8ACC3F1F019EFC",
+      "target": "Aunque simpatizo con su causa, confieso cierta perplejidad sobre el lugar de esta compañía en el gran orden de las cosas. Por el momento, prefiero dedicar mis energías a las nítidas responsabilidades de los Vigías del Bosque."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_URSANDEL_000_200",
+      "hash": "E96AC76D05205F4A",
+      "target": "...¿Le ofrecería un lugar a este anciano en su compañía de adalides? Me siento a la vez perplejo y honrado por su invitación."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_URSANDEL_000_201",
+      "hash": "A72B067E16DF9A2D",
+      "target": "Le ruego que me perdone, <if(gnum4,joven señora,joven señor)>, pero no puedo aceptar. He jurado permanecer aquí los escasos años que me resten y cargar con la responsabilidad de los males que mi señora ha infligido a esta tierra..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_URSANDEL_000_210",
+      "hash": "74AA6BF6B925C47E",
+      "target": "Debo rechazar respetuosamente su invitación. Su propuesta promete nuevos comienzos, pero a mí me encadenan los pecados del pasado. Mi propio juramento me hace prisionero; mis cadenas están forjadas de culpa y de una cobardía imperdonable..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_220",
+      "hash": "B83F41F17BCF25BF",
+      "target": "¿Qué noticias hay, <split(<string(gstr1)>, ,1)>? Por mi parte, la Gran Vidente se mostró de lo más receptiva a nuestras necesidades."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_221",
+      "hash": "9BA61DFF8852FB46",
+      "target": "...¿Un antiguo Vigía del Bosque y una avezada aventurera? A nuestra compañía no le faltará variedad, eso desde luego. Una cosecha interesante, ciertamente."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_222",
+      "hash": "BFB92AE3925B6323",
+      "target": "¿Nos lanzamos sobre Ul'dah mientras el hierro está caliente? Reunámonos en el Paseo Real y procuremos concluir los asuntos que nos quedan. Nuestro viaje toca a su fin..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_230",
+      "hash": "569982BA25BB3F22",
+      "target": "Ul'dah, la ciudad dorada, donde la fortuna de cada cual define su valía. Espero que alguna clase de fortuna nos acompañe y que esta última etapa resulte tan fructífera como las dos anteriores."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_231",
+      "hash": "97DCCB4E98939A6B",
+      "target": "¿Me permite sugerirle que baje al nivel inferior antes de comenzar su labor de reclutamiento? No creo que la sultana vea con buenos ojos que le arrebatemos miembros de su guardia personal."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_232",
+      "hash": "666E84C6BDB9AE57",
+      "target": "Reunámonos aquí, en el Paseo, cuando hayamos completado nuestras respectivas tareas. Buena caza, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_WILRED_000_240",
+      "hash": "FEFED82E60ED1D1F",
+      "target": "¿Eh? Espera, tú eres <if(gnum4,la mujer,el hombre)> que vino a Pequeña Ala Mhigo buscando a aquel demonio enmascarado."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_WILRED_000_241",
+      "hash": "37A22E48A4A90737",
+      "target": "Quién sabe qué habría pasado si no lo hubieras hecho... Probablemente estaría muerto, y muchos más de mis amigos también. Fuimos unos necios."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_WILRED_000_242",
+      "hash": "5EE6FBB333CDBCFC",
+      "target": "En fin, aquel desastre me hizo pensar de verdad: en nuestra patria y en <if(gnum4,la forastera,el forastero)> que nos salvó de nosotros mismos. Comprendí lo fácil que fue manipularme y me juré ser un hombre de más mundo. Así que aquí estoy."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_WILRED_000_243",
+      "hash": "6F6CF810B005A6AE",
+      "target": "...¿Una nueva compañía de adalides? ¿Y dices que me llevará a todos los rincones del reino?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_WILRED_000_244",
+      "hash": "6011ACFE811DD98D",
+      "target": "Suena justo al tipo de oportunidad que necesito. Y no te preocupes: no soy el mismo mozalbete que conociste en Pequeña Ala Mhigo. Me he preparado para combatir el mal que ahora <italic(1)>sé<italic(0)> que anda suelto."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_OURCEN_000_250",
+      "hash": "DED6492244E6248C",
+      "target": "¡Ah, qué feliz coincidencia! ¿Me recuerda, quizá? Soy Ourcen, de la iglesia de San Adama Landama. Gracias de nuevo por su oportuno rescate."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_OURCEN_000_251",
+      "hash": "843F0D72D2C2CD5D",
+      "target": "Y también debo agradecerle que impidiera a aquel sacerdote fraudulento aprovecharse de los menos afortunados de los Huesos Secos. Un asunto de lo más penoso. ¿Viene con su compañero... Thancred, se llamaba?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_OURCEN_000_0252",
+      "hash": "A8BD27E7208B8323",
+      "target": "...Ah, así que busca nuevos compañeros. Su organización suena a una poderosa fuerza para el bien, pero mi lugar está en la iglesia, con los niños. Aun así, le deseo lo mejor en esta empresa."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_OURCEN_000_260",
+      "hash": "10561614F38871B8",
+      "target": "Jamás podría abandonar a los niños, ni mi labor en el camposanto. Rezaré, no obstante, por su éxito."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SYNTGOHT_000_270",
+      "hash": "E4EDF7E897813482",
+      "target": "¿Una compañía que aspira a curar los males del reino entero? Escuche, amigo, apenas soporto las quejas del puesto de al lado, ¡conque no digamos ya los quebraderos de una nación vecina!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_SYNTGOHT_000_280",
+      "hash": "B7F340F843D7FCF9",
+      "target": "No puedo ayudarle. Mis finanzas han caído ya bastante como para encima invertir en una compañía sin margen de beneficio."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LANDEBERT_000_291",
+      "hash": "885B59D615D2DA03",
+      "target": "...Sí, te sorprendería lo que se rumorea por la Calle de la Perla. Conozco esa gloriosa compañía nueva tuya, y hasta dónde llegaría con tal de no verme envuelto en ella."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LANDEBERT_000_292",
+      "hash": "B1AC2D71692B9360",
+      "target": "Los rumores de la calle dicen que tu organización se financia con dinero corrupto... con dinero del <italic(1)>Sindicato<italic(0)>. Si crees que reclutas por una causa justa, eres <if(gnum4,más necia,más necio)> de lo que pensaba."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_LANDEBERT_000_300",
+      "hash": "1CF242B9F35D6160",
+      "target": "¿Mi consejo, soldado? Corta lazos y huye. Tu reluciente compañía no será más que un títere que baila al son del Sindicato."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_YELLOWMOON_000_310",
+      "hash": "3D7964064DA7ECC3",
+      "target": "¿Cómo dice? ¿Que desea «reclutarme»? ¿Es esta alguna manera moderna de proponerse a una dama?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_YELLOWMOON_000_311",
+      "hash": "F274C3470C74264F",
+      "target": "Pues me temo que pierde el tiempo: ¡<italic(1)>esta<italic(0)> dama ya tiene quien la corteje! ¡Que tenga un buen día, <if(gnum4,señorita,señor)>!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_YELLOWMOON_000_320",
+      "hash": "82BAEB3F6CA1D921",
+      "target": "¡Llévese sus toscos afectos a otra parte! ¡El de Bitter Snow es el único amor que necesito!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_330",
+      "hash": "AB245BE2D1B306FE",
+      "target": "¿Cómo le ha ido, <split(<string(gstr1)>, ,1)>? ¿Qué gemas ocultas le han ofrecido las calles de Ul'dah a su implacable mirada?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_331",
+      "hash": "AE206DF4E83E978B",
+      "target": "Mmm... ¿Un único joven alamhigano? Bueno, nos ha dado sin duda un comienzo admirable, aunque nuestras filas sean todavía algo escasas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_332",
+      "hash": "8B21EFA9518170B7",
+      "target": "En estos años convulsos que siguen a la Calamidad, hablar de la salvación de Eorzea debe de parecer como querer atrapar nubes."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_333",
+      "hash": "413296722EF3DBBE",
+      "target": "Pero, aun así, hay quienes han estado a la altura del desafío. Y la esperanza que anima a esas gentes nació en no pequeña medida de las victorias que usted <if(gnum4,misma,mismo)> ha cosechado."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_334",
+      "hash": "E1AB4914AE778305",
+      "target": "Gracias, <split(<string(gstr1)>, ,1)>. No malgastaré el precioso regalo que ha puesto a mi cuidado: estos reclutas se convertirán en los cimientos de un nuevo comienzo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_335",
+      "hash": "5F0F758DE4455362",
+      "target": "Y sí, somos libres de empezar. Como sin duda ha deducido, la sultana también bendijo mi compañía de prueba."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_336",
+      "hash": "F7AB6176B07F49EF",
+      "target": "Nuestra primera oleada de reclutamiento ha concluido, los documentos están firmados y las finanzas aseguradas. Nada me impide dar el siguiente paso."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_337",
+      "hash": "01291F6C29877CE8",
+      "target": "...¿Le preocupa la implicación del Sindicato? A mí también me preocupaba. Por eso se examinó y registró con cuidado el origen de cada moneda de su contribución. Esta organización no se construirá sobre la corrupción."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_338",
+      "hash": "A70EC7B22D215E03",
+      "target": "Naturalmente, preferiría no depender en absoluto de fuentes externas, pero ni siquiera las cuantiosas arcas de mi familia podrían sostener una empresa de esta magnitud."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_339",
+      "hash": "B82C005914908F62",
+      "target": "Y en cuanto a los rumores y las dudas que rodean esta empresa... En fin, esas cosas nos acosarán hasta que la compañía tenga ocasión de demostrar su valía."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_340",
+      "hash": "66929630F881784C",
+      "target": "No será un proceso fácil, pero nos ganaremos la confianza de la gente éxito a éxito."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_341",
+      "hash": "D1B20B3CCCECD36F",
+      "target": "...Y hablando de tiempo, no deberíamos malgastar más. ¡Volvamos al Refugio de las Piedras y pongamos la primera piedra de una Eorzea unida!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_350",
+      "hash": "039B3DC547F220D6",
+      "target": "\\<suspiro> ...No es un viaje que desee repetir pronto."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_351",
+      "hash": "A8F87D8C1BF5B198",
+      "target": "Pero no puedo detenerme a descansar: la culminación de todo nuestro esfuerzo está cerca. Debo ocuparme de los preparativos de la ceremonia inaugural."
+    },
+    {
+      "gameKey": "quest/014/GaiUse316_01457#TEXT_GAIUSE316_01457_ALPHINAUD_000_352",
+      "hash": "87B8241576C04B33",
+      "target": "Gracias por permitirme monopolizar sus servicios, <split(<string(gstr1)>, ,1)>. Estoy seguro de que la Antecesora se alegrará de <if(gnum4,verla,verlo)> libre para otras tareas."
+    }
+  ]
+}

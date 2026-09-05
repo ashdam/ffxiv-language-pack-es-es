@@ -1,0 +1,174 @@
+{
+  "conversation": "quest/049/KinGmd110_04921",
+  "questName": "Pick up the Pieces",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SEQ_00", "hash": "A8BAB707C90479F3", "target": "Alisaie observa pensativa al soldado caído." },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_00", "hash": "9D02A88A95B754B1", "target": "Inspeccionar al soldado caído" },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_01", "hash": "394C449709F98B5F", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_02", "hash": "D65FB970EC840710", "target": "Hablar con Alisaie" },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_TODO_03", "hash": "B7E7AC50637BD313", "target": "Hablar con Wuk Lamat en el Alcázar del Sol" },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_001",
+      "hash": "7817E8D4B0CB4259",
+      "target": "Está claro que no es una persona, pero no se parece a ningún autómata ni arma magitek que yo haya visto."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_002",
+      "hash": "08FB00700ADA4A47",
+      "target": "Aunque, con lo que has viajado, quizá te hayas topado antes con algo parecido."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_003",
+      "hash": "4E7F7A939049D011",
+      "target": "¿Te importaría examinarlo de cerca? Podría darnos alguna pista sobre los nuevos poderes de Zoraal Ja."
+    },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_010", "hash": "51F98ED4FAD8C26D", "target": "Examina al soldado caído. Puedes mover la cámara y acercar o alejar el zoom. Fija una zona e inspecciónala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_011",
+      "hash": "8FB6C60883CC2AAC",
+      "target": "¿Y bien? ¿Qué opinas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_Q1_100_000",
+      "hash": "CC786D13CE347DD7",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_100_001",
+      "hash": "F4C335DF5DAB6810",
+      "target": "No se parece a nada que haya visto nunca."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_100_002",
+      "hash": "3E7C5CEA26BD4359",
+      "target": "Parece una persona, pero es claramente mecánico."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_012",
+      "hash": "4AA601587C4D2D67",
+      "target": "Ya veo... Aunque se parece a una persona, tiene rasgos que lo vuelven inquietante, empezando por la falta de rostro. ¿Has visto algún indicio de fuente de energía?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_013",
+      "hash": "30508A150C96117A",
+      "target": "Así que probablemente no funciona con ceruleum ni con ningún otro combustible convencional."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_014",
+      "hash": "1779CC46E9CABADA",
+      "target": "Antes probé a canalizar éter en él, pero no hubo respuesta. Eso parece descartar que sea una entidad arcana."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_015",
+      "hash": "3A199E410E36ED63",
+      "target": "Ahora está completamente inerte─muy lejos del enemigo imparable que era en la batalla..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_016",
+      "hash": "0EC5E210D42BA37B",
+      "target": "Hasta el material del que está hecho es un misterio. Más que metal, se parece a la piedra... Espera. ¿No hemos visto esto en alguna parte hace poco?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_Q1_000_000",
+      "hash": "83614393C5E7AEC2",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_000_001",
+      "hash": "A8EE63F5B6B30634",
+      "target": "Sí─en el Skydeep Cenote."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_A1_000_002",
+      "hash": "7682A7E260C33555",
+      "target": "¡El palacio también es de piedra!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_018",
+      "hash": "24539B4E5BA26FAF",
+      "target": "¡Eso es! ¡La piedra luminosa de la sala donde está la puerta a la ciudad dorada!"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_019",
+      "hash": "A99BD6E5BECC81F8",
+      "target": "Eh, sí, desde luego que lo es. Pero no tiene nada que ver con lo que se usó para fabricar esta máquina."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_020",
+      "hash": "7776FC6F96E169C5",
+      "target": "Su piedra es lisa y desprende un brillo─como la que vimos en la sala donde está la puerta a la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_021",
+      "hash": "7C8FD36328F1CF96",
+      "target": "Y aunque los soldados son de otro color, los buques de guerra son del mismo negro que la piedra de la propia puerta."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_022",
+      "hash": "FE4B08516ADB4A59",
+      "target": "Tiene que haber una relación. Compartamos nuestras observaciones con los demás cuando nos reunamos en el Alcázar del Sol."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_023",
+      "hash": "6177BEDD8A2B445D",
+      "target": "Cuanto antes lleguemos al fondo de este misterio, mejor."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_025",
+      "hash": "D0FFF7DC4FE515B1",
+      "target": "Al principio di por hecho que eran soldados con armadura. Pero al derribarlos quedó claro que no era así."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_030",
+      "hash": "142D695FA7A35246",
+      "target": "Parece que ya están todos aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALISAIE_000_040",
+      "hash": "B68CB084E70807CC",
+      "target": "Encontraremos la manera de entrar en la cúpula y nos aseguraremos de que todos los de dentro estén a salvo."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ALPHINAUD_000_045",
+      "hash": "6C82D9FE02AF3879",
+      "target": "Me temo que necesitamos saber más si queremos defendernos de otro ataque."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_YSHTOLA_000_050",
+      "hash": "D6AE64164107BACF",
+      "target": "Otro reflejo invade el nuestro, pero ¿cómo, y por qué ahora?"
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_GRAHATIA_000_055",
+      "hash": "C06A822C42A0BBED",
+      "target": "Estoy en deuda con Ojika por supervisar nuestras operaciones en mi ausencia. Procuraré ser aquí todo lo útil que pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_KRILE_000_060",
+      "hash": "C1AF4E04295AECC5",
+      "target": "Me cuesta creer que sea de otro reflejo. Me pregunto si eso significa que mi alma es más tenue que la de alguien nacido en el Origen."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_KRILE_000_065",
+      "hash": "C9694EB0DCDDFBD9",
+      "target": "Seguro que no. Y'shtola se habría dado cuenta. Dioses, hay tantísimo que no entiendo que la cabeza me va a estallar..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_ERENVILLE_000_070",
+      "hash": "3B4F31B098CB5138",
+      "target": "Por favor, que estéis bien..."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_WUKLAMAT_000_090",
+      "hash": "759433F5BAC64129",
+      "target": "Ya sé lo que tengo que hacer ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SUNPERCHGATEKEEPER_000_100",
+      "hash": "D0122BB961623488",
+      "target": "El Juramento Wuk Lamat y los demás le esperan. Por aquí, por favor."
+    },
+    { "gameKey": "quest/049/KinGmd110_04921#TEXT_KINGMD110_04921_SYSTEM_000_101", "hash": "550C961598AE9F70", "target": "¿Entrar en el Alcázar del Sol?" }
+  ]
+}

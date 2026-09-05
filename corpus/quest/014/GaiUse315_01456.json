@@ -1,0 +1,662 @@
+{
+  "conversation": "quest/014/GaiUse315_01456",
+  "questName": "Guardian of Eorzea",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_00",
+      "hash": "FDAB2D309D6C5086",
+      "target": "Minfilia tiene una carta que desea compartir contigo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_01",
+      "hash": "B3B6BF8323CFD55C",
+      "target": "Minfilia te informa de que ha llegado una carta en la que se agradece a los Herederos sus esfuerzos por sofocar la amenaza de los primigenios. Aunque el reino aún no se ha librado de conflictos, la Antecesora subraya que tus hazañas inspiran a incontables eorzeos a seguir avanzando por el difícil camino hacia la paz. Consciente de que no puede esperarse que dediques cada instante de vigilia a asuntos que sacuden el reino, te anima a quedarte un tiempo en el Peaje del Aparecido. Justo cuando parece que se te ha concedido licencia para descansar, Minfilia te pide que dediques un momento a atender a los niños domanos. Habla con Yozan en el Refugio de las Piedras."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_02",
+      "hash": "22DCD8A6ACE01DFE",
+      "target": "Encantados de verte de vuelta en el Peaje del Aparecido, Yozan y sus compañeros «aventureros domanos» te ruegan que les des una sesión de entrenamiento especial. En su lugar, Hoary Boulder, el Roegadyn que se ha hecho cargo de la instrucción diaria de los niños, propone un combate de práctica entre él y tú. Dirígete al este del Peaje del Aparecido y habla con Hoary Boulder cuando quieras dar comienzo a la demostración de destreza marcial."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_03",
+      "hash": "04DF4A208A102D62",
+      "target": "Has vencido a Hoary Boulder en el combate de práctica. Los espectadores congregados vitorean tu victoria y alaban la fuerza que tanto te ha costado ganar. Tras el duelo, Alphinaud se acerca a ti y te pide que os reunáis para hablar del futuro de Eorzea. Dirígete al Refugio de las Piedras y habla con el joven Elezen."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_04",
+      "hash": "D05490C6EF69E124",
+      "target": "Regresas al Refugio de las Piedras y Alphinaud expone su propuesta de formar una nueva organización. Únete al resuelto Heredero en su empeño por cumplir su papel como guardián de Eorzea."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_00",
+      "hash": "0C07A391CF12BEE7",
+      "target": "Hablar con Yozan"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_01",
+      "hash": "3BD7C9CFC2A1330F",
+      "target": "Reunirse con Hoary Boulder al este del Peaje del Aparecido"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_02",
+      "hash": "FBCE605932D531F1",
+      "target": "Hablar con Alphinaud en el Refugio de las Piedras"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SYSTEM_100_000",
+      "hash": "B975D2463573C0B5",
+      "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandonar»."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_000",
+      "hash": "E9801E6D930E6BD5",
+      "target": "Ahora que el asunto de Ramuh ha quedado zanjado, al menos por el momento, hay algo que quiero enseñarte, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_001",
+      "hash": "68215D259ECF9621",
+      "target": "Es una carta de agradecimiento, firmada por los líderes de la Alianza Eorzea, que reconoce el incansable servicio de los Herederos al reino."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_002",
+      "hash": "1C889FBECBF5B4C0",
+      "target": "Menciona, en particular, los nombres de todos los primigenios derrotados: Ifrit, Titán, Garuda, el Buen Rey Moggle Mog XII, Leviatán y ahora Ramuh."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_003",
+      "hash": "13DF60D3F5D4BACF",
+      "target": "No hace falta decir que solo hay una persona entre nosotros que se haya enfrentado a todos ellos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_004",
+      "hash": "9E7DDCC80CFF893D",
+      "target": "Y aunque estas palabras de gratitud iban dirigidas a nuestra orden en su conjunto, siento que estaban destinadas a ti por encima de todos los demás."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_005",
+      "hash": "BA64077B90C1630B",
+      "target": "Yo también debo darte las gracias de todo corazón por cuanto has hecho. En el cumplimiento de tu deber, jamás has dejado de responder a mi llamada a las armas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_006",
+      "hash": "E6D911BA23743C93",
+      "target": "Eres <if(gnum4,una auténtica heroína,un auténtico héroe)>, <split(<string(gstr1)>, ,1)>, y Eorzea es mucho más segura gracias a tu presencia."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_007",
+      "hash": "26CB1726BA7F3433",
+      "target": "No me malinterpretes: he dicho «más segura», no «segura». Sé demasiado bien que no podemos permitirnos bajar la guardia. Puede contarse con que los ascianos sembrarán el caos en este reino hasta que se les obligue a detenerse."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_008",
+      "hash": "A80EC83A748A980E",
+      "target": "Es más, aun sin su instigación, ten por seguro que el hombre fomentaría la discordia por sí solo. Y eso por no hablar de las tribus bestiales. Si no aprendemos a vivir en armonía, también los primigenios volverán a atormentarnos una y otra y otra vez..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_009",
+      "hash": "095C3A19574DF0CD",
+      "target": "Y aun así... pese a todo ello, tus hazañas sirven para inspirar a la gente, para darles esperanza en un mañana mejor. Y no hay mayor regalo que ese."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_010",
+      "hash": "F51B3018BD82F781",
+      "target": "Que tengamos el valor de luchar por una paz que de otro modo parecería imposible se lo debemos en gran medida a los peligros que has afrontado en nuestro nombre y a quienes has ganado para nuestra causa al hacerlo. Nuestra lista de enemigos siempre ha sido larga, pero piensa en los aliados con que ahora contamos..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_011",
+      "hash": "6396641D64D7A22A",
+      "target": "En los hombres bestia que no desean conflicto alguno y que ahora te llaman <if(gnum4,amiga,amigo)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_012",
+      "hash": "D7F5C6CF09895B93",
+      "target": "En los silfos del Pequeño Solaz, que no desean conflicto alguno."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_013",
+      "hash": "1F3F061748A75A13",
+      "target": "En Alisaie, que se afana por desenterrar los terribles secretos de la Calamidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_014",
+      "hash": "53415D243F55E4EB",
+      "target": "En los alamhiganos y los domanos que nos apoyan, decididos a frenar el temible avance del Imperio."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_015",
+      "hash": "54712A3FDB9189E0",
+      "target": "Y luego están Cid y los compañeros de NOAH, que se apresuran a desentrañar los misterios de la antigua Allag para ahorrarnos el horror de otra Arma Ultima."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_016",
+      "hash": "4BC946BF3E6C3F0B",
+      "target": "Y luego están las muchas personas anónimas que se han congregado aquí, en el Peaje del Aparecido: hombres y mujeres honrados que buscan emplear sus habilidades por el bien de todos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_017",
+      "hash": "2B70E620FC9C695F",
+      "target": "...Por supuesto, al hablar de nuestros mayores aliados, no debemos olvidar a los que tenemos más cerca; me refiero a nuestros compañeros Herederos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_018",
+      "hash": "4A6A8E8EA79316B7",
+      "target": "Gracias a sus numerosos y variados talentos, nuestra orden está en una posición única para combatir la extensa corrupción de los ascianos... ¡y la combatiremos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_019",
+      "hash": "D8E34FE288DDD136",
+      "target": "Tu entusiasmo es de veras reconfortante, Antecesora. Dada nuestra embarazosa abundancia de aliados, confío en que no te incomode demasiado que me ausente por un tiempo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_020",
+      "hash": "898B6F090F3C670C",
+      "target": "¡Alphinaud! ¿Entiendo entonces que los problemas de Ul'dah ya no requieren tu atención?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_021",
+      "hash": "909D8BF5D1312269",
+      "target": "Aún quedan ciertos murmullos de descontento, pero el aire de violencia latente se ha disipado en buena medida. Es para informar de ello que me presento ahora ante ti."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_022",
+      "hash": "FAE44A04547338D6",
+      "target": "Eso... y para hablar contigo sobre la nueva organización de la que tratamos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_023",
+      "hash": "AC807D5738EE8773",
+      "target": "Ah, tengo un mensaje para usted de parte de Ele... Ejem. ¿Recuerda a la niña refugiada? ¿Aquella cuyos padres estaban desaparecidos? Los han encontrado sanos y salvos. Me pidió que le transmitiera su agradecimiento."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_024",
+      "hash": "14B5B6651AF9CE5D",
+      "target": "¡Vaya, Alphinaud! ¿He de entender que te tomaste la molestia de recordar el nombre de la pobre niña? Espero con ganas leerlo todo sobre ella en tu informe. ¡Ojalá no hayas omitido nada!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_025",
+      "hash": "48E6CD1CA073E72C",
+      "target": "<split(<string(gstr1)>, ,1)>, creo que llevas ya un tiempo lejos del Peaje del Aparecido. ¿Me permites sugerirte que dejes a un lado los asuntos del reino por el momento y aproveches la ocasión para reencontrarte con el pueblo?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_026",
+      "hash": "A6783539FE2F0DA1",
+      "target": "...Lo que me recuerda: hace poco uno de los niños domanos preguntó por tu paradero. Yozan, se llamaba. Creo que tiene algún asuntillo que desea compartir contigo. ¿Por qué no le complaces con una visita?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_030",
+      "hash": "00E9559333F6CEEF",
+      "target": "Comprendo que debes de estar bastante <if(gnum4,cansada,cansado)> de tus fatigas, pero te agradecería mucho que encontraras un momento para hablar con el joven Yozan. Estoy segura de que él también ha pasado por mucho."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_020",
+      "hash": "5EBA0446E425E56D",
+      "target": "¡Mirad! ¡Es <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)>! ¡Ha vuelto de sus aventuras!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_021",
+      "hash": "002FA9914C7FBF95",
+      "target": "¡Oímos que estaba por ahí luchando contra «primigenios», y que son de los enemigos más fuertes a los que uno puede enfrentarse! ¡Ojalá <if(gnum4,la,lo)> hubiera visto en combate...!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_022",
+      "hash": "2E79C1D0B158E12E",
+      "target": "¡En fin, nosotros también queremos ser héroes, así que por fin hemos fundado nuestro propio Clan de Aventureros de Doma para proteger a todos los domanos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_023",
+      "hash": "6AAE31DAE889648E",
+      "target": "¡Oh! ¿Cree que <italic(1)>usted<italic(0)> podría entrenarnos hoy, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>? ¡Quizá podría enseñarnos cómo luchó contra los primigenios!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_024",
+      "hash": "C9DBFA2302C28B3B",
+      "target": "¿A qué viene tanto alboroto?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_025",
+      "hash": "A220812170105220",
+      "target": "¡Señor Boulder, señor Coultenet! ¿Sabíais que <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> ha vuelto?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_026",
+      "hash": "D598DCB997B289DA",
+      "target": "Eso parece. <if(gnum4,Bienvenida,Bienvenido)> a casa, <split(<string(gstr1)>, ,1)>. Mi compañero y yo hace poco que hemos sido admitidos como miembros de pleno derecho de los Herederos, y creo que aún no nos hemos presentado como es debido."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_027",
+      "hash": "07F5AB988080E1E8",
+      "target": "Se me conoce como Hoary Boulder, y este erudito personaje es Coultenet. Aunque como aventureros aún tenemos poco que demostrar, nos hemos encargado de instruir a los pequeños domanos en las artes del combate."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_028",
+      "hash": "EB7CD5FDC177688E",
+      "target": "¡Aj, ya se lo <italic(1)>dije<italic(0)>, señor Boulder: ya no somos <italic(1)>pequeños<italic(0)>, somos <italic(1)>aventureros<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_029",
+      "hash": "C7A0BE8F47AF8EBE",
+      "target": "Y justo le estábamos pidiendo a <if(gnum4,la señorita,el señor)> <split(<string(gstr1)>, ,1)> que nos diera un entrenamiento especial. Creo que ya estamos listos para cazar monstruos a su lado, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_030",
+      "hash": "026B9A71ED5CBDB2",
+      "target": "Bueno, desde luego habéis sido diligentes con vuestros ejercicios... pero me temo que las alimañas de Mor Dhona siguen siendo <italic(1)>un pelín<italic(0)> demasiado peligrosas para vosotros."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_031",
+      "hash": "D35ABD70CF902C9C",
+      "target": "Tengo una contrapropuesta: ¿y si cruzara yo mi espada con <split(<string(gstr1)>, ,1)>? Una demostración de destreza con las armas, por así decirlo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_032",
+      "hash": "BDBE5E408ED27B10",
+      "target": "Hoary. Si no te conociera bien —y te conozco—, diría que solo buscas medirte con una leyenda."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_033",
+      "hash": "CE0DD50AA83E4CF5",
+      "target": "Ajajajá, bueno, puede que así sea. Pero ¿qué importa el motivo cuando los niños tienen tanto que aprender de la lección?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_034",
+      "hash": "6C3C15CC500D1340",
+      "target": "¿Qué me dice, <split(<string(gstr1)>, ,1)>? ¿Accedería a batirse conmigo?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_035",
+      "hash": "903B515AAD45C529",
+      "target": "¡Hurra! ¡Vamos a tener un torneo! ¡Vamos, chicos, tenemos que preparar el equipo para la salida!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_036",
+      "hash": "0755E81243142BAB",
+      "target": "...Procura no decepcionarlos, ¿eh?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_037",
+      "hash": "E582BD7E0413FF8A",
+      "target": "¡Ten fe, Coultenet! Reuniré hasta la última onza de mis fuerzas para hacer de esto un combate digno."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_038",
+      "hash": "52AC8553B391B540",
+      "target": "Los campos al este del pueblo deberían servir a nuestro propósito. Aguardo con muchas ganas nuestro duelo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_040",
+      "hash": "F1F1D418E09456F7",
+      "target": "Desde que me uní a los Herederos, he tenido muchas ocasiones de oír noticias de sus épicas hazañas. Confieso, pues, que mi entusiasmo rivaliza con el de los niños ante la perspectiva de <if(gnum4,verla,verlo)> en acción de primera mano."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_045",
+      "hash": "9751DEF5949308C1",
+      "target": "¡<if(gnum4,La señorita,El señor)> <split(<string(gstr1)>, ,1)> ya está aquí! ¡Que empiece el combate!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_KOHARU_000_050",
+      "hash": "4C1632DFABC80C6F",
+      "target": "Cuando salíamos del Refugio de las Piedras, el señor Thancred nos preguntó adónde íbamos. Le dije que íbamos a ver pelear al señor Boulder y a usted, y puso cara de sorpresa. Espero que no lo hayamos enfadado..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ROKKA_000_055",
+      "hash": "242057ADBE350D79",
+      "target": "¿Los combates de práctica... son peligrosos? Creo que no quiero volver a ver a nadie herido..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SHIUN_000_060",
+      "hash": "57854C6372E282CE",
+      "target": "En Doma teníamos un maestro de instrucción, y su forma de enseñarnos era muy distinta de la del señor Boulder. No sé cuál es mejor, ¡pero creo que me gustan las dos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_070",
+      "hash": "D54990240D5D2D0B",
+      "target": "Ha sido muy amable al acceder a esto, <split(<string(gstr1)>, ,1)>. Confío en que esté <if(gnum4,lista,listo)> para empezar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_071",
+      "hash": "9F71D273094EAB00",
+      "target": "Muy bien. ¡No hagamos esperar más a los pequeños!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_072",
+      "hash": "DC584D208E321AFD",
+      "target": "Ejem. ¿Hoary? ¿Seguro que quieres enfrentarte a <if(gnum4,ella,él)> a solas? Recuerda que a <italic(1)>quien<italic(0)> te enfrentas es a <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_073",
+      "hash": "C03A62FF6F6EE481",
+      "target": "¿Qué mejor manera de poner a prueba mi temple? Te ruego que me dejes intentar el primer asalto sin ayuda."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_074",
+      "hash": "92FC9505907792AB",
+      "target": "Al fin y al cabo, fue la leyenda de este héroe lo que me llevó a unirme a los Herederos. Sin <split(<string(gstr1)>, ,1)> para inspirar mis esfuerzos, no sería ni la mitad del guerrero que soy hoy."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_075",
+      "hash": "F3051F6DD2C2847A",
+      "target": "Tienes razón. Pero recuerda: esto es tanto por el bien de los niños como por el tuyo. Si diera la impresión de que el combate va a terminar demasiado pronto, sumaré mis hechizos a tu esgrima."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YDA_000_076",
+      "hash": "7A948B7728329CA0",
+      "target": "¡Hola! No habéis empezado aún, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_077",
+      "hash": "B1AC864725DD2FFE",
+      "target": "¡¿Yda?! ¿Qué...? ¡¿Quién es toda esta gente?!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YDA_000_078",
+      "hash": "D9F5F3FC1649B1BC",
+      "target": "Cuando me enteré de tu combate de práctica, se lo dije a todo el que encontré. ¡Pensé que te vendría bien un buen público que te animara!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_THANCRED_000_079",
+      "hash": "125522C4A4D321E3",
+      "target": "Sí, y aún vienen más. Cuando mencioné el nombre de <split(<string(gstr1)>, ,1)>, la reacción fue de lo más entusiasta."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_THANCRED_000_080",
+      "hash": "622813CF91A7D7D4",
+      "target": "¡Vaya, mi propia popularidad no es más que una pálida sombra en comparación! Más le vale alzarse con la victoria, <if(gnum4,Guerrera,Guerrero)> de la Luz: ¡su naciente reputación está en juego!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_081",
+      "hash": "1DAF870846BEBB17",
+      "target": "¡Pues nuestro maestro no se dejará vencer tan fácilmente! ¡Es un espadachín consumado!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_KOHARU_000_082",
+      "hash": "C811D3EE9E178836",
+      "target": "¡Puede ganar, señor Boulder!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_083",
+      "hash": "D3D8137B8DE7C713",
+      "target": "Pronto lo veremos. ¡En guardia!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_090",
+      "hash": "DA845855E0A9A9FE",
+      "target": "Usted... \\<ahogo> Me ha vencido... \\<bufido> ¡Me rindo!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_091",
+      "hash": "1A6EC406D445F924",
+      "target": "\\<ahogo> ..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_092",
+      "hash": "3C1EB256CD0B657E",
+      "target": "¡...Eso ha sido increíble! ¡<if(gnum4,Ella,Él)> ha vencido a los dos a la vez!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SPECTATORMAN01456_000_093",
+      "hash": "68C0F8AC3FDAF59C",
+      "target": "¡Sabíamos que no podía perder, <split(<string(gstr1)>, ,1)>! ¡Nadie puede vencer <if(gnum4,a la guardiana,al guardián)> de Eorzea!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SPECTATORWOMAN1456_000_094",
+      "hash": "C58ECACBC7D39E3D",
+      "target": "¡Ahora entiendo por qué <if(gnum4,la,lo)> envían a ocuparse de los primigenios! Me queda mucho trabajo por delante si algún día quiero intentar lo mismo..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_095",
+      "hash": "3C45C99EE96BD0F5",
+      "target": "Impresionante como siempre, <split(<string(gstr1)>, ,1)>. Siempre es un placer presenciar el espectáculo de su destreza marcial."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_096",
+      "hash": "D0D896959B0ED927",
+      "target": "Y a juzgar por las sonrisas de todos estos rostros, también ellos aprecian la fuerza, tan duramente ganada, que mantiene a raya los peligros del reino."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_097",
+      "hash": "8E4B3E56B2E25B93",
+      "target": "«Guardián de Eorzea»... Sí, es un título de lo más apropiado."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_098",
+      "hash": "CE6010DA09C3804E",
+      "target": "¿Recuerda cuándo nos conocimos? Fue en el acto en memoria de la batalla de Carteneau..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_099",
+      "hash": "F3D80096A6310E23",
+      "target": "Por aquel entonces, yo aún trataba de comprender esta tierra de Eorzea. Buscaba entender por qué mi abuelo se sacrificó de buen grado para protegerla."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_100",
+      "hash": "D6E0BF0995E6CFE5",
+      "target": "Hablaré con franqueza: mis primeras impresiones no fueron demasiado favorables. Abundaban los problemas más graves y, sin embargo, el esfuerzo que veía dedicarse a resolverlos era desordenado y tibio. Tenía a los eorzeos por un pueblo necio e inmaduro."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_100_100",
+      "hash": "34EBB1F99E8BBAFF",
+      "target": "Dado el caos en que se hallaba su hogar, no me habría sorprendido que algunos hubiesen optado por jurar lealtad a Gaius y al orden que pretendía imponer. La obcecada invasión militar del legado descartó, por supuesto, semejante cambio de lealtades."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_101",
+      "hash": "42A063464F97FA7C",
+      "target": "De no ser por el deseo de continuar el legado de mi abuelo, hace mucho que habría abandonado el reino a su suerte. Las amenazas eran demasiadas; las naciones, demasiado ensimismadas e inestables."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_102",
+      "hash": "34983B953ABC3EE3",
+      "target": "Fue usted quien me convenció de que la salvación de Eorzea era posible."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_103",
+      "hash": "31A9DBACFF91B6F9",
+      "target": "Fue usted quien me enseñó, mediante incontables actos de valor, que lo que mi abuelo buscaba preservar no era la tierra, ni su historia, ni nación alguna..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_104",
+      "hash": "F85B297D9C900864",
+      "target": "Eran las gentes. Estas gentes maravillosas, a menudo exasperantes y tercas, que encajan un golpe terrible tras otro solo para volver a ponerse en pie y afrontar un nuevo día."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_105",
+      "hash": "94FBB5C5C3DFB0D1",
+      "target": "Aunque nunca puso tales sentimientos en palabras, creo que la admiración de mi abuelo por este valor inextinguible se convirtió en un ferviente deseo: el de ayudar a Eorzea y a sus habitantes a trazar un rumbo hacia el futuro."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_106",
+      "hash": "995F5476A0EECF76",
+      "target": "Un deseo que ahora se ha vuelto también el mío."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_107",
+      "hash": "C166D8D65E2A5D92",
+      "target": "Yo también me esforzaré por asumir el manto de guardián de Eorzea y defender a estas gentes que se afanan por un mundo mejor."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_108",
+      "hash": "7E29FB7815162CF0",
+      "target": "Nuestra causa, sin embargo, no es sencilla: los problemas que nos acosan son de una magnitud que los Herederos del Séptimo Amanecer no pueden resolver por sí solos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_109",
+      "hash": "3246998040183587",
+      "target": "No; lo que hace falta para atajar la raíz de la amenaza de los primigenios, y contrarrestar con eficacia las maquinaciones de los ascianos, es una organización nueva y más amplia que actúe más allá de las limitaciones de naciones y fronteras."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_110",
+      "hash": "6D16F8595D666330",
+      "target": "Si estuviera <if(gnum4,dispuesta,dispuesto)> a ayudarme a construir tal organización, le ruego que prosigamos esta conversación entre los muros del Refugio de las Piedras."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_120",
+      "hash": "AF0C697CDE93A61B",
+      "target": "Gracias por venir, <split(<string(gstr1)>, ,1)>. El mundo cambia y se transforma, y nosotros, <if(gnum4,amiga mía,amigo mío)>, debemos ir siempre un paso por delante del caos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_121",
+      "hash": "3B23DEC4D6AC03EC",
+      "target": "Lo que propongo es la formación de una nueva organización: un grupo que abra el camino hacia una Eorzea verdaderamente unida..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_000_130",
+      "hash": "0AE07CE2BD57E92F",
+      "target": "Con la amenaza de los primigenios ahora contenida, es el momento perfecto para centrarse en nuevas empresas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_000_131",
+      "hash": "643D61599164DE1A",
+      "target": "Alphinaud lleva mucho tiempo sentando las bases de esa organización suya, y confía en ti para hacer realidad su propuesta. Te ruego que le prestes toda la ayuda que puedas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_THANCRED_000_135",
+      "hash": "F4F8951618E71113",
+      "target": "Su duelo con Hoary Boulder fue más emocionante que cien versos de mi poesía más apasionada. Quizá debería concertar yo también un combate de práctica..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YDA_000_140",
+      "hash": "FF476C9F8055D95A",
+      "target": "No veo el momento de que Alphinaud ponga en marcha su nueva compañía. ¡Me encanta hacer amigos nuevos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_PAPALYMO_000_145",
+      "hash": "330611A28A0B1E05",
+      "target": "Ojalá Yda no estuviera tan ansiosa por mirar al futuro cuando tenemos tantos problemas en el aquí y el ahora..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YSHTOLA_000_150",
+      "hash": "94070DADDE0CB098",
+      "target": "Me temo que el ilimitado optimismo de Yda empieza a nublarme el buen juicio. Y tu tendencia a imponerte a los enemigos más terribles desde luego no ayuda."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TATARU_000_155",
+      "hash": "E30251F60BE3F0EF",
+      "target": "¡No, esto no va a servir en absoluto! Y luego tendré que... ¡Ah, hola, <split(<string(gstr1)>, ,1)>! Si no le importa, ¡ahora mismo estoy ocupadísima!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_FLHAMINN_000_160",
+      "hash": "B37752943BBC0703",
+      "target": "No basta con que esté aquí por mi hija: debo hacer lo poco que pueda por ayudaros a todos a llevar a buen puerto vuestras monumentales tareas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_165",
+      "hash": "33B1DABE2458B15B",
+      "target": "¡<split(<string(gstr1)>, ,1)>! Debo agradecerle de nuevo que accediera a nuestro duelo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_166",
+      "hash": "63F45792E78FE7A7",
+      "target": "...¡Y debo dar gracias a los dioses de que no fuera un duelo a muerte! Aun así, atesoraré la lección de cada rasguño y cada moratón mientras me esfuerzo por mejorar mi esgrima."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_170",
+      "hash": "16735808BC035A6D",
+      "target": "Al principio me pareció una idea insensata, pero parece que aquel combate de práctica cumplió bien su cometido. ¡Vaya, apenas puedo esperar a volver a mis estudios y tratar de perfeccionar mi técnica!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOUZAN_000_175",
+      "hash": "83887AB1FE592751",
+      "target": "El ánimo de los míos quedó del todo destrozado con la pérdida de nuestra patria, pero, gracias a su valor y generosidad, veo cómo sus llamas interiores vuelven a titilar con vida. Yo también he sentido cómo mi fuerza de voluntad regresa poco a poco."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_DOUWARE_000_180",
+      "hash": "34C7EA3892224A25",
+      "target": "Nuestros métodos agrícolas domanos se han adoptado aquí, en la frontera. Aún es pronto para saber si resultarán eficaces..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HIGIRI_000_185",
+      "hash": "C125DC45CB20D8C1",
+      "target": "Este lugar se ha vuelto como una colmena, y sus abejas revolotean en movimiento constante. Quizá una reconfortante tetera logre que una o dos se posen y descansen un momento."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_190",
+      "hash": "3BEE804FD6EEB2AA",
+      "target": "¡El señor Boulder peleó bien, pero no fue rival para usted, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_191",
+      "hash": "BB416B54C2094F8A",
+      "target": "¡Ya verá! ¡Algún día seré lo bastante bueno como para <if(gnum4,bajarla,bajarlo)> de lo alto de su montaña!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_KOHARU_000_195",
+      "hash": "2CC2DF551F0A6E5D",
+      "target": "El señor Boulder está dolorido y maltrecho, pero ha dicho que volverá de inmediato a su entrenamiento. Je, je, ¡no creo que le guste perder!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SHIUN_000_200",
+      "hash": "E8D1B2D3CB7978EF",
+      "target": "Tenemos que decidir quién hará qué en nuestro Clan de Aventureros. Estoy casi seguro de que Yozan tendrá que ser el espadachín: siempre tiene que estar en el meollo de la acción."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ROKKA_000_205",
+      "hash": "112FBF3026E028E5",
+      "target": "Me gustó cómo peleó el señor Coultenet, sin espadas ni puños. Me pregunto si, estudiando mucho, yo también podría lanzar hechizos así."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_QIB_TODO001",
+      "hash": "23AA7DC362D8959D",
+      "target": "¡Gana el combate de práctica!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_001",
+      "hash": "A46CB209A4D22A5C",
+      "target": "Día y noche he pulido mis habilidades.<br>¡Ha llegado la hora de ponerlas a prueba!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_010",
+      "hash": "1C3253D7ACFE39B5",
+      "target": "Ugh... ¡Qué poder!<br>¡Las historias apenas le hacen justicia!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ROKKA_BATTLETALK_000_011",
+      "hash": "3BF836A4E5778864",
+      "target": "El señor Boulder no perderá, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SHIUN_BATTLETALK_000_012",
+      "hash": "3A169858082FA87D",
+      "target": "¡Aún no se ha acabado! ¡No puede ser!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_013",
+      "hash": "5BAA5F06C6696781",
+      "target": "Sí, los niños tienen razón."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_014",
+      "hash": "ECB2895ADBD2296C",
+      "target": "Es hora de que me sume a la refriega.<br>¡En pie, Hoary!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_KOHARU_BATTLETALK_000_020",
+      "hash": "E9ACCFBB9506C732",
+      "target": "¡Oh, no! Parece herido..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_BATTLETALK_000_021",
+      "hash": "70959EBEE842AB0A",
+      "target": "<if(gnum4,La señorita,El señor)> <split(<string(gstr1)>, ,1)> es superfuerte...<br>¡Pero no puede rendirse, señor Boulder!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_022",
+      "hash": "D854FB0C16C4C5CE",
+      "target": "No puedo... decepcionar... a los pequeños...<br>¡Raaargh!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_030",
+      "hash": "3A036A98B88CAE32",
+      "target": "¡Jamás me había enfrentado a semejante fuerza!<br>...¡Pero la lección debe continuar!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_BATTLETALK_000_031",
+      "hash": "54FE60D2671B8093",
+      "target": "¡Es su ejemplo el que sigo!<br>¡No cederé ante el enemigo implacable!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_BATTLETALK_000_100",
+      "hash": "4BE65EDB6E28D4AC",
+      "target": "Debo admitir la derrota.<br>Ha sido un honor y un privilegio..."
+    }
+  ]
+}

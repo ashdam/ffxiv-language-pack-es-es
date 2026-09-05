@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/003/SubWil092_00341",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_SEQ_00", "hash": "BD30FC31BA122F5B", "target": "Chechezan, una Espada de Latón de Horizonte, tiene una tarea para algún aventurero desocupado." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_SEQ_01", "hash": "08499D52F19BB2B5", "target": "Chechezan te ha pedido que consigas cuatro frascos de sangre de mongrel. Encuentra a las criaturas al sur de Horizonte y abátelas por sus fluidos vitales." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_SEQ_02", "hash": "E04C761BF430F730", "target": "Has obtenido la cantidad requerida de sangre de mongrel. Busca a Nononzo a lo largo de la Vía Solar Real Allagana y entrégale el maloliente líquido." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_SEQ_03", "hash": "203261F638D6D403", "target": "Nononzo explica que el hedor de la sangre de mongrel quemada es perfecto para ahuyentar a los enemigos naturales de estas criaturas, entre los que se cuentan la mayoría de las demás bestias. Gracias a tu ayuda, los caminos son ahora bastante más seguros tanto para las Espadas de Latón como para los mercaderes viajeros." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_TODO_00", "hash": "FA93D8C157CB1AFF", "target": "Recoger frascos de sangre de mongrel" },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_TODO_01", "hash": "13F7F7D76922B16F", "target": "Entregar la sangre de mongrel a Nononzo" },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_000", "hash": "8633C200BFF43B30", "target": "¿Busca una tarea con la que llenar <if([gnum11<12],<if([gnum11<4],la noche,la mañana)>,<if([gnum11<17],el día,la noche)>)>, aventurero? Puede que tenga justo lo que busca, si no es usted aprensivo." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_001", "hash": "4C347501F35464E6", "target": "El trabajo es este: necesito que saque cuatro frascos de sangre de los mongrels que merodean al sur de aquí." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_002", "hash": "C6A71B7591D916EE", "target": "Cuando tenga suficiente, lleve ese asqueroso fluido a una Espada de Latón llamado Nononzo." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_003", "hash": "DC714BD8C6DAB68F", "target": "Lo encontrará en algún punto del camino que sale de Horizonte, lamentándose de su terrible suerte, sin duda. Buena caza." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_010", "hash": "82BB279006879CE1", "target": "¿Y bien, qué quiere de mí?" },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_011", "hash": "80EBB2F404A7AB3D", "target": "\\<olfatea> ¿¡Esto es sangre de mongrel!? ¡Gracias a los dioses! Ahora por fin podré volver a Horizonte." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_012", "hash": "1CAD621B54782739", "target": "Los mongrels son el enemigo natural de casi todos los demás depredadores, ¿sabe? Eche su espesa sangre al fuego y el hedor resultante hará huir a las bestias en malms a la redonda." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_013", "hash": "5F2A6AF7B2904FB3", "target": "Nos facilita mucho las patrullas... siempre que tengamos un suministro constante de esa porquería. Y me apuesto a que adivina a qué Espada de Latón le tocó la china de matar mongrels esta vez." },
+    { "gameKey": "quest/003/SubWil092_00341#TEXT_SUBWIL092_00341_CHECHEZAN_014", "hash": "54CE05AAC1398D7D", "target": "¡Pero, gracias a usted, me voy a disfrutar de una comida caliente y una jarra! ¡Que los salones dorados de Thal lo aguarden en la otra vida!" }
+  ]
+}

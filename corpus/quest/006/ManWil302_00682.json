@@ -1,0 +1,123 @@
+{
+  "conversation": "quest/006/ManWil302_00682",
+  "questName": "The Company You Keep (Immortal Flames)",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_1", "hash": "D5502CA8BB5F61F4", "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de vuelta, <if(gnum4,aventurera,aventurero)>! Deduzco que las palabras del general Raubahn prendieron un fuego en su interior, ¿me equivoco?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q1_000_1", "hash": "61C59BC6594279D4", "target": "¿Unirse a las Llamas Inmortales?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A1_000_1", "hash": "559D8C233E6105DC", "target": "Sí" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A1_000_2", "hash": "C0BA6F3843F5DC13", "target": "No" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_2", "hash": "3854028177530664", "target": "¡Excelente! Temía que el incidente con el traidor hubiera agriado su opinión de nosotros. Me alegra ver que no es así." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_3", "hash": "478F68E450E5B530", "target": "Pero, antes de poder contarle entre los nuestros, debe ser formalmente <if(gnum4,incorporada,incorporado)> a nuestras filas." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_4", "hash": "2C752D3BA66DA245", "target": "Diríjase a <switch(gnum70,la Sala de las Llamas\\, en la Franja de los Mercaderes de Ul'dah,la Sala de las Llamas\\, en la Franja de los Mercaderes de Ul'dah,la Sala de las Llamas)> e identifíquese ante el oficial de personal. Le avisaré de su llegada." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_5", "hash": "28724DA210FD0AFF", "target": "Con su fuerza unida a la nuestra, sin duda prevaleceremos sobre nuestros enemigos, sean hombres bestia o imperiales." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_6", "hash": "2A638C8D1A82E419", "target": "¿Cómo? ¡No estará considerando en serio unirse a otra Gran Compañía! ¡Ninguna es, ni de lejos, tan <italic(1)>grande<italic(0)> como la nuestra!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SERPENTOFFICER_000_10", "hash": "1649176071B84709", "target": "No negaré que estoy decepcionado, pero me consuela saber que uno puede trasladarse entre Grandes Compañías. Sepa que la Orden de la Doble Víbora estaría orgullosa de contar con usted si algún día cambia de parecer." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_11", "hash": "D94FF4AFCE6AF728", "target": "Antes de ocupar su lugar en nuestras filas, hable con el oficial de personal de la Sala de las Llamas<switch(gnum70, de Ul'dah, de Ul'dah,)>. Hágalo cuanto antes. Entretanto, comunicaré su <italic(1)>excelente<italic(0)> decisión al general Raubahn." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_STORMOFFICER_000_12", "hash": "96ABFBB86B1DBEA0", "target": "Así que has decidido echar tu suerte con las Llamas. En fin, no hay nada que hacer. Solo recuerda que nunca es tarde para enrolarte en otra tripulación." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_20", "hash": "1E088CFEA7C579FC", "target": "¿Qué le trae a la Sala de las Llamas <if([gnum11<12],<if([gnum11<4],esta madrugada,esta mañana)>,<if([gnum11<17],hoy,esta tarde)>)>, <if(gnum4,aventurera,aventurero)>?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q2_000_1", "hash": "3B5309A6F4D31B4E", "target": "¿Qué respondes?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A2_000_1", "hash": "6A3B51F4C68AD7CA", "target": "Me llamo <string(gstr1)>. Creo que me esperan." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A2_000_2", "hash": "D0B174D6076BC2C8", "target": "Vengo a alistarme, si me acepta." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_21", "hash": "75655AEEB853C9B1", "target": "¡Ah, lo imaginaba! ¡Es tal como le describió nuestro hombre del Refugio de las Arenas! Es un honor conocerle, <if(gnum4,señora,señor)>." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_100_21", "hash": "B4FE82E7A0EB4EEA", "target": "¿Ah, sí? En tal caso, debo pedirle su nombre. Ah, pero déjeme adivinar. Es <string(gstr1)>, ¿no es cierto? Sí, es tal como le describió nuestro hombre del Refugio de las Arenas. Gracias por elegir unirse a nosotros." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_22", "hash": "037DAA26FCA0500F", "target": "Bien, para formalizar su..." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_23", "hash": "E193E8D869011FD8", "target": "¡Señor!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_24", "hash": "68170EACEC6BBCFE", "target": "Habla, soldado." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_25", "hash": "2450C84D1EF15453", "target": "¡Imperiales, señor! ¡Han disparado contra una aeronave de Aerovías Highwind!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_26", "hash": "80B3EF7026D8A755", "target": "¡Los exploradores dicen que está cayendo al oeste, cerca del Confín de Horizon!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_27", "hash": "D8AD7A062F8539C9", "target": "¡Malditos infiernos! ¡Cómo no, tenía que pasar justo ahora!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28", "hash": "71D743DE566680B0", "target": "¡<split(<string(gstr1)>, ,1)>, no hay tiempo para formalidades! ¡Las Llamas Inmortales necesitan su ayuda <italic(1)>ahora<italic(0)>!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29", "hash": "814AD192CA444A2C", "target": "Estamos en plena operación a gran escala contra los Amalj'aa y no tenemos a nadie disponible en el Thanalan Occidental. ¡Debe llegar a esa nave antes que los garleanos!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_30", "hash": "83576264EDACDF8F", "target": "Si hay supervivientes, procure que no sufran más daño. ¡Ahora vaya!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_Q3_000_1", "hash": "075D33CB7D097CD6", "target": "El deber llama. ¿Deseas proceder con<br>«En buena compañía (Llamas Inmortales)»?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_1", "hash": "692FD92F8B106875", "target": "Sí" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A3_000_2", "hash": "E9A23A55E3344FA8", "target": "No" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_40", "hash": "1AE2A56731DDBAF3", "target": "¿¡<if(gnum4,Una aventurera,Un aventurero)>!? ¿Qué haces por aquí? No, espera... busquemos antes algo de cobertura..." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_41", "hash": "6555C139DB9AC4C6", "target": "¿Te envían las Llamas Inmortales? ¿Y cómo sé que no eres <if(gnum4,una espía imperial,un espía imperial)>? ¡Si ni siquiera llevas uniforme!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_42", "hash": "943991A5C81F541A", "target": "¿Se encuentra bien, señor? Nuestros exploradores informaron del ataque a su nave. Hemos venido a rescatarle." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_43", "hash": "C03B1EDDFB42B5B8", "target": "<string(gstr1)>, ¿verdad? Me alegra tenerle con nosotros." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_44", "hash": "57C23C4DAE18DB28", "target": "No había visto antes una nave con este diseño... Ese traidor de Garlond ha estado ocupado." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_45", "hash": "CF579BBA4615C7FD", "target": "Los secretos de la magitek nos pertenecen por derecho. No deben malgastarse en los salvajes de esta tierra." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_46", "hash": "89CCEE9A80AE63B9", "target": "¡Nos llevaremos esta nave de vuelta a la fortaleza! ¡Desmanteladla si es preciso! ¡Y traed al ingeniero! Alguien ha de pagar por los crímenes de Garlond." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_47", "hash": "367CF2B463265A5D", "target": "Pretenden llevarse la nave a Castrum Meridianum, junto con su amigo." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_48", "hash": "4DF7114E50DD1469", "target": "¡Wedge! ¡Tienes que ayudarlo! ¡Ese Lalafell insensato estaba escondido <italic(1)>dentro<italic(0)> del <italic(1)>Tiny Bronco<italic(0)>!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_49", "hash": "E0825361AB81220B", "target": "Bonita nave... aunque coincido en que no era el mejor sitio para refugiarse." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_50", "hash": "87D71A0D8AD35BFD", "target": "Es la primera aeronave que construimos desde la Calamidad... la primera desde que el maestro Garlond... bueno, desde que desapareció." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_51", "hash": "325F5044F796ED35", "target": "Tras años de trabajo, por fin estaba lista para su primer vuelo de prueba. Y <italic(1)>surcaba el cielo<italic(0)>, de verdad que sí... ¡hasta que esos malnacidos la derribaron a cañonazos!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_52", "hash": "B26CA5A9E00138C7", "target": "Atacaremos a mi orden. Matadlos rápido y salvad al Lalafell si es posible." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_53", "hash": "2DB961DABC96AEB2", "target": "¿Queda claro, <split(<string(gstr1)>, ,1)>?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_54", "hash": "6FDA16A37CCBEEBE", "target": "¡Enseñadles lo que les pasa a los que juegan con fuego! ¡A la carga!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALSOLDIER_000_55", "hash": "8ED40FFCF9B471D8", "target": "¡Nos atacan! ¡A las armas!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_WEDGE_000_60", "hash": "B928439D7B5C6095", "target": "¡Biggs!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_61", "hash": "FD6E9DE89301A20C", "target": "¡Wedge! ¡No deberías haberte quedado con la nave!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_WEDGE_000_62", "hash": "025F6601C9D57AE7", "target": "¡P-Por los pelos!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_63", "hash": "3CDAF2F1386999A0", "target": "Demasiado cerca, maldita sea. Y bien... ¿cómo la ves?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_WEDGE_000_64", "hash": "176966ACEE12F8F8", "target": "La hélice auxiliar es una pérdida total, pero creo que podemos exprimirle a la hélice principal el empuje suficiente para alzar el vuelo." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_65", "hash": "41AEF783BAB1DA31", "target": "Con unos pocos retoques deberíamos poder llevar el <italic(1)>Tiny Bronco<italic(0)> de vuelta a casa." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_66", "hash": "F3F8F61D7234893B", "target": "Los imperiales vendrán a buscar a sus exploradores, pero podemos defender esta posición hasta que los ingenieros se marchen." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_67", "hash": "B2D35CC9038E3062", "target": "Debería marcharse, <split(<string(gstr1)>, ,1)>. Aún tiene un asunto pendiente que atender en la Sala de las Llamas." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELIEUTENANT_000_68", "hash": "AF92C87B7561E44D", "target": "Todavía no es del todo uno de los nuestros, aunque a cualquiera que le hubiera visto hoy en acción se le perdonaría pensar lo contrario." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_69", "hash": "DCBCC07C9C34502D", "target": "Yo, esto... solo quería disculparme... ya sabes, por llamarte espía imperial y todo eso... En <italic(1)>eso<italic(0)> me equivoqué de lleno, ¿verdad? ¡Ja, ja! Aunque, en serio... de no ser por ti y por los muchachos de las Llamas Inmortales, a estas horas estaríamos encadenados en una mazmorra. Estoy en deuda contigo, amigo... los dos lo estamos." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_BIGGS_000_70", "hash": "EDDFDFE6A823D57D", "target": "¡Wedge!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_WEDGE_000_71", "hash": "3B5D9544B42FBB76", "target": "¡Gracias! ¡Te estamos muy agradecidos!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_80", "hash": "955FF8378173AC91", "target": "Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>. Hace poco me llegó noticia de sus hazañas sobre el terreno. ¡Un servicio ejemplar!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_81", "hash": "42F46A0C2FD567E5", "target": "Quédese tranquilo: los ingenieros de las Forjas de Garlond están bien. Consiguieron poner de nuevo su nave en el aire antes de que llegaran los refuerzos imperiales." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_82", "hash": "06D085EA1C73495E", "target": "Su disposición a ayudarnos con tan poca antelación es digna de elogio. Está claro que su reputación es bien merecida." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_83", "hash": "66AB41EB33CF1ACB", "target": "Y bien, creo que tenemos un asunto pendiente." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_84", "hash": "069BAA8D2666DDF0", "target": "¿Continuamos donde lo dejamos y le incorporamos a las Llamas Inmortales?" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELT_BATTLETALK_001", "hash": "7269580D5684E1E0", "target": "¡No les deis cuartel, Llamas!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_001", "hash": "849FF8C71D69FBCA", "target": "¡Defended la aeronave! ¡Matad a los salvajes!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_002", "hash": "DD502E6A61AA4F59", "target": "¿¡Qué hacéis!? ¡Matadlos, he dicho!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_003", "hash": "E5F0F0D8AC5350B2", "target": "¿¡Dónde está esa maldita vanguardia!? ¡La necesitamos YA!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_IMPERIALCENTURION_BATTLETALK_004", "hash": "5109E66C1574CA82", "target": "¡Jajaja! ¡No tengáis piedad con ellos!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELT_BATTLETALK_DEAD", "hash": "E24A5E1DB89561E3", "target": "Seguid luchando, maldita sea... No... dejéis que..." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIFIRST_BATTLETALK_DEAD", "hash": "00626C3E05741943", "target": "S-Señor... no creo que pueda..." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_QIB_GC_C_BATTLETALK_DEAD", "hash": "533AF81206CEF8D0", "target": "¡Ahora no! Así no..." },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_00",
+      "hash": "ECA95BBB6245BE70",
+      "target": "El oficial de reclutamiento de las Llamas Inmortales parece deseoso de darte la bienvenida a la Gran Compañía de Ul'dah."
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_01",
+      "hash": "4178021C01BC42C9",
+      "target": "Has confirmado tu intención de unirte a las filas de las Llamas Inmortales. Visita la Sala de las Llamas en Ul'dah y habla con el oficial de personal para incorporarte formalmente a la Gran Compañía."
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_02",
+      "hash": "11AF6C2AD6438DEB",
+      "target": "Tu incorporación formal a las Llamas Inmortales se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete al Confín de Horizon y averigua la suerte de la maltrecha nave y su tripulación."
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_03",
+      "hash": "6755173210CB7B49",
+      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Forjas de Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve a la Sala de las Llamas e informa al oficial de personal."
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_04",
+      "hash": "3CCE5027755F848E",
+      "target": "De vuelta en la Sala de las Llamas, el oficial de personal elogia tus esfuerzos y te asegura que los dos ingenieros que encontraste pudieron seguir su camino. Después expresa su deseo de completar tu incorporación a las filas de las Llamas Inmortales. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para atender las formalidades."
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_00",
+      "hash": "72C0706EC26409A7",
+      "target": "Hablar con el oficial de personal en la Sala de las Llamas"
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_01",
+      "hash": "E1A0D402F26159C3",
+      "target": "Ir al Confín de Horizon y averiguar la suerte de la aeronave y su tripulación"
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_02",
+      "hash": "DB76AC594C7A1925",
+      "target": "Hablar con el oficial de personal en la Sala de las Llamas"
+    },
+    {
+      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_QIB_TODO_001",
+      "hash": "5AC0722000D30CCB",
+      "target": "¡Derrota a los soldados imperiales!"
+    }
+  ]
+}

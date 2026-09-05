@@ -1,0 +1,27 @@
+{
+  "conversation": "quest/015/HeaVna113_01592",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_00", "hash": "81123C0085CB10DA", "target": "La señora Laniaitte está impaciente por pasar a asuntos más importantes." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_01", "hash": "5DFA6EFF6358BD7A", "target": "En lugar de escucharla explayarse aún más, la señora Laniaitte prefiere que adquieras experiencia de primera mano con los Vanu Vanu. Con ese fin, te envía a hablar con Ser Marielle, a quien no le vendría mal tu ayuda." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_02", "hash": "6C03B75CA153E722", "target": "Aunque Ser Marielle describe a los Vanu como hombres pájaro, se apresura a aclarar que no se parecen en nada a los Ixal. Marca varios lugares en tu mapa y te pide que montes guardia por si los Vanu andan cerca." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_03", "hash": "C7836F0A9C9EB01D", "target": "Como cabía esperar, avistas a varios Vanu durante tu patrulla y te ves obligado a ahuyentarlos. Informa a Ser Marielle de todo lo ocurrido." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SEQ_04", "hash": "B679D53830C4858B", "target": "Otro día, otro ataque de los Vanu frustrado. A Ser Marielle le decepciona un tanto saber que tu patrulla no transcurrió sin incidentes, pero se alegra de que no tuvieras dificultad para despachar a tus enemigos." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_00", "hash": "2CA455FB4C6F30CB", "target": "Hablar con Marielle" },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_01", "hash": "9BBAA1B69D8DB115", "target": "Vigilar la aparición de los Vanu" },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_TODO_02", "hash": "86FEFA07CED8ECC7", "target": "Informar a Marielle" },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_LANIAITTE_000_000", "hash": "67946A9DB3DD9B57", "target": "Ahora que Emmanellain está a salvo, podemos tratar asuntos de verdadera importancia, como nuestras dificultades con los Vanu Vanu." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_LANIAITTE_000_001", "hash": "E87F4136C05DE172", "target": "Nos encontramos por primera vez con los Vanu hace varios años, cuando apenas habíamos empezado a explorar el Mar de Nubes. Tras un intercambio de cortesías y obsequios, recibimos permiso para construir un puesto de vigilancia permanente." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_LANIAITTE_000_002", "hash": "3E878DEE2880144C", "target": "Hubo paz entre nuestros pueblos durante medio año, hasta que, de repente y por razones desconocidas, su actitud hacia nosotros cambió. Empezaron a atacar a nuestras cuadrillas de aprovisionamiento sin provocación, lo que nos obligó a depender más de los suministros traídos por aire desde Ishgard." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_LANIAITTE_000_003", "hash": "1E35D17108D2899D", "target": "...Pero las palabras no sustituyen a la experiencia de primera mano. Vaya a ver a Ser Marielle; no le vendría mal su ayuda." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_LANIAITTE_000_004", "hash": "B1622603B3736160", "target": "En vez de escucharme perorar sin fin, creo que le beneficiaría la experiencia de primera mano con los Vanu. Hable con Ser Marielle; le estará esperando." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_010", "hash": "AD389D28ED826160", "target": "¿<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,2)>, supongo? La señora Laniaitte me dijo que vendría." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_011", "hash": "591163FE060CB01B", "target": "Tengo entendido que nunca se ha enfrentado a un Vanu. Bueno, pase suficiente tiempo de patrulla y seguro que acabará cruzándose con ellos." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_012", "hash": "FB169A2A0AE921FB", "target": "Estos hombres pájaro son nativos de las islas flotantes. Digo «hombres pájaro», pero no se parecen en nada a los Ixal... a menos que la madre de ese Ixal fuera un gigas." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_013", "hash": "5C5A5811523C3C2F", "target": "Deje que le marque varios lugares en el mapa. Si descubre algún Vanu en estas zonas, mátelo o ahuyéntelo." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_014", "hash": "50CB63013E97DBDB", "target": "Por lo que sé, quizá no encuentre nada. Si es así, considerémoslo un buen augurio..." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_SYSTEM_000_020", "hash": "42DA78A9972216D4", "target": "Te preparas para una dura pelea, pero no encuentras a ningún Vanu al acecho." },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_030", "hash": "6C5F1D3A813F8A41", "target": "¿Ha terminado la patrulla? ¿Algo que informar?" },
+    { "gameKey": "quest/015/HeaVna113_01592#TEXT_HEAVNA113_01592_MARIELLE_000_031", "hash": "5D88C474C163393D", "target": "Je, quizá era mucho esperar un día sin escaramuzas. Al menos me consuela que Halone nos haya bendecido con un poderoso aliado." }
+  ]
+}

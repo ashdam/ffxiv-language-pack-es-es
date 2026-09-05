@@ -1,0 +1,17 @@
+{
+  "conversation": "quest/019/HeaVnz922_01987",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_00", "hash": "D827A9FEB5A76C1C", "target": "El nodo de logística allagano gira frenéticamente." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_01", "hash": "4FFCAB5937271833", "target": "El nodo de logística allagano te informa de que varias unidades de manejo de carga nunca recibieron órdenes de desactivación y llevan funcionando sin parar más de cinco mil años. Como carece de la capacidad de desactivar esas unidades a distancia por sí mismo, el nodo de logística te autoriza a hacerlo en su lugar. Encuentra y desactiva cuatro adamantite claws." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_02", "hash": "1865DFCD07133C81", "target": "Has destruido con éxito los adamantite claws. Informa de tu éxito al nodo de logística." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_SEQ_03", "hash": "6673DEF8980A538F", "target": "El nodo de logística te recuerda que se te pidió <italic(1)>desactivar<italic(0)> las unidades que no respondían, no destruirlas. A la luz de tus delitos, revoca de inmediato la autorización que antes te concedió." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_00", "hash": "D3CAFB9263708F7C", "target": "Abatir adamantite claws" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TODO_01", "hash": "199CB8059A82EDBD", "target": "Informar al nodo de logística" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_000", "hash": "B192CD2F17B89131", "target": "<switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, ¡ayude, por favor! El subsistema de manejo de carga nunca recibió una orden de desactivación y lleva funcionando cinco mil doce años, ocho meses y dos días." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_001", "hash": "B0EE06EFAAD71A76", "target": "Por desgracia, no tengo control directo sobre ese subsistema y no puedo emitir una orden de anulación para desactivarlo. Dada la gravedad de la situación, le autorizo a desactivar las unidades afectadas. Deben desactivarse al menos cuatro adamantite claws." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_010", "hash": "BF78CD1ED01E9BBF", "target": "<switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, localice y desactive, por favor, cuatro de los adamantite claws que no responden." },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_020", "hash": "0D72F2ADC85FF39C", "target": "\\<bip> \\<bip> Unidades de manejo de carga confirmadas como destruidas. <switch(gnum71,Hyur,Elezen,Lalafell,Miqo'te,Roegadyn,Au Ra,Hrothgar,Viera)>, se le autorizó a desactivar estas unidades. ¡No se le autorizó a destruirlas!" },
+    { "gameKey": "quest/019/HeaVnz922_01987#TEXT_HEAVNZ922_01987_TRANSPORTATIONSYSTEM_000_021", "hash": "47E23D70433D65DC", "target": "Su autorización ha sido revocada y sus delitos han quedado registrados ante la autoridad judicial central." }
+  ]
+}

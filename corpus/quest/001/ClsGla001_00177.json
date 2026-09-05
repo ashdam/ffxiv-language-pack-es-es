@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/001/ClsGla001_00177",
+  "questName": "So You Want to Be a Gladiator",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_1", "hash": "A9B70A25DFB71A90", "target": "<if(gnum4,Bienvenida,Bienvenido)> al Gremio de Gladiadores, <if(gnum4,aventurera,aventurero)>. Aquí, nuestros miembros se entrenan sin descanso con espada y escudo para que algún día sus nombres queden inscritos en la leyenda." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_2", "hash": "8B6D2C13636EE860", "target": "¿Mmm? ¿Ha sido un destello de interés lo que he visto en sus ojos? Si desea aprender el arte de la espada, ¡sepa que la inscripción en el gremio es gratuita!" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_Q1_000_1", "hash": "C9EEAD03ED3F6FCF", "target": "¿Unirse al Gremio de Gladiadores?" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_A1_000_1", "hash": "C5BCDAF693FAA96B", "target": "Sí" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_A1_000_2", "hash": "2798CE5E390D20FB", "target": "No" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_11", "hash": "580498959CD5DB83", "target": "Hoy dice que no, ¡pero el señuelo de la fama y la fortuna le hará volver! Cuando cambie de idea, que lo hará, no tiene más que buscarme y hablaremos de su futuro como <if(gnum4,gladiadora,gladiador)>." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_21", "hash": "DD2710C9F4D97457", "target": "¿Cómo? Le tenía por alguien <if(gnum4,versada,versado)> en las artes del combate, pero veo que le falta mucha experiencia." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_22", "hash": "522768A22BACC11A", "target": "Antes de aprender a empuñar una espada, debe perfeccionarse en su ocupación actual. Le ruego que vuelva cuando lo haya logrado." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_SYSTEM_000_23", "hash": "3530A502B8A9C957", "target": "Antes de adoptar otra disciplina, debes completar la misión de nivel 10 de tu clase inicial." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_31", "hash": "7D5320715F12A1C0", "target": "Le tenía por <if(gnum4,una mujer,un hombre)> de acción. ¡Me alegra ver que no me equivocaba!" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_32", "hash": "00781431746BE7E8", "target": "Ahora bien, aunque conozca la mortal danza de la batalla, es <if(gnum4,nueva,nuevo)> entre nosotros y debe empezar por el principio." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_33", "hash": "FE2788A5F9CA8B20", "target": "Si desea ocupar su lugar en estas sagradas salas, ha de estar <if(gnum4,dispuesta,dispuesto)> a someterse al más riguroso adiestramiento. Deberá soportar cortes y magulladuras sin cuento y, muy probablemente, cosas mucho peores." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_34", "hash": "CF5697ADD45746E4", "target": "Una perspectiva intimidante, lo admito─pero no hay otro camino si algún día pretende pisar las Arenas de Sangre. ¿Y por qué no habría de hacerlo? ¡El Coliseo es, sin duda, el lugar de entretenimiento público más célebre de todo Ul'dah!" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_35", "hash": "C0350ED35C84E062", "target": "¿En qué otro lugar podría un hombre pobre amasar una fortuna tan vasta como para reclamar algún día un asiento en el Sindicato?" },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_36", "hash": "E30EF9396A5CBBC2", "target": "Ahhh... No hay ni un solo uldahí vivo que no se inspire en el ascenso del hombre hecho a sí mismo." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_37", "hash": "2B424D5157AD1182", "target": "Y no hay encarnación más pura de ese sueño que el gladiador que conquista riquezas y fama con su espada." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_38", "hash": "E1865F37A494325A", "target": "A lo largo de su dilatada y célebre historia, este gremio ha formado a incontables campeones. Nuestros métodos de adiestramiento no tienen rival, y nuestros miembros se esfuerzan sin cesar por idear nuevas técnicas." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_39", "hash": "3F83524DCB2D8283", "target": "Si ansía la gloria verdadera─luchar y triunfar entre el clamor de diez mil voces─, entonces este es su lugar, <if(gnum4,aventurera,aventurero)>." },
+    { "gameKey": "quest/001/ClsGla001_00177#TEXT_CLSGLA001_00177_LULUTSU_000_40", "hash": "9EB72037362C1786", "target": "...Piénselo. Piense en su legado. Y si su alma se estremece... únase a nosotros." }
+  ]
+}

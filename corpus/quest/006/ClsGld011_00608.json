@@ -1,0 +1,33 @@
+{
+  "conversation": "quest/006/ClsGld011_00608",
+  "questName": "Way of the Goldsmith",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SEQ_00", "hash": "4FC54D5577A261A3", "target": "Jemime quiere que reafirmes tu deseo de unirte al Gremio de Orfebres." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SEQ_01", "hash": "84AF45FEB148D6E4", "target": "La recepcionista te pide que te presentes ante Serendipity, la joven que dirige el gremio. Búscala y muéstrale tu ardiente deseo de convertirte en orfebre." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SEQ_02", "hash": "FD4DCFAFDA87262D", "target": "La maestra Serendipity te acoge con entusiasmo en el gremio y te obsequia con un weathered chaser hammer. Con la nueva herramienta de tu oficio en la mano, habla de nuevo con tu maestra de gremio para comenzar tu andadura como orfebre." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_TODO_00", "hash": "1B2F84AC0756AAB5", "target": "Hablar con la maestra Serendipity" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_JEMIME_000_1", "hash": "8DF0BC9EE91FC130", "target": "Antes de que pueda emprender su camino para convertirse en orfebre, primero debe solicitar audiencia con nuestra maestra de gremio. ¿Está <if(gnum4,lista,listo)> para ello?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_JEMIME_000_2", "hash": "2F4615A9974B6781", "target": "Encontrará a la maestra Serendipity en el taller, justo bajando las escaleras." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_JEMIME_000_3", "hash": "B3B3F3DCC26BCE21", "target": "Muéstrele su ardiente deseo de aprender y sin duda recibirá su permiso para unirse." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_JEMIME_000_4", "hash": "1CD851E87F4794BF", "target": "¿Un poco de nervios, eh? A mí las respiraciones lentas y profundas me calman los nervios. Pruebe a ver si le funciona y avíseme cuando esté <if(gnum4,lista,listo)> para ver a la maestra de gremio." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_5", "hash": "C91B6C65129D0598", "target": "¡Alto ahí, granujilla! ¡Aquí hay gente trabajando!" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_6", "hash": "7DF90A1AF85E6DCF", "target": "¡Oh! Discúlpeme, le había confundido con un mammet. Por un momento ahí yo─" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_7", "hash": "17E6F6C566369562", "target": "\\<suspiro> Empecemos de nuevo, ¿le parece? ¿Qué le trae hoy por aquí, <if(gnum4,aventurera,aventurero)>? ¿Acaso aspira a convertirse en orfebre?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_A1_000_1", "hash": "EE9834B0999E9906", "target": "¿Aspiras a convertirte en orfebre?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_Q1_000_1", "hash": "8765C4C92D05DC77", "target": "Sí" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_Q1_000_2", "hash": "2992CDC95A5824A2", "target": "No" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_8", "hash": "58FE1EBE8F9D746B", "target": "Perdón, perdón. Error mío, ha sido un día largo. Normalmente no me molestan las visitas, pero me temo que ahora mismo estoy muy ocupada. Si me disculpa..." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_9", "hash": "27606238937FC335", "target": "¡¿<italic(1)>En serio<italic(0)>?!" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_10", "hash": "A16177E4CCFEAA73", "target": "¡Qué bien! ¡Bienvenido, <italic(1)>bienvenido<italic(0)>! Soy Serendipity, pero puede llamarme Sera." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_11", "hash": "C79C47FF4C688FDC", "target": "¿O es demasiado informal?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_12", "hash": "36F5DEAA4BBC5809", "target": "Perdón, todavía no me acostumbro a todo este asunto de ser «maestra de gremio»... ¡Ah, sí! ¿Cómo dijo que se llamaba? ¿<if(gnum4,Adrian,Apollo)>?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_13", "hash": "CB552E9F8071AE79", "target": "¡Ah, cierto─<string(gstr1)>! ¡Pues bien, <string(gstr1)>! Trabaje duro y quizá un día sus creaciones llenen los estantes de las Joyas de Eshtaime. ¡Confíe en usted <if(gnum4,misma,mismo)> y podrá lograr cualquier cosa!" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_14", "hash": "109C84EE1E400CCB", "target": "Ha sido suficientemente inspirador, ¿verdad?" },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_15", "hash": "A29C1BC69B2A92A6", "target": "¡Bien! Siguiente asunto: aquí tiene su nuevo martillo de cincelar. Bueno... digo «nuevo», pero en realidad está un poco desgastado." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SERENDIPITY_000_16", "hash": "4C592D8E3FE2EB03", "target": "¡Pero no le dé importancia a eso! Solo enséñeme que sabe cómo sujetarlo para que podamos empezar." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SYSTEM_000_20", "hash": "C21BC19B41061172", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipando el arma que has recibido en esta misión." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SYSTEM_000_21", "hash": "12CEFD7E6A9AC14E", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permitirán registrar y guardar tu equipo. Después podrás usarlos para alternar entre clases al instante, sin necesidad de equipar armas o equipo manualmente." },
+    { "gameKey": "quest/006/ClsGld011_00608#TEXT_CLSGLD011_00608_SYSTEM_000_22", "hash": "AD903A48E2031FC3", "target": "El botón de la interfaz de Gear Set se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
+  ]
+}

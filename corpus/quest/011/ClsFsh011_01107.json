@@ -1,0 +1,63 @@
+{
+  "conversation": "quest/011/ClsFsh011_01107",
+  "questName": "Way of the Fisher",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_00",
+      "hash": "1ECE2D6795C5608F",
+      "target": "N'nmulika quiere que reafirmes tu deseo de unirte al Gremio de Pescadores."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_01",
+      "hash": "A729B076F4427F75",
+      "target": "N'nmulika te ha informado de que todo aspirante a miembro del gremio debe contar primero con la aprobación de Sisipu, la maestra del gremio en funciones. Búscala y escucha lo que tenga que decir."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_02",
+      "hash": "0158A62EF1213C8E",
+      "target": "Sisipu te concede alegremente la entrada en las filas del Gremio de Pescadores, y se ofrece a ponerte al día sobre los fundamentos de la pesca. Empuña tu caña de pescar y habla de nuevo con Sisipu."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_TODO_00",
+      "hash": "A4B59A37C6C98A65",
+      "target": "Hablar con Sisipu"
+    },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_000", "hash": "23ACA15C5B9DA2A6", "target": "Me dolería oír que has cambiado de idea. No lo has hecho, ¿verrrdad?" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_010", "hash": "39D55DCE03D1025D", "target": "Lo entiendo: la intensa embriaguez de pasar horas contemplando el mar abierto no se le hace evidente a todo el mundo al instante." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_011", "hash": "0DEBD0E8205FEA05", "target": "Bueno, puedes ir persiguiendo cascadas, pero cuando estés listo para quedarte en los ríos y los lagos de siempre, ya sabes dónde encontrarnos." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_020", "hash": "5AF62A325013E7D5", "target": "¡Hablado como <if(gnum4,una verdadera pescadora,todo un pescador)>! ¡Pues bien, es hora de que conozcas al maestro del gremio!" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_021", "hash": "B4C2DC6F186BC2D0", "target": "Pero, por desdicha, por desgracia y con cierta ironía, nuestro nefando maestro de redes anda pescando en este momento. En este y en todos los momentos, vamos." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_022", "hash": "EE1B43BB7FB987F0", "target": "Así que Sisipu tiende a atender las tareas que requieren ser atendidas." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_023", "hash": "1B7C54B913EBBA63", "target": "Como decidir si te hundes o nadas con nuestro gremio." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_024", "hash": "4EBD927042A25072", "target": "Sisipu está al cargo de esos viveros, para cuando decididamente decidas saludarla. Puede parecer algo distante, pero solo está atenta a los tiburones. ¡Sé tú mismo y no tendrás nada de qué preocuparte!" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_030", "hash": "23F7A7A85F24EB9C", "target": "Sí, sí, ahórrese el aliento. Oí cada palabra entre usted y N'nmulika, así que sé que le ha contado cuál es mi papel aquí." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_031", "hash": "BEAD23715EF55007", "target": "Como ella ha dicho, se <italic(1)>supone<italic(0)> que Wawalago es el maestro del gremio, pero por lo visto tiene asuntos más importantes entre manos, así que todo su trabajo recae en mí." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_032", "hash": "3ED72E03B2584DC4", "target": "Eso incluye asegurarme de que nuestros nuevos <italic(1)>peces<italic(0)> no sean unos mariscos con dos dedos de frente ni futuras anémonas." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_033", "hash": "870C983867619FB1", "target": "...Ha superado la primera prueba al no reírse de ese chiste horrible. Ahora solo necesita la respuesta correcta a esta pregunta: ¿está preparado para pescar como nunca antes ha pescado?" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_Q1_000_001", "hash": "7D3925CDA579338E", "target": "¿Está preparado para pescar como nunca antes ha pescado?" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_A1_000_001", "hash": "035E27380D0C7350", "target": "Sí" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_A1_000_002", "hash": "6E67AEC5F2048085", "target": "No" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_040", "hash": "0325250036B905A3", "target": "¡Vaya! Puede que sea una respuesta sincera, pero desde luego no es la correcta. Vuelva cuando la respuesta sea sí." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_050", "hash": "242CE812031F57B6", "target": "¡Vaya! Es usted más listo que la mayoría de peces de fondo que acaban llegando aquí. ¡Bienvenido al gremio!" },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_051", "hash": "2EE6568F249FF3E2", "target": "Ahora bien, poco gremio seríamos si lo mandáramos al mar con solo una caña y una plegaria, así que supongo que puedo regalarle unas cuantas perlas de sabiduría." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_052", "hash": "38E5BC940B4382D5", "target": "Aun así, va a necesitar esa caña y esa plegaria, de modo que al menos puedo proporcionarle la primera. Tenga. Uno de dos no está mal. Le añadiré incluso estos gusanos de arena, que no llegará muy lejos sin cebo." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_053", "hash": "7517C07D3033768B", "target": "Las cañas que otorgamos a nuestros nuevos peces son objetos de valor incalculable; es decir, que no cuestan nada. Cuando sepa lo que hace, seguramente querrá una como es debido." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_054", "hash": "21B971CF3BBC773E", "target": "Pero, entretanto, veamos si averigua cómo sostener la caña. Equípese la que le he dado y podrán comenzar sus lecciones." },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_060",
+      "hash": "69E2AF455B630BCA",
+      "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipándote la herramienta recibida en esta misión."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_061",
+      "hash": "BFF2449894087610",
+      "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>gear sets<edgecolortype(0)><colortype(0)> te permitirán registrar y guardar tu equipo, y cambiar de clase al instante sin equipar nada a mano."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_062",
+      "hash": "817DAE3BB5F1CCC1",
+      "target": "El botón de la interfaz de gear sets se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>."
+    }
+  ]
+}

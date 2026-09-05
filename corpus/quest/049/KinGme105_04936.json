@@ -1,0 +1,286 @@
+{
+  "conversation": "quest/049/KinGme105_04936",
+  "questName": "Scales of Blue",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_SEQ_00", "hash": "4DC3BA8430957E22", "target": "Satisfecha tras ver el distrito, Wuk Lamat está lista para dirigirse al punto de encuentro." },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_00", "hash": "72979CDA504F7460", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_01", "hash": "B00AB75591B48E6E", "target": "Otear el lugar indicado" },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_02", "hash": "AD8C72E52E2846C2", "target": "Hablar con el niño Hoobigo de escamas azules y seguir sus indicaciones con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_03", "hash": "E7D41C4ECCC7F9C4", "target": "Seguir al niño Hoobigo de escamas azules con Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TODO_04", "hash": "B43ED6F13F612BED", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_001",
+      "hash": "D711C988090B6935",
+      "target": "A ver, se supone que tenemos que ir a un sitio llamado Vera Vista, en el sector este. Este transportador debería llevarnos allí."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_002",
+      "hash": "A9FA79D02201DDE8",
+      "target": "¿Sabes qué? Cuando te acostumbras, hasta tienen su gracia. ¡Vamos, <split(<string(gstr1)>, ,1)>!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_010",
+      "hash": "1F7F405B0C0EBC71",
+      "target": "Es aquí, ¿no crees?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_011",
+      "hash": "85D269696ABC8AC2",
+      "target": "Aunque no veo a los demás..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_012",
+      "hash": "AAA003FCB7D5E19E",
+      "target": "Bueno, en vez de quedarnos aquí sentados esperando, más vale que exploremos un poco más."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_013",
+      "hash": "A0A30846D7995928",
+      "target": "¿Eh? ¡<split(<string(gstr1)>, ,1)>, mira ahí!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_014",
+      "hash": "52E04AAF6006B966",
+      "target": "Un niño Mamool Ja... ¿Qué hará aquí?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_015",
+      "hash": "84BA33B64848BB50",
+      "target": "Tú también te has dado cuenta, ¿verdad? El parecido con Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_016",
+      "hash": "0FA2D311187B1121",
+      "target": "Las escamas azules de un Boonewa con los rasgos de un Hoobigo..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_017",
+      "hash": "81AF68C16847AA38",
+      "target": "Esto no puede ser casualidad."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_018",
+      "hash": "C58674BB0A83DC7F",
+      "target": "En todo caso, no está bien dejar solo a un crío tan pequeño."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_019",
+      "hash": "3C58AA780476FCD6",
+      "target": "¡Vamos, sigámoslo!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_100_019",
+      "hash": "A70D0540CDAD2426",
+      "target": "Creo que ha corrido por aquí..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_020",
+      "hash": "31ACC571C6BBE5EE",
+      "target": "Así que esto es Vera Vista. No sé muy bien qué estoy viendo, ¡pero desde luego hay ambiente!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_021",
+      "hash": "BBF2849FD3A94DB0",
+      "target": "Ese edificio es casi el único que no está iluminado. Supongo que ahora mismo estará cerrado."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_022",
+      "hash": "8231A914FCF1CC3F",
+      "target": "¿¡Uaaah!?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_023",
+      "hash": "9F715B1CC1D7F68A",
+      "target": "N-No te había visto ahí..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_024",
+      "hash": "337FC3CF4F058A4A",
+      "target": "Oye, no queremos hacerte daño. Solo queremos hablar."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_025",
+      "hash": "43306135F879B303",
+      "target": "Es un poco raro, ¿no crees? Huye cuando nos acercamos y luego reaparece de golpe..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_026",
+      "hash": "8F0353734599DD2B",
+      "target": "¿Será que quiere llevarnos a algún sitio?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_027",
+      "hash": "BE3440E2014F888F",
+      "target": "¿Es eso? ¿Quieres que te sigamos?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_028",
+      "hash": "E448F9002EC15043",
+      "target": "¡Así que era eso! Muy bien, pues guíanos."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_030",
+      "hash": "9EFDD5B841DDBBF9",
+      "target": "Veamos adónde nos lleva."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_GULOOLJA_000_040",
+      "hash": "4421C94215A55747",
+      "target": "¡...!"
+    },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_SYSTEM_000_044", "hash": "BA70C4EDA64BBCF2", "target": "¿Seguir al niño Hoobigo de escamas azules?" },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_Q1_000_000",
+      "hash": "EB588CC646DD0F4F",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_A1_000_001",
+      "hash": "1BC242E3E91C1E1B",
+      "target": "Hablar."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_A1_000_002",
+      "hash": "04FC3A36E379E073",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_A1_000_003",
+      "hash": "5E7465CC09960E9E",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_100_044",
+      "hash": "73D51D10CE27A8AA",
+      "target": "¡Procuremos no perderlo de vista esta vez!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_Q2_000_000",
+      "hash": "1EDB80CAFE8E4487",
+      "target": "¿Seguro que quieres separarte de Wuk Lamat?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_100_045",
+      "hash": "87C514F8313966AC",
+      "target": "¿Eh? ¿No te sienta bien la comida alejandrina? Vale, le diré al peque que necesitas un rato. Te esperamos donde empezamos."
+    },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_SYSTEM_110_045", "hash": "0F9849D4E52095B8", "target": "Wuk Lamat aún no ha llegado. Asegúrate de que esté a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_120_045",
+      "hash": "8962B0DC3B12B922",
+      "target": "¡Mierda, lo hemos perdido! Lo mejor será volver a donde empezamos..."
+    },
+    { "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_SYSTEM_130_045", "hash": "E11D89D0D3763EF7", "target": "Habla con el niño Hoobigo de escamas azules en la zona recreativa para volver a intentarlo." },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_GULOOLJA_000_045",
+      "hash": "9F8BFF5E64AA92FF",
+      "target": "¡...!"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_050",
+      "hash": "62865C83A6DDB1E9",
+      "target": "¿Es aquí adonde querías traernos?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_051",
+      "hash": "45E7BA8F57CB89A9",
+      "target": "¿Qué es este sitio? Si se supone que aquí uno se relaja, conmigo no funciona..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_052",
+      "hash": "95D67D1BFC2D7202",
+      "target": "Oye, ¿cómo te llamas?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_053",
+      "hash": "A51E18DF1B71ED9E",
+      "target": "Así que sigues sin querer hablar..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_054",
+      "hash": "8B614746931724F2",
+      "target": "Ese solo habla si se siente del todo a gusto contigo."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_055",
+      "hash": "5A4E1514E39ABFF1",
+      "target": "¿Lo conoces?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_056",
+      "hash": "84FF9A4782AA01A7",
+      "target": "Más o menos. Pero dejemos eso. ¿Qué tal algo para mojar el gaznate?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_057",
+      "hash": "49EA5B2174C5E2E1",
+      "target": "Con lo monos que sois, invita la casa. Os recomiendo nuestro especial: el Su Majestad. Al chaval se lo preparo sin alcohol."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_058",
+      "hash": "EE3469931A36E8DD",
+      "target": "Eh, gracias, pero no. Hemos quedado con una amiga llamada Cahciua."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_059",
+      "hash": "FB9ACC2479267D8C",
+      "target": "Pero nos encontramos al crío por el camino y nos ha traído hasta aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_060",
+      "hash": "6D5904336642183A",
+      "target": "Ahhh, así que venís con Cahciua."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_061",
+      "hash": "EF39C4E1FA9D3D56",
+      "target": "En ese caso, id a hablar con el grandullón de Tassos, el de ahí. Él os llevará a un sitio divertido."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_062",
+      "hash": "7476EE0F8CF2E073",
+      "target": "¿Y él qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_063",
+      "hash": "400556D1123C7B3E",
+      "target": "No creo que esté de humor para hablar, así que puede quedarse aquí conmigo en la barra."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_064",
+      "hash": "85F8A93086D18F3B",
+      "target": "Esto se está poniendo raro, pero no creerás que estamos metiéndonos en una trampa, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_065",
+      "hash": "7E34942071AADC94",
+      "target": "Que me aspen si esto no huele a chamusquina..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_MELANCHOLY_000_070",
+      "hash": "EAF01758269C6B7F",
+      "target": "Si al final te apetece esa copa, no tienes más que decírmelo."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_GULOOLJA_000_075",
+      "hash": "B50D8F571265E752",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_TASSOS_000_080",
+      "hash": "273A4B42A415C42B",
+      "target": "Parece que tienes ganas de pasar, pero ¿y tu amiga?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_090",
+      "hash": "B5449B099F1CF6FD",
+      "target": "¿Qué será eso del “sitio divertido”? ¿Estará Cahciua allí?"
+    },
+    {
+      "gameKey": "quest/049/KinGme105_04936#TEXT_KINGME105_04936_WUKLAMAT_000_091",
+      "hash": "2D98A6AB4FD96705",
+      "target": "En fin, supongo que solo hay una forma de averiguarlo..."
+    }
+  ]
+}

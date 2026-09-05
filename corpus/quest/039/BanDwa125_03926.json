@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/039/BanDwa125_03926",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_SEQ_00", "hash": "5487D99CCEEE5655", "target": "Regitt busca a alguien de fiar para hacer un pequeño recado.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o job distintos de aquellos con los que la aceptaste." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_00", "hash": "CAFEE91AA2B84B11", "target": "Pagar la bolsa del dinero del grog al proveedor de artículos varios en Sullen" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_TODO_01", "hash": "3E3E23AAD2AAC800", "target": "Entregar el tonel de cerveza sellado a Regitt" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_000", "hash": "7019315F02E1B48E", "target": "El etanol de Ozogg mantendrá nuestros tanques rodando bastante bien por ahora, pero hasta ella admite que el futuro deja margen de mejora. Creemos que la respuesta podría estar en las técnicas de elaboración del grog, que podemos adaptar para crear nuevos tipos de combustible." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_001", "hash": "07833D9052A1EE86", "target": "Con ese fin, hemos decidido investigar cuantas cervezas regionales podamos conseguir. Cualquiera de estas delicias fermentadas podría ser la clave para producir una alternativa segura, barata y fácil de hacer." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_002", "hash": "E427CFFB44D82F48", "target": "...Seguramente te preguntas cuál es <italic(1)>tu<italic(0)> papel en todo esto. Bueno, esta vez es sencillo: yo te doy el dinero y tú compras el grog." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_003", "hash": "47213FCAF88DAD04", "target": "Ya, ya, eres mucho más que <if(gnum4,una chica,un chico)> de los recados, pero créeme: eres <if(gnum4,la única,el único)> en quien puedo confiar para este trabajo. En fin, a Sullen contigo. Allí debería haber un tipo esperando con nuestro pedido." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_010", "hash": "057B6941886F2F3E", "target": "...¿El tonel para el maestro Regitt? Sí, sí, lo tengo listo aquí mismo. ¿Sería tan amable de abonar el pago...?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_MERCHANT03926_000_020", "hash": "0F62B7EC8BC1C4E8", "target": "Gracias, <if(gnum4,señorita,señor)>, y recuerde: levante con las piernas, no con la espalda. Le deseo un buen día." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_030", "hash": "5AB3E79E0B5530DC", "target": "¿Ya de vuelta con el tonel? ¿Ningún, eh, «percance» por el camino, entonces?" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_040", "hash": "E339BF6686395DF1", "target": "...¡Sigue sellado! Quiero decir, ¡pues claro que sí! ¡Sabía que podía contar contigo!" },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_041", "hash": "0C751CB5C34BC9A7", "target": "Si hubiera enviado a un Tholl a comprar ese grog, te apostarías las botas de tu abuela a que tendría que parar en algún sitio a «catar la mercancía». Por eso tuve que pedírtelo a ti." },
+    { "gameKey": "quest/039/BanDwa125_03926#TEXT_BANDWA125_03926_REGITT_000_042", "hash": "9296D1A39E3C3B08", "target": "Y hablando de catar, seguramente debería echar yo un traguito. Ya sabes, solo para asegurarme de que está─ ¡No! ¡Esto es para investigar! Ejem, ya puedes irte, <split(<string(gstr1)>, ,1)>!" }
+  ]
+}

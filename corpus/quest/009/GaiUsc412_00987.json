@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/009/GaiUsc412_00987",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_00", "hash": "C2EB7BB53672A58A", "target": "Todo el mundo necesita a un aventurero de vez en cuando, incluso entre los hermanos de armas, y Aganbold tiene una petición de lo más chocante." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_01", "hash": "8D7F25895988AB7F", "target": "Aganbold necesita ectoplasma catalítico por razones desconocidas, o quizá inconfesables. Abate a unos plasmoids y consigue tres muestras de plasma catalítico." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_02", "hash": "191356D54A873AC9", "target": "Recoges el plasma con éxito. ¿Ese sabor acre en tu boca es culpa, o simplemente te alegra ver tantos cristales? Esparce el plasma sobre el gran árbol cristalizado de la Escarcha Temprana." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_03", "hash": "0481C3907F0E2468", "target": "El plasma está esparcido, y ahora empieza tu acecho. Cuando aparezca el ectoplasm, atácalo sin provocación." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_04", "hash": "CF2D6E0AEFA8F30F", "target": "Por fin tienes el ectoplasma catalítico. El sabor metálico de tu boca ha desaparecido, y el ectoplasma que sostienes emite un agradable zumbido como el ronroneo de un gatito. Entrégaselo a Aganbold." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_SEQ_05", "hash": "A0809F5A61758AB1", "target": "En manos de Aganbold, el ectoplasma es menos un gato satisfecho y más un puercoespín irritado. Tras su semblante alegre, Aganbold guarda una pena secreta: le repele el rayo, pero goza del favor de eruditos clientes con intereses galvánicos..." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_TODO_00", "hash": "D8BF86208762C7A3", "target": "Recoger muestras de plasma catalítico de los plasmoids" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_TODO_01", "hash": "CD6E753BD61C46CE", "target": "Esparcir el plasma catalítico sobre la corteza cristalizada" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_TODO_02", "hash": "7123CDF5DD0F2C2F", "target": "Acechar en el punto de emboscada y abatir al ectoplasm" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_TODO_03", "hash": "A2567FDE2A799835", "target": "Entregar el ectoplasma catalítico a Aganbold" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_000", "hash": "7DB1F3F3A0B7620A", "target": "<if(gnum4,Hermana,Hermano)> aventurer<if(gnum4,a,o)>, escúchame. Necesito una muestra de ectoplasma catalítico, pero no tengo mucha suerte." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_001", "hash": "FC9FAC8400399F99", "target": "No tiene mayor complicación, ojo. Primero, vas a la Escarcha Temprana, te cargas unos cuantos plasmoids y luego recoges tres muestras de plasma catalítico." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_002", "hash": "03B4153AED4790B9", "target": "Rocías con eso el gran árbol cristalizado, esperas un rato y la corteza empezará a crepitar por el rayo que recorre el plasma." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_003", "hash": "0BC55CB6806567A6", "target": "Después es como cultivar sobre un goobbue: el ectoplasm viene correteando sin la menor preocupación. Le atizas bien rápido y ya tienes tu ectoplasma catalítico." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_004", "hash": "0435C528353E8AF9", "target": "¿Que por qué quiero que lo consigas <italic(1)>tú<italic(0)>? Venga ya, <if(gnum4,hermana,hermano)>, ¡no vayamos a hurgar en el cajón de lo inconfesable! Todo a su tiempo, todo a su tiempo." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_040", "hash": "AC38E1CCF5CD17BB", "target": "¿Tienes al pequeño chispas? ¡A eso lo llamo yo un aventurero! ¡No conoces el miedo, <if(gnum4,hermana,hermano)>!" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_045", "hash": "551D3CEBFEEE2422", "target": "¡Aaay, hijos de la gran...! ¡Siete infiernos para siete hermanos, esto duele como un trol casándose con mi hija!" },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_046", "hash": "392336A59AE01E4C", "target": "\\<suspiro> Ahora ves por qué <italic(1)>a mí<italic(0)> no me hacía mucha gracia ir a por el bicho en persona. No sé qué será, pero siempre acabo electrocutado. Igual tengo el elemento rayo... o directamente el rayo me tiene <italic(1)>manía<italic(0)>." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_AGANBOLD_000_047", "hash": "0CC661DE095F59D7", "target": "Con mi suerte, no paro de recibir encargos de estos sabios, y la mitad de ellos, y la mitad de los demás, andan estudiando el rayo. A este paso, debería dejar la aventura y hacerme representante." },
+    { "gameKey": "quest/009/GaiUsc412_00987#TEXT_GAIUSC412_00987_POP_MESSAGE_000", "hash": "575043C46DAD9415", "target": "¡Se te empieza a erizar el vello de los brazos!" }
+  ]
+}

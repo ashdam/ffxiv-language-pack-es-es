@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/003/SubFst068_00384",
+  "questName": "A Hearer Is Often Late",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_1", "hash": "6851ABAB1F1924DE", "target": "Tengo otra tarea para usted, <if(gnum4,aventurera,aventurero)>. Necesito que se dirija al Árbol de la Linde, al suroeste de aquí, y hable con la Oyente Leonnie." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_2", "hash": "2E717C42397D9CD4", "target": "Tras atender el Árbol de la Linde, la Oyente tenía previsto embarcar en las Tablas Espejo... En fin, la hora de zarpar ya ha pasado y de ella no hay ni rastro." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LOTHAIRE_000_3", "hash": "2B4915D7FFC61E66", "target": "Sé lo mucho que la Oyente se enfrasca en su labor, así que no me preocupa en exceso. Pero Armelle, que se encargaba del transporte de Leonnie, andará preguntándose si su díscola pasajera llegará algún día. ¿No le vendría bien un pequeño recordatorio?" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_11", "hash": "B3EF80DBE46C938C", "target": "Sí, ¿qué le inquieta, querid─? Ah. Sí. El barco. Lo había olvidado por completo." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_12", "hash": "5C292D9B639DE9FE", "target": "¿Hm? Ah, mi labor con el Árbol de la Linde está bien concluida, pero los elementales susurran sobre una presencia malévola en las inmediaciones de la Tam<-->Tara Deepcroft." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_13", "hash": "4F0C47EFB3678F84", "target": "He de quedarme un poco más, para discernir mejor el origen de la aflicción de los elementales. Le ruego que informe a Armelle de que me retrasaré." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_31", "hash": "5E9DBF4BEC58C1B3", "target": "¿Me trae un mensaje de la Oyente Leonnie? ¿Una presencia maligna en la Deepcroft? Eso sí que suena grave, desde luego." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_ARMELLE_000_32", "hash": "3E9A164C062AB4EF", "target": "Entonces prepararé un barco para más tarde. ¿Dentro de una campanada? ¿Dos? Mejor que sean tres, por si acaso. Gracias por la molestia." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_LEONNIE_000_21", "hash": "D59ABD83344ED5E8", "target": "He de permanecer aquí un poco más. Le ruego que se dirija a las Tablas Espejo y transmita mis disculpas a Armelle." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_00", "hash": "ECB415BDBE01C3D0", "target": "Lothaire, un guardia de la Aguja de Galvanth, quiere que visites el Árbol de la Linde." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_01", "hash": "D886F615276F3D16", "target": "Lothaire te ha pedido que le recuerdes a la Oyente Leonnie que ha reservado pasaje en una embarcación en las Tablas Espejo. Dirígete al Árbol de la Linde, al suroeste, y habla con la conjuradora." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_02", "hash": "312C7C367CA8CEBD", "target": "La Oyente Leonnie debe permanecer en el Árbol de la Linde para comulgar con los elementales. Informa a Armelle, en las Tablas Espejo, del retraso en los planes de la conjuradora." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SEQ_03", "hash": "CD44DD03C2C736E5", "target": "Le transmites el mensaje de la Oyente Leonnie a Armelle, que se resigna a reservarle a la conjuradora pasaje en una embarcación posterior. Lo único que queda por decidir es <italic(1)>cuánto<italic(0)> posterior..." },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_00", "hash": "0EE8B7BE953C4055", "target": "Hablar con Leonnie" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_TODO_01", "hash": "556A58E1A13B128D", "target": "Hablar con Armelle en las Tablas Espejo" },
+    { "gameKey": "quest/003/SubFst068_00384#TEXT_SUBFST068_00384_SYSTEM_100_000", "hash": "B1B05BA685D1FC2E", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." }
+  ]
+}

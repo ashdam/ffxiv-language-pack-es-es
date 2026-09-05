@@ -1,0 +1,117 @@
+{
+  "conversation": "quest/003/SubWil082_00330",
+  "questName": "Last Letter to Lost Hope",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_00",
+      "hash": "F74DED70EC7A346D",
+      "target": "Fufulupa quiere que localices a una mensajera desaparecida."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_01",
+      "hash": "4B71E3FAD11376A5",
+      "target": "Fufulupa te ha pedido que averigües el paradero de una misiva que envió a Desesperanza. Teme que a la mensajera le haya ocurrido alguna desgracia. Búscala en los caminos al suroeste de la Estación de Maleza Negra, en Thanalan central."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_02",
+      "hash": "5E7FBCC7D419C26B",
+      "target": "Encuentras a la mensajera ilesa, pero su chocobo no ha corrido la misma suerte. Hasta que no termine de atender la pata herida de su montura, no puede completar la entrega. Lleva la carta a Desesperanza en su lugar y entrégasela a Leofric."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SEQ_03",
+      "hash": "F1BE36D880372EF8",
+      "target": "Leofric te agradece la carta y te sugiere que no te demores en Desesperanza, no vayas a acabar asociad<if(gnum4,a,o)> a los indeseables de Ul'dah. A pesar de lo que dice el abatido Espada de Latón, quizá deberías quedarte y echar una mano..."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TODO_00",
+      "hash": "70687EB6CF3AF730",
+      "target": "Buscar a Seseli en Thanalan central"
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TODO_01",
+      "hash": "1F320651CCCFC535",
+      "target": "Entregar la carta de Fufulupa a Leofric en Desesperanza"
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_FUFULUPA_000",
+      "hash": "57AEFD8E5D0CB193",
+      "target": "Le ruego que me permita solicitar su ayuda, valeroso aventurero. Quisiera que averiguase el paradero de una misiva que envié a Desesperanza el otro día."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_FUFULUPA_001",
+      "hash": "AFC3294C79968B2D",
+      "target": "El capitán Leofric está destinado allí. Desde que lo trasladaron nos hemos escrito cartas, pero nunca había tardado tanto en llegar una respuesta."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_FUFULUPA_002",
+      "hash": "BD7D75A218B2740E",
+      "target": "Por eso me temo que a la mensajera pueda haberle ocurrido alguna desgracia por el camino."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_FUFULUPA_003",
+      "hash": "BECFFB0D764EA488",
+      "target": "Tuvo que llegar al menos a Thanalan central, o las Espadas de Latón que patrullan los caminos entre aquí y el Cruce del Escorpión habrían visto algo. Pero, si llegó hasta la Estación de Maleza Negra, a estas alturas ya habría entregado la carta sin duda. Desesperanza está prácticamente a las puertas..."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_FUFULUPA_004",
+      "hash": "960A9F195AE33DDF",
+      "target": "Le sugiero que centre la búsqueda en el camino a la Estación de Maleza Negra, en Thanalan central. Con suerte, la encontrará enseguida."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SESELI_010",
+      "hash": "68DB4C316BDC268C",
+      "target": "¿Eh? ¿Una carta? Sí, tengo aquí mismo la misiva de Fufulupa."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SESELI_011",
+      "hash": "30152FC2810E653E",
+      "target": "Aunque no voy a entregarla pronto. Antes tengo que atender la pata herida de mi ave. Hasta el corte más pequeño puede infectarse si se descuida."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SESELI_012",
+      "hash": "DAD570C56109B489",
+      "target": "Le envía Fufulupa, ¿verdad? Si el asunto es urgente, ¿por qué no la lleva usted el resto del camino?"
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_SESELI_013",
+      "hash": "7DA1EDC9AA57A1D7",
+      "target": "Desesperanza está justo pasada la Estación de Maleza Negra, al noreste. Busque las tiendas junto al río."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_020",
+      "hash": "7DFD5A67D5FCE70E",
+      "target": "¿Solo estás de paso, o piensas quedarte un tiempo?"
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_021",
+      "hash": "0F1669F103C081A3",
+      "target": "¿Fufulupa te ha hecho venir hasta aquí por una carta que se retrasa? \\<suspiro> El chico sigue siendo demasiado formal."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_022",
+      "hash": "0CA3DEC1530B6016",
+      "target": "A pesar de mi degradación, sigue llamándome capitán. Sospecho que tampoco tiene ni idea de lo que significa que te destinen a Desesperanza."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_023",
+      "hash": "7A1E50E220F0D33A",
+      "target": "A las Espadas de Latón les importa este asentamiento un culo de Qiqirn. Y a nadie en Ul'dah tampoco."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_024",
+      "hash": "8274DDCA3EC2470D",
+      "target": "Aquí todos estamos abandonados, aventurero. Los refugiados y sus protectores. Y tú también lo estarás, si te ven codearte con nosotros."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_LEOFRIC_025",
+      "hash": "E44818E7FD53A14F",
+      "target": "Gracias por la carta. Y ahora, por tu propio bien, márchate."
+    },
+    {
+      "gameKey": "quest/003/SubWil082_00330#TEXT_SUBWIL082_00330_TALK_SCENE00006_000",
+      "hash": "F0138C51F544BB9B",
+      "target": "Dirígete al noreste, pasada la Estación de Maleza Negra. Busca las tiendas. Si cruzas el río, te has pasado."
+    }
+  ]
+}

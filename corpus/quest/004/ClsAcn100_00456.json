@@ -1,0 +1,141 @@
+{
+  "conversation": "quest/004/ClsAcn100_00456",
+  "questName": "Tactical Planning",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_00",
+      "hash": "1B5AE5E84F5F0574",
+      "target": "Thubyrgeim, maestra del gremio en funciones, quiere evaluar los progresos de tus habilidades de magia arcana."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_01",
+      "hash": "CCD5EB00CF7E1B75",
+      "target": "Para calibrar de nuevo tu evolución como arcanista, Thubyrgeim te pide que viajes a la Noscea occidental a entablar combate con enemigos más feroces. Abate tres Roselings y tres Wild Jackals."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_02",
+      "hash": "8FE35BF98D4196C0",
+      "target": "Has abatido a las criaturas indicadas. Regresa al Gremio de Arcanistas e informa a Thubyrgeim."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_03",
+      "hash": "9B3FC7B28C1EC56D",
+      "target": "Satisfecha con los resultados de tu entrenamiento, Thubyrgeim te ordena a continuación acompañar a K'lyhia en una inspección oficial. Busca a la inspectora en la zona de prácticas y entérate de los detalles de tu próxima tarea."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_04",
+      "hash": "960CABCB3E4BAE3F",
+      "target": "La inspectora te explica que una familia goblin de mercaderes conocida como los Boilstox es sospechosa de comerciar con mercancías del mercado negro. Previendo una respuesta violenta a su inspección, K'lyhia te pide que estés listo para ejecutar una táctica que ha bautizado «Fuego Concentrado». Viaja a la Noscea central y reúnete con la inspectora en la ubicación de los goblins."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_05",
+      "hash": "4C2B27500EDBCD83",
+      "target": "Has sometido con éxito a los Boilstox. Habla con K'lyhia y sigue sus instrucciones."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_06",
+      "hash": "0016D04BA05518E2",
+      "target": "K'lyhia te instruye sobre la necesidad de conocer tus propias fortalezas y debilidades al formular estrategias. Regresa con Thubyrgeim al Gremio de Arcanistas e infórmale de que la inspección ha concluido."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SEQ_07",
+      "hash": "CC24B3114B307CEA",
+      "target": "Tras regresar al gremio y presentar tu informe, Thubyrgeim insinúa que tus florecientes aptitudes pronto podrían hacerte apto para un encargo más ambicioso. Sigue mejorando y experimentando con tus estrategias para prepararte para la próxima llamada al deber.<br><br>※La próxima misión de arcanista estará disponible con Thubyrgeim al alcanzar el nivel 15."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_00",
+      "hash": "E600BCB97DC9B079",
+      "target": "Abatir Roselings"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_01",
+      "hash": "0C9FB78DF5A68D92",
+      "target": "Abatir Wild Jackals"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_02",
+      "hash": "7D808023609E761C",
+      "target": "Informar a Thubyrgeim en el Gremio de Arcanistas"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_03",
+      "hash": "D9940FFDB794816A",
+      "target": "Hablar con K'lyhia"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_04",
+      "hash": "BB3DBD6B73C36564",
+      "target": "Hablar con K'lyhia en la Noscea central"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_05",
+      "hash": "C20C26D684BDFD5E",
+      "target": "Hablar con K'lyhia"
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_TODO_06",
+      "hash": "D3AA24B9E44C49D9",
+      "target": "Informar a Thubyrgeim en el Gremio de Arcanistas"
+    },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_000", "hash": "D85CF7B194BB09BD", "target": "Sí, <split(<string(gstr1)>, ,1)>, ha llegado la hora de tu próxima lección. Te cuidas bien, ¿verdad? ¿Das algún que otro paseo enérgico? No se pueden concebir pensamientos sanos si no se mantiene un cuerpo sano." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_001", "hash": "1A2D69E2A6B36062", "target": "Bien, suponiendo que hayas seguido las instrucciones de K'lyhia, deberías estar list<if(gnum4,a,o)> para enfrentarte a las amenazas más peligrosas de la Noscea Occidental." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_002", "hash": "4FA8C792FC492F89", "target": "Me refiero a los roselings y los wild jackals. Y sí, quiero que acabes con tres de cada. Es la muestra perfecta: el primero es el caso de prueba; el segundo pone a prueba tus hipótesis; el tercero perfecciona las tácticas que idees." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_003", "hash": "94BE6095F3FE6D3E", "target": "A propósito, confío en que tu estrategia consista en algo más que lanzar Ruin una y otra vez. Ya no eres <if(gnum4,la novata,el novato)> que fuiste, y tus habilidades sobre el terreno deberían reflejarlo. Si te faltan otros enfoques, plantéate un asalto con Ruin en tándem con los ataques de tu Carbuncle. Con la sincronización adecuada, puedes asestar un golpe demoledor a tu adversario." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_010", "hash": "CB1B2E2861C6CD6A", "target": "Bienvenid<if(gnum4,a,o)> de nuevo, <split(<string(gstr1)>, ,1)>. ¿Qué tal sentó vencer a enemigos tan feroces? Aprovechemos esa ola de triunfo para afrontar un desafío aún más exigente ─y peligroso─." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_012", "hash": "39206827B00F070F", "target": "Tu próximo ejercicio de adiestramiento consistirá en acompañar a la inspectora jefa K'lyhia en una de sus inspecciones." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_013", "hash": "6C3952351BB3B5BA", "target": "Esta experiencia te brindará la oportunidad de presenciar de primera mano la aplicación práctica de la magia arcana. No te entretengas, <split(<string(gstr1)>, ,1)>─K'lyhia te espera en la planta de abajo con más detalles." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_020", "hash": "72C1EFFC2E02D989", "target": "Una aparición puntual, como esperaba. ¿Prrrocedemos directamente al asunto? Se me ha encomendado examinar las mercancías de una caravana de mercaderes goblin dirigida por la familia Boilstox." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_021", "hash": "D5FE05459CE1AC10", "target": "Nuestros agentes sospechan que estos mercaderes hombres bestia trafican con bienes prohibidos. Por eso he calculado que anunciar una inspección tiene un 60 % de prrrobabilidades de provocar violencia física." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_022", "hash": "F1D4721F88F865FC", "target": "He prrreparado una estrategia para responder a esta posible escalada de hostilidades, pero hay una precondición importante que debes conocer antes de que abordemos los pormenores de mi plan." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_023", "hash": "734FF7A880C3AC1C", "target": "Aunque se me considere dotada para idear tácticas, carezco de los reflejos y la coordinación para emplear muchas de esas estrrrategias en el campo de batalla. Ten presente este factor y ajusta tus decisiones en consecuencia." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_024", "hash": "C729467EEFD6223A", "target": "Así pues, si los goblins presentan batalla, deberás ejecutar el Patrón de Combate 1345, también conocido como “Táctica de Fuego Concentrrrado”." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_025", "hash": "627118E3DED7F44C", "target": "Tú y tu Carbuncle concentraréis vuestros ataques en un solo enemigo y, uno a uno, los enemigos sucumbirán bajo la embestida combinada. Prrrobabilidad de victoria: 95 %." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_026", "hash": "E1C7EDD9094AF267", "target": "Los informes sitúan a los mercaderes en las inmediaciones de la Cazuela, en la Noscea Central. Partiré de inmediato para evaluar la situación. Búscame en cuanto llegues." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_030", "hash": "A1B94472E28F9C7D", "target": "Soy la inspectora jefa K'lyhia, de la Aduana de Mealvaan. Cesen todas las trrransacciones y entreguen sus mercancías para su inspección." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_GOBURIN_000_031", "hash": "3D43B2E8BF01AC25", "target": "¡Fisgaespías malos! ¡Gobbies ensartan ojosfisga de altotierra en hierropincho!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_032", "hash": "BD58F7860067A387", "target": "Una respuesta prrredeciblemente agresiva. Muy bien, <split(<string(gstr1)>, ,1)>. ¡Recuerda lo que hablamos!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_040", "hash": "F5F09B177F0F92A7", "target": "Bien hecho. Adaptación, improvisación─¡podría haber estado observando en acción al mismísimo nuestrrro venerado maestro del gremio!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_041", "hash": "2C4C3A99129F503E", "target": "Este ha sido el ejemplo <italic(1)>perfecto<italic(0)> de cómo la estrrrategia de una tarea concreta debe adaptarse a las aptitudes de quien la ejecuta." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_042", "hash": "6201961793332FB3", "target": "Dicho de otrrro modo, antes de empezar a formular tus tácticas, es necesario comprender a fondo tus propias fortalezas y debilidades." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_043", "hash": "83ED3D4D1CAAFB32", "target": "A propósito, hay otrrra pregunta que quisiera hacerte: a la hora de mejorar las probabilidades de éxito de una estrategia, ¿consideras más eficaz concentrarte en explotar tus fortalezas o en apuntalar tus debilidades?" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_Q1_000_000", "hash": "05C7725DF14AB340", "target": "¿En cuál te concentras?" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_A1_000_001", "hash": "1E569819A1D506D2", "target": "En potenciar mis fortalezas." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_A1_000_002", "hash": "5E9585F4214C108D", "target": "En cubrir mis debilidades." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_044", "hash": "1106D06ABE3DEC41", "target": "Vaya, de nuevo respondes como lo hizo en su día el maestro del gremio. Debo revisar la prrrobabilidad de tu potencial para alcanzar la grandeza al... 97 %. Eres alguien a quien no perder de vista, eso es seguro." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_045", "hash": "B32908587430D203", "target": "Pero volviendo al tema de los planes de batalla, tus cálculos deben incluir una evaluación prrrecisa de las técnicas de que dispones y de su eficacia relativa. Para ello debes ser plenamente consciente de tus propios límites, de los de tus aliados y de las características de tus enemigos." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_046", "hash": "271B7E062FAA4389", "target": "Creo que eso es todo por hoy. Por favor, regresa al grrremio e informa a la señora Thubyrgeim. Hasta la próxima." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_047", "hash": "97545DFECA193FFE", "target": "Yo aguardaré aquí hasta que lleguen las Casacas Amarillas a detener a los mercaderes. Mis estrrrategias me harán compañía." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_KLYHIA_000_050", "hash": "7477A28A5D24CB80", "target": "Suponiendo la Precondición C, la ejecución de la Maniobra de Combate B afectaría al Escenario A de un modo que prrrecipitaría..." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_060", "hash": "C0643240B2ADB95F", "target": "¿De vuelta del campo, <split(<string(gstr1)>, ,1)>? K'lyhia se puso en contacto conmigo con un resumen de lo ocurrido." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_061", "hash": "98BDE59403ECEEFE", "target": "Parece que te obsequiaron con una lección sobre “conócete a ti mismo”. Esa lección en concreto suele impartirse solo a los practicantes de nivel intermedio." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_062", "hash": "3DDA8543E11F3F15", "target": "Sin una reserva suficiente de experiencia en combate de la que echar mano, es difícil apreciar plenamente la profundidad de una verdad en apariencia tan simple." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_063", "hash": "84C43CB666BCE638", "target": "Aun así, confío en que pronto estarás list<if(gnum4,a,o)> para un encargo más ambicioso. Sigue con tus estudios y mantén tu mente afilada como una navaja." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_064", "hash": "7B9F8CBA85CB10D2", "target": "Una última cosa, <split(<string(gstr1)>, ,1)>. Dada la dedicación que has mostrado hacia nuestra disciplina, he decidido concederte permiso para explorar las enseñanzas que ofrecen otros gremios." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_THUBYRGEIM_000_065", "hash": "09092D6A1E45298F", "target": "Te sugiero, no obstante, que primero domines la ciencia de la magia arcana. El adiestramiento estratégico que recibes aquí te será útil sea cual sea el camino que decidas recorrer. Vuelve a mí cuando tu razón te diga que ha llegado el momento." },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SYSTEM_000_70",
+      "hash": "703D5A88FE6D5B43",
+      "target": "Ya tienes acceso al sistema Armoury. Las misiones para desbloquear las demás clases se pueden emprender hablando con el recepcionista del gremio correspondiente."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_SYSTEM_000_71",
+      "hash": "31173D9CEF9E0215",
+      "target": "En Eorzea existen innumerables disciplinas que los aventureros pueden adoptar. No obstante, para disfrutar de la experiencia más gratificante, es recomendable que primero te centres en dominar tu clase actual."
+    },
+    {
+      "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_002_TODO_1",
+      "hash": "4BD05CF5C4ED68F6",
+      "target": "¡Derrota a los mercaderes goblin!"
+    },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_01", "hash": "1E14F649B528D90C", "target": "¡<split(<string(gstr1)>, ,1)>! ¡Ahora!<br>¡Ejecuta la Táctica de Fuego Concentrrrado!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_02", "hash": "3135C3009461B17C", "target": "¡Golpea ahora con todas tus fuerzas!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_03", "hash": "599DAD1E200250E8", "target": "¡No olvides la prrrecondición!<br>¡Ajusta tus tácticas en consecuencia!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_04", "hash": "B4E9B45A30F1FBBE", "target": "¡<split(<string(gstr1)>, ,1)>!<br>¡Cambia al Patrrrón de Combate 2538: “Maniobras Evasivas”!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_06", "hash": "E7388E35E620FDC2", "target": "¡Evitar las explosiones de las bombas es tu máxima prrrioridad!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_07", "hash": "572DC86BC9223A4E", "target": "¡Interrrumpe el lanzamiento si hace falta!<br>¡Céntrate en la movilidad!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_08", "hash": "912F4C65D389D104", "target": "¡Una decisión excelente!" },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_09", "hash": "5A7292B88A81A179", "target": "Tu estilo de combate me da una idea..." },
+    { "gameKey": "quest/004/ClsAcn100_00456#TEXT_CLSACN100_00456_QIB_KLYHIA_BATTLETALK_10", "hash": "FE1D7E47D25B9F8C", "target": "Debo formular una nueva táctica.<br>¡El campo de batalla es tuyo!" }
+  ]
+}

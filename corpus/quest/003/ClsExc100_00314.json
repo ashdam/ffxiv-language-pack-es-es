@@ -1,0 +1,81 @@
+{
+  "conversation": "quest/003/ClsExc100_00314",
+  "questName": "Wake of Destruction",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_00",
+      "hash": "7B73C9ACC4358F1A",
+      "target": "Wyrnzoen desea hablar contigo sobre tu entrenamiento en curso."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_01",
+      "hash": "59378193390249DC",
+      "target": "Wyrnzoen se ha tomado un interés personal en prepararte para vengarte de Kujata, la bestia responsable de la muerte de los padres de Sighard. Concentra tu ira y mata los galagos que se encuentran cerca de las Minas de Hierro Ciego."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_02",
+      "hash": "52FF3E58EA60FE77",
+      "target": "Has matado a las criaturas indicadas. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_03",
+      "hash": "F90DF2117573B6A2",
+      "target": "Tras regresar con el maestro del hacha Wyrnzoen, te enteras de que Kujata ha estado sembrando una destructiva devastación por las tierras cercanas al Descanso del Labriego. Encuentra la carreta volcada en la Noscea Central y mata los plainstriders que buscan devorar la carga de víveres al descubierto."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_04",
+      "hash": "89BD4480714CD9A2",
+      "target": "Has derrotado a los plainstriders. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SEQ_05",
+      "hash": "6C7F9D3E072124EE",
+      "target": "Aunque has defendido con éxito la carga de víveres de los voraces plainstriders, te enteras de que tales incidentes continuarán mientras se permita a Kujata devastar sin freno. Para prepararte del todo para derrotar a la llamada Montaña Desbocada, debes atender el consejo de Wyrnzoen y entregarte a tu entrenamiento.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 15."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_TODO_00",
+      "hash": "58AC638C5FACC0A4",
+      "target": "Matar galagos"
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_TODO_01",
+      "hash": "A2FEAF15F103644D",
+      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_TODO_02",
+      "hash": "55D044D86549B61F",
+      "target": "Inspeccionar la carreta y derrotar a las criaturas que aparezcan"
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_TODO_03",
+      "hash": "F551938213E175BF",
+      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
+    },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_0", "hash": "D6F8FD48C5C91EDE", "target": "<split(<string(gstr1)>, ,1)>. He reunido cuanta información he podido sobre la bestia que el joven Sighard te pidió que abatieras. Los relatos llaman a esta criatura «Kujata»." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_1", "hash": "D09864EE76329234", "target": "Quienes han presenciado a Kujata en su aterradora carne también lo llaman «la Montaña Arrolladora», tal es su inmenso tamaño y corpulencia." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_3", "hash": "6DBBB1E769B66913", "target": "De nuevo, no intentaré disuadirte de reclamar venganza por los padres del muchacho. Es más, te animo a ello." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_6", "hash": "AE61F80E2986594D", "target": "Pero para derribar a ese colosal armatoste, primero debes igualarlo en fuerza y ferocidad. Como un solo paso hacia esa meta lejana, te envío a las Minas de Hierro Ciego." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_7", "hash": "E718DD6EBF283CE9", "target": "Nos ha llegado noticia de que hay gente cayendo presa de las garras de los galagos de la zona. Tu tarea es proteger a los débiles de esas criaturas revoltosas. Aprende a canalizar la rabia que llevas dentro y deja que el filo de tu hacha cante en justa matanza." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_10", "hash": "9E20F06C9801DC74", "target": "Bienvenid<if(gnum4,a,o)> de nuevo, <split(<string(gstr1)>, ,1)>. Tus acciones han librado a muchos de heridas y angustias innecesarias." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_11", "hash": "68D51B84981D3D6A", "target": "Pero aunque tus esfuerzos son de encomiar, aún queda mucho trabajo por hacer. Kujata, el objeto de tu venganza, ha arrollado el carro de un granjero mientras retumbaba por las tierras del Descanso del Labriego." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_12", "hash": "AF3402C32FE076AA", "target": "Los víveres derramados del carro volcado han atraído a toda clase de depredadores hambrientos. Sin género para el mercado, los granjeros pasarán apuros de dinero esta temporada, seguro. Tu deber, por tanto, está claro: acaba con esos carroñeros voraces y preserva la carga." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_20", "hash": "BB9604F8C8766B30", "target": "Una vez más, tu capacidad para la carnicería ha sido puesta a prueba y demostrada. Las criaturas que derrotaste, sin embargo, no eran más que algunos de los muchos viles carroñeros que subsisten de los restos que deja Kujata a su paso." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_22", "hash": "1BBE1A9B0DFB2B9F", "target": "Para enfrentarte al propio Kujata, todavía necesitas mucho más adiestramiento. Pero no desesperes, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_23", "hash": "3C1815C2293DC115", "target": "Como maestro del hacha y asaltante que soy, esto juro: no descansaré hasta haberte enseñado a exprimir hasta la última onza de poder de tu arma; hasta que el filo de tu hacha corte limpiamente la piel más gruesa, el músculo más nudoso, el hueso más denso. Esta amenaza <italic(1)>caerá<italic(0)> por tu mano." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_24", "hash": "39A2E3D25366CDDB", "target": "Puede que te sientas atraíd<if(gnum4,a,o)> a explorar las posibilidades que ofrecen otras disciplinas y gremios. Esas distracciones son inevitables y, quizá, necesarias." },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_WYRNZOEN_000_25", "hash": "31BD54D2650A06E9", "target": "Pero te insto a que vuelvas pronto al camino del asaltante. No deseo que tu filo se embote justo cuando empiezas a mostrar tanto potencial. Que te vaya bien, <split(<string(gstr1)>, ,1)>." },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SYSTEM_000_27",
+      "hash": "DA58D910AC2A8FB8",
+      "target": "Ahora tienes acceso al sistema Armoury. Para desbloquear las demás clases puedes emprender misiones hablando con el recepcionista del gremio correspondiente."
+    },
+    {
+      "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_SYSTEM_000_28",
+      "hash": "AABADE813649093D",
+      "target": "Existen infinidad de disciplinas en Eorzea que los aventureros pueden adoptar. Para la experiencia más gratificante, sin embargo, se recomienda que primero te centres en dominar tu clase actual."
+    },
+    { "gameKey": "quest/003/ClsExc100_00314#TEXT_CLSEXC100_00314_POP_MESSAGE", "hash": "77527CD428013C3A", "target": "¡Percibes una presencia hostil!" }
+  ]
+}

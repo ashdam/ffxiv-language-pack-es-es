@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/007/GaiUsa605_00767",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_00", "hash": "F625E9DE6E7F6BF3", "target": "Wlfric, de los Vigías del Bosque, busca a un aventurero que saque de su escondite a unos furtivos refugiados en Molino de la Cantera." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_01", "hash": "BD0F2F4F055BAC9C", "target": "Una cazadora furtiva capturada por Wlfric ha escapado y se oculta en algún lugar de Molino de la Cantera. Busca y captura a la fugitiva." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_02", "hash": "AB0201D5BA9B641B", "target": "Has encontrado a la cazadora furtiva, que confiesa que solo se entregó a una vida de crimen para alimentar a su familia. <if(gnum4,Conmovida,Conmovido)> por su arrepentimiento por sus malas acciones, decides hacer la vista gorda. Vuelve con Wlfric y relátale la triste historia." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_SEQ_03", "hash": "2B3CBBA19A39A1DD", "target": "Wlfric, de los Vigías del Bosque, está indignado por que la furtiva haya escapado a la justicia, y teme las consecuencias de este grave desacato a la voluntad de los elementales." },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_00", "hash": "0B975725E05B2B27", "target": "Sacar de su escondite a la furtiva oculta en Molino de la Cantera" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_TODO_01", "hash": "21E832FEE789EF7E", "target": "Informar a Wlfric" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_000", "hash": "172B09617C83409D", "target": "¡Maldita delincuente! ¡No escaparás a la justicia de los Vigías del Bosque!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_001", "hash": "A2C149848618F45D", "target": "¡Usted, aventurero! Una de esas repugnantes cazadoras furtivas ha huido al pueblo y se esconde ante nuestras propias narices mientras hablamos. Se unirá a la batida de inmediato: ¡es una orden!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_010", "hash": "3EBD8F1E3A9720D9", "target": "¡N-No me haga daño, se lo ruego!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_011", "hash": "E796ACF6D3B5E373", "target": "¡Lo juro por mi vida, nunca quise hacer nada malo! Pero con mi hermano enfermo y muerto de hambre... Cuando me prrrometieron el dinero para la medicina, ¿qué otra cosa podía hacer?" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_ENPC_000_012", "hash": "B54FE51B6FA9ECA9", "target": "Tiene mi palabra. De hoy en adelante, me ganaré las monedas con trrrabajo honrado, o no me las ganaré. Me mostrará clemencia solo por esta vez, ¿verdad? ¡Que los Doce bendigan su alma bondadosa!" },
+    { "gameKey": "quest/007/GaiUsa605_00767#TEXT_GAIUSA605_00767_WLFRIC_000_020", "hash": "33E5CFFD90FF444B", "target": "¿La furtiva se ha <italic(1)>escapado<italic(0)>...!? ¡Inexcusable! Debería haber sabido que no había que confiar semejante tarea a un aventurero. Quienes desafían la voluntad de los elementales han de ser sometidos a la justicia, o todos pagaremos el precio. Hará bien en no olvidarlo." }
+  ]
+}

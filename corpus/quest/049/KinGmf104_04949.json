@@ -1,0 +1,782 @@
+{
+  "conversation": "quest/049/KinGmf104_04949",
+  "questName": "Those Who Live Forever",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_00", "hash": "B7727DB32A347E68", "target": "La frustración de Wuk Lamat es más que evidente." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_01", "hash": "87246D471D48483C", "target": "Con poco más que hacer en el Meso Terminal, Wuk Lamat propone regresar a la eterita. Si Constancy sigue allí, quizá pueda contaros más sobre el inminente sueño de Sphene y lo que este conlleva." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_02", "hash": "320034F317727BC1", "target": "Mientras buscáis a Constancy en vano, es a vosotros a quienes encuentra nada menos que Cahciua, que aparece tal como era cuando estaba viva. Tras admitir que había sido una Perpetua desde el principio, se ofrece a ayudaros en vuestra misión de detener a Sphene, pero os pide que primero consideréis una petición suya. Con ese fin, os cita en un lugar llamado la Ciudad de los Canales, al que podéis llegar desde la estación de tirolina cercana." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_03", "hash": "7C2DE14D5F2819FB", "target": "Haces el breve y emocionante trayecto en tirolina hasta llegar a la Ciudad de los Canales, una zona encantadora y pintoresca construida sobre el agua. Allí, Cahciua señala a los Perpetuos que van a lo suyo, cada uno de ellos la viva imagen de la felicidad. Son las personas que Sphene se esfuerza en proteger, y no puedes ocultar tu conmoción cuando Cahciua revela su petición: borrarlos a todos." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_04", "hash": "D12613B4116E330E", "target": "Cahciua razona que, si los Perpetuos desaparecen, Sphene no tendría motivo para saquear el éter de otros mundos aunque no logréis impedir la fusión interdimensional. Viendo el sentido de sus palabras, aceptáis hacer lo que os pide mientras esperáis a que el Meso Terminal quede vulnerable. Antes de llevar a cabo el acto, sin embargo, Wuk Lamat expresa su deseo de conocer a los Perpetuos, para comprender mejor a Sphene. Así se decide que hablaréis con cuantos habitantes de la Memoria Viva sea posible mientras os dirigís a los terminales que guardan sus recuerdos." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_05", "hash": "C1C7211B0BD9DC3C", "target": "Hablas con varios Perpetuos en la Ciudad de los Canales y aprendes qué les da alegría. Uno de ellos, un autoproclamado gourmet, te recomienda las palomitas del puesto cercano, y hacia allí te diriges para saciar tu curiosidad." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_06", "hash": "11D76081CCD9BFC3", "target": "Descubres que a G'raha Tia también lo han enviado al puesto y, juntos, probáis el tentempié. Aunque te sorprende descubrir que la comida de la Memoria Viva no te sabe a nada, vuestras reacciones bastan para deleitar a la multitud congregada. Después, G'raha Tia menciona que ha visto a un hombre que parecía buscar algo con desesperación. Intrigado por saber cuál es el problema, te pide que lo acompañes al lugar donde lo vio." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SEQ_07", "hash": "5EE62C17A72C5948", "target": "El hombre ya no parece encontrarse en las inmediaciones. Si consigues dar con él, sin embargo, quizá puedas serle de ayuda de algún modo." },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_00", "hash": "BAEE39A24F1F274D", "target": "Vigilar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_01", "hash": "53CFD47DDF667BBD", "target": "Hablar con el guardia de la Ciudad de los Canales" },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_02", "hash": "4B5D0DBDCA80120C", "target": "Hablar con Cahciua" },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_03", "hash": "DC36B780739CF28D", "target": "Hablar con los Perpetuos" },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_04", "hash": "5AE69AC6A0F1321C", "target": "Hablar con Erastus" },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_TODO_05", "hash": "D07D4376668E5C86", "target": "Hablar con G'raha Tia" },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_001",
+      "hash": "A13565FE746109E2",
+      "target": "Las intenciones de Sphene son buenas, pero sus métodos no lo son en absoluto. No podemos ceder bajo ningún concepto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_002",
+      "hash": "AB8F103F58ECB464",
+      "target": "Los Perpetuos eran insostenibles desde el principio. Sphene ha estado luchando por una causa perdida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_003",
+      "hash": "8069A118A44841E0",
+      "target": "Los Perpetuos existen contra las leyes de la naturaleza. Pero existen, y Sphene los tiene por iguales a los vivos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_004",
+      "hash": "3F8B3FFD27C09E00",
+      "target": "No parece que podamos hacer mucho más aquí. Volvamos de momento a la eterita."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_005",
+      "hash": "3BCB707F9EBBCF30",
+      "target": "Constancy, el cuidador. Puede que él nos cuente algo más sobre eso de que Sphene va a entrar en letargo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_006",
+      "hash": "55631114C4284952",
+      "target": "Ni rastro de Constancy..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_007",
+      "hash": "A70AA1F357ED9358",
+      "target": "¿Ese es...? No, no es él."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_008",
+      "hash": "A72B052CD2E95D66",
+      "target": "Se ha ido de la zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_009",
+      "hash": "6C42CFEF55E96E63",
+      "target": "¿¡No me digas que se ha marchado a otra parte!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_010",
+      "hash": "FAD457353C81C27F",
+      "target": "No se le ve por ninguna parte..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_011",
+      "hash": "CB4A9195CD754936",
+      "target": "Quizá se haya llevado de visita guiada a otros recién llegados."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_012",
+      "hash": "9C66128E3812B772",
+      "target": "¿Buscáis a alguien?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_013",
+      "hash": "BDD18DAC08E8779E",
+      "target": "Sí... Hace un momento estaba aquí un tipo llamado Constancy."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_014",
+      "hash": "747349D498A97939",
+      "target": "Espera, ¿¡qué!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_015",
+      "hash": "3B02BEA0FFAFD10A",
+      "target": "Hola a todos. Habéis llegado, como sabía que haríais."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_016",
+      "hash": "7325CAF59E989536",
+      "target": "¿Es quien creo que es?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_017",
+      "hash": "2E42033EE58F2629",
+      "target": "¡Lo es! ¡Es Cahciua!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_018",
+      "hash": "A2733AA6AFE48BA7",
+      "target": "Ni más ni menos. Es la primera vez que algunos me veis en carne y hueso, por así decirlo, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_019",
+      "hash": "7FB3BBA900059933",
+      "target": "¡Pues deleitaos la vista! ¡Quien manejaba esa máquina tan modesta era una arrebatadora doncella Shetona!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_020",
+      "hash": "81773450836B4F0F",
+      "target": "...Me he pasado un poco, ¿verdad? No me hagáis caso."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_021",
+      "hash": "44B21B1F042C1B65",
+      "target": "Así que era cierto. Que estés aquí significa..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_022",
+      "hash": "6BDE45467EA1639A",
+      "target": "Intenté decírtelo. Muchísimas veces. Pero siempre me faltó el valor..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_023",
+      "hash": "B9F5BEC3C4AF7394",
+      "target": "En efecto, soy una Perpetua. Y lo soy desde hace ya bastante."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_024",
+      "hash": "43A021050F5FE558",
+      "target": "Erenville..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_025",
+      "hash": "619191C4DDC4A411",
+      "target": "Bueno, habéis venido a detener a Sphene, ¿no? Puedo ayudaros con eso, pero tengo que pediros algo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_026",
+      "hash": "3FC5CFFB2FBEF731",
+      "target": "¿Entonces sabes cómo detenerla?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_027",
+      "hash": "184BBB3BB0166A5C",
+      "target": "No hay garantías, pero que hayáis venido lo convierte en una posibilidad real."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_028",
+      "hash": "8ADDD743C4812E37",
+      "target": "Como mi deseo tiene que ver con vuestra misión, ¿me escucharéis? Después ya decidiréis qué hacer."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_029",
+      "hash": "FB39EE2EA0E808B5",
+      "target": "Estupendo. Para empezar, tendremos que ir a otra zona."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_030",
+      "hash": "B4EA9549F78CD868",
+      "target": "¿Veis a ese centinela? Haré que os dé acceso a la tirolina."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_031",
+      "hash": "389E3E2F2C97B172",
+      "target": "¿Tirolina? ¿Y eso qué es?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_032",
+      "hash": "26DA57569FED1B27",
+      "target": "Un medio de transporte de lo más divertido. Aunque se usan poco, porque los Perpetuos podemos teletransportarnos libremente dentro de la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_100_032",
+      "hash": "65DB72FDEC6BA5A5",
+      "target": "Esta en concreto os llevará a una zona llamada la Ciudad de los Canales. Allí os espero."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_033",
+      "hash": "892CBA894234BEA0",
+      "target": "\\<risita> Con esa insistencia tan entrañable, solo podía ser Cahciua. ¡Vamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_034",
+      "hash": "62D0140C2801D25B",
+      "target": "Tiene el aspecto de los artilugios que hay por toda la Isla de Haam, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_035",
+      "hash": "0F533A12C822DAA4",
+      "target": "Parece que Cahciua ya se ha teletransportado por delante."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_036",
+      "hash": "D768B38C4FAB2EB3",
+      "target": "Perdona, es que... está muerta y, aun así, verla y oírla comportarse como si nada... No sé qué sentir."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_037",
+      "hash": "766D4E5E0468DDF6",
+      "target": "¡Creo que sé cómo funciona! ¡Esto lo controlo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CANALTOWNGUARD_000_038",
+      "hash": "16AFE7ABDB31A85D",
+      "target": "¿Eh? Ustedes no parecen─<br>\\<blip> \\<blup> Error. Error. Registro de usuario... c-c-confirmado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CANALTOWNGUARD_000_039",
+      "hash": "23906BE68552C64B",
+      "target": "¡Les doy la bienvenida a la Ciudad de los Canales, el retiro del romance y el descanso! ¡Disfruten de su estancia!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_040",
+      "hash": "899CCCC2A839AAF2",
+      "target": "Qué lugar tan encantador..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_041",
+      "hash": "EAC3BC1BB14D513C",
+      "target": "Ahí los tenéis. La gente a la que Sphene se esfuerza por proteger."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_042",
+      "hash": "0835555F1854273A",
+      "target": "Parecen felices."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_043",
+      "hash": "F6EFFBB3DCF92DB6",
+      "target": "Bueno, ¿y cuál es esa petición tuya?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_044",
+      "hash": "CD2C326EA594B7B6",
+      "target": "Quiero que nos borréis. Que borréis a los Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_045",
+      "hash": "A72D0CA1CC1A6BED",
+      "target": "¿Qué?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_105",
+      "hash": "92D8CA6BA360809A",
+      "target": "Y con “borrar” se refiere a..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_110",
+      "hash": "59A1B07EA7345EF6",
+      "target": "De momento, escuchemos el resto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_115",
+      "hash": "857B61413F729764",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_120",
+      "hash": "85A430123E4A0D55",
+      "target": "Cahciua tendrá sus razones."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_130",
+      "hash": "3A03E5841D656F25",
+      "target": "Venga ya, ahorradme esas caras largas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_131",
+      "hash": "CAF6E9E4CBE98A76",
+      "target": "Al estar vivos, sois los únicos que podéis hacerlo. Y no habrá mejor ocasión que ahora, mientras la reina Sphene está ocupada preparando la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_132",
+      "hash": "4ADB139B6AFE916A",
+      "target": "Sacrificar a otros para sostener a los Perpetuos está mal. De eso estoy convencida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_133",
+      "hash": "277E7B7ABD617A2F",
+      "target": "Pero, hablando ahora contigo, pareces tan real como cualquiera de nosotros. Y, si necesitas una respuesta ya mismo, no sé si puedo dártela."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_134",
+      "hash": "8C88381D811B362C",
+      "target": "¿Hay algún motivo para que tengamos que actuar tan pronto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_135",
+      "hash": "4F1D2FF83463EF10",
+      "target": "Porque, como acabas de decir, sacrificar a otros para sostenernos está mal. Recuerda que necesitamos fuerza vital─las demás formas de éter no sirven."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_136",
+      "hash": "447A30BAFEC2983A",
+      "target": "Al principio nos apañábamos con el éter de quienes morían dentro de la barrera. Pero, a medida que crecía nuestro número, empezó a escasear."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_137",
+      "hash": "506D13E4092A0D50",
+      "target": "Por eso la reina Sphene buscó otras fuentes. Puede incluso que el éter del que estoy compuesta venga de las víctimas del ataque a Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_138",
+      "hash": "FF314DCC698240D0",
+      "target": "No soporto esa idea. No soporto existir porque alguien haya muerto."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_139",
+      "hash": "8E1758A84A880C16",
+      "target": "Seguramente nosotros sentiríamos lo mismo en tu lugar... Pero ¿qué nos estás pidiendo exactamente?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_140",
+      "hash": "3F20496848BE0A05",
+      "target": "En cada zona hay un enorme dispositivo de almacenamiento de datos llamado terminal. Ahí es donde se guardan nuestros recuerdos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_141",
+      "hash": "FA7D81C71D1AF034",
+      "target": "Si apagáis un terminal, los recuerdos que contiene desaparecerán─junto con los Perpetuos creados a partir de ellos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_142",
+      "hash": "F3B09BB29C8F2DEA",
+      "target": "Pero ¿hay que hacerlo ahora? ¿No podemos detener primero a Sphene y decidir después?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_143",
+      "hash": "222831167D092B90",
+      "target": "Precisamente para detener a Sphene hay que hacerlo ahora."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_144",
+      "hash": "C444FE098F74E24E",
+      "target": "Sus propios recuerdos están guardados en el Meso Terminal, que se alza en el corazón de la Memoria Viva."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_146",
+      "hash": "374D6D0C3C60DEE9",
+      "target": "Como es de esperar, las defensas del terminal son extremadamente férreas. Pero tiene momentos de vulnerabilidad, como justo al terminar un cálculo, que podemos aprovechar para apagarlo desde dentro."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_147",
+      "hash": "C81033EC8E87FDBD",
+      "target": "Mientras esperamos esa ocasión, borramos a los Perpetuos. Una vez que no estemos, Sphene ya no tendrá motivos para saquear el éter de otros mundos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_148",
+      "hash": "3168AD1B39D2424C",
+      "target": "¿Y Sphene nos dejaría apagar los terminales sin más?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_149",
+      "hash": "44CF6EF1E7210DB1",
+      "target": "Para preparar la fusión, el Meso Terminal está realizando ahora mismo cálculos ingentes mientras reúne energía. Aunque el sistema nos detecte, no puede suspender el proceso con facilidad."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_150",
+      "hash": "53669A35FEFF983E",
+      "target": "En vez de eso, creo que intentará acelerar los plazos y unir los mundos antes de que se pueda frustrar el plan."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_151",
+      "hash": "E252B38CC4EB9B36",
+      "target": "No sería una decisión que Sphene quisiera tomar, pero al menos podría salvar a los que están guardados en el Meso Terminal..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_152",
+      "hash": "F562F32F6889807E",
+      "target": "Tu estrategia tiene sentido y, al decidirnos a detener a Sphene, ya habíamos previsto que podía llegar a esto. Pero hablar de borrar a los Perpetuos de verdad... es difícil."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_153",
+      "hash": "61419484B9105B0D",
+      "target": "No tenéis por qué sentiros culpables. Por muy vivos que parezcamos, los Perpetuos no somos más que copias hechas de recuerdos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_100_153",
+      "hash": "B0896E7797FFBAB6",
+      "target": "Además, detener a Sphene exige que apaguéis el Meso Terminal, que es el que nos sostiene a todos. Antes o después habrá que hacerlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_110_153",
+      "hash": "832FD638C18B52DA",
+      "target": "Si nos han de borrar, que sea antes de que más gente sufra daño. Gente viva, que respira, con futuros que merecen vivir."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_Q1_000_000",
+      "hash": "920CD13778E71399",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A1_000_001",
+      "hash": "2C7E14C2EFF9DCCB",
+      "target": "Haremos lo que pides."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A1_000_002",
+      "hash": "271BAB1EC74D880E",
+      "target": "Tiene que haber otra manera."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A1_000_003",
+      "hash": "18EFC0F8C342BFF2",
+      "target": "No quiero que te vayas..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_155",
+      "hash": "59B8C2B55E7DF61A",
+      "target": "Gracias. Por respetar mi deseo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_156",
+      "hash": "3842B56DE4ED8F41",
+      "target": "Me temo que no. Pasamos años rebuscando en los archivos de Preservación, pero no encontramos nada. Menudo sistema fastidioso han creado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_157",
+      "hash": "BBF52A25AE91BAD5",
+      "target": "\\<risita> Te agradezco el detalle, pero no podemos permitirnos perder esta oportunidad. Hazlo por mí, ¿quieres?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_158",
+      "hash": "7D51E7C47BA5C3D3",
+      "target": "Y, como petición personal... Aunque no se puedan justificar sus actos, os pido que tengáis cierta comprensión con la reina Sphene. Sabed que ella tampoco eligió convertirse en Perpetua."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_159",
+      "hash": "BD384FB2A7E092BA",
+      "target": "Fue Preservación quien eligió por ella."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_160",
+      "hash": "FEB41FB5395BAF65",
+      "target": "No está en su mano resistirse a su propósito."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_100_160",
+      "hash": "B8054492070867E0",
+      "target": "¿Qué quieres decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_110_160",
+      "hash": "17AB8D4A3C3CC953",
+      "target": "La Sphene que conocéis es un ideal al que Preservación dio vida."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_120_160",
+      "hash": "547AF62D72E37451",
+      "target": "Aprovechando el amor que la Sphene viva sentía por su pueblo, alumbraron una reina eterna cuya directriz primordial es preservar a los Perpetuos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_130_160",
+      "hash": "01A4698D3ACEFCC3",
+      "target": "Pero, como sabéis, los Perpetuos consumen éter. Sphene se vio obligada a buscar la forma de conseguirlo, y esa obligación la ha llevado a recurrir a la fusión interdimensional."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_140_160",
+      "hash": "B9897E71CF77420E",
+      "target": "¿Qué? ¿Me estás diciendo que la Sphene original no habría elegido esto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_150_160",
+      "hash": "F2E1643F1D324359",
+      "target": "Lo que la reina habría hecho solo lo sabría ella misma."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_160_160",
+      "hash": "8F86D0F9B52FA096",
+      "target": "Pero los científicos de Preservación se esfumaron y dejaron sola a la reina que habían creado."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_170_160",
+      "hash": "D4E76EB75230549E",
+      "target": "Así que, cuando llevéis a cabo vuestra misión, no penséis que estáis deteniendo a una villana despiadada. Pensad más bien que estáis aliviando la carga de un alma atormentada."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_161",
+      "hash": "0D0F3B7BA3834751",
+      "target": "Está bien, Cahciua. Ahora lo entendemos. Tus razones y tus sentimientos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_162",
+      "hash": "E5C1C0B107E7A81D",
+      "target": "Pero, antes de borrar a los Perpetuos, quiero conocerlos. Quiero saber por qué lucha ella con uñas y dientes."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_163",
+      "hash": "38127CC939BEBAAF",
+      "target": "Si vamos a rechazar las creencias de alguien, que sea después de haberlas entendido. Esa es una lección que aprendí en el rito de sucesión."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_164",
+      "hash": "D2C90FFFD8816F4E",
+      "target": "Sé que vamos justos de tiempo, pero, si te parece bien, quiero conocer a toda la gente que pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_165",
+      "hash": "30871BA79393BB73",
+      "target": "Eres la gatita de Gulool Ja Ja, no cabe duda... En fin, los cálculos aún tardarán un rato. No debería haber problema si lo hacemos de camino a los terminales."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_166",
+      "hash": "7AA8A50FA7B56DEF",
+      "target": "Estoy contigo. Puede que no lleguemos a saberlo todo, pero aun así tendría sentido asomarnos al corazón de quienes habitan este lugar antes de liberarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_167",
+      "hash": "99E17304305F9710",
+      "target": "Entonces os dejo con ello. Cuando terminéis aquí, venid a buscarme a la fuente que hay junto a esa gran torre del reloj."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_168",
+      "hash": "26454E79233EF0E0",
+      "target": "¡Venga, separémonos y busquemos gente de aquí con la que hablar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_169",
+      "hash": "2E26766100896386",
+      "target": "La verdad es que es un sitio precioso. Deberías darte una vuelta y disfrutarlo mientras puedas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_KRILE_000_170",
+      "hash": "47B6129CAD2E830F",
+      "target": "Una parte de mí espera que mis padres también estén aquí, pero seguramente sea pedir demasiado..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_175",
+      "hash": "7735F521C16EF996",
+      "target": "Los Perpetuos parecen comer con gusto, pero la comida no puede ser real... ¿o sí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_180",
+      "hash": "4A710AE45DBB2811",
+      "target": "No voy a oponerme a vuestra decisión... Y, como dice mi madre, no hay por qué sentirse culpable."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERENVILLE_000_185",
+      "hash": "B32F4EA801A25125",
+      "target": "Aunque reconozco que yo sigo dividido. Tener estas dudas después de haber llegado hasta aquí... Da risa, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_WUKLAMAT_000_190",
+      "hash": "F41CD85BD5922A0D",
+      "target": "¿Tus antepasados eran refugiados de Lindblum? Las historias que tendrán..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CAHCIUA_000_195",
+      "hash": "B48D69DD8678AEC0",
+      "target": "He de decir que estoy empezando a pasármelo bien. Aunque sea por poco tiempo, esto tiene aire de viaje."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CHEERFULENDLESS04949_000_200",
+      "hash": "720CDA1F1F827B7E",
+      "target": "Vaya, no me suena su cara. <if(gnum4,Recién llegada,Recién llegado)>, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CHEERFULENDLESS04949_000_201",
+      "hash": "7B19B4D4183393FE",
+      "target": "¡Esto es maravilloso, se lo digo yo! Me acabo de topar con un amigo muy querido de cuando vivía y llevamos horas recordando viejos tiempos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CHEERFULENDLESS04949_000_202",
+      "hash": "C675A2AE58FED320",
+      "target": "Bueno, puede que hayan sido más bien días. Aquí uno pierde la noción del tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CHEERFULENDLESS04949_000_203",
+      "hash": "61A9CC0E19EA4BC7",
+      "target": "Por cierto, ¿oyó antes el anuncio? Por mucho que me guste este lugar, me pregunto si la reina Sphene podrá sostenernos de verdad para siempre..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CHEERFULENDLESS04949_000_204",
+      "hash": "A36C5FB4DA2A47E2",
+      "target": "Aunque supongo que de nada sirve preocuparse por esas cosas. En fin, gracias a usted hemos hecho una pausa en la charla. ¡Ahora nos vamos a montar en góndola!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CALMENDLESS04949_000_205",
+      "hash": "37C59ECAB4512161",
+      "target": "Ah, buenas. ¿Usted también admirando las vistas de la Ciudad de los Canales? A mi mujer y a mí nos encanta este sitio."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CALMENDLESS04949_000_206",
+      "hash": "10E9E76826EDA9DA",
+      "target": "Ella y yo nos habíamos distanciado en vida, pero estar aquí nos dio la ocasión de reconciliarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CALMENDLESS04949_000_207",
+      "hash": "7E24553C5E4D24BC",
+      "target": "No podría estar más agradecido por poder volver a compartir estos pequeños momentos benditos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CALMENDLESS04949_000_208",
+      "hash": "D6229B1B6F3C78D3",
+      "target": "Ya no me queda ningún pesar. Salga bien o no el plan de Su Majestad, puedo descansar con el corazón en paz."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_CALMENDLESS04949_000_209",
+      "hash": "D2AD07C8F0ED554A",
+      "target": "En fin, seguimos nuestro camino, pero esperamos volver a coincidir. Hasta la próxima."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_210",
+      "hash": "A175B4FB63E4FB45",
+      "target": "¡Oiga! ¿Ha probado las palomitas de ese puesto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_211",
+      "hash": "F4EA2FB8BED28ABF",
+      "target": "¿No? ¡No sabe lo que se pierde!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_212",
+      "hash": "31415CBC069A8D99",
+      "target": "Me tengo por una sibarita, y créame si le digo que el clásico sabor a sal es asombroso. El punto de sal es sencillamente <italic(1)>exquisito<italic(0)>─no hay otra forma de describirlo. En cuanto prueba uno un puñado, es imposible parar hasta acabarlas."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_213",
+      "hash": "4BECFA7E01F1F187",
+      "target": "Y, cuando las haya probado, le animo a buscar otros puestos. Hay montones por todas partes, con delicias de todo tipo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_214",
+      "hash": "45F2BFD6179E7E07",
+      "target": "Y, así de memoria, otra recomendación... ¡el helado del Asilo Volcánico! Es tan cremoso, tan intenso y─"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SATISFIEDENDLESS04949_000_215",
+      "hash": "572D54185C0CC7EC",
+      "target": "\\<sorbo> Solo de pensarlo me ha entrado el antojo... Se acabó─¡voy ahora mismo a por uno!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_220",
+      "hash": "BEFB2564BF32F9AA",
+      "target": "¡Bienvenidos, bienvenidos! Echad un vistazo y avisadme cuando queráis pedir."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_221",
+      "hash": "1ECC9CE20968946C",
+      "target": "Tú también estás aquí por la recomendación de esa señora, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_222",
+      "hash": "58BAEC02F9D06BB5",
+      "target": "Me preguntaba de qué se alimentan los Perpetuos, así que me pareció una buena ocasión para averiguarlo."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_223",
+      "hash": "F15C98E1A7A6E507",
+      "target": "Vaya, ¿es la primera vez que coméis?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_224",
+      "hash": "0FB1A4EC0D1B30E8",
+      "target": "Aquí la comida se crea con éter y datos de memoria. Para nosotros sabe igual que la de verdad."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_225",
+      "hash": "08CB0BD8FE9BA464",
+      "target": "¿Qué me decís? ¿Os apetecen unas palomitas?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_226",
+      "hash": "F13A62A0C219B1A0",
+      "target": "Probemos, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_100_226",
+      "hash": "5D098357000124B7",
+      "target": "¡Así se habla! Buscad una mesa que os guste y os las llevo enseguida. Y no os preocupéis, no se cobra nada─aquí toda la comida es gratis."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_100_226",
+      "hash": "D3562CABE720C3F6",
+      "target": "Comida creada con datos de memoria... Me pregunto a qué sabrá para los vivos."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_110_226",
+      "hash": "8DF8221589FF5A31",
+      "target": "Bueno, como se suele decir, ¡solo hay una manera de averiguarlo!"
+    },
+    { "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_SYSTEM_000_227", "hash": "895DAFC2C9C8D2BA", "target": "Pruebas un puñado de palomitas. Aunque tienen textura, no percibes sabor alguno." },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_228",
+      "hash": "889312248ED6AC35",
+      "target": "Por los dioses... No sabe absolutamente a nada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_229",
+      "hash": "52821B6A3759C98E",
+      "target": "Eh, q-quiero decir... ¡está buenísimo! ¡Nunca había comido unas palomitas tan ricas!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_230",
+      "hash": "B34662BB3973834D",
+      "target": "Je, je, ¡por algo son nuestro producto estrella!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_231",
+      "hash": "64FECF9C62387C9E",
+      "target": "¿Y a ti qué te ha parecido?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_Q2_000_000",
+      "hash": "CAAE826B876DD8D5",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A2_000_001",
+      "hash": "27C7DE45D6331323",
+      "target": "¡Está fantástico!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A2_000_002",
+      "hash": "EA5E8FC9BDD98647",
+      "target": "¡El punto de sal es exquisito!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_A2_000_003",
+      "hash": "F8D8FF9B7C4A2C8E",
+      "target": "Es... interesante."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_233",
+      "hash": "122FECBCC5303C37",
+      "target": "¡Ja, ja, ja! ¡Siempre es especial ver comer por primera vez a los recién llegados!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_234",
+      "hash": "120E269B745F1BB1",
+      "target": "Son exactamente como la gente de Everkeep."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_235",
+      "hash": "D47B6C65F9960569",
+      "target": "Su espíritu de comunidad, sus sonrisas encantadas. Exactamente igual..."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_ERASTUS_000_236",
+      "hash": "D1BF53FF2A1BA009",
+      "target": "Gracias por la visita. ¡Volved cuando queráis!"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_237",
+      "hash": "10033DB71BDCBC64",
+      "target": "Por cierto, antes de esto me llamó la atención un joven cerca del canal. Parecía estar buscando algo, y con bastante desesperación."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_238",
+      "hash": "C4B38F77B2819438",
+      "target": "¿Tú por casualidad también lo viste?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_239",
+      "hash": "247EC5EB0E806981",
+      "target": "¿No? Reconozco que me pica la curiosidad por saber qué lo tiene tan alterado. ¿Me ayudas a buscarlo?"
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_240",
+      "hash": "9EBC7F13DF90469B",
+      "target": "Gracias. Vayamos al sitio donde lo vi."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_250",
+      "hash": "2FAC294A9AE9811F",
+      "target": "Parece que ya no anda por aquí cerca."
+    },
+    {
+      "gameKey": "quest/049/KinGmf104_04949#TEXT_KINGMF104_04949_GRAHATIA_000_251",
+      "hash": "A0A21F2ABD3FA639",
+      "target": "Sigamos buscando. Sea lo que sea lo que le preocupa, quizá podamos ayudarlo."
+    }
+  ]
+}

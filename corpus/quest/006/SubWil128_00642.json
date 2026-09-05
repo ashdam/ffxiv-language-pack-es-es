@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/006/SubWil128_00642",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_00", "hash": "A8F9F7D5BE636E48", "target": "La hermana Airell, de la Iglesia de San Adama Landama, está desbordada con el trabajo de la Orden." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_01", "hash": "A4EF3897E8A821FD", "target": "Hay demasiadas tumbas para que la hermana Airell pueda atenderlas a tiempo. Recoge seis ofrendas viejas de las tumbas en su lugar." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_02", "hash": "7441D1BD2AE7EDB6", "target": "Has recogido las ofrendas viejas de las tumbas. Vuelve a informar a la hermana Airell en la iglesia." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_SEQ_03", "hash": "ECA76845CC665B29", "target": "Parece que a la hermana Airell aún le queda algo por ordenar por la iglesia. Háblale de nuevo para otra tarea." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_00", "hash": "3E5D479BF01DF470", "target": "Recoger ofrendas viejas" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_TODO_01", "hash": "9A17AE7FC30FB24F", "target": "Entregar las ofrendas viejas a la hermana Airell" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_1", "hash": "CC92A4477CAB84BC", "target": "Bienvenid<if(gnum4,a,o)> a la iglesia de San Adama Landama. Soy la hermana Airell." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_2", "hash": "5FC333BD6331E436", "target": "Deduzco que no viene en peregrinación. Tiene aspecto de <if(gnum4,aventurera,aventurero)>. Si es así, ¿me atrevería a pedirle que ayude a cuidar del cementerio mientras esté aquí con nosotros?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_3", "hash": "EF2502863FCB5A2C", "target": "Las tumbas de aquí superan con creces a quienes las cuidamos. Solos, nos es imposible hacer todo lo que hace falta." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_4", "hash": "917A8606C639511B", "target": "¿Se encargaría de recoger las viejas ofrendas que hay esparcidas ahí fuera? Conté al menos seis en mi última ronda por el camposanto." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_10", "hash": "46E3B7C0D1D2DF46", "target": "¿Ha podido recoger las viejas ofrendas?" },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_11", "hash": "248AF9FFC29B6AB0", "target": "Gracias. \\<suspiro> Ojalá no quedara nada más por hacer. Pronto tendré que ocuparme de recoger los jarrones, urnas y aguamaniles desgastados. Los muertos duermen mejor en una tumba aseada." },
+    { "gameKey": "quest/006/SubWil128_00642#TEXT_SUBWIL128_00642_AIRELL_000_12", "hash": "F68F93B1DAD43A4F", "target": "No me falta trabajo que ofrecer, si le apetece aceptarlo. Vuelva a hablar conmigo cuando así lo sienta." }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/004/SubSea059_00471",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_SEQ_00", "hash": "1F51752F677AB31F", "target": "Grynewyda busca pioneros valientes capaces de domar la naturaleza salvaje para la Granja Summerford." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_SEQ_01", "hash": "A7CFBE8036CEE683", "target": "La iniciativa de colonización de la Almirante recompensa a los pioneros por poblar la frontera lominsesa, pero los piratas acabados que trabajan a las órdenes de Grynewyda no han sido diligentes en su labor. Si quieres ayudar, coge la pala del labrador en la cabaña cercana." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_SEQ_02", "hash": "BEDF1DB7527F5571", "target": "Has cogido la pala del labrador. Dirígete a la zona señalada y despeja las rocas y los escombros." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_SEQ_03", "hash": "52D6AF24824F7989", "target": "La frontera está despejada. Informa a Grynewyda de que has completado tu tarea." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_SEQ_04", "hash": "DB5A862B78BD1049", "target": "La Granja Summerford ha cumplido con la iniciativa de colonización de la Almirante. Aunque los piratas que envió la Almirante saben surcar los mares salvajes, aún tienen mucho que aprender sobre roturar la terca tierra." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_TODO_00", "hash": "19D564C17D91AAAC", "target": "Obtener la pala del labrador" },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_TODO_01", "hash": "8EB4754F162737F2", "target": "Retirar las rocas de la frontera con la pala" },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_TODO_02", "hash": "65E3C8C6F7E1E126", "target": "Recoger escombros de la frontera" },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_TODO_03", "hash": "3FB283A4D81D37F5", "target": "Informar a Grynewyda" },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_1", "hash": "43C9B927355068BC", "target": "La Granja Summerford está a cargo de la iniciativa de colonización de la Almirante. Se nos recompensa con generosidad por domar nuevas fronteras." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_2", "hash": "C4EE1586A6BCCB9F", "target": "Pero, si no cumplimos nuestra parte del trato, se nos retirará la subvención. Pese a ello, los piratas acabados prefieren pasarse los días holgazaneando." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_3", "hash": "40D3744DD7865146", "target": "Aún hay tiempo. Solo necesitamos despejar las rocas y los escombros para que la zona se considere colonizada." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_4", "hash": "9754AF9D8980A0EC", "target": "Si está <if(gnum4,dispuesta,dispuesto)> a ayudar, encontrará una pala fuera de esa cabaña de la ladera." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_11", "hash": "37BC06E9B7BD704E", "target": "Desde luego ha demostrado no ser de <if(gnum4,las,los)> que dejan que los obstáculos se interpongan en su camino." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_12", "hash": "3A4710E44DF0A894", "target": "Ojalá estos piratas supuestamente pioneros fueran la mitad de laboriosos que usted..." },
+    { "gameKey": "quest/004/SubSea059_00471#TEXT_SUBSEA059_00471_GRYNEWYDA_000_13", "hash": "A33C5EF823F14CB5", "target": "Expandir las fronteras está muy bien, pero la Almirante debería saber que las fronteras agrestes no se colonizan con holgazanes." }
+  ]
+}

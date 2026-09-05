@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/003/ClsThm021_00346",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_00", "hash": "ECBFACEE111EBF28", "target": "El maestro del gremio Cocobuki quiere medir los límites de tu aptitud taumatúrgica." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_01", "hash": "59DB3378045ABD65", "target": "Cocobuki te ha impuesto una prueba para medir los límites de tu aptitud para canalizar la taumaturgia. Ejercita tu poder hechicero y abate a tres huge hornets, tres star marmots y tres snapping shrews." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_02", "hash": "B475B058733BB144", "target": "Has abatido a las criaturas indicadas. Vuelve al Gremio de Taumaturgos e informa a Cocobuki." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SEQ_03", "hash": "221CA82B2429D9F4", "target": "Cocobuki te ha aceptado formalmente en las filas del Gremio de Taumaturgos. Sigue entrenándote y amplía tus reservas de resistencia mágica para adentrarte más en el abismo insondable de los misterios de la taumaturgia.<br><br>※La próxima misión de taumaturgo estará disponible con Cocobuki al alcanzar el nivel 5." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_00", "hash": "3D66A2C2DD4D68A8", "target": "Abatir a los star marmots como <if(gnum4,taumaturga,taumaturgo)>" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_01", "hash": "A7798E5D3996046C", "target": "Abatir a los huge hornets como <if(gnum4,taumaturga,taumaturgo)>" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_02", "hash": "EEDD085875E39791", "target": "Abatir a los snapping shrews como <if(gnum4,taumaturga,taumaturgo)>" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_TODO_03", "hash": "11991E44D834E775", "target": "Informar a Cocobuki en el Gremio de Taumaturgos" },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_1", "hash": "484A931DA761D45F", "target": "Je je je... El cetro complementa muy bien el ávido deseo de poder destructivo escrito en tus facciones." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_2", "hash": "8F2C65B8AF6BE43A", "target": "Ahora completaremos tu iniciación con una prueba que mida los límites de tu aptitud para canalizar la taumaturgia." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_3", "hash": "A2EC68CAE880AF90", "target": "Los huge hornets, los star marmots y los snapping shrews pueblan esta tierra en abundancia. Ejercita tu poder hechicero y abate a tres de cada una de estas criaturas antes de volver a mi lado." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_60", "hash": "6B80BA8FE0631A8B", "target": "Je je je... Tienes la mirada satisfecha de <if(gnum4,una maga,un mago)> que ha aniquilado por completo a sus enemigos. <split(<string(gstr1)>, ,1)>, te doy formalmente la bienvenida a la hermandad de taumaturgos." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_62", "hash": "8CCA8C9427FA637C", "target": "El propósito de esta prueba era medir tu capacidad para empuñar la taumaturgia; una cualidad innata cuyos límites están ligados al nivel de energía etérea que fluye por tu ser físico." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_63", "hash": "E5AB26CBAEC5558C", "target": "El éter, la esencia misma de la vida, existe en mayor o menor medida en toda criatura viva. Recuérdalo, pues es la ley más básica de la manipulación arcana." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_64", "hash": "4AEA8DE08F070EA8", "target": "A medida que crezca tu experiencia, crecerán tus reservas de resistencia taumatúrgica. El manantial de tu poder mágico también se ensanchará en respuesta a momentos de terror y apremio extremos." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_COCOBUKI_000_65", "hash": "7A088EBAD8EF36FD", "target": "Cuando te descubras buscando un mayor desafío, cuando de nuevo ansíes la emoción de un miedo exquisito, sabrás que ha llegado el momento de visitarme otra vez. Je je je je je..." },
+    { "gameKey": "quest/003/ClsThm021_00346#TEXT_CLSTHM021_00346_SYSTEM_000_100", "hash": "F68FE51B63C62742", "target": "La próxima misión de taumaturgo estará disponible con Cocobuki al alcanzar el nivel 5." }
+  ]
+}

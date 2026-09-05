@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/004/SubSea112_00409",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_00", "hash": "A17F541A700FC827", "target": "Al carrito de comida de la pobre Wafufu le faltan algunos almuerzos, y necesita ayuda para localizar las comidas perdidas." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_01", "hash": "81678C94CBFECBAF", "target": "Busca por los Astilleros de Moraby cuatro almuerzos perdidos." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_02", "hash": "42B1A0EC2C49735B", "target": "Has localizado los cuatro almuerzos. ¡Ahora llévalos a toda prisa de vuelta a Wafufu antes de que el capataz Ahtbyrm haga algo drástico!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_SEQ_03", "hash": "2225293F390208A4", "target": "Tus esfuerzos han ahorrado a Wafufu un destino terrible... que, con toda probabilidad, nunca le habría sobrevenido de todos modos (pero no se lo digas)." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_TODO_00", "hash": "DC5BB09D354FC74C", "target": "Encontrar los almuerzos perdidos de Wafufu" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_TODO_01", "hash": "4281BB6FFFBD43C0", "target": "Devolver los almuerzos a Wafufu" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_1", "hash": "97D339AC4B79137A", "target": "¡Ay de mí! Parece que he ido y he traspapelado cuatro de mis almuerzos. ¿Qué voy a hacer? ¡Oigo rugir la tripa de Ahtbyrm desde aquí mismo!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_2", "hash": "F018044E7AF09F6A", "target": "Estoy segura de que hice suficientes para todos, así que o se me han caído algunos, o se los he dado a quien no debía. Ah, ¿ha oído eso? Era la tripa de Ahtbyrm otra vez. No parece nada contento, ¿verdad?" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_3", "hash": "921164B927A958D5", "target": "Yo debo quedarme con mi carrito, pero, si pudiera buscar por los Astilleros a ver si encuentra esos almuerzos, le estaría eternamente agradecida. Hasta podría prepararle algo especi─ ¡Ah! ¿Ha visto eso? Ahtbyrm me acaba de echar el mal de ojo. Si esos almuerzos no aparecen pronto, ¡me temo que vendrá hasta aquí y se me comerá a <italic(1)>mí<italic(0)>!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_10", "hash": "F474C4CF29349F6C", "target": "\\<suspiro> No me lo digas. Has venido a por mi almuerzo. Lo veo en esos ojos acusadores que tienes." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_11", "hash": "79BFCA35E9ACB2E2", "target": "Claro que sabía de sobra que ninguno de estos almuerzos era para mí, siendo hoy mi día libre y todo eso. Pero nunca pensé que la pequeña Wafufu echaría en falta solo <italic(1)>uno<italic(0)>." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_LYNGSTYRM_000_12", "hash": "DDDFABF979B61322", "target": "Si te devuelvo el almuerzo, ¿me prometes que no mencionarás que fui yo quien lo cogió? No quiero que la chica piense que intentaba timarla... aunque más o menos era lo que intentaba... Pero eso no tiene por qué saberlo, ¿verdad? ¡Muy bien! ¡Continúa!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_20", "hash": "58C97ABA038D418A", "target": "¿Con que Wafufu necesita que le devuelvan uno de sus almuerzos, dices?" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_21", "hash": "46E8DADC2A1AF650", "target": "Y yo que empezaba a pensar que la chica se había fijado en mí. No es que sea mi tipo, ojo. A mí me gustan las mujeres unos palmos más altas... y unas ponzas más pesadas... <italic(1)>y<italic(0)> unos tonos más azules, si captas por dónde voy." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_MAETIMYND_000_22", "hash": "5E12B3999CBE5BB4", "target": "Aunque no me habría venido mal la comida extra. A un hombre se le abre buen apetito de tanto machacar, estirar y dar forma a planchas de hierro <if([gnum11<12],<if([gnum11<4],toda la noche,todo el día)>,<if([gnum11<17],todo el día,todo el día)>)>." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_30", "hash": "039D8EB248A7FFB2", "target": "Por favor, dígame que ha encontrado los almuerzos. ¡Le juro que Ahtbyrm se ha acercado varios pasos desde que se marchó!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_31", "hash": "8291C3250CABDC12", "target": "Uno, dos, tres... ¡cuatro! ¡Lo ha conseguido! ¡Ha encontrado todos los almuerzos perdidos!" },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_32", "hash": "D1E0EF3BF72D2DB7", "target": "Ahora, quizá, pueda descansar en paz, sabiendo que Ahtbyrm no dará rienda suelta a sus fantasías caníbales..." },
+    { "gameKey": "quest/004/SubSea112_00409#TEXT_SUBSEA112_00409_WAFUFU_000_33", "hash": "0FA14181999E7FB0", "target": "...al menos por hoy." }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/020/HeaVny803_02097",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SEQ_00", "hash": "341D7165B1CE8FC8", "target": "Lydirlona tiene una propuesta para alguien tan competente como tú." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SEQ_01", "hash": "1155828A73994DE5", "target": "Lydirlona cree que te vendría bien aprender sobre la reducción etérea. Aunque no tiene los conocimientos para explicarla en detalle, sabe quién sí: Kokosamu, uno de los muchos discípulos del maestro Mutamix. Búscalo en la Hoguera, en Thanalan Central, para recibir tu enseñanza." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SEQ_02", "hash": "336F89AF4C923FF7", "target": "La reducción etérea resulta ser un proceso bastante sencillo en el que se descomponen objetos en sus componentes etéreos básicos, como cristales u otros materiales raros. Sin embargo, parece que solo los objetos raros considerados collectables sirven para este fin, así que aún está por ver si resultará o no útil..." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_TODO_00", "hash": "58358ADE1C7831A8", "target": "Entregar la carta a Kokosamu en la Hoguera" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_000", "hash": "DD2BC0EE875201BF", "target": "Puesto que es usted <sheet(ClassJob,gnum68,0)> consumado por derecho propio, ¿acaso conoce ya la reducción etérea?" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_001", "hash": "C7E59D048B00B364", "target": "Puesto que es usted también <sheet(ClassJob,gnum68,0)> consumado por derecho propio, ¿acaso conoce ya la reducción etérea?" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_002", "hash": "3CBEA1D73132F2C4", "target": "Si me permite, <if(gnum4,señora,señor)>... es usted <sheet(ClassJob,gnum68,0)> consumado, ¿no es así? ¿Conoce acaso la reducción etérea?" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_003", "hash": "AD60E40E6C1640E2", "target": "En pocas palabras, permite descomponer un objeto en sus componentes etéreos básicos... o algo por el estilo." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_004", "hash": "090B8EA2BD21DB3E", "target": "Reconozco que el proceso es difícil de explicar para una profana. Kokosamu, discípulo del maestro Mutamix, estaría encantado de contarle más." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_LYDIRLONA_000_005", "hash": "58B7BBC0693D5501", "target": "Si Kokosamu se muestra reacio a enseñarle la reducción etérea, entréguele mi carta. Eso debería bastar para persuadirlo." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_010", "hash": "FEA69920D87BF93F", "target": "¿Vienes otra vez a darle a la lengua sobre <italic(1)>fusiones<italic(0)> o <italic(1)>transmutaciones<italic(0)> o lo que sea? ¿No?" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_011", "hash": "B048A159EA5CC4F4", "target": "Cuando el cacharro guerrero rebosa de airecillo vital... ¿Eh? ¿Qué se te ofrece?" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_012", "hash": "813AB79775510E51", "target": "¿Una carta? Quita eso de ahí. ¡Si querías saber de la reducción etérea, no tenías más que pedirlo!" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_013", "hash": "4212634880F5755A", "target": "Como su nombre indica, es un método pa' reducir los objetos a un estado más... primigenio, por así decirlo. Cristales, la mayoría de las veces." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_014", "hash": "9CF856494A4AE010", "target": "Y antes de que te pienses que así vas a librarte de toda tu basura inservible, piénsatelo mejor." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_015", "hash": "550B345929200BE1", "target": "Solo los objetos con cierta... ¿cómo lo diría? Ah, sí. «Collectability». Parece que solo los objetos raros valorados como collectables sirven pa' esto. Así que no es una decisión nada fácil de tomar." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_KOKOSAMU_000_016", "hash": "657E4FBBC96DDCD1", "target": "En fin, ¿por qué no lo pruebas? ¡Nunca sabes lo que te va a salir hasta que no lo intentas!" },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SYSTEM_000_017", "hash": "EBB282D901F9B63B", "target": "Ahora puedes usar la acción general <colortype(500)><edgecolortype(501)>reducción etérea<edgecolortype(0)><colortype(0)> y, con ella, descomponer los collectables no deseados en sus componentes etéreos básicos, como cristales." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SYSTEM_000_018", "hash": "5069358501A17682", "target": "Además de cristales, los collectables reducidos pueden proporcionar materiales raros de forma aleatoria." },
+    { "gameKey": "quest/020/HeaVny803_02097#TEXT_HEAVNY803_02097_SESTEM_000_019", "hash": "A34B500D5D4E6A9B", "target": "Ten en cuenta que este proceso es irreversible y los collectables se perderán de forma permanente." }
+  ]
+}

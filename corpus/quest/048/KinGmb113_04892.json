@@ -1,0 +1,312 @@
+{
+  "conversation": "quest/048/KinGmb113_04892",
+  "questName": "An Echo of Madness",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_SEQ_00", "hash": "44866D8AC4A86832", "target": "Alphinaud quiere tu ayuda para atender a los Yok Huy heridos." },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_00", "hash": "FBE45F116F0EF65C", "target": "Hablar con los Yok Huy heridos en el Eco de Worlar" },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_01", "hash": "E462D886B67421F1", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_02", "hash": "33017F93ADF4B955", "target": "Hablar con el guardia del templo" },
+    { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_TODO_03", "hash": "4545F514A492B349", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_001",
+      "hash": "31889D70B94C5A57",
+      "target": "¡Aguanta! ¡Enseguida vendrá un sanador a verte!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_005",
+      "hash": "794F5BA0DFE562F2",
+      "target": "Ya está, con eso debería bastar. Descansa un rato y estarás en pie en un santiamén."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_010",
+      "hash": "0FBCA7D12014B4C9",
+      "target": "Esto es una poción curativa de Sharlayan. Bébetela despacio."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_015",
+      "hash": "1F2204E8138EA918",
+      "target": "Te pondrás bien. Solo intenta evitar los movimientos bruscos para que no se te abran las heridas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KOANA_000_020",
+      "hash": "45C4342A1E8EB196",
+      "target": "Urianger dice que hay éter de fuego por todo el poblado. ¿Qué ha pasado aquí...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_THANCRED_000_025",
+      "hash": "5B2B8721558C25E3",
+      "target": "Muchos de los habitantes han sufrido quemaduras, pero el fuego no prendió en estos edificios de piedra. Es un pequeño consuelo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_URIANGER_000_030",
+      "hash": "3062820B718329E4",
+      "target": "Honda inquietud causa que Valigarmanda se haya liberado; mas forzoso es atender antes a quienes alcanzó el incendio."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_035",
+      "hash": "840D88B198C6CA37",
+      "target": "Si estás <if(gnum4,lista,listo)>, aquí hay muchos heridos que necesitan ayuda. Si encuentras a alguien inconsciente por sus heridas, te pido que me avises."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_036",
+      "hash": "9B72CC46EE72D9F4",
+      "target": "Yo, entretanto, atenderé a quienes necesiten cura más urgente. Nos reuniremos aquí cuando hayamos tratado las heridas de esta gente."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_040",
+      "hash": "61885474DF12BCFA",
+      "target": "Cuando hayamos atendido a los heridos, reuniré a todos en el sitio donde hablábamos antes."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_YORGERWOR_000_045",
+      "hash": "03ABFA54B67D971D",
+      "target": "Tú... <if(gnum4,La protectora,El protector)> de la Tercera Promesa..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_YORGERWOR_000_046",
+      "hash": "56AAF675BAC1C3E6",
+      "target": "Todo se bañó en un rojo intenso. Un calor abrasador me envolvió el cuerpo entero. No podía moverme..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_YORGERWOR_100_046",
+      "hash": "88E0501079977D94",
+      "target": "¿Qué nos ha pasado...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZURFERLAR_000_047",
+      "hash": "D94EB3266E9957DC",
+      "target": "\\<quejido>"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZURFERLAR_000_048",
+      "hash": "80AE650620C3771B",
+      "target": "Todo me arde... El roce de la tela es una agonía. Pero viviré. Déjame─hay otros que necesitan ayuda con mucha más urgencia."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZURFERLAR_100_048",
+      "hash": "666B729199BEF80C",
+      "target": "Es una gran fortuna que tú y tus compañeros hayáis venido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZERBORLOR_000_049",
+      "hash": "62CCA605ACF18EAE",
+      "target": "Ay..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZERBORLOR_000_050",
+      "hash": "EF0DD2A10DD079E7",
+      "target": "Mis heridas no son graves, pero esta sequedad de garganta... Es como si toda la humedad hubiera abandonado mi cuerpo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ZERBORLOR_100_050",
+      "hash": "84C4F6257BC4706C",
+      "target": "Que sean forasteros de allende la sal quienes vengan a socorrernos..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_060",
+      "hash": "9A31BC95BEBB2724",
+      "target": "Por ahora he hecho todo lo que he podido. Los heridos que encontraste estaban conscientes y lúcidos, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_061",
+      "hash": "928F2F268262C016",
+      "target": "Me alegra oírlo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_062",
+      "hash": "AF6050A0E799488C",
+      "target": "Hemos dejado a los heridos lo más cómodos que hemos podido."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_063",
+      "hash": "40568A2FDD17662D",
+      "target": "Muchos sufrían quemaduras en mayor o menor grado. ¿Es que un incendio arrasó el poblado?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_064",
+      "hash": "32C48D9DBD149484",
+      "target": "Los detalles no están claros..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_065",
+      "hash": "4D8E941911D216D2",
+      "target": "En cuanto curé al gigante al que atacó aquel pájaro de la montaña, el jefe del grupo─Vorporlor, creo que lo llamaban─me dijo que me marchara. Fue entonces cuando sentí una intensa oleada de éter y volví para encontrar el Eco de Worlar en este estado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_067",
+      "hash": "2696D0999180331F",
+      "target": "Corrí hacia el primer gigante que vi. Aun delirando de dolor, repetía la misma advertencia: Valigarmanda se había liberado. Por eso os avisé a toda prisa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_068",
+      "hash": "EC17475B446B2BB2",
+      "target": "Pues vamos a necesitar bastante más información que esa antes de poder afrontar la situación."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_069",
+      "hash": "F5FF913148A06A67",
+      "target": "¡Sí, deberíamos hablar con el guardián del templo y ver qué ha sido de la prisión de la Ruina del Cielo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_080",
+      "hash": "98730F279378C017",
+      "target": "¡Tenemos que averiguar exactamente qué está pasando!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_085",
+      "hash": "09E644ACB004174E",
+      "target": "Dijeron que la prisión empezaba a fallar, pero yo estaba segura de que aguantaría unos años más, como mínimo. ¿Me equivoqué?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_090",
+      "hash": "22460EDEF34ADF27",
+      "target": "El Gran Lumbrera ya habrá vuelto. Ojalá haya averiguado más que nosotros..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_095",
+      "hash": "A45AD0DFCB6F20B1",
+      "target": "Me alegraría descubrir que todo esto ha sido un malentendido... Vana esperanza, a juzgar por lo que veo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_100",
+      "hash": "02F4543CFB13FF6F",
+      "target": "Las respuestas que haya nos esperan dentro del templo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_YOKHUYGUARD04889_000_105",
+      "hash": "988D57788EDE833A",
+      "target": "El Gran Lumbrera os concede la entrada y os espera dentro."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_110",
+      "hash": "7847AB91BAFEFC60",
+      "target": "Dos hechiceros soltando magia de fuego en el mismo instante exacto... Una hazaña imposible salvo para un Mamool Ja bicéfalo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_115",
+      "hash": "7C3C7B7A926816DA",
+      "target": "Cuando dije que asumiría las funciones de guía, eso no incluía rastrear tural vidraal antiguos y terribles. Aun así, no podemos dejar a Valigarmanda libre para arrasar la tierra."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_120",
+      "hash": "9298E2C0111B5754",
+      "target": "Si un aspirante lo bastante temerario como para liberar a la Ruina del Cielo llegara a Servidor del Alba, ¿qué sería de Tuliyollal?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_125",
+      "hash": "0BE4833D20DE78CE",
+      "target": "Ese canalla de Bakool Ja Ja─¡está podrido hasta la médula! ¡No tiene nada de “bendito”!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_130",
+      "hash": "961FA84C4CB85CDF",
+      "target": "Bueno, Erenville. ¿Alguna idea de cómo podemos rastrear a Valigarmanda?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_131",
+      "hash": "8A97AAECFDF03415",
+      "target": "El método de toda la vida, cotejar avistamientos con otros rastros de su paso, es el más fiable. Pero también el más lento."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_132",
+      "hash": "76749EB7182CF88E",
+      "target": "Hay una segunda opción... No tan fiable como la primera, pero, con suerte, nos permitirá determinar el paradero de la Ruina del Cielo mucho antes."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_133",
+      "hash": "043D98B5AEEA201E",
+      "target": "Aunque sea un tural vidraal de naturaleza extraordinaria, Valigarmanda sigue siendo una criatura de este mundo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_134",
+      "hash": "E6494248E98617AB",
+      "target": "Como tú y como yo, se sostiene con energía corporal y posee un equilibrio etéreo único. Lo que significa que este aparato nos va a echar una <italic(1)>mano<italic(0)>."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_100_135",
+      "hash": "05206F42DB1DA199",
+      "target": "¿¡Una mano flotante!? ¡No es momento de jugar con juguetes!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_135",
+      "hash": "598FD3B9EEF6578E",
+      "target": "No es ningún juguete─es un rastreador de éter. Como su nombre indica, los espigadores lo usan para detectar el éter de los seres vivos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_136",
+      "hash": "07F1EC6CC516C4CF",
+      "target": "¿Y eso lo has llevado en la mochila todo este tiempo...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_137",
+      "hash": "2BDDB4E25DA3E93E",
+      "target": "Puedo calibrarlo para que siga un aspecto etéreo concreto. El problema con Valigarmanda es que cambia libremente entre los elementos de fuego, hielo y rayo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_138",
+      "hash": "81304B75F535C6E2",
+      "target": "Bueno, sabemos que, para despertar a Valigarmanda de su prisión de hielo, Bakool Ja Ja lanzó hechizos que avivaron su éter de aspecto ígneo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_139",
+      "hash": "CF4E3C69848E3D1A",
+      "target": "Y los habitantes de aquí sufrieron quemaduras sin excepción."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_140",
+      "hash": "BA95554232FA32DB",
+      "target": "Por tanto, la conclusión lógica es que, al liberarse, Valigarmanda desató una gran llamarada."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_141",
+      "hash": "DF5DE9AF2DE10C1E",
+      "target": "Entonces la elección está clara. Fuego."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_142",
+      "hash": "AB823CCF952B52EB",
+      "target": "El rastreador, eso sí, no es infalible. Como no hemos podido introducir de antemano la firma etérea concreta de nuestra presa, el aparato responderá a <italic(1)>cualquier<italic(0)> fuente viva de éter de aspecto ígneo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_KRILE_000_143",
+      "hash": "0C9A195806A34090",
+      "target": "Así que tenemos el método fiable─pero lento─de recabar información, frente a la herramienta de espigador, potencialmente rápida─pero fácil de despistar. ¿Y por qué no seguir los dos a la vez?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_144",
+      "hash": "C8488C97C90E6026",
+      "target": "¡Buena idea! ¡Si el segundo falla, siempre nos queda el primero!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_145",
+      "hash": "E152D3F623680E4F",
+      "target": "Entonces tú te vienes conmigo, <split(<string(gstr1)>, ,1)>. Por si el rastreador me lleva hasta alguna otra alimaña ígnea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALISAIE_000_146",
+      "hash": "6A57F6B71CCB6428",
+      "target": "Los demás nos quedamos aquí y hablamos con los testigos. Cuantos más avistamientos de la Ruina del Cielo podamos cotejar, más precisa será nuestra información."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_000_147",
+      "hash": "F643F038A498CEA8",
+      "target": "Si nadie tiene objeción, me quedaré aquí en el poblado atendiendo a los Yok Huy."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ALPHINAUD_100_147",
+      "hash": "DF5DB8CE3D52E487",
+      "target": "Muy pocos están graves, pero desconfío de las heridas causadas por una criatura como Valigarmanda. Prefiero estar cerca por si su estado empeora de repente."
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_WUKLAMAT_000_148",
+      "hash": "F5F290A13BB9B1CD",
+      "target": "¡Muy bien, parece que todos tenemos trabajo!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_149",
+      "hash": "AB692D9F219F7C4A",
+      "target": "Nosotros también deberíamos ponernos en marcha."
+    }
+  ]
+}

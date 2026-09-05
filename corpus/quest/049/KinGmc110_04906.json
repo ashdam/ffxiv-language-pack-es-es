@@ -1,0 +1,348 @@
+{
+  "conversation": "quest/049/KinGmc110_04906",
+  "questName": "Scale of Trust",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_SEQ_00", "hash": "3F7675F3333CD838", "target": "Alphinaud está listo para reunir a la gente." },
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_TODO_00", "hash": "2F5F8A8722487056", "target": "Mostrar blessed scale a los ciudadanos de Mamook" },
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_TODO_01", "hash": "D0D0995B9FB52E00", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_TODO_02", "hash": "E7A889DEBDBD7F07", "target": "Mostrar blessed scale al trabajador de la Arboleda de Golmajiik" },
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_TODO_03", "hash": "64867B7F601E99C7", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_TODO_04", "hash": "B25BF053C30964B3", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_KRILE_000_001",
+      "hash": "4D0733D2D1FBD0BE",
+      "target": "Es asombroso cómo Wuk Lamat conecta con cualquiera. Tiene un don increíble."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ERENVILLE_000_002",
+      "hash": "1F402CAB4B5B765B",
+      "target": "Y pensar que tras los hermanos benditos había un secreto tan oscuro... Ni siquiera entre los Mamool Ja imagino que muchos sepan toda la verdad─y menos aún los que residen en la capital."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_003",
+      "hash": "DCC0CF2FD9252877",
+      "target": "La única forma de ayudar a Mamook es entender a Mamook. ¡No le vamos a fallar a Bakool Ja Ja!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALISAIE_000_004",
+      "hash": "C70CC3B375DA7417",
+      "target": "...A veces lo mejor es perdonar sin más y seguir adelante. Puede ser difícil─dioses, y tanto que lo sé─pero eso es razón de más para esforzarse al máximo en mirar más allá del agravio y hacer borrón y cuenta nueva."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALPHINAUD_000_005",
+      "hash": "B5E4E868078375AE",
+      "target": "No tenemos un momento que perder."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALPHINAUD_000_006",
+      "hash": "06A3F79ACA28D602",
+      "target": "Según Miilal Ja, Moxutural Zooj es un asentamiento abandonado al noroeste de la ciudad. Debería darnos la intimidad que necesitamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALPHINAUD_100_006",
+      "hash": "88E8C74BA3BC10A2",
+      "target": "Debemos darnos prisa, no vaya a ser que Zereel Ja descubra nuestras intenciones. Por suerte, Bakool Ja Ja tuvo la idea de darnos escamas de más, así que podemos abarcar más terreno en menos tiempo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_007",
+      "hash": "3CAE5DFCACB22FC8",
+      "target": "Que cada uno coja una y se ponga en marcha. Usadlas para reunir a toda la gente que podáis."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_008",
+      "hash": "385309A423FB20AC",
+      "target": "<split(<string(gstr1)>, ,1)>, vamos a rehacer el camino. Puede que esta vez consigamos que la gente nos preste oído."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_010",
+      "hash": "EE3C43D7DC79D264",
+      "target": "¡Mira! ¡Ya he hecho una amistad nueva!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_011",
+      "hash": "D0D92D3914E7F9AF",
+      "target": "..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_012",
+      "hash": "8D5F86F1EE4C1AD1",
+      "target": "...Esa escama. Si los benditos confían en ti, yo también lo haré."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_013",
+      "hash": "9FCE36BAFF586DC6",
+      "target": "Y bien, ¿qué necesitas de mí?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_014",
+      "hash": "348DC00DFA27E30D",
+      "target": "¿Bakool Ja Ja nos convoca en Moxutural Zooj?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_015",
+      "hash": "16174A96C8DA86A8",
+      "target": "Extraño lugar para una asamblea, pero está bien. No le negaré nada a quien lucha por nuestros sueños."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_016",
+      "hash": "EA3E97940C74637D",
+      "target": "¿No te dije que siguieras tu camino? ¡No pueden verme hablando con los de tu clase!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_017",
+      "hash": "6464E797D47FE823",
+      "target": "¿Una escama bendita? ¿En manos de alguien de fuera? ...¿Qué asunto te trae?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_018",
+      "hash": "F1FAECCE5A12AC49",
+      "target": "Así que Bakool Ja Ja te ha enviado a convocar una asamblea... No sé qué pensar de esto, pero iré a Moxutural Zooj de inmediato."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_020",
+      "hash": "AE92AADDCEB841AF",
+      "target": "¿Has conseguido convencer a alguno de estos buenos vecinos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_021",
+      "hash": "5AA1A4B1C3713DF2",
+      "target": "¡Estupendo! El estimado Bakool Ja Ja se alegrará. Este de aquí también irá a Moxutural Zooj."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_022",
+      "hash": "BBF43A568F42CC89",
+      "target": "Por lo visto, al oeste hay un vivero de najool que se llama la Arboleda de Golmajiik. ¿Puedes acercarte a ver con quién puedes hablar allí también?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_023",
+      "hash": "CF2AE222AE637331",
+      "target": "Después nos vemos en Moxutural Zooj. ¡Solo me queda una persona más por encontrar!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABANANA04906_000_046",
+      "hash": "80A866145E2E14ED",
+      "target": "Vete de aquí, <if(gnum4,forastera,forastero)>."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABANANA04906_000_047",
+      "hash": "C057E517FCA04D56",
+      "target": "¡Ah! Disculpa, no lo sabía. Te agradezco, <if(gnum4,portadora,portador)> de la escama bendita, que me traigas noticia de esta reunión."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABANANA04906_000_048",
+      "hash": "C991002BC03F6790",
+      "target": "Partiré a Moxutural Zooj de inmediato."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABANANA04906_000_050",
+      "hash": "1E962D2925007AC9",
+      "target": "Ahora que lo pienso, ¿por qué te habrá dado Bakool Ja Ja su escama...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_051",
+      "hash": "24031963BBA14F31",
+      "target": "Qué lugar más curioso para reunirse..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_052",
+      "hash": "7AD9DC52D067F18D",
+      "target": "Sea lo que sea lo que Bakool Ja Ja requiera de mí, con gusto se lo daré."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALISAIE_000_060",
+      "hash": "1B00AE9AD063DBDB",
+      "target": "¿Dónde está Wuk Lamat?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_061",
+      "hash": "5C1FEFBC7A3AC734",
+      "target": "¡Perdón por la espera!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALPHINAUD_000_062",
+      "hash": "7C6667798BFAD5FF",
+      "target": "¿También has invitado a la Segunda Promesa?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_KOANA_000_063",
+      "hash": "C0D06CC9F284203E",
+      "target": "\\<suspiro> Lamaty'i. ¿Hace falta que te recuerde que este rito es una competición?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_KOANA_000_064",
+      "hash": "4476B1119EE565FF",
+      "target": "Cualquier ventaja que vayas a compartir conmigo deberías aprovecharla en tu propio beneficio. Yo apenas he avanzado nada comunicándome con los del lugar─a este paso, vas por delante en la carrera hacia la ciudad dorada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_065",
+      "hash": "84261B1B819EEDB5",
+      "target": "Necesito tu ayuda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_KOANA_000_066",
+      "hash": "23C13B0500A1A384",
+      "target": "¿Para superar la prueba?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_067",
+      "hash": "12EBC38868BFB783",
+      "target": "No, no. Mamook tiene un problema que yo sola no puedo resolver, y tú eres la persona más lista que conozco."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_068",
+      "hash": "32492FB3EEF6A175",
+      "target": "Quiero que oigas a la gente de primera mano, para que entre los dos demos con la manera de ayudarlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_KOANA_000_069",
+      "hash": "8D554EA7479B710C",
+      "target": "Muy bien. Estoy a tu disposición."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_070",
+      "hash": "100AB539E851E837",
+      "target": "¡Gracias a todos por reuniros con tan poco aviso! Soy Wuk Lamat, Tercera Promesa de Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWAMALEUNFRIENDLY_000_071",
+      "hash": "FF1C50CA04E5F916",
+      "target": "¿Promesa? ¡Creía que servías a Bakool Ja Ja!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_072",
+      "hash": "0D84BDB8E8D94B07",
+      "target": "¿¡Nos has engañado!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BAKOOLJAJA_000_073",
+      "hash": "93133D1BC9B9C085",
+      "target": "No. No os han engañado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BAKOOLJAJA_000_074",
+      "hash": "46D0D5433A23A684",
+      "target": "Las escamas que os han mostrado son mías. Se las confié a la Tercera Promesa y a su séquito."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_075",
+      "hash": "4C9BEB729EC1B002",
+      "target": "¿Por qué honrar así a estos forasteros?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BAKOOLJAJA_000_076",
+      "hash": "15B1280377527242",
+      "target": "Porque Wuk Lamat se ha ganado mi confianza. Ahora, escucharéis sus palabras."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_077",
+      "hash": "7085B8E9BCEB96EB",
+      "target": "Bakool Ja Ja me contó la verdad sobre los hermanos benditos. Sobre el precio que pagáis por concebirlos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_078",
+      "hash": "D6A89F06B3FE502A",
+      "target": "Como alguien ajeno a vuestra comunidad, no me corresponde juzgaros ni a vosotros ni a vuestra cultura."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_079",
+      "hash": "1E2BDCD3EA83BC37",
+      "target": "La cultura nace de las experiencias de su gente. De sus vidas y de su tierra."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_080",
+      "hash": "55A5EF1D261A5CAE",
+      "target": "Pero se me parte el corazón al saber que la vuestra os ha traído tanto sufrimiento."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_081",
+      "hash": "1FE1B8EC5546F0B2",
+      "target": "Si alguien aquí desea romper el ciclo de tragedia que exige crear hermanos benditos, os pido que os unáis a nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BAKOOLJAJA_100_081",
+      "hash": "FEABB83C31FDE346",
+      "target": "Por favor. No quiero que muera ni un niño más de los nuestros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_200_081",
+      "hash": "C99E6FB97F9B2CAA",
+      "target": "¿¡Te crees que <italic(1)>queremos<italic(0)> esto!?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_082",
+      "hash": "23921D1CDE98D47F",
+      "target": "¡No tenemos elección! Solo los hermanos benditos pueden liberarnos de nuestro sufrimiento. ¡Sin ellos no tenemos nada!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BAKOOLJAJA_000_085",
+      "hash": "7B4619E35A7D758A",
+      "target": "Eso está por ver. Hablad con la Tercera Promesa. Compartid con ella vuestras inquietudes y vuestro dolor, y juntos quizá encontremos un camino nuevo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_100_086",
+      "hash": "E722EA7AF79F05CD",
+      "target": "¿Juntos...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_086",
+      "hash": "D63C8C744E3770B9",
+      "target": "Si es de fiar... entonces hablaré con ella."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_MIILALJA_000_087",
+      "hash": "0A1ABC640E9816A8",
+      "target": "Sería mejor que te retirases, hijo. Muchos aún no pueden hablar con libertad en tu presencia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_ALISAIE_000_088",
+      "hash": "E21740973832AE4E",
+      "target": "Estemos atentos por si aparece Zereel Ja. No se tomaría bien una reunión así."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_089",
+      "hash": "68304920A3F62DC9",
+      "target": "Cuando entendamos las preocupaciones de todos, estaremos mejor preparados para ayudarlos. Asegurémonos de que se sientan escuchados."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOFEMALECONFUSED_000_094",
+      "hash": "F29FD40B4541F797",
+      "target": "Aunque Bakool Ja Ja confíe en la Tercera Promesa, no sé si me siento cómoda hablando de esto con ella..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABANANA04906_000_095",
+      "hash": "3A351DEC9D727B31",
+      "target": "¿Poner fin a los hermanos benditos...?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_HOOBIGOMALESHOP_000_096",
+      "hash": "8AD462D71109F2D5",
+      "target": "La fe en los hermanos benditos y en la salvación que traerían me ha sostenido años y años. Pero si hay otro camino... si la Tercera Promesa puede ayudarnos de verdad..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_BOONEWABLUNT04904_000_097",
+      "hash": "DFA07D68B52DCF57",
+      "target": "No sé qué pensar ni qué sentir sobre esto..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_MIILALJA_100_097",
+      "hash": "537AFE44C9271F44",
+      "target": "Seguro que mi hijo habría preferido quedarse, pero su sola presencia sigue condicionando mucho el comportamiento de nuestra gente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_098",
+      "hash": "796BE75ADBA00433",
+      "target": "Me alegro de que Koana accediera a ayudarnos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_099",
+      "hash": "1B17BE9384089BF8",
+      "target": "Siempre se le ha dado bien resolver problemas complicados. A mí no tanto─pero apoyaré a la gente de Mamook como pueda."
+    },
+    {
+      "gameKey": "quest/049/KinGmc110_04906#TEXT_KINGMC110_04906_WUKLAMAT_000_100",
+      "hash": "ACF78E20FFC344D8",
+      "target": "Combinando nuestras respectivas fuerzas, les ayudaremos a descubrir una nueva fuente de esperanza. ¡Sé que lo haremos!"
+    }
+  ]
+}

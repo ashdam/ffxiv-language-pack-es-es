@@ -1,0 +1,674 @@
+{
+  "conversation": "quest/052/KinGmg105_05248",
+  "questName": "Guidance of the Hhetso",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SEQ_00", "hash": "7E8388D7DD5D14B7", "target": "La preocupación se lee con claridad en el rostro de Geode." },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_00", "hash": "9D77F792123C3B6C", "target": "Hablar con Wawlika en los Manantiales de Sheshenewezi" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_01", "hash": "A8C6BF9A42E3C5D7", "target": "Hablar con Hhwato" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_02", "hash": "BBE8385E59544791", "target": "Hablar con Shepetto" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_03", "hash": "1F70CA9DC94171F6", "target": "Hablar con el Hhetsarro parlanchín" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_04", "hash": "819CEAB45BAAE1E5", "target": "Examinar al rroneek desaliñado" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_05", "hash": "7A098472ED083E33", "target": "Dar el mending kit al Hhetsarro apurado" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_06", "hash": "6D270FC403A20124", "target": "Hablar con la Hhetsarro juguetona" },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_TODO_07", "hash": "635AD84DD5065427", "target": "Hablar con Shepetto" },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_001",
+      "hash": "4513C729C9160E0A",
+      "target": "Comparto la preocupación de nuestros amigos. No sorprende que a los alejandrinos les cueste sobrellevar el duelo... pero aun así..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GULOOLJA_000_005",
+      "hash": "A2735A8CA88FBC52",
+      "target": "Yo me quedo aquí con Shale. Solo con mirarla aprendo un montón."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KRILE_000_010",
+      "hash": "62FEE3AE043540DE",
+      "target": "Sospecho que la situación de los alejandrinos les recuerda a Alphinaud y a Alisaie la de los garleanos. No es de extrañar que se sientan obligados a ayudar en lo que puedan."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GRAHATIA_000_015",
+      "hash": "3738050E2920CC38",
+      "target": "Me crucé con algunos miembros de Oblivion de vuelta hacia aquí. Ellos también volvían de presentar sus respetos a Sphene."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_030",
+      "hash": "830A6E6B1B85AC60",
+      "target": "Alisaie no se equivoca. El ambiente ahí fuera sigue siendo sombrío."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_031",
+      "hash": "362A7226835EE8E7",
+      "target": "Algunos de Tural recuerdan una época anterior al sistema de almas, pero hasta ellos están inquietos y se preguntan si podrán reunirse con viejos amigos y familiares antes de morir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_032",
+      "hash": "62B27FA6CD6E9527",
+      "target": "Y con razón. El viaje de vuelta no será fácil para los que han envejecido."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_100_032",
+      "hash": "9065018CC0C730D7",
+      "target": "Por eso los que se han ido a Tural han sido sobre todo los jóvenes─los que no tienen mayores a su cargo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_033",
+      "hash": "EAFE24FF0C95A74E",
+      "target": "Ese problema nos ha llegado también a Tuliyollal. Mi hermano hace todo lo posible por devolver el ferrocarril de Xak Tural al servicio, para que la gente pueda ir y venir con más libertad."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_034",
+      "hash": "A7C3BC51F195AC1A",
+      "target": "Por desgracia, las vías solo llegan hasta la Vanguardia, así que habrá que hacer parte del camino a pie..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_035",
+      "hash": "08B63FF2AE2B1541",
+      "target": "Aun así, el ferrocarril facilitaría mucho las cosas. ¿Cuánto falta para que vuelva a funcionar?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_036",
+      "hash": "517D42EBD673970C",
+      "target": "No sabría decirte. Cuando salí para este viaje, Koana no parecía dispuesto a prometer nada..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_037",
+      "hash": "7BA6F82878978AFA",
+      "target": "...Pero, mientras Shale trabaja con los datos, podríamos ir a ver cómo va con nuestros propios ojos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_038",
+      "hash": "3E66E5C35F150C99",
+      "target": "¡A la Estación de Shaaloani, pues! Yo me encargo de mantener informado a Koana."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GULOOLJA_000_040",
+      "hash": "37A58A9A53692491",
+      "target": "¡Saluda a Koana de mi parte!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KRILE_000_045",
+      "hash": "16C29537ACA91F27",
+      "target": "Raha y yo estaremos pendientes de todo por aquí mientras no estáis."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GRAHATIA_000_050",
+      "hash": "4D519D2FFEB25DE2",
+      "target": "Me asombraría que pudieran restablecer el servicio ferroviario tan rápido. La locomotora quedó casi destruida al chocar contra la cúpula..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHALE_000_055",
+      "hash": "132ED8E39D08BF6A",
+      "target": "Tendrás tiempo de sobra mientras yo trabajo en esto. Créeme."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_GEODE_000_060",
+      "hash": "2A7EA847153611B5",
+      "target": "Avisadnos si hay buenas noticias sobre el ferrocarril. Podemos difundirlas por nuestra red y así tranquilizar a alguno."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_065",
+      "hash": "44BBE1F10FAC289E",
+      "target": "Ya he puesto a Koana al corriente. Pide que sigamos apoyando a los alejandrinos lo mejor que podamos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_NITOWIKWE_000_070",
+      "hash": "7EA6FF51B2BD4343",
+      "target": "Las operaciones siguen suspendidas, pero intentamos ser optimistas. Y me alegra veros con buen aspecto."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_000_100",
+      "hash": "AC957822BD090A56",
+      "target": "¡Juramento de la Resolución! Y <string(gstr1)>, además. ¿En qué puedo serviros?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_101",
+      "hash": "2BCD3CA1A10CF55A",
+      "target": "Esperamos buenas noticias sobre el ferrocarril. Cada vez hay más gente que quiere volver a Tural y no puede hacer el viaje a pie."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_000_102",
+      "hash": "CFB587EC71923C5C",
+      "target": "Ya veo. Da la casualidad de que el Juramento de la Razón también viene de camino a evaluar la situación."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_100_102",
+      "hash": "A5ED30EBE817D071",
+      "target": "...Ah, olvidad lo de “de camino”."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_Q4_000_000",
+      "hash": "094A0B9E1D17B6DB",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A4_000_001",
+      "hash": "2343C45B7D1F25DD",
+      "target": "¡Buena pinta, Erenville!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A4_000_002",
+      "hash": "4053CEFE7667BFDC",
+      "target": "¡Ahí va! ¿¡A nuestro conejito se le ha quedado pequeña por fin la ropa vieja!?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_200_102",
+      "hash": "758A30B3BB451C43",
+      "target": "Como la cofradía ha aprobado oficialmente mi paso de espigador a contratista independiente, necesitaba una vestimenta más acorde."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_300_102",
+      "hash": "C96CE641200A7A97",
+      "target": "\\<suspiro> Déjalo ya. Como bien sabes, mi ropa anterior era la de un espigador, y he elegido otro camino. Tocaba un cambio."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_103",
+      "hash": "6CA1D3A7503BC2F2",
+      "target": "¿Tú también estás aquí por lo del ferrocarril?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_000_104",
+      "hash": "C4D9292B40232F49",
+      "target": "En parte fue por mí por lo que se sacrificó el Fuego del Alba original, así que me pareció justo ayudar con su sustituto."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_100_104",
+      "hash": "90657BF103D1C251",
+      "target": "Hablando de eso..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_105",
+      "hash": "5B34E9D7B562960F",
+      "target": "Doy por hecho que Lamaty'i os ha explicado la urgencia creciente. ¿Qué tenéis que informar?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_000_106",
+      "hash": "4B0F1C646EC4A1AE",
+      "target": "La nueva locomotora <italic(1)>iba<italic(0)> camino de estar lista, pero nos cuesta meterla en la estación, por así decirlo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_000_107",
+      "hash": "2FBB82FEE428E9EE",
+      "target": "Verás, cuando usamos el Fuego del Alba para entrar en la cúpula, la urgencia pesaba más que todo lo demás, pero ahora volvemos al problema de siempre: cómo hacer circular el tren sin molestar a los de Mehwahhetsoan."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_000_108",
+      "hash": "D5AB7A700B3A2189",
+      "target": "Es decir, los rroneek. Aunque a los Hhetsarro que los siguen tampoco les hace gracia que el ruido de la locomotora asuste a sus hhetso."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_109",
+      "hash": "3B31C9D29F311DC0",
+      "target": "La solución que he ideado para silenciar el ferrocarril debería atender esa queja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_110",
+      "hash": "663460205EE65F87",
+      "target": "Pero un tren silencioso presenta otro peligro. Habrá que disuadir a los rroneek de cruzar las vías."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_NITOWIKWE_000_111",
+      "hash": "22007890C7477D51",
+      "target": "...Y supongo que no podemos limitarnos a tocarles el silbato, o entrarán en pánico y volverán a dejar de pastar."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_112",
+      "hash": "6021296FADAB20E9",
+      "target": "Pero ¿el trazado de las vías no se hizo para evitar las zonas de pasto preferidas de los rroneek?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_113",
+      "hash": "5154E800B3A74418",
+      "target": "Es raro que se acerquen tanto, para empezar..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_000_114",
+      "hash": "7A1D248EE7F5D931",
+      "target": "Los hábitos de pasto de los rroneek han cambiado desde que se tendieron las vías. No sé por qué, pero pienso preguntarles a los de Mehwahhetsoan qué opinan."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_115",
+      "hash": "F7F4875CCE523CD6",
+      "target": "Como principal impulsor del ferrocarril, tengo el deber de ayudar en esto, y yo también quiero oír lo que los Hhetsarro tengan que decir. Al fin y al cabo, son los más afectados."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_000_116",
+      "hash": "93150D6E86126AEF",
+      "target": "Creo que lo mejor sería empezar consultando a su líder, Hhwato. Los demás podéis acompañarnos al campamento Hhetsarro si queréis."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WAWLIKA_000_120",
+      "hash": "5183580101099ECC",
+      "target": "De momento seguiremos con la locomotora silenciosa según lo previsto. Esperemos que lo que se os ocurra no exija rehacerlo todo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_NITOWIKWE_000_125",
+      "hash": "726CBF0A673246C7",
+      "target": "Los rroneek cambiaron de zonas de pasto hace bien poco. Antes no se acercaban tanto a las vías."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_000_130",
+      "hash": "B68BCFDEC653F1FE",
+      "target": "¡Y pensar que todo esto se recoge en un momento para ir adonde lleven los rroneek!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_ERENVILLE_000_135",
+      "hash": "5246AC6427ACA38B",
+      "target": "Nuestra visita anterior a los Hhetsarro también fue por asuntos del ferrocarril. Ojalá no nos tomen por <italic(1)>fanáticos de los trenes<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_140",
+      "hash": "D89257D7D485D179",
+      "target": "Por muy apegados que estén los Hhetsarro a la tradición, son receptivos a lo desconocido... o eso me han dicho."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_145",
+      "hash": "371D35FA97FEBC56",
+      "target": "Ese es Koana, el Juramento de la Razón, ¿verdad? Casi no me lo creo..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_200",
+      "hash": "137A8C78E289EF48",
+      "target": "Juramento de la Resolución, Juramento de la Razón. Bienvenidos a nuestro campamento. Pero ¿qué los trae hasta Mehwahhetsoan?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_201",
+      "hash": "E6F9B8DFAE9A5011",
+      "target": "Le agradezco que nos reciba. Nuestra visita tiene que ver con el ferrocarril de Xak Tural..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_202",
+      "hash": "96FCB0B1FFD9AA3D",
+      "target": "Así que ustedes también han notado el cambio inesperado en el comportamiento de los rroneek."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_203",
+      "hash": "45B5D3B6EEFBD233",
+      "target": "Mi hijo, Shepetto, se ha estado ocupando de este asunto. ¿Shepetto?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_204",
+      "hash": "BA994F69A24D51C2",
+      "target": "Normalmente los rroneek se quedarían un tiempo más en sus terrenos preferidos de por aquí. Y, pese a buscar a fondo, no hemos hallado nada malo en la cantidad ni en la calidad del pasto de Pyariyoanaan y Yawtanane."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_205",
+      "hash": "E9AEE780F96B6471",
+      "target": "Y aun así se niegan a quedarse donde suelen y empujan hacia el oeste, hacia su ferrocarril."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_206",
+      "hash": "69A1C162A4AB8B65",
+      "target": "Desde luego, no veo causa para esta migración fuera de temporada. Aun así, si siguen desplazándose al oeste, nosotros los seguiremos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_207",
+      "hash": "A3B6A94EEB890D10",
+      "target": "...Como haría cualquier Hhetsarro de verdad, supongo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_209",
+      "hash": "6CF7CAF12A498A32",
+      "target": "Como habrá deducido, soy de ascendencia Hhetsarro. Mis padres también viajaban con los rroneek, aunque yo no guardo recuerdo alguno de ello."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_100_209",
+      "hash": "972D7AB2B000224F",
+      "target": "Verá, me dejaron atrás siendo un bebé durante una de esas migraciones. Uno de tantos sacrificios que exige la vida nómada, me veo obligado a suponer..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_110_209",
+      "hash": "3356F0FF5DAE001C",
+      "target": "Si sobreviví fue solo por un encuentro fortuito con un amable mercader pelu. Se apiadó de mí y me enseñó su oficio para que pudiera valerme solo."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_120_209",
+      "hash": "21F23E95CD0C97D9",
+      "target": "Me hice tendero en los mercados de Tuliyollal, y allí fue donde el Servidor del Alba me encontró y me adoptó."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_130_209",
+      "hash": "9B6A394D2A9CD060",
+      "target": "Ya llevaba un tiempo en el palacio cuando Lamaty'i vino a unirse a nosotros."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_140_209",
+      "hash": "F2BA59D2B9117505",
+      "target": "Como a mí, sus padres la habían dejado atrás. Yo conocía el dolor de la soledad y quise ahorrarle ese sufrimiento."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_150_209",
+      "hash": "94103576E3F2A93E",
+      "target": "Como nuevo hermano de aquella criatura diminuta, juré que siempre estaría a su lado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_210",
+      "hash": "6003559244DB9B15",
+      "target": "¿De veras? Nunca he oído que los rroneek eligieran una ruta tan ardua como para forzar semejante decisión. Ni de ningún Hhetsarro que dejara atrás por voluntad propia a su propia sangre. Tuvo que darse alguna circunstancia excepcional..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_211",
+      "hash": "7B0D36D405B4D4A2",
+      "target": "No sabría decirle. La idea de seguir sus pasos para poder justificar mejor sus actos nunca me atrajo demasiado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_Q1_000_000",
+      "hash": "AC5BE886CB992EC9",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A1_000_001",
+      "hash": "9FAFA8E29650E358",
+      "target": "Pero, si tuvieron un buen motivo, ¿no querrías saberlo?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A1_000_002",
+      "hash": "4CBADB39284EBAB0",
+      "target": "¿Aunque pudiera ayudarte a entender mejor el comportamiento actual de los rroneek?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_213",
+      "hash": "E2B92BEB922402E6",
+      "target": "...Como tantas veces, tienes razón."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_214",
+      "hash": "07FB2B44D1720981",
+      "target": "Aunque mi incomodidad con el modo de vida Hhetsarro nazca del miedo a reabrir viejas heridas y no de un fervor ciego por la innovación, me llevaría igualmente a repetir errores pasados..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_217",
+      "hash": "382A7906AE358320",
+      "target": "Y negarme a conocer una de las tradiciones más queridas de nuestro país me convertiría en un pésimo Servidor del Alba."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_218",
+      "hash": "D42DAFEEBE8F51C0",
+      "target": "Por favor, enséñeme sobre los rroneek y lo que significan para ustedes."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_219",
+      "hash": "668B7EE95B2A70C3",
+      "target": "Prometo escuchar con la mente abierta."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_220",
+      "hash": "BB6C0188D5656F68",
+      "target": "Será un placer. Mientras tanto, sus compañeros pueden echar un vistazo si lo desean."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_100_220",
+      "hash": "82CAE7728694B82D",
+      "target": "¿Aprenderás sobre la cultura Hhetsarro conmigo? Me gustaría abordarlo con esa curiosidad ferviente que compartís mi hermana y tú, pero me vendría bien saber si lo estoy... eh... haciendo bien."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_WUKLAMAT_200_220",
+      "hash": "3CFCDFB2B5B181E9",
+      "target": "¡Pues decidido! Vosotros aprenderéis más sobre los rroneek y nosotros echaremos un vistazo por las llanuras. Y quizá, de paso, encontremos las respuestas que buscamos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_225",
+      "hash": "861F4B51A9C47143",
+      "target": "Lo que sé de la cultura en la que nací procede solo de relatos escritos... y de pocos, además."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHWATO_000_230",
+      "hash": "A37AE030D433C72F",
+      "target": "Será una alegría compartir nuestras tradiciones con los nuevos Servidores del Alba, como hicimos en su día con Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_300",
+      "hash": "735AC0A2C67DFF63",
+      "target": "La forma más rápida de conocer nuestro modo de vida es hacer lo que hacemos. Espero que el trabajo manual no les parezca indigno."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_100_300",
+      "hash": "0A9466EC784D1EAF",
+      "target": "No soy el más experimentado, me avergüenza reconocerlo. Pero pondré todo mi empeño."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_301",
+      "hash": "2B5B2CFA48D92E42",
+      "target": "No pedimos más. Tomen estas herramientas..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_303",
+      "hash": "A05CF3B0ADA82088",
+      "target": "Ahora preséntense a quien vean ocupado y pregunten si pueden ayudar. ¡Estarán encantados de enseñarles qué hacer a cambio de otro par de manos!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_306",
+      "hash": "A8E893D39B5F7B72",
+      "target": "Reunámonos aquí luego para compartir lo que hayamos aprendido."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_310",
+      "hash": "E9110B63FA1831C4",
+      "target": "A decir verdad, no recibimos muchas visitas con ganas de conocer nuestro modo de vida. Cualquiera de por aquí les contará lo que quieran saber─y más."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248B_000_405",
+      "hash": "5DE01897590E44A2",
+      "target": "¿Vienes a ayudar? Pues mira, ¿por qué no te enseño a cuidar el pelaje de un rroneek? Anda, pásale los dedos. Con suavidad."
+    },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SYSTEM_000_406", "hash": "EFBCF8CB4297BF3D", "target": "Mientras acaricias el pelaje del rroneek, notas que en muchas zonas está hirsuto y enredado." },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248B_000_407",
+      "hash": "550C440D0C1118B8",
+      "target": "A este el pelo se le ha ido un poco de las manos, pero un buen cepillado lo aclarará. ¿Quieres probar? Eso sí, hace falta la herramienta adecuada─un peine de los que sueles usar se perdería en la maraña, seguro."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248B_000_408",
+      "hash": "F239B67F8476F28E",
+      "target": "Ah, ¿Shepetto te ha mandado con un cepillo para rroneek? ¡Muy propio de él! Venga, pásalo poco a poco, zona por zona. Con suavidad..."
+    },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SYSTEM_000_409", "hash": "F13A84C786461739", "target": "Cepillas al rroneek con diligencia hasta que los brazos se te cansan de la prolongada batalla con su pelaje. Ahora se le ve mucho más arreglado, aunque no puede decirse lo mismo de tu ropa, que ha adquirido un pelaje propio." },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248B_000_410",
+      "hash": "F15710803C67DEBF",
+      "target": "¡Bien hecho! Con menos pelo sobrante, nuestro amigo estará más cómodo con el calor de la tarde y será menos propenso a enfermar. Un pelaje peinado también nos facilita detectar heridas si hiciera falta."
+    },
+    { "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SYSTEM_100_411", "hash": "41FDA3D8B80B53BB", "target": "Tras admirar tu obra, intentas sin éxito quitarte el pelo de encima. El rroneek se acicala satisfecho." },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248B_000_411",
+      "hash": "3727408C5D3BDF8B",
+      "target": "Deberías volver en la época de muda─es todo un espectáculo. Pero, gracias al pelaje prodigioso de los hhetso, nunca nos falta ropa ni mantas."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248C_000_414",
+      "hash": "17E2D75F7F7F31B6",
+      "target": "Así no puede quedarse. El viento va a colarse por ahí. Y yo sin aguja ni tendón..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248C_000_415",
+      "hash": "EA1C5FCC78554A39",
+      "target": "¡Oh, esto es justo lo que necesitaba! Ahora podré remendar la cubierta."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248C_000_416",
+      "hash": "A66CA1FB8D0AB9A4",
+      "target": "Con lo a menudo que recogemos y montamos las tiendas, es normal que se rasguen a veces. Por suerte, la piel de rroneek con que están hechas es tan resistente que casi nunca hay que preocuparse."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248C_000_417",
+      "hash": "99CE242D935EAF72",
+      "target": "La resistencia de la piel de rroneek la hace excelente también para ropa y calzado. De todos los dones que nos brindan nuestros hhetso, es el más versátil. ¡No sé qué haríamos sin él!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248D_000_418",
+      "hash": "8617E88CD23F46C3",
+      "target": "Me temo que por ahora ya he terminado mis tareas. Pero, ya que tienes tantas ganas de conocer nuestro modo de vida, ¿por qué no te cuento algo de nuestras costumbres migratorias?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248D_000_419",
+      "hash": "E7FEC8CE09B3A6F2",
+      "target": "Si estás aquí, seguramente ya sepas que los rroneek son nuestros hhetso─nuestros guías─con los que viajamos al ritmo de las estaciones. Confiamos en que nos lleven a tierras fértiles con todo lo necesario para vivir."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248D_000_420",
+      "hash": "284FBAD5C1ECF466",
+      "target": "Pero quizá no sepas que a veces la manada se divide en dos y toma caminos distintos. En esas ocasiones, los Hhetsarro también debemos separarnos de la mitad de los nuestros."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248D_100_420",
+      "hash": "7397A90CD9B8F1E5",
+      "target": "Puede parecerte una costumbre extraña y angustiosa, pero con los años nos ha llevado a tierras nuevas y ha ampliado nuestros horizontes como pueblo. También esto es la sabiduría de los hhetso."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248D_000_421",
+      "hash": "30E89DE08EF27A20",
+      "target": "Un detalle más. Cuando la manada se divide y nos separamos de los nuestros, intercambiamos el deseo de reencontrarnos allá donde nos guíen: “¡Tseppya ashees ahhetsarro nhheyoan!”"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_422",
+      "hash": "AF0C18AAD7AA6471",
+      "target": "¿Así que estás aprendiendo sobre el modo de vida Hhetsarro?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_423",
+      "hash": "5AE638ED34E292D9",
+      "target": "Puede que tenga una cosa o dos que contarte... Pero, en vez de darte la tabarra, déjame poner a prueba tu deducción. A mí las respuestas se me quedan mucho mejor si llego a ellas yo sola."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_424",
+      "hash": "545E8521B67BD4D3",
+      "target": "¡Ejem! Nuestros hhetso nos dan algo que usamos en medicinas, cataplasmas y jabón, para ahuyentar plagas y para mantener el fuego. ¿Qué es?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_Q2_000_000",
+      "hash": "ADC8D4A1DD23C275",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A2_000_001",
+      "hash": "46DF820BD6FD7FE0",
+      "target": "¿Huesos? ¿Pezuñas? ...¿Las pezuñas son huesos?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A2_000_002",
+      "hash": "E91236A7FE207395",
+      "target": "¿Es estiércol? ¿Otra vez?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A2_000_003",
+      "hash": "AEC4276F636F8E94",
+      "target": "¿Carne y... carne de órganos?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_426",
+      "hash": "411B9F0E31B6B1A9",
+      "target": "Tanto los cuernos como las pezuñas tienen núcleo óseo, y usamos todos esos materiales, aunque sobre todo para postes de tienda, instrumentos y cosas así. ¡No es exactamente la respuesta que buscaba!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_427",
+      "hash": "FEF825C4E3704534",
+      "target": "Parece que ahí hay una historia... ¡pero esa es la respuesta correcta! Con los años hemos hallado mil usos para las boñigas de rroneek, y todos son una bendición. Donde hay necesidad, nuestros hhetso proveen."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_428",
+      "hash": "FEA4FCB98B95B979",
+      "target": "¡Ay, casi! Tanto la carne como las vísceras dan platos deliciosos, y nuestros vecinos suelen alegrarse de cambiarlas. También tienen ciertos usos medicinales, pero no sirven para todos los fines de mi pregunta."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_429",
+      "hash": "5F963A4F2A726922",
+      "target": "Te lo recuerdo: este material sirve para medicinas, cataplasmas y jabón, para ahuyentar plagas y otros males, para mantener el fuego y para dar sabor a la comida. ¡Prueba otra vez!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_HHETSARRO05248E_000_430",
+      "hash": "EDFC5AB1C26F4CFF",
+      "target": "Sé que a la gente de ciudad le da asco el estiércol, pero no se pueden negar generaciones de resultados. No te pido que cruces las llanuras llenando un saco─solo que tengas la mente abierta con nuestras costumbres."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_500",
+      "hash": "62C6D7B68D7E5D66",
+      "target": "Hueles a hierba y a viento..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_501",
+      "hash": "D7E1802275895FD2",
+      "target": "...Y eso es bueno, te lo prometo. ¡Casi se te podría confundir con <if(gnum4,una,uno)> de los nuestros─<switch(gnum71,o al menos con un Tonawawta aventurero,aunque de complexión un tanto delgada,aunque de estatura un tanto corta,hasta lo pareces,y con la fuerza de un rroneek\\, además,y con los cuernos de un rroneek\\, además, aunque con algo de pelo de más,o al menos con una Shetona aventurera)>!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_502",
+      "hash": "529EE59E8966D984",
+      "target": "Me pregunto cómo le irá al Juramento Koana. Daba por hecho que no querría mancharse las manos, pero parece que su deseo de entendernos era sincero..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_503",
+      "hash": "8D6423AD08AD19CC",
+      "target": "¡Ah, aquí llega!"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_000_504",
+      "hash": "BC3851C4311C0111",
+      "target": "Disculpad la tardanza. Me encargaron llevar los rroneek a pastar y acabé bastante lejos."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_100_504",
+      "hash": "2C8471AE731A219C",
+      "target": "Me vi deambulando de aquí para allá según le apetecía a mi acompañante. Obligarnos a volver al sendero me pareció... inapropiado."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_200_504",
+      "hash": "F6BDE6B0CB2919B0",
+      "target": "¿Y qué tal tu trabajo? ¿Tienes algo que contar?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_Q3_000_000",
+      "hash": "8575E321054F9582",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A3_000_001",
+      "hash": "D4DA3A57290BA2DB",
+      "target": "La vida Hhetsarro gira en torno a los rroneek, pero a cambio la gente recibe todo lo que necesita."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_A3_000_002",
+      "hash": "E9552B312E521BCB",
+      "target": "Los rroneek son miembros muy queridos de esta comunidad, tan importantes como la familia."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_300_504",
+      "hash": "8FB466D72004CF05",
+      "target": "Sí, yo mismo lo he sentido así. Aunque me resistía a dejar mi suerte al capricho de los hhetso en vez de recorrer caminos hechos por el hombre, llegué igualmente adonde debía."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_400_504",
+      "hash": "3E45FF2AC07AF1BD",
+      "target": "En efecto. Los rroneek proveen a los Hhetsarro y, a cambio, los Hhetsarro cuidan de los rroneek. Como debe ser en una familia."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_410_504",
+      "hash": "BAFB82A0D9A2AFE3",
+      "target": "El mío no es el único camino─aunque a veces me falte experiencia para saberlo. Que yo sea incapaz de concebir por qué una decisión sería acertada no significa que sea errónea..."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_420_504",
+      "hash": "FB136716EE2B7B18",
+      "target": "Mis padres tenían un deber con los rroneek, igual que conmigo. Y por eso me pregunto si dejarme atrás no fue un acto tan egoísta como creí en su día."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_430_504",
+      "hash": "44A93B47C0B68433",
+      "target": "No hay forma de saberlo, claro... y, en cualquier caso, esto no afecta a lo que nos ocupa ahora. Al fin y al cabo, estamos aquí al servicio del pueblo de Tural."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_500_504",
+      "hash": "8AB88F4A57B52F9E",
+      "target": "Aun así... te agradezco que me hayas ayudado a hallar un sentido más hondo en lo que hemos hecho hoy."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_KOANA_600_504",
+      "hash": "FEDD7C88C9E76B7D",
+      "target": "Y me esforzaré por seguir siendo curioso─sobre todo en lo que a los hhetso se refiere."
+    },
+    {
+      "gameKey": "quest/052/KinGmg105_05248#TEXT_KINGMG105_05248_SHEPETTO_000_510",
+      "hash": "5009148C44DF8E07",
+      "target": "Me alegra oírlo, Juramento Koana. Es usted bienvenido entre nuestra manada cuando quiera."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/002/ClsArc100_00219",
+  "questName": "My First Bow",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_SEQ_00", "hash": "53C8D0272A236C15", "target": "Luciane quiere evaluar tu aptitud para la arquería." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_SEQ_01", "hash": "AE4ABF7C04C0D2BF", "target": "Luciane quiere poner a prueba tu idoneidad para unirte al Gremio de Arqueros. Sal de la ciudad y abate a tres ardillas, tres mariquitas y tres funguars." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_SEQ_02", "hash": "B37A6BB31B12D999", "target": "Has abatido a las criaturas indicadas. Vuelve a informar a Luciane en el Gremio de Arqueros." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_SEQ_03", "hash": "565F1852F079FC46", "target": "Tras superar la prueba, Luciane te nombra miembro del Gremio de Arqueros. Te anima a practicar la técnica correcta, disparando flecha tras flecha hasta que el movimiento se vuelva instintivo.<br><br>※La próxima misión de arquero estará disponible con Luciane al alcanzar el nivel 5." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_TODO_00", "hash": "133E95DEA6A10479", "target": "Abatir ground squirrels como arquero" },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_TODO_01", "hash": "3A9065AE25817029", "target": "Abatir little ladybugs como arquero" },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_TODO_02", "hash": "85D05261C7A80A2C", "target": "Abatir forest funguars como arquero" },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_TODO_03", "hash": "2931955DB34702ED", "target": "Informar a Luciane en el Gremio de Arqueros" },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_1", "hash": "D133CE06835E375C", "target": "Ah, sí. El arco le sienta bien, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_2", "hash": "702ADCF4CA66A834", "target": "Muy bien. Ahora, antes de seguir adelante, he de calibrar su aptitud innata para la arquería. Con este fin, le asigno la siguiente prueba..." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_3", "hash": "A4972A27BEA2EC62", "target": "Abata a las ardillas, las mariquitas y los funguars que merodean nada más salir de las puertas de la ciudad; con tres de cada debería bastar." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_4", "hash": "AB6FFC00E652DE6A", "target": "Al hacerlo, demostrará su aptitud para unirse al Gremio de Arqueros." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_5", "hash": "2B49B1F107311A67", "target": "No hace falta decir que debe hacerlo con su arco. Vuelva a informarme cuando haya cumplido la tarea." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_6", "hash": "EA7E359C98EBC1B1", "target": "Vaya ahora, <split(<string(gstr1)>, ,1)>, y gánese su lugar entre estos muros." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_10", "hash": "910D48C27E38C517", "target": "<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>. Parece que ha completado con éxito la prueba." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_11", "hash": "DEF410153A74BA12", "target": "Se ha mostrado digno de un lugar entre estos muros. Con gusto le nombro arquero del gremio." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_12", "hash": "DE5E7BCFB4AD7CB3", "target": "Como compañeros de senda, esforcémonos juntos por un mayor dominio de nuestro arte." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_13", "hash": "A8CE7ACDF37B447D", "target": "Ahora bien, aunque sea miembro del Gremio de Arqueros, sepa que sus superiores no le mimarán con atenciones personales. Depende de usted buscar las experiencias que necesita para crecer como arquero." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_14", "hash": "5BB78BA970CE93B1", "target": "Como primer paso, le animo a practicar la técnica correcta. Dispare flecha tras flecha, prestando mucha atención a la forma, hasta que el movimiento se le vuelva natural." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_LUCIANE_000_15", "hash": "519AD687187DDDDB", "target": "Cuando tensar la cuerda del arco le resulte tan natural como respirar, y el mundo se vea más nítido mirando a lo largo del astil de una flecha, vuelva a mí. Que le vaya bien, joven aprendiz." },
+    { "gameKey": "quest/002/ClsArc100_00219#TEXT_CLSARC100_00219_SYSTEM_000_20", "hash": "D9FB0A13E97D02F9", "target": "La próxima misión de arquero estará disponible con Luciane al alcanzar el nivel 5." }
+  ]
+}

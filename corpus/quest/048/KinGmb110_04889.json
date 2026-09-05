@@ -1,0 +1,469 @@
+{
+  "conversation": "quest/048/KinGmb110_04889",
+  "questName": "History's Keepers",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_00", "hash": "86A2D4C9115350C9", "target": "Wuk Lamat tiene puesta la mira en la aldea Yok Huy." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_01", "hash": "9AFE7C539279F1F3", "target": "Deseosa de ponerse en marcha, Wuk Lamat apremia al grupo a avanzar hacia la aldea Yok Huy. El camino que debéis tomar empieza en el lugar donde os encontrasteis por primera vez con Wawkesa, al oeste de Earthenshire." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_02", "hash": "B42946FA967C6A6E", "target": "Wuk Lamat no va a dejar que la pérdida de una piedra clave la frene. Hace una breve parada en Earthenshire para asegurar a Rediroq que todo va bien y, acto seguido, sube sin perder tiempo por el sendero de la montaña tras Erenville." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_03", "hash": "3B62DD35B59609AC", "target": "Vuestro grupo llega al final del arduo sendero, agotado por la subida y por el aire notablemente más enrarecido. Erenville os da algún consejo para soportar la altitud antes de animaros a dar los últimos pasos hasta el Eco de Worlar." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_04", "hash": "C5FE8CB46145365C", "target": "En respuesta a las observaciones de Wuk Lamat, Erenville explica que rara vez se ve a los Yok Huy en las tierras bajas, atados como están a su deber de velar por el encarcelado Valigarmanda. La Tercera Promesa se plantea un momento aplazar las pruebas para dar caza al ladrón de Bakool Ja Ja, pero se impone la sensatez y os dirigís al templo para preguntar por el paradero del elector." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_05", "hash": "69AF44A6C8DC4635", "target": "Se te concede la entrada a Karryorzar the Gracious y te maravilla al instante la visión del enorme Valigarmanda apresado en su prisión de hielo. Zurmurwur, un sacerdote del templo, cuenta la historia de la batalla de Gulool Ja Ja contra el en apariencia invencible tural vidraal, que terminó con el gélido destino de la Ruina del Cielo. Dejando de lado por ahora la preocupación por el hielo que se derrite, Zurmurwur transmite las instrucciones de la Gran Lumbrera Gurfurlur, el elector de la Prueba del Testimonio. El desafío exige que localices al propio elector, oculto en algún punto de la vasta cordillera de Urqopacha..." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_SEQ_06", "hash": "B94FF1210345973D", "target": "En lugar de lanzarse sin más a las montañas en busca de Gurfurlur, se decide que lo más sensato es recabar pistas entre los aldeanos. Por su parte, Wuk Lamat reflexiona sobre la amenaza que representa Valigarmanda y se pregunta qué podría hacerse si la criatura llegara a liberarse." },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_TODO_00", "hash": "B1844E8B6AA875FC", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_TODO_01", "hash": "BBB734CF27EC17BC", "target": "Hablar con Erenville en Ten Thousand Steps" },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_TODO_02", "hash": "1161C9C1635C8D74", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_TODO_03", "hash": "A3AE8943921DA194", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_TODO_04", "hash": "62EE72434A68C688", "target": "Hablar una vez más con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_001",
+      "hash": "981A4A5579E3186B",
+      "target": "Koana es la viva imagen de la compostura y la racionalidad... salvo cuando se trata de la seguridad de Wuk Lamat. Lejos de mí reprochar a un hermano que sea protector, pero aun así."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_002",
+      "hash": "F089B533EB839879",
+      "target": "La Wuk Lamat que yo conocí habría quedado inconsolable al perder una piedra clave."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_003",
+      "hash": "4B067646628DF55A",
+      "target": "Este viaje, y vuestra compañía, le están haciendo un bien enorme."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_004",
+      "hash": "F9DCE0B22651E0C1",
+      "target": "Tendremos que recuperar esa piedra clave de Bakool Ja Ja antes de llegar a la ciudad dorada. Aunque no la soltará sin pelea..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_005",
+      "hash": "3062CC1718E23C87",
+      "target": "Aunque compartan un solo cuerpo, salta a la vista que Bakool Ja Ja tiene dos mentes cuando ves a una cabeza calmando a la otra."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_006",
+      "hash": "0673BB3FA44138F3",
+      "target": "Sus personalidades son tan distintas como podrían serlo dos individuos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_007",
+      "hash": "F0BBBD3449536975",
+      "target": "¡El camino nos llama, amigos! ¡En marcha hacia los Yok Huy!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_008",
+      "hash": "A8B8611FA7AE2A0B",
+      "target": "Entonces de vuelta a donde empieza el sendero de la montaña. Ya sabéis: el sitio donde te engañaron para que te fueras con Wawkesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_009",
+      "hash": "1700F69E0B90D513",
+      "target": "Así, restregándomelo por la cara, ¿eh?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_010",
+      "hash": "88A2C4242D2D2950",
+      "target": "Aunque me pregunto si me pincha a propósito. Ya sabes, para que dirija el enfado hacia él en vez de hacia mí misma."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_011",
+      "hash": "61E5E7501AD15F7A",
+      "target": "Sea como sea, no podemos quedarnos aquí todo el día. ¡Tenemos mucho tiempo perdido que recuperar!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_013",
+      "hash": "23FA831657905678",
+      "target": "Erenville dijo que este sendero nos llevará hasta las tierras altas de Urqopacha, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_014",
+      "hash": "42682007B78BE786",
+      "target": "Zoraal Ja no habrá perdido el tiempo mientras nosotros andábamos a la greña con Bakool Ja Ja. Hay que darse prisa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_015",
+      "hash": "CB12CDB57AB37ADF",
+      "target": "Esos bandidos debían de vigilarnos desde que pusimos pie fuera del barco fluvial... <italic(1)>Sabía<italic(0)> que sentía ojos encima."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_100_016",
+      "hash": "6E6D8C02D4F79C90",
+      "target": "No podía irme sin contarle a Rediroq lo que había pasado, así que paré en Earthenshire a decirle unas palabras antes de seguir."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_016",
+      "hash": "96E56BB1BEC92FCF",
+      "target": "...¡Y ahora Erenville no está por ninguna parte! ¿¡No podía esperar un poco más!?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_017",
+      "hash": "99FF088D547AAC7D",
+      "target": "Hmpf, hasta ahí llegó el beneficio de la duda. Venga, alcancémoslo: ¡tengo unas cuantas cosas que decirle a ese espigador engreído!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_018",
+      "hash": "7870845CBBE6126C",
+      "target": "Temía que Wuk Lamat se atormentara por la pérdida de su piedra clave, pero parece que no tenía de qué preocuparme."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_019",
+      "hash": "AAF022F53DA96A8E",
+      "target": "Adelante y hacia arriba, pues."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_021",
+      "hash": "D4EC286935C7824B",
+      "target": "\\<jadeo> \\<jadeo> Nunca... había subido tan alto... Ya reñiré a Erenville... cuando recupere el aliento..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_022",
+      "hash": "CC72CDD5907BE008",
+      "target": "Los Yok Huy tienen una conexión profunda con la leyenda de la ciudad dorada. Esta visita nos permitirá preguntarles directamente."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_023",
+      "hash": "A99C1C372CFC13EA",
+      "target": "A estas alturas debemos de estar bastante arriba... Lo que me hace preguntarme cuánto más alta será la cima de Worqor Zormor."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_024",
+      "hash": "E26037C570423866",
+      "target": "Esos edificios de ahí delante parecen la aldea a la que vamos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_025",
+      "hash": "7DB67A2141946448",
+      "target": "Como seguro habréis notado, el aire se enrarece a esta altura. Id despacio hasta que el cuerpo se ajuste. Respiraciones hondas. Bebed mucha agua."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_026",
+      "hash": "6516FE624B47E2C2",
+      "target": "Unos pasos más y estaremos en el Eco de Worlar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_028",
+      "hash": "3B139CCC4E704315",
+      "target": "Sabía que el sendero llevaba aquí, pero yo tampoco he puesto nunca pie en esta aldea."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_029",
+      "hash": "895AACB59DA2EBF4",
+      "target": "Gracias a los dioses: tienen eterita. ¡No me hace ninguna gracia la idea de arrastrarme por ese sendero de montaña una segunda vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_030",
+      "hash": "E0CFF4A2EFCFD465",
+      "target": "Aquí todo es de tamaño gigante, pero esa construcción del fondo está a otra escala del todo. ¿Un templo de alguna clase, quizá?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_031",
+      "hash": "C220CCAFD8BC3BD3",
+      "target": "Aire gélido. Recia construcción de piedra. Si entorno los ojos, por un momento creería estar en Ishgard."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_032",
+      "hash": "93A854E43C8C9E45",
+      "target": "Uf... Creo que me estoy acostumbrando al aire de aquí arriba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_033",
+      "hash": "EE41767768E27449",
+      "target": "Así que este es el lugar del Cantar del Testimonio, donde papá se encontró con los Yok Huy..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_034",
+      "hash": "513DB408D1B503F2",
+      "target": "Y esos deben de ser ellos. Creo que nunca había visto uno fuera de un dibujo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_035",
+      "hash": "2DFB009258CC96D2",
+      "target": "Como casi todos los turales. Los gigantes rara vez bajan a las tierras bajas."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_036",
+      "hash": "BCAEC6676FA07823",
+      "target": "Aquí, en su fortaleza de montaña, atienden el solemne deber que juraron asumir en su pacto con el Servidor del Alba:"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_037",
+      "hash": "2E0B069625BCBE6A",
+      "target": "velar por el tural vidraal Valigarmanda y mantener su prisión dentro del templo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_038",
+      "hash": "A4C12B209356AE85",
+      "target": "Ah, sí, Wuk Lamat nos habló de los tural vidraal: criaturas que viven mucho más de lo normal y despiertan a poderes extraños."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_039",
+      "hash": "478107EDB2EA311C",
+      "target": "En efecto. Y aun entre esas anomalías, Valigarmanda no tiene rival en fuerza. Ha perdurado siglos, trayendo catástrofe cada vez que sale de su guarida."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_040",
+      "hash": "F6FAA34DEBCDA8F6",
+      "target": "Como supisteis por el Cantar del Hielo, fue Gulool Ja Ja quien por fin logró aprisionar a la bestia, y desde entonces yace dormida en el templo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_100_040",
+      "hash": "DF39BF4F8D462B6A",
+      "target": "Se dice que el edificio aún conserva un boquete enorme en el techo, de cuando Valigarmanda fue atraída dentro por la última treta de Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_041",
+      "hash": "834E67672D341EEF",
+      "target": "Me gustaría ver al más fuerte de todos los tural vidraal. ¡Me pregunto cómo sería luchar contra él!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_042",
+      "hash": "68749854CDA46F8E",
+      "target": "El Eco de Worlar fue el escenario tanto del Cantar del Testimonio como del Cantar del Hielo..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_043",
+      "hash": "77387BCD79532AB2",
+      "target": "¿No sugiere eso que esta vez nos enfrentaremos a <italic(1)>dos<italic(0)> pruebas?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_044",
+      "hash": "989B32F6495A9D80",
+      "target": "Eso podemos preguntárselo al elector cuando lo encontremos. O quizá deberíamos sacar antes a Bakool Ja Ja para sacudirle hasta que suelte mi piedra clave..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_Q1_000_000",
+      "hash": "28F99152471A00FC",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_A1_000_001",
+      "hash": "AB39C9188EDA727E",
+      "target": "Identificar al elector del Servidor del Alba debería ser la prioridad."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_A1_000_002",
+      "hash": "9546BDC569322DF1",
+      "target": "¡Busquemos a ese tramposo ladrón!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_046",
+      "hash": "1FDBEC2B7F7A322E",
+      "target": "¡Y tanto! Ahora, ¿por dónde empezamos a buscar...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_047",
+      "hash": "F7C41FB70A60024F",
+      "target": "Ejem. ¿Quizá las pruebas deberían tener preferencia mientras estemos aquí? Seguro que habrá otras ocasiones de enfrentarse a Bakool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_048",
+      "hash": "D2BC43F1B1B15738",
+      "target": "Supongo que aún nos quedan cuatro piedras clave por ganar. Y, hagamos lo que hagamos, la contienda nos pondrá frente a él tarde o temprano..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_049",
+      "hash": "C3DAE5287CDB986B",
+      "target": "¡Bien, busquemos al elector!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_100_049",
+      "hash": "E08A0A6F2FDD70A8",
+      "target": "Entonces sugiero que visitemos “Karryorzar el Benévolo”, que así se llama su templo. Los Moblin me dijeron que allí se encuentra el Gran Lumbrera Gurfurlur. Si hemos de pedir información a alguien, parece una elección sensata."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_200_049",
+      "hash": "E955DD6C932D0C2E",
+      "target": "Necesitaremos permiso para entrar en el templo, pero supongo que no será problema para la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_300_049",
+      "hash": "28702632082F44B1",
+      "target": "Aunque es sin duda un edificio impresionante, no parece la clase de estructura que uno levantaría para contener a un tural vidraal..."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_400_049",
+      "hash": "AE58EE8B9D211283",
+      "target": "Los guardias del templo nos han observado con mucha atención. Por lo visto, uno no entra tan campante en la prisión de Valigarmanda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_500_049",
+      "hash": "F5D3F9F3A24AF69D",
+      "target": "¿Crees que es tabú pedir entrada al templo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_YOKHUYGUARD04889_510_049",
+      "hash": "E2F84677E7F4C4C6",
+      "target": "¿Quiénes sois? ¿Qué asunto os trae a Karryorzar el Benévolo?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_600_049",
+      "hash": "28773E7D8DDC5A5F",
+      "target": "A ver si convenzo a los guardias de que nos dejen pasar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_700_049",
+      "hash": "A5BBA2E65F0E85B9",
+      "target": "Soy Wuk Lamat, Tercera Promesa de Tuliyollal, y busco a vuestro elector para el rito de sucesión. ¿Puedo hablar con Gurfurlur?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_YOKHUYGUARD04889_800_049",
+      "hash": "7FC3D60F295E0647",
+      "target": "El Gran Lumbrera ha concedido la entrada a los aspirantes. Podéis pasar."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_900_049",
+      "hash": "9839EBCC57718DC5",
+      "target": "Vaya. Ha sido más fácil de lo esperado. ¡Adentro, pues!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_050",
+      "hash": "2DF70F11F93102C6",
+      "target": "Dioses, ¿eso es...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_051",
+      "hash": "BF9F6C56444E597E",
+      "target": "Sí. ¡Valigarmanda!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_052",
+      "hash": "562685A66B931B0B",
+      "target": "Bienvenidos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_053",
+      "hash": "D1DD5B3F3F667830",
+      "target": "¿Gran Lumbrera Gurfurlur?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_054",
+      "hash": "08ADD1A2488F1A8E",
+      "target": "Él no se halla aquí, de momento. Yo soy el Lumbrera Zurmurwur."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_055",
+      "hash": "336EF278E8531CA8",
+      "target": "¿Esta es la Ruina del Cielo, Valigarmanda?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_056",
+      "hash": "407A8077F2046DEB",
+      "target": "Lo es. El tural vidraal cuyo nombre evoca terror desde tiempo inmemorial."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_057",
+      "hash": "9D24A6BA02F0D567",
+      "target": "Aun mi pueblo, antaño conquistador de cuanto hay bajo el sol, era hoja quebradiza ante el poder tempestuoso de Valigarmanda."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_058",
+      "hash": "F5145FE31503F44E",
+      "target": "Cuando la Ruina del Cielo descendió sobre Urqopacha hace ocho décadas, las bajas fueron pasmosas. De no haber intervenido Gulool Ja Ja y sus compañeros, nos habrían matado hasta el último."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_059",
+      "hash": "E1BC9E36D98340D7",
+      "target": "Su titánica batalla con Valigarmanda se prolongó diez días y diez noches."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_060",
+      "hash": "E3CBFFDCB265D9D4",
+      "target": "Mientras el enemigo seguía combatiendo, incansable e implacable, nuestros héroes fueron llevados más allá de los límites de su aguante."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_061",
+      "hash": "ECC1106E921B1751",
+      "target": "Fue entonces cuando la Cabeza de la Razón urdió un plan desesperado. Gulool Ja Ja engañó a la Ruina del Cielo para que perdiera el control de su propia magia de hielo, haciendo que el incauto tural vidraal se encerrase a sí mismo en éter congelado."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_062",
+      "hash": "1000C86F121050DF",
+      "target": "Y así ha estado desde entonces. ¡Buen trabajo, papá!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_063",
+      "hash": "320959633561C995",
+      "target": "Pero... ¿qué pasa si el hielo llega a fundirse?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_064",
+      "hash": "494F163513C9556F",
+      "target": "Esa misma pregunta pesa mucho en nuestras mentes, pues la magia que sostiene esta prisión se debilita con cada año que pasa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_065",
+      "hash": "A49AAB7896AF8C47",
+      "target": "Valigarmanda gobierna poderes de fuego, rayo y hielo. Algunos creen que la violencia de la tormenta reciente fue resultado de esas energías escapando."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_066",
+      "hash": "123D800A371FD3A8",
+      "target": "¿Aquella tempestad furiosa, de Valigarmanda...?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_067",
+      "hash": "28F4BE98BF02F40C",
+      "target": "Dejando aparte los temores del mañana, venís a intentar la Prueba del Testimonio, ¿verdad? El Gran Lumbrera, elector escogido del Servidor del Alba, me dejó instrucciones para todos los aspirantes."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_068",
+      "hash": "7745D77E16F51D46",
+      "target": "Habéis de recorrer nuestras montañas inhóspitas y hallar a Gurfurlur, que os espera. Ese ha de ser vuestro desafío."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_069",
+      "hash": "06DF980ADDC68BD1",
+      "target": "Ah, así que la búsqueda misma es la prueba."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_070",
+      "hash": "582719C2964756F2",
+      "target": "Ya has hablado con mis hermanos, supongo."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ZURMURWUR_000_071",
+      "hash": "627A0FC4FF8743E1",
+      "target": "Así es. Sus expediciones están en marcha."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_072",
+      "hash": "EA0BBD7BA1ECC7CB",
+      "target": "¡Pues más nos vale apretar el paso!"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_073",
+      "hash": "34189F7F90DD8588",
+      "target": "Sí, pero antes nos hará falta una dirección en la que buscar. Veamos qué pistas podemos reunir entre los aldeanos."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ERENVILLE_000_086",
+      "hash": "4522ABDF86D7F1DE",
+      "target": "He encontrado muchas criaturas extraordinarias en Eorzea y en otros sitios, pero hacía mucho que no sentía una presencia tan abrumadora, como mil puntas de daga pinchándome la piel."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_KRILE_000_087",
+      "hash": "2544C07FC0DBC051",
+      "target": "He percibido la expulsión reciente de una gran cantidad de éter desde la prisión de Valigarmanda. Me temo que el hielo aguantará solo unos años más."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALPHINAUD_000_088",
+      "hash": "5EB03B6AA73CC760",
+      "target": "Por grandes que sean los Yok Huy, buscar a uno a ciegas en la extensión de estas montañas sería un ejercicio inútil. Necesitamos más información."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_ALISAIE_000_089",
+      "hash": "2D2A99EAA8FF23FA",
+      "target": "Los tural vidraal suenan tremendamente parecidos a los auspicios del Lejano Oriente. ¿Crees que serán lo mismo con otro nombre?"
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_090",
+      "hash": "7B4E8ECC461CF43F",
+      "target": "Dioses, ¡Valigarmanda es enorme! Sé que papá tenía amigos con él, pero es increíble que pudiera plantarle cara a esa cosa."
+    },
+    {
+      "gameKey": "quest/048/KinGmb110_04889#TEXT_KINGMB110_04889_WUKLAMAT_000_091",
+      "hash": "B35E875F93584B3B",
+      "target": "Aunque, si su prisión llegara a fallar, no podemos esperar que venga corriendo la vieja guardia. Nos tocaría a nosotros salvar el día..."
+    }
+  ]
+}

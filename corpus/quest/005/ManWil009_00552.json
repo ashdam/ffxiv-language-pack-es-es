@@ -1,0 +1,277 @@
+{
+  "conversation": "quest/005/ManWil009_00552",
+  "questName": "A Royal Reception",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_1",
+      "hash": "7613451018921EED",
+      "target": "¡Ha llegado el momento, <split(<string(gstr1)>, ,1)>: su gran debut en la alta sociedad de Ul'dah!"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_2",
+      "hash": "1F294E9617D53F1D",
+      "target": "El banquete se celebra en la Cámara Fragante. Diríjase al Paseo Real y Bartholomew le hará pasar. Ah, pero asegúrese de ponerse antes los pendientes, o <if(gnum4,la,lo)> mandará de vuelta."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_3",
+      "hash": "4AB3AFC8ACB9BCD1",
+      "target": "Bien, pues creo que eso es todo. Procure que tanta pompa y ceremonia no le afecte. ¡Sea usted mism<if(gnum4,a,o)> y todo irá bien!"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_10",
+      "hash": "DFF57DF7583394FE",
+      "target": "Un banquete ofrecido por Su Alteza la sultana está a punto de comenzar. La asistencia es solo por invitación. Dejen paso a los invitados que llegan, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_11",
+      "hash": "4F4D29CDDF39DD1E",
+      "target": "Es un honor recibirle, <if(gnum4,mi señora,mi señor)>. Pase adentro, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_12",
+      "hash": "B215DA2C89D7DFCB",
+      "target": "Ejem. Debo pedirle que se aparte de las puertas, <if(gnum4,señora,señor)>. Si ha recibido una invitación, le ruego que considere las condiciones de acceso."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_BARTHOLOMEW_000_13",
+      "hash": "551784F179741E9C",
+      "target": "¡Y que los Doce le amparen si ha extraviado los artículos pertinentes! No quiero ni imaginar el horror de la señora Serendipity si tuviera que confeccionarle otro par..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000010_RAUBAHN",
+      "hash": "E4757219B2AF86E6",
+      "target": "¡Salve a la sultana!"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000020_RAUBAHN",
+      "hash": "3D2768C7F4D8E0FC",
+      "target": "Alteza."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000030_NANAMOULNAMO",
+      "hash": "5DE95D14718E16D4",
+      "target": "Raubahn."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000040_NANAMOULNAMO",
+      "hash": "21E21D11F90BAABD",
+      "target": "Por derecho de la Casa Real de Ul, yo, Nanamo, decimoséptima de mi linaje, os he convocado aquí."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000050_NANAMOULNAMO",
+      "hash": "76DE1FCC47933889",
+      "target": "Nos honra hoy la presencia de <if(gnum4,una heroína,un héroe)> de Ul'dah, y <if(gnum4,querida amiga,querido amigo)> de la corona."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000060_NANAMOULNAMO",
+      "hash": "938D90D2484C27CE",
+      "target": "Distinguidos invitados, ¡os presento a <if(gnum4,nuestra campeona,nuestro campeón)>!"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000070_NANAMOULNAMO",
+      "hash": "A6E1BBA53E2594C5",
+      "target": "Y dicho esto, disfrutad del festín."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000080_RAUBAHN",
+      "hash": "AD755797E4E64CD4",
+      "target": "No quisiera quitarte el apetito, pero Ul'dah dista mucho de ser tan próspera como esta comida daría a entender. Mientras nosotros nos damos un festín, hay niños que pasan hambre en las calles."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000090_RAUBAHN",
+      "hash": "36AA77E580DD2938",
+      "target": "Y Su Alteza nada puede hacer por ayudarlos. A cada paso la frustran quienes en el Sindicato amasan su riqueza a costa de la pobreza de los trabajadores."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000100_RAUBAHN",
+      "hash": "8A33BFE5ADB78A44",
+      "target": "Bajo su máscara de serenidad majestuosa, la consterna la miseria de sus súbditos."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000110_RAUBAHN",
+      "hash": "093F425BB776F1CB",
+      "target": "Mas no habrá esperanza para el pueblo llano hasta que la corona recupere su poder."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000120_RAUBAHN",
+      "hash": "ED571D89DCE3E126",
+      "target": "Te estoy sinceramente agradecido por todo lo que has hecho por Ul'dah. Pero aún queda mucho por hacer."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000130_RAUBAHN",
+      "hash": "86507AA0F178578C",
+      "target": "Esa luz... ¿qué es?"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000140_RAUBAHN",
+      "hash": "F861D6C2E9F87132",
+      "target": "Tan brillante... Casi como... ¡Por los Doce!"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000150_RAUBAHN",
+      "hash": "97395CC608D4387C",
+      "target": "Dime la verdad: ¿te han inquietado sueños extraños últimamente? ¿Visiones... del Cristal?"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000160_RAUBAHN",
+      "hash": "762B41C61AB155C1",
+      "target": "¿Acaso los achacaste a un exceso de éter?"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000170_RAUBAHN",
+      "hash": "254F5726348667B2",
+      "target": "Sí. Eres como eran <italic(1)>ellos<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000180_RAUBAHN",
+      "hash": "C6BEE8E75081106C",
+      "target": "Deja que te lo explique. Antes de que llegaras a Eorzea, hubo otros como tú que combatieron a los primigenios."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000190_RAUBAHN",
+      "hash": "E9D47BB6AB4638DA",
+      "target": "Aunque no eran de esta tierra, cuando el Imperio Garleano amenazó el reino, ayudaron a unir a las tres Grandes Compañías."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000200_RAUBAHN",
+      "hash": "69314084B3091A86",
+      "target": "Y estuvieron a nuestro lado en Carteneau, aquel día aciago de hace cinco años..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000210_RAUBAHN",
+      "hash": "E4E7E17996AF0908",
+      "target": "...El día en que los perdimos."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000220_RAUBAHN",
+      "hash": "AE4A8C3EF3F5F5AA",
+      "target": "Nadie de quienes sobrevivimos ha olvidado el sacrificio de aquellos héroes, ni habría quien negara que lucharon junto a nosotros..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000230_RAUBAHN",
+      "hash": "22815D5C0280A096",
+      "target": "Pero los nombres de esos héroes no acuden a nuestros labios. Las páginas antaño familiares de su historia se nos han quedado en blanco."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000240_RAUBAHN",
+      "hash": "59CF300E94F4DCC0",
+      "target": "Y en nuestra memoria, sus rostros no son sino siluetas en medio de un resplandor cegador..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000250_RAUBAHN",
+      "hash": "9E393C9F67B617A9",
+      "target": "Es por esta razón por la que hemos dado en llamarlos los Guerreros de la Luz."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000260_RAUBAHN",
+      "hash": "9467DE28E353F763",
+      "target": "Cuando te miro, no puedo evitar pensar en ellos, y en lo que tú podrías llegar a lograr."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000270_RAUBAHN",
+      "hash": "243C97B0DCCCB92F",
+      "target": "Debes proteger ese cristal a toda costa."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000280_RAUBAHN",
+      "hash": "5ADE429A27CF4145",
+      "target": "Es un don de Hydaelyn, Madre de todo... y uno que te entregó por una razón."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000290_RAUBAHN",
+      "hash": "9B48FE7D2865B2BF",
+      "target": "La tuya no es una historia corriente. Si estoy en lo cierto, el destino del reino podría pender aún de tus actos."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_000300_RAUBAHN",
+      "hash": "24DDED6603435270",
+      "target": "Solo héroes y mártires están hechos para llevar semejante carga. Roguemos que seas de los primeros."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_50",
+      "hash": "DFB7B29C1E441D1B",
+      "target": "¿Cómo se encuentra, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_51",
+      "hash": "0448B615F252A0C7",
+      "target": "Dicen que se desmayó en plena historia del General. Tuve que hacer que <if(gnum4,la,lo)> llevaran de vuelta al Reloj de Arena."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_52",
+      "hash": "373BF17B86AA60B9",
+      "target": "Diría que causó una honda impresión en los demás invitados... aunque probablemente no la que pretendía."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_53",
+      "hash": "AC641917E0FE06E0",
+      "target": "¿Seguro que descansa lo suficiente, <split(<string(gstr1)>, ,1)>? La vida de <if(gnum4,aventurera,aventurero)> puede ser muy agotadora."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_54",
+      "hash": "205B2C3474D1D163",
+      "target": "En fin, me alegro de verle de nuevo como siempre. Sin ánimo de ofender, pero cuidar de usted se estaba volviendo algo pesado."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_55",
+      "hash": "03B782E91BF3F2D2",
+      "target": "Ah, antes de que se me olvide, el General dejó un mensaje para usted. Dijo que, cuando se sienta con fuerzas, vaya a verle al Sala de las Llamas."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_MOMODI_000_56",
+      "hash": "5DBA3EE2A5D928FF",
+      "target": "Seguramente quiere terminar la historia que le contaba cuando se quedó dormid<if(gnum4,a,o)>."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_RAUBAHN_000_60",
+      "hash": "D9D34436F668A83F",
+      "target": "Te esperaba, <split(<string(gstr1)>, ,1)>. Confío en que te hayas recuperado del todo."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_RAUBAHN_000_61",
+      "hash": "163E8A8198AA38F8",
+      "target": "Bien, porque hay mucho trabajo por hacer... un trabajo que quisiera encomendarte a ti..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SERENDIPITY_070",
+      "hash": "A7835382421CD758",
+      "target": "¿¡Que quiere <italic(1)>qué<italic(0)>!? ¡No puede hablar en serio! <italic(1)>Dioses<italic(0)>..."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SERENDIPITY_071",
+      "hash": "53A18B6346E57187",
+      "target": "Solo por esta vez, pero recuerde: la vida no es la canción de un juglar, y usted no es <if(gnum4,una heroína elegida,un héroe elegido)>. Así que no espere que la gente le perdone sin más las imprudencias e irresponsabilidades que cometa."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SEQ_00",
+      "hash": "80D1981F3AB66906",
+      "target": "Momodi quiere despedirte antes del banquete."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SEQ_01",
+      "hash": "BC3F5BCDE87A2E84",
+      "target": "El banquete está a punto de comenzar. Ponte la Voice of the Just y dirígete al Paseo Real, donde te aguarda Bartholomew."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SEQ_02",
+      "hash": "9D07DCE23DBEC83B",
+      "target": "En el banquete, Raubahn relata las hazañas de los héroes a medias recordados a quienes los eorzeos llaman ahora los Guerreros de la Luz. El relato desata en tu mente una visión de los últimos momentos de la batalla de Carteneau. Cuando vuelves en ti, te sorprende encontrarte en una habitación del Reloj de Arena, sin saber cómo llegaste allí. Con una mezcla de alivio y regocijo, Momodi te explica que te desmayaste y menciona que el General quiere verte. Dirígete al Sala de las Llamas y solicita audiencia con él."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_SEQ_03",
+      "hash": "061DEDB33B2139F5",
+      "target": "El General de las Llamas declara que hay trabajo por hacer... y que quiere que lo hagas tú. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para empezar."
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_TODO_00",
+      "hash": "2135565E526C9550",
+      "target": "Ponerse la Voice of the Just y hablar con Bartholomew"
+    },
+    {
+      "gameKey": "quest/005/ManWil009_00552#TEXT_MANWIL009_00552_TODO_01",
+      "hash": "46F0C959F47F7401",
+      "target": "Hablar con Raubahn en el Sala de las Llamas"
+    }
+  ]
+}

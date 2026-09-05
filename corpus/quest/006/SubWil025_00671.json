@@ -1,0 +1,137 @@
+{
+  "conversation": "quest/006/SubWil025_00671",
+  "questName": "Nothing to See Here",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_1",
+      "hash": "A5DC11B88CEF9889",
+      "target": "Ya que se ha llegado hasta aquí, quizá pueda hacerme un recado."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_2",
+      "hash": "1ABCB6A3C50ACBE5",
+      "target": "Da la casualidad de que han enviado a varios centinelas a vigilar la zona. Un despacho a la Estación de Distribución, por así decirlo."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_3",
+      "hash": "299B2B5A029DAE6D",
+      "target": "Llevan mucho tiempo lejos de la sombra y los mullidos lechos de la ciudad. Aquí fuera, los días calurosos y las noches frías pueden hacer estragos en el cuerpo y en la mente."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_4",
+      "hash": "FF09771F73162923",
+      "target": "No es gran cosa, pero, ¿podría ir a llevarles estos pretzels crepusculares? A mí siempre me reconforta un buen bocado cuando me dan ganas de tirar la toalla."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUA_000_10",
+      "hash": "BF9D3ACF8AC911FB",
+      "target": "¡Frente oeste, despejado! ¡Frente este, despejado!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUA_000_11",
+      "hash": "F8C8C567F92F0BC1",
+      "target": "¿Para mí? ¿De parte de Papashan? Un pretzel crepuscular... ¡Mi favorito! ¡¿Cómo lo sabía?!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUA_000_12",
+      "hash": "56768A8C20F7BD93",
+      "target": "No se puede luchar con el estómago vacío, ¿verdad? Aunque... la verdad es que no lucho con ningún estómago. Supongo que se podría decir que no tengo estómago... para la lucha."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUA_000_13",
+      "hash": "A187BBD94408A173",
+      "target": "¡Cuidado, bandidos! ¡Los Juramentados del Sultanato están aquí para servir y proteger!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUB_000_20",
+      "hash": "80A2A4AEAC26ED6B",
+      "target": "¡Alto! <if(gnum4,Señora,Señor)>, ¡voy a tener que pedirle que deje el pretzel en el suelo y ponga las manos sobre la cabeza!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUB_000_21",
+      "hash": "B04E9D2673D8FC79",
+      "target": "¡Diga su nombre y a qué viene! ¿Un pretzel crepuscular de parte de Papashan? ¡Por los dioses, perdóneme! Se podría decir que este nuevo puesto me tiene los nervios... de punta."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUB_000_22",
+      "hash": "C5CE33119C4E1155",
+      "target": "Le... le pido mil disculpas por eso. Ejem, sí, en fin, puede quedarse tranquil<if(gnum4,a,o)>: la Estación de Distribución está a salvo mientras yo monte guardia."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUB_000_23",
+      "hash": "7557E85176702446",
+      "target": "Le ruego que dé las gracias a Papashan de mi parte y le diga que ojalá pudiera devolverle el favor..."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUB_000_25",
+      "hash": "E4877653D213DB01",
+      "target": "Nada que informar por aquí. Un día más, la paz reina en el Thanalan central."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_30",
+      "hash": "29BF07DC38EF56E3",
+      "target": "Que los Doce me amparen. Días abrasadores... Noches heladas... Este puesto acabará conmigo."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_31",
+      "hash": "876A2F9DCE63883C",
+      "target": "¿Un pretzel crepuscular? ¡No le hago ascos!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_32",
+      "hash": "408AC14D6DA5923B",
+      "target": "Ahhh, ¡esto sí que es un pretzel de mil demonios, bien refrescante! ¡Me siento renacer!"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_GINCHUC_000_33",
+      "hash": "928086729DAF7D67",
+      "target": "\\<suspiro> Por mucho que me pese decirlo, el pretzel no cambia el hecho de que <if([gnum11<12],<if([gnum11<4],estas noches heladas sean de lo más insoportable,estos días abrasadores sean de lo más insoportable)>,<if([gnum11<17],estos días abrasadores sean de lo más insoportable,estas noches heladas sean de lo más insoportable)>)>..."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_40",
+      "hash": "6F9B47B82428D9CA",
+      "target": "¡Ha vuelto─y con bastantes menos pretzels, por lo que veo! Dígame, ¿cómo están nuestros centinelas Juramentados del Sultanato? ¿Tenían algo que informar, lo que sea?"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_41",
+      "hash": "0CE5D7FEBB6BACDB",
+      "target": "¿Qué? ¿Nada? ¿Está segur<if(gnum4,a,o)>? Yo... ay, ay, vaya."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_PAPASHAN_000_42",
+      "hash": "64A2F7AF35B386A8",
+      "target": "Tome esto por las molestias, entonces. Y quédese un momento─aún tengo algo más que pedirle."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_00",
+      "hash": "2F784995D063F3C5",
+      "target": "El jefe de estación Papashan tiene una tarea sencilla para un aventurero novato."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_01",
+      "hash": "07672F67DEDA1D12",
+      "target": "Papashan se compadece de los Juramentados del Sultanato encargados de defender la Estación de Distribución y quiere ayudar a mantener en pie a los cansados guardias. Coge sus pretzels crepusculares y entrégaselos a las fatigadas patrullas."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_02",
+      "hash": "84CF1EB101C6B48D",
+      "target": "Los centinelas agradecen mucho los pretzels de Papashan. Vuelve con el jefe de estación Lalafell e infórmale de que la Estación de Distribución sigue bien protegida."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_SEQ_03",
+      "hash": "C330EF72D99B974C",
+      "target": "Aunque Papashan agradece tu ayuda, parece que tiene otra cosa en la cabeza."
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_TODO_00",
+      "hash": "7716A6041E294B3F",
+      "target": "Entregar pretzels crepusculares a las patrullas"
+    },
+    {
+      "gameKey": "quest/006/SubWil025_00671#TEXT_SUBWIL025_00671_TODO_01",
+      "hash": "E87094BA7AB0FE71",
+      "target": "Hablar con Papashan"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "conversation": "quest/014/GaiUse302_01443",
+  "questName": "Desperate Times",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_00",
+      "hash": "01BB930726905469",
+      "target": "Alphinaud desea investigar las circunstancias que rodean la revuelta."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_01",
+      "hash": "97BF72609084C785",
+      "target": "Sospechando que la revuelta en la que resultó herido no fue un estallido espontáneo de descontento popular, Alphinaud quiere comentar el incidente con el general Raubahn. Ve tras él hasta la Sala de las Llamas y habla con el General de las Llamas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_02",
+      "hash": "1577607CAAB3EECD",
+      "target": "Durante tu conversación con el general Raubahn, Alphinaud repara en que los refugiados iban sorprendentemente bien armados y apunta que la revuelta pudo ser instigada por fuerzas externas. Sin embargo, antes de que pueda terminar su razonamiento, el General de las Llamas replica que restablecer el orden es lo primordial y que cualquier investigación oficial tendrá que esperar. Sin arredrarse, Alphinaud decide llevar a cabo su propia investigación. Te sugiere empezar por averiguar qué asentamientos sospechan las Llamas que puedan estar dando cobijo a los sublevados. Quizá el comandante Swift esté dispuesto a compartir esa información contigo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_03",
+      "hash": "4F287215C0804E73",
+      "target": "Tras un instante de vacilación, el comandante Swift revela que las Espadas de Latón han informado de actividad sospechosa en las inmediaciones de Desesperanza. Viaja hasta el asentamiento, en el Thanalan central, e investiga sus afirmaciones."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_04",
+      "hash": "3B39486FC48F7A6A",
+      "target": "Tanto Leofric como Amalberga mencionan a un mercader ambulante que hace poco abandonó Desesperanza acompañado de un grupo de refugiados. Al parecer, otro refugiado llamado Zazawaka estaba especialmente preocupado por la conducta del mercader. Habla con él para saber más."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_05",
+      "hash": "6B7A69806822A3EF",
+      "target": "Averiguas que el mercader era un revolucionario fanático que llegó a Desesperanza en busca de nuevos adeptos. Al parecer, ofreció a los refugiados la ocasión de pedir cuentas a los gobernantes de Ul'dah, y no le faltaron voluntarios. Zazawaka, sin embargo, no se dejó convencer y se negó a ir con los demás refugiados; una decisión que se vio justificada cuando uno de ellos regresó, traumatizado por la matanza de la que a duras penas había escapado. Zazawaka cree que puede haber más supervivientes y te implora que los encuentres antes que las Llamas. Pregunta al hombre aterrado si sabe dónde están sus compañeros."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_06",
+      "hash": "3A1216EEDFE30F24",
+      "target": "El superviviente masculla para sí y no responde a tus preguntas. Está claro que aún le atormenta la atrocidad que presenció. Si hicieras un esfuerzo por aliviar su sufrimiento con /soothe, quizá se mostrara más dispuesto a colaborar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SEQ_07",
+      "hash": "75DCF856E1543F83",
+      "target": "Devuelto a la lucidez por tu gesto sosegador, el superviviente revela que el mercader proveyó de armas a sus compañeros para que pudieran defenderse de las fuerzas de Ul'dah, y después los dividió en dos grupos. Por desgracia para ellos, el grupo del superviviente topó con una patrulla de las Llamas Inmortales, que no tardó en dar a los refugiados motivos para lamentar su falta de instrucción. Al recordar que el otro grupo aún no ha regresado a Desesperanza, te ruega que los busques y los convenzas de volver."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_00",
+      "hash": "4CB8108F40359F0F",
+      "target": "Hablar con Raubahn en la Sala de las Llamas"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_01",
+      "hash": "A3A4A161A6F204F5",
+      "target": "Hablar con Swift"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_02",
+      "hash": "F16DD74405677206",
+      "target": "Hablar con las Espadas de Latón en Desesperanza"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_03",
+      "hash": "887D64D5654B0EB6",
+      "target": "Hablar con Zazawaka"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_04",
+      "hash": "9B2B3FAD6E1BAA96",
+      "target": "Hablar con el hombre aterrado"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TODO_05",
+      "hash": "5DFEF7F7F2F34461",
+      "target": "Usar /soothe con el hombre aterrado"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_000",
+      "hash": "B670F92E568DE277",
+      "target": "Como ya te dije, era poco menos que inevitable que acabara ocurriendo un incidente de esta índole, dadas las crecientes tensiones dentro del sultanato. Aun así, tengo motivos para creer que esta revuelta en concreto quizá no comenzó de forma espontánea."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_001",
+      "hash": "C06417424EE74EA5",
+      "target": "¿He despertado tu curiosidad? Bien. Entonces me acompañarás a la Sala de las Llamas. Quiero oír lo que el general Raubahn tiene que decir al respecto."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_010",
+      "hash": "40164F451D661DF1",
+      "target": "Ahora no es buen momento, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. Tengo las manos ocupadas con los refugiados."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_011",
+      "hash": "C295CC7ADEC53C30",
+      "target": "Precisamente el asunto que deseamos tratar, General."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_012",
+      "hash": "A65E565FD25FE06E",
+      "target": "Alphinaud... ¿Ya en pie?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_013",
+      "hash": "212AA3C32B9A73CC",
+      "target": "Puede atribuir mi pronta recuperación a sus cirujanos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_014",
+      "hash": "7E36D601AF688215",
+      "target": "Mis recuerdos de la revuelta aún están algo confusos. Confío en que lograra recuperar el control de la situación."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_015",
+      "hash": "117FF6801F854D6B",
+      "target": "No del todo. Aseguramos la ciudad con bastante rapidez, pero no antes de que los disturbios se extendieran a los territorios vecinos. Quedan focos de resistencia por todo Thanalan."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_016",
+      "hash": "6C111067F326569D",
+      "target": "Hemos destinado cuantas fuerzas podíamos permitirnos a erradicar a los últimos sublevados, pero avanzamos despacio. Son endiabladamente escurridizos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_017",
+      "hash": "482FC31C248385AE",
+      "target": "Me lo imagino perfectamente. Dado que la mayoría de los refugiados vive extramuros, es lógico que conozcan bien el terreno..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_018",
+      "hash": "CDCF0D1F82050F23",
+      "target": "Lo que no entiendo es cómo llegaron a estar tan bien preparados. Antes de mi pequeño accidente, observé que varios de los refugiados iban armados... y no con cuchillos de carnicero ni horcas, sino con armas de guerra. Huelga decir que semejante equipo es caro."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_019",
+      "hash": "146790FEC67D7268",
+      "target": "Nadie puede negar que las tensiones entre la ciudadanía uldiana y la población refugiada han aumentado desde que se rechazó a los domanos, pero ¿motivaría eso a un hombre hambriento a comprar armas en lugar de comida? Lo dudo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_020",
+      "hash": "E9DEA8E513DAED02",
+      "target": "¿Y qué hay de quienes no tienen ni un solo gil que gastar, quienes no sobrevivirían sin la ayuda que prestan las Llamas Inmortales? Sin duda antes venderían un arma que blandirla contra sus benefactores."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_021",
+      "hash": "B76BD1C1688AEA73",
+      "target": "Vaya al grano."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_022",
+      "hash": "3CF7A176A0ED8DCE",
+      "target": "...Muy bien. Mi punto, General, es que este polvorín de descontento no prendió por azar. Estos hechos se pusieron en marcha <italic(1)>deliberadamente<italic(0)>, y─"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_023",
+      "hash": "F5FDDD2CA426E95C",
+      "target": "<italic(1)>Y ahora hay que restablecer el orden.<italic(0)> Ese es mi primer deber. Hasta que se cumpla, cualquier investigación puede esperar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_024",
+      "hash": "0A25E21E823FEA31",
+      "target": "No tengo tiempo para discutir esto. Mis exploradores no tardarán en regresar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_025",
+      "hash": "64F779EFFC718180",
+      "target": "El General no es ningún necio. Se guarda sus pensamientos... y con razón."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_026",
+      "hash": "EF436794D4ABE861",
+      "target": "Si afirmara sin pruebas que estas revueltas se instigaron desde fuera, los Monetaristas lo acusarían de querer eludir su responsabilidad. Al fin y al cabo, él y la sultana son los mayores defensores de la ayuda a los refugiados."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_027",
+      "hash": "9EB1B714AF02AC3C",
+      "target": "Sea como fuere, se enfrentarán a duras críticas en los días venideros..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_028",
+      "hash": "E86A7931D64DFA8F",
+      "target": "Puede que nuestros aliados den con la verdad a su tiempo, pero yo tengo mucha más fe en tus capacidades, <split(<string(gstr1)>, ,1)>. Por eso propongo que llevemos a cabo nuestra propia investigación, al margen de las autoridades."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_029",
+      "hash": "AA40B7D018027459",
+      "target": "Con ese fin, quisiera que hicieras averiguaciones en los asentamientos sospechosos de dar cobijo a sublevados. El comandante Swift sabrá cuáles son. Puede que se resista a una petición de tal información, pero no dudo de que sabrás persuadirlo con tu labia."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_030",
+      "hash": "F296ACF5BB749DB1",
+      "target": "Yo, entretanto, buscaré respuestas a mi manera, y después podremos reunirnos y compartir lo que hayamos descubierto. Bien, ¿vamos allá?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_040",
+      "hash": "E6BE478139EED6FE",
+      "target": "Se te ve como si tuvieras algo que decir, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. ¿No es así?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_041",
+      "hash": "25D252A276AFFD23",
+      "target": "Lo que pide no es poca cosa. Si esa información cayera en malas manos, peligrarían incontables soldados. Aun así... hay razón en sus palabras. Un individuo capaz<if([gnum54>0],<if([gnum54<127],─incluso alguien con lazos con las Llamas─, )>, )>podría servir mejor que todo un regimiento."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_042",
+      "hash": "F24AAB72DDD1EF87",
+      "target": "Muy bien. Las Espadas de Latón han informado de actividad sospechosa en las inmediaciones de Desesperanza. Puede que no guarde relación con los sucesos recientes, pero lo dudamos. Le sugiero que empiece por hablar con las Espadas apostadas allí."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_050",
+      "hash": "D49BBF2A1F04FBDB",
+      "target": "Si pretende investigar Desesperanza antes de que lleguen <if([gnum54>0],<if([gnum54<127],nuestros,mis)>,mis)> compañeros, más le vale hacerlo con rapidez. Se enviarán fuerzas a la región en cuanto la situación lo permita."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_AMALBERGA_000_060",
+      "hash": "8D53B8113E77B752",
+      "target": "¿Y qué le trae por aquí, <if(gnum4,aventurera,aventurero)>? ¿Busca refugiados? ¡Pues ha venido al sitio adecuado!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_AMALBERGA_000_061",
+      "hash": "4A2DBE42754FEF84",
+      "target": "Ah, ¡se refiere a <italic(1)>esos<italic(0)> refugiados! No, no, aquí no los encontrará. La mayoría de la gente de Desesperanza ha acabado por aceptar su situación y se contenta con pasar los días en paz y tranquilidad."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_AMALBERGA_000_062",
+      "hash": "503D4D6BD050F5DE",
+      "target": "A los de fuera les cuesta entenderlo... como a ese mercader que pasó por aquí hace poco. Tipo sociable, pero con demasiadas opiniones. No puedo decir que lamentara verlo marchar."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_AMALBERGA_000_070",
+      "hash": "1871D9727DB443D4",
+      "target": "Aquí no hay nada que ver, <if(gnum4,aventurera,aventurero)>. Los pocos alborotadores que tenemos saben que más les vale no intentar nada con Leofric y conmigo cerca."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_LEOFRIC_000_080",
+      "hash": "E434070848701754",
+      "target": "<switch(gnum70,Un amigo del sultanato\\, ¿eh?,Un amigo del sultanato\\, ¿eh?,No esperaba que te enviaran a ti\\, <split(<string(gstr1)>, ,1)>.)> Deduzco que esto significa que alguien ha leído mi informe."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_LEOFRIC_000_081",
+      "hash": "CCFE1D911E70284A",
+      "target": "Los refugiados que se fueron con el mercader aún no han vuelto, y cada vez me preocupa más que las sospechas de Zazawaka fueran acertadas."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_LEOFRIC_000_082",
+      "hash": "D89B78B5726FBFC4",
+      "target": "...No tienes ni la más remota idea de lo que hablo, ¿verdad? Da igual. Habla con Zazawaka. Él te lo explicará todo."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_LEOFRIC_000_090",
+      "hash": "78C23F9E7537725D",
+      "target": "No juzgues a esta gente con demasiada dureza. Para ellos, cada día es una lucha. Si estuvieras en su lugar, ¿de veras puedes decir que habrías obrado de otro modo?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_095",
+      "hash": "411A9D16B1E617D3",
+      "target": "S-s-sangre... Cuánta sangre..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_100",
+      "hash": "7E6FF5ADAA320D98",
+      "target": "¡Ah! ¡No me hagas daño! ¡No soy uno de ellos!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_101",
+      "hash": "0D5C2248D6CBFF46",
+      "target": "Espera, tu cara me suena. ¿No eres <if(gnum4,la mujer,el hombre)> de la iglesia de San Adama Landama?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_102",
+      "hash": "AAE085C0B0F61E5C",
+      "target": "¡Mil perdones, amigo! Te he confundido con uno de esos matones que llevan tiempo atormentándonos."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_103",
+      "hash": "F648910A4F6FF4ED",
+      "target": "¿Cómo dices? <if([gnum54>0],<if([gnum54<127],¿Eres de las Llamas\\, pero no vas <italic(1)>con<italic(0)> las Llamas?,¿No eres de las Llamas?)>,¿No eres de las Llamas?)> Ya veo..."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_104",
+      "hash": "DBC9A85788DB73CA",
+      "target": "Si Leofric te ha dicho que hables conmigo, deduzco que has accedido a ayudar. Alabados sean los Doce, porque no tenemos un instante que perder. Todo el mundo sabe que las Llamas están en marcha."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_105",
+      "hash": "7D5010DDCE296153",
+      "target": "Los demás han caído bajo el hechizo de ese fanático, ¡pero yo no! Promesas de revolución y desquite, de pedir cuentas a la clase dirigente y tomar lo que se nos debe... ¡bah! Una fantasía pueril."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_106",
+      "hash": "6BAF9862A87F5669",
+      "target": "Hice cuanto pude por disuadir a los demás, pero pocos me escucharon. Ahora que uno de nuestros idealistas ha vuelto, la locura del plan del mercader está a la vista de todos. Mira detrás de aquella tienda y entenderás por qué."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_107",
+      "hash": "47970AD70C5D6748",
+      "target": "Aún ahora balbucea de forma incoherente, tan traumatizado está por el derramamiento de sangre que presenció. Por más que lo intento, apenas saco nada en claro de sus palabras, salvo que no fue el único que sobrevivió. Aun así, no dudo de que ese mercader llevará a los demás a su perdición. ¡Te lo suplico, encuéntralos antes que él!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ZAZAWAKA_000_110",
+      "hash": "9AEE309D2397D013",
+      "target": "El hombre no dijo nada del paradero de sus compañeros supervivientes... nada que yo pudiera entender, al menos. Quizá tú consigas sacarle algo con sentido. Te deseo buena fortuna."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_120",
+      "hash": "5CC4215797F929F2",
+      "target": "¿Q-qué haces? No... no desenvaines. No desenvaines, no desenvaines, no desenvaines... ¡NO DESENVAINES!"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_121",
+      "hash": "414CCB3FF6AEF66B",
+      "target": "...¿Por qué no huiste conmigo? Podríamos haber escapado juntos. Entonces estarías aquí, conmigo... aquí para <colortype(500)><edgecolortype(501)>calmarme<edgecolortype(0)><colortype(0)>. ¿Por qué... por qué tuviste que quedarte y dejarme solo?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_130",
+      "hash": "A5C6AE91BA1C72D2",
+      "target": "No es j-justo. Deberías estar aquí para <colortype(500)><edgecolortype(501)>calmarme<edgecolortype(0)><colortype(0)>. ¿Por qué no me escuchaste?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_131",
+      "hash": "3A0F6BB2C5F8EAF2",
+      "target": "¡No tenías por qué quedarte a luchar! Si no lo hubieras hecho, estarías aquí para <colortype(500)><edgecolortype(501)>calmarme<edgecolortype(0)><colortype(0)>, en vez de... en vez de... \\<sollozo>"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_132",
+      "hash": "A7FA75FB1FEF263E",
+      "target": "¿Q-quién es usted? ¿¡Qué quiere!?"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_133",
+      "hash": "755CD657E54D8121",
+      "target": "Sí, es cierto. Seguí al mercader, y que los dioses me fulminen por mi insensatez."
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_134",
+      "hash": "DACDFDA720FCE882",
+      "target": "“Lo que no os den, tenéis que tomarlo”, dijo. Cuando preguntamos cómo, nos mostró un alijo de armas que había traído y nos imploró que “tomáramos las riendas de nuestro destino”. Pensé en salir corriendo allí mismo, pero los demás estaban tan entusiasmados... Nos dividió en dos grupos, nos envió cada cual por su lado─"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_135",
+      "hash": "82B2B633DD5F3EDD",
+      "target": "¡P-pero cuando las Llamas nos encontraron, no supimos qué hacer! Nuestro cabecilla intentó parlamentar con el suyo, pero entonces empezaron a discutir, y luego a pelear, y de pronto todos peleaban, y las Llamas gritaban que no dieran cuartel, y─"
+    },
+    {
+      "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_TREMBLEMAN01443_000_136",
+      "hash": "EAD0C097957A9BBD",
+      "target": "¡Oh, dioses, el otro grupo! ¡Siguen ahí fuera! ¡Si no los detenemos, los masacrarán como al mío!"
+    }
+  ]
+}

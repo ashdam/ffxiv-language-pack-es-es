@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/028/StmBdz802_02830",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SEQ_00", "hash": "3CC07DF9AB59DCAF", "target": "Weidheri necesita que le echen una mano." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_TODO_00", "hash": "0BF9FE9B111F11B9", "target": "Entregar botellas de arak a los soldados de Ala Ghiri" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_TODO_01", "hash": "4FD418A76F990082", "target": "Hablar con Weidheri" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_000", "hash": "8D5FB1A90A5FE669", "target": "Eh, <if(gnum4,aventurera,aventurero)>. Si piensa quedarse un rato, ¿le importaría hacerme una pequeña entrega?" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_001", "hash": "BE6049688461E5F3", "target": "Se me ocurrió dar a los soldados una muestra de mi género, como agradecimiento por recuperar Ala Ghiri. Pero con tantos clientes, ando más que ocupado." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_002", "hash": "2103E7E464C28BB9", "target": "¿Le importaría repartir unas cuantas botellas de este aguardiente? Seguro que han cogido buena sed." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_003", "hash": "1BA1F09EB3900B7F", "target": "Después de todo lo que han hecho por nosotros, unas botellas de aguardiente es lo menos que puedo ofrecerles en agradecimiento." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SOLDIERA02830_000_010", "hash": "1C1729B655AFB303", "target": "¿Puedo ayudarle en algo, <if(gnum4,señorita,señor)>?" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SOLDIERA02830_000_011", "hash": "1EC8CD7C664B9ADA", "target": "¿Una botella de aguardiente? Vaya, qué generosos. Con mi turno a punto de terminar, es justo lo que necesitaba para relajarme." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SOLDIERB02830_000_012", "hash": "15CC2004C2AEFA40", "target": "¿Sí? ¿Qué ocurre?" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SOLDIERB02830_000_013", "hash": "C28E63B7271E8707", "target": "Vaya, una botella de aguardiente de Gyr Abania. Deduzco que la gente de aquí está de celebración, ¿no? Mmm... Creo que voy a echarme un trago ahora mismo." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_HEWELIN_000_014", "hash": "BC7201D3A089165A", "target": "<if([gnum11<12],<if([gnum11<4],Por los dioses\\, qué sed...,¿Por qué hará hoy un calor tan insoportable...?)>,<if([gnum11<17],¿Por qué hará hoy un calor tan insoportable...?,Por los dioses\\, qué sed...)>)>" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_HEWELIN_000_015", "hash": "05984FC29CCF4A7E", "target": "¿Una botella de aguardiente para celebrar? No podría haber llegado en mejor momento. Gracias." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_HEWELIN_000_016", "hash": "EABD052116E22022", "target": "Las gentes de Gyr Abania siempre fueron muy hospitalarias. Por suerte, hay cosas que nunca cambian." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_PALEMORNING_000_017", "hash": "9F06B596D02560DF", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,aventurera,aventurero)>. ¿Qué puedo hacer por usted?" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_PALEMORNING_000_018", "hash": "5ADF996A2CB51B07", "target": "Es muy amable de su parte. Es obvio que no puedo beberlo ahora, pero transmita mi agradecimiento de todos modos." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_PALEMORNING_000_019", "hash": "16CA381BE08FA1A1", "target": "Es un regalo tremendamente tentador, pero de verdad debería esperar a que termine mi guardia." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_020", "hash": "57DD96269873657F", "target": "Gracias por eso. No hay nada como un buen trago para levantar el ánimo, siempre lo digo." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_021", "hash": "D956C7C409389940", "target": "\\<suspiro> Ala Ghiri ha pasado por tanto a lo largo de los años. Me reconforta el corazón saber que podemos volver a respirar en libertad." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_022", "hash": "7E3A64E137713661", "target": "Por eso decidí dar a estos valientes soldados mis mejores botellas de arak. Es un brebaje especial que se elabora aquí mismo, en Ala Ghiri." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_023", "hash": "1AF827494E4CDBC3", "target": "Con sinceridad, no sé muy bien cómo repondré mis existencias, pero merece la pena ver a todos disfrutar. Ya hemos tenido preocupaciones para toda una vida." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_024", "hash": "C1BC12DDA9F752C7", "target": "Por ahora, yo digo que bebamos y saboreemos la victoria." }
+  ]
+}

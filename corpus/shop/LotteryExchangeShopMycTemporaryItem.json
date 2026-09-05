@@ -1,0 +1,12 @@
+{
+  "conversation": "shop/LotteryExchangeShopMycTemporaryItem",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_TITLE", "hash": "C49EA3D02D3EB6C6", "target": "Tasación de fragmentos olvidados" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_UI_NOITEM", "hash": "08FD2A8EE0CD1514", "target": "No hay nada que mostrar." },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_TITLE", "hash": "396493F138A86AFF", "target": "Resultados" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_RESULT_UI_NEXT", "hash": "162D136E79DF3279", "target": "Siguiente" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_SINGLE", "hash": "1F50E90A8817B6E5", "target": "¿Tasar <ennoun(Item,3,lnum1,1,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" },
+    { "gameKey": "shop/LotteryExchangeShopMycTemporaryItem#TEXT_LOTTERYEXCHANGESHOPMYCTEMPORARYITEM_CONFIRM_MULTI", "hash": "C0FA4C5B75CB9C48", "target": "¿Tasar <num(lnum4)> <ennoun(Item,3,lnum1,2,1)>?<br><br><head(<ennoun(Item,3,lnum1,2,1)>)> restantes: <num(lnum3)><br>Intentos restantes: <num(lnum2)>" }
+  ]
+}

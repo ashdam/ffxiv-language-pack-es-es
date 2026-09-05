@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/039/LucKsa104_03944",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SEQ_00", "hash": "E1117324CD3F381C", "target": "Dmitar quiere compartir noticias de un hallazgo peculiar en el frente sur." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_TODO_00", "hash": "680E4AADF62CB4EA", "target": "<if([lnum1<lnum2],Obtener un fragmento olvidado,Entregar el fragmento olvidado a Dmitar)>" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_000", "hash": "2B5A7343C866ABED", "target": "Se requiere un rango de la Resistencia de <num(lnum1)> para avanzar en esta misión." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_100_001", "hash": "7176AFC49ADDFA39", "target": "El rango de la Resistencia puede aumentarse informando al oficial de estado mayor de la Resistencia tras acumular suficientes gestas." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_000", "hash": "0A05DAFF1ECACAF9", "target": "Llega en buen momento, Espada <split(<string(gstr1)>, ,2)>. Tengo un informe bastante interesante que compartir con usted." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_001", "hash": "C8BAE122CFBAD6FE", "target": "¡Durante una misión de reconocimiento, nuestros exploradores dieron con reliquias que hemos confirmado que pertenecieron a las Espadas de Gunnhildr!" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_002", "hash": "CE6F2F2C48BD46BE", "target": "Durante mucho tiempo se creyó que la guardia de la reina poseía cristales en los que almacenaban el conocimiento de sus técnicas de combate, y este hallazgo ha despejado toda duda. Estos fragmentos olvidados, como los llamamos, bien podrían inclinar la balanza de la guerra a nuestro favor." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_003", "hash": "5E3879AA8E56F218", "target": "Verá, para nuestra sorpresa, el maestro Gerolt asegura tener experiencia trabajando con cristales similares y cree que las memorias que contienen pueden extraerse." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_004", "hash": "CFA53C53B54DFA26", "target": "Se ha puesto manos a la obra para lograrlo y nos ha asegurado que no tardaremos en descubrir sus secretos." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_005", "hash": "B113EE8B677AD8EF", "target": "Con sus armas y técnicas a su disposición, sería <if(gnum4,una digna heredera,un digno heredero)> del legado de las Espadas de Gunnhildr." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_006", "hash": "467698B89F4272C8", "target": "Eso suponiendo que consiga hacerse con más de estos fragmentos, claro está." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_007", "hash": "0C13BF09B699310E", "target": "A juzgar por el informe de nuestros exploradores, no será tarea fácil. Al parecer, dondequiera que se encuentren, no andan lejos bestias formidables." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_008", "hash": "43B054454CA12C2E", "target": "Aun así, puede ser provechoso librar al campo de batalla de tales criaturas, no solo por el bien de nuestros compañeros, sino por la oportunidad de conseguir cualquier fragmento que haya cerca. Le deseo la mejor de las suertes." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_010", "hash": "96B285CD62EBD720", "target": "Los fragmentos olvidados sin identificar pueden obtenerse abatiendo monstruos en el campo, así como en escaramuzas y enfrentamientos cruciales. También pueden intercambiarse o venderse en el tablón del mercado." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_020", "hash": "31D9B5A5883AE179", "target": "Si consigue encontrar aunque sea un solo fragmento, podremos dar el siguiente paso." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_021", "hash": "18B93DD8D081FE4C", "target": "Los fragmentos olvidados sin identificar pueden obtenerse abatiendo monstruos en el campo, así como en escaramuzas y enfrentamientos cruciales. También pueden intercambiarse o venderse en el tablón del mercado." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_045", "hash": "890EC2532DB2837A", "target": "¿Qué tal le fue buscando fragmentos olvidados?" },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_050", "hash": "F9E3A274037731BE", "target": "¡Bien hecho, Espada <split(<string(gstr1)>, ,2)>! Bien hecho, sin duda." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_100_050", "hash": "13940FDEC6450947", "target": "Ahora bien, antes de poder iniciar el proceso de extracción, estos fragmentos deben tasarse primero para saber qué clase de memorias contienen." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_051", "hash": "7A225D64A58B618B", "target": "De ahora en adelante, asegúrese de entregar cualquier fragmento que encuentre a uno de nuestros tasadores." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_DMITAR_000_052", "hash": "6015F423CE08C4EA", "target": "De hecho, uno de ellos está apostado junto a aquella tienda de allí." },
+    { "gameKey": "quest/039/LucKsa104_03944#TEXT_LUCKSA104_03944_SYSTEM_000_061", "hash": "309B5A70113A615B", "target": "Las acciones extraídas de los fragmentos olvidados se almacenan en la Lost Finds Cache." }
+  ]
+}

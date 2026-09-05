@@ -1,0 +1,21 @@
+{
+  "conversation": "custom/004/RegSeaPvpSeasonTicket_00438",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_000_000", "hash": "5AC829D7608E4AF1", "target": "¡Ah, he aquí un lobo sediento de sangre, <if(gnum4,reina,rey)> de la manada! Si llevas encima tus Wolf Collars, te los quitaré de ese robusto cuello a cambio de una recompensa." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_000", "hash": "412834AE57DBBACD", "target": "¿Qué quieres hacer?" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_001", "hash": "46FFC46BD9A45572", "target": "Cambiar por un arma. (10 Wolf Collars)" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_002", "hash": "7F8D3307F71282FC", "target": "Cambiar por Marcas de lobo. (1 Wolf Collar)" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_003", "hash": "463C3F534C7B4A0C", "target": "Preguntar por los Wolf Collars." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_MENU_000_004", "hash": "6195213F6CCA6686", "target": "Marcharse." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_000", "hash": "C7132987F3DBAD3A", "target": "¿Te has dejado los Wolf Collars en casa? Habría jurado que una bestia rabiosa como tú tendría al menos una veintena guardada." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_001_001", "hash": "4CACEECACBA640DA", "target": "Hmm, parece que ya tienes todos los Marcas de lobo que se te permiten. Son las reglas, me temo." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_000", "hash": "81037549917BEA5F", "target": "¿Cambiar un Wolf Collar por <kilo(lnum3,\\,)> <ennoun(Item,3,lnum2,2,1)>?" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_ASK_000_001", "hash": "9D44F373A91651D0", "target": "Advertencia: no podrás recibir todos los Marcas de lobo. ¿Aun así deseas continuar?" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_002_000", "hash": "F5BAE6108EF02322", "target": "Aquí tienes tus Marcas de lobo. Te los has ganado." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SYSTEM_002_000", "hash": "8CF25A3711AA6C25", "target": "Transacción cancelada." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_000", "hash": "3335AC7F53E4F8F8", "target": "Los Wolf Collars son prueba de tu destreza. Se conceden al final de cada temporada de the Feast según tu clasificación." },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_001", "hash": "AFC0E63AE3F16E4F", "target": "La cantidad de Wolf Collars que obtienes depende de tu rango al terminar la temporada. Cuanto más alto el rango, más ganas. ¡Así que saca las garras y los colmillos y desgarrra y despedaza tu camino hacia la gloria!" },
+    { "gameKey": "custom/004/RegSeaPvpSeasonTicket_00438#TEXT_REGSEAPVPSEASONTICKET_00438_SEASONREWARD2_003_002", "hash": "CF9A635D57082C0F", "target": "Que quede claro: los Wolf Collars no son solo para presumir. Puedes cambiarlos aquí por Marcas de lobo y armas. ¿No tienes suficientes para algo que quieres? Aviva el hambre y consigue más en la próxima temporada." }
+  ]
+}

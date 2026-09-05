@@ -1,0 +1,520 @@
+{
+  "conversation": "quest/048/KinGma113_04872",
+  "questName": "Traders of Happiness",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_SEQ_00", "hash": "34E04A4945FEA6FB", "target": "Wuk Lamat está lista para ir en busca del elector del Servidor del Alba." },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_00", "hash": "0339BAF94C3C8E83", "target": "Reunir información por Wachunpelo" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_01", "hash": "A7DB9CB640034B60", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_02", "hash": "4025A207764E945D", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_03", "hash": "DDF952752D19A9A3", "target": "Hablar con los peones del rancho" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_04", "hash": "E4B743ABCAA01C0E", "target": "Esperar a Wuk Lamat en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TODO_05", "hash": "ACFEFFC56DC191B9", "target": "Hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ERENVILLE_000_001",
+      "hash": "22A25757C6DEE213",
+      "target": "Te lo juro... La pierdo de vista un momento y..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_KRILE_000_005",
+      "hash": "42EEB9966F59270B",
+      "target": "Wuk Lamat tiene suerte de contar con Erenville. Todo el mundo, y la realeza más aún, necesita un amigo que no tema reñirle cuando hace falta."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_010",
+      "hash": "2412D9B0F18A8601",
+      "target": "Por lo visto, a los Pelupelu también les gusta el café."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALISAIE_000_015",
+      "hash": "0CFA839B55C799B0",
+      "target": "Todas estas casas y edificios hechos a la medida de los Pelupelu... y a la mía, ahora que lo pienso."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_020",
+      "hash": "0EBC00FE87BF8443",
+      "target": "No ha sido mi mejor momento, lo admito... Pero, ya que estamos aquí, hagamos a lo que vinimos: ¡encontrar al elector!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_021",
+      "hash": "024538645A7AB386",
+      "target": "Permitidme proponer una estrategia, entonces. Krile, Alisaie y yo hablaremos con los mercaderes. Wuk Lamat, tú y Erenville podríais abordar a viajeros y transeúntes."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_022",
+      "hash": "7A89A2F59DEEDE2B",
+      "target": "<split(<string(gstr1)>, ,1)>, investiga cualquier otro establecimiento que te llame la atención. Si averiguamos algo útil, se lo transmitimos a la Tercera Promesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_030",
+      "hash": "E2CC6E21B558797D",
+      "target": "¿El elector del Servidor del Alba?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_031",
+      "hash": "301D0FF3545B6B6F",
+      "target": "Ah, ya me parecía a mí una cara nueva en el pueblo. Habéis venido por el rito de sucesión, supongo. A mí me da igual quién ocupe el trono mientras mantenga Tural en paz."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_032",
+      "hash": "AC4A32D66B2926A6",
+      "target": "¡La gente no suele estar de humor para relajarse y catar nuestro excelente mezcal cuando empiezan a volar flechas y lanzas, no sé si me explico!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_033",
+      "hash": "A3B7A79B5F199658",
+      "target": "Y hablando de eso, ¿os apetece una copa? Alegría compartida, alegría doblada, digo yo."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_034",
+      "hash": "8A0BED8A79BA2C69",
+      "target": "Ah, cierto, sí, preguntabais por lo del elector."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_035",
+      "hash": "7A25DCE11D94FCD4",
+      "target": "Como acabo de volver de mi ruta comercial, he oído que hay un rito en marcha, pero poco más. Nuestro jefe de cuentas, Tobli, podría contaros bastante más..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_036",
+      "hash": "E925AFBB8498D3DD",
+      "target": "¡Hola! ¡Soy Mablu! ¿Queríais preguntarme algo?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_037",
+      "hash": "E6D93C39BE553F76",
+      "target": "...Lo siento, no sé nada de ningún “elector”. ¡Pero echadles un ojo a nuestras estupendas alpacas antes de iros!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_038",
+      "hash": "5FEBC7CAC7CC7D58",
+      "target": "¡Ah, pero admiradlas desde una distancia prudente! Si os acercáis mucho, a nuestras nerviosas criaturas les puede dar por escupiros... ¡y eso <italic(1)>apesta<italic(0)>!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_039",
+      "hash": "EE1099712BC843C7",
+      "target": "No hace mucho le pasó a un comprador que vino de visita. Tobli, el capataz del rancho, se enfadó muchísimo conmigo por no avisar como es debido."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_040",
+      "hash": "160A5CBF401946A1",
+      "target": "Nadie mete la pata sin que Tobli se entere. Sabe <italic(1)>todo<italic(0)> lo que pasa en este rancho."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_041",
+      "hash": "9598E5CD41139DF6",
+      "target": "¿Electores? ¡Ah, sí, lo sé todo sobre el rito de sucesión!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_042",
+      "hash": "C8C2F5D0D239EB6C",
+      "target": "Buscan sentar a un nuevo soberano en el trono, ¿eh? Yo, personalmente, voy con Zoraal Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_043",
+      "hash": "D5ECBC05213578F4",
+      "target": "Si gana la Primera Promesa, buscará ampliar nuestra esfera de influencia. ¡Eso significa acceso a más recursos y más clientes, potencialmente por millares! ¡Cuántas oportunidades nuevas de repartir felicidad a lo largo y ancho!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_044",
+      "hash": "F15E53104948AF75",
+      "target": "Cada vez son más los que piensan como yo, así que he empezado a fabricar artículos inspirados en el Hijo Resiliente. ¿Os interesa comprar algo?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_Q1_000_000",
+      "hash": "53284350C1B323ED",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_A1_000_001",
+      "hash": "0457F4A1A8A5706C",
+      "target": "¡Por favor, limítate a responder a mi pregunta!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_A1_000_002",
+      "hash": "2E5C8C91A65102DD",
+      "target": "No. No, no me interesa."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_046",
+      "hash": "CC91E3FDF56F9545",
+      "target": "Muy bien. ¿Decíais que queríais saber del elector? <italic(1)>Podría<italic(0)> ayudaros... pero no lo haré. Se nota que no apoyáis a Zoraal Ja ni a su política."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCRAFTSMAN04872_000_050",
+      "hash": "3345FAB0B8E2655B",
+      "target": "Hablad con Tobli, nuestro jefe de cuentas. Él tendrá las respuestas que buscáis."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_055",
+      "hash": "02D32EBCA25B630C",
+      "target": "¡Bueno, yo vuelvo al trabajo! ¡Como Tobli me pille de brazos cruzados, me cae bronca!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUIMPATIENT04872_000_060",
+      "hash": "8530D960B232FAAC",
+      "target": "La Primera Promesa vendrá por aquí también, ¿no? Tendré que darle un empujoncito en la dirección correcta."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_070",
+      "hash": "3BEEFCBC22CB36BB",
+      "target": "Hay que andarse con ojo con estos vendedores de lengua de plata. Casi compro una botella de mezcal. Y un montón de mantas. Y luego estaba ese adorno tan encantador..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_071",
+      "hash": "2972BA072A9D48D7",
+      "target": "En fin, lo que sí he sacado es que Tobli es con quien hay que hablar del rito. Si al menos dijeran dónde encontrar a ese “jefe de cuentas” suyo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_072",
+      "hash": "74629EC65CDE5AB8",
+      "target": "¿En serio? ¿Es también el capataz del rancho?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_073",
+      "hash": "5D5ACE3721E4352F",
+      "target": "Pues el rancho de alpacas no queda lejos de aquí. Yo digo que le hagamos una visita antes de que vuelvan los demás."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_080",
+      "hash": "A383745BF9FE852C",
+      "target": "¿Ya estáis de vuelta?"
+    },
+    { "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_SYSTEM_000_085", "hash": "AE223A125DDF1565", "target": "La bestia te observa con ojos recelosos y la mandíbula crispada. Puede que retroceder despacio sea lo más sensato..." },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_090",
+      "hash": "F68151C7B815A70A",
+      "target": "Manteneos a una distancia prudente de las alpacas, por favor. Por vuestro bien y por el suyo."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_095",
+      "hash": "E835CD50FFE6D9C8",
+      "target": "¡Veo que han llegado nuestros invitados!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_100",
+      "hash": "1A1BBBFC5A94CC2D",
+      "target": "Así que ha empezado el rito de sucesión..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_105",
+      "hash": "6502436A02B47FDE",
+      "target": "\\<escalofrío> Eso son <italic(1)>muchísimas<italic(0)> alpacas. Aun así, sabemos que el jefe de cuentas podría estar por aquí..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_106",
+      "hash": "05A9812B37095543",
+      "target": "No puedo dejar que el miedo me frene. ¡N-no es que tenga miedo, claro!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_107",
+      "hash": "7FD214BE86E3C56F",
+      "target": "Perdona, ¿alguno de estos trabajadores es Tobli?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_108",
+      "hash": "384C5547D6B74E59",
+      "target": "¿Tobli? Ah, sí, le gusta mezclarse con los mozos del rancho y estar al tanto de todo. Aunque no puedo deciros cuál es."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_109",
+      "hash": "7773BA3774E0B3ED",
+      "target": "¿No... puedes? ¿Esto forma parte del rito?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_110",
+      "hash": "0296DED14003E5C1",
+      "target": "Lo único que puedo decir es que Tobli saca a menudo su tema apestoso favorito."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_111",
+      "hash": "13E82DE484A8C8CC",
+      "target": "Y tampoco se resiste a un trato provechoso... aunque ¿quién de nosotros sí, verdad? Aun así, si le lleváis una oferta <italic(1)>muy<italic(0)> buena, quizá se le escape quién es."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_112",
+      "hash": "D62803FBF405B766",
+      "target": "Je, o sea que es como un juego."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_113",
+      "hash": "651CB2AD2B8A9C09",
+      "target": "Está chupado. ¡Solo tengo que ofrecerle a Tobli un trato que no pueda ignorar! ¡Ningún problema!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_114",
+      "hash": "1FBE2BFEC252CA74",
+      "target": "...Bueno, quizá un problema. No creo que mi bolsa dé para pagar a todos los que creamos que <italic(1)>podrían<italic(0)> ser Tobli. Preguntemos primero para ir descartando."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_115",
+      "hash": "99EF4180D1AB2232",
+      "target": "¡Genial! ¡Nos vemos aquí para compartir impresiones!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_120",
+      "hash": "A09C3A5B473CAC15",
+      "target": "¿Hm...? ¡Bueno, obviamente yo no soy Tobli! Q-quiero decir... uy. No debería haber dicho eso."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_121",
+      "hash": "B566797651D5097E",
+      "target": "Se supone que tenéis que averiguar por vosotros mismos quién es Tobli, o si acaso hay un elector en el pueblo. ¡Suerte!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_122",
+      "hash": "84D41264FE3528E9",
+      "target": "Vaya, alguien de allende la sal, si no me equivoco."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_123",
+      "hash": "FF587DA7BFCA3208",
+      "target": "Os aviso: las alpacas escupen si las sobresaltáis. Os sugiero movimientos lentos y medidos."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_124",
+      "hash": "C5EF13344B45AC00",
+      "target": "¿Creéis que yo podría ser Tobli? Jajaja, ¡pues quizá lo sea!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_125",
+      "hash": "DE223A48F25FB129",
+      "target": "¡Lo único que diré es que en este pueblo nadie ha criado más alpacas que yo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_126",
+      "hash": "03197598D821F737",
+      "target": "¿Que si soy Tobli...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_127",
+      "hash": "0A71524771200EDF",
+      "target": "Sí... sí, soy yo. Excelente trabajo el de la Tercera Promesa y su séquito. Buen instinto. ¿Damos comienzo al rito de sucesión, entonces...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_130",
+      "hash": "C8EF285AD724AD45",
+      "target": "¡Olfatearé al jefe de cuentas en un pispás! ¡Ya lo verás!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_135",
+      "hash": "ACA06D11E96ACDF7",
+      "target": "¡Recordad: yo nunca he dicho que hubiera un elector en Wachunpelo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_140",
+      "hash": "DA21E56762AE8C0A",
+      "target": "Daos prisa. Tengo pelajes que cepillar y escupitajos apestosos que fregar."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_145",
+      "hash": "BADD03F06C3D9937",
+      "target": "¡La Tercera Promesa debe demostrar su valía!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_150",
+      "hash": "249ECCA4065D8C3D",
+      "target": "¿Y bien...? ¿No estáis listos para empezar el rito...?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_160",
+      "hash": "06DEC8865036CCBC",
+      "target": "Veo que los dos hemos terminado nuestros interrogatorios."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_161",
+      "hash": "1C7644AF605C4BB6",
+      "target": "Entonces, ¿quién crees que es? Yo tengo mis sospechas, pero oigamos tu apuesta."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_Q2_000_000",
+      "hash": "6BA8D783BF09E9BC",
+      "target": "¿Quién crees que es Tobli?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_A2_000_001",
+      "hash": "586139E038BA33F0",
+      "target": "El mozo diligente."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_A2_000_002",
+      "hash": "141BABD9A645258D",
+      "target": "El mozo fanfarrón."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_A2_000_003",
+      "hash": "A2290F724A73B0FC",
+      "target": "El mozo indiferente."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_163",
+      "hash": "F8AD2293381853F4",
+      "target": "Ah, el que está tan metido en las faenas del establo. ¡Yo también le tenía echado el ojo! Hora de arrancarle la máscara a nuestro mozo misterioso... por así decirlo."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_164",
+      "hash": "498CF12BD1FF75FC",
+      "target": "¡Sabemos que eres tú, Tobli! Y para demostrarlo, te propongo un trato: una suma generosa a cambio de que confirmes tu verdadera identidad."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_165",
+      "hash": "2E71BAD0D3BF6E60",
+      "target": "Una oferta que acepto encantado."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_166",
+      "hash": "9C343B4E272E4913",
+      "target": "(-Tobli-)Como bien habéis adivinado, en efecto soy Tobli. Jefe de cuentas de Wachunpelo y capataz del Rancho de la Familia."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_167",
+      "hash": "E06AE8182E25B476",
+      "target": "(-Tobli-)Y también soy uno de los electores elegidos por Gulool Ja Ja."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_168",
+      "hash": "8B537E1C73577B2F",
+      "target": "¡Ajá! ¡En un lugar que sale en la Saga de Tuliyollal, justo como pensábamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_169",
+      "hash": "4C962A17527CFC86",
+      "target": "Hice bien en fiarme de tu instinto. ¡Y apuesto a que no será la última vez!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_170",
+      "hash": "DFF52BE6AEB8DC44",
+      "target": "...Aunque me ha costado más monedas de las que me habría gustado saberlo con certeza."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_100_172",
+      "hash": "A124573E6638A255",
+      "target": "¡Te ha pillado limpiamente, Tobli!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_100_173",
+      "hash": "41D02148913E47A5",
+      "target": "(-Tobli-)Y me alegro: habría sido una lástima que su candidatura acabase aquí."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_173",
+      "hash": "7AABD121678EAC9A",
+      "target": "¿Ese tipo ruidoso y fanfarrón? Supongo que podría ser Tobli. ¡Solo hay una forma de averiguarlo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_174",
+      "hash": "FBFEE84FF70250D6",
+      "target": "Nada me haría más feliz que conocer tu identidad. Así que hagamos un trato y me dices la verdad. ¡Tengo dinero!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_175",
+      "hash": "ACF09491219D8326",
+      "target": "Jajaja, pues acepto vuestro trato."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_176",
+      "hash": "E69FBC4FC3774567",
+      "target": "¡Hecho y bien hecho! En cuanto a mi parte del acuerdo..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUPOWERFUL04872_000_177",
+      "hash": "62B056758784F901",
+      "target": "Yo no soy Tobli. Ni jefe de cuentas ni capataz del rancho: ¡solo un humilde mozo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_178",
+      "hash": "DA45D04F0092F513",
+      "target": "¿Que no eres él?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_179",
+      "hash": "DE82AB87113F4590",
+      "target": "¡Maldita sea, <split(<string(gstr1)>, ,1)>, confié en ti! ¡Con ese dinero me habría comprado trescientos tacos gourmet!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_180",
+      "hash": "6E28F2DD2A0E2A68",
+      "target": "...No, no puedo dejar que esta tragedia taquera me distraiga de lo importante. ¡Tenemos que averiguar cuál es Tobli!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_181",
+      "hash": "53841EA6DCA722A7",
+      "target": "Hm, a mí me pareció... poco convincente. ¡Pero si es tu elección, con ese hablamos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_182",
+      "hash": "C087BF484EEF2B42",
+      "target": "¡Tobli! Te propongo un trato: la verdad sobre quién eres a cambio de una buena suma. ¿Qué me dices?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_183",
+      "hash": "485BA4F44307E5FA",
+      "target": "Digo que soltéis la moneda..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_PELUPELUCOOL04872_000_184",
+      "hash": "40B2795130725A5A",
+      "target": "La verdad es que... ni siquiera soy mozo del rancho. Solo me gusta pasarme por aquí a mirar las alpacas."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_185",
+      "hash": "79C3513BF2898DBC",
+      "target": "¿Qué? ¿Ni siquiera trabajas aquí?"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_186",
+      "hash": "4A6F8C573D2FAAAC",
+      "target": "¡<italic(1)>Sabía<italic(0)> que en esta debí hacer caso a mi instinto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_187",
+      "hash": "D60E6B1DA5E221E4",
+      "target": "...Pero no es momento de llorar el dinero perdido. ¡Hay que reagruparse y replanteárselo!"
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_TOBLI_000_190",
+      "hash": "1FBDBAACC0ACCC42",
+      "target": "He cumplido con mi deber y he asignado su prueba a los aspirantes. El resto depende de ellos."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_MABLU_000_195",
+      "hash": "45937142212D0BCB",
+      "target": "Me impresionó lo fácil que le resultó a Zoraal Ja encontrar a Tobli, pero... también me dio algo de miedo."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ERENVILLE_000_200",
+      "hash": "8162ED1CD50BF0D2",
+      "target": "Dije que mantener la calma era la clave, pero con las alpacas salvajes no valen las mismas reglas."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_KRILE_000_205",
+      "hash": "DA7EB4790EAF45B5",
+      "target": "Así que este es el elector que buscábamos."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALPHINAUD_000_210",
+      "hash": "D559FEE0768B5C01",
+      "target": "A juzgar por el volumen del grito de Wuk Lamat, la expectoración de las alpacas debe de tener un olor de veras repugnante. Me conformo con seguir ignorándolo."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_ALISAIE_000_215",
+      "hash": "C81601CFF4673128",
+      "target": "Zoraal Ja me recuerda al hijo exaltado de Garlemald. De los dos, eso sí, Zenos era innegablemente más arrogante."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_220",
+      "hash": "37A1A91D4CDC03B2",
+      "target": "\\<jadeo> \\<jadeo> He tenido que ir a lavarme esa porquería de la cara. Creo que me la he quitado toda..."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_221",
+      "hash": "4BF9A606EDB103B3",
+      "target": "¿Pero te importaría olerme, solo para asegurarnos? La peste me ha destrozado el olfato."
+    },
+    {
+      "gameKey": "quest/048/KinGma113_04872#TEXT_KINGMA113_04872_WUKLAMAT_000_222",
+      "hash": "34F6EDEA9E2F24FC",
+      "target": "¡Oye! ¡Te he visto esa cara!"
+    }
+  ]
+}

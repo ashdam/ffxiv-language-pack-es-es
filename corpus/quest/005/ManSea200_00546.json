@@ -1,0 +1,972 @@
+{
+  "conversation": "quest/005/ManSea200_00546",
+  "questName": "The Lominsan Envoy",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_1",
+      "hash": "65CA888DB926A9A8",
+      "target": "El cometido que tengo en mente para ti requiere cierta explicación. Espero que no tuvieras otros planes. Al asunto, pues."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_10",
+      "hash": "E71668CDEB87AD43",
+      "target": "He redactado una carta para cada uno de mis homólogos en la Alianza Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_11",
+      "hash": "C0C657DE2CFB0F72",
+      "target": "La batalla de Carteneau y la Calamidad que la siguió se cobraron incontables vidas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_12",
+      "hash": "EAA41E3C77546FB4",
+      "target": "Han pasado cinco años desde que quienes nos salvamos nos arrastramos fuera de las cenizas para contemplar una Eorzea que apenas reconocíamos... Cinco años, y aun así el pueblo sigue sufriendo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_13",
+      "hash": "F8A0C8D5E0D13EE1",
+      "target": "Sus vidas están cargadas de zozobra y penurias, y los Guerreros de la Luz que antaño podrían haberles dado esperanza ya no están."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_14",
+      "hash": "8DC469796F8CC00D",
+      "target": "Y, sin embargo, debemos seguir adelante pese a todo. Aunque nunca lo haremos de verdad hasta que hayamos afrontado nuestro pasado."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_15",
+      "hash": "845D307DF14CCB5B",
+      "target": "Con ese fin, propongo que se celebre un acto conmemorativo en cada una de las ciudades-estado en el quinto aniversario de la batalla de Carteneau."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_16",
+      "hash": "200BB78BF4C226F3",
+      "target": "Estas cartas contienen los detalles de dicha propuesta."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_17",
+      "hash": "72CF047F9355969D",
+      "target": "Y quisiera que se las entregaras a nuestros aliados como <if(gnum4,mi emisaria personal,mi emisario personal)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_18",
+      "hash": "AFCACAA1581A35A6",
+      "target": "Te has revelado <if(gnum4,una aliada firme y capaz,un aliado firme y capaz)> de Limsa, pero esa no es mi única razón para elegirte. No. Te elijo porque posees una cualidad que me trae a la memoria a los héroes de antaño. Una cualidad que temía perdida. Dime que cumplirás este cometido."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_19",
+      "hash": "7F00D28B31BB9C51",
+      "target": "Sabía que no me decepcionarías."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_20",
+      "hash": "BFAA378578253AE6",
+      "target": "Este cometido te llevará muy lejos de las fronteras de nuestra nación, a las ciudades-estado de Gridania y Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_21",
+      "hash": "07CA94AD75837D3F",
+      "target": "Un viaje agotador, sin duda... de haberlo hecho por mar y tierra. Pero pretendo que surques los cielos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_22",
+      "hash": "44B2D7EBDF70CE2E",
+      "target": "Un pase de aeronave, para que lo uses a tu discreción."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_23",
+      "hash": "809B94B8DE3A6E1C",
+      "target": "Las aeronaves con destino a las naciones de nuestros aliados parten del embarcadero anexo al puente de mando. Pero antes de marchar, te sugiero que le saques a Baderon unas perlas de sabiduría sobre cada uno de tus destinos. Si algo es ese viejo granuja, es un hombre muy viajado."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_24",
+      "hash": "24A53C11EAB4E992",
+      "target": "Es una lástima que no pueda expedir tales pases con más libertad, como hacía en tiempos más pacíficos, cuando las plazas no escaseaban tanto. Pero en estos tiempos de guerra, cada nave que enviamos a las nubes corre el riesgo de atraer la mirada del Imperio, y todo viaje ha de nacer de la necesidad."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_25",
+      "hash": "52CB79199F78BA45",
+      "target": "Por si lo dudas, considero que tu puesto es bien merecido."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_26",
+      "hash": "481B78533F97D3D6",
+      "target": "Y no soy la única que opina así. Hubo <italic(1)>otras<italic(0)> partes que deseaban que se te concediera el privilegio del viaje aéreo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_27",
+      "hash": "5466E3FDDA4E4F79",
+      "target": "Sí, <split(<string(gstr1)>, ,1)>, tus hazañas no pasan desapercibidas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_28",
+      "hash": "59FCCD9004E9A8CD",
+      "target": "Son muchos los que ven un gran potencial en ti. Pero ya te he adulado bastante."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_29",
+      "hash": "7250791A8CA53623",
+      "target": "En nombre de Limsa Lominsa y de su pueblo, te insto a partir, <if(gnum4,aventurera,aventurero)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_30",
+      "hash": "1718AC133566540B",
+      "target": "Descubre el reino por el que tantos han luchado y muerto."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_31",
+      "hash": "48ACCAE58E3B6DD6",
+      "target": "La maravilla y el peligro te aguardan a partes iguales, pero no rehúyas ninguno. Solo desafiando lo desconocido alcanzarás la grandeza de la que sin duda eres capaz."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_32",
+      "hash": "AE52DBD6EC4563B3",
+      "target": "La luz del Cristal te guía, y apostaría a que tu destino no será cosa menor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_40",
+      "hash": "2156DFC70D0352A0",
+      "target": "¿Ya de vuelta de tu reunión con la Almirante?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_41",
+      "hash": "AD192BC90174534C",
+      "target": "¿¡<if(gnum4,Emisaria,Emisario)> personal, nada menos!?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_42",
+      "hash": "16835A37B37E51D6",
+      "target": "¿¡Así que vas a llevar la palabra de la mismísima Almirante a los líderes de la Alianza!?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_43",
+      "hash": "92A536C33565361C",
+      "target": "Que me aspen... Sabía que estabas subiendo en el mundo, ¡pero no imaginaba que hubieras llegado <italic(1)>tan<italic(0)> maldito alto!"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_44",
+      "hash": "13858AA2C02EF215",
+      "target": "¡Estoy orgulloso de ti, <if(gnum4,muchacha,muchacho)>! Pensar en lo lejos que has llegado... ¡vaya, casi se me salta la lágrima! Y no es la cerveza la que habla, no─bueno, no <italic(1)>solo<italic(0)> la cerveza, en todo caso..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_45",
+      "hash": "B713A4C5CBBAAA50",
+      "target": "Bendita sea la Navegante por guiarte hasta mí."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_46",
+      "hash": "09C97CB53DEFC331",
+      "target": "¡Por supuesto, esto no es más que el principio! Ahora que le has echado el guante a un pase de aeronave, toda Eorzea se extiende ante ti, ¡como una bella moza en un lecho de plumas!"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_47",
+      "hash": "2013473DC0972B21",
+      "target": "¡Y bien grande que es, con un montón de rincones y recovecos de lo más tentadores!"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_48",
+      "hash": "F7E26E2586B25DA1",
+      "target": "Si te parece que los de Limsa somos gente peculiar, espera a cruzarte con los sombríos moradores del bosque de Gridania, o a intercambiar monedas con los astutos mercaderes de Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_49",
+      "hash": "5009F27748F78A53",
+      "target": "Y luego están los parajes salvajes donde mandan los bichos, donde no pone el pie nadie con una pizca de sentido común..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_50",
+      "hash": "A3B8ACF9D31AC6BA",
+      "target": "Pero tú eres <if(gnum4,una aventurera,un aventurero)>, así que yo no dejaría que una nimiedad así te frenara."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_51",
+      "hash": "5FC30CF9AAAD6BB3",
+      "target": "Claro que no <italic(1)>todo<italic(0)> es explorar y emociones."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_52",
+      "hash": "7D09CCC88FF60D31",
+      "target": "Hay un montón de problemas que asolan a toda nación, ¿ves?─no solo a la nuestra. Hablo de intrigas y luchas internas, de hombres bestia y sus malditos primigenios─sí, la vida tiene un lado feo, y tarde o temprano acabarás topándote con él."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_53",
+      "hash": "5E5FA26A6CF01CA3",
+      "target": "...Pero apuesto a que ahí fuera no hay nada que no puedas manejar. Algo me dice que te irá de perlas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_54",
+      "hash": "0E47343877BBD651",
+      "target": "Al reino le ha ido mal, es cierto, pero la gente empieza a recuperarse de la paliza que le dio la Calamidad. Llámame optimista sin remedio, pero no haría falta mucho para dar la vuelta a las cosas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_55",
+      "hash": "D1078FDA54D417E4",
+      "target": "¡Es el momento perfecto para que <if(gnum4,una aventurera,un aventurero)> como tú salga ahí fuera y marque la diferencia!<br>...Bueno, ¿¡a qué esperas!?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_60",
+      "hash": "1E136B2146CB590D",
+      "target": "Saludos, <if(gnum4,señora,señor)>. Este es el mostrador para pasajeros con destino a Gridania."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_61",
+      "hash": "4BF754263D6B20A5",
+      "target": "...Un momento, ¿no es usted <string(gstr1)>, <if(gnum4,esa famosa aventurera,ese famoso aventurero)>? ¡Es usted una inspiración para todos, <if(gnum4,señora,señor)>! ¡Aerovías Highwind está a su disposición! ¿Viajará hoy con nosotros?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q1_000_1",
+      "hash": "028A0BBB26090CC3",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A1_000_1",
+      "hash": "B6E7AF2DF00E1EBE",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A1_000_2",
+      "hash": "7D2BAF69AF6FBE81",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_62",
+      "hash": "EC5B4B589C3163E7",
+      "target": "Tómese su tiempo, <if(gnum4,señora,señor)>. Estaré encantada de atenderle cuando esté <if(gnum4,lista,listo)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_65",
+      "hash": "28D9B96896338822",
+      "target": "¿Está <if(gnum4,lista,listo)> para partir, <if(gnum4,señora,señor)>? La aeronave con destino a Gridania saldrá en breve."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_66",
+      "hash": "99D361DF60015915",
+      "target": "Gracias por viajar con Aerovías Highwind. La aeronave a Ul'dah partirá pronto."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q5_000_1",
+      "hash": "7DE9E8CF055959AA",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A5_000_1",
+      "hash": "469D197AB40412BD",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A5_000_2",
+      "hash": "7942A7C8D4C1B151",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LNOPHLO_000_67",
+      "hash": "387025E8B6130802",
+      "target": "Tómese su tiempo, <if(gnum4,señora,señor)>. Estaré encantada de atenderle cuando esté <if(gnum4,lista,listo)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_70",
+      "hash": "BF8EF1217D83E138",
+      "target": "¿Desea salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q6_000_1",
+      "hash": "2AD6E7CD83C0B515",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A6_000_1",
+      "hash": "E3F60BE184B0F8C1",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A6_000_2",
+      "hash": "0D9E9011EE99F8E2",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_71",
+      "hash": "256383085DC4E54B",
+      "target": "Le deseamos un agradable viaje."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q3_000_1",
+      "hash": "AFDC094DB5C38552",
+      "target": "¿Subir a la aeronave?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A3_000_1",
+      "hash": "A7C0BC9699DABC37",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A3_000_2",
+      "hash": "DF48EE4970058828",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_ANNOUNCE_000_80",
+      "hash": "C4DA0A682E25CD3F",
+      "target": "Atención, pasajeros: la aeronave con destino a Gridania está a punto de partir. Diríjanse a la puerta de embarque, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_81",
+      "hash": "E32E91902B2BEC06",
+      "target": "Buena fortuna, <split(<string(gstr1)>, ,1)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_82",
+      "hash": "B0199A85C6DB342A",
+      "target": "Llegará el día en que tu nombre signifique lo mismo que “héroe” para las gentes de este reino."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BADERON_000_83",
+      "hash": "921ADACEB0C14E27",
+      "target": "Que camines a la luz del Cristal..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_90",
+      "hash": "B1FDB58547D9C02A",
+      "target": "Ah, usted debe de ser <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa. Bienvenid<if(gnum4,a,o)> a Gridania, <if(gnum4,señora,señor)>. La Gran Vidente aguarda su llegada."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q7_000_1",
+      "hash": "45FFE097F2ABA7D9",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A7_000_1",
+      "hash": "F8E77EBDB885E514",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A7_000_2",
+      "hash": "8727F482FA62E374",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_91",
+      "hash": "A31B90D374CA31A0",
+      "target": "Avíseme si necesita cualquier cosa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SERPENT_000_95",
+      "hash": "035D65B74E5A72CE",
+      "target": "Saludos, <if(gnum4,buena señora,buen señor)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SERPENT_000_96",
+      "hash": "60B6D52F5F2A506C",
+      "target": "Usted es <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa, ¿no es así? He recibido instrucciones de ayudarle."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SERPENT_000_97",
+      "hash": "12D604A66D326BB2",
+      "target": "Le ruego que se adentre en el casco de la ciudad y se identifique ante la conjuradora del Altar de Nophica. Ella le franqueará el paso al Estrado del Loto, donde aguarda la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SERPENT_000_98",
+      "hash": "486983AB596C2BA1",
+      "target": "Le ruego que se adentre en el casco de la ciudad y se identifique ante la conjuradora del Altar de Nophica. Ella le franqueará el paso al Estrado del Loto, donde aguarda la Gran Vidente."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_DOORMANLOTUS_000_100",
+      "hash": "5BD038AFCBCC9432",
+      "target": "¿Es usted <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa? Le ruego que me disculpe, <if(gnum4,señora,señor)>, pero ¿podría inspeccionar la misiva que porta?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_DOORMANLOTUS_000_101",
+      "hash": "410E31ABC529BFC9",
+      "target": "En efecto, este es el sello de la Almirante de Limsa Lominsa. Acompáñeme, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600010_KANESENNA",
+      "hash": "92AAE50138C27624",
+      "target": "Así que usted es <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600020_KANESENNA",
+      "hash": "61BACB2DCF5479AA",
+      "target": "Y <if(gnum4,aventurera,aventurero)>, además. El reino os debe mucho, a usted y a los suyos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600030_KANESENNA",
+      "hash": "371B303C79B7439B",
+      "target": "En nombre de nuestra hermosa nación, le doy la bienvenida."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600040_KANESENNA",
+      "hash": "20E71839C8251BBB",
+      "target": "Acompáñeme, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600050_KANESENNA",
+      "hash": "8E1D9132F74F4BCD",
+      "target": "Permítame presentarme."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600060_KANESENNA",
+      "hash": "8B7F23C54CC125E0",
+      "target": "Soy Kan-E-Senna, Gran Vidente de Gridania y líder de la Orden de la Doble Víbora, la Gran Compañía de nuestra nación."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600070_KANESENNA",
+      "hash": "5CED5406428BAC43",
+      "target": "Tengo entendido que trae un mensaje de la Almirante."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600080_KANESENNA",
+      "hash": "DDE7E873B9ED8981",
+      "target": "Pero... antes de que empiece, ¿me permite contemplar su rostro más de cerca?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600090_KANESENNA",
+      "hash": "CC9169285D117D8E",
+      "target": "Disculpe. Me trae a la memoria a alguien que conocí en otro tiempo─un alma valiente y noble."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_600100_KANESENNA",
+      "hash": "C16C9C1C76BC1F0D",
+      "target": "Mas venga, volvamos al asunto que nos ocupa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_110",
+      "hash": "7F51354BBBFE1EE4",
+      "target": "Un acto conmemorativo por los caídos de Carteneau..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_111",
+      "hash": "F367DE92B3B98C6A",
+      "target": "Pensar que ya han pasado cinco años..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_112",
+      "hash": "667FD04F83365291",
+      "target": "Parece que fue ayer cuando el Imperio garleano intentó arrebatarnos todo lo que apreciamos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_113",
+      "hash": "7E65B6451C9FC089",
+      "target": "Alzándose en resistencia, las ciudades-estado de Eorzea formaron las Grandes Compañías y se unieron en alianza."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_114",
+      "hash": "22172C8D210685FE",
+      "target": "Pero, sin saberlo nosotros, los garleanos no buscaban vencernos en batalla, sino que se disponían a ejecutar una terrible conjura: el proyecto Meteoro, por el cual la luna menor, Dalamud, sería arrancada de los cielos para aniquilar toda la vida de abajo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_115",
+      "hash": "58AC9D21B935F2CC",
+      "target": "En un intento desesperado por salvar al reino de una destrucción segura, nuestras fuerzas marcharon a la Llanura de Carteneau y allí se enfrentaron a la VII Legión Imperial."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_116",
+      "hash": "18E67CB1CB508A55",
+      "target": "Jamás he visto batalla más sangrienta, ni desearía volver a verla. Y, sin embargo, la carnicería no fue sino el preludio de la atrocidad que le siguió."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_117",
+      "hash": "A5B27D4E4928D5C8",
+      "target": "Pues, pese a nuestros mayores esfuerzos, Dalamud prosiguió su descenso y de él emergió el primigenio ancestral Bahamut, que se dispuso a llover fuego sobre Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_118",
+      "hash": "7B8A3585C6F1CBDB",
+      "target": "La VII Legión Imperial fue consumida en un abrir y cerrar de ojos, mientras que a nuestras propias fuerzas no les fue mucho mejor..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_119",
+      "hash": "D1FB9A77527FE6A5",
+      "target": "Que <italic(1)>alguno<italic(0)> de nosotros se salvara desafía toda explicación. Todos parecíamos condenados a perecer."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_120",
+      "hash": "B63FE5463D332220",
+      "target": "Cuando las llamas convergieron sobre nosotros, me preparé para la muerte... solo para que una luz resplandeciente me envolviera, privándome del sentido."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_121",
+      "hash": "89CD61F37AA9F564",
+      "target": "Cuando por fin desperté, Bahamut había desaparecido, y la tierra, que momentos antes ardía, se me antojaba ahora un lugar desconocido─no simplemente arruinado... sino <italic(1)>transformado<italic(0)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_122",
+      "hash": "32F1B6F49010D64A",
+      "target": "El Arconte Louisoix bien podría haber arrojado luz sobre estos misterios, pero él, como tantos, jamás regresó de Carteneau."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_123",
+      "hash": "CD48CC104892CA3D",
+      "target": "Y así quedamos con incontables preguntas y sin perspectiva de respuesta. Mas tales cuestiones no ocuparon mucho nuestros pensamientos, pues teníamos preocupaciones mucho más graves."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_124",
+      "hash": "0E95CF0546201D7C",
+      "target": "La Calamidad, como se ha dado en llamar a la devastación causada por Bahamut, dejó nuestras naciones casi en ruinas, y hasta el día de hoy luchamos por reconstruir nuestras vidas y hogares."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_125",
+      "hash": "ED913847B31A1CCA",
+      "target": "Para colmo, las tribus bestiales siguen invocando a sus primigenios, mientras el Imperio invade nuestras fronteras y consolida su presencia en Eorzea. El panorama, en resumen, es sombrío."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_126",
+      "hash": "526EDBC7185C2A80",
+      "target": "Tras la Calamidad, a cada nación le ha costado lo indecible curar sus propias heridas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_127",
+      "hash": "6723BBFC199C8088",
+      "target": "Y, sin embargo, si hemos de capear la tormenta que se avecina, será menester mantenernos unidos una vez más. Un acto conmemorativo bien podría brindar una ocasión de reavivar el espíritu de unidad que dio origen a la Alianza."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_128",
+      "hash": "E3D83268CB258533",
+      "target": "Apruebo de todo corazón la propuesta de la Almirante. Se harán las disposiciones necesarias para un acto aquí en Gridania."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_129",
+      "hash": "B3C49CC0E249DBDE",
+      "target": "Hoy ha prestado un gran servicio a las gentes de Eorzea, y no quisiera causarle más molestias. Me encargaré de que mi respuesta llegue pronto a la Almirante."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_130",
+      "hash": "06128C60885EE39D",
+      "target": "Usted, entretanto, se dirige ahora a Ul'dah, ¿no es cierto?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_131",
+      "hash": "6C9AF7566BD5EADF",
+      "target": "Le ruego que transmita mis saludos al General de las Llamas. Ah, y, si es tan amable, le agradecería que le informara de que una mascota mía se ha portado mal de un tiempo a esta parte─mi <italic(1)>lobo<italic(0)>, para ser precisa. Ni que decir tiene que hay que meterlo en cintura, y agradecería mucho el consejo del General sobre cómo lograrlo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_KANESENNA_000_132",
+      "hash": "0E10CC534A2ED0AF",
+      "target": "Le agradezco su visita. Que los Doce le lleven a salvo a Ul'dah y más allá."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LIONNELLAIS_000_140",
+      "hash": "94C6ADB536E1AB0E",
+      "target": "Saludos, <if(gnum4,señora,señor)>. Este es el mostrador para pasajeros con destino a Ul'dah."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LIONNELLAIS_000_141",
+      "hash": "AF425E4BE9E334A7",
+      "target": "Oh, ¿no es usted <string(gstr1)>, <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa? En nombre de todo el personal de Aerovías Highwind, ¡qué honor tan grrrande es atenderle! ¿Volará hoy con nosotros?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q2_000_1",
+      "hash": "720A0BFC2D4FB679",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A2_000_1",
+      "hash": "9882BA7A631A5A22",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A2_000_2",
+      "hash": "B1A29255C28BF10C",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LIONNELLAIS_000_142",
+      "hash": "5F7F6507C29B7551",
+      "target": "Muy bien. Cuando esté <if(gnum4,lista,listo)> para embarcar, hágamelo saber, por favor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_144",
+      "hash": "81086F3F04D08A64",
+      "target": "¿Desea salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q8_000_1",
+      "hash": "E8ED65DEF3276152",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A8_000_1",
+      "hash": "88CFF02FEE9F8DE5",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A8_000_2",
+      "hash": "FB547D7986B5BAB5",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_145",
+      "hash": "A059C1FAAA44C709",
+      "target": "Le deseamos un agradable viaje."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_LIONNELLAIS_000_147",
+      "hash": "C63F40898265FF08",
+      "target": "El vuelo a Ul'dah partirá pronto. ¿Tiene todo listo, <if(gnum4,señora,señor)>?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q9_000_1",
+      "hash": "809B949AF56CA150",
+      "target": "¿Pasar a la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A9_000_1",
+      "hash": "F185B401A7FD0C51",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A9_000_2",
+      "hash": "634F215D83D1631F",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_148",
+      "hash": "A3A84E95640C542B",
+      "target": "Muy bien. Cuando esté <if(gnum4,lista,listo)> para viajar, no tiene más que decirlo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q4_000_1",
+      "hash": "F48D8A8F28DC4730",
+      "target": "¿Subir a la aeronave?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A4_000_1",
+      "hash": "D89C9E1EB9AC7545",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A4_000_2",
+      "hash": "4B1545414B8DEB33",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_150",
+      "hash": "C492DE826990B025",
+      "target": "¡Ah, usted debe de ser <if(gnum4,la emisaria,el emisario)> de Limsa Lominsa! Bienvenid<if(gnum4,a,o)> a Ul'dah, <if(gnum4,señora,señor)>. El General de las Llamas aguarda su llegada."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q10_000_1",
+      "hash": "4F67DE65DC274F54",
+      "target": "¿Salir de la zona de embarque?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A10_000_1",
+      "hash": "1C9927308668CCB7",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A10_000_2",
+      "hash": "1684F6026511596F",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_CABINCREW_000_151",
+      "hash": "3A4274AB354069F5",
+      "target": "Avíseme si necesita cualquier cosa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_FLAMEA_000_155",
+      "hash": "98874BE137827F03",
+      "target": "Bienvenid<if(gnum4,a,o)> a Ul'dah. Te esperábamos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_FLAMEA_000_156",
+      "hash": "93FD280675A40A77",
+      "target": "El General de las Llamas Raubahn te recibirá en la Cámara Fragante. Baja en el montacargas hasta el Distrito Político y habla con Bartholomew en el Paseo Real."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_FLAMEA_000_158",
+      "hash": "099EC1D62AE3FD29",
+      "target": "El montacargas de allí te llevará al Distrito Político. Desde allí, dirígete al sur hasta el Paseo Real y habla con Bartholomew para que te den acceso a la Cámara Fragante."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BARTHOLOMEW_000_160",
+      "hash": "122A3F286EBD1B05",
+      "target": "<if(gnum4,La emisaria,El emisario)> de Limsa Lominsa, supongo. ¿Sería tan amable de permitirme inspeccionar la misiva que porta, <if(gnum4,señora,señor)>? Se lo agradezco."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BARTHOLOMEW_000_161",
+      "hash": "21D56CECC58D5046",
+      "target": "Ah, sí, el sello de la Almirante. Puede pasar."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800110_RAUBAHN",
+      "hash": "EB108BF65C7BDAD1",
+      "target": "Ah, <if(gnum4,una invitada,un invitado)> de Limsa. Ya me parecía a mí que olía a cerveza rancia."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800120_RAUBAHN",
+      "hash": "0DB529191B1D39A0",
+      "target": "No te lo tendré en cuenta. Si eres la mitad de <if(gnum4,guerrera,guerrero)> de lo que dice Merlwyb, es un milagro que no apestes a Sahagin muerto."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800130_RAUBAHN",
+      "hash": "57A0C3924EE0ED66",
+      "target": "Bienvenid<if(gnum4,a,o)> al sultanato de Ul'dah. Soy Raubahn Aldynn, General de las Llamas Inmortales."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800140_RAUBAHN",
+      "hash": "16ACAC699420C3A6",
+      "target": "Pero no has venido hasta aquí para intercambiar formalidades."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800150_RAUBAHN",
+      "hash": "A7FD857064C095C8",
+      "target": "Hay algo familiar en ti... Por un momento te he confundido con <if(gnum4,una vieja hermana de armas,un viejo hermano de armas)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800160_RAUBAHN",
+      "hash": "33BF3FA1E834C915",
+      "target": "Como <if(gnum4,ella,él)>, tienes ojos de héroe. Ojos que han contemplado los horrores de la batalla sin pestañear."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800170_RAUBAHN",
+      "hash": "2830D0259BA2EFA1",
+      "target": "No dudo de que Merlwyb también los vio. ¡Quizá aún haya esperanza para Limsa Lominsa! Vamos, hablemos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_181",
+      "hash": "D0A173F5AAB8A892",
+      "target": "...Carteneau. Sí, bien que recuerdo la maldita Carteneau."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_182",
+      "hash": "ED897B1F2CDB6CD9",
+      "target": "¿Sabes qué pasó aquel día, <if(gnum4,aventurera,aventurero)>? ¿Cuando salimos al campo contra los garleanos?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_183",
+      "hash": "A66284E982413A34",
+      "target": "Así que mis homólogos ya te han instruido."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_184",
+      "hash": "5B7AEE93F84AD1F5",
+      "target": "¿Hm? ¿Que la mascota de Kan-E le está dando problemas? Bueno, ya debería conocer mi parecer sobre ese asunto."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_185",
+      "hash": "C1ADFDC94417AE67",
+      "target": "Los lobos no se dejan domar. Es solo cuestión de tiempo que enseñen los dientes."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_186",
+      "hash": "BB5DC557DDC58AA1",
+      "target": "Así fue con los garleanos, hace cincuenta años."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_187",
+      "hash": "2F9C4DAB393A30F2",
+      "target": "En cuanto aprendieron a valerse de la magitek, empezaron a arrebatar territorio a sus vecinos."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_188",
+      "hash": "49C51484666D641F",
+      "target": "Dirigidos por el entonces legado Solus zos Galvus, sometieron con rapidez a las demás naciones de Ilsabard. Y así el legado se convirtió en emperador, y su república en imperio..."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_189",
+      "hash": "56ECB776E53A7CD7",
+      "target": "Un imperio que luego puso la mirada en Eorzea."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_ROAILLE_000_190",
+      "hash": "062771E9C70FBB3C",
+      "target": "Pero el emperador conquistador es ahora un anciano de ochenta inviernos. Su salud flaquea y no tiene un sucesor claro. Es muy probable que sea por eso por lo que los garleanos han estado callados últimamente."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_191",
+      "hash": "11A8C10E6F0D69B2",
+      "target": "Pero la XIV Legión Imperial sigue atrincherada dentro de nuestras fronteras."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_192",
+      "hash": "25C11A6F58B6C8C8",
+      "target": "Y su comandante, el legado Gaius van Baelsar, alberga desde hace tiempo ambiciones de conquista."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_193",
+      "hash": "144F3F2CD10F029E",
+      "target": "Si atacara ahora, me temo que caeríamos como tantos otros antes que nosotros. Y no solo Ul'dah, sino también Gridania y Limsa Lominsa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_194",
+      "hash": "228F23999A94F47E",
+      "target": "Pues la Calamidad nos puso a todos de rodillas, y aún no nos hemos levantado. Apenas tenemos fuerzas para plantar cara a las tribus bestiales, y no digamos a los primigenios que pretenden invocar."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_195",
+      "hash": "24A7AC37E37BF49D",
+      "target": "Somos un reino dividido, <if(gnum4,aventurera,aventurero)>. Una alianza solo de nombre."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_196",
+      "hash": "1301DBA85F88CA5B",
+      "target": "Pero al lobo no le importa el aprieto de su presa."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_197",
+      "hash": "E95E285C160104C1",
+      "target": "Los garleanos se agitan, y la Gran Vidente no lo dejaría pasar desapercibido."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_198",
+      "hash": "01296EDD0DFC7420",
+      "target": "Todas las demás preocupaciones palidecen ante el Imperio─incluso las tribus bestiales y sus malditos primigenios."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_199",
+      "hash": "4A69EFC2A8DEEC33",
+      "target": "Debemos mantenernos unidos una vez más, eso está claro. Y para lograrlo, debemos recordar la causa que nos unió la última vez. Merlwyb tendrá su acto conmemorativo."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_200",
+      "hash": "06AA51AC59DA9629",
+      "target": "Honraremos la memoria de los caídos. Recordaremos al pueblo por qué lucharon y murieron sus hermanos y hermanas."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_ROAILLE_000_201",
+      "hash": "D35BC9BE747A177D",
+      "target": "¿Informo a la sultana y al Sindicato?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_202",
+      "hash": "2AC67B67279046EE",
+      "target": "Yo mismo hablaré con Su Alteza."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_ROAILLE_000_203",
+      "hash": "D2649007FBF72DF4",
+      "target": "Muy bien, señor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_204",
+      "hash": "53F3B5CED8907AC9",
+      "target": "La Almirante tendrá mi respuesta en breve."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_RAUBAHN_000_205",
+      "hash": "5B1C505223CD4106",
+      "target": "Te doy las gracias, <if(gnum4,aventurera,aventurero)>."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_Q11_000_310",
+      "hash": "98B079AF8A275175",
+      "target": "¿Entrar en la sala de mando?"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A11_000_311",
+      "hash": "B30FFDEFBA4DC61F",
+      "target": "Sí"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_A11_000_312",
+      "hash": "50AE98123C8A7861",
+      "target": "No"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_00",
+      "hash": "8DAD740A3170140C",
+      "target": "Merlwyb desea confiarte una tarea importante."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_01",
+      "hash": "F3D59DB9E6D49C60",
+      "target": "Al nombrarte <if(gnum4,su emisaria personal,su emisario personal)>, Merlwyb te encarga entregar una misiva a los otros dos líderes de la Alianza Eorzea. Para facilitarte el viaje, te concede un pase de aeronave, que te permitirá desplazarte por aire entre las tres naciones aliadas. Antes de dirigirte al aeródromo, no dejes de sonsacarle a Baderon qué te aguarda más allá del estrecho de Merlthor."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_02",
+      "hash": "CD5C84915D963556",
+      "target": "Además de Limsa Lominsa, la Alianza Eorzea abarca las ciudades<-->estado de Gridania y Ul'dah. Una vez hechos tus últimos preparativos para el viaje, toma el Montacargas del Cuervo hasta el aeródromo y habla con L'nophlo en el vestíbulo de entrada."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_03",
+      "hash": "23C2DAC495459332",
+      "target": "Ya estás <if(gnum4,lista,listo)> para emprender la primera etapa de tu viaje, que te llevará a Gridania. Dirígete a la zona de embarque y espera la salida."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_04",
+      "hash": "A9B6A7EC5A016D64",
+      "target": "Tras llegar <if(gnum4,sana y salva,sano y salvo)> a Gridania, ahora debes solicitar audiencia con la Gran Vidente. Pide ayuda al guardia de honor de la Doble Víbora."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_05",
+      "hash": "D97B074A594D4258",
+      "target": "La Gran Vidente te espera en el Estrado del Loto. Dirígete al Altar de Nophica, en la Vieja Gridania, y muestra la misiva de Merlwyb a la conjuradora silenciosa para que te franquee el paso."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_06",
+      "hash": "03D1C952359FF489",
+      "target": "La Gran Vidente se muestra receptiva a la propuesta detallada en la misiva de Merlwyb. Parece que el Imperio garleano sigue siendo una grave amenaza para Eorzea, con la XIV Legión Imperial, dirigida por el legado Gaius van Baelsar, firmemente atrincherada en las regiones fronterizas. Concluido con éxito tu asunto en Gridania, dirígete al aeródromo y habla con Lionnellais."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_07",
+      "hash": "527798C4AB9EA3EA",
+      "target": "Ya estás <if(gnum4,lista,listo)> para emprender la segunda etapa de tu viaje, que te llevará a Ul'dah. Dirígete a la zona de embarque y espera la salida."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_08",
+      "hash": "A43C795CDC139AD9",
+      "target": "Tras llegar <if(gnum4,sana y salva,sano y salvo)> a Ul'dah, ahora debes solicitar audiencia con el General de las Llamas. Pide ayuda al guardia de honor de las Llamas Inmortales."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_09",
+      "hash": "079CD61760AE8565",
+      "target": "El General de las Llamas te espera en el Paseo Real. Muestra la misiva de Merlwyb a Bartholomew, en el Distrito Político, para que te franqueen el paso."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SEQ_10",
+      "hash": "9A7BEAE6A84C9234",
+      "target": "Ahora que has transmitido el mensaje de Merlwyb a los líderes de Gridania y Ul'dah, has cumplido tu deber como <if(gnum4,emisaria,emisario)> de la Almirante y, de paso, has conocido las diversas amenazas que se ciernen sobre Eorzea. Ante la inmensidad de las fuerzas en juego, te preguntas qué contribución significativa podría hacer un solo aventurero a la preservación del reino. Quizá la respuesta se te revele en los días venideros."
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_00",
+      "hash": "50822FD8BB64C420",
+      "target": "Hablar con Baderon"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_01",
+      "hash": "A37F414E2074442B",
+      "target": "Hablar con L'nophlo en el aeródromo"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_02",
+      "hash": "0B804F7F90FA0466",
+      "target": "Subir a la aeronave"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_03",
+      "hash": "7F079464C4B559CD",
+      "target": "Hablar con el guardia de honor de la Doble Víbora"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_04",
+      "hash": "5E2D92B80E4DB2BC",
+      "target": "Mostrar la misiva de Merlwyb a la conjuradora silenciosa, en el Altar de Nophica"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_05",
+      "hash": "414302592FDB708A",
+      "target": "Hablar con Lionnellais en el aeródromo"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_06",
+      "hash": "BB3A1FD4D399E762",
+      "target": "Subir a la aeronave"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_07",
+      "hash": "C34FDAF863C20DCD",
+      "target": "Hablar con el guardia de honor de las Llamas Inmortales"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_TODO_08",
+      "hash": "B5625F521553AFB2",
+      "target": "Mostrar la misiva de Merlwyb a Bartholomew, en el Distrito Político"
+    },
+    {
+      "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_SYSTEM_000_300",
+      "hash": "B8ADA231033C3E9D",
+      "target": "Ahora puedes usar las rutas de aeronave que conectan las tres naciones. Antes de embarcar en una aeronave, debes pagar la tarifa correspondiente en gil."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "conversation": "quest/006/SubSea015_00663",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_00", "hash": "6CF62FF441ADD86B", "target": "Niniya tiene información que, a diferencia de la vez anterior, seguro que te interesa." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_01", "hash": "4A96BDED3AA92778", "target": "Según Niniya, los centinelas apostados en los Ojos, en las Tierras Bajas de La Noscea, suelen recurrir a los aventureros cuando tienen demasiado trabajo. Aventúrate fuera de la ciudad y habla con Ancreta para saber más." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_SEQ_02", "hash": "0CE59B9EFCB9257D", "target": "Una vez más, parece que Niniya te ha gastado una broma, pues Ancreta tiene prohibido ofrecerte trabajo de forma oficial. No obstante, si estás dispuesto a ayudar de manera extraoficial, puede que la Casaca Amarilla tenga algo para ti..." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_TODO_00", "hash": "B3AE9595805859FD", "target": "Hablar con Ancreta en los Ojos" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_0", "hash": "4A7ACF4868457409", "target": "Ah, has vuelto. Espero que no me guardes rencor por mi engaño de antes. Verás, creo que la lección más importante que un aventurero novato debe aprender es que <if(gnum4,ella,él)> siempre debería cuestionar los motivos de cuantos <if(gnum4,ella,él)> conozca." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_1", "hash": "3A0F1CF4381F9F14", "target": "Si te he ofendido, deja que te lo compense con un consejo. Dime, ¿has visitado los Ojos, fuera de la Puerta de la Tempestad, pasado el Puente del Loco?" },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_2", "hash": "FD917091B318850B", "target": "Los centinelas apostados allí vigilan el camino y, cuando surgen problemas, a veces recurren a ayuda de fuera." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_NINIYA_000_3", "hash": "E1698195955FB02D", "target": "Si quieres hacerte un nombre como aventurero de fiar, deberías hablar con Ancreta, en los Ojos, y ofrecerle tu ayuda." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_10", "hash": "BD5F0C3DB90C90BF", "target": "¿Dice que alguien le mandó venir a mí en busca de trabajo, <if(gnum4,muchacha,muchacho)>? Me temo que <if(gnum4,la,lo)> han engañado." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_11", "hash": "C5FA21E3F33D489B", "target": "Es cierto que se nos conoce por contratar aventureros, pero siempre lo hacemos a través del Gremio de Aventureros." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_12", "hash": "52AB46BEF82303C2", "target": "Aunque quisiera asignarle tareas, el reglamento de los Casacas Amarillas me prohíbe hacerlo directamente." },
+    { "gameKey": "quest/006/SubSea015_00663#TEXT_SUBSEA015_00663_ANCRETA_000_13", "hash": "1146A0B9C02E1DB6", "target": "Ahora bien, si no le importa trabajar de manera extraoficial, tengo una petición personal que podría hacerle..." }
+  ]
+}

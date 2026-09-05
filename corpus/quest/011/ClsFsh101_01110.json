@@ -1,0 +1,53 @@
+{
+  "conversation": "quest/011/ClsFsh101_01110",
+  "questName": "The Princess and the Fish",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SEQ_00",
+      "hash": "CFA38A5CE806450A",
+      "target": "Para tu próxima lección, Sisipu querría enviarte a la naturaleza."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SEQ_01",
+      "hash": "39496EE3DBC31A40",
+      "target": "Al ver en tus ojos el deseo de peces más grandes, Sisipu te ha planteado tu mayor desafío hasta ahora. Con crayfish balls en mano, debes aventurarte hasta el río Nym, en la Noscea Central, y pescar una rolliza y jugosa princess trout."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SEQ_02",
+      "hash": "59EA7B02227A3E63",
+      "target": "Durante un acalorado debate con Wawalago sobre la forma correcta de preparar la princess trout, a Sisipu se le escapa que quizá tuviera motivos ocultos para enviarte al Nym. Dejando eso de lado, afirma que esta tarea debería haberte mostrado la importancia de la perseverancia en tu oficio.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 15."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_TODO_00",
+      "hash": "F06D610A3D1DF093",
+      "target": "Entregar una princess trout a Sisipu"
+    },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_000", "hash": "87C252B72A96B9A0", "target": "¿Qué es eso que veo en tu mirada, <split(<string(gstr1)>, ,1)>? ¡Conozco ese brillo! ¡Es el... Ojo del Pescador! ¡Es la emoción del picotazo! ¡Aceptar el desafío de nuestro rival!" },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_001", "hash": "0D2C2F24E01A94B4", "target": "Mantenga viva esa chispa, amigo. No querrá acabar como Wawalago." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_002", "hash": "A128C969CA2477C0", "target": "No es que me preocupe por usted. Ah, sí, lo veo. Hay un fuego dentro de usted, ardiendo por los peces. Más peces. Peces más grandes. Es hora de alimentar ese fuego." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_003", "hash": "F545405732595369", "target": "Hoy es el día: el día en que pescará su primera gran pieza. Nadie olvida nunca la primera." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_004", "hash": "CADF582E36E42CC3", "target": "Ve hasta las riberas del Nym, en la Noscea Central. Allí la encontrarás, la trucha princesa. Toma a la princesa y regresa aquí <if(gnum4,triunfante,hecho todo un hombre)>." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_005", "hash": "C60E5A486C747C0A", "target": "A su alteza real la atraen las bolas de cangrejo de río." },
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SYSTEM_000_006",
+      "hash": "D0CA2117DADB4933",
+      "target": "Cierto equipo otorga bonificaciones a tu <colortype(500)><edgecolortype(501)>Percepción<edgecolortype(0)><colortype(0)>. Una mayor perception aumenta la probabilidad de pescar peces más grandes."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SYSTEM_000_007",
+      "hash": "4B010855480E7B3E",
+      "target": "Aunque los peces pueden ser de distintos tamaños al pescarlos, todos los peces del mismo tipo se convierten en objetos idénticos una vez en tu inventario."
+    },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_010", "hash": "2BE76E8684614C0A", "target": "Encontrará la trucha princesa en el río Nym, <split(<string(gstr1)>, ,1)>. ¡No olvide llevar sus bolas de cangrejo de río!" },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_011", "hash": "E9909333FFF2D83B", "target": "Según se mire, ha rescatado o ha secuestrado a la princesa..." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_WAWALAGO_000_012", "hash": "03A6D6C9B5B1DC2F", "target": "¡Una princesa como es debido, sí señor! ¡La prepararemos como un asado real, un festín digno de un rey!" },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_013", "hash": "D1E60AB8D778032F", "target": "El rey puede quedarse con su fastuoso festín. ¡Cualquier pescador que se precie prefiere su trucha preparada con sencillez!" },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_WAWALAGO_000_014", "hash": "62D9C75C155DD900", "target": "¡Dicho como una bruja de mar, arisca y malhablada! Pásamela aquí y fíjate en cómo cocinan las clases cultivadas." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_015", "hash": "B8C2EC66B97B2CEA", "target": "¡Buen día será aquel en que reciba lecciones de cultura de usted! Además, no envié a <split(<string(gstr1)>, ,1)> a ese río a buscarle un pez a usted; ¡<if(gnum4,la,lo)> envié a buscarme un pez a mí!" },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_016", "hash": "73E06AFAEC1BC235", "target": "Ejem. Para mi <italic(1)>lección<italic(0)>, quiero decir. Sí, por supuesto, ese era el propósito de la expedición." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_017", "hash": "D8D0C3C6BB2E695E", "target": "En fin, como debería haber aprendido, pescar un pez como es debido requiere perseverancia, así de simple." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_018", "hash": "DCAB32456BF501D1", "target": "Y esta rolliza trucha princesa puede dar fe de ello." },
+    { "gameKey": "quest/011/ClsFsh101_01110#TEXT_CLSFSH101_01110_SISIPU_000_019", "hash": "88B712455431CF49", "target": "Siga aplicando las lecciones que le he enseñado y, antes de que se dé cuenta, ¡estará nadando en peces! ¿No suena apetitoso?" }
+  ]
+}

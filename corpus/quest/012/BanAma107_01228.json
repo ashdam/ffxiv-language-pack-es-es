@@ -1,0 +1,25 @@
+{
+  "conversation": "quest/012/BanAma107_01228",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_00", "hash": "AAA06C30A5BE6516", "target": "Fibubb Gah solicita tu ayuda para probar un nuevo remedio." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_01", "hash": "CC36D8F507BAB3BA", "target": "Fibubb Gah te ha confiado la última arma de la Hermandad de la Ceniza en su guerra fratricida: un posible remedio para la locura de los subyugados. Somete a los subyugados que encuentres en el campo de subyugación del norte de Zanr'ak y prueba la eficacia de la ceniza sagrada." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_02", "hash": "05BAF32FB034DC84", "target": "Has probado la ceniza sagrada sobre los subyugados con resultados inciertos. Vuelve al Cerco de la Ceniza e informa a Fibubb Gah." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_SEQ_03", "hash": "C6EED72B14BBE8BC", "target": "Aunque decepcionado por el aparente fracaso del remedio, Fibubb Gah jura que la Hermandad seguirá esforzándose por crear una cura para los subyugados. Reflexiona sobre la posibilidad de que quizá seas tú quien pruebe el primer lote que funcione." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_TODO_00", "hash": "08FD43ACA847A733", "target": "Dirigirse al campo de subyugación del norte de Zanr'ak y usar la ceniza sagrada sobre los subyugados" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_TODO_01", "hash": "9B925D76A23BC16E", "target": "Informar a Fibubb Gah" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_001", "hash": "23BCEE460C5E964E", "target": "<if(gnum4,Honorable aliada,Honorable aliado)>, la Hermandad de la Ceniza se ha afanado en crear una nueva arma que usar contra nuestros enemigos: ceniza de hueso imbuida de energía espiritual por los cánticos sagrados de nuestros místicos." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_002", "hash": "438742755D9A9679", "target": "Es nuestra esperanza que las propiedades purificadoras de la ceniza sirvan para limpiar a los subyugados de la maligna influencia de Ifrit. Este remedio, sin embargo, aún está por probar." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_003", "hash": "1529D6516F5FE422", "target": "Con amarga fortuna, pues, supimos de una incursión al sur. Al parecer, una partida de caza de los Manantiales Olvidados fue emboscada por una fuerza superior y arrastrada ante el Señor del Infierno para su subyugación." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_004", "hash": "0B1FD1958723611C", "target": "Te pido que localices a estos desdichados Miqo'te y esparzas sobre cada uno una pizca de la ceniza." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_005", "hash": "02DDDB9AF18742EB", "target": "Asegúrate de aplacar antes lo suficiente a los montaraces, o de lo contrario nuestros reticentes sujetos se sacudirán la ceniza antes de que tenga tiempo de surtir efecto." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_011", "hash": "662923DAC2F9D792", "target": "Encuentra a los Miqo'te subyugados y esparce sobre cada uno una pizca de ceniza sagrada para determinar la eficacia del remedio. ¡No olvides someter a fondo a tus oponentes antes de intentar usar la ceniza!" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_TEMPERED_000_015", "hash": "6D582E9AD8712157", "target": "¡Aaargh! ¡Cómo quema!" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_TEMPERED_000_016", "hash": "592B4BBF3CFC48FA", "target": "¡Señor Ifrit! ¡Tu siervo te necesita!" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_TEMPERED_000_017", "hash": "25D4D0E45A985E10", "target": "¡¿Q-qué extraña hechicería es esta?!" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_021", "hash": "98C955FE4B6E4458", "target": "Así que... parece que la ceniza sagrada no logró el efecto deseado. Nuestros místicos quedarán muy decepcionados." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_FIBUBBGAH_000_022", "hash": "CDE2BE8A39AF5C47", "target": "¡Pero la Hermandad de la Ceniza no se doblega ante el menor asomo de adversidad! Aprenderemos de este fracaso y redoblaremos nuestros esfuerzos por concebir una cura. Aún podrías ser el primero en rescatar una mente subyugada del abismo de la locura." },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_POP_MESSAGE", "hash": "AAA57F3C4E02FE5D", "target": "¡Percibes una presencia hostil!" },
+    { "gameKey": "quest/012/BanAma107_01228#TEXT_BANAMA107_01228_POP_MESSAGE_000_000", "hash": "6548ACACC71D6940", "target": "¡El enemigo aún ronda por aquí!" }
+  ]
+}

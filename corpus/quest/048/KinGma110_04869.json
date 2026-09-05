@@ -1,0 +1,369 @@
+{
+  "conversation": "quest/048/KinGma110_04869",
+  "questName": "The Lifting of Wings",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_SEQ_00", "hash": "9E9ED40A246B14C8", "target": "Wuk Lamat se dispone a descansar antes de que dé comienzo el festival." },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_00", "hash": "E5E87545D25A8362", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_01", "hash": "A0A9BDDDCA568807", "target": "Explorar la zona indicada y abatir a las criaturas hostiles" },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_02", "hash": "6B332AD57F8D17B5", "target": "Explorar la siguiente zona indicada y abatir a las criaturas hostiles" },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_03", "hash": "FAD8BDAC4E688DAB", "target": "Explorar una tercera zona indicada y abatir a las criaturas hostiles" },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_04", "hash": "FEF62E7B4D1E95C7", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_TODO_05", "hash": "BBEC44D70DF89207", "target": "Hablar con Linuhanu" },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_001",
+      "hash": "EE7D9CDB33F9F04C",
+      "target": "Como ha dicho Wuk Evu, la fiesta es de verdad un espectáculo digno de verse."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_KRILE_000_002",
+      "hash": "DD1013A3B13E78C4",
+      "target": "¡Tengo muchas ganas de ver cómo sale Ihih'hana!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_005",
+      "hash": "DF423AFC109BF49C",
+      "target": "Deberíamos descansar un poco antes de que empiece la emoción..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_HANUHANUMALE04869_000_006",
+      "hash": "587F3146EFA3A9C8",
+      "target": "Allí, junto al palanquín, ¿esa no es la Tercera Promesa? Entonces los rumores son ciertos. Quiere superar la Prueba de los Juncos recuperando Ihih'hana."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_HANUHANUFAMALE04869_000_007",
+      "hash": "721F55ADD93B8933",
+      "target": "La fiesta <italic(1)>es<italic(0)> una plegaria por unas buenas cosechas, pero ¿de verdad cree que bastará para salvar la nuestra?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_HANUHANUFAMALE04869_000_008",
+      "hash": "8AECCBD746852063",
+      "target": "La Segunda Promesa, en cambio, apenas echó un vistazo a los campos antes de irse de Ok'hanu. Quizá les hemos pedido demasiado a nuestros jóvenes aspirantes..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_HANUHANUMALE04869_000_009",
+      "hash": "AFF1765DA3133476",
+      "target": "Uy, yo no descartaría a Koana tan deprisa. Un amigo mío lo oyó murmurar junto a los juncos. Algo sobre lo que “hay que hacer”."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_HANUHANUFAMALE04869_000_010",
+      "hash": "110BDF78EAC7E586",
+      "target": "¿En serio? Puede que veamos otra de sus innovaciones de primera mano."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_011",
+      "hash": "8DCF81807A731617",
+      "target": "Je, así es nuestro Koana. Le bastó una mirada a los juncos para dar con una solución..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_012",
+      "hash": "DB3F36EE904FB5ED",
+      "target": "Sea como sea, nuestra solución está casi lista."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_013",
+      "hash": "CBEF61E36353622D",
+      "target": "¡Eso es! ¡En cuanto vuelvan los demás, empieza nuestra ansiada fiesta!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_014",
+      "hash": "F1D2A8CF1E6572F1",
+      "target": "Nos costó lo suyo, pero conseguimos reunir competidores para disputarse el título de Elegido del Viento. El ganador nos cedió sus plumas encantado."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_015",
+      "hash": "C7A1EED9645BC474",
+      "target": "¡Tendríais que haberlo visto! ¡Levantó una ráfaga increíble que mandó su pluma volando malms!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_016",
+      "hash": "9D5F09074A2A1DE1",
+      "target": "Nosotros también lo intentamos, pero es más difícil de lo que parece. La del pobre Erenville dio unas vueltas en el aire y le cayó en el pie..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ERENVILLE_000_017",
+      "hash": "93DB1716DC1FE6AD",
+      "target": "Soy un espigador. La magia no entra en nuestra formación."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_KRILE_000_018",
+      "hash": "45CFF8C08D54516C",
+      "target": "Y nosotros traemos la madera y las gemas de repuesto que ha labrado Wuk Evu. Solo queda montarlas."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKEVU_000_019",
+      "hash": "271CFBB3CBB4DE37",
+      "target": "¿Se ha decidido ya quién irá subido al palanquín?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_020",
+      "hash": "1B34396EE265F81C",
+      "target": "La última vez que estuve aquí, el invitado de honor fue papá. Recuerdo que me sorprendió que pudieran levantarlo siquiera con ese corpachón encima."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_021",
+      "hash": "C178F3D5543E41D5",
+      "target": "Quien va subido debe ser alguien de gran estima, por eso se suele invitar al Servidor del Alba. Esta vez, sin embargo, tengo a otra persona en mente."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_022",
+      "hash": "12587AAADC0AE538",
+      "target": "Ah, ¿y quién es?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_023",
+      "hash": "D8EC8C2589EA5AB6",
+      "target": "Nuestra querida Ihih'hana, el Alzamiento de Alas, se celebra únicamente gracias a ti y a tus compañeros. Por eso te propongo a ti, Wuk Lamat, como invitada de honor."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_024",
+      "hash": "D0594D51430979C4",
+      "target": "¿Eh? ¿Yo?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_025",
+      "hash": "2DF86CA377CD0649",
+      "target": "...Esta barca no me marea, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_026",
+      "hash": "8D7D7633E692EDDB",
+      "target": "Yo... ¿creo que no?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_027",
+      "hash": "9572E9C2D6CED06C",
+      "target": "¡Pues leven anclas! ¡No puedo negarme a lo que me pide alguien con más ilusión por la fiesta que yo misma!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_028",
+      "hash": "2C5148A177E33497",
+      "target": "¡Será un placer subirme a vuestro palanquín!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_029",
+      "hash": "B0F74738301CFFB2",
+      "target": "Gracias, Wuk Lamat."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_030",
+      "hash": "E8CA239D1D2CBA17",
+      "target": "También tengo tarea para el resto. Llevaremos el palanquín en procesión lenta hasta Kozanuakiy, donde se guarda la imagen sagrada de Kixaihih."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_031",
+      "hash": "51AFB6D0D682D3A8",
+      "target": "Lo que os pediría es que despejéis el camino de fauna peligrosa, para que la procesión avance sin estorbos."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_032",
+      "hash": "F390B4EF863429B8",
+      "target": "Dalo por hecho."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_033",
+      "hash": "8289856ACA403CFF",
+      "target": "¿Esperas que me quede quieta hasta que Wuk Evu acabe con el palanquín? ¡Dejadme ir y ayudar a despejar!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ERENVILLE_000_034",
+      "hash": "E5A8C374D1AE24FF",
+      "target": "Como sabéis, lo mío no es pelear. Me quedo a ayudar a Wuk Evu con las reparaciones."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_035",
+      "hash": "E430823B67D1C490",
+      "target": "Si no sabéis bien adónde ir, el camino del que hablo sale al sur del poblado y se bifurca hacia el este. Eso os llevará por los puentes hasta la Ruta de los Rayos Gloriosos."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_036",
+      "hash": "C1DAB207C6972674",
+      "target": "Nos ocuparemos de despejarlo de punta a punta."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ERENVILLE_000_040",
+      "hash": "936853B200D8FBF1",
+      "target": "Con lo poco que valgo peleando, solo estorbaría. Buena caza."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_045",
+      "hash": "21B635C38E25CA33",
+      "target": "La procesión de Ihih'hana suele toparse con criaturas territoriales camino de Kozanuakiy. Os agradecería mucho que eliminarais esas amenazas por adelantado."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKEVU_000_050",
+      "hash": "A61353A1F38331BE",
+      "target": "Me pongo a ello. Para cuando terminéis de machacar monstruos, el palanquín estará como nuevo."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_055",
+      "hash": "D38CEE8FC60AECAE",
+      "target": "Si el palanquín funciona como creo, no me extrañaría que atrajera a las criaturas. Esa concentración de éter sería un cebo irresistible."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_060",
+      "hash": "FD7AC912562496B8",
+      "target": "¡Armas listas! ¡Despacharemos esto en un momento!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_KRILE_000_065",
+      "hash": "2B273BBB114425FD",
+      "target": "Es notable hasta dónde lleva Wuk Evu sus intereses. Por lo visto, estudiar la región de Kozama'uka le resultó tan estimulante que decidió mudarse aquí y sumergirse en la cultura."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_070",
+      "hash": "617983240C4F40AC",
+      "target": "Según Linuhanu, Kozanuakiy queda por aquí abajo y luego al este cuando el camino se bifurca. Y algo de unos puentes y la Ruta de los Rayos Gloriosos..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_071",
+      "hash": "B25DCD8FF9519502",
+      "target": "En fin, dividámonos y a trabajar. Cuando hayáis eliminado todas las amenazas que encontréis, ¡nos vemos delante de Kixaihih!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_080",
+      "hash": "59CA27E523646EB0",
+      "target": "¡Ja! ¡Uno menos!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_085",
+      "hash": "F72975163EC9961F",
+      "target": "¡Esto sí que es faena de mi gusto!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_KRILE_000_090",
+      "hash": "9B084E8A8B6D5C83",
+      "target": "Te lo he dicho, ya no hace falta que me cuides."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_095",
+      "hash": "9FD80347CCB803D2",
+      "target": "A este paso pronto tendremos asegurada la ruta a Kozanuakiy."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_120",
+      "hash": "7B8DB9D5F60D01D9",
+      "target": "Vaya, te nos has adelantado."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_121",
+      "hash": "D98405370DF4F35F",
+      "target": "Esta debe de ser la imagen de Kixaihih."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_122",
+      "hash": "46FAEF78BF16F4AD",
+      "target": "La deidad Hanuhanu de la cosecha."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_Q1_000_000",
+      "hash": "CE0232A6CA1ACA87",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_A1_000_001",
+      "hash": "D9EAC802781DBE79",
+      "target": "Hasta sus imágenes sagradas están tejidas con juncos."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_A1_000_002",
+      "hash": "7EC16979058A8483",
+      "target": "Casi esperaba una ballena voladora..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_A1_000_003",
+      "hash": "FA011A6FEA2AC556",
+      "target": "Me recuerda a algo que vi en Akadaemia Anyder..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_124",
+      "hash": "1C1884D6FA21BF74",
+      "target": "Da idea de cuánto gira su cultura en torno a la cosecha de juncos, ¿eh? Dicen que a Kixaihih se lo veneraba en otro continente. Los primeros Hanuhanu trajeron esa fe antigua a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_125",
+      "hash": "0180D89A461AF1F9",
+      "target": "¿Una ballena? ¿Por qué una ballena, entre todas las cosas...? En fin, dicen que a Kixaihih se lo veneraba en otro continente. Los primeros Hanuhanu trajeron esa fe antigua a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_126",
+      "hash": "1A0F27AA1B0F5873",
+      "target": "¿Una de las creaciones de los antiguos?"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_127",
+      "hash": "58FDB5B61C649688",
+      "target": "Es posible que perdurara un recuerdo vestigial de aquella época. Una evocación inconsciente del alma heredera que sirvió de base a una religión entera."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_128",
+      "hash": "24C4B9ABD71EA9ED",
+      "target": "Yo... no tengo ni idea de qué significa eso."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_129",
+      "hash": "962C5A2FF34B056D",
+      "target": "Por lo que yo sé, a Kixaihih se lo veneraba en otro continente. Los primeros Hanuhanu trajeron esa fe antigua a Tural."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_130",
+      "hash": "C105736CFB6436F2",
+      "target": "¿Los Hanu emigraron aquí desde otro continente? Entonces puede que los dos <italic(1)>sí<italic(0)> compartan un antepasado común..."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_131",
+      "hash": "DEA7DE3837528FAE",
+      "target": "Todo esto es fascinante, pero ¿no deberíamos volver con Linuhanu? Querrá saber que el camino es seguro para la procesión."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_132",
+      "hash": "0658E64ADCC6377F",
+      "target": "¡Cierto, y yo tengo que subirme al palanquín! ¡Me adelanto y le digo que hemos terminado!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_140",
+      "hash": "FDE5A793D79C18B3",
+      "target": "Me alegro de que el palanquín no cayera en manos de Bakool Ja Ja, pero por los dioses... Me apartó de un manotazo como a un mosquito molesto."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ERENVILLE_000_145",
+      "hash": "CCE40478F58106CB",
+      "target": "Un encuentro tenso. Agradezco que a Alphinaud se le ocurriera repartir esas linkpearls."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_KRILE_000_150",
+      "hash": "F337FD5FC48112B6",
+      "target": "Doy gracias de que volviéramos antes de que nadie saliera malherido."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALPHINAUD_000_155",
+      "hash": "CE8A89B0DFA4F016",
+      "target": "Dada la naturaleza del rito de sucesión, supongo que estos roces son inevitables."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_ALISAIE_000_160",
+      "hash": "DD1635CD7C489758",
+      "target": "Esperó a que nos fuéramos para robar el palanquín. ¡Cobarde <italic(1)>y<italic(0)> ladrón!"
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKEVU_000_165",
+      "hash": "96588E214C28F7D2",
+      "target": "Si algo he aprendido en la vida, es que los malos modales suelen delatar el mal carácter."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_170",
+      "hash": "367DF28DE5690AA3",
+      "target": "Gracias por venir a rescatarnos."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_LINUHANU_000_171",
+      "hash": "7E76EC15BF4BBF23",
+      "target": "Intenté proteger el palanquín, pero contra ese bicéfalo... Como si no hubiera estado allí."
+    },
+    {
+      "gameKey": "quest/048/KinGma110_04869#TEXT_KINGMA110_04869_WUKLAMAT_000_172",
+      "hash": "676CA32EA13B965E",
+      "target": "¡Tonterías! Aguantaste el tipo y nos ganaste el tiempo que necesitábamos para volver. ¡Fuiste valentísimo!"
+    }
+  ]
+}

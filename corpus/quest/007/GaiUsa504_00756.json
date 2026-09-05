@@ -1,0 +1,26 @@
+{
+  "conversation": "quest/007/GaiUsa504_00756",
+  "questName": "Where There Is Smoke",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_SEQ_00", "hash": "4DE08CD8C38E8759", "target": "Hihibaru tiene información que <italic(1)>seguro<italic(0)> te llevará hasta Lahabrea." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_SEQ_01", "hash": "1391A2CA72898AC9", "target": "Hihibaru afirma haber presenciado cómo un hombre enmascarado se reunía en secreto con sus cómplices hombres bestia. Dirígete al terreno cubierto de ceniza al noreste de El Viaducto y usa un carbón al rojo para concertar un encuentro similar." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_SEQ_02", "hash": "C0CFB313C1026591", "target": "El carbón al rojo levanta una columna de humo que sirve para atraer a un bandido. <if(gnum4,Obligada,Obligado)> a defenderte, matas al hombre y hallas sobre su cadáver un peculiar pergamino con la marca de Rhalgr, el Destructor. Vuelve a El Viaducto y muéstrale tu hallazgo a Hihibaru." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_SEQ_03", "hash": "D17E153D99A20022", "target": "Al parecer, Lahabrea mantiene conexiones clandestinas no solo con los Qiqirn, sino también con los Alamhiganos. Tu investigación empieza a desplegarse, y adónde te llevará es un misterio..." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_TODO_00", "hash": "F0F65F5A8533F2E2", "target": "Usar el carbón al rojo en el lugar indicado" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_TODO_01", "hash": "585330CB44BD1194", "target": "Entregar el amuleto del Destructor a Hihibaru" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_SYSTEM_100_000", "hash": "898BC20AD51C15AD", "target": "Para aceptar esta misión, debes abandonar la misión de la historia principal en curso. Abre la entrada correspondiente en el diario o en la lista de misiones y selecciona «Abandon»." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_000", "hash": "880B98476E6F6E7A", "target": "¡Por fin tengo información fiable de verdad sobre su hombre enmascarado! ¿Que por qué estoy tan seguro? ¡Porque lo <italic(1)>vi<italic(0)> con mis propios ojos!" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_001", "hash": "5652F37B0636E7A5", "target": "Estaba dando un paseo al atardecer, a lo mío, cuando vi una columna de humo desde un risco por el Retiro de Thal. Curioso, me acerqué y hallé a un hombre enmascarado─<italic(1)>su<italic(0)> hombre enmascarado, estoy seguro─junto a una hoguera." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_002", "hash": "1D282253D64B5495", "target": "Como en respuesta, poco después aparecieron unos Qiqirn, y el grupo se puso a hablar largo y tendido. Me temo que estaba demasiado lejos para oír gran cosa." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_003", "hash": "40F16AAF2B2C3A6E", "target": "Después de que el grupo se dispersara, se me ocurrió una idea: si usara este carbón al rojo para prender una hoguera, quizá pudiera concertar un encuentro parecido. Será peligroso, no me cabe duda, pero ya ha demostrado ser más que rival para una jauría de ratas." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_004", "hash": "FDA1F222C5DB4A26", "target": "¿Y bien, qué le parece? Es información sólida y fiable, aunque me esté mal decirlo. Bien vale todo el tiempo que ha pasado rondando por aquí, ¿no cree?" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_020", "hash": "EC2A298E5453D565", "target": "¿De vuelta tan pronto? ¿Ha logrado encontrar alguna pista que lleve hasta su hombre enmascarado?" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_030", "hash": "AD803DC624C1F8BE", "target": "\\<ahogo> ¡E-Este pergamino! ¡Contiene una plegaria a Rhalgr, el Destructor!" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_031", "hash": "2C457B0EAF47AD8B", "target": "Por si no lo sabe, Rhalgr es la deidad protectora de Ala Mhigo, la ciudad que ahora está bajo dominio garleano." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_032", "hash": "4EE43EA177C0D145", "target": "Es <italic(1)>sumamente<italic(0)> raro que gente de otras naciones lo venere. Apostaría mi último gil a que su agresor era alamhigano." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_033", "hash": "5A9BB99C7092C2FC", "target": "Parece que ese hombre enmascarado suyo está muy bien relacionado. Debo confesar que el mercader que llevo dentro envidia una red de contactos tan variada." },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_HIHIBARU_000_034", "hash": "B56D9E0FAA3A97D8", "target": "Ese mismo mercader también presiente peligro por delante... y oscuridad, además. ¿Seguro que no prefiere tomárselo con calma aquí, en El Viaducto?" },
+    { "gameKey": "quest/007/GaiUsa504_00756#TEXT_GAIUSA504_00756_POP_MESSAGE_000", "hash": "CFEACBA8802200A6", "target": "¡Percibes una presencia hostil!" }
+  ]
+}

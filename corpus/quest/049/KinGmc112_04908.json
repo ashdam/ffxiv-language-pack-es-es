@@ -1,0 +1,480 @@
+{
+  "conversation": "quest/049/KinGmc112_04908",
+  "questName": "The Feat of the Brotherhood",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_SEQ_00", "hash": "353C96CB78925E5B", "target": "Wuk Lamat está decidida a encontrar una solución para Mamook." },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_00", "hash": "A794E08E83E2CA34", "target": "Esperar en el lugar indicado" },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_01", "hash": "3D225D9EC200F346", "target": "Hablar con Erenville" },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_02", "hash": "A3D649E99C851CB5", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_03", "hash": "F369AE81049F91DE", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_TODO_04", "hash": "9B43820AD1CC18B8", "target": "Volver a hablar con Wuk Lamat" },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_MIILALJA_000_000",
+      "hash": "CACB28245BA35327",
+      "target": "Muchos se resisten a confiar en la Tercera Promesa, pero todos han accedido a esperar su regreso. Solo eso ya me da motivos para la esperanza."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_001",
+      "hash": "A1BBA4882BFFC728",
+      "target": "Seguro que Zereel Ja tendría unas cuantas cosas que decirnos si supiera lo que nos traemos entre manos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_002",
+      "hash": "12442594F2B1DA3D",
+      "target": "Pero su gente es mi gente, y no puedo ignorar su situación."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_003",
+      "hash": "FFE6F6AC356F8C08",
+      "target": "Si algún día voy a llamarme Servidora del Alba, tengo que poner fin a la tragedia de aquí. Mucha gente cuenta conmigo, y Bakool Ja Ja no el que menos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_004",
+      "hash": "507D94B794D6D774",
+      "target": "En fin, seguro que Koana y los demás vuelven pronto con su informe."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_010",
+      "hash": "97F9EA9C7835B1F2",
+      "target": "¡Ya no deberían tardar mucho!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_100_020",
+      "hash": "C7D5B8CC6379A5A5",
+      "target": "Bien, estamos todos. En vista de nuestras noticias, me pareció justo llamar también a los demás."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_020",
+      "hash": "45A40937ECBBFA66",
+      "target": "Gracias al esfuerzo de todos, me complace decir que nuestro análisis ha dado muchas claves valiosas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_021",
+      "hash": "7255A536A1667026",
+      "target": "Y me atrevería a decir que el pronóstico es esperanzador."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_022",
+      "hash": "E956386818CFA9DC",
+      "target": "Antes os preguntamos por las esperanzas que depositáis en los hermanos benditos. Por qué son importantes para vosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_023",
+      "hash": "EDB11E027411231D",
+      "target": "Vuestra respuesta abrumadora fue una frustración con este bosque."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_024",
+      "hash": "F2529020711B2915",
+      "target": "Desde la falta de recursos naturales hasta la imposibilidad de cultivar, en todos los aspectos os ha costado siempre construir un hogar próspero. De ahí vuestro comprensible deseo de tierras nuevas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_025",
+      "hash": "CF5AC24F4A71072F",
+      "target": "Sin embargo, eso sería desechar por desgracia lo que hace a vuestro bosque singularmente valioso."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_026",
+      "hash": "1CBEFCCD5B09F513",
+      "target": "A saber, el suelo. Nuestras pruebas han demostrado, sin lugar a dudas, que el Corazón de Ja Tiika es abundantemente fértil."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KRILE_000_027",
+      "hash": "0EC28A67B27E065B",
+      "target": "Puede sorprenderos oírlo, ya que habéis visto fracasar los cultivos una y otra vez. Pero también hemos descubierto la raíz de ese problema."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KRILE_000_028",
+      "hash": "295A508D22C10AE5",
+      "target": "Los meteoritos esparcidos por vuestro bosque emiten una energía inusual que influye mucho en el desarrollo de la vida vegetal de alrededor."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KRILE_000_029",
+      "hash": "2FB258A77856C9ED",
+      "target": "Algunas plantas prosperan con esa energía─como el najool y los árboles gigantes que forman el dosel. Pero otras, como bien sabéis, enferman con ella."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_030",
+      "hash": "AD02CD8BA6F68BF3",
+      "target": "Por suerte, la solución es sencilla."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_031",
+      "hash": "C577FCBBE74D57F1",
+      "target": "Allende la sal, en un lugar llamado Sharlayan, hay una colección de flora sin igual, recogida de todos los rincones del mundo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_032",
+      "hash": "1AC5A5A9BC97FFE0",
+      "target": "Ahora que sabemos qué energías predominan en vuestro bosque, podemos ofreceros semillas y plantones que crecerán aquí con garantías."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_100_032",
+      "hash": "B899B91B70D07589",
+      "target": "Me he tomado la libertad de contactar con unos colegas por linkpearl. Si los queréis, se puede enviar aquí en poco tiempo una muestra de nuestras mejores candidatas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALPHINAUD_000_033",
+      "hash": "B85D16F388213466",
+      "target": "Igual que Eorzea consiguió el popoto y el tomate de Tural, también Mamook podría beneficiarse de cultivos foráneos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOMALESHOP_000_034",
+      "hash": "773AC2CAF96DB95E",
+      "target": "¿Quieres decir... que podríamos cultivar aquí algo más que najool?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALPHINAUD_000_035",
+      "hash": "195D1CE559085166",
+      "target": "Exacto. Habrá que tener cuidado al elegir las especies que no perjudiquen al ecosistema, pero vuestras opciones agrícolas deberían aumentar notablemente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_036",
+      "hash": "DE7C52B4B50012A6",
+      "target": "Con los cultivos adecuados, Mamook tendrá todo lo que necesita para prosperar, tanto en casa como en el comercio. ¡Los hermanos benditos ya no tienen por qué ser la respuesta!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_000_037",
+      "hash": "4F80B2D7AC666622",
+      "target": "Entonces... ¿nunca hizo falta pelear? Nunca hizo falta sacrificar a nadie..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_038",
+      "hash": "BA1BEF0DE77359A2",
+      "target": "No podemos cambiar el pasado. Pero podemos intentar mejorar el futuro."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_039",
+      "hash": "E3C79777D343A6F2",
+      "target": "Que las viejas enseñanzas acaben con nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_040",
+      "hash": "4BE1BA50BC80BAA5",
+      "target": "Sé que los hermanos benditos representan para vosotros la fuerza absoluta. Soltar esa idea no puede ser fácil."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_041",
+      "hash": "DBC40EB23898814A",
+      "target": "¡Pero demostraré que, cuando trabajamos juntos, nuestra fuerza combinada puede lograr cualquier cosa!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_000_042",
+      "hash": "BF382EC552F0EAE7",
+      "target": "...Demuéstranoslo, Promesa."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOFEMALECONFUSED_000_043",
+      "hash": "A0B62A6D3DDA85E1",
+      "target": "Si hay otro camino... Por nuestros hijos y por nuestro hogar... ¡No seguiremos sufriendo en silencio!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_044",
+      "hash": "CD61585DD4301DD9",
+      "target": "A veces hay que pelear en solitario─pero esta vez no."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_045",
+      "hash": "7A7CA2EC098F0B64",
+      "target": "¿Les dirías unas palabras, <split(<string(gstr1)>, ,1)>?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_Q1_000_000",
+      "hash": "4CB917273EBC4257",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_A1_000_001",
+      "hash": "6C5BC737B860B2B2",
+      "target": "Todo es posible si trabajáis juntos. Nuestra victoria sobre Valigarmanda es la prueba."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_A1_000_002",
+      "hash": "BB632D2CC1F35F77",
+      "target": "Con aliados fieles al lado, se puede salvar hasta el astro entero."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_A1_000_003",
+      "hash": "97F15F7583818B09",
+      "target": "¡En los amigos, viejos y nuevos, se halla la luz que destierra la oscuridad!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_000_047",
+      "hash": "C76F7D4FD6C10CA1",
+      "target": "¿¡La Ruina del Cielo!? ¡Al propio y gran Gulool Ja Ja le costó incluso sellarla!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_000_048",
+      "hash": "FCED20CF094E8B90",
+      "target": "Salvar el astro va mucho más allá de lo que necesitamos... pero reconozco el valor de los aliados."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_000_049",
+      "hash": "8A3386D50BE46061",
+      "target": "¿Amigos? Una noción desconcertante viniendo de alguien de fuera... pero no indeseada."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_050",
+      "hash": "AAD32E315BBFF4DE",
+      "target": "¡Ya hemos dicho lo que queríamos decir!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_051",
+      "hash": "28A5AB611803866D",
+      "target": "¡Ahora solo queda derrotar a la sombra de mi padre en la Prueba de la Hermandad y despejar el camino hacia el nuevo y brillante futuro de Mamook!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWAMALEUNFRIENDLY_100_051",
+      "hash": "57E66642C020AAA8",
+      "target": "No nos des motivos para dudar de la fe que hemos puesto en ti, por favor. Está a la altura de tus palabras."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_200_051",
+      "hash": "EE909281651568BE",
+      "target": "¡Lo estaré!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_052",
+      "hash": "BB4ACA242BF49C71",
+      "target": "Cuando superemos su prueba, no nos olvidemos de contarle a Zereel Ja la buena noticia sobre su bosque. ¡Seguro que tiene tantas ganas como cualquiera de comer las cosas ricas que se van a cultivar aquí!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_053",
+      "hash": "34E52FC44A6FD2F1",
+      "target": "Compasión incluso para alguien como él. Sigues eclipsándome en todos los sentidos..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KOANA_000_054",
+      "hash": "441ED5662B207C87",
+      "target": "...Entonces la elección es sencilla."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BAKOOLJAJA_000_055",
+      "hash": "62FCE04B64A2CC8F",
+      "target": "Contamos contigo, Wuk Lamat..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_060",
+      "hash": "CFB3388E1B9B5998",
+      "target": "Wuk Lamat se ha adelantado a anunciar que está lista."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_061",
+      "hash": "843697A8D050D065",
+      "target": "Nunca imaginé que las muestras que recogimos con tanto afán para el éxodo encontrarían aquí un nuevo propósito..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_062",
+      "hash": "F830B9B1AE103B11",
+      "target": "Pero si sirven para que esta gente mejore sus perspectivas, mejor que mejor."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_063",
+      "hash": "29EEB7D5115BB522",
+      "target": "En fin, deberíamos ir a reunirnos con nuestros compañeros donde Zoraal Ja hizo su propio intento. La prueba final espera..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KRILE_000_070",
+      "hash": "12D22410ECA3FBC8",
+      "target": "Puede que esta prueba nos acerque a la ciudad dorada, ¡pero por ahora debemos mantenernos firmes por la gente de Mamook!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_071",
+      "hash": "7AB892B801E6B20B",
+      "target": "Como mucho puedo ofreceros apoyo moral. Por lo que valga. Suerte."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALPHINAUD_000_072",
+      "hash": "47DFAC852F7055A4",
+      "target": "La intención de Zereel Ja era que esta prueba demostrara la supremacía de los hermanos benditos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALPHINAUD_100_072",
+      "hash": "E29BAEE411AD9C11",
+      "target": "Pero Wuk Lamat demostrará en cambio que la gente de Mamook tiene otras formas de fortalecerse."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALISAIE_000_073",
+      "hash": "5516A743FA628A09",
+      "target": "¿Adónde ha ido Koana? ¿Lo has visto?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_074",
+      "hash": "483377BFA5C9CF08",
+      "target": "Alguien ha ido a buscar a Zereel Ja. No tardará en llegar."
+    },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_SYSTEM_000_075", "hash": "07942B5F8CBD63FE", "target": "Al continuar, se reproducirán varias escenas cinemáticas seguidas.<br>Se recomienda que reserves tiempo suficiente para verlas de principio a fin." },
+    { "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_SYSTEM_000_080", "hash": "5DF102189F82E569", "target": "Debes ser un Discípulo de la Guerra o de la Magia de nivel 95 o superior para continuar." },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KRILE_000_090",
+      "hash": "EDC09B763F637124",
+      "target": "La Segunda Promesa se ha ablandado bastante desde que lo conocimos. Me atrevería a decir que ese dúo sabio y ocurrente ha tenido no poca influencia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ERENVILLE_000_091",
+      "hash": "7E39ED4934F44FCD",
+      "target": "Me alegra ver que seguís todos de una pieza."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALPHINAUD_000_092",
+      "hash": "6951575B2672B52A",
+      "target": "Por mucho que me alegre este desenlace, también tengo ganas de hablar con Ketenramm mientras podamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ALISAIE_000_093",
+      "hash": "94106DA4EA0D17EB",
+      "target": "Incluso como sombra, la fuerza del Servidor del Alba era increíble. Me estremece imaginar cómo nos habría ido sin el apoyo de la Segunda Promesa."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_KETENRAMM_000_094",
+      "hash": "925EF8917DAF4B84",
+      "target": "No hay nada como unas cuantas penalidades para ver a los críos que uno quiere convertirse en gente de provecho."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_000_095",
+      "hash": "D1067C4F7EA7CCD5",
+      "target": "...No me interpondré en vuestro camino."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_100_095",
+      "hash": "DB0C8701F9A2C1C0",
+      "target": "Pero atended─vuestra victoria no os da autoridad para dictar nuestro futuro. <italic(1)>Nosotros<italic(0)> decidiremos qué es lo mejor para Mamook. Nadie más."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_096",
+      "hash": "2AE1AD297276117D",
+      "target": "¡Vamos a contarle a la gente nuestra victoria!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_MIILALJA_000_097",
+      "hash": "DD188740CAEBE7A7",
+      "target": "¡Tercera Promesa!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_098",
+      "hash": "C769E9F401BD792F",
+      "target": "¿Los has traído a todos? ¡Justo íbamos a veros!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_099",
+      "hash": "F9ADB50C443C59C5",
+      "target": "Lo conseguimos, Miilal Ja. Le demostramos al Autarca que ni siquiera todo el poder de mi padre podía con la fuerza de nuestra hermandad."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_MIILALJA_000_100",
+      "hash": "D067FA8CE590843A",
+      "target": "Sabía que lo harías. Hice bien en confiar en ti."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOMALESHOP_000_101",
+      "hash": "8136BB9BFFDEBB76",
+      "target": "Has cumplido tu promesa. Ahora nos toca a nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_BOONEWABANANA04906_000_102",
+      "hash": "53CE86C2A7CC4C22",
+      "target": "Nos has enseñado otro camino. Que podemos construir la vida que siempre quisimos. ¡Aquí, en nuestra tierra, sin sacrificios!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOFEMALECONFUSED_000_103",
+      "hash": "4C7C941543246A16",
+      "target": "Como nuestros nuevos cultivos vendrán de allende la sal, supongo que tendremos que tratar con los de fuera... D-de igual a igual, claro."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_104",
+      "hash": "71897862B6537EDC",
+      "target": "De dentro o de fuera, todos somos personas y ya está. Da igual qué aspecto tengamos o dónde hayamos nacido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_105",
+      "hash": "78BEFA89CD13C9D0",
+      "target": "Cuando no estás acostumbrado a tanto color y tanta variedad, las diferencias pueden parecer obstáculos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_106",
+      "hash": "74270FEB1F32312E",
+      "target": "Pero al aprender más sobre lo que nos hace distintos, también encontramos puntos en común donde jamás lo esperábamos. ¡Algo nuevo puede acabar siendo algo que adores!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_107",
+      "hash": "EE815BBFBC2486C5",
+      "target": "Y alguien a quien odiaste una vez puede llegar a ser tu amigo algún día."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_108",
+      "hash": "655CF38C47189D0E",
+      "target": "Nunca lo sabrás si no mantienes la mente abierta. Y aunque dé miedo, dar ese primer paso hacia el entendimiento siempre merece la pena."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOMALESHOP_000_109",
+      "hash": "32DF62A5E2AF2C3B",
+      "target": "Claro... Conocer a los de fuera bien podría ayudar a Mamook a crecer."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_HOOBIGOMALESHOP_000_110",
+      "hash": "9CCECDD24EAD64A6",
+      "target": "¿Pero qué pasa cuando ellos nos conozcan a <italic(1)>nosotros<italic(0)>? ¿Cuando sepan lo que hemos hecho?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_000_111",
+      "hash": "4C0AB2780E56F643",
+      "target": "No lo sabrán."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_000_112",
+      "hash": "7025AA9B295CDDFC",
+      "target": "Durante generaciones nuestro pacto se ha mantenido en secreto, y así seguirá."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_000_113",
+      "hash": "2B26817E0DBBD6E0",
+      "target": "Las atrocidades cometidas aquí las facilitaron los Autarcas. Nosotros y nadie más somos los responsables."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_ZEREELJA_000_114",
+      "hash": "24840DC9405D764D",
+      "target": "Por mis actos estoy dispuesto a entregar la vida. Pero no consentiré que otros sean condenados junto a mí."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_115",
+      "hash": "CB7C18F340638B98",
+      "target": "Aquí no se condena a nadie. Y tu vida no está en juego."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_116",
+      "hash": "12261D1719F0ED25",
+      "target": "Lo último que necesita esta ciudad son más muertes. Bakool Ja Ja no ha peleado tanto y tanto tiempo para acabar perdiendo a su padre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_117",
+      "hash": "1080FBE86A28081C",
+      "target": "Si de verdad te sientes responsable, sé el primero en tender comprensión a los demás en nombre de Mamook."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_118",
+      "hash": "57529E97F1D5D9BD",
+      "target": "Tu comunidad te espera─aquí y en Tuliyollal."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_MIILALJA_000_119",
+      "hash": "A1D8231686266797",
+      "target": "Todavía podemos arreglar las cosas, amor mío. Elige otro lado de la historia."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_MIILALJA_000_120",
+      "hash": "3AF3090107B3719B",
+      "target": "Gracias, Tercera Promesa. Gracias por todo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_121",
+      "hash": "F748520AEBB9DC61",
+      "target": "...Todavía me debes una explicación sobre esa col, que lo sepas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc112_04908#TEXT_KINGMC112_04908_WUKLAMAT_000_122",
+      "hash": "8CDBD0D8462C3A19",
+      "target": "El pueblo de Mamook te ha aceptado. Ya puedes usar mercaderes y reparadores."
+    }
+  ]
+}

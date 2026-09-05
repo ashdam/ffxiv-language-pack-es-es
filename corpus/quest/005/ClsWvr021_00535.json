@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/005/ClsWvr021_00535",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SEQ_00", "hash": "CCBA5A3D79F11A21", "target": "Redolent Rose quiere asignarte tu primera tarea como tejedor." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SEQ_01", "hash": "575D2A949B8E6CCC", "target": "Satisfecho con tu forma de sujetar la aguja que te dio, Redolent Rose quiere ahora ver si sabes usarla. Te ha encomendado preparar una bobina de hempen yarn, para lo cual necesitarás moko grass y lightning shards. La hierba puede comprarse al proveedor del gremio, pero las esquirlas deben conseguirse en otra parte. Elabora una bobina de hempen yarn y entrégasela al maestro del gremio." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SEQ_02", "hash": "57DCD89B0C3CF6B4", "target": "Tras una breve inspección, Redolent Rose reconoce tu capacidad para seguir instrucciones. Te pide que vuelvas para tu próxima lección una vez que hayas alcanzado un dominio básico.<br><br>※La próxima misión de tejedor estará disponible con Redolent Rose al alcanzar el nivel 5." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_TODO_00", "hash": "ED0B82DC85F1A005", "target": "Entregar una bobina de hempen yarn a Redolent Rose" },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_000", "hash": "A7664BC99A3C6E78", "target": "Vaya, vaya... parece que nació para sostener una de esas." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_001", "hash": "BF547F9126C27F21", "target": "Aun así, le sugiero que la guarde en lugar seguro —sobre todo al trepar por almiares—, pues no pienso darle otra." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_002", "hash": "12B02B5793D5C3F3", "target": "Bien, desde luego tiene el aspecto, pero está por ver si sabe estar a la altura. Le encargo que me fabrique una bobina de hilo de cáñamo." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_003", "hash": "EA3E83B2F5BB78A1", "target": "Una tarea nimia, ¿verdad? Bueno, espero que le resulte así." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_004", "hash": "1E6BC228462AE3A1", "target": "...Si le resulta <italic(1)>lo más mínimo<italic(0)> exigente, no tiene futuro en este gremio." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_005", "hash": "26FB6E19E36FA861", "target": "Para hacer hilo de cáñamo necesitará hierba moko y esquirlas de rayo. La primera puede comprársela a nuestra querida Gigima; las segundas tendrá que buscarlas por su cuenta." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_006", "hash": "012ED5F7D9878472", "target": "Eso es todo." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SYSTEM_000", "hash": "504ABF29F314EE92", "target": "Para sintetizar una bobina de hempen yarn para Redolent Rose, selecciona <colortype(500)><edgecolortype(501)>Cuadernos<edgecolortype(0)><colortype(0)> en el menú principal y luego <colortype(500)><edgecolortype(501)>Cuaderno de artesanía<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_010", "hash": "C807A174954BA940", "target": "Gigima puede proporcionarle la hierba moko, pero las esquirlas de rayo debe conseguirlas usted." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_011", "hash": "B80BF9C1B23A581F", "target": "¿O ya ha hecho su hilo?" },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_021", "hash": "72E8C1B2E6C094A6", "target": "¡Válgame el cielo! ¡<if(gnum4,Ella,Él)> <italic(1)>sí que sabe<italic(0)> seguir instrucciones básicas!" },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_022", "hash": "96EF35CAD124F761", "target": "Parece que ha captado los fundamentos. <if(gnum4,Buena chica,Buen chico)>." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_023", "hash": "97B1C4C28B0039FE", "target": "El hilo y la tela serán meros materiales, pero deben elaborarse con no menos esmero que una prenda entera." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_024", "hash": "4A9388048DC163AC", "target": "Pues, aunque las mejores prendas son más que la suma de sus partes, sus partes son, invariablemente, las mejores." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_025", "hash": "E0FE9BF2EE5248E0", "target": "Recuerde esto, <split(<string(gstr1)>, ,1)>, a medida que prosiga su formación." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_026", "hash": "15579D6834482546", "target": "Practique haciendo hilo y otros artículos sencillos, y vuelva cuando haya alcanzado un nivel básico de destreza." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_REDOLENTROSE_027", "hash": "5986C0A905374154", "target": "Tedioso, lo admito, pero necesario... y usted <italic(1)>sí<italic(0)> me dijo que estaba <if(gnum4,dispuesta,dispuesto)> a sufrir." },
+    { "gameKey": "quest/005/ClsWvr021_00535#TEXT_CLSWVR021_00535_SYSTEM_001", "hash": "D5DEE1872FA002D5", "target": "La próxima misión de tejedor estará disponible con Redolent Rose al alcanzar el nivel 5." }
+  ]
+}

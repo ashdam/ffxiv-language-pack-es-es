@@ -1,0 +1,24 @@
+{
+  "conversation": "quest/051/KinGze008_05126",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_SEQ_00", "hash": "37C0C87B01D4268F", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>De todas las habilidades que esperabas poner a prueba, tus conocimientos sobre refinerías de ceruleum seguramente no fueran una." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_TODO_00", "hash": "8F860B5F0D3ED338", "target": "Ir al lugar indicado e inspeccionar la refinería de ceruleum" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_TODO_01", "hash": "9F191DE936FF2E02", "target": "Hablar con Kepayuwte" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_000", "hash": "6B4EA1CE70199FED", "target": "Salud. Se nota que no eres de por aquí, y eso me viene de perlas." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_001", "hash": "C6CA239EB9DB73C4", "target": "Vienes del otro lado del mar, ¿verdad? De no muy lejos de donde nació la tecnología del ceruleum, imagino. Da la casualidad de que tengo un trabajito pendiente y eres el candidato perfecto." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_003", "hash": "7E5B1238B2F7F54B", "target": "Mira, aquí tenemos un montón de maquinaria que extrae ceruleum o funciona con él, pero casi toda se construyó hace unos pocos años. Comparado con la gente de aquí, apuesto a que alguien criado entre máquinas así detectaría defectos y cosas que a nosotros se nos escapan. ¿Le echas un ojo?" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_004", "hash": "4C7335C9DD5E7DDA", "target": "Aquí fuera, mantener el equipo a punto es cuestión de vida o muerte, ¡así que no te muerdas la lengua por mí!" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_SYSTEM_000_100", "hash": "58822AF9E63C5D61", "target": "Inspecciona la refinería de ceruleum en busca de defectos. Apunta a una zona concreta y examínala con <if([gnum80==0],<colortype(546)>\uE051<colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_005", "hash": "760D943639299DF1", "target": "¿Y bien? ¿Qué tal la inspección? ¡Sin paños calientes!" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_Q1_000_000", "hash": "7ADF351A71BDAD17", "target": "¿Qué vas a decir?" },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_A1_000_001", "hash": "9D1BC2AA82BD9068", "target": "La bomba de extracción necesitará una reparación dentro de unos años." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_A1_000_002", "hash": "576D626016BE66C8", "target": "Las válvulas que expulsan el gas sobrante funcionan bien." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_A1_000_003", "hash": "312BC52677573C74", "target": "Deberíais evitar meter el ceruleum en barriles de madera." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_006", "hash": "1D01619FE41AEC66", "target": "Te sigo... prácticamente cualquier pieza móvil acaba sufriendo tensión y desgaste. Aunque ahora se vean bien, hay muchas papeletas de que se rompan más adelante." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_007", "hash": "10946E14FFB503E0", "target": "Menos mal. Con lo que costó construirlas, me alegra saber que no habrá que repararlas en un buen tiempo." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_008", "hash": "D1D2643C18A47580", "target": "Tienes razón, los barriles pesan demasiado. Usamos rroneeks para transportar el ceruleum refinado, y cuanto más ligeros sean los barriles, menos carga para los animales." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_009", "hash": "4217C602248FDC85", "target": "En fin, ¡me alegro un montón de haberte pedido ayuda! Ahora solo me queda poner en práctica tus consejos." },
+    { "gameKey": "quest/051/KinGze008_05126#TEXT_KINGZE008_05126_KEPAYUWTE_000_010", "hash": "5F7D1532A72D261E", "target": "Me fastidia reconocerlo, pero aún nos queda mucho por aprender sobre cómo mantener y mejorar el equipo. Aun así, gracias a ti estamos un paso más cerca de sacarle todo el partido. No te hagas el desconocido, ¿eh?" }
+  ]
+}

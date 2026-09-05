@@ -1,0 +1,22 @@
+{
+  "conversation": "quest/052/BanMam103_05263",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_SEQ_00", "hash": "F295D872B975CD37", "target": "Kageel Ja necesita ayuda para reunir ingredientes para un experimento.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_SEQ_01", "hash": "029B9EF9E1524A48", "target": "Entrega los suministros solicitados a Kageel Ja." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_TODO_00", "hash": "9E1048068341CDFE", "target": "<if([lnum4==16],<if([lnum1<lnum2],Extraer <ennoun(Item,3,lnum5,2,1)> cerca del cenote Jayunja,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==17],<if([lnum1<lnum2],Recolectar <ennoun(Item,3,lnum5,2,1)> cerca del cenote Jayunja,Entregar <ennoun(Item,2,lnum5,2,1)> a Kageel Ja)>,<if([lnum4==18],<if([lnum1<lnum2],Pescar <ennoun(Item,1,lnum5,1,1)> en el cenote Jayunja,Entregar <ennoun(Item,1,lnum5,1,1)> a Kageel Ja)>,)>)>)>." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_001", "hash": "9AB3B0E37F415AB9", "target": "Hace poco recibimos una petición de Anggir de muestras de la vegetación de aquí. Al parecer, está deseosa de saber qué efecto tienen, si es que tienen alguno, sobre nuestros cultivos." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_002", "hash": "81C4FF23B7E2C756", "target": "Las pruebas de Anggir con los cultivos van bien, pero necesita más materiales si estás dispuesto a echar una mano." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_003", "hash": "1704C740F82D277B", "target": "Las plantas con una firma etérea singular, como las del cenote Jayunja, seguramente serían las mejores candidatas." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_004", "hash": "63A0276E8BFC1059", "target": "Las rocas cubiertas de musgo de allí serían casi con seguridad un buen aporte para su trabajo. ¿Estarías dispuesto a ir a recoger unas cuantas muestras?" },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_005", "hash": "8EC6F06C45C0ACFB", "target": "Una muestra del follaje de allí sería casi con seguridad un buen aporte para su trabajo. ¿Estarías dispuesto a ir a recoger algo?" },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_006", "hash": "2CEC7A613DFAF3A5", "target": "Una muestra de las algas de allí sería casi con seguridad un buen aporte para su trabajo. ¿Estarías dispuesto a ir a recoger algo? Dicen que las golden stonefly nymphs se sienten atraídas por ellas, así que quizá te ayuden a encontrar lo que necesitamos." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_010", "hash": "05D918080CAE79B1", "target": "Anggir te agradecería enormemente cualquier muestra de roca cubierta de musgo que encuentres." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_011", "hash": "578C9ED80378B6C4", "target": "Anggir te agradecería enormemente cualquier muestra de follaje prometedor que encuentres." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_012", "hash": "B416CB49DCA14D64", "target": "Anggir te agradecería enormemente cualquier muestra de algas que encuentres." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_020", "hash": "ADB1E3555F837119", "target": "Y bien, ¿pudiste encontrar algo prometedor?" },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_021", "hash": "49D32553A56DF19D", "target": "Vaya, qué espécimen tan fino. ¡Anggir estará encantada!" },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_022", "hash": "775547D738BE7317", "target": "Algún día, esperamos comprender del todo el poder del meteorito que vigoriza los árboles de luz viviente, y esta investigación es un primer paso importantísimo." },
+    { "gameKey": "quest/052/BanMam103_05263#TEXT_BANMAM103_05263_KAGEELJA_000_023", "hash": "C3754ED402661A77", "target": "Imagina las posibilidades: ¡podríamos elegir variedades de cultivos mejor adaptadas a la tierra, o incluso crear otras del todo nuevas! Estoy impaciente por ver cómo fructifica su trabajo." }
+  ]
+}

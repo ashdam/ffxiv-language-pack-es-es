@@ -1,0 +1,28 @@
+{
+  "conversation": "quest/007/GaiUsa705_00778",
+  "questName": "Wilred Wants You",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_SEQ_00", "hash": "FC64A52B34B1163A", "target": "Hremfing tiene un mensaje secreto para ti." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_SEQ_01", "hash": "B63D98FB7383AB9F", "target": "Al parecer, un joven llamado Wilred quiere hablar contigo en privado. Dirígete al punto de encuentro señalado, una zona rocosa al norte del asentamiento." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_SEQ_02", "hash": "5FFBE93303CE854F", "target": "Como era de esperar, la cita resulta ser una trampa. Wilred y sus compinches se abalanzan sobre ti, pero logras someterlos. Interroga a Wilred y averigua qué se trae entre manos." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_SEQ_03", "hash": "32D81BBB4C079362", "target": "Wilred consigue darte esquinazo, pero no sin antes mencionar un plan para derribar al Imperio. Gundobald querrá saberlo." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_SEQ_04", "hash": "4974EBE7E394023C", "target": "A Gundobald le inquieta saber que Wilred y sus compañeros no se detendrán ante nada por su plan. ¿Qué se propondrán hacer esos jóvenes?" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_TODO_00", "hash": "9C33D6A8B2C92718", "target": "Reunirse con Wilred" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_TODO_01", "hash": "A16AE170D0B7E640", "target": "Interrogar a Wilred" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_TODO_02", "hash": "41468652B2BF5A74", "target": "Informar a Gundobald" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_HREMFING_000_000", "hash": "0010563AAAF2C568", "target": "Eh, aventurer<if(gnum4,a,o)>. ¿Ya has terminado de hablar con el viejo oso?" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_HREMFING_000_001", "hash": "FBADF600E9ED048A", "target": "Tengo un mensaje para ti de parte de Wilred. El chaval es una especie de líder entre los jóvenes de aquí." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_HREMFING_000_002", "hash": "1E181AF6A798E4E4", "target": "Le ha impresionado que te hayas ganado a Gundobald, y quiere hablar contigo. Dice que te espera en la zona rocosa al norte de aquí." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_010", "hash": "875873A0D6A3E9B4", "target": "Gracias por venir, amig<if(gnum4,a,o)>. No es un forastero cualquiera quien se gana la confianza del viejo oso. Por eso quería conocerte, para hablar de algo en privado." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_011", "hash": "8A58DBF35B430E39", "target": "Dime... ¿por qué andas husmeando? ¿Te envía el Imperio? ¿O alguien más?" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_012", "hash": "53B32B77FFB93609", "target": "¿Te ha comido la lengua un coeurl? Bah, da igual. Trabajes para quien trabajes, tu entrometimiento acaba aquí. ¡A por <if(gnum4,ella,él)>!" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_020", "hash": "B1486701922B5418", "target": "¡No dejaré que frustres nuestro plan!" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_040", "hash": "36A0C978AF50EB04", "target": "E-eres más fuerte de lo que aparentas..." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_041", "hash": "D79D0AB66E8E5621", "target": "¡Esto no cambia nada! Amenázanos, muélenos a golpes cuanto quieras... ¡pero solo la muerte nos hará renunciar a nuestra lucha!" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_WILRED_000_042", "hash": "387E7655BD796DE3", "target": "¡Vamos a obtener el poder para derribar al Imperio, y con él reclamaremos nuestra patria!" },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_GUNDOBALD_000_050", "hash": "0491E0D72FB19398", "target": "¿¡Que Wilred y sus compinches te atacaron!? Que lleguen a tales extremos por ese plan suyo..." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_GUNDOBALD_000_051", "hash": "A946F4168A3D7EED", "target": "Si se les deja a su aire, esos jóvenes insensatos acabarán haciendo daño a otros, si no a sí mismos. Debemos descubrir qué traman y poner fin a esta locura." },
+    { "gameKey": "quest/007/GaiUsa705_00778#TEXT_GAIUSA705_00778_POP_MESSAGE_000", "hash": "031ADA61B20B01D7", "target": "¡Percibes una presencia hostil!" }
+  ]
+}

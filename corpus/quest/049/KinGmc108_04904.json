@@ -1,0 +1,311 @@
+{
+  "conversation": "quest/049/KinGmc108_04904",
+  "questName": "City of Silence",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_00", "hash": "48D2F2816588092B", "target": "Por fin en Mamook, Wuk Lamat está impaciente por avanzar." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_01", "hash": "78EC184465C7B371", "target": "En aras del tiempo y la seguridad, vuestro grupo se divide en parejas para buscar al elector. Solo cabe esperar que el recibimiento que la gente dispensa a los forasteros no sea tan malo como vaticinó Hunmu Rruk..." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_02", "hash": "AFC7F7F4C0864737", "target": "Los ciudadanos a los que intentas hablar te ignoran y te esquivan con firmeza. Quizá a Wuk Lamat le haya ido mejor." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_03", "hash": "40490D6C6C424F73", "target": "La experiencia de Wuk Lamat fue asombrosamente parecida a la tuya. Sin embargo, distingue lo que parece un mercado cerca, y quienes se afanan por ganar dinero quizá estén más dispuestos a prestar oído." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_04", "hash": "0D3305EB735BC0A8", "target": "Alphinaud te aparta de otro intento infructuoso de comunicación e insta a todos a reunirse con él a toda prisa. Llegas a tiempo de ver a Zoraal Ja hincar la rodilla ante una descomunal sombra de su padre, un espectro que acto seguido se desvanece en humo y deja al descubierto al elector de Mamook, Zereel Ja. El elector reprende a la Primera Promesa por intentar obtener la piedra clave por la fuerza tras ser vencido en combate y, por esta infracción, queda descalificado del rito de sucesión.<br><br>Apenas ha abandonado Zoraal Ja el escenario cuando llega Bakool Ja Ja, un regreso a casa que se agria al instante. Al descubrir que Bakool Ja Ja no solo no ha avanzado en el rito, sino que ha sufrido una derrota a manos de Wuk Lamat, Zereel Ja lo destierra y desecha a su propio hijo como quien tira una herramienta rota. El elector de Mamook vuelve entonces la mirada hacia los aspirantes restantes, a quienes desea enfrentar en la Prueba de la Hermandad, una prueba de fuerza suprema contra el más formidable de los hermanos benditos, un rival que, según confía, no podrán superar. Sin embargo, Wuk Lamat se niega y declara que antes debe saber más sobre Mamook. Al oír esto, la mujer que está junto a Zereel Ja se acerca a Wuk Lamat y le susurra que desea hablar en privado..." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_05", "hash": "1BA58064CC2ACEAE", "target": "Como ningún lugareño ha mostrado la menor disposición a hablar con forasteros, la mujer que se marchó con Zereel Ja podría ser tu única oportunidad de saber algo de peso sobre Mamook. Wuk Lamat va a reunirse con ella al oeste de la ciudad, como le pidió." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SEQ_06", "hash": "06A9D4B1ED193A7D", "target": "La mujer se presenta como Miilal Ja y explica que Mamook se ha convertido en un claustro de devotos de los hermanos benditos. Solo los Mamool Ja bicéfalos son dignos de gobernar Tuliyollal, o eso creen fervientemente. Pero Miilal Ja y otros rechazan esta tradición y no desean otra cosa que convencer a los suyos de su sinsentido. Mas ¿cuál es el terrible precio que han pagado por su fanatismo, el que la ha movido a buscar tu ayuda?" },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_TODO_00", "hash": "826C713AA8911995", "target": "Reunir información en Mamook" },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_TODO_01", "hash": "56B4DCC9696ADC05", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_TODO_02", "hash": "EC3CDC93440F5954", "target": "Volver a hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_TODO_03", "hash": "7261CE158C2B5446", "target": "Hablar con Alphinaud" },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_TODO_04", "hash": "2988F3426F1A1284", "target": "Hablar con la dama de porte digno" },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_001",
+      "hash": "C48397B4CF756EF9",
+      "target": "Veamos ahora si los temores de Hunmu Rruk estaban fundados o no..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALISAIE_000_005",
+      "hash": "91905FC8B8946975",
+      "target": "Bastante más silencioso de lo que esperaba..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_KRILE_000_010",
+      "hash": "9BA7763DA7CC96D6",
+      "target": "Me pregunto cuál será la prueba final."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ERENVILLE_000_015",
+      "hash": "0847A46715F4F4AF",
+      "target": "A ver si consigues convencer a Wuk Lamat de que también sea prudente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_020",
+      "hash": "8A9FD979B049F759",
+      "target": "Bueno, ya sabemos todos lo que toca ahora─¡a buscar a ese elector!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_021",
+      "hash": "5CBAE69E77249519",
+      "target": "Parece que dos calles confluyen en esta plaza, así que propongo repartirnos entre ambas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_022",
+      "hash": "77145E10CB0100CA",
+      "target": "Siguiendo el consejo de Hunmu Rruk, sugiero además pecar de prudentes y movernos por la ciudad por parejas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_023",
+      "hash": "C441572B3D101E72",
+      "target": "Erenville puede venir conmigo, y Alisaie ir con Krile. Eso deja a <split(<string(gstr1)>, ,1)> acompañando a Wuk Lamat. Si el reparto satisface a todos, que nuestras respectivas búsquedas den fruto."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_030",
+      "hash": "C655AA1DC33BA009",
+      "target": "...Todavía me oyes, ¿verdad? ¿Y me ves?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_BOONEWABLUNT04904_000_035",
+      "hash": "E73080C9C5C860E4",
+      "target": "..."
+    },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SYSTEM_000_036", "hash": "48D9DC2F46CF3EFA", "target": "Para lo que te hace caso este ciudadano, tus palabras bien podrían ser ruido de fondo." },
+    { "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_SYSTEM_000_037", "hash": "D06645FAA5FBF16D", "target": "En cuanto empiezas a hablar, el hombre se da la vuelta bruscamente y se marcha." },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_100_040",
+      "hash": "2E6DA0898F573307",
+      "target": "Dime que a ti te ha ido mejor..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_040",
+      "hash": "A628E5ADF2A768EB",
+      "target": "¿A ti tampoco te habla nadie? Venía preparada para miradas duras y palabras ásperas, pero esto es otra cosa..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_041",
+      "hash": "B79477057157AAED",
+      "target": "Ese edificio de ahí parece una tienda, ¿no? Vamos a echar un vistazo. ¡Un comerciante no nos ignoraría, digo yo!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_050",
+      "hash": "04BF90E91B70403C",
+      "target": "¡Hola! Nos gustaría preguntarte una cosa, si no te importa."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_HOOBIGOMALESHOP_000_051",
+      "hash": "4FFE3D3CD914F360",
+      "target": "...Seguid vuestro camino, forasteros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_052",
+      "hash": "AE726CB264768CDF",
+      "target": "S-solo intentamos encontrar a alguien─al elector del Servidor del Alba. ¿Podrías decirnos dónde está?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_053",
+      "hash": "0076F8024D549BC1",
+      "target": "\\<suspiro> ¿Cómo se supone que vamos a encontrar al elector si nadie quiere ni hablarnos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_054",
+      "hash": "5AC28B4648E15F7D",
+      "target": "¿Me oís todos? ¡Venid a la enorme estructura de piedra del lado oeste de la ciudad, lo más rápido que podáis!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_060",
+      "hash": "2D121FC6AA2E8BB5",
+      "target": "Cuesta creer que a Zoraal Ja lo hayan vencido en combate..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_KRILE_000_065",
+      "hash": "66F3EE2FC74E36C1",
+      "target": "El asistente de la Primera Promesa, ahora mismo... ¿no te han parecido extrañas sus palabras?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_KRILE_100_065",
+      "hash": "77E68C1D9B0A3218",
+      "target": "“Seré yo quien llegue a la ciudad dorada.” Como si pensara aventurarse allí con o sin Zoraal Ja..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ERENVILLE_000_070",
+      "hash": "3BE4953D5CF5C55C",
+      "target": "Ya había oído hablar de este arte de canalización."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ERENVILLE_000_075",
+      "hash": "77D64B68EE8F46CD",
+      "target": "Se transmite en cierto clan y emplea instrumentos arcanos para producir un humo del que el mago puede conjurar una sombra."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALISAIE_000_080",
+      "hash": "BD172B7FD41E3F46",
+      "target": "Menuda escalada, y en un momento..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_085",
+      "hash": "8A2E31B2627DA9E3",
+      "target": "Todos los electores que hemos conocido hasta ahora tenían sus rarezas, pero de todos sentimos que juzgarían a los aspirantes por igual."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_086",
+      "hash": "76EBCBBE88094946",
+      "target": "Este Zereel Ja, en cambio, parece firme en su creencia de que solo los hermanos benditos son dignos del trono."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_087",
+      "hash": "99CA51B86B35212A",
+      "target": "¿Por qué nombraría el Servidor del Alba elector a un hombre abiertamente parcial?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_088",
+      "hash": "D6745644AE5DB728",
+      "target": "Darle vueltas a Zereel Ja no nos lleva a ninguna parte. Esa mujer, en cambio, ha sido la primera persona que nos habla con algo de cortesía desde que llegamos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_089",
+      "hash": "364086496BFB1F1E",
+      "target": "Deberíamos ir a verla─oír qué tiene que decir. Las afueras del oeste, ¿no?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_100",
+      "hash": "79AE723229FC8731",
+      "target": "¡Por fin! ¡Una conversación de verdad!"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_KRILE_000_105",
+      "hash": "44B8A3AB1BDDFE0A",
+      "target": "Se la ve preocupada..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ERENVILLE_000_110",
+      "hash": "F3D5104DC731D025",
+      "target": "Si Zereel Ja es Boonewa y ella es Hoobigo, entonces..."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALPHINAUD_000_115",
+      "hash": "CA12D824BA195909",
+      "target": "Que nos cite así en privado... El asunto es tan importante como delicado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALISAIE_000_120",
+      "hash": "90CF6C7585719F56",
+      "target": "Sea cual sea su relación con Zereel Ja, espero que podamos fiarnos de ella. No nos vendría mal al menos un aliado en esta ciudad."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_125",
+      "hash": "485F0C691BCB6EC3",
+      "target": "Gracias por venir. Me llamo Miilal Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_126",
+      "hash": "8BA3D8523EB96967",
+      "target": "Aquí podemos hablar con libertad, lejos de miradas indiscretas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_127",
+      "hash": "936714C4DC18BF85",
+      "target": "¿Y de qué querías hablar?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_128",
+      "hash": "674E916DA279E16F",
+      "target": "Decidme, ¿qué os parece Mamook?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_129",
+      "hash": "46715C60A9B4F93B",
+      "target": "Bueno, aún no tenemos mucho que decir. Nadie quiere hablar con nosotros."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_130",
+      "hash": "311CCC72EABBBD44",
+      "target": "Todos los que quedan en esta ciudad son devotos de las viejas costumbres."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_131",
+      "hash": "245EDB9C4044B501",
+      "target": "Creen que los hermanos benditos son superiores─que solo ellos son dignos de guiar a los pueblos de este continente. La mayoría no se dignaría a dirigirse a los de fuera, por considerarlos indignos de atención."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_ALISAIE_000_132",
+      "hash": "95BBD3FF732BAF18",
+      "target": "Suena a comunidad ideal, al menos para Bakool Ja Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_133",
+      "hash": "C95552653CAC8DE8",
+      "target": "...Estoy cansada. Agotada de esto... de este sinsentido."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_134",
+      "hash": "FE68CE968B73994C",
+      "target": "Hay otros como yo, pero no nos atrevemos a decir nuestra verdad en voz alta."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_135",
+      "hash": "9E22A434F7815E27",
+      "target": "Pero ahora tenemos una oportunidad de recuperar las riendas."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_136",
+      "hash": "A41AD452DE83E140",
+      "target": "Porque <italic(1)>tú<italic(0)> has vencido a Bakool Ja Ja."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_137",
+      "hash": "E8E4BD3120A1A907",
+      "target": "Tú─una Xbr'aal, inferior según toda presunción─triunfaste sobre nuestro campeón bicéfalo."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_138",
+      "hash": "469D6FF07AA64A0F",
+      "target": "Esta vez, al menos. La próxima quizá no tenga tanta suerte. Es que Bakool Ja Ja es así de fuerte."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_139",
+      "hash": "2C33986801112E9F",
+      "target": "En serio que no entiendo por qué hace tantas trampas. A mí me parece que le iría mejor si se fiara de sus propias facultades."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_140",
+      "hash": "1C9A0D850B2F0E01",
+      "target": "...Está desesperado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_141",
+      "hash": "FF7A223331E90569",
+      "target": "Otros hermanos benditos han caído antes. Molaa Ja Ja, de los Escamas de Plata, por ejemplo. Viajó allende la sal en busca de conquista, solo para ser derrotado."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_142",
+      "hash": "BBB93EE85554B6E2",
+      "target": "Otros hermanos benditos han caído antes. Eso se sabe."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_143",
+      "hash": "0DA6198A4E8543DB",
+      "target": "Pero por mucho que flaquee el individuo, la gente sigue creyendo en la supremacía de los hermanos benditos."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_144",
+      "hash": "4A353152FDBB1843",
+      "target": "...Por culpa de mi padre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_145",
+      "hash": "62022CDADBD12B67",
+      "target": "El que unió Tural bajo un solo gobierno─el que, a sus ojos, es la prueba de que la tradición es infalible. Por muy virtuosa que fuera la intención de tu padre, su mayor triunfo no ha hecho sino avivar las llamas de la obsesión de nuestra gente."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_146",
+      "hash": "6A9E033DE7696BBB",
+      "target": "Pero, como hija y a la vez aspirante a su legado, <italic(1)>tu<italic(0)> triunfo podría demostrar que la verdadera fuerza de Gulool Ja Ja no está en su nacimiento, sino en su carácter. Y al hacerlo, quizá nos des fuerzas para renunciar a los hermanos benditos para siempre."
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_WUKLAMAT_000_147",
+      "hash": "CF851B746B1A1A00",
+      "target": "Entiendo que se quiera renunciar al fanatismo, pero ¿no es ir demasiado lejos renunciar a los Mamool Ja bicéfalos?"
+    },
+    {
+      "gameKey": "quest/049/KinGmc108_04904#TEXT_KINGMC108_04904_MIILALJA_000_148",
+      "hash": "CAC9153C2E0DD539",
+      "target": "Eso tendrás que decidirlo tú misma. Si el precio que pagamos merece un sueño vacío."
+    }
+  ]
+}

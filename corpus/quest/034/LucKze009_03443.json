@@ -1,0 +1,21 @@
+{
+  "conversation": "quest/034/LucKze009_03443",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_SEQ_00", "hash": "C3D043F9AA2FCB13", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Vondia tiene té que preparar, pero le faltan ingredientes para hacerlo." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_TODO_00", "hash": "419D32BF966F6CD8", "target": "Usar el conservante sobre los hongos de té" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_TODO_01", "hash": "13A38E8671E5A4CA", "target": "Recolectar los hongos de té tratados" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_TODO_02", "hash": "3DA70C7FA839A2A8", "target": "Entregar los hongos de té tratados a Vondia" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_001", "hash": "4BC7E83B3E954523", "target": "Disculpe, <if(gnum4,señorita,señor)>. Usted es una de las visitantes del Cristarium, ¿verdad? Sé que es muy repentino, pero ¿podría pedirle que me recogiera una cosa la próxima vez que se adentre en el bosque?" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_002", "hash": "394C4D9A324CF9A0", "target": "He de celebrar una ceremonia del té <if([gnum11<12],<if([gnum11<4],mañana,esta tarde)>,<if([gnum11<17],esta tarde,mañana)>)>, pero acabo de recordar que he agotado mis reservas de hongos de té." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_003", "hash": "7C5097529947AAF6", "target": "No tengo mucho, pero me aseguraré de recompensarla como es debido por las molestias." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_004", "hash": "40E5CA5453BA266E", "target": "Se encuentran al sur, en los Citia Swamps. Pero, antes de ir, necesitará esto: un conservante para los hongos. Son muy delicados y, sin él, tienden a soltar sus esporas antes de tiempo." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_005", "hash": "7B6DA14A91F23D22", "target": "Si pudiera recoger cinco, será más que suficiente." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_010", "hash": "CF5C8B33DC4E3011", "target": "Recuerde usar el conservante antes de recogerlos." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_030", "hash": "4620C90C47F712C3", "target": "¿Le ruego que no haya tenido problemas para hallar los hongos?" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_031", "hash": "6FD0A572280ED12B", "target": "¡Vaya, son absolutamente espléndidos!" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_032", "hash": "780E8F7B376411FC", "target": "Contienen una pizca ínfima de veneno, ¿sabe? No la suficiente para causar daño, ojo, pero con el tiempo uno desarrolla inmunidad a toxinas similares." },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_033", "hash": "208E59E0D7E05A8E", "target": "¿Le apetece una taza? Es lo menos que puedo hacer. ...¿No?" },
+    { "gameKey": "quest/034/LucKze009_03443#TEXT_LUCKZE009_03443_VONDIA_000_034", "hash": "003251A382D86426", "target": "Bueno, si cambia de idea, estaré encantada de prepararle un poco." }
+  ]
+}

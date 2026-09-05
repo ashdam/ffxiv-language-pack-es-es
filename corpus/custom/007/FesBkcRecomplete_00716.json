@@ -1,0 +1,10 @@
+{
+  "conversation": "custom/007/FesBkcRecomplete_00716",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000", "hash": "6F748FB61E915A49", "target": "Durante un tiempo limitado, puedes revivir este evento mediante la función Repetición de Eventos de Temporada." },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001", "hash": "D199B07DC1157B3B", "target": "¿Deseas repetir el evento?" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002", "hash": "CA61E64358058CFC", "target": "Si continúas, la(s) siguiente(s) misión(es) pasará(n) a estar incompleta(s):<br>  <sheet(Quest,lnum1,0)><br><if([lnum2==0],,  <sheet(Quest,lnum2,0)><br>)><if([lnum3==0],,  <sheet(Quest,lnum3,0)><br>)><if([lnum4==0],,Los siguientes PNJ dejarán de estar disponibles para intercambios hasta que vuelvas a completar la misión requerida:<br>  <headall(<ennoun(ENpcResident,2,lnum4,1,1)>)><br>)><if([lnum5==0],,  <headall(<ennoun(ENpcResident,2,lnum5,1,1)>)><br>)>Asegúrate de disponer de tiempo suficiente, y ten en cuenta que no recibirás recompensas de misión mediante esta función.<br><br>" },
+    { "gameKey": "custom/007/FesBkcRecomplete_00716#TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003", "hash": "C7181A1F93C43CA2", "target": "Iniciar la Repetición de Eventos de Temporada." }
+  ]
+}

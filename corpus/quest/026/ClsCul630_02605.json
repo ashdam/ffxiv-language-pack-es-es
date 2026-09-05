@@ -1,0 +1,117 @@
+{
+  "conversation": "quest/026/ClsCul630_02605",
+  "questName": "Rice to the Occasion",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_00",
+      "hash": "E59C11DB6F5A13A3",
+      "target": "Raulf tiene el aire de un hombre a quien las cosas no le han salido como esperaba."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_01",
+      "hash": "B7F72EEAD7036FB7",
+      "target": "Desde la última vez que hablasteis, Raulf ha averiguado que los domanos del lugar están hartos hasta la muerte del pan y no quieren comer más que bolas de arroz. Por sencillo que parecía el plato, Raulf trató de hacerlo él mismo, pero los domanos no quedaron nada impresionados con el resultado. Sin embargo, como pueblo educado que son, no le dicen a las claras qué hizo mal, y te toca a ti buscarlos por la ciudad y pedirles su opinión sincera."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_02",
+      "hash": "248AB563E499457C",
+      "target": "Parece que Raulf coció el arroz con demasiada agua y luego apretó y sazonó las bolas en exceso. Vuelve a la cocina de la Casa de los Esplendores de Rowena y transmítele la información."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_03",
+      "hash": "A426C9FBFD70FA19",
+      "target": "Raulf escucha con atención mientras le compartes la crítica de los domanos a sus bolas de arroz. Convencido de que tú lo harás mejor, te pide que lo intentes a continuación. Prepara tu mejor conjunto de Doman rice balls y sácalo fuera para que Raulf lo reparta entre los domanos reunidos.<br><br>※En caso de que pierdas los ingredientes o la elaboración fracase, puedes volver a intentarlo hablando con Popin."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_04",
+      "hash": "42F54D3C6CAFBB85",
+      "target": "Tus bolas de arroz reciben la rotunda aprobación de los domanos, y al probar un bocado él mismo, Raulf descubre a qué viene tanto revuelo. Mientras se maravilla de cómo has sabido aprovechar las mejores cualidades del arroz, aparece una domana llamada Anzu y confirma que ese es el espíritu de la cocina del Lejano Oriente: respetar cada ingrediente y dejar que brille. Su súbita llegada hace que Raulf entre en pánico, y ella no tarda en marcharse, satisfecha de que está en buenas manos. Reúnete con Raulf de nuevo en la cocina para hablar del siguiente paso de vuestra empresa."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SEQ_05",
+      "hash": "1556FB37C7BEC83A",
+      "target": "Con tus bolas de arroz hechas un éxito, Raulf declara que empezará a servirlas en el café. Antes de separaros, te confía que Anzu es en realidad su prometida, pero parece haber algún tipo de complicación que aún no está listo para revelar. Por ahora, sigue centrado en la tarea que tienes entre manos y prepárate para volver a ayudar a Raulf cuando pase a la siguiente etapa de sus empresas culinarias.<br><br>※La próxima misión de cocinero estará disponible con Raulf al alcanzar el nivel 65."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_TODO_00",
+      "hash": "A4A0553E28128F51",
+      "target": "Obtener información de los domanos"
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_TODO_01",
+      "hash": "DAAED541B93176BF",
+      "target": "Informar a Raulf"
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_TODO_02",
+      "hash": "3CC17511BD16DA85",
+      "target": "<if([lnum1<lnum2],Sintetizar un juego de bolas de arroz domanas <sheet(Addon,9,0)>,Entregar las bolas de arroz domanas <sheet(Addon,9,0)> a Raulf)>"
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_TODO_03",
+      "hash": "1DC7AB47DEC2C511",
+      "target": "Hablar con Raulf"
+    },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_000", "hash": "5621A517F01C74EF", "target": "<split(<string(gstr1)>, ,1)>, me alegra volver a verle. Desde la última vez que hablamos, he conseguido averiguar algo sobre las preferencias culinarias de los domanos de por aquí." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_001", "hash": "428624E0639C6E2D", "target": "Prácticamente todos están hartísimos del pan en sus almuerzos, y no echan de menos nada más que el arroz, el alimento básico de su tierra natal. En concreto, quieren comer el arroz al vapor prensado en cómodas bolas. El nombre domano es <italic(1)>onigiri<italic(0)>, que, según me dicen, viene a traducirse como «honorablemente prensado»." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_002", "hash": "ED918B4A8FBCB262", "target": "Bueno, si solo es cuestión de prensar honorablemente, pensé que no hacía falta molestarle. De hecho, ya lo he intentado yo, usando arroz que me suministró un amigo aventurero. Y quedé bastante satisfecho con el resultado, pero luego se lo di a los domanos... y digamos que su opinión no era tan alta como la mía." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_003", "hash": "23187276D44FE7C2", "target": "No sé qué hice mal; hice las bolas de arroz exactamente como se describía, pero tiene que haber más de lo que parece a simple vista. Una cosa es segura, eso sí: si no soy capaz de prensar una bola de arroz decente, no tengo futuro en la cocina del Lejano Oriente." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_004", "hash": "A805F3F93CBC3683", "target": "Aquí es donde necesito su ayuda, <split(<string(gstr1)>, ,1)>. Educados como son, los domanos no me dicen a las claras qué fallaba en mis bolas de arroz. ¿Cree que podría ir a preguntárselo en mi lugar?" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_009", "hash": "0A54C9A1B6F2470F", "target": "Educados como son, los domanos no me dicen a las claras qué fallaba en mis bolas de arroz. ¿Cree que podría ir a preguntárselo en mi lugar?" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEC02605_000_010", "hash": "4054495D9971EB54", "target": "¿Las bolas de arroz del corpulento caballero? Aunque fue amable al hacérnoslas, debería mostrar la misma amabilidad con el arroz. Prensó las bolas con tal fuerza que la textura quedó casi aplastada en cada grano." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEA02605_000_011", "hash": "C58831916A416742", "target": "¿Mmm? ¿Desea saber qué fallaba en las bolas de arroz? Verá, yo esperaba el sabor de mi tierra, pero resultó ser del todo extranjero. Fuera cual fuese el condimento que se usó, enmascaró por completo el sabor natural del arroz. No es que quiera parecer desagradecido, por supuesto..." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEB02605_000_012", "hash": "D062EB914D9275EA", "target": "Ah, sí, las bolas de arroz del maestro Raulf. No fue un mal primer intento pero, si me permite un consejo, haría bien en usar menos agua al cocerlo. Y, al darles forma, que imagine que agarra no solo granos de arroz, sino también aire." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEC02605_000_015", "hash": "6300989735639776", "target": "¿Las bolas de arroz del corpulento caballero? Aunque fue amable al hacérnoslas, debería mostrar la misma amabilidad con el arroz. Prensó las bolas con tal fuerza que la textura quedó casi aplastada en cada grano." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEA02605_000_016", "hash": "BEB20FA44F0CE6FA", "target": "¿Mmm? ¿Desea saber qué fallaba en las bolas de arroz? Verá, yo esperaba el sabor de mi tierra, pero resultó ser del todo extranjero. Fuera cual fuese el condimento que se usó, enmascaró por completo el sabor natural del arroz. No es que quiera parecer desagradecido, por supuesto." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEB02605_000_017", "hash": "070EF9475623E7A0", "target": "Las bolas de arroz del maestro Raulf no fueron un mal primer intento pero, si me permite un consejo, haría bien en usar menos agua al cocerlas al vapor. Y, al darles forma, que imagine que agarra no solo granos de arroz, sino también aire." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_POPIN_000_018", "hash": "988B495EFB7230C3", "target": "Bien hallad<if(gnum4,a,o)>, <if(gnum4,buena señora,buen señor)>. Me llamo Popin y estoy a cargo de nuestras provisiones." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_020", "hash": "3FCEDB1744ED6EDE", "target": "Que me aspen... Yo daba por hecho que se prensaba para mantener los granos unidos, pero está claro que no es tan simple. Ni basta con cocer el arroz sin más: hace falta la cantidad justa de agua." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_021", "hash": "E25D466BB094B2BC", "target": "En cuanto al sabor, pensé que solo con sal quedaba soso, así que se me ocurrió la brillante idea de añadir un toque de... agárrese... <italic(1)>condimento del Lejano Oriente<italic(0)>. Que lo llamen extranjero es echar sal en la herida, con perdón del chiste." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_022", "hash": "FE128974EAD998F4", "target": "Bueno, parece que me equivoqué en casi todo, pero me atrevo a decir que a usted le irá mejor, <split(<string(gstr1)>, ,1)>. Mientras los comentarios sigan frescos en su mente, ¿cree que podría intentar hacer unas bolas de arroz? Tengo aquí todos los ingredientes que necesita, y ahí Popin tiene más de lo mismo." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_POPIN_000_023", "hash": "053C65A936686001", "target": "Bien hallad<if(gnum4,a,o)>, <if(gnum4,buena señora,buen señor)>. Me llamo Popin y estoy a cargo de nuestras provisiones. Nunca antes había tenido ocasión de manejar ingredientes del Lejano Oriente, pero descuide, que tengo muchas ganas de aprender." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_024", "hash": "31DC7EFC62CE4FD5", "target": "Cuando las bolas de arroz estén listas, tráigalas afuera, por favor. Yo, mientras tanto, iré a reunir a unos cuantos domanos, ¡y esta vez nos aseguraremos de que se vayan con una sonrisa en la cara!" },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SYSTEM_100_025",
+      "hash": "40588B066D3EFEAA",
+      "target": "Para avanzar en la misión, usa los ingredientes que te ha dado Raulf para hacer un conjunto de Doman rice balls."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SYSTEM_100_026",
+      "hash": "3DEC787B42C46851",
+      "target": "Si tus esfuerzos de elaboración fracasan, habla con Popin para recibir otro conjunto de ingredientes."
+    },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SYSTEM_100_027",
+      "hash": "64E88883930F4CDB",
+      "target": "Para empezar a elaborar, selecciona <colortype(500)><edgecolortype(501)>Cuadernos<edgecolortype(0)><colortype(0)> en el menú principal y luego <colortype(500)><edgecolortype(501)>Cuaderno de artesanía<edgecolortype(0)><colortype(0)>. Después, en la disciplina requerida, elige <colortype(500)><edgecolortype(501)>Recetas especiales<edgecolortype(0)><colortype(0)>, <colortype(500)><edgecolortype(501)>Clase<edgecolortype(0)><colortype(0)> y <colortype(500)><edgecolortype(501)>Class Quests<edgecolortype(0)><colortype(0)>."
+    },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_POPIN_000_025", "hash": "C57E75948DF58B1F", "target": "No dude en avisarme si necesita más ingredientes. Tenemos arroz de La Noscea de sobra en el almacén." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_POPIN_000_026", "hash": "091A033470FA620E", "target": "¡Vaya, parece que los rumores no exageraban! Aunque no soy experto, esas bolas de arroz ya se ven de otra categoría comparadas con las que hizo Raulf. Estará deseando verlas, seguro." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEC02605_000_027", "hash": "C2E314288752070E", "target": "Si tan empeñad<if(gnum4,a,o)> está en darnos de comer, ¿quiénes somos nosotros para discutir?" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEA02605_000_028", "hash": "CAFEE438611427ED", "target": "Esta vez, espero saborear de veras ese arroz dulce, dulce. Mmmmmm..." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEB02605_000_029", "hash": "31F003A46021A121", "target": "Aunque tengo más que añadir a mi consejo anterior, por ahora aguardaré la próxima tanda de bolas de arroz con el aliento contenido." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_030", "hash": "CBD007DDDC04961E", "target": "He reunido a los domanos, y están deseando probar su obra." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_031", "hash": "7EE0EB125A4B7235", "target": "¡Gracias! Las repartiré ahora mismo." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEC02605_000_032", "hash": "6DD0D31FB98A225B", "target": "¡Eso <italic(1)>sí<italic(0)> que era una bola de arroz! ¡Ahhh, no hay nada como el arroz para darte fuerzas para un duro día de trabajo!" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEA02605_000_033", "hash": "1FC8123A91803C07", "target": "Mmmmmm, ha sido maravilloso. Cada bocado me traía a la mente imágenes de mi lejano hogar." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_REFUGEEB02605_000_034", "hash": "F7DF48796AE308E3", "target": "¡Tanto la cocción al vapor como el moldeado se hicieron a la perfección! ¡Bien hecho!" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_035", "hash": "CCA9F64F6C10C8C4", "target": "¡Por los Doce, esto es increíble! Puedo saborearlo... cómo la pizca de sal realza el dulzor del arroz. Al añadir especias, maté sin querer esos sabores naturales." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_036", "hash": "5C6CC91CAA3E1DA9", "target": "Y esta textura esponjosa... <italic(1)>esto<italic(0)> es lo que significa agarrar no solo arroz, sino también aire. Unidos con suavidad como están, los granos conservan su turgencia recién cocida al vapor y se deshacen al primer bocado." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_037", "hash": "2C0DBD68E9857C7B", "target": "Algo tan simple... y aun así es tan <italic(1)>bueno<italic(0)>. De veras ha sabido aprovechar las mejores cualidades del arroz." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_ANZU_000_038", "hash": "9326F035DAC7ED3A", "target": "Tal es el espíritu de la cocina del Lejano Oriente: respetar cada ingrediente y dejar que brille." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_ANZU_000_039", "hash": "24EC09E5AC6B505D", "target": "Perdone mi interrupción. Me llamo Anzu y deseo darle las gracias por ayudar a Raulf." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_040", "hash": "1660A654BC6A19BD", "target": "¿A-Anzu? ¡No deberías estar aquí! Si nos ven juntos..." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_ANZU_000_041", "hash": "5A758DBF3DB9A492", "target": "¿Qué iba a hacer? Estaba preocupada. Sin embargo, ahora veo que no hacía falta. Está claro que estás en buenas manos." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_042", "hash": "C515D0B27EF5C7A5", "target": "Y-Y volviendo al asunto que nos ocupa, ¡las bolas de arroz fueron todo un éxito! Continuemos esto de vuelta en la cocina, ¿le parece?" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_050", "hash": "C8B3A7605CF63AB6", "target": "Usando sus muestras como guía, voy a empezar a servir bolas de arroz en el restaurante. Esto marca nuestra primera incursión en la cocina del Lejano Oriente, y no habría podido lograrlo sin usted, <split(<string(gstr1)>, ,1)>. ¡Gracias!" },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_051", "hash": "3496AD924255AB46", "target": "Y, eh, antes de que se marche, seguramente debería decirle quién era esa chica. Anzu es mi prometida. En mis tiempos de aventurero, venía a menudo aquí a cambiar piedras tomo. Aquí la conocí, y seguí encontrándomela, hasta que un día le pedí matrimonio." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_052", "hash": "59B53F2B3761D0E0", "target": "Pero hay una especie de complicación... Agh, pero ya basta de hablar de mí." },
+    { "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_RAULF_000_053", "hash": "E1F86EEA1FF86ABB", "target": "Ahora bien, aunque la bola de arroz es un buen comienzo, no es más que un comienzo. Pretendo sacar cada vez más platos del Lejano Oriente, ¡y espero poder seguir contando con su ayuda en los días venideros!" },
+    {
+      "gameKey": "quest/026/ClsCul630_02605#TEXT_CLSCUL630_02605_SYSTEM_100_060",
+      "hash": "11DCB8A0CE12236F",
+      "target": "Al saborear nuevas experiencias como cocinero, ¡has aprendido “Quality Assurance”!"
+    }
+  ]
+}

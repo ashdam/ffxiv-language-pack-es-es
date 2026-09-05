@@ -1,0 +1,23 @@
+{
+  "conversation": "quest/002/ClsGla021_00286",
+  "questName": "My First Gladius",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_00", "hash": "37B94785B1E1BE12", "target": "La Primera Espada Mylla quiere evaluar tu aptitud para la espada." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_01", "hash": "11CCAD37378ADED2", "target": "La maestra de gremio te ha ordenado abatir marmotas, avispones y musarañas a las puertas de Ul'dah. Espada en mano, sal ahí fuera y entabla combate con las bestias." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_02", "hash": "7D7A66910BAC76CA", "target": "Has abatido a las criaturas según lo indicado y te has familiarizado más con tu nueva arma. Vuelve al Gremio de Gladiadores y habla con Mylla." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SEQ_03", "hash": "1A3CFD840474200A", "target": "Mylla afirma que, para dominar la espada, debes recordar tus experiencias en combate y reflexionar sobre ellas. Tomándote a pecho sus palabras, decides buscar nuevos enemigos con los que ponerte a prueba.<br><br>※La próxima misión de gladiador estará disponible con Mylla al alcanzar el nivel 5." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_00", "hash": "57F95899DA6C6982", "target": "Abatir marmotas estelares como gladiador" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_01", "hash": "84B0D487F9E4D2BA", "target": "Abatir avispones enormes como gladiador" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_02", "hash": "52D087FC2E2F9637", "target": "Abatir musarañas mordaces como gladiador" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_TODO_03", "hash": "E0F73F70B2903769", "target": "Informar a Mylla" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_1", "hash": "2076D537EAAEFDE8", "target": "Je, es asombrosa la diferencia que puede marcar una espada. Tu expresión, tu postura... ya rebosas confianza." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_2", "hash": "2B8A5CFA390CEDDA", "target": "Veamos si esa confianza está justificada, ¿de acuerdo?" },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_3", "hash": "C02690D3EEE161C2", "target": "Justo a las puertas de Ul'dah encontrarás marmotas, avispas y musarañas en abundancia. Abate tres de cada una y vuelve aquí cuando termines." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_4", "hash": "E21DD284CAA59696", "target": "Ah, y usa tu espada, <split(<string(gstr1)>, ,1)>. Soy gladiadora, y pretendo adiestrarte como tal. Ahora ve." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_10", "hash": "0EB26045B3A527D1", "target": "Bienvenid<if(gnum4,a,o)> de nuevo, <split(<string(gstr1)>, ,1)>. Deduzco que has despachado a las bestias, y con soltura." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_11", "hash": "5E4668FB54DE0DE2", "target": "Con cada tajo y cada estocada ganas valiosa experiencia. Debes recordar cada uno y reflexionar sobre él si quieres reconocer y eliminar las carencias de tu técnica." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_MYLLA_000_12", "hash": "FBD093A966CCB2AA", "target": "Tu adiestramiento a mi cargo continuará cuando la empuñadura se ajuste tan bien a tu mano que no puedas imaginar sostener otra cosa. Hasta entonces, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/002/ClsGla021_00286#TEXT_CLSGLA021_00286_SYSTEM_000_15", "hash": "A1D58FE001925715", "target": "La próxima misión de gladiador estará disponible con Mylla al alcanzar el nivel 5." }
+  ]
+}

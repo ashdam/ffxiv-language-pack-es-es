@@ -1,0 +1,19 @@
+{
+  "conversation": "quest/051/KinGze014_05132",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_SEQ_00", "hash": "0898FBF6E62288F3", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Una cosa es que los cultivos sufran una plaga, ¿pero qué pasa cuando los cultivos <italic(1)>son<italic(0)> la plaga?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_00", "hash": "FB54FF55E751388C", "target": "Esparcir el repelente de flying popotoes en los lugares indicados y abatir a los enemigos que aparezcan" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_TODO_01", "hash": "FD15985A9DC3D71E", "target": "Hablar con el vecino preocupado" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_000", "hash": "3E2822EBF9618717", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenos días,Buenas noches)>)>, viajero. Je, se te ve acostumbrado al peligro. Si es así, tengo un trabajo para ti." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_001", "hash": "132F0F6B116A1154", "target": "Últimamente nos han invadido los flying popotoes. Que el nombre no te engañe: son unos bichos de cuidado. Hace un tiempo esparcimos repelente, pero parece que el efecto se está pasando." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_002", "hash": "90740899ABD85BAC", "target": "Desde que apareció esa cúpula enorme hemos tenido líos de todo tipo y no encuentro un rato para esparcir más repelente. Por eso los malditos popotos aparecen a montones. A este paso nos invaden el pueblo entero." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_003", "hash": "31435B22F3AC5EE4", "target": "Iría yo mismo a esparcirlo, pero me devorarían en un santiamén. ¿Crees que podrías encargarte tú?" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_004", "hash": "5CE0136CFDA37258", "target": "Ah, y el repelente no hace efecto de inmediato, así que a los flying popotoes que ya estén allí habrá que despacharlos a la vieja usanza. ¡Si también te encargas de eso, nos haces un favor enorme a todos!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_010", "hash": "1F20253E3DBE9807", "target": "Vaya, lo último que quiero en mi lápida es un «Se lo comieron los popotos...»." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_020", "hash": "3143701F04F8C8B6", "target": "¿Ya está? Con eso deberían mantenerse lejos una temporada, por lo menos." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_021", "hash": "630736EADED78D3F", "target": "Verás, hasta que dimos con la forma de hacer repelente a partir de jugos amargos, esos popotos nos destrozaban los cultivos, se comían a los rroneeks... ¡Hasta intentaron darle un bocado a más de un vecino!" },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_022", "hash": "3CE14C9AAFB0F439", "target": "Probamos a pedirle a la Guardia del Polvo que se ocupara, pero no querían meterse a exterminar... tubérculos salvajes. Levantar una valla alrededor era otra opción, solo que nos faltan brazos y materiales. Por eso se nos ocurrió el repelente." },
+    { "gameKey": "quest/051/KinGze014_05132#TEXT_KINGZE014_05132_WORRY05132_000_023", "hash": "63B425A96C5A18A8", "target": "En fin, no hace falta que te dé la tabarra con todo esto. Nos has hecho un buen favor y no lo olvidaré fácilmente." }
+  ]
+}

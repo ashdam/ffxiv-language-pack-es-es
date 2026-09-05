@@ -1,0 +1,85 @@
+{
+  "conversation": "quest/011/ClsFsh301_01114",
+  "questName": "Like Fish Passing in the Night",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_00",
+      "hash": "C96034DDCB9DF620",
+      "target": "Sisipu quiere que atiendas a otro cliente incomprensible."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_01",
+      "hash": "F0645561CF680361",
+      "target": "La fama de tu destreza con la caña se ha extendido por toda Limsa Lominsa, y muchos buscan tus servicios. Uno de esos posibles clientes es un goblin llamado Tocktix, aunque los detalles de su encargo aún se desconocen. Habla con Tocktix para saber más."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_02",
+      "hash": "BD0ECF68BD0ED93D",
+      "target": "Tocktix te describe las circunstancias en que vislumbró el pez deseado, aunque ni él mismo está seguro de qué clase es. Transmite a Wawalago la descripción de Tocktix del pez para averiguar qué hay que hacer."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_03",
+      "hash": "9D7CA8C3BA7BAF27",
+      "target": "Wawalago postula que Tocktix habla de las fullmoon sardines: un pez que solo se pesca tras la puesta de sol. Usa spoon worms para pescar diez por las Riberas Sangrientas y entrégaselas a Tocktix en el Gremio de Pescadores."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_04",
+      "hash": "6876CB4FF2FB40A4",
+      "target": "Tocktix está encantado de recibir las fullmoon sardines y, en un arrebato de alegría, te proclama un legendario portador de peces. Hazle saber a Sisipu que el encargo está completo."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_05",
+      "hash": "452DE910715265CB",
+      "target": "Sisipu coincide con Tocktix en que tus proezas merecen un título, pero cree que podría haber una alternativa preferible a “portador de peces”.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 35."
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_00",
+      "hash": "67923DBD6335840A",
+      "target": "Hablar con Tocktix"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_01",
+      "hash": "FB820FE5AE2D2022",
+      "target": "Hablar con Wawalago"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_02",
+      "hash": "87BB7F4E3B0EBBB7",
+      "target": "Entregar fullmoon sardines a Tocktix"
+    },
+    {
+      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_03",
+      "hash": "0D544ABFC0DF1D9E",
+      "target": "Informar a Sisipu"
+    },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_000", "hash": "753EA2D5B742D7CD", "target": "El bagre que consiguió para Lyngsath ha causado todo un revuelo. Quedó tan complacido con la calidad y la rapidez de la entrega que anda hablando maravillas de usted a todo el que le presta oído." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_001", "hash": "BA5D8A01BFA37AB3", "target": "Y ahora el rumor que corre por Limsa sobre <if(gnum4,una pescadora,un pescador)> de leyenda ha llegado a oídos de sus compañeros de gremio." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_002", "hash": "B83FDAF04AB14464", "target": "Aunque la mayoría no tiene ni idea de quién es usted, eso no impide que los holgazanes que toman el sol se inventen cuentos populares sobre usted." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_003", "hash": "5BE56652F7FEAC9F", "target": "Entretanto, Chuchuroon ha puesto de su parte para acrecentar su fama, cantando sus alabanzas mucho más allá de los muros del gremio." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_004", "hash": "2F27382F63A9B544", "target": "Tan lejos de los muros, de hecho, que hasta los goblins han venido a solicitar su ayuda." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_005", "hash": "4282C0092ACC9AB5", "target": "Tocktix es amigo de Chuchuroon, así que estamos algo obligados a escucharlo, aunque no espero que sea mucho más inteligible. Por más que me cueste admitirlo, lo más probable es que necesitemos a Wawalago de nuevo." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_010", "hash": "B469362F3AE86460", "target": "Fshhh... Shkooo...<br>Chuchuroon contó a Tocktix muchos relatos de gloria del poderoso portador de peces." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_011", "hash": "5B812BD9483AEB63", "target": "Tocktix es amigo. Chuchuroon es amigo. Portador de peces es amigo del alma, ¿sí?" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_012", "hash": "2C3F6CA71000C392", "target": "¡La luna brillaba sobre los mares del este de La Noscea cuando aparecieron los peces más preciosos!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_013", "hash": "67D58993579B0F3D", "target": "¿Tocktix se pregunta si el amigo del alma portador de peces puede traer peces preciosos del mar de la luna?" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_020", "hash": "0ED3D0D2AA0D9685", "target": "¿Así que un goblin vislumbra unas agallas y yo tengo que adivinar la presa?" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_021", "hash": "28590B32680F54A6", "target": "¡Ja, ja! ¡Naturalmente que sé lo que tienes que atrapar! Solo me sorprende que hayas tenido a bien pedir mi ayuda." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_022", "hash": "9F8974D0D93FB19F", "target": "En cuanto mencionaste la luna sobre los mares del este de La Noscea, deduje el juguetón pez que te dispones a conseguir." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_023", "hash": "AC4CBB3F83F01F24", "target": "¡Sardinas de luna llena!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_024", "hash": "C7D0B961D9331C3E", "target": "Los bancos de crías migran a la luz de la luna por el estrecho de Merlthor para volver con sus madres... o para irse al otro barrio." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_025", "hash": "A1E302859EFF246E", "target": "Y es también el mejor momento para pescarlas: atrápalas justo en su plenitud." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_026", "hash": "32EEDF216E076514", "target": "Del ocaso al alba, los bancos suben y bajan por las Riberas Sangrientas." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_027", "hash": "ABA81EA72FA0FFEF", "target": "Hacer girar gusanos cuchara en el agua te pescará unas sardinas y contentará a tu patrocinador." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_030", "hash": "2D84131CD04AF5A6", "target": "Fshhh... Shkooo...<br>¿Una decena de peces de luna llena es para Tocktix?" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_031", "hash": "23822256229FC7FE", "target": "Fshhh... Shkooo...<br>¡Sí, el portador de peces ha traído peces preciosos del mar de la luna!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_032", "hash": "D681DA15A140D67D", "target": "Ah, el primer vistazo a los peces preciosos sigue fresco en la sesera de Tocktix." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_033", "hash": "71FAE203CC20919A", "target": "Tocktix tiene sueños de probar los peces preciosos..." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_034", "hash": "75CBEE95D3510A72", "target": "¡El amigo del alma portador de peces ha hecho realidad los grandes sueños de Tocktix!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_035", "hash": "3930D0D051070625", "target": "Los relatos de gloria de Chuchuroon no son cháchara boba. ¡El portador de peces es un portador de peces de leyenda!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_036", "hash": "40B4942975FDB7BC", "target": "¡Tocktix se asegurará de que cada goblin conozca al portador de peces de leyenda!" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_040", "hash": "2DB126D8309EA1D5", "target": "¡Enhorabuena, portador de peces! La fama entre los goblins, comerciantes de trato rápido, bien podría traerle fortuna." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_041", "hash": "35383244958EFE87", "target": "Aunque quizá le convenga buscar un título menos apestoso, para no ahuyentar a otros posibles clientes." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_042", "hash": "C52254561F560251", "target": "Pero ¿qué hay en un título? Eso que llamamos portador de peces, con cualquier otro nombre olería igual de... dulce." }
+  ]
+}

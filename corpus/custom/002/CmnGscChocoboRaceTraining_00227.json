@@ -1,0 +1,17 @@
+{
+  "conversation": "custom/002/CmnGscChocoboRaceTraining_00227",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR_02", "hash": "E2CC6CF7F165E20D", "target": "¿Qué tipo de adiestramiento tenía en mente para <string(lstr1)>, <if(gnum4,señora,señor)>?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_001_DONE", "hash": "422CA5344CC46C7B", "target": "¡Como era de esperar, su chocobo de carreras ha respondido de maravilla al adiestramiento! Confío en que quede satisfecho con los resultados." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_TALK_ACTOR", "hash": "8E98F4FDE2C50FB6", "target": "¿Qué tipo de adiestramiento tenía en mente, <if(gnum4,señora,señor)>?" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_01", "hash": "3CF4E8EB67ABE059", "target": "Un momento─esta conversación es un tanto prematura, ¿no cree? ¡Ni siquiera tiene un chocobo de carreras inscrito!" },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_001_02", "hash": "BB17E4E415DBE552", "target": "Los chocobos de carreras no pueden adiestrarse hasta que se hayan inscrito oficialmente." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_01", "hash": "06564AD980125043", "target": "Mmm, quizá he hablado demasiado pronto. Me temo que su chocobo de carreras no se beneficiaría de más adiestramiento por ahora." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_002_02", "hash": "BF6E7AF68A3F96A5", "target": "Dispondrá de más sesiones de adiestramiento a medida que su chocobo de carreras suba de rango." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_01", "hash": "DAB924037D110939", "target": "...¿No nos olvidamos de algo? Una buena sesión de adiestramiento requiere el sustento adecuado." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_003_02", "hash": "79F91D34FE8004BA", "target": "No pueden realizarse sesiones de adiestramiento sin el forraje necesario, que puede comprarse al vendedor de aperos y forraje en el mostrador de carreras." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_01", "hash": "678B1C8CEEBD4A11", "target": "Discúlpeme, <if(gnum4,señora,señor)>, pero debo protestar. En mi opinión de experto, su chocobo de carreras no se beneficiará de tal adiestramiento." },
+    { "gameKey": "custom/002/CmnGscChocoboRaceTraining_00227#TEXT_CMNGSCCHOCOBORACETRAINING_00227_ERROR_004_02", "hash": "D597CFA2DD8159D5", "target": "El <lower(<sheet(RacingChocoboParam,lnum1,0)>)> de su chocobo de carreras ya no puede aumentar." }
+  ]
+}

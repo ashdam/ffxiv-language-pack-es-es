@@ -1,0 +1,788 @@
+{
+  "conversation": "quest/049/KinGme103_04934",
+  "questName": "The Queen's Tour",
+  "gameVersion": "2026.08.11.0000.0000",
+  "entries": [
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_00", "hash": "B99DF4B4F30CFEEF", "target": "Sphene está lista para llevarte a recorrer Solución Nueve." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_01", "hash": "4D13B469424BBFE7", "target": "Tras encontraros en Solución Nueve, Sphene accede a llevaros de visita y empieza por mostraros la Arcada Nexus. Cabe destacar que aprendes sobre las propiedades y aplicaciones del electrope, el prodigioso mineral que se usa para prácticamente todo en Alexandria. Después de un comentario de pasada sobre lo que tener semejante material significaría en su mundo, una tienda llama la atención de Wuk Lamat." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_02", "hash": "0A325E73D3753B6F", "target": "La tienda en cuestión vende diversos comestibles, y Sphene compra un artículo para que tú y Wuk Lamat probéis cada uno. La cosa se convierte casi en un espectáculo, pues no tarda en congregarse una multitud curiosa para ver a unos recién llegados degustar por primera vez la cocina alexandrina. Tú y Wuk Lamat dais buena cuenta de vuestras elecciones y, así, os alimentáis a la vez que hacéis las delicias de los ciudadanos." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_03", "hash": "5120A4852F131EA2", "target": "Al veros satisfechos, Sphene se ofrece a continuación a llevaros al sector residencial, en parte por un asunto personal. Cuando digas, os guiará en dirección a vuestro destino." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_04", "hash": "65186D4262BA589A", "target": "Emprendéis el camino hacia el sector residencial con Sphene y Wuk Lamat. Si os cruzáis con algún lugar de interés por el camino, vuestra guía os hablará de él con mucho gusto.<br><br>※Necesitas la compañía de Sphene y Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_05", "hash": "9FA73A65FC73CFD2", "target": "Al detenerse ante un café llamado Mosaic, Sphene explica que el nombre alude a la miríada de razas que habitan el continente. Wuk Lamat aprovecha para mencionar uno de sus platos favoritos, los tacos, antes de que sigáis vuestro camino.<br><br>※Necesitas la compañía de Sphene y Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_06", "hash": "8CDBF0B0D0855404", "target": "Al llegar al sector residencial, Sphene explica que ha venido a visitar a unas personas. Su apartamento se encuentra en el edificio de la izquierda del radio residencial 9-14, y entráis por la puerta.<br><br>※Necesitas la compañía de Sphene y Wuk Lamat para completar esta tarea. Si os separáis, vuelve a hablar con cualquiera de ellas." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_07", "hash": "C179547D37EF67D5", "target": "Entras en el apartamento para conocer a sus ocupantes, una mujer y su hijo enfermo. Se descubre que el niño padece el mal del rayo, una enfermedad debilitante causada por la impregnación del rayo ambiental. La afección es común entre los niños nacidos dentro de la cúpula pero, hasta ahora, no se ha hallado cura, ya que la tecnología de almas es ineficaz contra la vejez y la enfermedad. Al parecer abrumada, Sphene interrumpe su visita y vuelve a salir." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SEQ_08", "hash": "8D28F38E8FEC7CB9", "target": "Sphene te agradece que la hayas acompañado y explica que quería que conocieras este aspecto de la vida en Alexandria. Expresa su deseo de hallar una cura para que los niños no tengan que seguir sufriendo, y te tomas muy en serio su determinación mientras te dispones a conocer mejor su nación." },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_00", "hash": "1A44390C8A8EAD74", "target": "Hablar con Sphene" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_01", "hash": "510B84FE165E3CA2", "target": "Hablar con Wuk Lamat" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_02", "hash": "D02859F9372A3FD6", "target": "Hablar con Sphene para que ella y Wuk Lamat te acompañen" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_03", "hash": "FB9334D6C849D1D6", "target": "Hablar con Sphene en el lugar indicado con Sphene y Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_04", "hash": "DC44E4A459B82104", "target": "Volver a hablar con Sphene en el lugar indicado con Sphene y Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_05", "hash": "64DA30E689F4BEBE", "target": "Hablar una vez más con Sphene en el lugar indicado con Sphene y Wuk Lamat acompañándote" },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_TODO_06", "hash": "AF6AADEBBFEFA1F5", "target": "Hablar con Sphene" },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_001",
+      "hash": "54106542E1F390F9",
+      "target": "¡Con Sphene de guía, no hay miedo de perderse!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_010",
+      "hash": "39E89D0E30C54847",
+      "target": "Empecemos, entonces, ¿os parece?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_011",
+      "hash": "D3F94544A0DDCBB9",
+      "target": "La verdad es que te lo agradezco mucho. Este sitio es tan enorme y tan lioso que ni sabía por dónde empezar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_012",
+      "hash": "45DA93AC7C269AB7",
+      "target": "Aunque el distrito imponga por su tamaño y su trazado, todas las instalaciones importantes están cerca de los nodos telúricos─lo que vosotros llamáis eteritas. Recordad eso y no os perderéis."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_013",
+      "hash": "E26A5E4E26CE3DC1",
+      "target": "Bien, ya que la tenemos justo aquí, os enseñaré primero la Arcada Nexus."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_014",
+      "hash": "14E1B93827DB2710",
+      "target": "¡Seguidme, por favor!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_015",
+      "hash": "63D69E2853FF8BA4",
+      "target": "Este complejo alberga toda clase de tiendas. Desde comida y artículos de primera necesidad hasta comodidades tecnológicas, aquí se encuentra casi de todo."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_016",
+      "hash": "0155F93E57A5F052",
+      "target": "El interior de Everkeep es inmenso, como habéis visto. Esta arcada permite que la gente consiga lo que necesita en un solo lugar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_017",
+      "hash": "AEA1B0771C09B92F",
+      "target": "¡Increíble!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_018",
+      "hash": "0E89E2BF592D931D",
+      "target": "¿Y cómo se sube a los pisos de arriba? No veo escaleras..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_019",
+      "hash": "CBDAA52240FA8942",
+      "target": "¿Veis ese dibujo luminoso de allá? Es un transportador automático."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_020",
+      "hash": "422E61EF1C2A6EBE",
+      "target": "Aparatos así hay por toda Everkeep, y nos permiten movernos deprisa entre lugares lejanos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_021",
+      "hash": "F3966C948C36B745",
+      "target": "Eso nos ahorrará caminar. ¿También están hechos de ese metal raro? El elec... como se llame."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_022",
+      "hash": "1F36644896FA1B65",
+      "target": "\\<risita> Sí, los transportadores funcionan con electrope."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_023",
+      "hash": "C18B7671E3396E63",
+      "target": "De hecho, el mineral está integrado en casi todo lo que hay en Everkeep. Hasta en los suelos y las paredes."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_024",
+      "hash": "9D2B6C5B67779D2F",
+      "target": "Grabando circuitos arcanos en él, el electrope puede convertir la energía de rayo en la de otros elementos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_025",
+      "hash": "8F270CCB69D312D2",
+      "target": "Así se logran efectos diversos. Por ejemplo, una conversión a viento produce flotación, que es lo que necesitan nuestros vehículos voladores para propulsarse."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_026",
+      "hash": "8B54470CFAA69D02",
+      "target": "Una conversión a fuego, en cambio, produce luz y calor, y se emplea en aparatos como las farolas y los calefactores. Hay incluso vasos que se calientan solos para mantener la bebida caliente."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_027",
+      "hash": "E0F5F7B452758B33",
+      "target": "¿Y se puede enfriar una bebida si conviertes a hielo?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_028",
+      "hash": "59E73C6B4B3D951D",
+      "target": "¡Desde luego que sí! Nuestras máquinas expendedoras hacen justo eso."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_029",
+      "hash": "EA8471DB75C2FD8B",
+      "target": "Es más: se pueden combinar varias energías para obtener efectos ingeniosos. Por ejemplo, manipulando el aire con viento mientras se proyecta luz con rayo, es posible alterar el aspecto de las cosas."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_030",
+      "hash": "784AEA56B17D414F",
+      "target": "Da hasta miedo lo que se puede hacer con el electrope... Si existiera un material tan maravilloso en nuestro mundo, imagino que todos se pelearían por él."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_031",
+      "hash": "4969BA9B4232F356",
+      "target": "Y esa tienda de ahí, ¿qué vende?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_032",
+      "hash": "F6363DE810314D2E",
+      "target": "Ah, sí. ¡Vamos a echar un vistazo!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_033",
+      "hash": "EA11B834FD994B8C",
+      "target": "Me atrevo a decir que os parecerá interesante."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_035",
+      "hash": "6BBA27B9B81CF283",
+      "target": "¿Qué es todo esto...?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_040",
+      "hash": "44DAD95CDD119F8B",
+      "target": "Esta tienda vende comida. Eso que hay en el mostrador son los artículos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_041",
+      "hash": "4714C8B4AE3E4BFF",
+      "target": "¿¡Eso es comida!? No me imagino a qué puede saber..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_042",
+      "hash": "41BC5D1F913E356E",
+      "target": "\\<risita> Ya suponía que os sorprendería."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_043",
+      "hash": "8DE614405161E8A6",
+      "target": "A vuestros compatriotas también les pasó al principio."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_100_043",
+      "hash": "BB147432D5DA6D49",
+      "target": "Venga, tenéis que probar algo. Elegid uno y yo lo pago."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_044",
+      "hash": "533E6F950F97071E",
+      "target": "¡Bienvenidos, amigos! ¡Qué suerte tienen de que Su Majestad los invite!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_045",
+      "hash": "464B699553237970",
+      "target": "Los cinco artículos expuestos son los más populares. Si es su primera vez, les recomiendo uno de ellos."
+    },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SYSTEM_000_046", "hash": "32FB674C0A4E54ED", "target": "Selecciona un artículo que te interese." },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_047",
+      "hash": "36CDB3E4A6254E35",
+      "target": "¿Las perlas de fruta sintética? Son nuestra mejor aproximación al sabor y la textura de la uva."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_048",
+      "hash": "61E578B50AFF77D5",
+      "target": "Yo nunca he probado la fruta de verdad, así que no sabría decir cuán fieles son, pero su popularidad es innegable."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_049",
+      "hash": "B28B9CF84A480533",
+      "target": "Ah, el tónico revitalizante. Deduzco que tienen sed."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_050",
+      "hash": "267177F88E3DFA24",
+      "target": "El sabor es una mezcla sublime de dulce y salado, y se conserva fresco más de diez años gracias al envase especial."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_051",
+      "hash": "FF5801E23EA3CA41",
+      "target": "¿Interesados en la barrita perfecta? Son todos los nutrientes que el cuerpo necesita concentrados en un solo alimento."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_052",
+      "hash": "2BAD2D2E4C19D27E",
+      "target": "Su sabor está formulado para no cansar nunca, y con una barrita quedan satisfechos todo un día. Mucha gente la prefiere a hacer varias comidas."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_053",
+      "hash": "50B32169B94816CA",
+      "target": "Ah, sí, la pasta de ensalada. Está pensada para quienes cuidan la figura. Con su mezcla de nueve variedades de verdura, les ayudará a adelgazar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_054",
+      "hash": "06FF0441B6D67CEF",
+      "target": "Las modelos juran por ella, y los jóvenes no se cansan de comprarla."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_055",
+      "hash": "0201989B922A758C",
+      "target": "Esto de aquí es filete cultivado. No es exactamente igual que el de verdad que producen en los Arrabales, pero sale bastante más barato."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_056",
+      "hash": "3AAAB26714319CE4",
+      "target": "Este producto en concreto se conoce como “etiqueta dorada”: un delicioso híbrido de vaca y pollo cultivado en la planta del cuarto nivel."
+    },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SYSTEM_000_057", "hash": "4674F27BC23EE32E", "target": "¿Elegir este artículo?" },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_100_058",
+      "hash": "AF65B015C9D0CC9B",
+      "target": "Aunque todos son muy tentadores..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_058",
+      "hash": "6D65175257114B51",
+      "target": "Yo voy a probar el filete. ¡Estoy muerta de hambre!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_100_059",
+      "hash": "4DEA6D7551EE2F8D",
+      "target": "Yo voy a probar el filete, igual que tú, <split(<string(gstr1)>, ,1)>. ¡Estoy muerta de hambre!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_059",
+      "hash": "DCE6E2F0ED7E2D2F",
+      "target": "Gracias por su compra. ¡Y si invita Su Majestad, seguro que sabe todavía mejor!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_060",
+      "hash": "86661602B57115C6",
+      "target": "Oigan, ¿les importaría probarlos aquí mismo? Hace mucho que no teníamos recién llegados, ¡y me encantaría ver sus reacciones!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_061",
+      "hash": "6B99558959FD462B",
+      "target": "Es una gran ocasión para conocer la cultura alejandrina, <split(<string(gstr1)>, ,1)>. ¡A comer!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_100_061",
+      "hash": "C12AAAAC84926D86",
+      "target": "¡Muy bien, allá voy!"
+    },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SYSTEM_100_062", "hash": "2855D3186671258D", "target": "Siguiendo el ejemplo de Wuk Lamat, pruebas lo que has elegido." },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_062",
+      "hash": "141B59637C18F3F8",
+      "target": "¡I-Increíble! ¡Nunca había comido una carne así!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_063",
+      "hash": "7549A77D5120C703",
+      "target": "Es tierna como el pollo pero sabrosa como la de rroneek, y las especias le dan el punto justo. ¡Comería esto todos los días!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_064",
+      "hash": "ADA3663FB31D7EF8",
+      "target": "Ja, no les haga caso. Solo están contentos de ver una reacción sincera."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_100_064",
+      "hash": "C1724BAD08B360EA",
+      "target": "¿Y usted qué me dice?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_Q1_000_000",
+      "hash": "7939276B776E6689",
+      "target": "¿Qué vas a decir?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A1_000_001",
+      "hash": "539CF53F865E0C6D",
+      "target": "¡Está fantástico!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A1_000_002",
+      "hash": "7DE977BA2DF9A617",
+      "target": "¡Está bastante bueno!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A1_000_003",
+      "hash": "78AB8BAD346D24F3",
+      "target": "Es... interesante."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_GANISTER_000_066",
+      "hash": "0D99B1D8F0101043",
+      "target": "¡Jajaja! ¡Siempre es un placer! Gracias por seguirme la corriente."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_067",
+      "hash": "F36B2802053F2983",
+      "target": "Esto me trae recuerdos. Cuando la gente de Tuliyollal llegó fue un caos, pero nos esforzamos por conocernos y abrazamos nuestras diferencias."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_068",
+      "hash": "88F5F283524AE9CD",
+      "target": "¡Ah, es verdad! ¿Y tú, Sphene? ¿No vas a comer nada tú también?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_069",
+      "hash": "FE81F082FA8AC636",
+      "target": "Te agradezco el detalle, pero por ahora estoy bien, gracias."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_070",
+      "hash": "D01D6D3DF19BDAC8",
+      "target": "Vale. Pero ¿cuál es tu comida favorita, si no te importa que pregunte?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_071",
+      "hash": "DA3DFB024990FD0C",
+      "target": "Mi... ¿comida favorita?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_072",
+      "hash": "88A3D3449F8F492F",
+      "target": "...¿Por qué quieres saberlo?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_073",
+      "hash": "C51F38D56A0009E6",
+      "target": "Porque quiero conocerte mejor. ¿Por qué si no?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_074",
+      "hash": "9CD20CDFC7344FF1",
+      "target": "Cuanto más conoces a alguien, más cariño le coges."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_075",
+      "hash": "888064E3D405CC3B",
+      "target": "Eso creía mi viejo, y mis experiencias me han llevado a creer lo mismo."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_076",
+      "hash": "06B1EE71100600BA",
+      "target": "Mi comida favorita..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_100_076",
+      "hash": "C5655768D75FAB2B",
+      "target": "Mmm..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_077",
+      "hash": "E95698FB0426808B",
+      "target": "...¿Tan difícil es la pregunta?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_078",
+      "hash": "B9FED67D3000B45F",
+      "target": "Lo siento. Es que... cuando pienso en quienes se afanan por traernos la comida, no consigo quedarme con una sola cosa..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_079",
+      "hash": "65D9D14281E77848",
+      "target": "¡Jajaja! ¡Y yo que me creía <italic(1)>indecisa<italic(0)>! ¡Tú eres otro nivel!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_080",
+      "hash": "8E84A0F328F06EDD",
+      "target": "¿Indecisa...? Puede que lo sea... pero no hacía falta que te rieras..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_085",
+      "hash": "D8435CBFB475691E",
+      "target": "Mi comida favorita... Puede que nunca llegue a responder a esa pregunta."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_090",
+      "hash": "F032D294A2668E8A",
+      "target": "No sé vosotros, pero yo ya estoy satisfecha. ¡Sigamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_091",
+      "hash": "1FA7A463729D6746",
+      "target": "Muy bien. A continuación pensaba enseñaros el sector residencial, aunque en parte es para atender un asunto personal."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_092",
+      "hash": "27368E6082425FCC",
+      "target": "Una visita, para ser exactos... y creo que también será instructivo para vosotros. ¿Os importaría acompañarme?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_093",
+      "hash": "2F4432C863FD1B78",
+      "target": "¡En absoluto!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_094",
+      "hash": "4F5AE22FE8C7A620",
+      "target": "Estupendo. Avisadme cuando hayáis visto bastante por aquí y nos pondremos en camino."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_095",
+      "hash": "6F8457AB570084B0",
+      "target": "Justo me preguntaba qué clase de casas tendrán aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_100",
+      "hash": "B190593901C8D657",
+      "target": "¿Listos? Pues vamos al sector residencial. Queda al suroeste."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_101",
+      "hash": "40241998A770FFD4",
+      "target": "Por el camino os hablaré encantada de cualquier lugar de interés con el que nos topemos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_Q2_000_000",
+      "hash": "AAA852E563DC5E46",
+      "target": "¿Qué vas a hacer?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A2_000_001",
+      "hash": "323493935C78E3A0",
+      "target": "Hablar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A2_000_002",
+      "hash": "3C07F23BD8F51229",
+      "target": "Separaros."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A2_000_003",
+      "hash": "832A03A3581F5915",
+      "target": "Nada."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_106",
+      "hash": "4A3116D8CB9C49BA",
+      "target": "Lamaty'i confía en ti sin reservas. Qué bonito sería tener una amiga así."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_107",
+      "hash": "8595BE5569480FA3",
+      "target": "Qué buena estaba esa carne... ¡Tengo que hacer que la prueben todos en casa!"
+    },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SYSTEM_000_108", "hash": "9B311A77B59C6DE0", "target": "¿Seguro que quieres separarte de tus compañeras?" },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_109",
+      "hash": "038204BB859FB830",
+      "target": "Por supuesto. Tómate tu tiempo: te esperaremos en la Arcada Nexus."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_110",
+      "hash": "EC4A4F295E64D0C9",
+      "target": "¿Tienes cosas que hacer? Vale, te buscaremos en aquella arcada cuando termines."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_111",
+      "hash": "8433638BA3D70A72",
+      "target": "Bienvenida de nuevo. Si estás lista, reanudamos la visita."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_112",
+      "hash": "E53E0BEF824E51DD",
+      "target": "¿Todo resuelto? Pues en marcha."
+    },
+    { "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SYSTEM_000_113", "hash": "EA1E06C518E0CCC5", "target": "Tus compañeras aún no han llegado. Asegúrate de que estén a tu lado antes de intentar continuar." },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_120",
+      "hash": "F68438C035C0F754",
+      "target": "Esto es el Mosaico, una cafetería. Aquí se pueden comprar bebidas y disfrutarlas con calma."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_121",
+      "hash": "6D6FC2A6A578112B",
+      "target": "Ya veo. En Tuliyollal hay un local parecido llamado Xbalyav Ty'e─que significa “concha marina” en la lengua local. ¿Hay alguna historia detrás del nombre Mosaico?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_122",
+      "hash": "147127D8ACA4C16D",
+      "target": "La hay. En nuestro continente, los pueblos toman el nombre de las piedras. Están los Hyune, que se parecen a algunos Tonawawta; los altos y elegantes Eldite; y los menudos y afables Milalla."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_123",
+      "hash": "257AAEE9CE44B9FE",
+      "target": "Cuando se reúnen todos aquí, parecen un mosaico de colores. Por eso el fundador decidió llamar así a la cafetería."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_124",
+      "hash": "494248C719F4737A",
+      "target": "Je, qué bonito. ¡Si además sirvieran tacos, sería perfecto!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_125",
+      "hash": "236880434A33B3F4",
+      "target": "¿Tacos...?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_126",
+      "hash": "E3CA2E7CA0A46490",
+      "target": "Un plato tradicional tural, y una de mis comidas favoritas. ¡Tienes que probarlo algún día!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_127",
+      "hash": "72C0DA6B620D5F82",
+      "target": "Ah... eh, sí. ¡Sin falta!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_128",
+      "hash": "613367DC9F0DE9D0",
+      "target": "Lo haremos realidad en cuanto devolvamos la paz a Tuliyollal. ¡Bien, sigamos!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_129",
+      "hash": "806F54A95DB84E15",
+      "target": "¿Tú también has comido... tacos? Si Lamaty'i los recomienda tanto, deben de estar buenísimos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_100_129",
+      "hash": "8DB02D061E2844D1",
+      "target": "¡Iremos a por unos tacos a Xbalyav Ty'e los tres juntos!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_130",
+      "hash": "75C0FDB94BB300C4",
+      "target": "Y aquí estamos. En estos edificios viven nuestros ciudadanos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_131",
+      "hash": "9EDE9470103A5CBB",
+      "target": "¡Son enormes! ¡Cada uno es más grande que el palacio!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_132",
+      "hash": "54433C929A51212A",
+      "target": "Han de serlo, porque casi todos los alejandrinos tienen aquí su apartamento."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_133",
+      "hash": "A303A173BFD7B9EC",
+      "target": "Por si os lo preguntáis, he venido a visitar a unas personas. Su apartamento está en el edificio de la izquierda, en el radio residencial 9-14."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_134",
+      "hash": "4DEC9AFED3A2CC26",
+      "target": "¿Radio... residencial?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_135",
+      "hash": "2D857E4EE8EFE961",
+      "target": "Así es. Venid, la puerta se abre sola."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_136",
+      "hash": "14C0F440B416A2CF",
+      "target": "Espero que os guste el distrito. La gente trabajó mucho para construirlo, cuidando hasta el último detalle."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_100_137",
+      "hash": "975CFD5E21C9D5D4",
+      "target": "Se nota de verdad que Sphene quiere a su país, ¿eh?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_A2_000_004",
+      "hash": "33B6715E3F5CDFDE",
+      "target": "<colortype(548)>Preguntar por el vestíbulo.<colortype(0)>"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_137",
+      "hash": "1B7A9752B67C3753",
+      "target": "Esto es el vestíbulo, una zona común para los residentes."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_138",
+      "hash": "EAFC42C88DE64CE4",
+      "target": "Ya veo... ¿Y esa máquina de ahí qué hace?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_139",
+      "hash": "3C0624D22338CF67",
+      "target": "Ah, la conserje. Se ocupa de los residentes. Si necesitáis ayuda o tenéis preguntas, os atenderá encantada."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_140",
+      "hash": "31293AB2B092A678",
+      "target": "¿Ah, sí? No me faltan preguntas, pero de momento te las haré a ti."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_141",
+      "hash": "2CA7ACF18BF3A78A",
+      "target": "Faltaría más. ¡Considérame vuestra conserje personal!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_142",
+      "hash": "60E7F841AB17C3BB",
+      "target": "Oye, Sphene. ¿Puede vivir aquí cualquiera?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_143",
+      "hash": "7F5CA83416AEB1EC",
+      "target": "¡Naturalmente! De hecho, muchos de tus compatriotas tienen aquí su hogar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_144",
+      "hash": "09B836EC12EB70DB",
+      "target": "Sea cual sea su origen o su raza, su oficio o su uso de regulador, todos los ciudadanos alejandrinos pueden optar a un apartamento. Eso incluye a los que conocisteis trabajando en los Arrabales."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_145",
+      "hash": "980AAEC141A1446A",
+      "target": "Llevas treinta años cuidando de todos. Te lo agradezco de verdad."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_150",
+      "hash": "4745E04C74D70230",
+      "target": "Es aquí. Aquí viven una madre y su hijo."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_151",
+      "hash": "DDDA7B21BEA327D9",
+      "target": "¡Hola, Isadora!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_152",
+      "hash": "35B15B71BE1FDFF0",
+      "target": "¡Majestad! ¡Ha venido!"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_153",
+      "hash": "8F159E25A16C8DAC",
+      "target": "Hoy vengo con unos amigos. ¿Te parece bien?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_154",
+      "hash": "E9B3F24359268478",
+      "target": "¡Por supuesto! Los amigos de la reina son amigos nuestros. Pasen, están en su casa."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_155",
+      "hash": "4E4B8E80B3809A45",
+      "target": "¿Cómo está Milos?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_156",
+      "hash": "2D20721395575F04",
+      "target": "No hay cambios, pero por suerte hoy los síntomas son leves."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_157",
+      "hash": "A7DB7C9707C9498A",
+      "target": "Hola, Milos. ¿Me has echado de menos?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_158",
+      "hash": "ED893FC5D7D74607",
+      "target": "Mi hijo nació con el mal del rayo─un grave desequilibrio etéreo hacia el elemento rayo."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_159",
+      "hash": "B615F40F203B1DF5",
+      "target": "A consecuencia de ello, sufre parálisis. No puede caminar y le cuesta muchísimo hablar."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_160",
+      "hash": "8A925413FF3DA079",
+      "target": "Por fortuna, conserva el oído, e incluso en los días malos puede comunicarse con la mirada."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_161",
+      "hash": "AACA41AC938A780F",
+      "target": "Ya veo... Sphene viene a menudo, ¿verdad?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_162",
+      "hash": "0287ED89473A3C30",
+      "target": "Así es. Milos la adora. A veces incluso consigue sonreír cuando ella está aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_163",
+      "hash": "405CA3133780E0BD",
+      "target": "¿Y tú, Isadora? ¿Cómo lo llevas?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_164",
+      "hash": "EE5F2AC8EEF38880",
+      "target": "No se preocupe por mí, Majestad. Usted siempre saca tiempo para nosotros, y tenemos todo lo que necesitamos."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_165",
+      "hash": "4AF6BFF6D3AB6B4C",
+      "target": "Me alegra oírlo. Pero no te exijas de más, ¿entendido?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_166",
+      "hash": "571040E1F32F048F",
+      "target": "¿No hay nada que se pueda hacer por él? Quizá un tratamiento con almas o..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_167",
+      "hash": "1E37B48172411D01",
+      "target": "Por desgracia, no. Las almas pueden revivir a quien sufre un accidente, pero no pueden revertir los efectos de la vejez ni de la enfermedad."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_168",
+      "hash": "855B917836B5E0E1",
+      "target": "A decir verdad, muchos niños nacen como Milos. La enfermedad existe desde hace generaciones, pero no hemos podido encontrar cura."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_169",
+      "hash": "31040363137EA737",
+      "target": "La causa, en cambio, está bastante clara: el exceso de rayo en el entorno. No es casualidad que los casos hayan aumentado drásticamente estos últimos treinta años."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_170",
+      "hash": "54AFCBDA677CEA20",
+      "target": "Todo es culpa mía..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_171",
+      "hash": "B7F037D489A9E126",
+      "target": "¿Qué has dicho?"
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_172",
+      "hash": "597F69F14FA64A69",
+      "target": "Lo siento, Isadora, pero tengo que irme. Prometo hacerte una visita como es debido la próxima vez, con algo rico para compartir."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_ISADORA_000_173",
+      "hash": "778951697A93D512",
+      "target": "No hace falta que se disculpe, Majestad. Si no fuera por usted, Milos y yo no seguiríamos aquí."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_MILOS_000_174",
+      "hash": "2640461F2E789072",
+      "target": "Gracias... reina Sphene..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_175",
+      "hash": "CA5F18A1425EF96F",
+      "target": "Es un placer, Milos. Volveré pronto, así que pórtate bien. Por tu madre y por mí."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_WUKLAMAT_000_180",
+      "hash": "6DEDFD876A2B1F6D",
+      "target": "Y pensar que existía una enfermedad así..."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_190",
+      "hash": "3CE7363B6ED5C7F5",
+      "target": "Gracias por acompañarme en la visita."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_191",
+      "hash": "34A058DE32DA4E93",
+      "target": "La enfermedad forma parte de la vida en Alexandria, y me parecía que debíais saberlo."
+    },
+    {
+      "gameKey": "quest/049/KinGme103_04934#TEXT_KINGME103_04934_SPHENE_000_192",
+      "hash": "F60B1743DEA36812",
+      "target": "Encontraremos una cura algún día, recordad mis palabras. Haremos que niños desdichados como Milos vuelvan a sonreír."
+    }
+  ]
+}
