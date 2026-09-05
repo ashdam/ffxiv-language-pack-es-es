@@ -4,6 +4,7 @@ on:
   push:
     branches: ["main"]
     paths: ["corpus/**", "glossary/**", "pack.json"]
+  workflow_dispatch:
 
 permissions: {}
 
