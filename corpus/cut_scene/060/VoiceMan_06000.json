@@ -52,7 +52,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000450_GRAHATIA", "hash": "B66FF356239DDE51", "target": "En cualquier caso, diría que el aire del mar te sentará bien. ¿Por qué no te unes a los demás en cubierta? Sharlayan debería aparecer a la vista en cualquier momento." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000460_HYDAELYN", "hash": "69CA32CD93B230DB", "target": "Mi voz aún te alcanza. Me alegro." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000470_HYDAELYN", "hash": "B5000D70FF7F7769", "target": "Escucha, siente, piensa..." },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000480_HYDAELYN", "hash": "124A85A0BE592E70", "target": "Y así, al fin, nos vemos cara a cara. <if(gnum4,Mi Guerrera de la Luz, guiada por el Cristal,Mi Guerrero de la Luz, guiado por el Cristal)>." },
+    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_000480_HYDAELYN", "hash": "124A85A0BE592E70", "target": "Y así, al fin, nos vemos cara a cara. <if(gnum4,Mi Guerrera de la Luz\\, guiada por el Cristal,Mi Guerrero de la Luz\\, guiado por el Cristal)>." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_Q2_000_001_NONE_VOICE", "hash": "1F6D82510B28424E", "target": "¿Qué vas a decir?" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_A2_000_001_NONE_VOICE", "hash": "E14010AF8F36D473", "target": "¿Por qué ahora, Hydaelyn?" },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_A2_000_002_NONE_VOICE", "hash": "5A23B59C9EDF682A", "target": "Ya no puedo fiarme de tus palabras." },
@@ -921,7 +921,7 @@
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008870_AMON", "hash": "49EEF28D68672694", "target": "No obstante, os equivocáis, pues esta parte sí la encuentro algo disfrutable." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008880_AMON", "hash": "087E51B83A83142C", "target": "Veréis, cuando era mortal, tenía siempre el mismo sueño." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008890_AMON", "hash": "1DD9432E0F7C638D", "target": "Era algo fragmentario. Inconexo. Todos los rostros, incompletos. El escenario, también, me era desconocido, así que lo tomé por una simple fantasía de mi mente dormida." },
-    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008900_AMON", "hash": "720E875B9A002076", "target": "Hasta que un día comprendí que me mostraba la verdad─igual que a vos os iluminó vuestro sueño de los Días Finales." },
+    { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008900_AMON", "hash": "720E875B9A002076", "target": "Hasta que un día comprendí que me mostraba la verdad─igual que a usted lo iluminó su sueño de los Días Finales." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008910_AMON", "hash": "1DB34E8937FD3166", "target": "Y pronto, muy pronto, el resto del mundo verá también la verdad de mi sueño." },
     { "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_008920_AMON", "hash": "C5F4BAFB0B48DDC3", "target": "Sí, creo que eso es algo que ambos podemos disfrutar." }
   ]

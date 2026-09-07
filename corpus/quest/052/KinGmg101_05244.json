@@ -248,7 +248,7 @@
     {
       "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SUNPERCHGATEKEEPER_000_300",
       "hash": "5BEA6399C7312969",
-      "target": "<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>, es siempre un honor. El Juramento Koana se ha ausentado para atender un asunto urgente, pero no tardará en reunirse con vos dentro."
+      "target": "<if(gnum4,Señora,Señor)> <split(<string(gstr1)>, ,1)>, es siempre un honor. El Juramento Koana se ha ausentado para atender un asunto urgente, pero no tardará en reunirse con usted dentro."
     },
     { "gameKey": "quest/052/KinGmg101_05244#TEXT_KINGMG101_05244_SYSTEM_000_301", "hash": "F4E09CE74E63CD6B", "target": "¿Ir a Sunperch?" },
     {

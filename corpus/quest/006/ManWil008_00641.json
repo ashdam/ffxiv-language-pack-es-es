@@ -36,12 +36,12 @@
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_20",
       "hash": "FA1F832E7414FCA5",
-      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>, y enhorabuena por su invitación a la gran velada!"
+      "target": "¡<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>, y enhorabuena por tu invitación a la gran velada!"
     },
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_21",
       "hash": "45F0E35CC6320A1A",
-      "target": "La verdad, nunca creí que le explicaría a usted estos procedimientos; suelen ser los dignatarios foráneos quienes me oyen divagar sobre las tradiciones reales. En fin, sé que es usted <if(gnum4,una mujer ocupada,un hombre ocupado)>, así que iré al grano."
+      "target": "La verdad, nunca creí que te explicaría a ti estos procedimientos; suelen ser los dignatarios foráneos quienes me oyen divagar sobre las tradiciones reales. En fin, sé que eres <if(gnum4,una mujer ocupada,un hombre ocupado)>, así que iré al grano."
     },
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_22",
@@ -76,7 +76,7 @@
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_40",
       "hash": "4575B8B4EDCA3BD6",
-      "target": "¿Ya ha recogido sus pendientes, <split(<string(gstr1)>, ,1)>?"
+      "target": "¿Ya has recogido tus pendientes, <split(<string(gstr1)>, ,1)>?"
     },
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_41",
@@ -91,7 +91,7 @@
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_43",
       "hash": "B4857BA31395B0AD",
-      "target": "Y bien, espero que se sienta con ganas de alternar, <split(<string(gstr1)>, ,1)>, ¡porque está a punto de codearse con la flor y nata de Ul'dah! Avíseme cuando esté <if(gnum4,lista,listo)> para ir al banquete."
+      "target": "Y bien, espero que te sientas con ganas de alternar, <split(<string(gstr1)>, ,1)>, ¡porque estás a punto de codearte con la flor y nata de Ul'dah! Avísame cuando estés <if(gnum4,lista,listo)> para ir al banquete."
     },
     {
       "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_Q1_000_050",
