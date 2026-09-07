@@ -12,6 +12,11 @@
     "«corpus» es cuánto habla en el juego, no cuánto se ha revisado: conversaciones y filas en las que aparece. Si tras un parche sube, hay material nuevo que contrastar contra esta entrada."
   ],
   "register": {
+    "BRENDT": { "corpus": { "conversations": 2, "rows": 39 }, "evidence": [{ "gameKey": "quest/005/ManWil000_00548#TEXT_MANWIL000_00548_BRENDT_000_24", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu. Voz coloquial de vendedor ambulante." },
+    "BRENNAN": { "corpus": { "conversations": 2, "rows": 46 }, "evidence": [{ "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_BRENNAN_000_1", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano; conversación coloquial con el pasajero." },
+    "BREMONDT": { "corpus": { "conversations": 4, "rows": 56 }, "evidence": [{ "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_BREMONDT_000_1", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu; conversación coloquial con el pasajero." },
+    "RYSSFLOH": { "corpus": { "conversations": 7, "rows": 33 }, "evidence": [{ "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_RYSSFLOH_000_60", "lang": "ja", "term": "君" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés toi al dirigirse al aventurero." },
+    "WYMOND": { "corpus": { "conversations": 14, "rows": 159 }, "evidence": [{ "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_WYMOND_000_10", "lang": "fr", "term": "T'es" }], "player": "tú", "confidence": "high", "why": "Francés tu y japonés coloquial, sin keigo." },
     "AKEBONO": {
       "corpus": { "conversations": 6, "rows": 43 },
       "player": "usted",
@@ -1146,7 +1151,7 @@
       "voice": "Cecea. Marca una o dos palabras por línea, nunca la transcripción entera: «inzpiración», «ezto», «conzigues», «zol», «Azí». NO conviertas «has» en «haz», que es palabra española y se lee como falta en vez de como acento; marca otra palabra en esas líneas. Antes de nada, decide qué líneas son suyas: el comentarista de la arena comparte su combate y se reconoce en el japonés por ～だァ～ / ～ぞォ～ y por la tercera persona."
     },
     "KANESENNA": {
-      "corpus": { "conversations": 49, "rows": 679 },
+      "corpus": { "conversations": 50, "rows": 690 },
       "evidence": [
         { "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_KANESENNA_000_212", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_KANESENNA_000_026", "lang": "ja", "term": ")>殿" },
@@ -1507,7 +1512,7 @@
       ]
     },
     "RAUBAHN": {
-      "corpus": { "conversations": 87, "rows": 968 },
+      "corpus": { "conversations": 88, "rows": 978 },
       "evidence": [
         { "gameKey": "quest/041/AktKba251_04113#TEXT_AKTKBA251_04113_RAUBAHN_000_004", "lang": "ja", "term": "貴様" },
         { "gameKey": "quest/041/AktKba241_04112#TEXT_AKTKBA241_04112_RAUBAHN_000_084", "lang": "ja", "term": "貴様" },
@@ -1552,7 +1557,7 @@
       ]
     },
     "ALPHINAUD": {
-      "corpus": { "conversations": 552, "rows": 5856 },
+      "corpus": { "conversations": 553, "rows": 5863 },
       "evidence": [
         { "gameKey": "quest/053/KinGmh107_05305#TEXT_KINGMH107_05305_ALPHINAUD_000_036", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_ALPHINAUD_000_119", "lang": "ja", "term": "君" },
@@ -2139,7 +2144,7 @@
       "examples": []
     },
     "CID": {
-      "corpus": { "conversations": 119, "rows": 1501 },
+      "corpus": { "conversations": 120, "rows": 1502 },
       "evidence": [
         { "gameKey": "quest/054/FesSux202_05458#TEXT_FESSUX202_05458_CID_000_094", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/040/LucKyw401_04031#TEXT_LUCKYW401_04031_CID_000_251", "lang": "ja", "term": "あんた" },
@@ -3105,7 +3110,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 61 de las 91 filas dirigidas al jugador, con keigo en 3; el francés va en «tu», 66 contra 6."
     },
     "MERLWYB": {
-      "corpus": { "conversations": 44, "rows": 699 },
+      "corpus": { "conversations": 45, "rows": 709 },
       "evidence": [
         { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_MERLWYB_000_256", "lang": "ja", "term": "君" },
         { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_MERLWYB_000_204", "lang": "ja", "term": "君" },
@@ -3129,7 +3134,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 5 de las 15 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 7 contra 2, es el de por defecto."
     },
     "MINFILIA": {
-      "corpus": { "conversations": 93, "rows": 1237 },
+      "corpus": { "conversations": 94, "rows": 1239 },
       "evidence": [
         { "gameKey": "DefaultTalk#590540.22", "lang": "fr", "term": "tu" },
         { "gameKey": "DefaultTalk#591042.21", "lang": "fr", "term": "tu" },
@@ -3286,7 +3291,7 @@
       "why": "Trata al jugador de sujeto de experimento: usted en todo el hilo de historia, «Soy Omega, y aguardaba su llegada». OJO, SUS FILAS DE COMBATE VAN APARTE: en las incursiones se dirige al grupo entero y ahí usa el plural, y un recuento por hablante sale partido, 92 filas con marca de tú contra 53 de usted, por mezclar las dos cosas. DECIDIDO POR EL FRANCÉS. 12 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 20 de 26, es su forma de hablar."
     },
     "PAPALYMO": {
-      "corpus": { "conversations": 56, "rows": 347 },
+      "corpus": { "conversations": 57, "rows": 348 },
       "evidence": [
         { "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_PAPALYMO_000_056", "lang": "ja", "term": "君" },
         { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_PAPALYMO_000_000", "lang": "ja", "term": "君" },
@@ -3825,7 +3830,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. アンタ en 18 de las 62 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 44 contra 1."
     },
     "YDA": {
-      "corpus": { "conversations": 61, "rows": 311 },
+      "corpus": { "conversations": 62, "rows": 312 },
       "evidence": [
         { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_YDA_000_103", "lang": "ja", "term": "君" },
         { "gameKey": "DefaultTalk#591111.20", "lang": "fr", "term": "tu" },
