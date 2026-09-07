@@ -57,7 +57,7 @@
     { "gameKey": "Lobby#63.3", "hash": "B25B21B6F903660F", "target": "Este Mundo no admite más personajes nuevos por ahora. Puedes esperar a que se levante la restricción o seleccionar otro Mundo." },
     { "gameKey": "Lobby#64.3", "hash": "0139766136C270F3", "target": "No puedes usar este personaje con tu cuenta actual." },
     { "gameKey": "Lobby#65.3", "hash": "657F5DE6564E463F", "target": "Se te concede una única oportunidad de cambiar la raza, el clan, el sexo, la apariencia y el nombre de tu personaje." },
-    { "gameKey": "Lobby#66.3", "hash": "CA9F672244B9C662", "target": "<if([lnum1>0],Cambia el nombre de tu sirviente después de recuperar los datos de tu personaje.,Para iniciar sesión con este personaje, primero debes cambiar el nombre de tu sirviente.)>" },
+    { "gameKey": "Lobby#66.3", "hash": "CA9F672244B9C662", "target": "<if([lnum1>0],Cambia el nombre de tu sirviente después de recuperar los datos de tu personaje.,Para iniciar sesión con este personaje\\, primero debes cambiar el nombre de tu sirviente.)>" },
     { "gameKey": "Lobby#67.3", "hash": "8E30A26B1464C5B9", "target": "Si lo deseas, puedes cambiar la raza, el sexo y la apariencia de tu personaje. <if([lnum1>0],\\(quedan <num(lnum1)> <if([lnum1==1],minuto,minutos)>\\),)>" },
     { "gameKey": "Lobby#68.3", "hash": "B01A6DDE47153FA1", "target": "Para iniciar sesión con este personaje, primero debes instalar <sheet(ExVersion,lnum1,0)>." },
     { "gameKey": "Lobby#69.3", "hash": "5ECBED3B6D6858A7", "target": "Para cambiar la raza, el sexo o la apariencia de este personaje, primero debes instalar <sheet(ExVersion,lnum1,0)>." },
