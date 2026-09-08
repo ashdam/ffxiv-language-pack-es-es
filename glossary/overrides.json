@@ -6,6 +6,8 @@
     "Topónimos diferidos: un nombre que el jugador tiene que casar con una interfaz sin traducir (Duty Finder, mapa, teletransporte) va con protect true aunque la prosa lo traduciría; la forma futura va en note como FUTURE SPANISH. Al traducir un término de interfaz se barre en la misma tanda la prosa que lo cita."
   ],
   "terms": [
+    {"note":"Categoría de misiones de encargo.","en":"Battlecraft","es-ES":"Combate","protect":false},
+    {"note":"Etiqueta del tipo de daño. En prosa se admite daño contundente.","en":"Blunt","es-ES":"Impacto","protect":false},
     {"note":"Etiqueta de interfaz. En las explicaciones también se admite ataque automático.","en":"Auto-attack","es-ES":"Autoataque","protect":false},
     {"en":"levequest","es-ES":"misión de encargo","protect":false},
     {"en":"levemete","es-ES":"levemete","protect":true},
@@ -33,7 +35,7 @@
     {"en":"beastkin","es-ES":"bestias","protect":false},
     {"note":"Familia de criaturas, no el participio del verbo speak.","en":"spoken","es-ES":"seres parlantes","protect":false},
     {"en":"forgekin","es-ES":"seres mecánicos","protect":false},
-    {"en":"soulkin","es-ES":"seres animados","protect":false},
+    {"note":"Etiqueta de interfaz: Animados. En prosa: seres animados.","en":"soulkin","es-ES":"seres animados","protect":false},
     {"note":"JA 大陸船, FR arche.","en":"realmship","es-ES":"nave continente","protect":false},
     {"note":"Profesión; JA 魔工技師, FR magénieur.","en":"runesmith","es-ES":"artífice rúnico","protect":false},
     {"note":"En el contexto del Cuarto; JA 眷属, FR thræll.","en":"thrall","es-ES":"siervo","protect":false},
