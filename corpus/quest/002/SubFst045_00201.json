@@ -1,6 +1,5 @@
 {
   "conversation": "quest/002/SubFst045_00201",
-  "questName": "Passing Muster",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/002/SubFst045_00201#TEXT_SUBFST045_00201_GALFRID_000_1", "hash": "2BACAD12A91FFB71", "target": "Veo que estás <if(gnum4,deseosa,deseoso)> de echar una mano, <split(<string(gstr1)>, ,1)>. Bien está. Pero no puedo, en conciencia, enviarte al bosque hasta comprobar que tu equipo está a la altura de la tarea." },

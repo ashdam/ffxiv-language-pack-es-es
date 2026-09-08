@@ -1,6 +1,5 @@
 {
   "conversation": "quest/006/ManWil303_00685",
-  "questName": "For Coin and Country",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_1", "hash": "DC15101BAF9E6A42", "target": "¿Está <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>? Entonces, comencemos." },

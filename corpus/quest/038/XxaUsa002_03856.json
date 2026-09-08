@@ -1,6 +1,5 @@
 {
   "conversation": "quest/038/XxaUsa002_03856",
-  "questName": "We Come in Peace",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/038/XxaUsa002_03856#TEXT_XXAUSA002_03856_VORSAILE_000_000", "hash": "E091B6AF9706FC0E", "target": "¡Vaya, pero si es <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, presentándose al servicio! Ese es el celo que me gusta ver en una joven Serpiente emprendedora." },
