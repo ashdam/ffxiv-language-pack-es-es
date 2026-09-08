@@ -1,6 +1,6 @@
 {
   "conversation": "custom/004/RegHin3WanderingMinstrel_00421",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "custom/004/RegHin3WanderingMinstrel_00421#TEXT_REGHIN3WANDERINGMINSTREL_00421_MINSTREL_GREETING_000", "hash": "1E54E74D3EBCC884", "target": "¡Ah, algo heroico se acerca! ¿Cómo le va, <split(<string(gstr1)>, ,1)>? Como siempre, busco inspiración para mi obra. Si tiene alguna experiencia nueva que compartir, me encantaría escucharla." },
     { "gameKey": "custom/004/RegHin3WanderingMinstrel_00421#TEXT_REGHIN3WANDERINGMINSTREL_00421_MENU_CONTENT", "hash": "D6904297F868A0D3", "target": "Hablar sobre <if([lnum1==20047],Susano,<if([lnum1==20049],Lakshmi,<if([lnum1==20050],Shinryu,<if([lnum1==30057],Bahamut,<if([lnum1==30067],el Arma Ultima,<if([lnum1==20052],Byakko,<if([lnum1==20056],Tsukuyomi,<if([lnum1==20058],Suzaku,<if([lnum1==20061],Seiryu,<if([lnum1==30086],Alexander,)>)>)>)>)>)>)>)>)>)>" },

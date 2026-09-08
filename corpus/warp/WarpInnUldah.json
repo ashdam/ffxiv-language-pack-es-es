@@ -1,6 +1,6 @@
 {
   "conversation": "warp/WarpInnUldah",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_1", "hash": "A408F68CBFD76D62", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, aventurero. ¿Busca alojamiento en el Reloj de Arena?" },
     { "gameKey": "warp/WarpInnUldah#TEXT_WARPINNULDAH_OTOPAPOTTOPA_000_2", "hash": "BF59B595AC0455F6", "target": "Disculpe, ¿cómo era su nombre? ¿<string(gstr1)>? Mmm... La señora Momodi no me ha comentado nada al respecto. Por desgracia, sin su permiso expreso, no puedo permitirle alojarse." },

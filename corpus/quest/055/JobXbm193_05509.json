@@ -1,0 +1,16 @@
+{
+  "conversation": "quest/055/JobXbm193_05509",
+  "gameVersion": "2026.09.01.0000.0000",
+  "entries": [
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_100_000", "hash": "29328F32CD6682CF", "target": "Para emprender esta misión, primero debes cumplir los siguientes requisitos:" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_110_000", "hash": "D3742F448E9CE2C9", "target": "1. Debes tener FINAL FANTASY XIV: Dawntrail registrado en tu cuenta de servicio.<br>2. Debes ser beastmaster.<br>3. Debes haber completado el Second Master's Board." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_001", "hash": "A36DB0DF762E24DE", "target": "¡Lo sabía! ¡Sabía que ganarías, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>!" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_002", "hash": "B5132C3BB0A23B73", "target": "Aunque la señora Lauda parecía renovada, el señor Guttler habló con amargura de su derrota. «¿Por qué no bastó nuestro vínculo?». O algo así." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_003", "hash": "901FFF9DFB10A46A", "target": "En cualquier caso, tras asegurarle al señor Guttler que su actuación había sido admirable, la señora Lauda admitió que había llegado el momento de darte un entrenamiento especial." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_004", "hash": "9AEFC9E222F1AE5D", "target": "Como has superado todos los tableros sin esfuerzo, lo ha dispuesto todo para que tengas que sudar cada gil, por así decirlo." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYLMOND_000_005", "hash": "B812FD68E30D0A21", "target": "Tres grados de dificultad, cada cual más exigente. Como dice el sabiomaestro J'yhuh Tia, la senda del beastmaster rara vez es fácil... pero la alegría de encontrar el camino bien merece el esfuerzo. ¡Sigamos adelante!" },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_006", "hash": "AF38EA0D11A8D237", "target": "Has desbloqueado los grados de dificultad del Crucible of the Unbroken. Para ajustar la dificultad de los distintos tableros, habla con Lauda en los Prados de Rama Torcida." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_007", "hash": "F6327C535C0ED7D2", "target": "Además, has desbloqueado Crucible Rankings. Compite con jugadores de todo el mundo para conseguir la mayor puntuación." },
+    { "gameKey": "quest/055/JobXbm193_05509#TEXT_JOBXBM193_05509_SYSTEM_000_008", "hash": "BC0FED271A696693", "target": "Solo podrás participar en la clasificación si desafías los tableros en el tercer grado de dificultad. Para más información, habla con Lauda en los Prados de Rama Torcida." }
+  ]
+}

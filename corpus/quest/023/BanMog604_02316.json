@@ -1,6 +1,6 @@
 {
   "conversation": "quest/023/BanMog604_02316",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_SEQ_00", "hash": "3BA33C4710C34860", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Mogek señala a Hildeth en la plaza." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_SEQ_01", "hash": "717E1F413E749A83", "target": "Mogek intentaba dirigirte hacia Hildeth, que ha solicitado tu presencia. Habla con la Caballero del Temple para ver qué quiere.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual." },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_010", "hash": "E6749718AAD50B78", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>. Preferiría que bajáramos la voz. Los zapadores estamos preparando algo para los moguris." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_011", "hash": "358EAFB73ABFE7B5", "target": "Como sabe, últimamente nos han estado proporcionando un sustento muy necesario, que nos da fuerzas para seguir bregando día y noche en la restauración. Queríamos devolverles esa amabilidad dándoles a probar un guiso ishgardés tradicional." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_012", "hash": "8FF4E42DFEAFE5BF", "target": "Pensé en suplicar su ayuda, pues, al preparar un banquete, siempre falta algo. Los suministros tardan bastante en llegar a las Churning Mists desde Ishgard, y deseamos servirles la comida antes de que los ingredientes se echen a perder." },
-    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_013", "hash": "D9269808EADB6683", "target": "Al revisar los suministros, nos dimos cuenta de que los cubiertos de Ishgard resultan algo incómodos para las patas de moguri. ¿Quizá podría usar sus dotes para fabricar unas cucharas más pequeñas?" },
+    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_013", "hash": "C7E3D8140F89D40E", "target": "Al revisar los suministros, nos dimos cuenta de que los cubiertos de Ishgard resultan algo incómodos para las patas de los moguris. ¿Podría usar sus dotes para fabricar unas cucharas más pequeñas?" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_014", "hash": "DB0029AA88B2A28A", "target": "Al revisar los suministros, nos habíamos olvidado de incluir accesorios esenciales. ¿Quizá podría usar sus dotes para hacer bandejas y servilletas?" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_015", "hash": "44D6D50D9131ABB0", "target": "Al revisar los suministros, nos dimos cuenta de que no sabemos qué beberían los moguris para acompañar la comida. ¿Quizá podría usar sus dotes para preparar algo que les gustara?" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_HILDEATH_000_016", "hash": "4AE3B48914426152", "target": "Tengo entendido que conoce a Mogwon, en Asah. Si le menciona mi nombre, seguro que le entrega materiales para que los use." },
