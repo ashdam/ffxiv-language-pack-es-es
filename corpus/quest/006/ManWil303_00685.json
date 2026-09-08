@@ -1,7 +1,7 @@
 {
   "conversation": "quest/006/ManWil303_00685",
   "questName": "For Coin and Country",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_1", "hash": "DC15101BAF9E6A42", "target": "¿Está <if(gnum4,lista,listo)>, <split(<string(gstr1)>, ,1)>? Entonces, comencemos." },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_2", "hash": "E6AA49E3BF191F5F", "target": "<string(gstr1)>... está a punto de asumir un cometido sagrado." },

@@ -1,6 +1,6 @@
 {
   "sheet": "CompleteJournal",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "CompleteJournal#41", "hash": "07640B5B9D7710F4", "target": "Así que quieres ser Pícaro" },
     { "gameKey": "CompleteJournal#42", "hash": "CBD6C30B00DE81F9", "target": "Así que quieres ser Gladiador" },
@@ -49,6 +49,9 @@
     { "gameKey": "CompleteJournal#169", "hash": "6C26CB3BFE504DF7", "target": "Así que quieres ser Maquinista" },
     { "gameKey": "CompleteJournal#170", "hash": "C80138DCE6575B0B", "target": "Un espectáculo oscuro" },
     { "gameKey": "CompleteJournal#171", "hash": "9FB18448AD729B5B", "target": "¿Cuál es tu signo?" },
+    { "gameKey": "CompleteJournal#173", "hash": "F36D6B546350A10C", "target": "Todos al combate" },
+    { "gameKey": "CompleteJournal#174", "hash": "A0021F2D41C428C0", "target": "Revancha magistral" },
+    { "gameKey": "CompleteJournal#175", "hash": "BDED0EDE99B521EE", "target": "Abriendo sendas" },
     { "gameKey": "CompleteJournal#176", "hash": "EDF81BF236D73DB2", "target": "Vistas del norte" },
     { "gameKey": "CompleteJournal#178", "hash": "95BF108DAA6F14E5", "target": "Los favores de la casa" },
     { "gameKey": "CompleteJournal#180", "hash": "69B3DA85F51BA3A3", "target": "La nueva frontera" },
@@ -1225,6 +1228,10 @@
     { "gameKey": "CompleteJournal#1389", "hash": "6FDB9A253767EBFA", "target": "Un presentimiento funesto" },
     { "gameKey": "CompleteJournal#1390", "hash": "E8D6E00F0EB753B7", "target": "Un faro del más allá" },
     { "gameKey": "CompleteJournal#1391", "hash": "3C0703A980E72F09", "target": "El sendero a los cielos" },
+    { "gameKey": "CompleteJournal#1392", "hash": "1F3D287BCDB3D0C2", "target": "Un sueño de invierno" },
+    { "gameKey": "CompleteJournal#1393", "hash": "A0C4B3B1FEFA14C3", "target": "Una ráfaga de viento frío" },
+    { "gameKey": "CompleteJournal#1394", "hash": "84C6D37C20C7771B", "target": "Un mundo atrapado en el hielo" },
+    { "gameKey": "CompleteJournal#1395", "hash": "F75FFA6EEB187869", "target": "En alas del viento" },
     { "gameKey": "CompleteJournal#1397", "hash": "9615FFFC48DBD444", "target": "Un problema recurrente" },
     { "gameKey": "CompleteJournal#1398", "hash": "533AF6E14750A3A8", "target": "Si Ifrit sangra, podemos matarlo" },
     { "gameKey": "CompleteJournal#1399", "hash": "F83E826175BF5999", "target": "Un despertar a lo Garuda" },
@@ -4786,6 +4793,16 @@
     { "gameKey": "CompleteJournal#4966", "hash": "CE0BBF382B6A6E03", "target": "Vipers de caza" },
     { "gameKey": "CompleteJournal#4967", "hash": "E4B01DC57A0F0475", "target": "Al foso de los Vipers" },
     { "gameKey": "CompleteJournal#4968", "hash": "BDE844F382A1B622", "target": "La venganza del Viper" },
+    { "gameKey": "CompleteJournal#4969", "hash": "B1674AFBF47FAABE", "target": "Extraños en el bosque" },
+    { "gameKey": "CompleteJournal#4970", "hash": "4EAB174B96CA82D2", "target": "La llamada de lo salvaje" },
+    { "gameKey": "CompleteJournal#4971", "hash": "288CFCB05B495FAA", "target": "Corazones en sintonía" },
+    { "gameKey": "CompleteJournal#4972", "hash": "F734A6B2FF55CB8E", "target": "El maestro de la escuela Lhu" },
+    { "gameKey": "CompleteJournal#4973", "hash": "E65C6EA29D2EBC9B", "target": "Al Crucible" },
+    { "gameKey": "CompleteJournal#4974", "hash": "0B5C5B10E9CBA58D", "target": "El ingenio como arma" },
+    { "gameKey": "CompleteJournal#4975", "hash": "D5D13A4C225780EC", "target": "Con la boca abierta" },
+    { "gameKey": "CompleteJournal#4976", "hash": "38FDA6410626FFC6", "target": "Pecado de sangre" },
+    { "gameKey": "CompleteJournal#4977", "hash": "446A0D2697A36A8F", "target": "La senda del Domador" },
+    { "gameKey": "CompleteJournal#4978", "hash": "FED7FD2BF1C0CD27", "target": "Lazos irrompibles" },
     { "gameKey": "CompleteJournal#4979", "hash": "35F454FCBCDFEF7C", "target": "La insensatez del vidente" },
     { "gameKey": "CompleteJournal#4980", "hash": "ABC77ACF02CBB164", "target": "Solo tú puedes evitar la ira del bosque" },
     { "gameKey": "CompleteJournal#4981", "hash": "0272421135FA8EB0", "target": "Oh, hermano, ¿dónde estás?" },
@@ -7576,6 +7593,11 @@
     { "gameKey": "CompleteJournal#7800", "hash": "B1C8DA0868A6AC5D", "target": "The Final Verse (Quantum)" },
     { "gameKey": "CompleteJournal#7801", "hash": "8B357F23007F1C55", "target": "<italic(1)>The Merchant's Tale<italic(0)>" },
     { "gameKey": "CompleteJournal#7802", "hash": "64A0632AD60229F1", "target": "<italic(1)>The Merchant's Tale<italic(0)> (Advanced)" },
-    { "gameKey": "CompleteJournal#7803", "hash": "73D4801C2D9EC7A2", "target": "Another Merchant's Tale" }
+    { "gameKey": "CompleteJournal#7803", "hash": "73D4801C2D9EC7A2", "target": "Another Merchant's Tale" },
+    { "gameKey": "CompleteJournal#7804", "hash": "F812FFD29E136673", "target": "First Board of the Unbroken" },
+    { "gameKey": "CompleteJournal#7805", "hash": "B5CB36ADC6AA2771", "target": "Second Board of the Unbroken" },
+    { "gameKey": "CompleteJournal#7806", "hash": "AD2DF67763CF9E01", "target": "Third Board of the Unbroken" },
+    { "gameKey": "CompleteJournal#7807", "hash": "9DF14FDAB47769FD", "target": "First Master's Board" },
+    { "gameKey": "CompleteJournal#7808", "hash": "7CC74211E5435FDB", "target": "Second Master's Board" }
   ]
 }

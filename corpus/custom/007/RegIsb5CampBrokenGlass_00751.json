@@ -1,6 +1,6 @@
 {
   "conversation": "custom/007/RegIsb5CampBrokenGlass_00751",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "custom/007/RegIsb5CampBrokenGlass_00751#TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_001", "hash": "1DECA473CBCBD22A", "target": "Saludos, <if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,0)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,0)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,0)>,)> <split(<string(gstr1)>, ,2)>. Si desea saber algo de la situación actual, ha venido a la persona indicada." },
     { "gameKey": "custom/007/RegIsb5CampBrokenGlass_00751#TEXT_REGISB5CAMPBROKENGLASS_00751_ROCHILDA_000_002", "hash": "33C4D2FE98EBE978", "target": "Reconforta verle a salvo, <if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,0)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,0)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,0)>,)> <split(<string(gstr1)>, ,2)>. Perdone que lo diga, pero su desaparición no podría haber llegado en peor momento, así que todos estamos aliviados de que por fin se haya restaurado cierta apariencia de paz en el campamento. Entonces, ¿en qué puedo ayudarle?" },

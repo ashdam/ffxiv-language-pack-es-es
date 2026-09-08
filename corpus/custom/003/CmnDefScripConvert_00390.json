@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/CmnDefScripConvert_00390",
-  "gameVersion": "2026.08.11.0000.0000",
+  "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000", "hash": "CAAD4F74BF2E5350", "target": "Saludos, <if(gnum4,señora,señor)>. Si tiene <ennoun(Item,3,lnum1,2,1)> o <ennoun(Item,3,lnum2,2,1)>, con gusto le ofreceré a cambio <ennoun(Item,3,lnum3,2,1)> y <ennoun(Item,3,lnum4,2,1)>, respectivamente." },
     { "gameKey": "custom/003/CmnDefScripConvert_00390#TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000", "hash": "091BBFB19CA15BE6", "target": "Selecciona el vale que quieres canjear." },
