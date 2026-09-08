@@ -6,10 +6,17 @@
     "Topónimos diferidos: un nombre que el jugador tiene que casar con una interfaz sin traducir (Duty Finder, mapa, teletransporte) va con protect true aunque la prosa lo traduciría; la forma futura va en note como FUTURE SPANISH. Al traducir un término de interfaz se barre en la misma tanda la prosa que lo cita."
   ],
   "terms": [
-    {"note":"Nombre del job en inglés. La profesión en prosa se expresa como domador.","en":"Beastmaster","es-ES":"Beastmaster","protect":true},
+    {"note":"Etiqueta de interfaz. En las explicaciones también se admite ataque automático.","en":"Auto-attack","es-ES":"Autoataque","protect":false},
+    {"en":"levequest","es-ES":"misión de encargo","protect":false},
+    {"en":"levemete","es-ES":"levemete","protect":true},
+    {"en":"levewatch","es-ES":"supervisor de encargos","protect":false},
+    {"en":"Mother Miounne","es-ES":"Madre Miounne","protect":false},
+    {"note":"Único nombre de job traducido, también en interfaz. En prosa: domador o domadora. Se conserva la abreviatura BST; los demás jobs siguen en inglés en interfaz.","en":"Beastmaster","es-ES":"Domador","protect":false},
+    {"en":"Kornago gourd","es-ES":"calabaza Kornago","protect":false},
+    {"note":"Objeto del sistema Domador; también se traduce en inventario y en las instrucciones que lo citan.","en":"Cu Sith Gourd","es-ES":"Calabaza de Cu Sith","protect":false},
     {"note":"Instrumento y acción de Beastmaster: cuerno de llamada. Las variantes de la acción conservan I, II y III.","en":"battlehorn","es-ES":"cuerno de llamada","protect":false},
     {"note":"Nombre del menú y sus citas en tutoriales y diálogo.","en":"Master's Bestiary","es-ES":"Bestiario del domador","protect":false},
-    {"note":"Nombre del contenido. Forma abreviada: el Crucible. Board genérico se traduce como tablero; los nombres de instancias permanecen en inglés.","en":"Crucible of the Unbroken","es-ES":"Crucible of the Unbroken","protect":true},
+    {"note":"Nombre del contenido. Forma abreviada: el Crisol. Board genérico se traduce como tablero; los nombres de instancias permanecen en inglés.","en":"Crucible of the Unbroken","es-ES":"Crisol de los Inquebrantables","protect":false},
     {"note":"Primer grado. Francés y japonés distinguen los tres grados mediante I, II y III.","en":"instinctual combo","es-ES":"combo instintivo I","protect":false},
     {"note":"Segundo grado, como en francés y japonés.","en":"intentional combo","es-ES":"combo instintivo II","protect":false},
     {"note":"Tercer grado, como en francés y japonés.","en":"infinitive combo","es-ES":"combo instintivo III","protect":false},
@@ -2258,9 +2265,9 @@
       "en": "cactuar",
       "fr": "pampa",
       "ja": "サボテンダー",
-      "es-ES": "cactuar",
-      "protect": true,
-      "note": "Plural «cactuars». Convive con [[sabotender]] porque el inglés usa las dos: «cactuar» en 179 filas y «sabotender» en 348, y el japonés escribe サボテンダー en las dos. MANDA LA PALABRA INGLESA DE CADA FILA, no una unificación: el corpus ya lo hace así, 49 filas con cactuar y 159 con sabotender. Las cinco misiones de Hildibrand de Dawntrail escriben «cactuar» en todas."
+      "es-ES": "cactilio",
+      "protect": false,
+      "note": "Plural: cactilios. Se mantiene la distinción con sabotender; los nombres de objetos y destinos protegidos siguen en inglés."
     },
     {
       "en": "Sheshenewezi Springs",
