@@ -6,8 +6,9 @@
     "Topónimos diferidos: un nombre que el jugador tiene que casar con una interfaz sin traducir (Duty Finder, mapa, teletransporte) va con protect true aunque la prosa lo traduciría; la forma futura va en note como FUTURE SPANISH. Al traducir un término de interfaz se barre en la misma tanda la prosa que lo cita."
   ],
   "terms": [
+    {"note":"Nombre del menú y sus referencias en las guías.","en":"Actions & Traits","es-ES":"Acciones y rasgos","protect":false},
     {"note":"Categoría de misiones de encargo.","en":"Battlecraft","es-ES":"Combate","protect":false},
-    {"note":"Etiqueta del tipo de daño. En prosa se admite daño contundente.","en":"Blunt","es-ES":"Impacto","protect":false},
+    {"note":"Tipo de daño: Impacto en etiquetas; ataque de impacto o daño de impacto en descripciones.","en":"Blunt","es-ES":"Impacto","protect":false},
     {"note":"Etiqueta de interfaz. En las explicaciones también se admite ataque automático.","en":"Auto-attack","es-ES":"Autoataque","protect":false},
     {"en":"levequest","es-ES":"misión de encargo","protect":false},
     {"en":"levemete","es-ES":"levemete","protect":true},
@@ -2261,7 +2262,7 @@
       "ja": "サボテンダー",
       "es-ES": "sabotender",
       "protect": true,
-      "note": "Series-wide cactuar. English and Japanese both use 'sabotender'; French swaps in its own 'pampa'. Follow English. NO ES SINÓNIMO DE [[cactuar]]: el inglés usa las dos palabras y cada fila lleva la suya."
+      "note": "Tipo de cactilio. Mantener sabotender como denominación específica; cactuar se traduce cactilio."
     },
     {
       "en": "cactuar",
@@ -4902,7 +4903,7 @@
       "ja": "ダイヤウェポン",
       "es-ES": "el Arma Diamante",
       "protect": false,
-      "note": "Familia de [[Ruby Weapon]], 22 filas entregadas. La carta de Triple Triad es objeto y se queda en inglés."
+      "note": "Arma Diamante en prosa y en TripleTriadCard. Conservar el nombre inglés del objeto en Item."
     },
     {
       "en": "What will you do?",
@@ -6410,8 +6411,7 @@
       "ja": "斧術士",
       "es-ES": "asaltante",
       "protect": false,
-      "note": "OWNER'S RULING: the CLASS is «asaltante», and «Marauders' Guild» is «el Gremio de Asaltantes». ENGLISH USES ONE WORD FOR THE CLASS AND FOR A COMMON BANDIT, SO THIS CANNOT BE SWEPT BLIND — 14 lines are deliberately still «merodeador»: the rowdy Lominsans outside the Quicksand in ClsGla050, «el dravaniano merodeador de turno», the Bloody Marauders gang, the quest title «Migrant Marauders» and the stray Dawntrail uses. The test is whether the line means the axe class or someone who marauds.",
-      "note": "SOLO EN PROSA, como Duskwight: la clase en la pantalla de creación se queda «Marauder», con sus ocho hermanas. §7.9 ya lo decía para clases y jobs."
+      "note": "Marauder se conserva como nombre de clase en la interfaz. Solo en prosa sobre la clase: asaltante; Marauders' Guild: el Gremio de Asaltantes. Para quien saquea o merodea se admite merodeador; no aplicar el término de clase a bandas ni nombres propios."
     },
     {
       "en": "Tailfeather",
@@ -11796,6 +11796,34 @@
       "en": "yip",
       "es-ES": "gañido",
       "note": "Stage direction, shipped 5 times and unrecorded."
+    },
+    {
+      "en": "Near East",
+      "es-ES": "Cercano Oriente"
+    },
+    {
+      "en": "Indigo Deep",
+      "es-ES": "Profundidades Índigo"
+    },
+    {
+      "en": "Lord of the Revel",
+      "es-ES": "Señor del Festejo",
+      "note": "Epíteto de Susano."
+    },
+    {
+      "en": "Zidane Tribal",
+      "es-ES": "Yitán Tribal",
+      "note": "Nombre español del protagonista de Final Fantasy IX."
+    },
+    {
+      "en": "Necron",
+      "es-ES": "Tiniebla Eterna",
+      "note": "Nombre español de Final Fantasy IX."
+    },
+    {
+      "en": "Ultima, the High Seraph",
+      "es-ES": "Artema, el Ángel",
+      "note": "Entidad de Ivalice, con el nombre español de Final Fantasy XII. No aplicar a Ultima Weapon."
     }
   ]
 }
