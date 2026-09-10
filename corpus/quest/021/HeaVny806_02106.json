@@ -2,8 +2,6 @@
   "conversation": "quest/021/HeaVny806_02106",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_00", "hash": "5C9266D4D9CFA336", "target": "Eloin cree que eres justo <if(gnum4,la mujer,el hombre)> que busca." },
-    { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_SEQ_01", "hash": "638779503AE0873E", "target": "Conforme a las órdenes del gran comandante, los Caballeros del Templo han establecido un sistema para aceptar y emitir leves similar al que administran los Gremios de Aventureros de Eorzea. Si deseas emprender alguno de estos leves, solo tienes que hablar con Eloin en Foundation." },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "Disculpe, pero usted es <if(gnum4,la señora,el señor)> <split(<string(gstr1)>, ,2)>, ¿me equivoco?" },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "¡Justo <if(gnum4,la mujer,el hombre)> que esperaba ver! Da la casualidad de que tengo una propuesta para usted." },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_002", "hash": "F41732EDB1A60BD3", "target": "Verá, conforme a las órdenes del gran comandante, hemos establecido un nuevo sistema similar al que administran los Gremios de Aventureros de Eorzea." },
