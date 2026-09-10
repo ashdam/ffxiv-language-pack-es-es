@@ -19,9 +19,9 @@
     "GUTTLER": { "corpus": { "conversations": 3, "rows": 9 }, "evidence": [{ "gameKey": "quest/054/JobXbm151_05498#TEXT_JOBXBM151_05498_GUTTLER_000_072", "lang": "ja", "term": "お前" }], "player": "tú", "confidence": "high", "why": "Voz solemne y amenazante, con léxico arcaico y tuteo. Género masculino según el inglés." },
     "VISNA": { "corpus": { "conversations": 5, "rows": 82 }, "evidence": [{ "gameKey": "quest/054/KinGml103_05477#TEXT_KINGML103_05477_VISNA_000_300", "lang": "fr", "term": "Tu" }], "player": "tú", "confidence": "high", "why": "Voz informal y curiosa. Vosotros cuando habla al grupo." },
 
-    "BRENDT": { "corpus": { "conversations": 2, "rows": 39 }, "evidence": [{ "gameKey": "quest/005/ManWil000_00548#TEXT_MANWIL000_00548_BRENDT_000_24", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu. Voz coloquial de vendedor ambulante." },
+    "BRENDT": { "corpus": { "conversations": 2, "rows": 41 }, "evidence": [{ "gameKey": "quest/005/ManWil000_00548#TEXT_MANWIL000_00548_BRENDT_000_24", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu. Voz coloquial de vendedor ambulante." },
     "BRENNAN": { "corpus": { "conversations": 2, "rows": 46 }, "evidence": [{ "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_BRENNAN_000_1", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano; conversación coloquial con el pasajero." },
-    "BREMONDT": { "corpus": { "conversations": 4, "rows": 56 }, "evidence": [{ "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_BREMONDT_000_1", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu; conversación coloquial con el pasajero." },
+    "BREMONDT": { "corpus": { "conversations": 4, "rows": 57 }, "evidence": [{ "gameKey": "quest/000/ManFst000_00083#TEXT_MANFST000_00083_BREMONDT_000_1", "lang": "ja", "term": "お前さん" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés tu; conversación coloquial con el pasajero." },
     "RYSSFLOH": { "corpus": { "conversations": 7, "rows": 33 }, "evidence": [{ "gameKey": "quest/005/ManSea000_00541#TEXT_MANSEA000_00541_RYSSFLOH_000_60", "lang": "ja", "term": "君" }], "player": "tú", "confidence": "high", "why": "Japonés llano y francés toi al dirigirse al aventurero." },
     "WYMOND": { "corpus": { "conversations": 14, "rows": 159 }, "evidence": [{ "gameKey": "quest/005/ManWil001_00594#TEXT_MANWIL001_00594_WYMOND_000_10", "lang": "fr", "term": "T'es" }], "player": "tú", "confidence": "high", "why": "Francés tu y japonés coloquial, sin keigo." },
     "AKEBONO": {
@@ -457,7 +457,7 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Japonés casual sin keigo en sus 25 filas."
     },
     "HANCOCK": {
-      "corpus": { "conversations": 34, "rows": 343 },
+      "corpus": { "conversations": 34, "rows": 342 },
       "evidence": [
         { "gameKey": "quest/031/StmBdi302_03188#TEXT_STMBDI302_03188_HANCOCK_000_150", "lang": "ja", "term": "貴方様" },
         { "gameKey": "quest/029/StmBda509_02946#TEXT_STMBDA509_02946_HANCOCK_000_022", "lang": "fr", "term": "vous+keigo" },
@@ -914,7 +914,7 @@
       "why": "Chaval de la Bruma de Ishgard, deferente ante el Guerrero de la Luz. Japonés です/ます y 冒険者さん, ボク para sí; francés vous; inglés «my lady/sir». DECIDIDO POR EL JAPONÉS. Keigo en 4 de las 6 filas dirigidas al jugador, sin pronombre familiar; el francés en «vous», 3 contra 0."
     },
     "POD": {
-      "corpus": { "conversations": 6, "rows": 16 },
+      "corpus": { "conversations": 7, "rows": 18 },
       "player": "impersonal",
       "confidence": "high",
       "why": "NieR: el pod no usa segunda persona. Registro técnico, «Alerta:»."
@@ -1451,7 +1451,7 @@
       "why": "Eden: el intendente. Muy deferente, honoríficos 様. Con Gaia, usted, «señorita Gaia»."
     },
     "YUGIRI": {
-      "corpus": { "conversations": 100, "rows": 736 },
+      "corpus": { "conversations": 100, "rows": 737 },
       "evidence": [
         { "gameKey": "quest/045/AktKbz001_04579#TEXT_AKTKBZ001_04579_YUGIRI_100_047", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/041/AktKba451_04125#TEXT_AKTKBA451_04125_YUGIRI_000_000", "lang": "ja", "term": ")>殿" },
@@ -1531,7 +1531,7 @@
       "why": "RESUELTO MIDIENDO POR DESTINATARIO, que es lo que la entrada anterior pedía. Sus 62 filas que nombran al jugador son 29 de tú y ninguna de usted; el francés partido 119 a 93 lo estaba porque mezclaba lo que dice a Raganfrid y a M'naago."
     },
     "GRAHATIA": {
-      "corpus": { "conversations": 167, "rows": 2026 },
+      "corpus": { "conversations": 167, "rows": 2027 },
       "evidence": [
         { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_031", "lang": "ja", "term": "あんた" },
         { "gameKey": "quest/047/AktKea301_04791#TEXT_AKTKEA301_04791_GRAHATIA_000_274", "lang": "ja", "term": "あんた" },
@@ -1547,7 +1547,7 @@
       ]
     },
     "KRILE": {
-      "corpus": { "conversations": 236, "rows": 2773 },
+      "corpus": { "conversations": 236, "rows": 2772 },
       "evidence": [
         { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_099", "lang": "ja", "term": "君" },
         { "gameKey": "custom/004/CtsErkEureka1EventKrile_00455#TEXT_CTSERKEUREKA1EVENTKRILE_00455_KRILE_000_005", "lang": "fr", "term": "vous+keigo" },
@@ -1564,7 +1564,7 @@
       ]
     },
     "ALPHINAUD": {
-      "corpus": { "conversations": 559, "rows": 5960 },
+      "corpus": { "conversations": 559, "rows": 5958 },
       "evidence": [
         { "gameKey": "quest/053/KinGmh107_05305#TEXT_KINGMH107_05305_ALPHINAUD_000_036", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_ALPHINAUD_000_119", "lang": "ja", "term": "君" },
@@ -1662,7 +1662,7 @@
       ]
     },
     "EMMANELLAIN": {
-      "corpus": { "conversations": 42, "rows": 323 },
+      "corpus": { "conversations": 42, "rows": 322 },
       "evidence": [
         { "gameKey": "quest/047/AktKua203_04763#TEXT_AKTKUA203_04763_EMMANELLAIN_000_021", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/046/AktKsa201_04650#TEXT_AKTKSA201_04650_EMMANELLAIN_000_086", "lang": "ja", "term": "お前" },
@@ -1957,7 +1957,7 @@
       ]
     },
     "ESTINIEN": {
-      "corpus": { "conversations": 162, "rows": 1321 },
+      "corpus": { "conversations": 162, "rows": 1317 },
       "evidence": [
         { "gameKey": "quest/045/AktKmi104_04595#TEXT_AKTKMI104_04595_ESTINIEN_000_020", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/040/LucKmk103_04060#TEXT_LUCKMK103_04060_ESTINIEN_000_135", "lang": "ja", "term": "お前" },
@@ -2151,7 +2151,7 @@
       "examples": []
     },
     "CID": {
-      "corpus": { "conversations": 120, "rows": 1502 },
+      "corpus": { "conversations": 120, "rows": 1501 },
       "evidence": [
         { "gameKey": "quest/054/FesSux202_05458#TEXT_FESSUX202_05458_CID_000_094", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/040/LucKyw401_04031#TEXT_LUCKYW401_04031_CID_000_251", "lang": "ja", "term": "あんた" },
@@ -2292,7 +2292,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 14 de las 39 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 30 contra 2."
     },
     "ALISAIE": {
-      "corpus": { "conversations": 404, "rows": 3829 },
+      "corpus": { "conversations": 404, "rows": 3826 },
       "evidence": [
         { "gameKey": "DefaultTalk#596440.20", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/000/GaiUsd501_00043#TEXT_GAIUSD501_00043_ALISAIE_000_101", "lang": "fr", "term": "vous+keigo" },
@@ -2475,7 +2475,7 @@
       "why": "CONFIRMADO EN «tú». Su japonés llama al jugador <nombre>殿 y por eso el veredicto automático pedía usted, pero es la misma deferencia léxica que en [[NAYOSHI]] y [[TSUKIKAGE]]: el inglés le hace decir «brother» y «Take pride in that», y trata al jugador de camarada de armas. Cabecilla veterano de la Resistencia."
     },
     "COULTENET": {
-      "corpus": { "conversations": 12, "rows": 77 },
+      "corpus": { "conversations": 12, "rows": 78 },
       "evidence": [
         { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_072", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_032", "lang": "ja", "term": "お前" },
@@ -3141,7 +3141,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 5 de las 15 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 7 contra 2, es el de por defecto."
     },
     "MINFILIA": {
-      "corpus": { "conversations": 94, "rows": 1239 },
+      "corpus": { "conversations": 94, "rows": 1241 },
       "evidence": [
         { "gameKey": "DefaultTalk#590540.22", "lang": "fr", "term": "tu" },
         { "gameKey": "DefaultTalk#591042.21", "lang": "fr", "term": "tu" },
@@ -3298,7 +3298,7 @@
       "why": "Trata al jugador de sujeto de experimento: usted en todo el hilo de historia, «Soy Omega, y aguardaba su llegada». OJO, SUS FILAS DE COMBATE VAN APARTE: en las incursiones se dirige al grupo entero y ahí usa el plural, y un recuento por hablante sale partido, 92 filas con marca de tú contra 53 de usted, por mezclar las dos cosas. DECIDIDO POR EL FRANCÉS. 12 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 20 de 26, es su forma de hablar."
     },
     "PAPALYMO": {
-      "corpus": { "conversations": 57, "rows": 348 },
+      "corpus": { "conversations": 57, "rows": 349 },
       "evidence": [
         { "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_PAPALYMO_000_056", "lang": "ja", "term": "君" },
         { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_PAPALYMO_000_000", "lang": "ja", "term": "君" },
@@ -3631,7 +3631,7 @@
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone 君 al jugador, que es familiar. Y el francés lo tutea."
     },
     "TATARU": {
-      "corpus": { "conversations": 165, "rows": 1300 },
+      "corpus": { "conversations": 165, "rows": 1302 },
       "evidence": [
         { "gameKey": "DefaultTalk#590838.21", "lang": "fr", "term": "tu" },
         { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_010", "lang": "fr", "term": "vous+keigo" },
@@ -3643,7 +3643,7 @@
       "why": "Francés `vous` sin excepción y el corpus «usted» 25 contra 2. Su calidez no está en el pronombre."
     },
     "THANCRED": {
-      "corpus": { "conversations": 253, "rows": 2178 },
+      "corpus": { "conversations": 253, "rows": 2176 },
       "evidence": [
         { "gameKey": "quest/054/KinGmk102_05471#TEXT_KINGMK102_05471_THANCRED_000_030", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/044/AktKmg102_04451#TEXT_AKTKMG102_04451_THANCRED_000_050", "lang": "ja", "term": "お前" },
@@ -3837,7 +3837,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. アンタ en 18 de las 62 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 44 contra 1."
     },
     "YDA": {
-      "corpus": { "conversations": 62, "rows": 312 },
+      "corpus": { "conversations": 62, "rows": 314 },
       "evidence": [
         { "gameKey": "quest/005/ManFst405_00520#TEXT_MANFST405_00520_YDA_000_103", "lang": "ja", "term": "君" },
         { "gameKey": "DefaultTalk#591111.20", "lang": "fr", "term": "tu" },
@@ -4864,7 +4864,7 @@
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Se dirige al grupo entero, no al jugador solo: お前たち en japonés y «vous» plural en francés, así que sus filas van en vosotros. Sin honorífico ni keigo."
     },
     "CHOCOBOKEEP": {
-      "corpus": { "conversations": 1, "rows": 4 },
+      "corpus": { "conversations": 1, "rows": 5 },
       "player": "usted",
       "confidence": "high",
       "why": "El mozo del mostrador de chocobo porter, y sus variantes de halcón, amaro y alpaca. Keigo de servicio: 申し訳ありません, ご案内, お客様. EXCEPCIÓN MEDIDA: la variante enana del mozo de amaros (`00200_*_DWARF`) tutea en francés y en japonés."
