@@ -4,6 +4,6 @@
   "entries": [
     { "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_NO_TARGET_COLORANT", "hash": "8666F36DD3F0E538", "target": "No hay tintes aplicables que intercambiar." },
     { "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_1", "hash": "8D20FB1E86F33C84", "target": "Recibirás:<string(lstr1)><br><br>¿Cambiar tus tintes de un solo color?" },
-    { "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2", "hash": "38183E8C331B83FE", "target": "" }
+    { "gameKey": "custom/009/CmnDefOldColorantConvert_00985#TEXT_CMNDEFOLDCOLORANTCONVERT_00985_CONFIRM_DIALOG_2", "hash": "38183E8C331B83FE", "target": "<br><num(lnum2)> <if([lnum2==1],<ennoun(Item,3,lnum1,1,1)>,<ennoun(Item,3,lnum1,2,1)>)>" }
   ]
 }
