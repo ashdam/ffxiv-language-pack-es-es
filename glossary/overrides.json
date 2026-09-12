@@ -3,7 +3,7 @@
     "Términos decididos a mano. Formato en docs/glossary.md de ffxiv-corpus-en.",
     "protect true: se deja el inglés. protect false: se traduce, y es-ES es la forma acordada.",
     "fr y ja se copian de líneas del corpus; vacío = ese idioma no usa un término fijo.",
-    "Topónimos: traducir los componentes descriptivos también en mapas e instancias y conservar los nombres propios opacos. Las decisiones de region, zone y territory se revisan en review/toponimos-decisiones.csv; una celda decision vacía no autoriza una propuesta.",
+    "Topónimos: traducir los componentes descriptivos también en mapas e instancias y conservar los nombres propios opacos.",
     "Revisar las protecciones de topónimos motivadas por la interfaz inglesa al traducir sus etiquetas. Mantener una misma decisión en PlaceName, el glosario y las menciones; cerrar la entrega con CorpusValidator."
   ],
   "terms": [
@@ -8731,7 +8731,7 @@
     {"en":"The Grand Cosmos","es-ES":"Gran Cosmos","protect":false},
     {"en":"The Great Gubal Library","es-ES":"Gran Biblioteca de Gubal","protect":false},
     {"en":"The Great Hunt","es-ES":"La Gran Cacería","protect":false},
-    {"en":"The Halo","es-ES":"Halo","protect":true},
+    {"en":"The Halo","es-ES":"El Halo","protect":false},
     {"en":"The Heroes' Gauntlet","es-ES":"Prueba de los Héroes","protect":false},
     {"en":"The Hollow Purgatory","es-ES":"Purgatorio Hueco","protect":false},
     {"en":"The Holocharts","es-ES":"Sala de Holomapas","protect":false},
