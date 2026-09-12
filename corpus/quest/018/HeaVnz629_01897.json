@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_00", "hash": "93069934577338E4", "target": "Pierriquet tiene un brillo travieso en la mirada." },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_01", "hash": "580640EC83BA19FB", "target": "Pierriquet necesita tres caparazones de zoblyn y te ha rogado que le ayudes a conseguirlos. Abate a tres de los ice zoblyns cercanos y recoge sus caparazones para él." },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "Recoges los caparazones que Pierriquet pidió. Llévaselos al Convictory y averigua qué planea hacer con ellos." },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "Pierriquet está encantado con el obsequio de los caparazones de zoblyn. Planea usarlos para fabricar munición barata y sostenible para los cañones viejos y maltrechos que está reparando en el Campamento Confluencia." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_02", "hash": "E6508A9B0D9CB81D", "target": "Recoges los caparazones que Pierriquet pidió. Llévaselos al Convictorio y averigua qué planea hacer con ellos." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_SEQ_03", "hash": "34C54AC0AFE85165", "target": "Pierriquet está encantado con el obsequio de los caparazones de zoblyn. Planea usarlos para fabricar munición barata y sostenible para los cañones viejos y maltrechos que está reparando en el Campamento Confluencia de los Ríos." },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_00", "hash": "2797043B785D7DA3", "target": "Abatir ice zoblyns y obtener sus caparazones" },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_TODO_01", "hash": "7F6D297880ABEDC3", "target": "Entregar los caparazones a Pierriquet" },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_000", "hash": "A20DC8E7A1E6380A", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,mi señora,mi señor)>. Si no es molestia, ¿tendría a bien echarme una mano con una cosilla?" },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_010", "hash": "6FB5E38E169E2E40", "target": "Con tres caparazones bastaría, <if(gnum4,mi señora,mi señor)>, si es que le sobra el tiempo." },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_020", "hash": "A0B74E950D732EEC", "target": "¿Tiene ya esos caparazones de zoblyn, <if(gnum4,mi señora,mi señor)>?" },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_021", "hash": "3268A8862FFD3166", "target": "Oh, estos sí que son magníficos, ya lo creo. Muchísimas gracias." },
-    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "Verá, encontré unos cañones viejos en el Campamento Confluencia. Estaban hechos un desastre cuando los hallé, pero los he ido arreglando... Claro que no tengo balas de cañón que dispararles." },
+    { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_022", "hash": "D60ACDE3AF48AB77", "target": "Verá, encontré unos cañones viejos en el Campamento Confluencia de los Ríos. Estaban hechos un desastre cuando los hallé, pero los he ido arreglando... Claro que no tengo balas de cañón que dispararles." },
     { "gameKey": "quest/018/HeaVnz629_01897#TEXT_HEAVNZ629_01897_PIERRIQUET_000_023", "hash": "25AA845428A48C82", "target": "¡Pero, querer es poder! Estos caparazones de zoblyn son duros como el hierro y, si los rompe con maña, les queda un filo endiabladamente cortante. Me juego lo que sea a que, si disparamos eso con un cañón, ¡le hará jirones las alas a un dragón!" }
   ]
 }

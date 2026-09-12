@@ -5,7 +5,7 @@
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_00", "hash": "7EFD126C6D8696EC", "target": "Rakorok necesita ayuda para entender al juravasijas Kaahe." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_01", "hash": "80A704A4911C4336", "target": "Rakorok se ha visto al cargo del juravasijas Kaahe, pero no tiene ni idea de qué podría querer o necesitar el artesano para estar más a gusto en Earthenshire. Tras advertir de que los ayudamanos no interpelan directamente a los juravasijas, el atareado Moblin os pide a ti y a Wuk Lamat que observéis a Kaahe e intentéis averiguar sus deseos." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_02", "hash": "8064287E429F1D42", "target": "Entras en el taller y adviertes varias cosas que podrían estar afectando a la capacidad de Kaahe para concentrarse en su trabajo. Tras echar un buen vistazo, tú y Wuk Lamat volvéis a salir para compartir vuestras observaciones con Rakorok." },
-    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_03", "hash": "18E4061257EB948D", "target": "Wuk Lamat señala tres factores que probablemente estén entorpeciendo la labor creativa de Kaahe. El primero son las comidas ardientes del artesano, que un Hhetsarro cualquiera no apreciaría y de las que Wuk Lamat hablará con el cocinero de los Moblin. El segundo es el estado de las herramientas de Kaahe, un descuido que Rakorok se alegra de corregir. El tercero tiene que ver con el sofocante calor del interior del Workpot, que se te encarga aliviar rescatando un «draftyshard» de los restos de barcos cercanos. Según Rakorok, deberías poder divisar el túnel que lleva a los bajíos en cuestión justo a las afueras de la aldea." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_03", "hash": "18E4061257EB948D", "target": "Wuk Lamat señala tres factores que probablemente estén entorpeciendo la labor creativa de Kaahe. El primero son las comidas ardientes del artesano, que un Hhetsarro cualquiera no apreciaría y de las que Wuk Lamat hablará con el cocinero de los Moblin. El segundo es el estado de las herramientas de Kaahe, un descuido que Rakorok se alegra de corregir. El tercero tiene que ver con el sofocante calor del interior de la Olla de Trabajo, que se te encarga aliviar rescatando un «draftyshard» de los restos de barcos cercanos. Según Rakorok, deberías poder divisar el túnel que lleva a los bajíos en cuestión justo a las afueras de la aldea." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_04", "hash": "B4ABA774158607F4", "target": "Tu búsqueda de la entrada del túnel se ve interrumpida un momento por Koana y Thancred, que han salido a recoger hierbas para tratar a los Moblin heridos. Reflexionando sobre la delicada situación de Earthenshire, Koana parece preocupado por cómo la tecnología sharlayana podría mejorar la vida de su pueblo. Cuando ambos se marchan, no tardas en distinguir el paso rocoso que buscabas, al sureste de la aldea, tal como describió Rakorok." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_05", "hash": "891F90094BE56612", "target": "Vadeas los bajíos y recoges un cristal de aspecto de viento de entre los restos esparcidos por la zona. Con el «draftyshard» en la mano, ya puedes volver a Earthenshire, donde te espera Rakorok." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SEQ_06", "hash": "7BACB35DAFC47377", "target": "Reanimado por vuestras ofrendas de buena comida, herramientas nuevas y una brisa reconfortante, Kaahe se pone de inmediato a crear una exquisita lámpara de aceite. Entonces llega Koana para informar a Wuk Lamat del inminente comienzo de la prueba y no puede evitar quedar impresionado por el trabajo del juravasijas. Rakorok, por su parte, también parece muy satisfecho con el drástico cambio de actitud de Kaahe." },
@@ -155,7 +155,7 @@
     {
       "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_038",
       "hash": "FEE19FD51FD6F5B9",
-      "target": "Podéis recogerlos en los Arrecifes sin Retorno. Hay allí muchos barcos viejos, abandonados por quienes renunciaron a buscar la ciudad dorada."
+      "target": "Podéis recogerlos en los Bajíos sin Retorno. Hay allí muchos barcos viejos, abandonados por quienes renunciaron a buscar la ciudad dorada."
     },
     {
       "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_WUKLAMAT_000_039",
@@ -180,7 +180,7 @@
     {
       "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_RAKOROK_000_043",
       "hash": "076F5AFA99ECDCAA",
-      "target": "¡Los Arrecifes sin Retorno están pasados los peñascos, por un túnel al sureste! ¡Deberías ver el paso nada más salir de la aldea!"
+      "target": "¡Los Bajíos sin Retorno están pasados los peñascos, por un túnel al sureste! ¡Deberías ver el paso nada más salir de la aldea!"
     },
     {
       "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_KOANA_000_045",
@@ -242,7 +242,7 @@
       "hash": "D88A9A0FB71AB039",
       "target": "Nos volveremos a ver pronto, seguro. Cuídate, <split(<string(gstr1)>, ,1)>."
     },
-    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_057", "hash": "82C0A1A9BCB988E9", "target": "Divisas la boca del túnel. Cruza el pasadizo hasta los Shoals of No Return y recupera el «draftyshard»." },
+    { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_057", "hash": "82C0A1A9BCB988E9", "target": "Divisas la boca del túnel. Cruza el pasadizo hasta los Bajíos sin Retorno y recupera el «draftyshard»." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_058", "hash": "58B52AB9ED18DB69", "target": "Esta esquirla cristalina está ligeramente caliente al tacto. No parece ser el wind crystal que buscas." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_000_059", "hash": "91536B363F33EAFB", "target": "Esta esquirla cristalina se nota húmeda en la mano. No parece ser el wind crystal que buscas." },
     { "gameKey": "quest/048/KinGmb102_04881#TEXT_KINGMB102_04881_SYSTEM_100_059", "hash": "9515579FC0EFC92D", "target": "Esta esquirla cristalina emana un suave susurro de viento. Parece que has encontrado el cristal que Rakorok te mandó rescatar." },

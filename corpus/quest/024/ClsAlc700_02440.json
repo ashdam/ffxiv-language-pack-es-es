@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_01",
       "hash": "F4377D031EF02CF1",
-      "target": "Popokkuli te cuenta que Ansobert ha escapado de su almacén. Viaja al Mercado de la Avenida Zafiro y busca allí a la sirvienta del mercader."
+      "target": "Popokkuli te cuenta que Ansobert ha escapado de su almacén. Viaja a la Lonja de la Avenida Zafiro y busca allí a la sirvienta del mercader."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_02",
@@ -67,7 +67,7 @@
       "hash": "8767D09E09BC7B63",
       "target": "Hablar con Severian en el Gremio de Alquimistas"
     },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un vial of potent dissolvent <sheet(Addon,9,0)>,Entregar el vial of potent dissolvent <sheet(Addon,9,0)> a Greinfarr en Erralig's Burial Chamber.)>" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un vial of potent dissolvent <sheet(Addon,9,0)>,Entregar el vial of potent dissolvent <sheet(Addon,9,0)> a Greinfarr en la Cámara Mortuoria de Erralig.)>" },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_05",
       "hash": "638579B79F74DB13",

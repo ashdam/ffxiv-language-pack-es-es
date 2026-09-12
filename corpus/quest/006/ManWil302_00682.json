@@ -8,10 +8,10 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_A1_000_2", "hash": "C0BA6F3843F5DC13", "target": "No" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_2", "hash": "3854028177530664", "target": "¡Excelente! Temía que el incidente con el traidor hubiera agriado su opinión de nosotros. Me alegra ver que no es así." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_3", "hash": "478F68E450E5B530", "target": "Pero, antes de poder contarle entre los nuestros, debe ser formalmente <if(gnum4,incorporada,incorporado)> a nuestras filas." },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_4", "hash": "2C752D3BA66DA245", "target": "Diríjase a <switch(gnum70,la Sala de las Llamas\\, en la Franja de los Mercaderes de Ul'dah,la Sala de las Llamas\\, en la Franja de los Mercaderes de Ul'dah,la Sala de las Llamas)> e identifíquese ante el oficial de personal. Le avisaré de su llegada." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_4", "hash": "2C752D3BA66DA245", "target": "Diríjase a <switch(gnum70,la Sala de las Llamas\\, en la Calle de los Mercaderes de Ul'dah,la Sala de las Llamas\\, en la Calle de los Mercaderes de Ul'dah,la Sala de las Llamas)> e identifíquese ante el oficial de personal. Le avisaré de su llegada." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_5", "hash": "28724DA210FD0AFF", "target": "Con su fuerza unida a la nuestra, sin duda prevaleceremos sobre nuestros enemigos, sean hombres bestia o imperiales." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_6", "hash": "2A638C8D1A82E419", "target": "¿Cómo? ¡No estará considerando en serio unirse a otra Gran Compañía! ¡Ninguna es, ni de lejos, tan <italic(1)>grande<italic(0)> como la nuestra!" },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SERPENTOFFICER_000_10", "hash": "1649176071B84709", "target": "No negaré que estoy decepcionado, pero me consuela saber que uno puede trasladarse entre Grandes Compañías. Sepa que la Orden de la Doble Víbora estaría orgullosa de contar con usted si algún día cambia de parecer." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SERPENTOFFICER_000_10", "hash": "1649176071B84709", "target": "No negaré que estoy decepcionado, pero me consuela saber que uno puede trasladarse entre Grandes Compañías. Sepa que la Orden de las Dos Víboras estaría orgullosa de contar con usted si algún día cambia de parecer." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEOFFICER_000_11", "hash": "D94FF4AFCE6AF728", "target": "Antes de ocupar su lugar en nuestras filas, hable con el oficial de personal de la Sala de las Llamas<switch(gnum70, de Ul'dah, de Ul'dah,)>. Hágalo cuanto antes. Entretanto, comunicaré su <italic(1)>excelente<italic(0)> decisión al general Raubahn." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_STORMOFFICER_000_12", "hash": "96ABFBB86B1DBEA0", "target": "Así que has decidido echar tu suerte con las Llamas. En fin, no hay nada que hacer. Solo recuerda que nunca es tarde para enrolarte en otra tripulación." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_20", "hash": "1E088CFEA7C579FC", "target": "¿Qué le trae a la Sala de las Llamas <if([gnum11<12],<if([gnum11<4],esta madrugada,esta mañana)>,<if([gnum11<17],hoy,esta tarde)>)>, <if(gnum4,aventurera,aventurero)>?" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_23", "hash": "E193E8D869011FD8", "target": "¡Señor!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_24", "hash": "68170EACEC6BBCFE", "target": "Habla, soldado." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_25", "hash": "2450C84D1EF15453", "target": "¡Imperiales, señor! ¡Han disparado contra una aeronave de Aerovías Highwind!" },
-    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_26", "hash": "80B3EF7026D8A755", "target": "¡Los exploradores dicen que está cayendo al oeste, cerca del Confín de Horizon!" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIVATE_000_26", "hash": "80B3EF7026D8A755", "target": "¡Los exploradores dicen que está cayendo al oeste, cerca de la Linde de Horizonte!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_27", "hash": "D8AD7A062F8539C9", "target": "¡Malditos infiernos! ¡Cómo no, tenía que pasar justo ahora!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_28", "hash": "71D743DE566680B0", "target": "¡<split(<string(gstr1)>, ,1)>, no hay tiempo para formalidades! ¡Las Llamas Inmortales necesitan su ayuda <italic(1)>ahora<italic(0)>!" },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPERSONNEL_000_29", "hash": "814AD192CA444A2C", "target": "Estamos en plena operación a gran escala contra los Amalj'aa y no tenemos a nadie disponible en el Thanalan Occidental. ¡Debe llegar a esa nave antes que los garleanos!" },
@@ -86,7 +86,7 @@
     {
       "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_02",
       "hash": "11AF6C2AD6438DEB",
-      "target": "Tu incorporación formal a las Llamas Inmortales se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete al Confín de Horizon y averigua la suerte de la maltrecha nave y su tripulación."
+      "target": "Tu incorporación formal a las Llamas Inmortales se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete a la Linde de Horizonte y averigua la suerte de la maltrecha nave y su tripulación."
     },
     {
       "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_03",
@@ -106,7 +106,7 @@
     {
       "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_01",
       "hash": "E1A0D402F26159C3",
-      "target": "Ir al Confín de Horizon y averiguar la suerte de la aeronave y su tripulación"
+      "target": "Ir a la Linde de Horizonte y averiguar la suerte de la aeronave y su tripulación"
     },
     {
       "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_02",
