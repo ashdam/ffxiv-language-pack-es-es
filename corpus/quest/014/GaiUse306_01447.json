@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_01",
       "hash": "649AE2DFEF2D7DEE",
-      "target": "Mientras tú y Alphinaud debatís vuestro siguiente paso, te reencuentras con la niña de Tiro de Piedra. Al enterarse de tu deseo de dar con el mercader que reclutó a sus padres, te ha buscado con la esperanza de que la lleves hasta ellos. Aunque es evidente que no le apetece, Alphinaud se ofrece a ayudar a la niña en su búsqueda. Poco después, Minfilia se pone en contacto contigo y te pide que regreses al Refugio de las Piedras de inmediato. La situación en la Selva de los Doce ha empeorado, y es probable que te pidan que intervengas."
+      "target": "Mientras tú y Alphinaud debatís vuestro siguiente paso, te reencuentras con la niña de Tiro de Piedra. Al enterarse de tu deseo de dar con el mercader que reclutó a sus padres, te ha buscado con la esperanza de que la lleves hasta ellos. Aunque es evidente que no le apetece, Alphinaud se ofrece a ayudar a la niña en su búsqueda. Poco después, Minfilia se pone en contacto contigo y te pide que regreses al Refugio de las Rocas de inmediato. La situación en la Selva de los Doce ha empeorado, y es probable que te pidan que intervengas."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_02",
@@ -20,7 +20,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_TODO_00",
       "hash": "AC050E787B188CBC",
-      "target": "Hablar con Minfilia en el Refugio de las Piedras"
+      "target": "Hablar con Minfilia en el Refugio de las Rocas"
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_000",
@@ -35,7 +35,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_002",
       "hash": "30E65FB959712593",
-      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de la Doble Víbora,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
+      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de las Dos Víboras,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_003",
@@ -100,7 +100,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_015",
       "hash": "3908F48DFAF11062",
-      "target": "...La llevaré a Quicksand. Quizá Momodi sepa qué hacer."
+      "target": "...La llevaré a las Arenas Movedizas. Quizá Momodi sepa qué hacer."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_016",

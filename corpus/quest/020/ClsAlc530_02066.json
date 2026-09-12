@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_01",
       "hash": "C6F73F469C368A15",
-      "target": "Según Wiltwaek, los ladrones han vuelto a atacar, esta vez llevándose varios artefactos allaganos del Hallazgo de San Coinach. Durante su huida, uno de los ladrones dejó caer un curioso documento: un mapa de Mor Dhona, cubierto de extraños símbolos. Wiltwaek cree que se trata de una especie de código que la banda usa para comunicarse. Comprender su significado es crucial para la investigación, así que te pide que le muestres el mapa cifrado al mayor experto en cifrados del reino: Baderon, dueño de Drowning Wench en Limsa Lominsa."
+      "target": "Según Wiltwaek, los ladrones han vuelto a atacar, esta vez llevándose varios artefactos allaganos del Hallazgo de San Coinach. Durante su huida, uno de los ladrones dejó caer un curioso documento: un mapa de Mor Dhona, cubierto de extraños símbolos. Wiltwaek cree que se trata de una especie de código que la banda usa para comunicarse. Comprender su significado es crucial para la investigación, así que te pide que le muestres el mapa cifrado al mayor experto en cifrados del reino: Baderon, dueño de la Moza Ahogada en Limsa Lominsa."
     },
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_02",
@@ -54,7 +54,7 @@
     },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_000", "hash": "877A87DB4159D6DB", "target": "¡<split(<string(gstr1)>, ,1)>! Bien, tengo un trabajo para usted. El Hallazgo de San Coinach sufrió un robo hace unas campanadas. Los ladrones se llevaron varios artefactos allaganos, muchos de ellos excavados hace poco." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_001", "hash": "BEC2BA6323CF4D9D", "target": "Un guardia dice que uno de ellos dejó caer este mapa de Mor Dhona durante su huida. Pero está cubierto de símbolos extraños. Un mensaje en clave, tal vez, o un cifrado. Debemos desentrañar sus secretos." },
-    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_002", "hash": "C7D5E74058FF63AD", "target": "El dueño de Drowning Wench, en Limsa, puede ayudar. <switch(gnum70,Ya ha conocido a Baderon\\, ¿verdad,¿Ha oído hablar de Baderon,¿Ha oído hablar de Baderon)>?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_002", "hash": "C7D5E74058FF63AD", "target": "El dueño de la Moza Ahogada, en Limsa, puede ayudar. <switch(gnum70,Ya ha conocido a Baderon\\, ¿verdad,¿Ha oído hablar de Baderon,¿Ha oído hablar de Baderon)>?" },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_003", "hash": "EE03DDC29DC6D838", "target": "Es el mayor experto del reino en cifrados... lo cual resulta irónico si lo conoce. Pero creo de veras que sabrá leer los símbolos, y necesitará un alquimista que desenrede su significado. Que los dioses lo acompañen, amigo mío." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_010", "hash": "796F31D54883E806", "target": "El tiempo apremia, <split(<string(gstr1)>, ,1)>─yo no tardaría mucho en llevarle el mapa cifrado a Baderon." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_BADERON_000_030", "hash": "AAE0AFB19836EB4C", "target": "Salud, <if(gnum4,muchacha,muchacho)>. Traes cara de pocos amigos, ¡pero una jarra de lo mejor de la Moza te lo cura! O... ¿es que quieres otra cosa?" },

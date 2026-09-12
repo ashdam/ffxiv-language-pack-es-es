@@ -15,7 +15,7 @@
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_01", "hash": "0EFBD5344A38E36D", "target": "Registrar el Vencejo y sus alrededores en busca de pistas" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_02", "hash": "A19B0026D9C72F0B", "target": "Entregar el pico torcido a Skaetswys" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_03", "hash": "CF90E72CC0674385", "target": "Hablar con Bloeidin en el Campamento Mirador" },
-    { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_04", "hash": "34AF9D442F576808", "target": "Hablar con Skaetswys en la Excavación de la 789.ª Orden" },
+    { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_04", "hash": "34AF9D442F576808", "target": "Hablar con Skaetswys en la Excavación de la Orden 789" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_05", "hash": "61D05D98C3170A53", "target": "Hablar con Skaetswys" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TODO_06", "hash": "4ED59401A689E0DE", "target": "Hablar con Gi Gu, picador de la 789.ª Orden" },
     { "gameKey": "quest/013/BanKob001_01320#TEXT_BANKOB001_01320_TRACHRAET_000_001", "hash": "F6B8AD8867402010", "target": "<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>! No sé qué te trae hoy a la Comandancia del Maelstrom, pero difícilmente puedo reprochar tu oportuno momento. Sí, tenemos un buen lío entre manos, ya lo creo." },

@@ -2,9 +2,9 @@
   "conversation": "quest/049/KinGmf114_04959",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_00", "hash": "A626720370D4EECA", "target": "La mirada de Wuk Lamat está fija en el Meso Terminal." },
-    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_01", "hash": "981242C4EBD073AD", "target": "El momento decisivo ha llegado. La fusión interdimensional se ha iniciado, lo que significa que el Meso Terminal está ahora vulnerable. Con la determinación de llevar a cabo el plan de Cahciua, regresas a toda prisa al terminal en el corazón de la ciudad." },
-    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_02", "hash": "EADB6652421C136A", "target": "Como era de esperar, no se puede apagar el Meso Terminal sin más. Previéndolo, Cahciua os ha dejado un programa que enviará vuestras almas a sus bancos de memoria, donde deberéis buscar y detener a Sphene. Os aguarda un dominio virtual generado por sus recuerdos, y morir allí significaría morir en la realidad pero, por el bien de las vidas de todos los mundos, debéis afrontar los peligros y llevar la misión hasta el final.<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
+    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_00", "hash": "A626720370D4EECA", "target": "La mirada de Wuk Lamat está fija en el Mesoterminal." },
+    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_01", "hash": "981242C4EBD073AD", "target": "El momento decisivo ha llegado. La fusión interdimensional se ha iniciado, lo que significa que el Mesoterminal está ahora vulnerable. Con la determinación de llevar a cabo el plan de Cahciua, regresas a toda prisa al terminal en el corazón de la ciudad." },
+    { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_02", "hash": "EADB6652421C136A", "target": "Como era de esperar, no se puede apagar el Mesoterminal sin más. Previéndolo, Cahciua os ha dejado un programa que enviará vuestras almas a sus bancos de memoria, donde deberéis buscar y detener a Sphene. Os aguarda un dominio virtual generado por sus recuerdos, y morir allí significaría morir en la realidad pero, por el bien de las vidas de todos los mundos, debéis afrontar los peligros y llevar la misión hasta el final.<br><br>※Para reclutar a tus compañeros NPC en esta misión, habla con ellos cerca de la entrada o accede a Apoyo en Contenido desde el menú principal. Usa el Buscador de Contenido si deseas completar la instancia junto a otros jugadores." },
     { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_03", "hash": "F66E173256A62347", "target": "Te abres paso a través de los recuerdos vividos por Sphene, siendo testigo de su pasado, hasta llegar al sector más interno. Solo queda enfrentarte a tu adversaria e impedir que coseche la vida de otros mundos.<br><br>※Si abandonas la zona, podrás regresar hablando con Erenville en la Memoria Viva." },
     { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_04", "hash": "F6289F6BED6293A7", "target": "Por fin te encuentras cara a cara con Sphene, pero no antes de que sus recuerdos sean borrados. Ante tus propios ojos, la otrora gentil reina es recreada como una entidad aterradora, que expulsa sin más a tus camaradas antes de disponerse a borrarte de la existencia. Si quieres proteger todo lo que amas, tu única opción ahora es luchar... y vencer.<br><br>※Se puede acceder a Interphos a través del Buscador de Contenido." },
     { "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_SEQ_05", "hash": "132092CA218929AA", "target": "Al término de una extenuante lucha, logras derrotar a la monstruosidad en que Sphene se había convertido. Para tu sorpresa, ella reaparece entonces tal como era, rehecha a partir de sus recuerdos como Perpetua. Profundamente arrepentida, se disculpa por todo el sufrimiento que ha causado y confía sus cargas a Wuk Lamat antes de ir a reunirse con su amado pueblo en el abrazo del olvido." },
@@ -44,7 +44,7 @@
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_WUKLAMAT_000_022",
       "hash": "9D0311511FC19532",
-      "target": "Ni que decir tiene. ¡Vamos, al Meso Terminal!"
+      "target": "Ni que decir tiene. ¡Vamos, al Mesoterminal!"
     },
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_GRAHATIA_000_025",
@@ -64,7 +64,7 @@
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_WUKLAMAT_000_040",
       "hash": "B251F8E1F876BAC2",
-      "target": "Nada. Parece que el Meso Terminal no se puede apagar sin más como los otros."
+      "target": "Nada. Parece que el Mesoterminal no se puede apagar sin más como los otros."
     },
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_ERENVILLE_000_041",
@@ -240,7 +240,7 @@
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_BOLWRURUQ_000_095",
       "hash": "B2C44E68792FE0A9",
-      "target": "Le doy la bienvenida a las Cabinas de Proa, <if(gnum4,señora,señor)>. Aunque todavía estoy en formación, me esforzaré por que su estancia con nosotros sea cómoda."
+      "target": "Le doy la bienvenida a los Camarotes de Proa, <if(gnum4,señora,señor)>. Aunque todavía estoy en formación, me esforzaré por que su estancia con nosotros sea cómoda."
     },
     {
       "gameKey": "quest/049/KinGmf114_04959#TEXT_KINGMF114_04959_WUKLAMAT_000_100",

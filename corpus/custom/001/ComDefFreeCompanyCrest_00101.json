@@ -2,7 +2,7 @@
   "conversation": "custom/001/ComDefFreeCompanyCrest_00101",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01", "hash": "22290697BC0170F9", "target": "Soy heraldo de armas al servicio <switch(lnum1,del Maelstrom,de la Orden de la Doble Víbora,de las Llamas Inmortales)>." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR01", "hash": "22290697BC0170F9", "target": "Soy heraldo de armas al servicio <switch(lnum1,del Maelstrom,de la Orden de las Dos Víboras,de las Llamas Inmortales)>." },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1", "hash": "94B7C51D5FBF831C", "target": "¿Qué desea?" },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A1", "hash": "CB6988D1DD30387E", "target": "Editar el diseño del blasón de compañía." },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_A2", "hash": "84A73EF961D549EA", "target": "Añadir o quitar el blasón de compañía del equipo." },
@@ -13,7 +13,7 @@
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_012", "hash": "16E05F5D600DCE06", "target": "Para diseñar y aplicar un blasón de compañía, su compañía deberá haber obtenido antes el derecho a hacerlo." },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_013", "hash": "D98C4BE70698EB48", "target": "También tendrá que ser el maestro de su Free Company, o que se le conceda la autoridad pertinente para editar los blasones de compañía." },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR1", "hash": "4203285DB3591468", "target": "No parece que pertenezca a ninguna Free Company. No puede tener un blasón de compañía sin una compañía, ¿verdad?" },
-    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2", "hash": "EDEDF2ABDAF65FF0", "target": "Soy heraldo de armas al servicio <switch(lnum1,del Maelstrom,de la Orden de la Doble Víbora,de las Llamas Inmortales)>." },
+    { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR2", "hash": "EDEDF2ABDAF65FF0", "target": "Soy heraldo de armas al servicio <switch(lnum1,del Maelstrom,de la Orden de las Dos Víboras,de las Llamas Inmortales)>." },
     { "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ERR3", "hash": "B07E29E99BBC40D2", "target": "Su Free Company no parece figurar en nuestro registro. Si desea cambiar el blasón de su compañía, me temo que no puedo servirle." }
   ]
 }
