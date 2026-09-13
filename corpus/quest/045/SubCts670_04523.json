@@ -2,7 +2,7 @@
   "conversation": "quest/045/SubCts670_04523",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_SEQ_00", "hash": "897737EAA92E672D", "target": "La sirvienta, elegantemente vestida, te lanza miradas furtivas desde el momento en que entraste en el Agora." },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_SEQ_00", "hash": "897737EAA92E672D", "target": "La sirvienta, elegantemente vestida, te lanza miradas furtivas desde el momento en que entraste en el Ágora." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_00", "hash": "C1F3BD7EEA4903DD", "target": "Esperar cerca de la mesa reservada por la casa Leveilleur" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_01", "hash": "9A0AC4BE20D390C3", "target": "Hablar con Ameliance" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_TODO_02", "hash": "64C890974711F0DD", "target": "Volver a hablar con Ameliance" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_003", "hash": "CA849D4D0398CB00", "target": "He oído que es <if(gnum4,una artesana,un artesano)> ejemplar, ¿es cierto? De ser así, espero que le intrigue una propuesta de mi señora." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_004", "hash": "D03627A07919A243", "target": "Verá, últimamente la señora Ameliance se ha centrado en una labor de acción social bastante importante, y busca la ayuda de un artesano con un talento acorde a la tarea que tiene entre manos." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_005", "hash": "2359C84A619CBAF9", "target": "Ese brillo en su mirada me dice que desea saber más, así que le invito a hablar con ella en persona. Y, quiso la fortuna, está disponible en este preciso momento..." },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_006", "hash": "00EABBDD65D422B7", "target": "No hace falta que diga nada más; le reservaré un asiento a nombre de la casa Leveilleur. Diríjase al Last Stand en cuanto pueda y aguarde la llegada de la señora Ameliance." },
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_MERYLD_000_006", "hash": "00EABBDD65D422B7", "target": "No hace falta que diga nada más; le reservaré un asiento a nombre de la casa Leveilleur. Diríjase al Último Bastión en cuanto pueda y aguarde la llegada de la señora Ameliance." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_010", "hash": "21CB28F6CEDB2922", "target": "¡<split(<string(gstr1)>, ,1)>! ¡Deduzco que fue Meryld quien le envió hasta aquí!" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_FLHAMINN_000_011", "hash": "C1F62DCE22F96FC4", "target": "<if(gnum4,Atraída,Atraído)> por la perspectiva de nuevas empresas, sin duda. Yo misma soy culpable de lo mismo: la corrrespondencia de nuestra señora Leveilleur ha estado llena de las insinuaciones más tentadoras últimamente..." },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_ROWENA_000_012", "hash": "955F73873E64B31A", "target": "Vaya, vaya. ¿Qué pasa, no te alegras de verme?" },
@@ -79,6 +79,6 @@
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_084", "hash": "43EE14A54F8FD907", "target": "En los próximos días, otras cuantas familias también abrirán sus hogares a estudiantes de fuera. Debo dar buen ejemplo como primera madre de acogida, pues, si todo sale según lo previsto, ¡podremos ampliar el programa para incluir a aún más estudiantes!" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_085", "hash": "FBC0E7865C9835C6", "target": "No perdamos tiempo: ¡hay mucho trabajo por hacer!" },
     { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_086", "hash": "A32CF68A16F7AC94", "target": "Las clases en el Studium empezarán en cuanto los estudiantes hayan tenido tiempo de instalarse. Me gustaría aprovechar este periodo para conseguir todo lo necesario para su matriculación." },
-    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_087", "hash": "473C5C2B31E924E8", "target": "Podrá conseguir los materiales que necesite hablando con Synnove, la boticaria, en el Agora. ¡Demos a los estudiantes la bienvenida que merecen!" }
+    { "gameKey": "quest/045/SubCts670_04523#TEXT_SUBCTS670_04523_AMELIANCE_000_087", "hash": "473C5C2B31E924E8", "target": "Podrá conseguir los materiales que necesite hablando con Synnove, la boticaria, en el Ágora. ¡Demos a los estudiantes la bienvenida que merecen!" }
   ]
 }

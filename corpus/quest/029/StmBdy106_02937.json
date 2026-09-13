@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy106_02937",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "Estrild, de la posada Shiokaze, sigue escudriñando de cerca a los transeúntes en busca de reclutas." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SEQ_00", "hash": "374F21EF61014A3C", "target": "Estrild, de la Hostería Shiokaze, sigue escudriñando de cerca a los transeúntes en busca de reclutas." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_TODO_00", "hash": "10E863236FDDB15E", "target": "Hablar con Wlveva" },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_001", "hash": "44A0C235630EB83E", "target": "¡Válganme los dioses! No todos los días pasa por aquí alguien tan fuerte como tú. Soy Estrild, del Clan Centurio, ¡y te invito a tomar parte en nuestra Caza!" },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_002", "hash": "EACC63482F77D389", "target": "Ahhh, pero si conozco tu cara. Sí, sí, tú eres <if(gnum4,la alborotadora,el alborotador)>, <if(gnum4,esa,ese)> cuyas maneras le han impedido subir en nuestras filas. <split(<string(gstr1)>, ,1)>, ¿verdad?" },
@@ -13,8 +13,8 @@
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_011", "hash": "3C2C1FB8000B1239", "target": "Parece que le has caído bastante en gracia. Y con razón. Estrild siempre ha babeado por <if(gnum4,las mujeres fuertes,los hombres fuertes)>. Supongo que no se le puede reprochar." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_WLVEVA_000_012", "hash": "E4683927B5F94594", "target": "Así sea. Me ocuparé de que tengas a tu disposición nuestras marcas de dos estrellas. Pero harás bien en saber que la dificultad será muy superior a la de las cazas de una estrella que has visto. Prepárate." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_100_013", "hash": "594AA8D26982D4D6", "target": "Ya están disponibles los carteles de marcas de veterano de dos estrellas." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Ya puedes aceptar carteles de marcas de veterano de dos estrellas en los tablones de caza del Clan de Kugane y la Extensión de Rhalgr." },
-    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Al alcanzar el nivel 66, Estrild te ofrecerá nuevas misiones y carteles de marcas de veterano de tres estrellas en la posada Shiokaze." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_013", "hash": "12C8F346A1752473", "target": "Ya puedes aceptar carteles de marcas de veterano de dos estrellas en los tablones de caza del Clan de Kugane y el Refugio de Rhalgr." },
+    { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_SYSTEM_000_014", "hash": "CBBC0C1EE161F96A", "target": "Al alcanzar el nivel 66, Estrild te ofrecerá nuevas misiones y carteles de marcas de veterano de tres estrellas en la Hostería Shiokaze." },
     { "gameKey": "quest/029/StmBdy106_02937#TEXT_STMBDY106_02937_ESTRILD_000_015", "hash": "097C5B53E561D179", "target": "A ver si el Clan te da carteles más acordes a tus aptitudes. Porque, según crece el cazador, ¡así ha de crecer también la caza!" }
   ]
 }

@@ -3,16 +3,16 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_1", "hash": "2A89DF45FD4CD33C", "target": "Así que no te importa hacer un pequeño viaje, ¿eh? ¡Maravilloso!" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Como te comentaba antes, la petición nos llega del Gremio de Aventureros de Ul'dah. Cuando llegues, busca a Momodi, la dueña de Quicksand. Digamos que es mi equivalente en el sultanato." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_2", "hash": "4C9A54BC681F4906", "target": "Como te comentaba antes, la petición nos llega del Gremio de Aventureros de Ul'dah. Cuando llegues, busca a Momodi, la dueña de las Arenas Movedizas. Digamos que es mi equivalente en el sultanato." },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MIOUNNE_000_3", "hash": "124260318EC6A67D", "target": "Lo más probable es que te mande al corazón del peligro, pero tengo plena confianza en que saldrás sin un rasguño. Anda, en marcha, <split(<string(gstr1)>, ,1)>, ¡y buena suerte!" },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "Bienvenid<if(gnum4,a,o)> a Quicksand. Ahora mismo ando un pelín liada, así que, si no le importa, vaya pasando y tome asien─" },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_10", "hash": "DB43670A1C9BA2E9", "target": "Bienvenid<if(gnum4,a,o)> a las Arenas Movedizas. Ahora mismo ando un pelín liada, así que, si no le importa, vaya pasando y tome asien─" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_11", "hash": "02E6F328473351D5", "target": "¡Ah, pero si es <split(<string(gstr1)>, ,1)>! ¡Y yo aquí, soltando la misma cantinela de siempre!" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_12", "hash": "0AE33110261589C7", "target": "A juzgar por esa cara de determinación, deduzco que no vienes por una cerveza. ¿No te llamarás <string(gstr1)>, por casualidad?" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_13", "hash": "95C7EA765FEE424D", "target": "Miounne me avisó de que vendría a presentarse. Y se molestó en llamarle <if(gnum4,la aventurera,el aventurero)> del momento, nada menos. Viniendo de ella, no es alabanza menor." },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_MOMODI_000_14", "hash": "15A82D47E64F4E09", "target": "Pero no habrá venido hasta aquí para escuchar mi cháchara. Sin duda está deseando empezar, así que hablemos de negocios, ¿le parece?" },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_00", "hash": "A589E4FF133F1ABF", "target": "Miounne tiene información sobre una nueva tarea." },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "Según Miounne, el Gremio de Aventureros de Ul'dah busca gente para una tarea aún no revelada. Puedes saber más hablando con Momodi, la dueña de Quicksand." },
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_01", "hash": "BC4CE24049CA22EC", "target": "Según Miounne, el Gremio de Aventureros de Ul'dah busca gente para una tarea aún no revelada. Puedes saber más hablando con Momodi, la dueña de las Arenas Movedizas." },
     { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_SEQ_02", "hash": "D40755925A4F2195", "target": "Le has manifestado a Momodi tu interés por la tarea. Avísale cuando estés <if(gnum4,lista,listo)> para escuchar los detalles." },
-    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "Hablar con Momodi en Quicksand, en Ul'dah" }
+    { "gameKey": "quest/006/SubFst103_00678#TEXT_SUBFST103_00678_TODO_00", "hash": "10ED66743DEC4ADA", "target": "Hablar con Momodi en las Arenas Movedizas, en Ul'dah" }
   ]
 }

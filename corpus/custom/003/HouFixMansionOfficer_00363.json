@@ -2,7 +2,7 @@
   "conversation": "custom/003/HouFixMansionOfficer_00363",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000", "hash": "D3170C74DB3ACEC4", "target": "¡Bienvenido a los apartamentos <switch(lnum1,Topmast,Lily Hills,the Sultana's Breath,Kobai Goten,Ingleside)>! Tanto si viene con intención de comprar como si solo desea preguntar algo, mis servicios están a su disposición." },
+    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TALK_000_000", "hash": "D3170C74DB3ACEC4", "target": "¡Bienvenido a los apartamentos <switch(lnum1,Topmast,Colinas de los Lirios,el Aliento de la Sultana,Kobai Goten,Ingleside)>! Tanto si viene con intención de comprar como si solo desea preguntar algo, mis servicios están a su disposición." },
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_000", "hash": "751DAF79C49FA9CF", "target": "Preguntar sobre los apartamentos." },
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_001_001", "hash": "EC0972A2B54A3272", "target": "Cancelar." },
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_SELECT_006_000", "hash": "2F68FFE7E4D169F4", "target": "¿Sobre qué quieres preguntar?" },
@@ -60,7 +60,7 @@
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_1", "hash": "9D58E3AF9E4D1922", "target": "¡Bienvenido a los apartamentos Ingleside! Nuestras habitaciones están recibiendo los últimos retoques y pronto estarán disponibles para su compra. Le agradecemos su paciencia." },
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_OPENED_2", "hash": "7BDCC97F4E871DFF", "target": "Por ahora, Ingleside está abierto solo para su exhibición. La venta de apartamentos comenzará más adelante." },
     { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_ISHGARD_NOT_ARROWED_TO_BUY", "hash": "3C4D9F52683459C0", "target": "Para comprar un apartamento en Ingleside, primero debe completar la misión principal «Letanía de paz»." },
-    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1", "hash": "E3C058041CF3DFEB", "target": "¡Bienvenido a los apartamentos <switch(lnum1,Topmast,Lily Hills,the Sultana's Breath,Kobai Goten,Ingleside)>! Nuestras habitaciones están recibiendo los últimos retoques y pronto estarán disponibles para su compra. Le agradecemos su paciencia." },
-    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2", "hash": "895E61A9B1D6030A", "target": "Por ahora, <switch(lnum1,Topmast,Lily Hills,the Sultana's Breath,Kobai Goten,Ingleside)> está abierto solo para su exhibición. La venta de apartamentos comenzará más adelante." }
+    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_1", "hash": "E3C058041CF3DFEB", "target": "¡Bienvenido a los apartamentos <switch(lnum1,Topmast,Colinas de los Lirios,el Aliento de la Sultana,Kobai Goten,Ingleside)>! Nuestras habitaciones están recibiendo los últimos retoques y pronto estarán disponibles para su compra. Le agradecemos su paciencia." },
+    { "gameKey": "custom/003/HouFixMansionOfficer_00363#TEXT_HOUFIXMANSIONOFFICER_00363_TC_NOT_OPENED_2", "hash": "895E61A9B1D6030A", "target": "Por ahora, <switch(lnum1,Topmast,Colinas de los Lirios,el Aliento de la Sultana,Kobai Goten,Ingleside)> está abierto solo para su exhibición. La venta de apartamentos comenzará más adelante." }
   ]
 }

@@ -23,7 +23,7 @@
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_011", "hash": "D9B95E5F52BB5FFB", "target": "Llegué hace un rato, la verdad, pero esta dichosa estatua me atrapó la mirada y no la soltaba. ¡Fíjate en la armadura de ese tipo! ¡En Eorzea no se ve nada igual!" },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_012", "hash": "EEF4BD53F0D1DAD1", "target": "Bueno, más vale que no me quede todo el día papando moscas: tengo que encontrar una herrería y ver si están dispuestos a enseñar a un veterano como yo." },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_013", "hash": "40329171B83B8BE5", "target": "Oye, ¿quieres venir y echarme una mano en la búsqueda?" },
-    { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_014", "hash": "D9C58E4EEEDD9BD4", "target": "Buen<if(gnum4,a,o)> <if(gnum4,muchacha,muchacho)>. El capitán del barco me dijo que hay un barrio de artesanos cerca de Pier #1, así que probemos allí primero." },
+    { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_014", "hash": "D9C58E4EEEDD9BD4", "target": "Buen<if(gnum4,a,o)> <if(gnum4,muchacha,muchacho)>. El capitán del barco me dijo que hay un barrio de artesanos cerca del Muelle 1, así que probemos allí primero." },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_FUGETSU_000_015", "hash": "421F30C402190C3D", "target": "¿En qué puedo ayudarles?" },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_020", "hash": "7CEBDF72704D32C3", "target": "A juzgar por el calor y el ruido, diría que hemos venido al sitio correcto. En fin, no se gana nada con timideces." },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_021", "hash": "CFCCD2571D91AF84", "target": "Con su perdón, señor, ¿quién es el maestro de esta fragua? He venido desde Eorzea con la idea de aprender su estilo de forjar armaduras..." },
@@ -60,6 +60,6 @@
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_061", "hash": "287741E7E76F28B4", "target": "Aquí hacen las cosas distinto, y empezaremos desde abajo. Pero si esa diferencia es lo que le saca el carácter a mi trabajo, valdrá la pena el ascenso hasta la cima..." },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_062", "hash": "EADDEBF72E60AAAD", "target": "Ah, y no te preocupes por H'naanza: le mandaré una carta explicándole lo que nos traemos entre manos. ¡Ninguno de los dos quiere oírla quejarse de que nos daba por muertos o algo así!" },
     { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_BLANSTYR_000_063", "hash": "9FB171F4C54A7948", "target": "Míranos, <split(<string(gstr1)>, ,1)>: parece que ayer mismo éramos rivales, y aquí estamos, de aprendices juntos. Byregot forja de formas misteriosas, ¿eh?" },
-    { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_SYSTEM_000_064", "hash": "5C4D87EB2AE9D047", "target": "¡Al aprender en una forja del Lejano Oriente, has adquirido la habilidad «Quality Assurance»!" }
+    { "gameKey": "quest/025/ClsArm630_02595#TEXT_CLSARM630_02595_SYSTEM_000_064", "hash": "5C4D87EB2AE9D047", "target": "¡Al aprender en una forja del Lejano Oriente, has adquirido la habilidad «Control de Calidad»!" }
   ]
 }

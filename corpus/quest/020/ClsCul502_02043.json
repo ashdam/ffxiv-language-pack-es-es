@@ -10,12 +10,12 @@
     {
       "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_01",
       "hash": "CEF673C860049686",
-      "target": "Un conocido de Lyngsath necesita los servicios de un cocinero consumado, y el maestro del gremio cree que eres <if(gnum4,la mujer,el hombre)> ideal para el trabajo. Si la perspectiva de un nuevo reto despierta tu interés, dirígete al Miembro Ausente y preséntate ante la jefa de servicio, una tal Melkoko."
+      "target": "Un conocido de Lyngsath necesita los servicios de un cocinero consumado, y el maestro del gremio cree que eres <if(gnum4,la mujer,el hombre)> ideal para el trabajo. Si la perspectiva de un nuevo reto despierta tu interés, dirígete al Miembro Perdido y preséntate ante la jefa de servicio, una tal Melkoko."
     },
     {
       "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_02",
       "hash": "461275277900F8AB",
-      "target": "En una misma frase, Melkoko se presenta y te informa de la tarea que querría encomendarte: participar en el Dellemont d'Or, el más prestigioso de todos los concursos de cocina. La ganadora de la edición anterior, revela, no es otro que el jefe de cocina del Miembro Ausente, un hombre llamado H'mhasi Tia, por quien no siente demasiado aprecio. Te pide que hables con el sujeto dentro de la taberna, para que comprendas su aversión hacia él."
+      "target": "En una misma frase, Melkoko se presenta y te informa de la tarea que querría encomendarte: participar en el Dellemont d'Or, el más prestigioso de todos los concursos de cocina. La ganadora de la edición anterior, revela, no es otro que el jefe de cocina del Miembro Perdido, un hombre llamado H'mhasi Tia, por quien no siente demasiado aprecio. Te pide que hables con el sujeto dentro de la taberna, para que comprendas su aversión hacia él."
     },
     {
       "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_SEQ_03",
@@ -49,7 +49,7 @@
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_005", "hash": "5A794F67D3D59F0A", "target": "Si crees que podría interesarte, acércate al Miembro Ausente y preséntate ante Melkoko. Ella te dirá qué necesita." },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_LYNGSATH_000_010", "hash": "042639EF6C2BDAB3", "target": "Si estás ansioso por un reto, acércate al Miembro Ausente y preséntate ante Melkoko. Tiene una tarea que requiere un cocinero consumado." },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_HMHASITIA_100_015", "hash": "0965DB94DA725C4D", "target": "¿Vienes a cenar? Lástima... solo cocino para las Sirenas o para clientes con reserva." },
-    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_020", "hash": "B9AAE72320F56B9A", "target": "¡Saludos y <if(gnum4,bienvenida,bienvenido)> al Miembro Ausente! ¿Tiene reserva, <if(gnum4,señora,señor)>?" },
+    { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_020", "hash": "B9AAE72320F56B9A", "target": "¡Saludos y <if(gnum4,bienvenida,bienvenido)> al Miembro Perdido! ¿Tiene reserva, <if(gnum4,señora,señor)>?" },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_021", "hash": "BC581CEAD13233C7", "target": "¿¡Es usted <split(<string(gstr1)>, ,1)>, del Gremio de Cocineros!? ¡Un placer conocerle por fin! ¡Lyngsath me lo ha contado todo sobre usted!" },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_022", "hash": "DC1A09E95EB2BEFC", "target": "Soy Melkoko, la jefa de servicio de este magnífico establecimiento, ¡y me gustaría que participara en el Dellemont d'Or, el más prestigioso de todos los concursos de cocina!" },
     { "gameKey": "quest/020/ClsCul502_02043#TEXT_CLSCUL502_02043_MELKOKO_000_024", "hash": "ED6C4DE2CD4B9148", "target": "Verá, el ganador de la edición anterior del concurso no es otro que nuestro jefe de cocina, H'mhasi Tia, ¡y menudo cabrón está hecho! ...E-ejem. Lo que quería decir es que es un hombre insufrible." },

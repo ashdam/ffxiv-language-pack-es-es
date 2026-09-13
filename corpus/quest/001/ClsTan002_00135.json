@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_SEQ_00", "hash": "2544EB00FE50BC20", "target": "La maestra del gremio Geva tiene una nueva tarea para ti." },
-    { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_SEQ_01", "hash": "7ED7F924C77E8FED", "target": "Tras recibir un gran pedido de Fen<-->Yll Fineries, el Gremio de Curtidores casi se ha quedado sin hard leather. Ayuda a reponer sus existencias entregando una docena de círculos de hard leather a Geva, ¡y rápido!" },
+    { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_SEQ_01", "hash": "7ED7F924C77E8FED", "target": "Tras recibir un gran pedido de las Galanuras de Fen<-->Yll, el Gremio de Curtidores casi se ha quedado sin hard leather. Ayuda a reponer sus existencias entregando una docena de círculos de hard leather a Geva, ¡y rápido!" },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_SEQ_02", "hash": "F3F589DE20D5E213", "target": "Parece que la situación no era tan grave como te habían hecho creer, pues tu hard leather solo hacía falta para ayudar a los iniciados en su adiestramiento. Percibiendo tu decepción, Geva afirma que está satisfecha con tus progresos y que ya no te considera <if(gnum4,una principiante,un principiante)>. Si sigues mejorando, quizá Geva te confíe encargos más importantes.<br><br>※La próxima misión de curtidor estará disponible con Geva al alcanzar el nivel 15." },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_TODO_00", "hash": "F2139F69B39549EE", "target": "Entregar los círculos de hard leather a Geva" },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_1", "hash": "975713334509B15F", "target": "¿Qué tal van tus técnicas? Si de verdad crees que has mejorado, tengo una nueva tarea para ti." },
@@ -33,7 +33,7 @@
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_31", "hash": "262A4D2BFF1ED53C", "target": "Cuando llegaste, jamás te habría confiado semejante tarea. Que no te quepa duda: <italic(1)>estás<italic(0)> mejorando." },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_32", "hash": "AFD491CF315F3CA2", "target": "¡A este paso, mis tataranietos aún llegarán a encargarte una suela de zapato... o incluso dos!" },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_33", "hash": "4A3510FAC30C0EC3", "target": "Hablando de encargos, creo que has demostrado destreza suficiente para atender pedidos sin mi supervisión." },
-    { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_34", "hash": "CBA6FFD52396BE37", "target": "Ve a ver a Gontrant, en Carline Canopy, si te interesa aceptar algunas guildleves. Ganarías experiencia, que buena falta te hace, y de paso algo de dinero." },
+    { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_34", "hash": "CBA6FFD52396BE37", "target": "Ve a ver a Gontrant, en el Dosel de Carlina, si te interesa aceptar algunas guildleves. Ganarías experiencia, que buena falta te hace, y de paso algo de dinero." },
     { "gameKey": "quest/001/ClsTan002_00135#TEXT_CLSTAN002_00135_GEVA_000_35", "hash": "848100FED74FF01C", "target": "Pero basta de charla. Vuelve a verme cuando hayas pulido más tu técnica. Ah, y si lo consigues mientras siga con vida, me atrevo a decir que me encontrarás más habladora." }
   ]
 }
