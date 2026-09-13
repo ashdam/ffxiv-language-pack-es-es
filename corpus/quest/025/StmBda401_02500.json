@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_SEQ_00", "hash": "D8886AFEAF17C77C", "target": "Yugiri tiene un plan sencillo para encontrar al señor Hien." },
-    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_TODO_00", "hash": "62AD9573774C52A1", "target": "Recabar información en Reunion" },
+    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_TODO_00", "hash": "62AD9573774C52A1", "target": "Recabar información en Reencuentro" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_TODO_01", "hash": "AE96DA109D2F3FBC", "target": "Hablar con el domador de caballos Goro" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_TODO_02", "hash": "B8B5CF28B1DB4A2E", "target": "Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribir cualquier frase que contenga «Mol» para buscar a una mujer Mol" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_TODO_03", "hash": "AD1EA94057F5A85F", "target": "Hablar con Cirina" },
@@ -19,7 +19,7 @@
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_YUGIRI_000_017", "hash": "A696B6540C0F8158", "target": "Estas tierras no se hicieron para el hombre. El suelo es pobre y el clima, implacable." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_YUGIRI_000_018", "hash": "CA74E05E05BEC50C", "target": "Los Xaela hallaron la forma de sobrevivir, es cierto. Pero están hechos de una pasta más dura que la mayoría de los imperiales, sean reclutas o ciudadanos." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_LYSE_000_019", "hash": "E96CDD47D8E10C68", "target": "Gracias por tomarte el tiempo de explicármelo. Parece que tengo mucho que aprender. Más tarde, quiero decir. ¡Se supone que estamos buscando a Hien!" },
-    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_YUGIRI_000_020", "hash": "D31DD64993A8F35C", "target": "Gentes de muchas tribus se reúnen en Reunion para intercambiar mercancías e información. Me sorprendería que no averiguáramos aquí algo de valor." },
+    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_YUGIRI_000_020", "hash": "D31DD64993A8F35C", "target": "Gentes de muchas tribus se reúnen en Reencuentro para intercambiar mercancías e información. Me sorprendería que no averiguáramos aquí algo de valor." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_YUGIRI_000_021", "hash": "6D8B7334B9223EC3", "target": "Hagamos las averiguaciones por separado. <split(<string(gstr1)>, ,1)>, ¿por qué no habla usted con algunos de los mercaderes de aquí?" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CHAMBUI_000_030", "hash": "DE74453ECF01F9F3", "target": "¡Buuz! ¡Buuz recién hechos! ¡A elegir, de cordero o de dzo! ¡Satisfacción garantizada! ¿Cuántos quieres, <if(gnum4,señorita,señor)>?" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CHAMBUI_000_031", "hash": "B1D050008A21F881", "target": "¿Eh? ¿Un domano? A menos que otra Dazkar lo tenga en su yurta, aquí no está. \\<resoplido> Necia de ella si tomó a un domano por marido." },
@@ -40,7 +40,7 @@
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_GORO02500_000_081", "hash": "F2942F3F7BF37DD5", "target": "¿Hm? ¿Cómo dices? ¿A quién buscas?" },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_GORO02500_000_082", "hash": "86B917C9863BC01B", "target": "Ah, el domano. Sé de quién hablas. Va y viene con una chica Mol." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_GORO02500_000_083", "hash": "EC007C5A53ECAB3D", "target": "Aunque no sabría describirla. Solo sé que es Mol porque los oí hablar al pasar." },
-    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_SYSTEM_000_084", "hash": "F6D2C23C2A78F64B", "target": "Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado virtual para escribir cualquier frase que contenga «Mol» y preguntar a los Xaela de Reunion si son de la tribu Mol." },
+    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_SYSTEM_000_084", "hash": "F6D2C23C2A78F64B", "target": "Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, usa el teclado o el teclado virtual para escribir cualquier frase que contenga «Mol» y preguntar a los Xaela de Reencuentro si son de la tribu Mol." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_GORO02500_000_090", "hash": "BA5F6C998DF9B81E", "target": "Ah, tesoro mío, ¿cuánto te amo? Deja que enumere las formas..." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_NARENGAWA_000_100", "hash": "A5039AC719886AE9", "target": "Soy Ura, para que lo sepas. Bajé de las montañas del norte. Si no hay nada más..." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_UCUGEN_000_101", "hash": "2684C0444B76A162", "target": "¡¿Me tomas por una Mol?! ¡Soy Oronir! ¡No me compares con gente tan débil y ruin!" },
@@ -51,10 +51,10 @@
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CIRINA_000_113", "hash": "D79855D87A8D40C0", "target": "¡Sí, sí! Aunque no pensé que pagaría un precio tan alto..." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_MASGUD_000_114", "hash": "0C643E9263FC4150", "target": "Es una ganga por la que deberías estar agradecida. Si te falta dinero, la culpa es tuya, y te irás con las manos vacías." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CIRINA_000_115", "hash": "29F46EC774492A71", "target": "¡Por favor, necesito el kinsai! ¡Lo pidieron los mismísimos dioses! ¡Estamos atados a su voluntad!" },
-    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_MASGUD_000_116", "hash": "A1E8096815A9B0A8", "target": "...Págame la diferencia en whisperroot. Se lo venderé al próximo boticario que pase por Reunion, y así los dos saldremos satisfechos." },
+    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_MASGUD_000_116", "hash": "A1E8096815A9B0A8", "target": "...Págame la diferencia en whisperroot. Se lo venderé al próximo boticario que pase por Reencuentro, y así los dos saldremos satisfechos." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_MASGUD_000_117", "hash": "D3152DCCA467AA88", "target": "Pero no te demores. Si viene otro antes que tú, dinero en mano, no le diré que no." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CIRINA_000_118", "hash": "0380EB171ABB2269", "target": "Entendido. ¡Gracias por su amabilidad!" },
-    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CIRINA_000_119", "hash": "38E35FE3F9603908", "target": "Lo siento, pero tendremos que hablar de Hien más tarde. No puedo irme de Reunion sin ese kinsai..." },
+    { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_CIRINA_000_119", "hash": "38E35FE3F9603908", "target": "Lo siento, pero tendremos que hablar de Hien más tarde. No puedo irme de Reencuentro sin ese kinsai..." },
     { "gameKey": "quest/025/StmBda401_02500#TEXT_STMBDA401_02500_SAYTODO_000_000", "hash": "97E8F2A19C4BB572", "target": "Mol" }
   ]
 }

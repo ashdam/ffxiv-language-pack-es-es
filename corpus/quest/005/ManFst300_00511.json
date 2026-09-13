@@ -56,7 +56,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_62", "hash": "90C91EC4560D0AC3", "target": "Si todo va según lo previsto, la Gran Compañía de Gridania, la Orden de las Víboras Gemelas, celebrará el primero de los tres actos, y la Gran Vidente Kan<-->E<-->Senna pronunciará su discurso en el Anfiteatro de Mih Khetto." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_63", "hash": "A536EB56ED5CC920", "target": "Debería mencionar que, por lo difícil que es reunir a todas las partes, es posible que el orden de los actos cambie... Aun así, poco podemos hacer, así que empiece por Gridania." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_64", "hash": "9CEBCE2BDB042E7E", "target": "Después tendrá que ir a Ul'dah, donde el General de las Llamas, Raubahn Aldynn, se dirigirá a las masas en el Paseo Real. ¡Ah, y se rumorea que habrá una invitada especial! Qué emoción." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_65", "hash": "EF2959951324440F", "target": "Por último, pero no por ello menos importante, debe dirigirse a la Sala de Mando de Limsa Lominsa, donde la Gran Almirante del Maelstrom, Merlwyb Bloefhiswyn, dará su discurso." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_65", "hash": "EF2959951324440F", "target": "Por último, pero no por ello menos importante, debe dirigirse al Salón de Estado de Limsa Lominsa, donde la Gran Almirante del Maelstrom, Merlwyb Bloefhiswyn, dará su discurso." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_66", "hash": "FFE6FFC86E9288D8", "target": "A la sala se accede por el Ascensor de la Almirante. Identifíquese ante el centinela, Zanthael, y le dejará pasar. ¿Lo ha entendido todo?" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TATARU_000_67", "hash": "8AAD857545865324", "target": "Pues, en marcha. ¡Espero que los actos de conmemoración le resulten de lo más instructivos! Le sugiero visitar las ciudades-estado en el orden indicado, aunque, con su historial de sincronización y suerte <italic(1)>impecables<italic(0)>, bien podría cambiar el plan en favor de sus preferencias de viaje. ¡Hasta pronto!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100010_CLATTERM", "hash": "A9671E1E738F1B1F", "target": "¡Mirad, es la sultana Nanamo en persona!" },
@@ -180,7 +180,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_ALPHINAUD_000_118", "hash": "36A4A7347549063F", "target": "...¿Cuán valiosa les resultaría entonces la ayuda de un aventurero capaz?" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_ALPHINAUD_000_119", "hash": "4DE379A799FD886A", "target": "Bueno, quizá lo averigüemos... si las palabras de la Gran Vidente cayeron en tierra fértil." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_ZANTHAEL_000_130", "hash": "0BAAA4ADAB48E1A2", "target": "¿Viene a asistir al acto de conmemoración? Dese prisa: la Almirante dará su discurso de un momento a otro." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_Q1_000_1", "hash": "4B6C53D64A180F8E", "target": "¿Pasar a la Sala de Mando?" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_Q1_000_1", "hash": "4B6C53D64A180F8E", "target": "¿Pasar al Salón de Estado?" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_A1_000_1", "hash": "9AA54438620ACE32", "target": "Sí" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_A1_000_2", "hash": "FCB5927673738A62", "target": "No" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_ZANTHAEL_000_131", "hash": "9EA911C50FEDA67A", "target": "Si no le interesa asistir, deje paso a quienes sí." },
@@ -282,7 +282,7 @@
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_02",
       "hash": "0B903E18B2972857",
-      "target": "Tataru te ha dicho dónde se celebrarán los actos de conmemoración. Visita el Anfiteatro de Mih Khetto en Gridania, el Paseo Real en Ul'dah y, por último, la Sala de Mando en Limsa Lominsa, y escucha a los líderes de las Grandes Compañías."
+      "target": "Tataru te ha dicho dónde se celebrarán los actos de conmemoración. Visita el Anfiteatro de Mih Khetto en Gridania, el Paseo Real en Ul'dah y, por último, el Salón de Estado en Limsa Lominsa, y escucha a los líderes de las Grandes Compañías."
     },
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_03",
@@ -312,7 +312,7 @@
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_03",
       "hash": "6F6EB46859651DC1",
-      "target": "Asistir al acto de conmemoración en la Sala de Mando, en Limsa Lominsa"
+      "target": "Asistir al acto de conmemoración en el Salón de Estado, en Limsa Lominsa"
     },
     {
       "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_04",

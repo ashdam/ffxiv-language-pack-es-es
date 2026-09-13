@@ -24,11 +24,11 @@
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_23", "hash": "42C9D4D4BDD39D1A", "target": "¡Señor!" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_24", "hash": "DAA2B96D46E7CB33", "target": "¿Qué ocurre, soldado? Y más vale que sea importante." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_25", "hash": "B5C7506BFAEEDED0", "target": "¡Señor! ¡Hemos recibido el informe de un vigía de las Tierras Bajas de La Noscea, señor! Las fuerzas imperiales han disparado contra una aeronave de Aerovías Highwind." },
-    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_26", "hash": "CB2FD56DCB622ABE", "target": "La nave está muy dañada, señor, y parece virar para un aterrizaje de emergencia en el Cedral." },
-    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_27", "hash": "B54A5E7EF80D2C25", "target": "¿El Cedral? Maldita sea. No tenemos tropas disponibles en esa zona. El grueso de nuestra infantería está atascado en la costa, en escaramuzas con los pescajos." },
+    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_26", "hash": "CB2FD56DCB622ABE", "target": "La nave está muy dañada, señor, y parece virar para un aterrizaje de emergencia en el Bosque de Cedros." },
+    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_27", "hash": "B54A5E7EF80D2C25", "target": "¿El Bosque de Cedros? Maldita sea. No tenemos tropas disponibles en esa zona. El grueso de nuestra infantería está atascado en la costa, en escaramuzas con los pescajos." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_28", "hash": "2BDD9CB44A9B692E", "target": "<split(<string(gstr1)>, ,2)>... esto es de lo más irregular, pero me temo que tu primer deber al servicio del Maelstrom habrá de ser extraoficial." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_29", "hash": "60229D3F333F931E", "target": "Si nuestro hombre de las Tierras Bajas de La Noscea está en lo cierto, la aeronave caerá en un territorio plagado de exploradores imperiales. Si hay supervivientes, <italic(1)>debemos<italic(0)> llegar a ellos antes que los garleanos." },
-    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_30", "hash": "FB057EED5BED2355", "target": "Date prisa en llegar al Cedral, localiza la aeronave y, si alguno de sus ocupantes sigue con vida, asegúrate de que no sufra más daño. Ya nos ocuparemos de tu juramento a tu regreso." },
+    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_30", "hash": "FB057EED5BED2355", "target": "Date prisa en llegar al Bosque de Cedros, localiza la aeronave y, si alguno de sus ocupantes sigue con vida, asegúrate de que no sufra más daño. Ya nos ocuparemos de tu juramento a tu regreso." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_Q3_000_1", "hash": "EDD384EDBC0FC6CA", "target": "El deber llama. ¿Deseas proceder con<br>«En buena compañía (Maelstrom)»?" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_A3_000_1", "hash": "13835851DBA92067", "target": "Sí" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_A3_000_2", "hash": "E09653641FBA7C3C", "target": "No" },
@@ -86,7 +86,7 @@
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_SEQ_02",
       "hash": "EFA7FFD6E0E3AE7C",
-      "target": "Tu incorporación formal al Maelstrom se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete al Cedral y averigua la suerte de la maltrecha nave y su tripulación."
+      "target": "Tu incorporación formal al Maelstrom se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete al Bosque de Cedros y averigua la suerte de la maltrecha nave y su tripulación."
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_SEQ_03",
@@ -106,7 +106,7 @@
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_TODO_01",
       "hash": "69A753DFD2F1208D",
-      "target": "Ir al Cedral y averiguar la suerte de la aeronave y su tripulación"
+      "target": "Ir al Bosque de Cedros y averiguar la suerte de la aeronave y su tripulación"
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_TODO_02",
