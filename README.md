@@ -4,7 +4,7 @@ Traducción al español de los textos de Final Fantasy XIV para el plugin de Dal
 **Gubal Library**. No modifica los ficheros originales del juego.
 
 Instalación, ejemplos, estado de la traducción y cómo reportar erratas:
-**[eorzea-localized.ashdam.workers.dev/es/](https://eorzea-localized.ashdam.workers.dev/es/)**
+**[eorzealocalized.com/es/](https://eorzealocalized.com/es/)**
 
 Cómo colaborar con la traducción:
-**[eorzea-localized.ashdam.workers.dev/localize/es-es.html](https://eorzea-localized.ashdam.workers.dev/localize/es-es.html)**
+**[eorzealocalized.com/localize/es-es.html](https://eorzealocalized.com/localize/es-es.html)**
