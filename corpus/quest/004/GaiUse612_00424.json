@@ -2,7 +2,7 @@
   "conversation": "quest/004/GaiUse612_00424",
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
-    { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SEQ_00", "hash": "65E3BE966D2E0D0D", "target": "¿Quién mejor para servir a los Herederos del Séptimo Amanecer que un humilde erudito y su fiel ayudante?" },
+    { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SEQ_00", "hash": "65E3BE966D2E0D0D", "target": "¿Quién mejor para servir a los Vástagos del Séptimo Amanecer que un humilde erudito y su fiel ayudante?" },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SEQ_01", "hash": "817FB3E6477D0D91", "target": "Ansioso por obtener lecturas adicionales con las que confirmar su teoría, tu erudito acompañante propone una visita a la Fuente de Urth. Dirígete al siguiente punto de estudio... y ojalá el último." },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SEQ_02", "hash": "9001782BED9A3038", "target": "Una vez en la Fuente de Urth, el erudito te pide que hagas lo mismo que antes: montar guardia a una distancia prudente mientras él toma sus mediciones." },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SEQ_03", "hash": "8F86C276DDA6A43C", "target": "El estudio da un giro trágico cuando el erudito descubre el cuerpo de Wilred, el joven alamhigano al que reclutaste en persona para los Valientes del Cristal. Hoary Boulder y Coultenet no tardan en llegar al lugar y concluyen que asesinaron al muchacho... aunque solo pueden especular sobre quién lo hizo y por qué. La pareja se ofrece a cuidar del erudito en tu lugar y te ruega que informes de la muerte del muchacho a Minfilia en el Refugio de las Rocas." },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SCIENTIST00423_000_012", "hash": "EB65F3B205BAFC78", "target": "Sí... sí... bastante alta, pero aun así notablemente inferior a las mediciones históricas tomadas hacia el final de la Sexta Era Astral..." },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SCIENTIST00423_000_013", "hash": "7180C9CC5BD685EF", "target": "¿Podría explicar la diferencia la presencia de un primigenio? ¿O hay algo más... algo más...?" },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SCIENTIST00423_000_014", "hash": "D90DCD2C27741288", "target": "Algo... más..." },
-    { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SCIENTIST00423_000_015", "hash": "CC0E7611AFC7CC44", "target": "¡<if(gnum4,Heredera,Heredero)>! ¡Venga aquí! ¡L-le necesito!" },
+    { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_SCIENTIST00423_000_015", "hash": "CC0E7611AFC7CC44", "target": "¡<if(gnum4,Vástago,Vástago)>! ¡Venga aquí! ¡L-le necesito!" },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_HOARYBOULDER_000_016", "hash": "CCAF99D283BDC4FD", "target": "¡No temáis, amigos! ¡Ha llegado la ayuda!" },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_COULTENET_000_017", "hash": "5E8F9AC32350F1A4", "target": "¡Ahí estás, <split(<string(gstr1)>, ,1)>! Hoary y yo nos preocupamos cuando tú y tu protegido no regresasteis a la hora convenida." },
     { "gameKey": "quest/004/GaiUse612_00424#TEXT_GAIUSE612_00424_HOARYBOULDER_000_018", "hash": "009B7D5A6EEE627F", "target": "\\<suspiro> Destripado como un cerdo... pero no <italic(1)>por<italic(0)> uno, no. Estas heridas se hicieron con una hoja... Y no parece que ofreciera mucha resistencia. Ni una sola marca en su espada ni en su escudo..." },

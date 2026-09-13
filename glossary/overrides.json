@@ -1633,7 +1633,7 @@
       "en": "Scions of the Seventh Dawn",
       "fr": "Héritiers de la Septième Aube",
       "ja": "暁の血盟",
-      "es-ES": "los Herederos del Séptimo Amanecer",
+      "es-ES": "los Vástagos del Séptimo Amanecer",
       "protect": false,
       "note": "The Eorzean order. «Amanecer» NOT «Alba», deliberately: «Alba» is reserved for the Tural family of titles ([[Dawnservant]], [[Landsguard]], the Dawnherald), and reusing the word would silently imply a connection the story never makes."
     },
@@ -2595,9 +2595,9 @@
       "en": "Oblivion",
       "es-ES": "Oblivion",
       "protect": true,
-      "fr": "(generated glossary is WRONG here)",
+      "fr": "Oblivion",
       "ja": "オブリビオン",
-      "note": "The Alexandrian resistance organisation. WARNING: corpus-en/glossary.json maps «Oblivion» to a PLACE — the Endwalker ice arena — so a translator trusting the generated slice writes the arena name into a line about the organisation. Same collision affects «Mist»: the glossary has the housing district while Dawntrail needs the Mist Continent. THE GENERATED GLOSSARY IS KEYED ON NAME ONLY, so any name reused for two referents collides and nothing detects it."
+      "note": "Keep Oblivion for the Alexandrian resistance. The Snowcloak arena is Olvido (French: Cirque aux stalactites; Japanese: 氷柱の円庭)."
     },
     {
       "en": "the Solstice",
@@ -2860,7 +2860,7 @@
       "en": "Twelveswood",
       "fr": "Sylve des Douze",
       "ja": "",
-      "es-ES": "la Selva de los Doce",
+      "es-ES": "el Bosque de los Doce",
       "protect": false,
       "note": ""
     },
@@ -5162,7 +5162,7 @@
       "ja": "商業推進派",
       "es-ES": "los Monetaristas",
       "protect": false,
-      "note": "Capitalised as the Ul'dahn faction, like «las Llamas Inmortales» and «los Herederos del Séptimo Amanecer». The lower-case common adjective survives where the text means a person's leaning rather than the bloc: «mercader o soldado, monetarista o monárquico»."
+      "note": "Capitalised as the Ul'dahn faction, like «las Llamas Inmortales» and «los Vástagos del Séptimo Amanecer». The lower-case common adjective survives where the text means a person's leaning rather than the bloc: «mercader o soldado, monetarista o monárquico»."
     },
     {"en":"the Solar","fr":"le Solarium","ja":"ソーラー","note":"Minfilia's chamber in the Waking Sands and the Rising Stones. «Solario», not «solar»: the noun «solar» means a plot of land in Spanish.","es-ES":"Solario","protect":false},
     {"en":"Upper La Noscea","fr":"Haute-Noscea","ja":"高地ラノシア","es-ES":"Alta La Noscea","protect":false},

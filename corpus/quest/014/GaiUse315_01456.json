@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_01",
       "hash": "B3B6BF8323CFD55C",
-      "target": "Minfilia te informa de que ha llegado una carta en la que se agradece a los Herederos sus esfuerzos por sofocar la amenaza de los primigenios. Aunque el reino aún no se ha librado de conflictos, la Antecesora subraya que tus hazañas inspiran a incontables eorzeos a seguir avanzando por el difícil camino hacia la paz. Consciente de que no puede esperarse que dediques cada instante de vigilia a asuntos que sacuden el reino, te anima a quedarte un tiempo en el Peaje del Aparecido. Justo cuando parece que se te ha concedido licencia para descansar, Minfilia te pide que dediques un momento a atender a los niños domanos. Habla con Yozan en el Refugio de las Rocas."
+      "target": "Minfilia te informa de que ha llegado una carta en la que se agradece a los Vástagos sus esfuerzos por sofocar la amenaza de los primigenios. Aunque el reino aún no se ha librado de conflictos, la Antecesora subraya que tus hazañas inspiran a incontables eorzeos a seguir avanzando por el difícil camino hacia la paz. Consciente de que no puede esperarse que dediques cada instante de vigilia a asuntos que sacuden el reino, te anima a quedarte un tiempo en el Peaje del Aparecido. Justo cuando parece que se te ha concedido licencia para descansar, Minfilia te pide que dediques un momento a atender a los niños domanos. Habla con Yozan en el Refugio de las Rocas."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_02",
@@ -25,7 +25,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_SEQ_04",
       "hash": "D05490C6EF69E124",
-      "target": "Regresas al Refugio de las Rocas y Alphinaud expone su propuesta de formar una nueva organización. Únete al resuelto Heredero en su empeño por cumplir su papel como guardián de Eorzea."
+      "target": "Regresas al Refugio de las Rocas y Alphinaud expone su propuesta de formar una nueva organización. Únete al resuelto Vástago en su empeño por cumplir su papel como guardián de Eorzea."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_TODO_00",
@@ -55,7 +55,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_001",
       "hash": "68215D259ECF9621",
-      "target": "Es una carta de agradecimiento, firmada por los líderes de la Alianza Eorzea, que reconoce el incansable servicio de los Herederos al reino."
+      "target": "Es una carta de agradecimiento, firmada por los líderes de la Alianza Eorzea, que reconoce el incansable servicio de los Vástagos al reino."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_002",
@@ -135,7 +135,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_017",
       "hash": "2B70E620FC9C695F",
-      "target": "...Por supuesto, al hablar de nuestros mayores aliados, no debemos olvidar a los que tenemos más cerca; me refiero a nuestros compañeros Herederos."
+      "target": "...Por supuesto, al hablar de nuestros mayores aliados, no debemos olvidar a los que tenemos más cerca; me refiero a nuestros compañeros Vástagos."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_MINFILIA_100_018",
@@ -220,7 +220,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_026",
       "hash": "D598DCB997B289DA",
-      "target": "Eso parece. <if(gnum4,Bienvenida,Bienvenido)> a casa, <split(<string(gstr1)>, ,1)>. Mi compañero y yo hace poco que hemos sido admitidos como miembros de pleno derecho de los Herederos, y creo que aún no nos hemos presentado como es debido."
+      "target": "Eso parece. <if(gnum4,Bienvenida,Bienvenido)> a casa, <split(<string(gstr1)>, ,1)>. Mi compañero y yo hace poco que hemos sido admitidos como miembros de pleno derecho de los Vástagos, y creo que aún no nos hemos presentado como es debido."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_027",
@@ -285,7 +285,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_040",
       "hash": "F1F1D418E09456F7",
-      "target": "Desde que me uní a los Herederos, he tenido muchas ocasiones de oír noticias de sus épicas hazañas. Confieso, pues, que mi entusiasmo rivaliza con el de los niños ante la perspectiva de <if(gnum4,verla,verlo)> en acción de primera mano."
+      "target": "Desde que me uní a los Vástagos, he tenido muchas ocasiones de oír noticias de sus épicas hazañas. Confieso, pues, que mi entusiasmo rivaliza con el de los niños ante la perspectiva de <if(gnum4,verla,verlo)> en acción de primera mano."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_YOUZAN_000_045",
@@ -330,7 +330,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_HOARYBOULDER_000_074",
       "hash": "92FC9505907792AB",
-      "target": "Al fin y al cabo, fue la leyenda de este héroe lo que me llevó a unirme a los Herederos. Sin <split(<string(gstr1)>, ,1)> para inspirar mis esfuerzos, no sería ni la mitad del guerrero que soy hoy."
+      "target": "Al fin y al cabo, fue la leyenda de este héroe lo que me llevó a unirme a los Vástagos. Sin <split(<string(gstr1)>, ,1)> para inspirar mis esfuerzos, no sería ni la mitad del guerrero que soy hoy."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_COULTENET_000_075",
@@ -475,7 +475,7 @@
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_108",
       "hash": "7E29FB7815162CF0",
-      "target": "Nuestra causa, sin embargo, no es sencilla: los problemas que nos acosan son de una magnitud que los Herederos del Séptimo Amanecer no pueden resolver por sí solos."
+      "target": "Nuestra causa, sin embargo, no es sencilla: los problemas que nos acosan son de una magnitud que los Vástagos del Séptimo Amanecer no pueden resolver por sí solos."
     },
     {
       "gameKey": "quest/014/GaiUse315_01456#TEXT_GAIUSE315_01456_ALPHINAUD_000_109",
