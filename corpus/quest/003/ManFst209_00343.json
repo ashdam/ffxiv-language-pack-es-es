@@ -7,13 +7,13 @@
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_02", "hash": "DC390DEB25D23505", "target": "Ha revelado que tiene una cita con los Amalj'aa para tratar sus negocios." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_03", "hash": "1498DFEEBADE56D9", "target": "Las Llamas Inmortales creen que ese encuentro será la ocasión ideal para tender una emboscada y capturar a los Amalj'aa responsables de los secuestros, así que piensan hacer que Ungust acuda tal como estaba previsto." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_04", "hash": "832C2A7E9793AC56", "target": "Como se espera que los Amalj'aa opongan una feroz resistencia, las Llamas Inmortales han solicitado nuestro apoyo." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_05", "hash": "6E075DF789475EFB", "target": "Y quiero que se lo prestes tú, <split(<string(gstr1)>, ,1)>. Thancred atiende ahora otro asunto, pero se te unirá en cuanto pueda. Hasta entonces, serás <if(gnum4,la única,el único)> representante de los Herederos aquí." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_05", "hash": "6E075DF789475EFB", "target": "Y quiero que se lo prestes tú, <split(<string(gstr1)>, ,1)>. Thancred atiende ahora otro asunto, pero se te unirá en cuanto pueda. Hasta entonces, serás <if(gnum4,la única,el único)> representante de los Vástagos aquí." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_06", "hash": "4D673A413F841A71", "target": "Antes de irse, me pidió que te dijera que le «guardaras algo para él». Tal es la confianza que tiene en ti; una confianza que comparto." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_MINFILIA_000_07", "hash": "55C487FCCC66824A", "target": "Cuando estés list<if(gnum4,a,o)>, dirígete al Campamento Huesos Secos y preséntate ante el sargento de las Llamas al mando de la misión. Que camines a la luz del Cristal." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_10", "hash": "DD6F45D0E87D21B8", "target": "Ah, ¿es usted <string(gstr1)>, de los Herederos? Gracias por venir, amig<if(gnum4,a,o)>. Su ayuda nos hace más fuertes." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_10", "hash": "DD6F45D0E87D21B8", "target": "Ah, ¿es usted <string(gstr1)>, de los Vástagos? Gracias por venir, amig<if(gnum4,a,o)>. Su ayuda nos hace más fuertes." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_11", "hash": "BAAC605E4914D70E", "target": "Permítame informarle de nuestra misión. Nuestro objetivo es capturar a los Amalj'aa y arrancarles el paradero de los secuestrados." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_12", "hash": "3BB4360A2C576FD9", "target": "Los hombres lagarto no saben que su hombre, Ungust, ha sido descubierto. Cuando acudan al punto de encuentro a reunirse con el traidor, cerraremos la trampa." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_13", "hash": "BACAE912F74DA4C5", "target": "Dada la naturaleza clandestina de la misión, solo podemos desplegar un contingente reducido. Cada miembro ha de contar, y por eso solicitamos la ayuda de los Herederos." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_13", "hash": "BACAE912F74DA4C5", "target": "Dada la naturaleza clandestina de la misión, solo podemos desplegar un contingente reducido. Cada miembro ha de contar, y por eso solicitamos la ayuda de los Vástagos." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_14", "hash": "24CAB1FF5FBC1FDF", "target": "El encuentro tendrá lugar en la Ciudad Invisible. Vaya hasta allí, por favor, y quédese al acecho." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_15", "hash": "6E125F63805ED198", "target": "Si la misión sale bien, podremos averiguar mucho más sobre las intrigas de los Amalj'aa, <split(<string(gstr1)>, ,1)>. Asegurémonos de que así sea." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_000_20", "hash": "127A3FE170673167", "target": "Si la misión sale bien, podremos averiguar mucho más sobre las intrigas de los Amalj'aa, <split(<string(gstr1)>, ,1)>. Asegurémonos de que así sea." },
@@ -147,7 +147,7 @@
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_201", "hash": "4B353418E94F93E0", "target": "Con intención o sin ella, Minfilia ha pasado por alto contarte algo; algo que creo que es mejor que oigas de boca de uno de nosotros." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_202", "hash": "DA8A50126867ABC5", "target": "Se trata de los secuestrados subyugados que rescatamos... Lamento decirte que todos serán ejecutados, incluidos los soldados de las Llamas con los que estuviste pres<if(gnum4,a,o)>. Huelga decir que esto no debe llegar a oídos del público." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_203", "hash": "B3F2857300EE7441", "target": "Te juro que no haríamos esto si hubiera otro recurso, pero, una vez subyugado, un hombre lo queda de por vida. Su mera existencia presta fuerza al primigenio al que no puede sino adorar." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_204", "hash": "8949CEC801C6FA92", "target": "Y por eso los Herederos seguimos luchando, para que no haya que sacrificar a más inocentes. Espero que sigas a nuestro lado, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_204", "hash": "8949CEC801C6FA92", "target": "Y por eso los Vástagos seguimos luchando, para que no haya que sacrificar a más inocentes. Espero que sigas a nuestro lado, <split(<string(gstr1)>, ,1)>." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_205", "hash": "F8CC6A4C02517F99", "target": "Pero debería marcharme. He de presentar mis disculpas al General de las Llamas por las bajas que sufrió su gente. ¡Hasta la próxima!" },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_206", "hash": "573A8EE45CA891EE", "target": "Que los dioses me perdonen... ¿Cuántas vidas más...? Louisoix <italic(1)>jamás<italic(0)> habría permitido que esto ocurriera." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_207", "hash": "E56E9C49E4B668E2", "target": "Tengo que hacerlo mejor... Tengo que ser <italic(1)>más fuerte<italic(0)>..." },
@@ -170,7 +170,7 @@
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_01",
       "hash": "03149F07FAD437E8",
-      "target": "En un intento por averiguar el paradero de los secuestrados, las Llamas Inmortales han ideado un plan para capturar Amalj'aa usando como cebo al falso sacerdote Ungust. Minfilia te pide que participes en la operación como representante de los Herederos. Dirígete al Campamento Huesos Secos y reúnete con las Llamas."
+      "target": "En un intento por averiguar el paradero de los secuestrados, las Llamas Inmortales han ideado un plan para capturar Amalj'aa usando como cebo al falso sacerdote Ungust. Minfilia te pide que participes en la operación como representante de los Vástagos. Dirígete al Campamento Huesos Secos y reúnete con las Llamas."
     },
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_02",
@@ -200,7 +200,7 @@
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_07",
       "hash": "014FC04C156C91E3",
-      "target": "En el Refugio de las Arenas, Minfilia y Thancred se turnan para bombardearte con información, explicándote cómo el robo de cristal y los secuestros sirvieron para favorecer la causa de Ifrit. Entonces Thancred revela una verdad inquietante: para impedir que el primigenio cobre fuerza, sus víctimas «subyugadas» deben ser ejecutadas. Aunque esta revelación arroja una sombra funesta sobre tu victoria, te sientes más decidid<if(gnum4,a,o)> que nunca a cumplir tu papel como <if(gnum4,Heredera,Heredero)>."
+      "target": "En el Refugio de las Arenas, Minfilia y Thancred se turnan para bombardearte con información, explicándote cómo el robo de cristal y los secuestros sirvieron para favorecer la causa de Ifrit. Entonces Thancred revela una verdad inquietante: para impedir que el primigenio cobre fuerza, sus víctimas «subyugadas» deben ser ejecutadas. Aunque esta revelación arroja una sombra funesta sobre tu victoria, te sientes más decidid<if(gnum4,a,o)> que nunca a cumplir tu papel como <if(gnum4,Vástago,Vástago)>."
     },
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_00",
@@ -230,7 +230,7 @@
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_05",
       "hash": "0B970973F01F9847",
-      "target": "Informar a la Heredera del Séptimo Amanecer en el Refugio de las Arenas"
+      "target": "Informar al Vástago del Séptimo Amanecer en el Refugio de las Arenas"
     },
     {
       "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_QIB_TODO_001",

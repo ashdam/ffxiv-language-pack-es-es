@@ -23,7 +23,7 @@
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_14", "hash": "499CE80B7FA02275", "target": "Bienvenido a bordo, soldado. Que sirvas bien a Limsa Lominsa, hasta que el mar todo lo engulla." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_20", "hash": "4F391018C0AD0631", "target": "¿Me oyes, <split(<string(gstr1)>, ,1)>? Soy Minfilia." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_21", "hash": "640BA834F8FA5E02", "target": "Un oficial del Maelstrom se puso en contacto conmigo con la noticia de tu alistamiento. Mi enhorabuena, soldado <split(<string(gstr1)>, ,2)>." },
-    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_22", "hash": "D0D56FA4CEB3EC44", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas <if(gnum4,una mujer,un hombre)> del Maelstrom, ¡no eres menos <if(gnum4,Heredera,Heredero)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_MINFILIA_000_22", "hash": "D0D56FA4CEB3EC44", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas <if(gnum4,una mujer,un hombre)> del Maelstrom, ¡no eres menos <if(gnum4,Vástago,Vástago)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_023", "hash": "EEE28C9C0723A13A", "target": "No hay descanso para los malvados, ¿eh?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_024", "hash": "A0E3DEE50BAFAC54", "target": "Antes de esfumarte, te recomiendo tener unas palabras con la comandante Rhiki. Podría merecerte la pena..." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_GUIDE_000_200", "hash": "FBDB1CA351164436", "target": "¡Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>! La señora Minfilia te espera dentro." },
@@ -40,12 +40,12 @@
     {
       "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_02",
       "hash": "52E90826302D50F2",
-      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Herederos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
+      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Vástagos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
     },
     {
       "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_TODO_00",
       "hash": "C1D3C4A09378FEB6",
-      "target": "Hablar con la Heredera del Séptimo Amanecer en el Refugio de las Arenas"
+      "target": "Hablar con el Vástago del Séptimo Amanecer en el Refugio de las Arenas"
     },
     {
       "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025",

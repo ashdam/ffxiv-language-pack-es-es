@@ -185,7 +185,7 @@
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_MINFILIA_000_027",
       "hash": "EB046F7B7F537291",
-      "target": "Prepárate para lo peor. Aunque espero una resolución pacífica de este asunto, la experiencia sugiere que tu encuentro con el Señor del Rayo resultará de todo menos amistoso. En tal caso, tus compañeros Herederos te prestarán, por supuesto, cuanto apoyo necesites."
+      "target": "Prepárate para lo peor. Aunque espero una resolución pacífica de este asunto, la experiencia sugiere que tu encuentro con el Señor del Rayo resultará de todo menos amistoso. En tal caso, tus compañeros Vástagos te prestarán, por supuesto, cuanto apoyo necesites."
     },
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_MINFILIA_000_030",
@@ -195,7 +195,7 @@
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_VORSAILE_000_040",
       "hash": "F50641C24C225871",
-      "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)> de los Herederos,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)> de los Herederos)>)>, su llegada era muy esperada. La aparición de un primigenio siempre es motivo de alarma e inquietud."
+      "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)> de los Vástagos,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)> de los Vástagos)>)>, su llegada era muy esperada. La aparición de un primigenio siempre es motivo de alarma e inquietud."
     },
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_VORSAILE_000_041",
@@ -215,7 +215,7 @@
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_DOORMANLOTUS_000_060",
       "hash": "96C4FB07CD40C890",
-      "target": "Los demás Herederos ya han llegado, <if(gnum4,señora,señor)>. ¿Le hago pasar?"
+      "target": "Los demás Vástagos ya han llegado, <if(gnum4,señora,señor)>. ¿Le hago pasar?"
     },
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_Q1_000_061",
@@ -265,7 +265,7 @@
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_LIEUTENANT01448_000_100",
       "hash": "4B3913296464287E",
-      "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)> de los Herederos,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)> de los Herederos)>)>? Me dijeron que le esperara."
+      "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)> de los Vástagos,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)> de los Vástagos)>)>? Me dijeron que le esperara."
     },
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_LIEUTENANT01448_000_101",
@@ -275,7 +275,7 @@
     {
       "gameKey": "quest/014/GaiUse307_01448#TEXT_GAIUSE307_01448_LIEUTENANT01448_000_102",
       "hash": "7A0EEF8DB69432B2",
-      "target": "Me han dicho que sus compañeros Herederos están investigando la zona ahora mismo, para que podamos determinar dónde se halla el Señor del Rayo. Le rogaría que aguarde aquí hasta que regresen con sus hallazgos."
+      "target": "Me han dicho que sus compañeros Vástagos están investigando la zona ahora mismo, para que podamos determinar dónde se halla el Señor del Rayo. Le rogaría que aguarde aquí hasta que regresen con sus hallazgos."
     }
   ]
 }

@@ -23,7 +23,7 @@
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_14", "hash": "DFCADEC702B96D91", "target": "Que luche hasta el final por el oro y la patria." },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_20", "hash": "9B9EF78897732EF6", "target": "¿Me oyes, <split(<string(gstr1)>, ,1)>? Soy Minfilia." },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_21", "hash": "ED1AB95E2EA5CE6A", "target": "Un oficial de las Llamas Inmortales se puso en contacto conmigo con la noticia de tu alistamiento. Mi enhorabuena, soldado <split(<string(gstr1)>, ,2)>." },
-    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_22", "hash": "FF3F021B20AD8141", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas una Llama de Ul'dah, ¡no eres menos <if(gnum4,Heredera,Heredero)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
+    { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_MINFILIA_000_22", "hash": "FF3F021B20AD8141", "target": "No me cabe duda de que estás deseando conocer a tus nuevos camaradas, pero te pediría que visites primero a los antiguos. Recuerda: aunque ahora seas una Llama de Ul'dah, ¡no eres menos <if(gnum4,Vástago,Vástago)>! Vuelve al Refugio de las Arenas en cuanto puedas. Aquí hay unos amigos que me gustaría mucho que conocieras. ¡Te esperamos!" },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_023", "hash": "AD13D3999F3D050E", "target": "Parece que se requiere su presencia en otra parte." },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_FLAMEPERSONNEL_000_024", "hash": "E827052CFA6BA89E", "target": "Pero antes de marcharse, quizá pueda encontrar un momento para hablar con el comandante Swift. No es de los que dejan que los nuevos reclutas salgan al campo sin preparación." },
     { "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_GUIDE_000_200", "hash": "2A8AAEE2EE48574D", "target": "¡Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>! La señora Minfilia te espera dentro." },
@@ -40,12 +40,12 @@
     {
       "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SEQ_02",
       "hash": "2D2712C241AD4100",
-      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Herederos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
+      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Forjas de Garlond, están ahora bajo la protección de los Vástagos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
     },
     {
       "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_TODO_00",
       "hash": "3268BB7016277440",
-      "target": "Hablar con la Heredera del Séptimo Amanecer en el Refugio de las Arenas"
+      "target": "Hablar con el Vástago del Séptimo Amanecer en el Refugio de las Arenas"
     },
     {
       "gameKey": "quest/006/ManWil303_00685#TEXT_MANWIL303_00685_SYSTEM_000_025",

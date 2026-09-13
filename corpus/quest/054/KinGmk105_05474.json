@@ -3,12 +3,12 @@
   "gameVersion": "2026.09.01.0000.0000",
   "entries": [
     { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_00", "hash": "D89AD83D3FD7643C", "target": "Alphinaud sigue lidiando con la revelación de Halmarut." },
-    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_01", "hash": "2E790BAD94AE8BDB", "target": "Alphinaud manifiesta su deseo de debatir las implicaciones de los planes de los Invernales. Al oírlo, Alisaie sugiere que el grupo se reúna con el resto de los Herederos en el Refugio de las Rocas, plan con el que su hermano no tarda en estar de acuerdo." },
-    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_02", "hash": "39ADDC2B542279AC", "target": "En el familiar entorno del Refugio de las Rocas, tú y tus camaradas intentáis trazar el rumbo a seguir. Aunque a nadie le falta determinación y resolución, no aparecen soluciones para el Solsticio. Percibiendo la necesidad de un respiro y de que los reunidos hablen de asuntos menos graves, Tataru propone una pausa. Concedido así un momento para relajaros, parece que tus compañeros Herederos tienen mucho que contar." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_01", "hash": "2E790BAD94AE8BDB", "target": "Alphinaud manifiesta su deseo de debatir las implicaciones de los planes de los Invernales. Al oírlo, Alisaie sugiere que el grupo se reúna con el resto de los Vástagos en el Refugio de las Rocas, plan con el que su hermano no tarda en estar de acuerdo." },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_02", "hash": "39ADDC2B542279AC", "target": "En el familiar entorno del Refugio de las Rocas, tú y tus camaradas intentáis trazar el rumbo a seguir. Aunque a nadie le falta determinación y resolución, no aparecen soluciones para el Solsticio. Percibiendo la necesidad de un respiro y de que los reunidos hablen de asuntos menos graves, Tataru propone una pausa. Concedido así un momento para relajaros, parece que tus compañeros Vástagos tienen mucho que contar." },
     { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_03", "hash": "D7DBFFC7832956A7", "target": "Desde la incursión de Thancred y Urianger en los gélidos confines septentrionales de Xak Tural hasta las deliberaciones de los gemelos Leveilleur sobre la mejor forma de comunicar su retirada de Garlemald, oyes muchísimo de tus camaradas: buena parte trascendente, algo de ello refrescantemente trivial. Con la cabeza y el corazón llenos de los relatos de tus colegas, te vuelves para hablar con Tataru." },
     { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_SEQ_04", "hash": "34E90955270ECDA8", "target": "Tras retirarte al Reposo del Alba a instancias de Tataru, te encuentras contemplando la pálida faz de la luna, meditando las palabras de Halmarut. Mientras la voz del asciano resuena en tu memoria, una segunda quiebra de pronto la quietud de la noche. Calyx, saliendo a la terraza, te informa de su inminente partida hacia el Cuarto, un mundo aprisionado en el hielo y actual objetivo de las maquinaciones de los Invernales. Aunque sus designios siguen sin estar claros, Calyx insinúa que el grupo no es monolítico en cuanto a propósito, y llega incluso a censurar los métodos de sus propios compañeros. Al darse la vuelta para marcharse, tu enemigo pronuncia una cruda advertencia: intentar salvar toda la vida no hará sino garantizar el olvido. Pese a estar al tanto de las ambiciones de los Invernales, y ahora de su siguiente destino, la cuestión de cómo responder queda, por ahora, sin respuesta..." },
     { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_00", "hash": "B4A028FD67012388", "target": "Hablar con Alphinaud en el Refugio de las Rocas" },
-    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_01", "hash": "BB8F1F27007080EC", "target": "Hablar con tus compañeros Herederos" },
+    { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_01", "hash": "BB8F1F27007080EC", "target": "Hablar con tus compañeros Vástagos" },
     { "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_TODO_02", "hash": "07769655AA8A2C5C", "target": "Hablar con Tataru" },
     {
       "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_001",
@@ -58,7 +58,7 @@
     {
       "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALPHINAUD_000_041",
       "hash": "53800337E4AA36E6",
-      "target": "Y por “nosotros” me refiero a todos nuestros compañeros Herederos."
+      "target": "Y por “nosotros” me refiero a todos nuestros compañeros Vástagos."
     },
     {
       "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_ALISAIE_000_042",
@@ -303,7 +303,7 @@
     {
       "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_OCHERBOULDER_000_261",
       "hash": "27C2214991A0ACF7",
-      "target": "Cuando supe que la invasión ya se había extendido por todo el astro, comprendí la gravedad de la situación y mandé enviar un informe confidencial a los demás Herederos."
+      "target": "Cuando supe que la invasión ya se había extendido por todo el astro, comprendí la gravedad de la situación y mandé enviar un informe confidencial a los demás Vástagos."
     },
     {
       "gameKey": "quest/054/KinGmk105_05474#TEXT_KINGMK105_05474_KRILE_000_262",

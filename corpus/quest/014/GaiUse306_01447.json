@@ -15,7 +15,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_SEQ_02",
       "hash": "1544ADDCA44AF368",
-      "target": "Minfilia se alegra de saber que tú y Alphinaud estáis bien, y dice que está lista para informarte de la última amenaza. Avísala cuando estés listo para que pueda convocar a los demás Herederos al solario."
+      "target": "Minfilia se alegra de saber que tú y Alphinaud estáis bien, y dice que está lista para informarte de la última amenaza. Avísala cuando estés listo para que pueda convocar a los demás Vástagos al solario."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_TODO_00",
@@ -30,12 +30,12 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_001",
       "hash": "9495EE513920AC9D",
-      "target": "¿Cuánto tiempo crees que pensaban ocultar la existencia de Omega a los Herederos? Que siquiera sintieran la necesidad de hacerlo es de lo más inquietante."
+      "target": "¿Cuánto tiempo crees que pensaban ocultar la existencia de Omega a los Vástagos? Que siquiera sintieran la necesidad de hacerlo es de lo más inquietante."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_002",
       "hash": "30E65FB959712593",
-      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de las Víboras Gemelas,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
+      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la integrante más indicada de los Vástagos,el Vástago más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de las Víboras Gemelas,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_003",
@@ -160,7 +160,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_MINFILIA_000_032",
       "hash": "AE955FC724E54522",
-      "target": "Los demás Herederos deberán estar presentes en esta reunión. Si estás <if(gnum4,lista,listo)> para empezar, los convocaré ahora."
+      "target": "Los demás Vástagos deberán estar presentes en esta reunión. Si estás <if(gnum4,lista,listo)> para empezar, los convocaré ahora."
     }
   ]
 }
