@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_SEQ_00", "hash": "8E10A54225009CDE", "target": "El gran mariscal de la serpiente Brookstone vuelve a necesitar a un buen soldado." },
     { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_00", "hash": "F7BE3FB369EE8779", "target": "Hablar con Dodogun." },
-    { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_01", "hash": "A87582AF238D1ADC", "target": "Encontrar al recluta de las Dos Víboras." },
-    { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_02", "hash": "7A225CA8526C5EF1", "target": "Hablar con el recluta de las Dos Víboras." },
+    { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_01", "hash": "A87582AF238D1ADC", "target": "Encontrar al recluta de las Víboras Gemelas." },
+    { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_02", "hash": "7A225CA8526C5EF1", "target": "Hablar con el recluta de las Víboras Gemelas." },
     { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_TODO_03", "hash": "1B233C37E6A2EF80", "target": "Informar al gran mariscal de la serpiente Brookstone." },
     { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_SWETHRYKBROOKSTONE_000_000", "hash": "BFFD0F4631C7643A", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. Llegas en buen momento." },
     { "gameKey": "quest/028/StmBdz916_02872#TEXT_STMBDZ916_02872_SWETHRYKBROOKSTONE_000_001", "hash": "7DCB552CDBCBBF21", "target": "He recibido una petición de auxilio bastante urgente de uno de nuestros exploradores, y todos mis hombres están ocupados con misiones en otros sitios. " },

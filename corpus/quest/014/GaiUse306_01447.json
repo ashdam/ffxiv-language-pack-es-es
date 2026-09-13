@@ -35,7 +35,7 @@
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_002",
       "hash": "30E65FB959712593",
-      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de las Dos Víboras,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
+      "target": "Nos convendría saber más sobre las actividades militares en los territorios en disputa. Tú eres, por supuesto, <if(gnum4,la Heredera más indicada,el Heredero más indicado)> para esta tarea, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>. Tómate un momento para visitar <if([gnum52>0],la Comandancia del Maelstrom,<if([gnum53>0],el Cuartel General de las Víboras Gemelas,la Sala de las Llamas)>)> y hacer averiguaciones a la primera oportunidad."
     },
     {
       "gameKey": "quest/014/GaiUse306_01447#TEXT_GAIUSE306_01447_ALPHINAUD_000_003",
