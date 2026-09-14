@@ -3,7 +3,7 @@
     "Términos decididos a mano. Formato en docs/glossary.md de ffxiv-corpus-en.",
     "protect true: se deja el inglés. protect false: se traduce, y es-es es la forma acordada.",
     "fr y ja se copian de líneas del corpus; vacío = ese idioma no usa un término fijo.",
-    "Topónimos con clave de PlaceName: consultar PlaceName-override.json.",
+    "Topónimos con clave de PlaceName: consultar placename-override.json.",
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
