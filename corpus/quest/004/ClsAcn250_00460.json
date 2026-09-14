@@ -7,11 +7,7 @@
       "hash": "B723333B2F343563",
       "target": "Thubyrgeim, maestra del gremio en funciones, quiere tu ayuda para dar con cierta persona."
     },
-    {
-      "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_01",
-      "hash": "341469A46D9F2CF4",
-      "target": "Thubyrgeim te revela que por fin han avistado al escurridizo maestro del gremio, K'rhid Tia. Cree que el maestro del gremio tiene la clave para sacar a K'lyhia de su abatimiento. Viaja al Puesto Comercial de Memeroon, en la Alta Noscea, y pregunta a un lugareño por el paradero actual de K'rhid Tia."
-    },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_01", "hash": "341469A46D9F2CF4", "target": "Thubyrgeim te revela que por fin han avistado al escurridizo maestro del gremio, K'rhid Tia. Cree que el maestro del gremio tiene la clave para sacar a K'lyhia de su abatimiento. Viaja al Puesto Comercial de Memeroon, en Alta La Noscea, y pregunta a un lugareño por el paradero actual de K'rhid Tia." },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_02",
       "hash": "4B4FD2C6080B4F1F",
@@ -42,11 +38,7 @@
       "hash": "8784E7D13DC3AC87",
       "target": "Has derrotado a los Tree Slugs que surgieron cuando intentaste abrir la caja. Prepárate para cualquier cosa e intenta abrir la caja una vez más."
     },
-    {
-      "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_08",
-      "hash": "EB19AEDE2B819BAE",
-      "target": "La caja no te depara más sorpresas desagradables, y en su interior has encontrado otro trozo de pergamino. El pergamino te ha dirigido al Puesto Comercial de Memeroon, en la Alta Noscea, donde deberás buscar a su dueño y usar /bailar para él."
-    },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_08", "hash": "EB19AEDE2B819BAE", "target": "La caja no te depara más sorpresas desagradables, y en su interior has encontrado otro trozo de pergamino. El pergamino te ha dirigido al Puesto Comercial de Memeroon, en Alta La Noscea, donde deberás buscar a su dueño y usar /bailar para él." },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_09",
       "hash": "B92FFEB70B6CCD4D",
@@ -125,7 +117,7 @@
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_THUBYRGEIM_000_000", "hash": "D45AB87E8EA6E154", "target": "¿Vienes a preguntar por el estado de K'lyhia? La inspectora sigue... igual. Deambula como si toda la alegría de vivir le hubiera sido arrancada del alma." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_THUBYRGEIM_000_001", "hash": "553DA86187E6ECE0", "target": "Creo que la única persona que puede ayudarla ahora es la misma que sacó a K'lyhia de su caparazón la primera vez: nuestro ausente maestro del gremio. Y ─aunque desconfío de la coincidencia─ por fin han avistado al hombre en persona." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_THUBYRGEIM_000_002", "hash": "7B8001D5E3D55E07", "target": "Si buscas su último paradero conocido, es poco probable que siga allí. E incluso si lo alcanzas, puede que no se digne a hablar contigo. Aun así, esta quizá sea nuestra única oportunidad." },
-    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_THUBYRGEIM_000_003", "hash": "5FBAE78C88E35D0C", "target": "Viaja al Puesto Comercial de Memeroon, en la Alta Noscea, y habla con cualquiera que pueda haber visto al maestro del gremio. Ah, y una cosa más: aunque por alguna razón inexplicable prefiere que no lo usemos, nuestro líder se llama K'rhid Tia." },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_THUBYRGEIM_000_003", "hash": "5FBAE78C88E35D0C", "target": "Viaja al Puesto Comercial de Memeroon, en Alta La Noscea, y habla con cualquiera que pueda haber visto al maestro del gremio. Ah, y una cosa más: aunque por alguna razón inexplicable prefiere que no lo usemos, nuestro líder se llama K'rhid Tia." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_MOKUGEKISHA_000_010", "hash": "28CE492699F56FE7", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <if(gnum4,señorita,señor)>. Sí, fui yo quien avisó a su gremio de que había avistado a su líder. ¡Es rarísimo ver a K'rhid Tia dando vueltas por ahí! Me preguntó el camino a Thalaos. A lo mejor buscaba hablar con el erudito que vive por allí." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_020", "hash": "4AA1C363EE171B57", "target": "Buenas. Pues sí, recibí la visita de un caballero que se identificó como el maestro del Gremio de Arcanistas. Un tipo peculiar, pero a todas luces poseedor de una educación muy completa." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_021", "hash": "00001C712D8E0928", "target": "Da la casualidad de que me pidió que transmitiera un mensaje a quienquiera que viniese a buscarlo. Ejem. “Reunidos, los tres trozos de pergamino guardan el problema que lleva a la solución.”" },

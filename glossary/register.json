@@ -9,7 +9,17 @@
     "«貴殿» a secas es respeto entre iguales, no deferencia, y por eso Gaius, Grenoldt, Quinfort y el Vigía de la Luna van de tú. Un 様 o un 殿 sueltos suelen colgar del nombre de un tercero: no los cuentes.",
     "Mide por destinatario, no por hablante: un recuento de todas sus filas mezcla lo que dice al jugador con lo que dice a sus compañeros, y sale partido sin estarlo.",
     "«evidence» son filas dirigidas al jugador que sostienen el veredicto: el pronombre japonés cuando lo hay, y si no el francés. Sirven para recomprobar la entrada sin volver a medir.",
-    "«corpus» es cuánto habla en el juego, no cuánto se ha revisado: conversaciones y filas en las que aparece. Si tras un parche sube, hay material nuevo que contrastar contra esta entrada."
+    "«corpus» es cuánto habla en el juego, no cuánto se ha revisado: conversaciones y filas en las que aparece. Si tras un parche sube, hay material nuevo que contrastar contra esta entrada.",
+    "Las reglas de trato y voz se guardan aquí; overrides.json contiene términos y acotaciones.",
+    "Master Alphinaud como tratamiento de respeto: maese Alphinaud, con independencia del hablante.",
+    "El tratamiento de los caballeros de Ishgard es Ser, con mayúscula ante el nombre. No sustituir por sire.",
+    "Conservar ijin como tratamiento extranjero cuando el inglés lo emplee.",
+    "Para el emperador garleano: His Radiance, Su Resplandor; Your Radiance, Vuestro Resplandor. Conservar estas fórmulas sin extender el voseo al resto de la frase.",
+    "His Benevolence referido a Vauthry: Su Benevolencia.",
+    "Vorporlor: seguir las mayúsculas del inglés; no copiar el énfasis en mayúsculas del francés.",
+    "Ananta: reproducir el siseo con una s triplicada en una o dos palabras por intervención, nunca en narración.",
+    "Qitari: voz florida y ceremoniosa en el léxico, sin cambiar el pronombre de trato.",
+    "Los Serpent Reavers hablan como piratas, sin el siseo de los sahagin."
   ],
   "register": {
     "JYHUHTIA": { "corpus": { "conversations": 11, "rows": 284 }, "evidence": [{ "gameKey": "quest/054/JobXbm101_05491#TEXT_JOBXBM101_05491_JYHUHTIA_000_010", "lang": "ja", "term": "お前" }], "player": "tú", "confidence": "high", "why": "Mentor coloquial. Pronombre japonés directo y tuteo francés." },

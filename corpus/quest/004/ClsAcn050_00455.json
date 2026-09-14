@@ -7,11 +7,7 @@
       "hash": "469CACFDD14EC5C1",
       "target": "Thubyrgeim, maestra del gremio en funciones, quiere evaluar los progresos de tus habilidades de magia arcana."
     },
-    {
-      "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_SEQ_01",
-      "hash": "DE774336DD1A1010",
-      "target": "Para poner a prueba tu creciente aptitud como arcanista, Thubyrgeim te envía de vuelta a los parajes salvajes de las Tierras Bajas de La Noscea a enfrentarte a rivales más difíciles. Abate tres Wild Dodos y tres Tiny Mandragoras."
-    },
+    { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_SEQ_01", "hash": "DE774336DD1A1010", "target": "Para poner a prueba tu creciente aptitud como arcanista, Thubyrgeim te envía de vuelta a los parajes salvajes de Baja La Noscea a enfrentarte a rivales más difíciles. Abate tres Wild Dodos y tres Tiny Mandragoras." },
     {
       "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_SEQ_02",
       "hash": "342D60072D359278",
@@ -68,7 +64,7 @@
       "target": "Informar a Thubyrgeim en el Gremio de Arcanistas"
     },
     { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_000", "hash": "12C32D8617E77620", "target": "Ah, <split(<string(gstr1)>, ,1)>, ¿verdad? ¿Comes bien? Un estómago vacío distrae la mente y precipita el juicio. A menudo tengo que recordar a mis arcanistas que coman, de tan absortos como quedan en sus estudios." },
-    { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_001", "hash": "9FAFC9A6A2786E44", "target": "Y a propósito, ¿has estado practicando tus tácticas con Carbuncle? Creo que es hora de evaluar tus progresos. Como en tu prueba anterior, quiero que derrotes a unos enemigos en las Tierras Bajas de La Noscea: tres wild dodos y tres tiny mandragoras, para ser exactos." },
+    { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_001", "hash": "9FAFC9A6A2786E44", "target": "Y a propósito, ¿has estado practicando tus tácticas con Carbuncle? Creo que es hora de evaluar tus progresos. Como en tu prueba anterior, quiero que derrotes a unos enemigos en Baja La Noscea: tres wild dodos y tres tiny mandragoras, para ser exactos." },
     { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_002", "hash": "5E3F5004E02ABE2C", "target": "Observa con atención el comportamiento de tus adversarios, traza una estrategia eficaz y saca el máximo partido a tu entidad arcana. Espero que vuelvas a tiempo para <if([gnum11<12],<if([gnum11<4],la cena,el desayuno)>,<if([gnum11<17],la comida,la cena)>)>." },
     { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_010", "hash": "8F6197BECD9CAF5F", "target": "Bienvenid<if(gnum4,a,o)> de nuevo, <split(<string(gstr1)>, ,1)>. Parece que tu coordinación con Carbuncle avanza a un ritmo satisfactorio. ¿Ponemos a prueba tu creciente perspicacia con un examen más práctico?" },
     { "gameKey": "quest/004/ClsAcn050_00455#TEXT_CLSACN050_00455_THUBYRGEIM_000_012", "hash": "A171C453624DD636", "target": "Nuestro trabajo en la Aduana de Mealvaan nos exige inspeccionar y registrar el contenido de la carga entrante. Para simular esa tarea, he hecho transportar varias cajas al acantilado al sur de la Puerta del Céfiro." },
