@@ -18,10 +18,10 @@
     {"en":"Minimog Challenges","es-es":"Desafíos Minimog","protect":false},
     {"en":"Ultimog Challenge","es-es":"Desafío Ultimog","protect":false},
     {"note":"Nombre del menú y sus referencias en las guías.","en":"Actions & Traits","es-es":"Acciones y rasgos","protect":false},
-    {"note":"Categoría de misiones de encargo.","en":"Battlecraft","es-es":"Combate","protect":false},
+    {"note":"Categoría de encargos.","en":"Battlecraft","es-es":"Combate","protect":false},
     {"note":"Tipo de daño: Impacto en etiquetas; ataque de impacto o daño de impacto en descripciones.","en":"Blunt","es-es":"Impacto","protect":false},
     {"note":"Etiqueta de interfaz. En las explicaciones también se admite ataque automático.","en":"Auto-attack","es-es":"Autoataque","protect":false},
-    {"en":"levequest","es-es":"misión de encargo","protect":false},
+    {"en":"levequest","es-es":"encargo","protect":false},
     {"en":"levemete","es-es":"Levemete","protect":true},
     {"en":"levewatch","es-es":"supervisor de encargos","protect":false},
     {"en":"Mother Miounne","es-es":"Madre Miounne","protect":false},
@@ -269,7 +269,7 @@
       "es-es": "las Antorchas de Piedra",
       "protect": false
     },
-    {"en":"Amajina & Sons Mineral Concern","fr":"","ja":"","note":"Short form «Amajina e Hijos»; «the Concern» on its own is «la Compañía». Already shipped this way.","es-es":"Compañía Minera Amajina e Hijos","protect":false},
+    {"en":"Amajina & Sons Mineral Concern","fr":"Les Bons filons d'Amajina et Fils","ja":"アマジナ鉱山社","note":"Forma abreviada: Amajina e Hijos; the Concern: la Compañía.","es-es":"Compañía Minera Amajina e Hijos","protect":false},
     {
       "en": "Mythril Eye",
       "fr": "",
@@ -293,13 +293,7 @@
       "es-es": "la Liga de Mercaderes",
       "protect": false
     },
-    {
-      "en": "Brugaire Consortium",
-      "fr": "",
-      "ja": "",
-      "es-es": "el Consorcio Brugaire",
-      "protect": false
-    },
+    {"en":"Brugaire Consortium","fr":"Consortium de Brugaire","ja":"ブルゲール商会","es-es":"Consorcio Brugaire","protect":false,"note":"Nombre de empresa."},
     {
       "en": "Bringers of Chaos",
       "fr": "",
@@ -323,14 +317,7 @@
       "protect": false,
       "note": "Garlean intelligence. The name is Latin in every language, so it stays; only the article is Spanish."
     },
-    {
-      "en": "Highwind Skyways",
-      "fr": "",
-      "ja": "ハイウィンド飛空社",
-      "es-es": "Aerovías Highwind",
-      "protect": false,
-      "note": "«Aerovías» reads as a company name and is short, which the balloon and bubble sheets reward. «Highwind» stays — it is the series name (Cid Highwind), protected by series precedence."
-    },
+    {"en":"Highwind Skyways","fr":"Vols Hautvent","ja":"ハイウィンド飛空社","es-es":"Rutas Aéreas Highwind","protect":false,"note":"Nombre de empresa; concordancia singular. Skyways y Skywinds remiten a la misma compañía."},
     {
       "en": "Rite of Returning",
       "fr": "rituel de restitution d'âme",
@@ -846,14 +833,7 @@
       "protect": false,
       "note": "Chosen over «camposanto» for consistency with 3 shipped «cementerio». The English word is archaic where the Spanish is neutral, and no Spanish archaism was available that a bubble could hold."
     },
-    {
-      "en": "East Aldenard Trading Company",
-      "fr": "Compagnie commerciale d'Aldenard oriental",
-      "ja": "",
-      "es-es": "la Compañía Comercial de Aldenard Oriental",
-      "protect": false,
-      "note": "A FACTION, and _ui_terms_comment explicitly exempts factions from the keep-English rule."
-    },
+    {"en":"East Aldenard Trading Company","fr":"Firme du commerce de l'Aldenard oriental","ja":"東アルデナード商会","es-es":"Compañía Comercial de Aldenard Oriental","protect":false,"note":"Nombre de empresa; concordancia femenina singular."},
     {
       "en": "Loinfruit",
       "fr": "",
@@ -2418,9 +2398,9 @@
       "en": "guildleve",
       "fr": "mandat de guilde",
       "ja": "ギルドリーヴ",
-      "es-es": "guildleve",
-      "protect": true,
-      "note": "Kept English under _ui_terms_comment: there is a Guildleve window and the levemete NPCs hand them out, so «mandato de gremio» would name something the player cannot find. Plural: guildleves. The English also uses the short form «leve» on its own (NpcYell#1273); same thing, same word. PROVISIONAL, and deliberately pinned early for that reason — the French translates it and the argument for following suit is real. Fixing it now costs 2 lines; leaving it until the other 168 are translated would cost 170."
+      "es-es": "encargo de gremio",
+      "protect": false,
+      "note": "Plural: encargos de gremio. La forma abreviada leve se traduce como encargo cuando designa esta tarea."
     },
     {
       "en": "Valentione's Day",
@@ -2615,14 +2595,7 @@
       "protect": false,
       "note": "shipped, previously unrecorded. Short form: «los Cadáveres»."
     },
-    {
-      "en": "House of Splendors",
-      "fr": "",
-      "ja": "",
-      "es-es": "la Casa de los Esplendores",
-      "protect": false,
-      "note": "shipped; confirmed independently by chunks 08 and 19"
-    },
+    {"en":"House of Splendors","fr":"","ja":"","es-es":"Casa de los Esplendores","protect":false,"note":"Forma abreviada de Casa de los Esplendores de Rowena."},
     {
       "en": "Hearer",
       "fr": "",
@@ -2839,14 +2812,7 @@
       "protect": false,
       "note": "shipped, confirmed by chunk 19"
     },
-    {
-      "en": "Garlond Ironworks",
-      "fr": "",
-      "ja": "",
-      "es-es": "las Forjas de Garlond",
-      "protect": false,
-      "note": "shipped, confirmed by chunk 19"
-    },
+    {"en":"Garlond Ironworks","fr":"Les Forges de Garlond","ja":"ガーロンド・アイアンワークス","es-es":"Fundiciones Garlond","protect":false,"note":"Nombre de empresa; concordancia plural. Ironworks se vierte como Fundiciones Garlond."},
     {
       "en": "Temple Knights",
       "fr": "",
@@ -5335,7 +5301,7 @@
       "ja": "リテイナー"
     },
     {
-      "note": "CORREGIDO CONTRA LO ENTREGADO, 22 de agosto de 2026: decia «encargo» apoyado en una sola fila, `LogMessage#5796` («Encargo fijado en el historial de encargos»). El corpus dice «expedicion» 46 veces solo en `CmnDefRetainerCall_00010` y `CmnDefRetainerBell_00544` — «Asignar expedicion.», «Ver informe de expedicion.», «expediciones de exploracion rapida» — mas «vales de expedicion» x12 para `venture scrip`. `LogMessage#5796` y `#5797` quedan como DERIVA A BARRER. No confundir con `levequest`, que es «mision de encargo». LAS CADENAS DEL SIRVIENTE SE CONGELAN: se donan a AutoRetainer en un PR, y cambiar el termino despues rompe el plugin hasta que se mande otro. Ver `issues/autoretainer-string-inventory.md`.",
+      "note": "CORREGIDO CONTRA LO ENTREGADO, 22 de agosto de 2026: decia «encargo» apoyado en una sola fila, `LogMessage#5796` («Encargo fijado en el historial de encargos»). El corpus dice «expedicion» 46 veces solo en `CmnDefRetainerCall_00010` y `CmnDefRetainerBell_00544` — «Asignar expedicion.», «Ver informe de expedicion.», «expediciones de exploracion rapida» — mas «vales de expedicion» x12 para `venture scrip`. `LogMessage#5796` y `#5797` quedan como DERIVA A BARRER. No confundir con `levequest`, que es «encargo». LAS CADENAS DEL SIRVIENTE SE CONGELAN: se donan a AutoRetainer en un PR, y cambiar el termino despues rompe el plugin hasta que se mande otro. Ver `issues/autoretainer-string-inventory.md`.",
       "es-es": "expedición",
       "fr": "Mission",
       "en": "Venture",
@@ -7247,7 +7213,18 @@
     {"en":"floor","es-es":"planta","protect":false,"note":"Planta o plantas en mazmorras profundas, también en macros y diálogos. No aplicar a suelo, fondo marino ni expresiones figuradas."},
     {"en":"protomander","es-es":"protovasija","protect":false},
     {"en":"Accursed Hoard","es-es":"Tesoro Maldito","protect":false},
-    {"en":"Gelmorran potsherd","es-es":"fragmento de cerámica gelmorrana","protect":false}
+    {"en":"Gelmorran potsherd","es-es":"fragmento de cerámica gelmorrana","protect":false},
+    {"en":"Rowena's House of Splendors","fr":"maison des splendeurs de Rowena","ja":"ロウェナ商会","es-es":"Casa de los Esplendores de Rowena","protect":false,"note":"Nombre de empresa; forma abreviada: Casa de los Esplendores."},
+    {"en":"Ashcrown Consortium","fr":"maison de la Couronne de Cendre","ja":"アッシュクラウン商会","es-es":"Consorcio Ashcrown","protect":false,"note":"Nombre de empresa."},
+    {"en":"Daedalus Stoneworks","fr":"firme Daedalus","ja":"ダイダロス社","es-es":"Cantería Daedalus","protect":false,"note":"Nombre de empresa."},
+    {"en":"Tataru Taru's Boutique","fr":"Tarufacture","ja":"大繁盛商店","es-es":"La Boutique de Tataru","protect":false,"note":"Nombre de empresa; el artículo va en minúscula dentro de una oración."},
+    {"en":"Boutique of Splendors","fr":"maison des merveilles","ja":"モーエン商会","es-es":"Casa de las Maravillas","protect":false,"note":"Nombre de empresa."},
+    {"en":"Rhodina Consortium","fr":"maison des splendeurs de Rhodina","ja":"ロディナ商会","es-es":"Consorcio Rhodina","protect":false,"note":"Nombre de empresa."},
+    {"en":"Baert Trading Company","fr":"société Baert","ja":"バート商会","es-es":"Compañía Comercial Baert","protect":false,"note":"Nombre de empresa."},
+    {"en":"Sahjattra Concern","fr":"société Sahjattra","ja":"サジャトラ商会","es-es":"Compañía Sahjattra","protect":false,"note":"Nombre de empresa."},
+    {"en":"Balyk Consortium","fr":"société Balyk","ja":"バリーク商会","es-es":"Consorcio Balyk","protect":false,"note":"Nombre de empresa."},
+    {"en":"Black Rabbit Traders","fr":"Lièvre noir","ja":"黒兎堂","es-es":"La Liebre Negra","protect":false,"note":"Nombre de empresa; concordancia femenina singular. Black Rabbit remite a la misma empresa."},
+    {"en":"Seventy-Seven Caravans","fr":"Soixante-dix-sept caravanes","ja":"隊商互助会","es-es":"Setenta y Siete Caravanas","protect":false,"note":"Nombre de empresa."}
   ],
   "_emotes_comment": [
     "Acotaciones: en el corpus van escapadas, \\<sigh>, y el jugador lee <sigh>. No son macros.",

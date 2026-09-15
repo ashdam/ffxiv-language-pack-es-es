@@ -23,7 +23,7 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_22", "hash": "C2CA0E27E9BEE75F", "target": "Bien, permítame reunir la documentación pertinente..." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENT_000_23", "hash": "74A534CADD95DE44", "target": "¡Señor!" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_24", "hash": "CE570A9891A20381", "target": "¿Qué ocurre? Informe." },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENT_000_25", "hash": "1B90D99CC6A5E07E", "target": "¡Un mensaje urgente de la Aguja de Amarissaix, señor! ¡Una aeronave de Aerovías Highwind ha recibido fuego de las fuerzas imperiales en los cielos de la Bosque del este!" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENT_000_25", "hash": "1B90D99CC6A5E07E", "target": "¡Un mensaje urgente de la Aguja de Amarissaix, señor! ¡Una aeronave de Rutas Aéreas Highwind ha recibido fuego de las fuerzas imperiales en los cielos del Bosque del este!" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENT_000_26", "hash": "754383524719FB73", "target": "Los motores de la nave quedaron inutilizados, señor, y se vio obligada a hacer un aterrizaje de emergencia al sureste de las Nueve Hiedras." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_27", "hash": "264402AE28DCEF28", "target": "¿Las Nueve Hiedras? Por los dioses, no podría haber ocurrido en peor momento. Casi todas nuestras fuerzas están desplegadas ahora mismo, lidiando con los Ixal." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTPERSONNEL_000_28", "hash": "40C6B2942CCFD30D", "target": "<split(<string(gstr1)>, ,1)>─Sé de sobra que aún no ha sido formalmente <if(gnum4,incorporada,incorporado)> a nuestras filas, pero necesitamos su ayuda con urgencia." },
@@ -35,17 +35,17 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_A3_000_2", "hash": "132FD0F9629ED79D", "target": "No" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_40", "hash": "558CDAD53D5F85D5", "target": "¿¡<if(gnum4,Una aventurera,Un aventurero)>!? ¿Qué haces por aquí? No, espera... busquemos antes algo de cobertura..." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_41", "hash": "1455B497B4071C0C", "target": "¿Te envía el Cuartel General de las Víboras Gemelas? ¿Y cómo sé que no eres <if(gnum4,una espía imperial,un espía imperial)>? ¡Si ni siquiera llevas uniforme!" },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_42", "hash": "A3DFAA30F261BC41", "target": "Calma, amigo... no queremos hacerle daño. Es usted ingeniero de las Forjas de Garlond, ¿no es así? Nos alertaron de su apuro y hemos venido a rescatarle." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_42", "hash": "A3DFAA30F261BC41", "target": "Calma, amigo... no queremos hacerle daño. Es usted ingeniero de las Fundiciones Garlond, ¿no es así? Nos alertaron de su apuro y hemos venido a rescatarle." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_43", "hash": "91C7F80E2035EA3E", "target": "Y tú debes de ser <string(gstr1)>, supongo. Me dijeron que esperara a <if(gnum4,una Serpiente «honoraria»,un Serpiente «honorario»)>. Te agradezco tu ayuda, amigo." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_IMPERIALSOLDIER_000_44", "hash": "9B2DA64DFB2B9F84", "target": "Nunca he visto una nave con este diseño... Debe de ser obra de Garlond. ¿Es que la traición de ese hombre no tiene fin?" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_IMPERIALSOLDIER_000_45", "hash": "EC4851E2A95D6477", "target": "Los secretos de la magitek pertenecen a manos imperiales. ¡No deben malgastarse en salvajes eorzeos!" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_IMPERIALSOLDIER_000_46", "hash": "E762329B935FD324", "target": "¡Nos llevaremos esta nave de vuelta a la fortaleza! ¡Desmanteladla si es preciso! ¡Y traed al ingeniero! Alguien ha de pagar por los crímenes de Garlond." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_47", "hash": "0465813FF97EB274", "target": "Exploradores imperiales de Castrum Oriens. Pretenden requisar la nave." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_48", "hash": "20DD9D615BCA70D8", "target": "¡Wedge! ¡Tienes que ayudarlo! ¡Ese Lalafell insensato estaba escondido <italic(1)>dentro<italic(0)> del <italic(1)>Tiny Bronco<italic(0)>!" },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_49", "hash": "488ED86778D408E4", "target": "¿El <italic(1)>Tiny Bronco<italic(0)>? ¿¡Pero no es esa la última creación de las Forjas!?" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_49", "hash": "488ED86778D408E4", "target": "¿El <italic(1)>Tiny Bronco<italic(0)>? ¿¡Pero no es esa la última creación de las Fundiciones Garlond!?" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_50", "hash": "D7A8D758D53A8DEF", "target": "Es la primera aeronave que construimos desde la Calamidad... la primera desde que el maestro Garlond... bueno, desde que desapareció." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_BIGGS_000_51", "hash": "9F1F7FFE15CADF3E", "target": "Tras años de trabajo, por fin estaba lista para su primer vuelo de prueba. Y <italic(1)>surcaba el cielo<italic(0)>, de verdad que sí... ¡hasta que esos malnacidos la derribaron a cañonazos!" },
-    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_52", "hash": "396A986F4C1FBFBC", "target": "Atención todos: la última creación de las Forjas no debe caer en manos garleanas. Los atacaremos, rápido y sin fallar, y rescataremos al ingeniero Wedge." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_52", "hash": "396A986F4C1FBFBC", "target": "Atención todos: la última creación de las Fundiciones Garlond no debe caer en manos garleanas. Los atacaremos, rápido y sin fallar, y rescataremos al ingeniero Wedge." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_53", "hash": "733AB4DA358D218E", "target": "<split(<string(gstr1)>, ,1)>, confío en que podamos contar con tu apoyo." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SERPENTLIEUTENANT_000_54", "hash": "46893661C874110E", "target": "¡Que la Matrona vele por nosotros! ¡Conmigo!" },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_IMPERIALSOLDIER_000_55", "hash": "F99B0DF0013AED5F", "target": "¡Una emboscada! ¡A las armas!" },
@@ -87,12 +87,12 @@
     {
       "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_02",
       "hash": "A4E39A2333BC656A",
-      "target": "Tu incorporación formal a la Orden de las Víboras Gemelas se ve interrumpida por un informe urgente: los imperiales han atacado una aeronave de Aerovías Highwind. Ve al sureste de las Nueve Hiedras y averigua la suerte de la nave y su tripulación."
+      "target": "Tu incorporación formal a la Orden de las Víboras Gemelas se ve interrumpida por un informe urgente: los imperiales han atacado una aeronave de Rutas Aéreas Highwind. Ve al sureste de las Nueve Hiedras y averigua la suerte de la nave y su tripulación."
     },
     {
       "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_03",
       "hash": "7AF36720D6F24A0B",
-      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Forjas de Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve al Cuartel General de las Víboras Gemelas e informa al oficial de personal."
+      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve al Cuartel General de las Víboras Gemelas e informa al oficial de personal."
     },
     {
       "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_04",

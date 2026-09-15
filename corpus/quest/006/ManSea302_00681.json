@@ -23,7 +23,7 @@
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_22", "hash": "ABF892FDFD1423BF", "target": "Bien, antes de poder aceptar tu juramento, debo ponerte al corriente de varios..." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_23", "hash": "42C9D4D4BDD39D1A", "target": "¡Señor!" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_24", "hash": "DAA2B96D46E7CB33", "target": "¿Qué ocurre, soldado? Y más vale que sea importante." },
-    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_25", "hash": "B5C7506BFAEEDED0", "target": "¡Señor! ¡Hemos recibido el informe de un vigía de Baja La Noscea, señor! Las fuerzas imperiales han disparado contra una aeronave de Aerovías Highwind." },
+    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_25", "hash": "B5C7506BFAEEDED0", "target": "¡Señor! ¡Hemos recibido el informe de un vigía de Baja La Noscea, señor! Las fuerzas imperiales han disparado contra una aeronave de Rutas Aéreas Highwind." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPRIVATE_000_26", "hash": "CB2FD56DCB622ABE", "target": "La nave está muy dañada, señor, y parece virar para un aterrizaje de emergencia en el Bosque de Cedros." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_27", "hash": "B54A5E7EF80D2C25", "target": "¿El Bosque de Cedros? Maldita sea. No tenemos tropas disponibles en esa zona. El grueso de nuestra infantería está atascado en la costa, en escaramuzas con los pescajos." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMPERSONNEL_000_28", "hash": "2BDD9CB44A9B692E", "target": "<split(<string(gstr1)>, ,2)>... esto es de lo más irregular, pero me temo que tu primer deber al servicio del Maelstrom habrá de ser extraoficial." },
@@ -34,7 +34,7 @@
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_A3_000_2", "hash": "E09653641FBA7C3C", "target": "No" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_40", "hash": "E31A5598E8AF40A0", "target": "¿¡<if(gnum4,Una aventurera,Un aventurero)>!? ¿Qué haces por aquí? No, espera... busquemos antes algo de cobertura..." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_41", "hash": "B6EAF66EF7871A56", "target": "¿Te envía la Comandancia del Maelstrom? ¿Y cómo sé que no eres <if(gnum4,una espía imperial,un espía imperial)>? ¡Si ni siquiera llevas uniforme!" },
-    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMLIEUTENANT_000_42", "hash": "AC2476717952AAE1", "target": "Tranquilo, señor. Somos del Maelstrom. Es usted ingeniero de las Forjas de Garlond, ¿verdad? Uno de nuestros vigías informó del ataque a su nave... hemos venido a rescatarle." },
+    { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMLIEUTENANT_000_42", "hash": "AC2476717952AAE1", "target": "Tranquilo, señor. Somos del Maelstrom. Es usted ingeniero de las Fundiciones Garlond, ¿verdad? Uno de nuestros vigías informó del ataque a su nave... hemos venido a rescatarle." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_STORMLIEUTENANT_000_43", "hash": "C744786631FA3562", "target": "Tú debes de ser <split(<string(gstr1)>, ,2)>. Buen trabajo llegando hasta nuestro amigo antes que los imperiales." },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_44", "hash": "0B3CAF90B9BD678D", "target": "Nunca he visto una nave con este diseño... Debe de ser obra de Garlond. ¿Es que la traición de ese hombre no tiene fin?" },
     { "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_IMPERIALSOLDIER_000_45", "hash": "0628CFD594779513", "target": "Los secretos de la magitek pertenecen a manos imperiales. ¡No deben malgastarse en salvajes eorzeos!" },
@@ -86,12 +86,12 @@
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_SEQ_02",
       "hash": "EFA7FFD6E0E3AE7C",
-      "target": "Tu incorporación formal al Maelstrom se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Aerovías Highwind. Dirígete al Bosque de Cedros y averigua la suerte de la maltrecha nave y su tripulación."
+      "target": "Tu incorporación formal al Maelstrom se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Rutas Aéreas Highwind. Dirígete al Bosque de Cedros y averigua la suerte de la maltrecha nave y su tripulación."
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_SEQ_03",
       "hash": "C247C949A53A56B7",
-      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Forjas de Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve a la Comandancia del Maelstrom e informa al oficial de personal."
+      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve a la Comandancia del Maelstrom e informa al oficial de personal."
     },
     {
       "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_SEQ_04",
