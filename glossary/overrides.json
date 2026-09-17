@@ -7,6 +7,19 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en": "Trials of the Braves", "es-es": "Pruebas de los Guerreros", "protect": false, "note": "Obra y misión de las armas del Zodiaco. Braves alude a los Guerreros del Zodiaco, no a los Valientes del Cristal."},
+    {"en": "Culling Time", "es-es": "Fase de Criba", "protect": false, "note": "Fase y estado perjudicial de The Feast."},
+    {"en": "Claws", "es-es": "Garras", "protect": false, "note": "Solo el equipo PvP. Con artículo: las Garras. No aplicar a nombres de habilidades u objetos."},
+    {"en": "Fangs", "es-es": "Colmillos", "protect": false, "note": "Solo el equipo PvP. Con artículo: los Colmillos. No aplicar a nombres de habilidades u objetos."},
+    {"en": "critical engagement", "es-es": "enfrentamiento crucial", "protect": false, "note": "Plural: enfrentamientos cruciales."},
+    {"en": "solo engagement", "es-es": "duelo", "protect": false, "note": "Encuentro individual de Bozja."},
+    {"en": "soul attunement", "es-es": "sintonización del alma", "protect": false, "note": "Proceso de mejora de las armas reliquia."},
+    {"en": "aetheric condensation", "es-es": "condensación de éter", "protect": false, "note": "Proceso de mejora de las armas anima."},
+    {"en": "aetherial condensation", "es-es": "condensación de éter", "protect": false, "note": "En el rótulo de mejora de las armas anima."},
+    {"en": "private chambers", "es-es": "aposentos privados", "protect": false, "note": "Vivienda de jugadores. Usar masculino plural, también para los aposentos de un solo propietario."},
+    {"en": "estate hall", "es-es": "casa", "protect": false, "note": "Edificio de una parcela residencial."},
+    {"en": "satisfaction", "es-es": "satisfacción", "protect": false, "note": "Indicador de las entregas personalizadas."},
+    {"en": "Fête", "es-es": "Fête", "protect": true, "note": "Evento especial del Firmamento."},
     {"en":"Memoriate","fr":"manieur de mémorias","ja":"メモリア使い","es-es":"memoriado","protect":false,"note":"Persona que domina el poder de los cristales de memoria. Femenino: memoriada; no confundir con el cristal."},
     {"en":"Spirit Vessel","fr":"conducteur spirituel","ja":"ソウル・サイフォン","es-es":"receptáculo espiritual","protect":false},
     {"en":"The First Brood","fr":"les dragons anciens","ja":"七大天竜","es-es":"la Primera Camada","protect":false,"note":"Los siete hijos de Midgardsormr; primera camada en prosa."},
@@ -4918,9 +4931,9 @@
       "en": "submersible",
       "fr": "",
       "ja": "",
-      "es-es": "sumergible",
+      "es-es": "submarino",
       "protect": false,
-      "note": "Decided in svc-16-01.notes.md. Single source; challenge it against the shipped corpus before reusing it widely. Translator's reasoning: company workshop -> el taller de su Free Company; resident caretakers -> los encargados de la zona residencial; company credits -> créditos de compañía; ceruleum -> ceruleum, \"ceruleum tanks\" (unwrapped) -> barriles de ceruleum; hull/stern/bow/bridge -> casco/popa/proa/puente; voyage log (unwrapped) -> el registro de la travesía; Rank -> Rango; Voyage complete -> Travesía completa."
+      "note": "Nombre del vehículo y de sus componentes, también en los menús del taller de compañía."
     },
     {
       "en": "the Duma",
@@ -5943,6 +5956,12 @@
       "es-es": "Cuaderno de caza",
       "protect": false,
       "note": "Igual que [[Gathering Log]], aunque el francés lo llame «bestiaire». Dos hojas escriben el mismo inglés y van con el mismo español: 討伐手帳, el de clase, y モブハント手帳, el de la Cacería."
+    },
+    {
+      "en": "vista",
+      "es-es": "punto de interés",
+      "protect": false,
+      "note": "Solo los puntos registrables del Cuaderno de exploración. Plural: puntos de interés. No aplicar a paisajes descriptivos, topónimos ni Prima Vista."
     },
     {
       "en": "Sightseeing Log",
