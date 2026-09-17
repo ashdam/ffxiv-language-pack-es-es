@@ -1,8 +1,8 @@
 {
   "conversation": "custom/001/CmnDefRelicWeapon025GetNote_00167",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_000", "hash": "FB79777DB78D605E", "target": "Deduzco que le interesa aprovechar mi oferta especial, ¿no? Y bien, ¿qué libro de Trials of the Braves quiere comprar?" },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_000", "hash": "FB79777DB78D605E", "target": "Deduzco que le interesa aprovechar mi oferta especial, ¿no? Y bien, ¿qué libro de las Pruebas de los Guerreros quiere comprar?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_TITLE", "hash": "29E97CC0D72C7DDD", "target": "¿Qué le interesa?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_CANCEL", "hash": "CD27457724F47B92", "target": "Nada." },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_MENU_MAIN", "hash": "8645D59BD50E9AA8", "target": "Los Libros de Fuego (aumentan <sheet(BaseParam,lnum1,1)>). Completados: <num(lnum2)> de <num(lnum3)>" },
@@ -25,7 +25,7 @@
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_060", "hash": "216AD2071E11DCC4", "target": "Espere... ¿No <italic(1)>acabo<italic(0)> de venderle un libro? Por mucho que me gustaría ofrecerle otro, una parte de mí siente que le haría un flaco favor. Véalo así: cuanto más tiene, ¡menos lo aprecia!" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_065", "hash": "2EFB953AB91FFE65", "target": "Debes completar todos los objetivos de un libro antes de poder comprar otro. Como alternativa, también puedes deshacerte de él hablando con G'jusana o a través del menú Objetos clave." },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_GJUSANA_000_070", "hash": "A16494D70CCA466F", "target": "Aquí lo tiene, el libro que tanto anhelaba. ¡No me cabe duda de que le dará horas y horas de entretenimiento! ¿Se han gastado alguna vez 100 <ennoun(Item,3,\u300028,2,1)> mejor que ahora? ¡Yo creo que no!" },
-    { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_075", "hash": "FCEA2D19483E5F3F", "target": "Has obtenido un libro de Trials of the Braves. Los objetivos que contiene pueden consultarse usando el objeto en el menú Objetos clave." },
+    { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_SYSTEM_000_075", "hash": "FCEA2D19483E5F3F", "target": "Has obtenido un libro de las Pruebas de los Guerreros. Los objetivos que contiene pueden consultarse usando el objeto en el menú Objetos clave." },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q", "hash": "5A48B4ED91DA27C2", "target": "¿Cambiar <kilo(lnum3,\\,)> <ennoun(Item,3,lnum2,2,1)> por <ennoun(EventItem,3,lnum1,1,1)>?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_Q2", "hash": "163907E82CBFF6C9", "target": "El arma que posees no se corresponde con tu progreso en las pruebas. ¿Deseas descartar <ennoun(EventItem,3,lnum1,1,1)> y comprar <ennoun(EventItem,3,lnum2,1,1)> por <kilo(lnum4,\\,)> <ennoun(Item,3,lnum3,2,1)>?" },
     { "gameKey": "custom/001/CmnDefRelicWeapon025GetNote_00167#TEXT_CMNDEFRELICWEAPON025GETNOTE_00167_NOTE_TRADE_YESNO_YES", "hash": "B6A0C7ACE6ED409A", "target": "Sí" },

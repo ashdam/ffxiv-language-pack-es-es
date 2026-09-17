@@ -1,6 +1,6 @@
 {
   "conversation": "quest/021/HeaVny806_02106",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_000", "hash": "C29BACD455B155D3", "target": "Disculpe, pero usted es <if(gnum4,la señora,el señor)> <split(<string(gstr1)>, ,2)>, ¿me equivoco?" },
     { "gameKey": "quest/021/HeaVny806_02106#TEXT_HEAVNY806_02106_TODO_ELOIN_000_001", "hash": "1B445DB3326B0171", "target": "¡Justo <if(gnum4,la mujer,el hombre)> que esperaba ver! Da la casualidad de que tengo una propuesta para usted." },
