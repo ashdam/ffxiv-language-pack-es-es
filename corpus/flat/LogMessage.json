@@ -1,6 +1,6 @@
 {
   "sheet": "LogMessage",
-  "gameVersion": "2026.09.01.0000.0000",
+  "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "LogMessage#1", "hash": "E5A6D527F6A03EB6", "target": "Invitas a <if([gstr1==gstr2],ti,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)> a tu grupo." },
     { "gameKey": "LogMessage#2", "hash": "B316C2A07A9209B9", "target": "La invitación al grupo enviada por <if([gstr1==gstr2],ti,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)> se ha cancelado." },
