@@ -5,12 +5,12 @@
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SEQ_00", "hash": "667FF623E44CCE9A", "target": "Wuk Lamat evalúa su entorno con sombría determinación." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_00", "hash": "DB4C481F718AB38A", "target": "Hablar con el encargado del montacargas" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_01", "hash": "DC1332D91E020F74", "target": "Volver a hablar con el encargado del montacargas" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_02", "hash": "7974E9EDF86AD08D", "target": "Buscar una security card en la sala común de los investigadores" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_02", "hash": "7974E9EDF86AD08D", "target": "Buscar una tarjeta de acceso en la sala común de los investigadores" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_03", "hash": "19C8CBD99664C673", "target": "Usar el objeto con forma de tarjeta en el lector" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_04", "hash": "8542D57AC594C1E9", "target": "Usar la Level 1 security card en el lector del despacho del director" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_04", "hash": "8542D57AC594C1E9", "target": "Usar la tarjeta de acceso de nivel 1 en el lector del despacho del director" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_05", "hash": "16F8C0F323D494E6", "target": "Hablar con Sphene" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_06", "hash": "3AF8FD0418577FC4", "target": "Examinar el teclado numérico de la taquilla e introducir la combinación correcta" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_07", "hash": "949C2C93A4D87C64", "target": "Usar la Level 2 security card en el lector del segundo laboratorio y el Mantenimiento" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_07", "hash": "949C2C93A4D87C64", "target": "Usar la tarjeta de acceso de nivel 2 en el lector del segundo laboratorio y el Mantenimiento" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_08", "hash": "C495EB02036E6855", "target": "Hablar con Gulool Ja" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_09", "hash": "2DE6FBA8710BCF26", "target": "Hablar con Shale" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_10", "hash": "D06F7C4D339F1A4A", "target": "Examinar los paneles de control y reconfigurar el trazado del circuito" },
@@ -244,7 +244,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_080",
       "hash": "4B0723B13C3B131F",
-      "target": "Y por si <italic(1)>no<italic(0)> puedo, quizá convenga que miréis por ahí a ver si alguien se dejó una tarjeta de seguridad."
+      "target": "Y por si <italic(1)>no<italic(0)> puedo, quizá convenga que miréis por ahí a ver si alguien se dejó una tarjeta de acceso."
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_081",
@@ -266,7 +266,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_095",
       "hash": "AA02B873927C9344",
-      "target": "Uf, los circuitos arcanos que usan aquí tienen décadas... Seguiré intentándolo, pero puede que una tarjeta de seguridad sea la única forma de pasar esta cerradura a corto plazo."
+      "target": "Uf, los circuitos arcanos que usan aquí tienen décadas... Seguiré intentándolo, pero puede que una tarjeta de acceso sea la única forma de pasar esta cerradura a corto plazo."
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_100",
@@ -290,14 +290,14 @@
     },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_116", "hash": "ECE15C9AF30D7C8B", "target": "Parece el único escritorio con los cajones ya abiertos. A simple vista se nota que su anterior dueño dejó atrás algunas cosas..." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_117", "hash": "DBBE40A086B3A5E6", "target": "¿Rebuscar en los cajones entreabiertos del escritorio?" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_120", "hash": "86F3D2EADE02627A", "target": "¡Descubres un objeto con forma de tarjeta! La superficie de electrope lleva marcado un llamativo “Level 1”." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_120", "hash": "86F3D2EADE02627A", "target": "¡Descubres un objeto con forma de tarjeta! La superficie de electrope lleva marcado un llamativo “Nivel 1”." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_121",
       "hash": "4A8FAE1157A2A553",
       "target": "Vaya, ¿podría ser eso lo que buscamos? ¡Pásala por el lector de la puerta a ver si se abre!"
     },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_122", "hash": "80287AED25DD90CE", "target": "Sobre el escritorio hay unos documentos en una pila desordenada. No encuentras ninguna security card oculta entre ellos..." },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_123", "hash": "90B0F6480C688C1D", "target": "En este tablón de anuncios siguen clavadas unas notas indescifrables, pero nada que se parezca a una security card..." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_122", "hash": "80287AED25DD90CE", "target": "Sobre el escritorio hay unos documentos en una pila desordenada. No encuentras ninguna tarjeta de acceso oculta entre ellos..." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_123", "hash": "90B0F6480C688C1D", "target": "En este tablón de anuncios siguen clavadas unas notas indescifrables, pero nada que se parezca a una tarjeta de acceso..." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_127", "hash": "F5BF1604F5C757CA", "target": "Escudriñas el interior de la papelera con la esperanza de hallar alguna basura con forma de tarjeta, pero parece estar vacía..." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_128",
@@ -307,7 +307,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_130",
       "hash": "031DB47BD2F2F473",
-      "target": "Eso parece una tarjeta de seguridad. ¡Veamos si funciona!"
+      "target": "Eso parece una tarjeta de acceso. ¡Veamos si funciona!"
     },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_129", "hash": "1B455569DB0C3823", "target": "Esta pequeña estantería contiene material de oficina y poco más digno de mención..." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_140", "hash": "CBD78081333EE984", "target": "Un lector. El objeto con forma de tarjeta que llevas parece de un tamaño similar al del panel del lector..." },
@@ -342,7 +342,7 @@
       "hash": "FEC9DB24026410A7",
       "target": "Entonces sigamos adelante. La puerta del despacho del director está al otro lado del núcleo central."
     },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_180", "hash": "EF941AE9891F85D1", "target": "Acercas la Level 1 security card... pero el lector pita en señal de rechazo." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_180", "hash": "EF941AE9891F85D1", "target": "Acercas la tarjeta de acceso de nivel 1... pero el lector pita en señal de rechazo." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_182",
       "hash": "447722B29BF5DE10",
@@ -461,7 +461,7 @@
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_140_250", "hash": "C2E11F51A57462C0", "target": "Aún no has introducido ningún número. Pulsa las teclas numéricas del teclado para introducir una combinación." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_150_250", "hash": "EFFE00BAB56F0580", "target": "La combinación que has introducido es incorrecta. Quizá <colortype(582)><edgecolortype(581)>hablar con tus camaradas<edgecolortype(0)><colortype(0)> aporte alguna <colortype(582)><edgecolortype(581)>pista numérica<edgecolortype(0)><colortype(0)> útil." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_160_250", "hash": "7B3B1CE2867BF5C8", "target": "¿Apartarte del teclado numérico?" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_170_250", "hash": "608C04D4631108AB", "target": "¡La taquilla se abre de golpe! Dentro descubres una Level 2 security card." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_170_250", "hash": "608C04D4631108AB", "target": "¡La taquilla se abre de golpe! Dentro descubres una tarjeta de acceso de nivel 2." },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_170_260", "hash": "7585729CE612965D", "target": "Entrada actual del teclado numérico: <string(lstr1)>" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_180_260", "hash": "E2CAC2ADCDD6C759", "target": "Has introducido <string(lstr1)> en el teclado numérico. ¿Será esta la combinación correcta...?" },
     {
@@ -472,7 +472,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_252",
       "hash": "6C1937E0283CDDC1",
-      "target": "¡Y has encontrado otra tarjeta de seguridad!"
+      "target": "¡Y has encontrado otra tarjeta de acceso!"
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_253",
@@ -547,9 +547,9 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_267",
       "hash": "469899067CF748E2",
-      "target": "Que, con suerte, cederá ante nuestra nueva tarjeta de seguridad. Si quieres, yo me quedo la vieja─dudo que volvamos a necesitarla."
+      "target": "Que, con suerte, cederá ante nuestra nueva tarjeta de acceso. Si quieres, yo me quedo la vieja─dudo que volvamos a necesitarla."
     },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_300", "hash": "936362B18A9F77C6", "target": "Un lector. Aguarda en silencio una security card con el nivel de autorización adecuado..." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_300", "hash": "936362B18A9F77C6", "target": "Un lector. Aguarda en silencio una tarjeta de acceso con el nivel de autorización adecuado..." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_301",
       "hash": "4F6FB934C13AFDEC",
@@ -593,7 +593,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_340",
       "hash": "EB3E443C24F75F12",
-      "target": "Así que esta sala servía para gestionar el suministro eléctrico y los servicios. Ojalá guardaran aquí también tarjetas de seguridad..."
+      "target": "Así que esta sala servía para gestionar el suministro eléctrico y los servicios. Ojalá guardaran aquí también tarjetas de acceso..."
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_345",
@@ -713,7 +713,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_KRILE_000_390",
       "hash": "00E69DEDCFD1AC96",
-      "target": "Tampoco he tenido suerte localizando más tarjetas de seguridad. Me temo que tendremos que confiar en la estrategia de la energía de reserva."
+      "target": "Tampoco he tenido suerte localizando más tarjetas de acceso. Me temo que tendremos que confiar en la estrategia de la energía de reserva."
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_395",
@@ -901,7 +901,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_000_481",
       "hash": "2B4A5F34484C8616",
-      "target": "La tarjeta de seguridad, por favor. Ah, y una oración rápida para que un cortocircuito no me achicharre por dentro."
+      "target": "La tarjeta de acceso, por favor. Ah, y una oración rápida para que un cortocircuito no me achicharre por dentro."
     }
   ]
 }

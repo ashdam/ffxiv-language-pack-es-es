@@ -2837,7 +2837,7 @@
     { "gameKey": "Addon#3214", "hash": "7B49D9371D447C22", "target": "<icon2(12)>" },
     { "gameKey": "Addon#3215", "hash": "1EFE244EBE0E8722", "target": "<icon2(23)> Desplazar  <icon2(12)>+<icon2(23)> Zoom  <icon2(13)> Teletransportarte" },
     { "gameKey": "Addon#3216", "hash": "69584A87C8D878CC", "target": "<if(lnum3,<switch(lnum3,<icon(68)>,<icon(67)>,<icon(120)>,<icon(123)>,<icon(63)>,<icon(121)>,<icon(122)>,<icon(184)>)>,)><sheet(PlaceName,<sheet(Aetheryte,lnum1,8)>,0)><br>(<kilo(lnum2,\\,)>\uE049)  " },
-    { "gameKey": "Addon#3217", "hash": "6FC9C1038EA21D6B", "target": "¿Teletransportarte a <if(lnum3,<switch(lnum3,<icon(68)>,<icon(67)>,<icon(120)>,<icon(123)>,<icon(63)>,<icon(121)>,<icon(122)>,<icon(184)>)>,)><ennoun(PlaceName,3,<sheet(Aetheryte,lnum1,8)>,2,1)> por <kilo(lnum2,\\,)> gil?<br>※Esta tarifa no se cobra si usas un aetheryte ticket." },
+    { "gameKey": "Addon#3217", "hash": "6FC9C1038EA21D6B", "target": "¿Teletransportarte a <if(lnum3,<switch(lnum3,<icon(68)>,<icon(67)>,<icon(120)>,<icon(123)>,<icon(63)>,<icon(121)>,<icon(122)>,<icon(184)>)>,)><ennoun(PlaceName,3,<sheet(Aetheryte,lnum1,8)>,2,1)> por <kilo(lnum2,\\,)> gil?<br>※Esta tarifa no se cobra si usas un billete de eterita." },
     { "gameKey": "Addon#3218", "hash": "05B04C591B7E007B", "target": "<sheet(PlaceName,<sheet(Aetheryte,lnum1,8)>,0)><br>Sin sintonizar" },
     { "gameKey": "Addon#3219", "hash": "276F2E0E7A5AFC7E", "target": "<if(lnum3,<switch(lnum3,<icon(68)>,<icon(67)>,<icon(120)>,<icon(123)>,<icon(63)>,<icon(121)>,<icon(122)>,<icon(184)>)>,)><sheet(PlaceName,<sheet(Aetheryte,lnum1,8)>,0)>" },
     { "gameKey": "Addon#3220", "hash": "BD4848BE49E457B0", "target": "PV" },

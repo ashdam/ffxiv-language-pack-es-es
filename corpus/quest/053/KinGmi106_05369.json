@@ -3,9 +3,9 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SEQ_00", "hash": "D735938A23317C29", "target": "Shale examina el lector de tarjetas." },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_00", "hash": "3E2A4CB964C6D457", "target": "Buscar una Level 3 security card" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_00", "hash": "3E2A4CB964C6D457", "target": "Buscar una tarjeta de acceso de nivel 3" },
     { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_01", "hash": "F41A4D487B5C1D77", "target": "Hablar con Shale" },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_02", "hash": "5902FB14EDA051A2", "target": "Usar la Level 3 security card en el lector del despacho del director" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_02", "hash": "5902FB14EDA051A2", "target": "Usar la tarjeta de acceso de nivel 3 en el lector del despacho del director" },
     { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_03", "hash": "AE7A4F7D0CDF29F4", "target": "Hablar con Shale" },
     { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_04", "hash": "5DD44A57C44E05B7", "target": "Recabar información en el despacho del director" },
     { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_TODO_05", "hash": "14F35E6A68B32D03", "target": "Entregar la crumpled note a Shale" },
@@ -100,7 +100,7 @@
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_032",
       "hash": "6D3E70F47764FC2C",
-      "target": "A mí también me pican muchas cosas, pero lo prioritario es localizar a Calyx. Ojalá haya aquí una tarjeta de seguridad que dé acceso al despacho del director..."
+      "target": "A mí también me pican muchas cosas, pero lo prioritario es localizar a Calyx. Ojalá haya aquí una tarjeta válida para acceder al despacho del director..."
     },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_033",
@@ -130,26 +130,26 @@
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_055",
       "hash": "B18C026B7D094919",
-      "target": "Si esas cámaras son indicio de algo, este laboratorio estaba bajo vigilancia constante. Revisaré las grabaciones para ver dónde dejaba la gente sus tarjetas. Quizá tengamos suerte."
+      "target": "Si esas cámaras son indicio de algo, este laboratorio estaba bajo vigilancia constante. Revisaré las grabaciones para ver dónde dejaba la gente sus tarjetas de acceso. Quizá tengamos suerte."
     },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_GULOOLJA_000_060",
       "hash": "117AFD938B660D26",
       "target": "¿Por qué fabricaban tantos receptáculos? ¿Es que los otros no funcionaban bien?"
     },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_070", "hash": "5D409F48BFEDBD4F", "target": "¡Encuentras una security card en el cajón del armario!" },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_070", "hash": "5D409F48BFEDBD4F", "target": "¡Encuentras una tarjeta de acceso en el cajón del armario!" },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_071",
       "hash": "FD6E8E811F98C83F",
-      "target": "Ah, ¿acabas de encontrar una tarjeta de seguridad? Vaya golpe de suerte."
+      "target": "Ah, ¿acabas de encontrar una tarjeta de acceso? Vaya golpe de suerte."
     },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_KRILE_000_072",
       "hash": "00DA2E54A5431C7A",
       "target": "¡Que Shale la examine, por si acaso!"
     },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_074", "hash": "4A56B6C577956281", "target": "Esta única caja de almacenaje está llena de carpetas de documentos y otros objetos varios... ninguno de los cuales es una security card." },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_075", "hash": "734E7457642D0E36", "target": "Esta estantería de aspecto robusto sostiene una caja de almacenaje y unos barriles sellados. Ni rastro de security cards..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_074", "hash": "4A56B6C577956281", "target": "Esta única caja de almacenaje está llena de carpetas de documentos y otros objetos varios... ninguno de los cuales es una tarjeta de acceso." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_075", "hash": "734E7457642D0E36", "target": "Esta estantería de aspecto robusto sostiene una caja de almacenaje y unos barriles sellados. Ni rastro de tarjetas de acceso..." },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_080",
       "hash": "440EF4F9C96DC8A1",
@@ -335,8 +335,8 @@
       "hash": "FDDF353524B03763",
       "target": "¡Al despacho del director!"
     },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_140", "hash": "77FB328E42E83442", "target": "Un lector. Aguarda en silencio una security card con el nivel de autorización adecuado..." },
-    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_141", "hash": "4F1FDE8B92DE1E26", "target": "Acercas la Level 3 security card al lector." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_140", "hash": "77FB328E42E83442", "target": "Un lector. Aguarda en silencio una tarjeta de acceso con el nivel de autorización adecuado..." },
+    { "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SYSTEM_000_141", "hash": "4F1FDE8B92DE1E26", "target": "Acercas la tarjeta de acceso de nivel 3 al lector." },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_WUKLAMAT_000_142",
       "hash": "A1B9E647ED73071F",
@@ -350,7 +350,7 @@
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_SHALE_000_144",
       "hash": "F0EEF3C14A378A4E",
-      "target": "<split(<string(gstr1)>, ,1)>, ven conmigo. Puede que necesite esa tarjeta de seguridad."
+      "target": "<split(<string(gstr1)>, ,1)>, ven conmigo. Puede que necesite esa tarjeta de acceso."
     },
     {
       "gameKey": "quest/053/KinGmi106_05369#TEXT_KINGMI106_05369_ORIGINALSPHENE_000_145",
