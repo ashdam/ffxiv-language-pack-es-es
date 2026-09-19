@@ -7,6 +7,12 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"A Realm Reborn","es-es":"A Realm Reborn","protect":true,"note":"Nombre de expansión."},
+    {"en":"Heavensward","es-es":"Heavensward","protect":true,"note":"Nombre de expansión."},
+    {"en":"Stormblood","es-es":"Stormblood","protect":true,"note":"Nombre de expansión."},
+    {"en":"Shadowbringers","es-es":"Shadowbringers","protect":true,"note":"Nombre de expansión."},
+    {"en":"Endwalker","es-es":"Endwalker","protect":true,"note":"Nombre de expansión."},
+    {"en":"Dawntrail","es-es":"Dawntrail","protect":true,"note":"Nombre de expansión."},
     {"en": "Trials of the Braves", "es-es": "Pruebas de los Guerreros", "protect": false, "note": "Obra y misión de las armas del Zodiaco. Braves alude a los Guerreros del Zodiaco, no a los Valientes del Cristal."},
     {"en": "Culling Time", "es-es": "Fase de Criba", "protect": false, "note": "Fase y estado perjudicial de The Feast."},
     {"en": "Claws", "es-es": "Garras", "protect": false, "note": "Solo el equipo PvP. Con artículo: las Garras. No aplicar a nombres de habilidades u objetos."},
@@ -6087,11 +6093,34 @@
       "es-es": "Tutoriales",
       "protect": false
     },
+
+    {
+      "en": "Cross Hotbar",
+      "fr": "Croix de raccourcis",
+      "ja": "クロスホットバー",
+      "es-es": "Cross Hotbar",
+      "protect": true
+    },
+    {
+      "en": "Pet Hotbar",
+      "fr": "Barre spéciale (familier)",
+      "ja": "EXホットバー",
+      "es-es": "barra de mascota",
+      "protect": false
+    },
+    {
+      "en": "Minion Hotbar",
+      "fr": "Barre de raccourcis de mascotte",
+      "ja": "ミニオンホットバー",
+      "es-es": "barra de mascota",
+      "protect": false
+    },
     {
       "en": "Hotbar Settings",
       "ja": "ホットバー設定",
       "es-es": "Barras de acción",
-      "protect": false
+      "protect": false,
+      "note": "Hotbar aislado se traduce como «barra de acción» o «barra», según el contexto."
     },
     {
       "en": "Companion",
@@ -6107,8 +6136,16 @@
       "ja": "テレポ",
       "es-es": "Teletransporte",
       "protect": false,
-      "note": "La habilidad y la entrada del menú. ASIMÉTRICO A PROPÓSITO CON `Return`, QUE SE QUEDA EN INGLÉS: son dos habilidades distintas —Return vuelve gratis a la eterita vinculada, Teleport lleva a cualquiera pagando gil— y el juego inserta `Return` él mismo desde una hoja que el pack no sirve, así que traducirlo no llegaría a pantalla. Tres guías de eterita preguntan «¿Qué diferencia hay entre Return y Teletransporte?» y eso es lo correcto. `Teleport Offer` es otro botón, de `Addon`, y sigue sin decidir."
+      "note": "La habilidad y la entrada del menú. Return se conserva en inglés porque el pack no sirve su etiqueta."
     },
+    {
+      "en": "Teleport Offer",
+      "fr": "Offre de téléportation",
+      "ja": "テレポ勧誘",
+      "es-es": "Oferta de teletransporte",
+      "protect": false
+    },
+
     {
       "en": "Wing of Reflection",
       "fr": "ministère de la Raison",
