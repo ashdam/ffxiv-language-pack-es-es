@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_01",
       "hash": "256EFB28F46CC6C6",
-      "target": "Ahora que todos los miembros de la partida de inspección de la Aduana de Mealvaan están reunidos e informados, la inspectora K'lyhia está lista para partir. Reúnete con la inspectora y los mercenarios a las afueras de Puerto Ale y prepárate para abordar el buque mercante <italic(1)>Estrella del Alba<italic(0)>."
+      "target": "Ahora que todos los miembros de la partida de inspección de la Aduana de Mealvaan están reunidos e informados, la inspectora K'lyhia está lista para partir. Reúnete con la inspectora y los mercenarios a las afueras de Puertocerveza y prepárate para abordar el buque mercante <italic(1)>Estrella del Alba<italic(0)>."
     },
     {
       "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_SEQ_02",
@@ -40,7 +40,7 @@
     {
       "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_00",
       "hash": "581172339A19EA2A",
-      "target": "Hablar con K'lyhia a las afueras de Puerto Ale"
+      "target": "Hablar con K'lyhia a las afueras de Puertocerveza"
     },
     {
       "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_TODO_01",
@@ -66,10 +66,10 @@
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_THUBYRGEIM_000_001", "hash": "5B9CF1FF8B14E8B4", "target": "Ambos son veteranos a la hora de escoltar a K'lyhia en sus deberes más peligrosos." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_GEISSFRYN_000_002", "hash": "DA90C843F26D0974", "target": "Bien hallad<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. Mis hechizos están a tu disposición." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_AERSTHOTA_000_003", "hash": "A5E4EBCF10B17502", "target": "No va a ser la primera vez que esperamos jaleo, pero mientras sigamos las tácticas de la inspectora ─y mantengamos la cabeza fría─, saldremos bien parados." },
-    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_004", "hash": "694BA6FDCF957C71", "target": "El <italic(1)>Estrella del Alba<italic(0)> se dispone a atracar en Puerto Ale. No obstante, afrontaremos nuestro prrrimer reto antes incluso de subir a bordo." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_004", "hash": "694BA6FDCF957C71", "target": "El <italic(1)>Estrella del Alba<italic(0)> se dispone a atracar en Puertocerveza. No obstante, afrontaremos nuestro prrrimer reto antes incluso de subir a bordo." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_005", "hash": "79C3A2A09492C550", "target": "Es casi seguro que el “barco mercante” ha contratado a uno o dos matones para abordarnos en el muelle: calculo la prrrobabilidad en un 98 %. Verás, la tripulación quiere evitar atacarnos en cubierta, pues eso sería casi pregonar sus intenciones criminales a los cuatro vientos." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_006", "hash": "6AA51083E9E1F228", "target": "Ahora bien, una vez logremos franquear las barandillas, nos toparemos con una cubierta abarrotada de marineros armados. Para un grupo pequeño como el nuestro, la estrategia más eficaz será incapacitar a los enemigos de uno en uno lo más rápido posible: cada adversario que derribemos es un arma menos alzada contra nosotros. Es imperativo que no nos dejemos enredar en múltiples escaramuzas prolongadas, no sea que nos veamos desbordados. A esto lo llamo la “Táctica Martillazo”." },
-    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_007", "hash": "0EEE4A7A00136BC5", "target": "“La estrrrategia es una herramienta para moldear la propia situación hasta convertirla en la realidad deseada.” Ten presentes esas palabras, <split(<string(gstr1)>, ,1)>. Es hora de partir: reagrupémonos ante las puertas principales de Puerto Ale." },
+    { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_007", "hash": "0EEE4A7A00136BC5", "target": "“La estrrrategia es una herramienta para moldear la propia situación hasta convertirla en la realidad deseada.” Ten presentes esas palabras, <split(<string(gstr1)>, ,1)>. Es hora de partir: reagrupémonos ante las puertas principales de Puertocerveza." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_010", "hash": "6268A85B79584AF9", "target": "Manos a la obrrra. <split(<string(gstr1)>, ,1)>, te ruego que informes al timonel del muelle de que estamos listos para efectuar nuestra inspección." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_011", "hash": "C8DAE9F3A78777A5", "target": "Si se recurre a la violencia, deberás ejecutar la Táctica Martillazo. No lo olvides: tus tácticas son a la vez tu escudo y tu arma." },
     { "gameKey": "quest/004/ClsAcn150_00458#TEXT_CLSACN150_00458_KLYHIA_000_012", "hash": "7302DE04D596A0FE", "target": "Por favor, informa al timonel del muelle de nuestra llegada. Toda agresión debe repelerse con la Táctica Martillazo." },
