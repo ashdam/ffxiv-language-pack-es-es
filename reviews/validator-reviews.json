@@ -8712,6 +8712,30 @@
       "gameKey": "custom/009/CtsWks72MoongateHub_00934#TEXT_CTSWKS72MOONGATEHUB_00934_A1_000_001",
       "hash": "05A85EE24BD9D494",
       "why": "The NPC uses formal address throughout this conversation."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnRadEnterCopperbellMines_00078#TEXT_CMNRADENTERCOPPERBELLMINES_00078_Q1_1",
+      "hash": "9EF1E67BA0344555",
+      "why": "The guard uses a direct informal request at the dungeon entrance."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnRadEnterShposhae_00077#TEXT_CMNRADENTERSHPOSHAE_00077_Q1_1",
+      "hash": "C1A00687CFA65986",
+      "why": "The guard uses a direct informal request at the dungeon entrance."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/001/ComDefFreeCompanyCrest_00101#TEXT_COMDEFFREECOMPANYCREST_00101_TALK_ACTOR_Q1",
+      "hash": "482573D5DCB4CE0F",
+      "why": "The officer uses a formal service prompt."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/001/ComDefFreeCompanyReward_00100#TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q",
+      "hash": "4C6B70D22FE74965",
+      "why": "The officer uses a formal service prompt."
     }
   ]
 }
