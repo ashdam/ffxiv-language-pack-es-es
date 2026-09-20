@@ -31,6 +31,8 @@
     {"en":"The First Brood","fr":"les dragons anciens","ja":"七大天竜","es-es":"la Primera Camada","protect":false,"note":"Los siete hijos de Midgardsormr; primera camada en prosa."},
     {"en":"Garlean Empire","fr":"empire de Garlemald","ja":"ガレマール帝国","es-es":"Imperio garleano","protect":false},
     {"en":"Aether Compass","es-es":"brújula de éter","protect":false,"note":"Nombre de la herramienta y sus referencias en las instrucciones."},
+    {"en":"Chaotic Alliance Raid","es-es":"Raids caóticas","protect":false},
+    {"en":"Raid Finder","es-es":"Buscador de raids","protect":false},
     {"en":"The Unending Codex","es-es":"El Códice Interminable","protect":false},
     {"en":"somanoutics","es-es":"somanóutica","protect":false},
     {"en":"Mogpendium","es-es":"Mogpendium","protect":true},
@@ -4627,7 +4629,7 @@
       "ja": "",
       "es-es": "Sincronización de nivel",
       "protect": false,
-      "note": "Hermano de [[Quest Sync]] y con su misma forma. La opción del Buscador de Contenido es «Nivel sincronizado»: ahí nombra el ajuste, aquí el fenómeno."
+      "note": "Hermano de [[Quest Sync]] y con su misma forma. La opción del Buscador de contenido es «Nivel sincronizado»: ahí nombra el ajuste, aquí el fenómeno."
     },
     {"en":"Chocobokeep","fr":"","ja":"","note":"El PNJ del mostrador de [[chocobo porter]]. NO CONFUNDIR CON `stablehand`, que es «mozo de cuadra» y es otro oficio. El nombre que el jugador lee sobre el bocadillo sale de `ENpcResident`, hoja que no se extrae, así que ahí seguirá en inglés.","es-es":"Cuidador de Chocobos","protect":false},
     {
@@ -5034,7 +5036,7 @@
       "ja": "",
       "es-es": "misión",
       "protect": false,
-      "note": "TWO RENDERINGS THAT LOOK LIKE DRIFT AND ARE NOT — measured 17 August 2026 over the 44 delivered Addon rows whose English carries the word. «contenido» appears in 15 of them and ALL FIFTEEN are the window's proper name, «Buscador de Contenido» / «Ajustes del Buscador de Contenido», fixed at 378 rows. The other 26 are the thing itself and say «misión». The two sit inside the SAME SENTENCES, which is the proof rather than a coincidence: «Leave current duty» -> «Salir de la misión actual», and «Current Duty Finder settings are only available for duties you have already completed» -> «Los ajustes del Buscador de Contenido solo permiten participar en misiones que ya...». SO: `Duty Finder` is a proper name and keeps «Contenido»; a duty is «una misión». Do not sweep one into the other — a translator meeting the 378 «Contenido» rows first will reasonably conclude the opposite, which is exactly why this is written down. Related: `Duty Ready` -> «Misión preparada», `Duty: <x>` -> «Misión: <x>»."
+      "note": "TWO RENDERINGS THAT LOOK LIKE DRIFT AND ARE NOT — measured 17 August 2026 over the 44 delivered Addon rows whose English carries the word. «contenido» appears in 15 of them and ALL FIFTEEN are the window's proper name, «Buscador de contenido» / «Ajustes del Buscador de contenido», fixed at 378 rows. The other 26 are the thing itself and say «misión». The two sit inside the SAME SENTENCES, which is the proof rather than a coincidence: «Leave current duty» -> «Salir de la misión actual», and «Current Duty Finder settings are only available for duties you have already completed» -> «Los ajustes del Buscador de contenido solo permiten participar en misiones que ya...». SO: `Duty Finder` is a proper name and keeps «Contenido»; a duty is «una misión». Do not sweep one into the other — a translator meeting the 378 «Contenido» rows first will reasonably conclude the opposite, which is exactly why this is written down. Related: `Duty Ready` -> «Misión preparada», `Duty: <x>` -> «Misión: <x>»."
     },
     {
       "en": "Durai Papers",
@@ -5210,11 +5212,11 @@
     {
       "en": "Duty Finder",
       "ja": "CONTENTS FINDER / コンテンツファインダー",
-      "note": "TRADUCIDO el 15 de agosto de 2026, en pareja con «Party Finder» -> «Buscador de Grupo»: son ventanas hermanas y no pueden estar una en cada idioma. La forma se corrigió el 16 de agosto, de «Buscador de Misiones» a «Buscador de Contenido», por dos razones. UNA: es el nombre original. El japonés de Addon#2500 es «CONTENTS FINDER» y la hoja interna se llama ContentFinderCondition; «Duty Finder» es la etiqueta inglesa y el resto de versiones no la siguen. El francés dice «Outil de mission», pero es el único de los tres. DOS: quita una ambigüedad. En el corpus «quest» es «misión» en 3.537 filas, así que «Buscador de Misiones» se lee como un buscador de misiones de la historia, que es lo contrario de lo que hace; «contenido» ya se usa 158 veces y no choca. Barrido en 356 filas: la prosa, el título de ventana (Addon#2500 y #2832) y la entrada del menú principal (MainCommand#33.5).",
-      "es-es": "Buscador de Contenido",
+      "note": "TRADUCIDO el 15 de agosto de 2026, en pareja con «Party Finder» -> «Buscador de Grupo»: son ventanas hermanas y no pueden estar una en cada idioma. La forma se corrigió el 16 de agosto, de «Buscador de Misiones» a «Buscador de contenido», por dos razones. UNA: es el nombre original. El japonés de Addon#2500 es «CONTENTS FINDER» y la hoja interna se llama ContentFinderCondition; «Duty Finder» es la etiqueta inglesa y el resto de versiones no la siguen. El francés dice «Outil de mission», pero es el único de los tres. DOS: quita una ambigüedad. En el corpus «quest» es «misión» en 3.537 filas, así que «Buscador de Misiones» se lee como un buscador de misiones de la historia, que es lo contrario de lo que hace; «contenido» ya se usa 158 veces y no choca. Barrido en 356 filas: la prosa, el título de ventana (Addon#2500 y #2832) y la entrada del menú principal (MainCommand#33.5).",
+      "es-es": "Buscador de contenido",
       "fr": "Mission en cours"
     },
-    {"en":"Party Finder","ja":"パーティ募集","note":"Buscador de Grupo. No confundir con Duty Finder, Buscador de Contenido.","es-es":"Buscador de Grupo","fr":"Recherche de groupe"},
+    {"en":"Party Finder","ja":"パーティ募集","note":"Buscador de Grupo. No confundir con Duty Finder, Buscador de contenido.","es-es":"Buscador de Grupo","fr":"Recherche de groupe"},
     {
       "en": "Friend List",
       "ja": "フレンドリスト",
@@ -5907,7 +5909,7 @@
     },
     {
       "en": "Duty Finder",
-      "es-es": "Buscador de Contenido",
+      "es-es": "Buscador de contenido",
       "protect": false,
       "note": "395 filas ya lo decían antes de fijarlo."
     },
