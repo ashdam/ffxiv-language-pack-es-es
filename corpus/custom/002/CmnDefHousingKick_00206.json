@@ -7,7 +7,7 @@
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_000", "hash": "DFFA5288D59D71F0", "target": "No hay bienes abandonados que reclamar." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_001_001", "hash": "AE832BBC06AD4454", "target": "No puedes reclamar los bienes de una finca abandonada en este momento. Confirma que tienes la autorización para comprar y ceder terrenos en nombre de tu Free Company." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_000", "hash": "9606D0DA1425AEC0", "target": "Otro jugador está reclamando bienes abandonados en este momento. Inténtalo de nuevo más tarde." },
-    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_001", "hash": "8DA33E64B4B7948D", "target": "No puedes reclamar los bienes de una finca abandonada en este momento. Confirma que tienes la autorización para comprar y ceder terrenos en nombre de tu Free Company y que el oficial de vivienda custodia algún objeto." },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_002_001", "hash": "8DA33E64B4B7948D", "target": "No puedes reclamar los bienes de una finca abandonada en este momento. Confirma que tienes la autorización para comprar y ceder terrenos en nombre de tu Free Company y que el encargado de viviendas custodia algún objeto." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_003_000", "hash": "40D5CE57DD711CF4", "target": "La indemnización de esta finca ya ha sido reclamada." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_SYSTEM_003_001", "hash": "B13EA3E18DD570A9", "target": "No se puede reclamar la indemnización. No puedes llevar más gil." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_TALK00206_000_000", "hash": "B00F233762963FC3", "target": "Ah, <if(gnum4,señorita,señor)> <split(<string(gstr1)>, ,2)>. Mi más sentido pésame. Presumo que desea tratar el asunto de su propiedad." },
@@ -20,7 +20,7 @@
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_001", "hash": "FDA064F8D1A869DF", "target": "Reclamar la indemnización (<kilo(lnum1,\\,)> gil)." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_002", "hash": "4EF23B7248E7D4C7", "target": "Reclamar bienes abandonados." },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A2_000_003", "hash": "87C2EB569B6B90B8", "target": "Nada." },
-    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_Q3_000_000", "hash": "DE4176B541DBE8DE", "target": "El gil reclamado al oficial de vivienda no puede devolverse bajo ninguna circunstancia.<br>¿Seguro que deseas reclamar <kilo(lnum1,\\,)> gil?" },
+    { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_Q3_000_000", "hash": "DE4176B541DBE8DE", "target": "El gil reclamado al encargado de viviendas no puede devolverse bajo ninguna circunstancia.<br>¿Seguro que deseas reclamar <kilo(lnum1,\\,)> gil?" },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A3_000_001", "hash": "34EFF579F6435ECC", "target": "Sí" },
     { "gameKey": "custom/002/CmnDefHousingKick_00206#TEXT_CMNDEFHOUSINGKICK_00206_A3_000_002", "hash": "C593EF111F487136", "target": "No" }
   ]
