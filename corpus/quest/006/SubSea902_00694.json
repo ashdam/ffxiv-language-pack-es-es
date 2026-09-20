@@ -2,10 +2,10 @@
   "conversation": "quest/006/SubSea902_00694",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_00", "hash": "58B6955697B22B20", "target": "Orwen, el representante del Gremio de Aventureros para los encargos de gremio locales en Puerto Ale, busca a un aventurero que realice encargos de gremio." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_00", "hash": "58B6955697B22B20", "target": "Orwen, el representante del Gremio de Aventureros para los encargos de gremio locales en Puertocerveza, busca a un aventurero que realice encargos de gremio." },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_01", "hash": "AD10650EB7CD3642", "target": "Para calibrar tu capacidad de completar los diversos encargos de gremio que ofrece, Orwen exige que lleves a cabo una tarea preliminar." },
-    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_02", "hash": "44E108462660F902", "target": "Has completado con éxito el encargo de gremio de prueba. Preséntate ante Orwen en Puerto Ale." },
-    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_03", "hash": "756214CAB39CCF8C", "target": "Orwen confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores de Puerto Ale. Demuestra tu valía como aventurero y sigue realizando los encargos de gremio que ofrece." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_02", "hash": "44E108462660F902", "target": "Has completado con éxito el encargo de gremio de prueba. Preséntate ante Orwen en Puertocerveza." },
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_SEQ_03", "hash": "756214CAB39CCF8C", "target": "Orwen confía ahora en que eres capaz de afrontar cualquiera de las pruebas y adversidades que puedas encontrar por los alrededores de Puertocerveza. Demuestra tu valía como aventurero y sigue realizando los encargos de gremio que ofrece." },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_00", "hash": "83C666F33D015CA6", "target": "Completar el encargo de gremio de prueba de Orwen" },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_TODO_01", "hash": "E6BE1C3BBE961CCE", "target": "Informar a Orwen" },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_1", "hash": "8202653A0A9E6D81", "target": "¿Necesitas trabajo, <if(gnum4,muchacha,muchacho)>? Me llamo Orwen y soy representante del Gremio de Aventureros. ¿Ves el sombrero?" },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_15", "hash": "0FC61E9F4BEA3664", "target": "¿Has completado la tarea? Entonces solo te queda recoger tu recompensa." },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_20", "hash": "A89E79DB186ACA24", "target": "¿Con que has empezado mi encargo de gremio de prueba? Buena suerte, <if(gnum4,muchacha,muchacho)>." },
     { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_25", "hash": "9DC35BAA408FC765", "target": "Sí, me parece que eres lo bastante duro para completar el resto de mis encargos." },
-    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_26", "hash": "D5A35C8B87BD9B12", "target": "Puerto Ale es un importante centro de comercio de la región, y no faltan tareas por hacer. Tengo ganas de verte marcar la diferencia aquí, aventurero." }
+    { "gameKey": "quest/006/SubSea902_00694#TEXT_SUBSEA902_00694_ORWEN_000_26", "hash": "D5A35C8B87BD9B12", "target": "Puertocerveza es un importante centro de comercio de la región, y no faltan tareas por hacer. Tengo ganas de verte marcar la diferencia aquí, aventurero." }
   ]
 }
