@@ -1,0 +1,100 @@
+{
+  "schemaVersion": 1,
+  "reviews": [
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefCabinet_00082#TEXT_CMNDEFCABINET_00082_YESNO_A3",
+      "hash": "36B7E57B3E3A547E",
+      "why": "Nada. leaves the cabinet menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefInnBed_00020#TEXT_CMNDEFINNBED_00020_A1",
+      "hash": "936F94FCB1ADA4C1",
+      "why": "Nada. returns to the game without another action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_1",
+      "hash": "E58A0B6DC2C2D6FA",
+      "why": "The answer matches the inn exit confirmation."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefInnDoor_00021#TEXT_CMNDEFINNDOOR_00021_A1_000_2",
+      "hash": "E3AC52D2F41D17CD",
+      "why": "The answer matches the inn exit confirmation."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefLinkShell_00006#TEXT_CMNDEFLINKSHELL_00006_GUIDEMENU_A8_000_1",
+      "hash": "6F7BA0C1059A1179",
+      "why": "Nada. leaves the linkshell menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefLinkShell_00006#TEXT_CMNDEFLINKSHELL_00006_MAINMENU_A4_000_1",
+      "hash": "6BEC72442104E9D7",
+      "why": "Nada. leaves the linkshell menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefLinkShell_00006#TEXT_CMNDEFLINKSHELL_00006_PROCEDUREMENU_A5_000_1",
+      "hash": "3656E174C66D859D",
+      "why": "Nada. leaves the linkshell menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A1_000_3",
+      "hash": "BCD747D88091038F",
+      "why": "Nada. leaves the rental menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_1",
+      "hash": "1E7ED321BB86FE59",
+      "why": "The answer matches the rental confirmation."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefRentalChocobo_00012#TEXT_CMNDEFRENTALCHOCOBO_00012_A2_000_2",
+      "hash": "9F6D4235F142B432",
+      "why": "The answer matches the rental confirmation."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDefTemporaryBag_00083#TEXT_CMNDEFTEMPORARYBAG_00083_TALK_A1",
+      "hash": "DB5C7B4C0657DC8A",
+      "why": "Sí, así es. answers the question about reclaiming belongings."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00001",
+      "hash": "3AE993C4747BA8BE",
+      "why": "The guard asks the player to state their purpose."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnDunEnterTamtara_00014#TEXT_CMNDUNENTERTAMTARA_00014_SCENE00004",
+      "hash": "C01681B8DFD8568A",
+      "why": "Nada. leaves the entrance menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnRadEnterBowlofEmbers_00081#TEXT_CMNRADENTERBOWLOFEMBERS_00081_A1_3",
+      "hash": "F5F8613640C49628",
+      "why": "Nada. leaves the entrance menu without an action."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/000/CmnRadEnterBowlofEmbers_00081#TEXT_CMNRADENTERBOWLOFEMBERS_00081_Q1_1",
+      "hash": "29E483245F90AC62",
+      "why": "The guard asks the player to state their purpose."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "custom/009/CtsWks72MoongateHub_00934#TEXT_CTSWKS72MOONGATEHUB_00934_A1_000_001",
+      "hash": "0A33594BFC554E9C",
+      "why": "The NPC uses formal address throughout this conversation."
+    }  ]
+}
