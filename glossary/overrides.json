@@ -7,6 +7,7 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"item level","fr":"niveau d’objet","ja":"アイテムレベル","es-es":"nivel de objeto","protect":false,"note":"En etiquetas compactas y nombres: NvO. «Average item level»: nivel de objeto medio. No usar IL."},
     {"en":"A Realm Reborn","es-es":"A Realm Reborn","protect":true,"note":"Nombre de expansión."},
     {"en":"Heavensward","es-es":"Heavensward","protect":true,"note":"Nombre de expansión."},
     {"en":"Stormblood","es-es":"Stormblood","protect":true,"note":"Nombre de expansión."},
@@ -4656,6 +4657,7 @@
       "protect": false,
       "note": "Coined 8 August 2026. A Lominsan pirate company."
     },
+    {"en":"Lominsan","fr":"limséen","ja":"リムサ・ロミンサの","es-es":"de Limsa Lominsa","protect":false,"note":"Adjetivo relacional. Para personas: habitante o habitantes de Limsa Lominsa."},
     {
       "en": "Gridanian",
       "fr": "",
@@ -7065,9 +7067,9 @@
       "en": "arcanite",
       "fr": "",
       "ja": "",
-      "es-es": "arcanite",
+      "es-es": "arcanita",
       "protect": false,
-      "note": "KEPT ENGLISH, settled 11 August 2026 across the seam between the two halves of the relic line — one translator left it English in 21 rows, the other coined «arcanita» in 18, and neither had precedent. English won because IT IS AN INVENTORY ITEM AND THE ITEM SHEET IS NOT TRANSLATED: a quest asking for «arcanita eclíptica» sends the player searching bags that say «ecliptic arcanite». Same for the family — «waning arcanite», «waxing arcanite», «ecliptic arcanite». Masculine when Spanish needs a gender: «el arcanite requerido», «suficiente arcanite»."
+      "note": "Material de las armas fantasma. Femenino; conservar la forma abreviada cuando el origen omita la variante. Los nombres completos se toman de Item."
     },
     {
       "en": "the Archive",
@@ -7110,7 +7112,7 @@
       "ja": "",
       "es-es": "la estrella caída",
       "protect": false,
-      "note": "The Starlight festival currency. Kept Spanish DESPITE being an inventory item, and the exception is the point: the actual items are «Yellow Fallen Star», «Blue Fallen Star», «Red Fallen Star» and «Green Fallen Star», four of them, and the English writes the generic «fallen stars» in lowercase. There is no single label for the player to match, so nothing is stranded. Contrast [[arcanite]], where «Waning Arcanite» is the exact item name and the objective had to go back to English."
+      "note": "The Starlight festival currency. Translate generic references to fallen stars; use Item for each specific currency name."
     },
     {
       "en": "Hatching Hour",

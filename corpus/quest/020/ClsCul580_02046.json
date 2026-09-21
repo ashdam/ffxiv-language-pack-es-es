@@ -30,7 +30,7 @@
     {
       "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_01",
       "hash": "8099264D4FC0FC45",
-      "target": "<if([lnum1<lnum2],Sintetizar una ración de albóndigas de cockatrice <sheet(Addon,9,0)>,Entregar las albóndigas de cockatrice <sheet(Addon,9,0)> a Lyngsath)>"
+      "target": "<if([lnum1<lnum2],Sintetizar una ración de cockatrice meatballs <sheet(Addon,9,0)>,Entregar las cockatrice meatballs <sheet(Addon,9,0)> a Lyngsath)>"
     },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_000", "hash": "4568324C012B0A2C", "target": "Sin duda te preguntas en qué quedó el plan de la capitana Rhoswen. Pues bien, poco después de que te fueras, invitó a Carvallain a cenar a su barco. Ay, él sospechó de sus intenciones desde el primer momento, y se negó a llevarse nada a la boca. Se quedó ahí sentado, pinchando y hurgando en su comida..." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_001", "hash": "2C98B8161476B8A3", "target": "¡Bah, qué desperdicio! Con todo lo que hablaba de acabar con él, ¡no era ninguna trampa! \\<suspiro> Si no fuera tan condenadamente orgullosa y testaruda..." },
@@ -40,8 +40,8 @@
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_011", "hash": "B7D2B4B5F27F6E7F", "target": "Verás, el maestro Dellemont va a venir a inspeccionar el Bismarck. No dudo que ves la relación, pero es el fundador del concurso y una leyenda viva de la cocina. Y, lo más importante para ti, también es el juez." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_012", "hash": "4013510ABCB7121F", "target": "En fin, tengo las manos ocupadas tratando de dejar el local a punto antes de que llegue el maestro Dellemont. La cosa es que un viejo amigo mío viene a comer de un momento a otro, pero no puedo despegarme del trabajo lo bastante para atenderlo. Te agradecería que le prepararas la comida en mi lugar." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_013", "hash": "49186C7A4A02796D", "target": "El hombre lleva amando la carne desde que era un joven pirata, pero la edad le ha pasado factura, y apenas le quedan dientes." },
-    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_014", "hash": "8CA728E322D6E60A", "target": "Siendo así, quiero que le cocines algo que sea sustancioso pero tierno. Una buena ración de albóndigas de cockatrice, por ejemplo. Gracias de antemano, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_030", "hash": "75596A48D3A8A475", "target": "¿Cómo van esas albóndigas de cockatrice? Mi amigo llegará de un momento a otro." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_014", "hash": "8CA728E322D6E60A", "target": "Siendo así, quiero que le cocines algo que sea sustancioso pero tierno. Una buena ración de cockatrice meatballs, por ejemplo. Gracias de antemano, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_030", "hash": "75596A48D3A8A475", "target": "¿Cómo van esas cockatrice meatballs? Mi amigo llegará de un momento a otro." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_100_030", "hash": "E7F116598CBD8C2F", "target": "¡Bienvenido al Bismarck, maestro Dellemont! ¡Nos honra su visita!" },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_DELLEMMONT_000_032", "hash": "1FF014E03BDEFD69", "target": "Usted debe de ser el discípulo más destacado de Lyngsath. Sí, he oído mucho y más sobre sus proezas. Pero está en plena faena atendiendo a un cliente─no se preocupe por mí." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_LYNGSATH_000_033", "hash": "DC17CC0C163BDCB3", "target": "Y bien, ¿qué te parece, viejo amigo?" },
