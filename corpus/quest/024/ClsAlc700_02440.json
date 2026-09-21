@@ -30,12 +30,12 @@
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_05",
       "hash": "39B5218A7E2C6114",
-      "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de dissolvent ingredients para mezclar un vial of potent dissolvent, y luego entrégaselo a Greinfarr en la Cámara Mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
+      "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de dissolvent ingredients para mezclar un vial de disolvente potente, y luego entrégaselo a Greinfarr en la Cámara Mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_06",
       "hash": "6E02A6BE2C423611",
-      "target": "Has puesto el vial of potent dissolvent en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr."
+      "target": "Has puesto el vial de disolvente potente en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_07",
@@ -67,7 +67,7 @@
       "hash": "8767D09E09BC7B63",
       "target": "Hablar con Severian en el Gremio de Alquimistas"
     },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un vial of potent dissolvent <sheet(Addon,9,0)>,Entregar el vial of potent dissolvent <sheet(Addon,9,0)> a Greinfarr en la Cámara Mortuoria de Erralig.)>" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un vial de disolvente potente <sheet(Addon,9,0)>,Entregar el vial de disolvente potente <sheet(Addon,9,0)> a Greinfarr en la Cámara Mortuoria de Erralig.)>" },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_05",
       "hash": "638579B79F74DB13",
@@ -153,7 +153,7 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_106", "hash": "3E2433858CE5F569", "target": "Así que ha llegado. El final... El final de verrrdad. Jamás te olvidaré, ni el tiempo que pasamos juntos. Los días que pasé en tus brazos. En tu amor. Jamás." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_107", "hash": "C7ACFE19A10E75F5", "target": "Te amo, mi vida. Entonces. Ahorrra. Siempre." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_108", "hash": "E3D3D72EB8BC8C99", "target": "Adiós, mi querrrido Nielle." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_109", "hash": "A522E195FC7A4399", "target": "Vaya, eso parece un buen vial de potente disolvente. Me atrevo a decir que no estoy del todo seguro de que yo mismo pudiera haberlo hecho mejor. Aunque, sí, ahora que lo pienso, probablemente sí. No importa. Greinfarr aguarda. Entrégale tu vial con toda premura." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_109", "hash": "A522E195FC7A4399", "target": "Vaya, eso parece un buen vial de disolvente potente. Me atrevo a decir que no estoy del todo seguro de que yo mismo pudiera haberlo hecho mejor. Aunque, sí, ahora que lo pienso, probablemente sí. No importa. Greinfarr aguarda. Entrégale tu vial con toda premura." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_110", "hash": "AA7E07F18409A6F0", "target": "He esperado esto durante mucho, mucho tiempo. Hoy es el día en que nos despedimos parrra siempre." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_115", "hash": "6B2CA1F08E31455F", "target": "Nunca pensé que tendríamos este día. Esta oportunidad. Y todo gracias a ti." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SESERUKKA_000_120", "hash": "CA95E8EC6D3D11E1", "target": "Niellefresne..." },
