@@ -2229,7 +2229,7 @@
       "ja": "「剣」",
       "note": "Mare Lamentorum sealing mechanism. \"Brand\" here is the archaic word for sword; FR and JA both say sword, and the structures are sword-shaped."
     },
-    {"en":"Enuo","es-es":"Énuo","protect":false,"fr":"Énuo","ja":"エヌオー","note":"Accent required by Spanish stress rules; matches FR."},
+    {"en":"Enuo","es-es":"Enuo","protect":false,"fr":"Énuo","ja":"エヌオー","note":"Use the established Spanish Final Fantasy spelling without the French accent."},
     {
       "en": "Zodiark",
       "es-es": "Zodiark",
@@ -2613,9 +2613,9 @@
       "en": "khagan",
       "fr": "",
       "ja": "",
-      "es-es": "kagán",
+      "es-es": "khagan",
       "protect": false,
-      "note": "shipped, previously unrecorded"
+      "note": "Título de la Estepa de Azim. Se conserva en inglés."
     },
     {
       "en": "Corpse Brigade",
@@ -2648,7 +2648,7 @@
       "ja": "",
       "es-es": "caballero dragón",
       "protect": false,
-      "note": "shipped, previously unrecorded"
+      "note": "Título de la Estepa de Azim. Se conserva en inglés."
     },
     {
       "en": "Athenaeum",
@@ -2664,7 +2664,7 @@
       "ja": "",
       "es-es": "girengranaje",
       "protect": false,
-      "note": "shipped, previously unrecorded"
+      "note": "Título de la Estepa de Azim. Se conserva en inglés."
     },
     {
       "en": "Overmind",
@@ -4140,7 +4140,7 @@
       "ja": "闇",
       "es-es": "la Oscuridad",
       "protect": false,
-      "note": "CAPITALISED ONLY — the substantivised force; lowercase «darkness» stays a lowercase common noun. Follows `Warriors of Darkness` -> «los Guerreros de la Oscuridad» and stays distinct from `Lightwarden` -> «Guardián de la Luz»; capitalised «Light» is «la Luz» by the same reading. CARVE-OUT, FIVE PERMANENT FALSE POSITIVES: capitalised «Darkness» INSIDE A KEPT-ENGLISH BOSS NAME stays English — InstanceContentTextData#7406 and #26100 (Cloud of Darkness), #24600 (Idol of Darkness), #25601 and #25646 (Oracle of Darkness). #25646 is a BARK carrying the same form as the objective, which is the objective-and-bark consistency rule working rather than failing."
+      "note": "La fuerza sustantivada; darkness en minúscula sigue siendo un nombre común. Los nombres propios tienen su propia entrada."
     },
     {
       "en": "viper",
@@ -5655,20 +5655,20 @@
       "note": "EObjName furniture: what the cursor reads when you point at one."
     },
     {
-      "en": "High",
+      "en": "High or Low",
       "fr": "",
       "ja": "",
-      "es-es": "apuesta alta",
+      "es-es": "apuesta alta o baja",
       "protect": false,
-      "note": "THE TREASURE DUNGEON BET, not a height. You wager whether the next card comes up higher or lower than the one showing, so the pair is «apuesta alta» / «apuesta baja». Feminine, agreeing with «apuesta». See [[Low]]."
+      "note": "Treasure dungeon choice; do not apply to height or quality."
     },
     {
-      "en": "Low",
-      "fr": "",
-      "ja": "",
-      "es-es": "apuesta baja",
+      "en": "High Wire",
+      "fr": "Excitation",
+      "ja": "ハイテンション",
+      "es-es": "Excitación",
       "protect": false,
-      "note": "The other half of the treasure dungeon bet. See [[High]]."
+      "note": "Status name; keep this form in Beastmaster equipment effects."
     },
     {
       "en": "gyuki",
@@ -6249,7 +6249,7 @@
       "ja": "サポートアクション",
       "es-es": "acción fantasma",
       "protect": false,
-      "note": "Isla del Creciente. `phantom job` -> «job fantasma», `knowledge level` -> «nivel de conocimiento», `Occult Record` -> «registro oculto»."
+      "note": "Isla del Creciente. `phantom job` -> «job fantasma»; `Phantom Freelancer` -> «Aprendiz fantasma»; en la columna abreviada de `MKDSupportJob`, «<job> fnt.». `knowledge level` -> «nivel de conocimiento», `Occult Record` -> «registro oculto»."
     },
     {"en":"gear set","fr":"tenue","ja":"ギアセット","es-es":"conjunto de equipo","protect":false,"note":"Configuración de equipo guardada. Plural: conjuntos de equipo."},
     {
@@ -6791,9 +6791,9 @@
       "en": "Cloud of Darkness",
       "fr": "",
       "ja": "",
-      "es-es": "la Cloud of Darkness",
+      "es-es": "la Nube de Oscuridad",
       "protect": false,
-      "note": "NAME KEPT ENGLISH, ARTICLE IN SPANISH. Nobody has ever written «Nube de la Oscuridad». Five shipped lines glued the English article into Spanish prose — «se hace llamar the Cloud of Darkness» — which is the same defect as «Vendes an aurum regis ingot». Feminine, «la nube»."
+      "note": "Localización de la saga Final Fantasy. Femenino."
     },
     {
       "en": "NOAH",
@@ -7515,7 +7515,7 @@
     {"en":"The Nonmind","es-es":"La No-Mente","protect":false,"note":"Sociedad vath. Mantener el guion de No-Mente."},
     {"en":"Moghome","es-es":"Hogar Moguri","protect":false},
     {"en":"The Minstrel's Ballad: Shinryu's Domain","es-es":"La balada del juglar: el dominio de Shinryu","protect":false},
-    {"en":"The Unending Coil of Bahamut (Ultimate)","es-es":"La Espiral Infinita de Bahamut (Definitiva)","protect":false,"note":"En los títulos de sectores, Turn seguido de cifra se traduce como Sector seguido de la misma cifra."},
+    {"en":"The Unending Coil of Bahamut (Ultimate)","es-es":"La Espiral Infinita de Bahamut (Definitivo)","protect":false,"note":"En los títulos de sectores, Turn seguido de cifra se traduce como Sector seguido de la misma cifra."},
     {"en":"Rival Wings","es-es":"Rival Wings","protect":true,"note":"Nombre del modo JcJ, conservado en inglés."},
     {"en":"Eureka Anemos","es-es":"Eureka Anemos","protect":true},
     {"en":"The Fractal Continuum (Hard)","es-es":"Continuo Fractal (Difícil)","protect":false},
@@ -7523,7 +7523,7 @@
     {"en":"Sigmascape (Savage)","es-es":"Sigmascape (Salvaje)","protect":false},
     {"en":"The Minstrel's Ballad: Tsukuyomi's Pain","es-es":"La balada del juglar: el pesar de Tsukuyomi","protect":false},
     {"en":"The Great Hunt (Extreme)","es-es":"La Gran Cacería (Extremo)","protect":false},
-    {"en":"The Weapon's Refrain (Ultimate)","es-es":"El estribillo del Arma (Definitiva)","protect":false},
+    {"en":"The Weapon's Refrain (Ultimate)","es-es":"El estribillo del Arma (Definitivo)","protect":false},
     {"en":"Eureka Pagos","es-es":"Eureka Pagos","protect":true},
     {"en":"Heaven-on-High Apex","es-es":"Cima del Pilar de los Cielos","protect":false},
     {"en":"Saint Mocianne's Arboretum (Hard)","es-es":"Arboretum Santa Mocianne (Difícil)","protect":false},
@@ -8522,6 +8522,7 @@
     {"en":"Warrior of Water","es-es":"Guerrero del Agua","protect":false,"note":"Título que Frithrik da al personaje. Femenino: Guerrera del Agua."},
     {"en":"Allied Societies","es-es":"Tribus aliadas","protect":false,"note":"Categoría de reputación y misiones."},
     {"en":"Allied Society","es-es":"Tribu aliada","protect":false,"note":"Singular de Tribus aliadas; adaptar el número al contexto."},
-    {"en":"Allied Society Quests","es-es":"Misiones de tribus aliadas","protect":false,"note":"Categoría de misiones de reputación."}
+    {"en":"Allied Society Quests","es-es":"Misiones de tribus aliadas","protect":false,"note":"Categoría de misiones de reputación."},
+    {"en":"Eorzean Nimble Warrior","es-es":"Guerrero Ágil de Eorzea","protect":false,"note":"Atracción de la Feria del Fuego Lunar."}
   ]
 }

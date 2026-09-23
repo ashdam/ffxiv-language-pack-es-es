@@ -16,7 +16,7 @@
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_02", "hash": "FC00AD62E2F79AC6", "target": "Usar /psych con el moguri holgazán" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_03", "hash": "FDBC20C5CDE44053", "target": "Usar /slap con el moguri holgazán" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_04", "hash": "2C249C8AEA05B808", "target": "Hablar con Mogwon" },
-    { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_05", "hash": "06244C75C5263C02", "target": "<if([lnum1<lnum2],Sintetizar el moogle mollifier <sheet(Addon,9,0)>,Entregar el moogle mollifier <sheet(Addon,9,0)> al moguri holgazán)>" },
+    { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_05", "hash": "06244C75C5263C02", "target": "<if([lnum1<lnum2],Sintetizar el obsequio para moguri <sheet(Addon,9,0)>,Entregar el obsequio para moguri <sheet(Addon,9,0)> al moguri holgazán)>" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_TODO_06", "hash": "EB41C7DD65419147", "target": "Informar a Mogek the Marvelous" },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_MOGEK_000_000", "hash": "98282EFA7527ACC8", "target": "Hola, <split(<string(gstr1)>, ,1)>. Necesito tu ayuda. Es sobre Mogwon. La última vez que lo vi, parecía a punto de arrancarse todo el pelaje de la frustración." },
     { "gameKey": "quest/023/BanMog606_02318#TEXT_BANMOG606_02318_MOGEK_000_001", "hash": "9CF19606FA3327B6", "target": "¡Si los moguris pudieran quedarse calvos, él sería el primero, kupó! ¿Podría molestarte para que vayas a Asah y le preguntes qué le atormenta?" },
