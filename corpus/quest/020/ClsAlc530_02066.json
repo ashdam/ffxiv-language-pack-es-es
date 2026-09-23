@@ -20,12 +20,12 @@
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_03",
       "hash": "8C7B47CDDD1CD8ED",
-      "target": "Wiltwaek queda impresionado por la aguda deducción de Baderon y pide a Chanene que informe de que ellos también han descubierto algo sobre el mapa. El papel no tiene interés, pero los símbolos están escritos con tinta encantada. Tras pedir tu opinión de experto y enterarse de que la tinta encantada se usa para la magia arcana, Chanene intenta activar la geometría arcana. Sin embargo, todo lo que logra es percibir un extraño bloqueo en la superficie del mapa. Wiltwaek comprende que ese es precisamente el propósito del mapa: dirigir a los criminales hacia su objetivo. Rápida de reflejos, Chanene propone que los tres creéis mapas falsos para atraer a los culpables al descubierto. Wiltwaek acepta y te pide que elabores tres botellas de enchanted mythrite ink de alta calidad para las falsificaciones."
+      "target": "Wiltwaek queda impresionado por la aguda deducción de Baderon y pide a Chanene que informe de que ellos también han descubierto algo sobre el mapa. El papel no tiene interés, pero los símbolos están escritos con tinta encantada. Tras pedir tu opinión de experto y enterarse de que la tinta encantada se usa para la magia arcana, Chanene intenta activar la geometría arcana. Sin embargo, todo lo que logra es percibir un extraño bloqueo en la superficie del mapa. Wiltwaek comprende que ese es precisamente el propósito del mapa: dirigir a los criminales hacia su objetivo. Rápida de reflejos, Chanene propone que los tres creéis mapas falsos para atraer a los culpables al descubierto. Wiltwaek acepta y te pide que elabores tres botellas de tinta encantada de mithrita de alta calidad para las falsificaciones."
     },
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_04",
       "hash": "28ABFB49D09603F6",
-      "target": "Wiltwaek acepta agradecido la enchanted mythrite ink y dice que pondrá a Chanene a trabajar en los mapas de inmediato. Planea atraer a los maleantes al Hallazgo de San Coinach, donde serán fácilmente visibles entre los investigadores. Reúnete con él allí, pues nunca se sabe cuándo un alquimista puede resultar útil."
+      "target": "Wiltwaek acepta agradecido la tinta encantada de mithrita y dice que pondrá a Chanene a trabajar en los mapas de inmediato. Planea atraer a los maleantes al Hallazgo de San Coinach, donde serán fácilmente visibles entre los investigadores. Reúnete con él allí, pues nunca se sabe cuándo un alquimista puede resultar útil."
     },
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_05",
@@ -45,7 +45,7 @@
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_02",
       "hash": "68AF31A19DAE7C12",
-      "target": "<if([lnum1<lnum2],Sintetizar enchanted mythrite ink <sheet(Addon,9,0)>,Entregar los frascos de enchanted mythrite ink <sheet(Addon,9,0)> a Wiltwaek)>"
+      "target": "<if([lnum1<lnum2],Sintetizar tinta encantada de mithrita <sheet(Addon,9,0)>,Entregar los frascos de tinta encantada de mithrita <sheet(Addon,9,0)> a Wiltwaek)>"
     },
     {
       "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_03",
@@ -77,8 +77,8 @@
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_095", "hash": "0B4A5CAC8BC5BCEF", "target": "¡Brillante! Y... y si se guían por estos mapas para orientarse, podríamos atraerlos directamente hacia nosotros con un mapa falso... ¿verdad?" },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_096", "hash": "DBC5FDD580A13AFF", "target": "¡Quizá sí! Hace un tiempo encontré un fragmento de un mapa similar cerca del camino. Si es ahí donde los criminales dejan sus encargos..." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_CHANENE_000_097", "hash": "B3D1E3A6567B89FC", "target": "¡Entonces sabemos dónde dejar las falsificaciones! Si nuestras copias cuelan, podríamos enviarlos a donde quisiéramos─¡incluso a una mazmorra, si nos diera la gana!" },
-    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_098", "hash": "C56C0A18F44C9734", "target": "Chanene, tú tienes buena mano con la pluma, así que te encomiendo los mapas. <split(<string(gstr1)>, ,1)>, ¿podría preparar enchanted mythrite ink? ¡Con tres frascos de la mejor calidad, veremos si no atrapamos a esos malnacidos!" },
-    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_120", "hash": "14CAE1E76A2F4867", "target": "Sé que le pedí enchanted mythrite ink, pero me han informado de que es una receta delicada. ¿Se ve con fuerzas?" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_098", "hash": "C56C0A18F44C9734", "target": "Chanene, tú tienes buena mano con la pluma, así que te encomiendo los mapas. <split(<string(gstr1)>, ,1)>, ¿podría preparar tinta encantada de mithrita? ¡Con tres frascos de la mejor calidad, veremos si no atrapamos a esos malnacidos!" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_120", "hash": "14CAE1E76A2F4867", "target": "Sé que le pedí tinta encantada de mithrita, pero me han informado de que es una receta delicada. ¿Se ve con fuerzas?" },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_130", "hash": "329C6CBBE6D247AF", "target": "¡Ya veo por qué Severian lo tiene en tan alta estima! Con esta tinta y un poco de suerte, podremos sacar a nuestros criminales a campo abierto." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_131", "hash": "7D10A4D6CAE1DA1F", "target": "Ahora bien, Chanene y yo hemos elegido el Hallazgo de San Coinach. Allí será endiabladamente difícil que se nos escape el sospechoso. Venga con nosotros, <split(<string(gstr1)>, ,1)>─es más seguro tener un alquimista a mano que no tenerlo." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_140", "hash": "4A4C6C90DED8780A", "target": "Es una buena treta, pero me pregunto si de verdad atraerá a nuestros criminales al Hallazgo de San Coinach." },
