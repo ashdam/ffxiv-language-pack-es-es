@@ -82,7 +82,7 @@
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_A1_000_002", "hash": "6213BFCF0DFD1DE7", "target": "Me gustaría repasar las pruebas que he reunido hasta ahora." },
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_A1_000_003", "hash": "500749D4C7B7A949", "target": "Nada." },
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_SYSTEM_110_072", "hash": "625D3856C703F134", "target": "La conclusión de esta misión variará según las decisiones que tomes en la siguiente secuencia. Sin embargo, la recompensa será la misma." },
-    { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_Q1_100_000", "hash": "E296EDD6CD2396B6", "target": "¿Listo para explicar tu razonamiento?" },
+    { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_Q1_100_000", "hash": "E296EDD6CD2396B6", "target": "¿<if(gnum4,Lista,Listo)> para explicar tu razonamiento?" },
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_A1_100_001", "hash": "C859FC47A780121E", "target": "Sí." },
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_A1_100_002", "hash": "B99F0035441E2A41", "target": "No." },
     { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_OLLIER_000_073", "hash": "402AB1F797350742", "target": "¡Qué seguridad! Aun así, este es un crimen grave con un castigo grave, así que recae en nosotros, los inspectores, la carga de explicar nuestro razonamiento antes de acusar. Y por eso, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>, le pido que nos explique cómo llegó a su conclusión." },

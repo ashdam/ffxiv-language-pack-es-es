@@ -8,7 +8,7 @@
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_02", "hash": "BE5CB93BEA68651C", "target": "Hablar con Iola en Pla Enni" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_03", "hash": "6EA025EEB5709570", "target": "Hablar con Iola en la Media Cristalina" },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_TODO_04", "hash": "EE7E10447D04097F", "target": "<if([lnum1<lnum2],Sintetizar un intricate censer <sheet(Addon,9,0)>,Entregar el intricate censer <sheet(Addon,9,0)> a Iola)>" },
-    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_SYSTEM_100_001", "hash": "579DEC10737F59E6", "target": "Para emprender esta misión, antes debes completar la misión de la trama principal «Posada Acht-la Ormh»." },
+    { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_SYSTEM_100_001", "hash": "579DEC10737F59E6", "target": "Para emprender esta misión, antes debes completar la misión de la trama principal “Posada Acht-la Ormh”." },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_IOLA_000_001", "hash": "8FA31E96D1244274", "target": "Qué hago, qué hago..." },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_IOLA_000_002", "hash": "4E5172E902F981A6", "target": "¡Ah, <split(<string(gstr1)>, ,1)>! Me vendría bien un oído si tienes un momento para escuchar..." },
     { "gameKey": "quest/032/LucKla102_03228#TEXT_LUCKLA102_03228_IOLA_000_003", "hash": "1C4FF03BDB8FBA38", "target": "Verás, entre tu oficio y mis negociaciones, hemos conseguido cerrar contratos con los Zun, los Mord e incluso los Ondo. Comparado con nuestra anterior lista de clientes de un único cliente, el negocio ha mejorado a pasos agigantados." },

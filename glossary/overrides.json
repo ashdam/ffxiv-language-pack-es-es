@@ -7,6 +7,8 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"mneme","fr":"souvenir","ja":"記憶","es-es":"recuerdo","protect":false,"note":"Recuerdo extraído de un logograma en Eureka. Plural: recuerdos."},
+    {"en":"duty list","es-es":"lista de objetivos","protect":false,"note":"Panel de seguimiento de objetivos, no el Buscador de contenido."},
     {"en":"item level","fr":"niveau d’objet","ja":"アイテムレベル","es-es":"nivel de objeto","protect":false,"note":"En etiquetas compactas y nombres: NvO. «Average item level»: nivel de objeto medio. No usar IL."},
     {"en":"A Realm Reborn","es-es":"A Realm Reborn","protect":true,"note":"Nombre de expansión."},
     {"en":"Heavensward","es-es":"Heavensward","protect":true,"note":"Nombre de expansión."},
@@ -7250,6 +7252,7 @@
       "protect": false,
       "note": "Femenino «maga roja»."
     },
+    {"en":"Blue Mage Log","fr":"Palmarès bleu","ja":"青魔道士ログ","es-es":"Cuaderno de mago azul","protect":false},
     {"en":"Blue Mage","fr":"","ja":"","note":"Invariable en genero: «una mago azul». La magia es «magia azul».","es-es":"Mago Azul","protect":false},
     {
       "en": "White Mage",
