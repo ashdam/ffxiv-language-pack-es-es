@@ -17,7 +17,7 @@
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_02", "hash": "EAE62EB9F596844F", "target": "Hablar con Mogzin en Bahrr Lehs" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_03", "hash": "FE5E04B72DCF9F01", "target": "Rebuscar en los montones de escombros algo de interés" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_04", "hash": "9167209A4ED1EE17", "target": "Mostrar los misteriosos fragmentos a Mogzin" },
-    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_05", "hash": "672CFF0DE0B79457", "target": "Hablar con Mogzin" },
+    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_05", "hash": "672CFF0DE0B79457", "target": "Hablar con maese Mogzin" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_06", "hash": "3A43AC4C62265B3B", "target": "Hablar con Mogmul Mogbelly" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_TODO_07", "hash": "D18FFFDC904C0CF0", "target": "<if([lnum1<lnum2],Sintetizar tablet supplies <sheet(Addon,9,0)>,Mostrar los tablet supplies <sheet(Addon,9,0)> a Tarresson)>" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_000", "hash": "B1882E3AD124EED0", "target": "<split(<string(gstr1)>, ,1)>, me alegro de que estés aquí, kupó. Hay un asunto que quería tratar con todos desde que Gullinbursti se marchó, ¡y no hay mejor momento que este!" },
@@ -101,7 +101,7 @@
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_COLORDRAGON_000_306", "hash": "01454F5F5C9801BE", "target": "Lo es. Tenéis mi bendición y mi gratitud. Mantendré a salvo los cielos de Bahrr Lehs, para probar que mis palabras son ciertas." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_MOGZIN_000_307", "hash": "D0E737FDCECA9BAA", "target": "¡¿Lo habéis oído, kupó?! ¡Gullinbursti lo aprueba! ¡Gullinbursti lo aprueba! ¡Por fin, con voluntad, determinación y perseverancia, los Mogremendadores han completado su primer gran proyecto!" },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_200", "hash": "A89D40411FC6A6EE", "target": "Has alcanzado el rango de reputación <colortype(500)><edgecolortype(501)>Sworn<edgecolortype(0)><colortype(0)> con los Mogremendadores." },
-    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_201", "hash": "725B1F984F28E20D", "target": "Recibirás una bonificación de puntos de experiencia al completar las misiones diarias de la tribu moguri." },
+    { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_201", "hash": "725B1F984F28E20D", "target": "Recibirás una bonificación de puntos de experiencia al completar las misiones diarias de la sociedad moguri." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_202", "hash": "ED0D9852FC22A7E7", "target": "Además, ahora tienes acceso a una selección más amplia de artículos de Mogmul Mogbelly." },
     { "gameKey": "quest/023/BanMog007_02326#TEXT_BANMOG007_02326_SYSTEM_000_210", "hash": "6F7D89805D7E7FBB", "target": "¡Has aprendido el gesto <colortype(500)><edgecolortype(501)>Danza moguri<edgecolortype(0)><colortype(0)>!" }
   ]

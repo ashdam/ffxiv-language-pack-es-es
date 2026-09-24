@@ -73,7 +73,7 @@
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_KOFUINSEIGETSU_000_075", "hash": "F319FC87121366B3", "target": "Asombroso. ¿Eres acaso una de las estimadas udgan de los Mol? Leí sobre ellas en <italic(1)>Senda estrecha entre la hierba profunda<italic(0)>." },
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOREI_000_076", "hash": "20FB954664B2DE52", "target": "Espera, espera. Gyoshin debe de ser el Namazu en cuestión, pero ¿quién es el segundo discípulo de la creación?" },
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_Q2_000_000", "hash": "978F61E1CEE579D3", "target": "¿Qué vas a decir?" },
-    { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_A2_000_001", "hash": "55F26F48FBA2975D", "target": "Yo también soy algo así como artesano." },
+    { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_A2_000_001", "hash": "55F26F48FBA2975D", "target": "Yo también soy algo así como <if(gnum4,artesana,artesano)>." },
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_A2_000_002", "hash": "F7C57E09E2BBC31D", "target": "Se me conoce por trastear con la recolección." },
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOSHIN_000_078", "hash": "B0484C8837E48D80", "target": "¡Una sorpresa tras otra! ¿Realiza usted labores tan delicadas sin aletas?" },
     { "gameKey": "quest/030/BanNam000_03096#TEXT_BANNAM000_03096_GYOSHIN_000_079", "hash": "E1BA8C2EEAFFBECD", "target": "¡Una sorpresa tras otra! ¿Es capaz de localizar cosas sin barbillas?" },
