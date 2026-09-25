@@ -52,7 +52,7 @@
     { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_REGANA_000_075", "hash": "ADCF57C6635D6058", "target": "Vaya, qué solución tan ingeniosa. Me impresiona, Gerolt." },
     { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_GEROLT_000_076", "hash": "139C6EAA7BD29187", "target": "Claro que aquí solo hay una persona capaz de rebuscar sin peligro en las profundidades de unas ruinas oscuras y húmedas y salir de una pieza. Eso sí, mejor consulta con Zalatan <italic(1)>en qué<italic(0)> ruinas te pones a rebuscar." },
     { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_ZLATAN_000_077", "hash": "DF6244CC71315F21", "target": "Zlatan, maestro Gerolt... Zlatan." },
-    { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_ZLATAN_000_078", "hash": "239FB87055B7F079", "target": "Ejem. Cuando esté <if(gnum4,lista,listo)> para partir, Blade <split(<string(gstr1)>, ,2)>, podemos hablar de dónde conviene más excavar las reliquias que buscamos." },
+    { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_ZLATAN_000_078", "hash": "239FB87055B7F079", "target": "Ejem. Cuando esté <if(gnum4,lista,listo)> para partir, Espada <split(<string(gstr1)>, ,2)>, podemos hablar de dónde conviene más excavar las reliquias que buscamos." },
     { "gameKey": "quest/040/LucKsa252_04039#TEXT_LUCKSA252_04039_SYSTEM_000_080", "hash": "4B025A8AF430C6A7", "target": "Zlatan tiene disponible una nueva misión de armas de la Resistencia." }
   ]
 }

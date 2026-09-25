@@ -11,7 +11,7 @@
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_SEQ_06", "hash": "3AB667F74FCA28FB", "target": "Mogek se queda de piedra al no recibir un cuenco de guiso de tu parte, y se aparta a enfurruñarse diciendo que siempre había soñado con probar la cocina ishgardesa. Ojalá reciba uno la próxima vez que Hildeth reparta el guiso." },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_00", "hash": "13E12AD4F0B21781", "target": "Hablar con Hildeth" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_01", "hash": "6D301A6B23335A9C", "target": "Obtener los materiales diversos para cocina ishgardiana de Mogwon" },
-    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_02", "hash": "00DF1F67676894E9", "target": "<if([lnum1<lnum2],Sintetizar la surtido culinario ishgardiano,Entregar la surtido culinario ishgardiano a Hildeth)>" },
+    { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_02", "hash": "00DF1F67676894E9", "target": "<if([lnum1<lnum2],Sintetizar el surtido culinario ishgardiano,Entregar el surtido culinario ishgardiano a Hildeth)>" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_03", "hash": "1290162C9E0E0B63", "target": "Entregar la comida ishgardesa a los moguris" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_TODO_04", "hash": "6180E7F0AF8F6395", "target": "Informar a Mogek the Marvelous" },
     { "gameKey": "quest/023/BanMog604_02316#TEXT_BANMOG604_02316_MOGEK_000_000", "hash": "7EEE21FB7083EC90", "target": "Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>. Hace no mucho Hildeth pidió tu ayuda, por eso te señalaba hacia allá." },
