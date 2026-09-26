@@ -2860,8 +2860,8 @@
     {
       "rule": "place names",
       "gameKey": "LogMessage#5301",
-      "hash": "7AEEBA0FFA0D5E64",
-      "why": "The match is ordinary language, another name, or a contextual Spanish form; the translation is correct for this row."
+      "hash": "0338C78439F45ADB",
+      "why": "Recollection means a memory of past battles, not the place name."
     },
     {
       "rule": "place names",
@@ -11548,7 +11548,7 @@
     {"rule":"term drift","gameKey":"ContentTalk#305","hash":"B536E54378FCCF79","why":"The action name remains in English because Viper and Pictomancer actions are outside the translated scopes."},
     {"rule":"term drift","gameKey":"ContentTalk#328","hash":"CD1F2ACEA9D42349","why":"The action name remains in English because Viper and Pictomancer actions are outside the translated scopes."},
     {"rule":"term drift","gameKey":"ContentTalk#330","hash":"A480083CB149E10C","why":"The action name remains in English because Viper and Pictomancer actions are outside the translated scopes."},
-    {"rule":"term drift","gameKey":"GuidePageString#135","hash":"DB379D2C183DD88C","why":"The action name remains in English because Viper and Pictomancer actions are outside the translated scopes."},
+    {"rule": "term drift", "gameKey": "GuidePageString#135", "hash": "9079B6A4E4DB2F23", "why": "Steel Fangs and Reaving Fangs are untranslated action names, not the job term Fangs."},
     {"rule":"term drift","gameKey":"GuidePageString#151","hash":"E1B3E34D470F7191","why":"The action name remains in English because Viper and Pictomancer actions are outside the translated scopes."},
     {"rule":"term drift","gameKey":"LogMessage#4459","hash":"E8512D95E294B31E","why":"Companion App is the official product name."},
     {"rule":"term drift","gameKey":"LogMessage#4500","hash":"883B567AC673B153","why":"Companion is a sheet identifier inside a macro and is not displayed."},
@@ -11639,7 +11639,7 @@
     {"rule":"term drift","gameKey":"quest/010/JobSch300_01097#TEXT_JOBSCH300_01097_SYSTEM_000_056","hash":"5ED9932A01790E4F","why":"Soul of the Scholar matches the excluded job stone name and remains in English."},
     {"rule":"term drift","gameKey":"quest/010/JobSch350_01098#TEXT_JOBSCH350_01098_ALKAZOLKA_000_006","hash":"D98E9C81FA97474F","why":"Soul of the Scholar matches the excluded job stone name and remains in English."},
     {"rule":"term drift","gameKey":"quest/010/JobSch350_01098#TEXT_JOBSCH350_01098_SEQ_01","hash":"AB7AB540564E0E20","why":"Soul of the Scholar matches the excluded job stone name and remains in English."},
-    {"rule":"term drift","gameKey":"quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SEQ_04","hash":"FFADEC5FC8FC6F51","why":"Soul of the Scholar matches the excluded job stone name and remains in English."},
+    {"rule": "term drift", "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SEQ_04", "hash": "8587A2A23F107FA6", "why": "The job and its soul item use erudito; scholar's gown remains the untranslated equipment name."},
     {"rule":"term drift","gameKey":"quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_SURITOCARITO_000_082","hash":"82E23D856368B0D0","why":"Soul of the Scholar matches the excluded job stone name and remains in English."},
     {"rule":"term drift","gameKey":"quest/010/JobPld300_01055#TEXT_JOBPLD300_01055_JENLYNS_000_044","hash":"0A53410872BEDB12","why":"Soul of the Paladin matches the excluded job stone name and remains in English."},
     {"rule":"term drift","gameKey":"quest/010/JobPld300_01055#TEXT_JOBPLD300_01055_JENLYNS_000_050","hash":"CDCADEAA48E45E2B","why":"Soul of the Paladin matches the excluded job stone name and remains in English."},
@@ -11863,8 +11863,8 @@
     {"rule":"item names","gameKey":"Leve#701.1","hash":"56F358A82A1CB298","why":"The match occurs in narrative leve text and does not name the inventory item."},
     {"rule":"item names","gameKey":"Leve#719.1","hash":"4FDCF42C4229870E","why":"The match occurs in narrative leve text and does not name the inventory item."},
     {"rule":"item names","gameKey":"Leve#730.1","hash":"1701D9DBBA076D61","why":"The match occurs in narrative leve text and does not name the inventory item."},
-    {"rule":"item names","gameKey":"Leve#891.1","hash":"2584FFC88C9B4D74","why":"The match occurs in narrative leve text and does not name the inventory item."},
-    {"rule":"item names","gameKey":"Leve#894.1","hash":"71CD223B0D54AA9B","why":"The match occurs in narrative leve text and does not name the inventory item."},
+    {"rule": "item names", "gameKey": "Leve#891.1", "hash": "3D6878CAE4F476F3", "why": "Dragon scales describes the material for training targets, not the inventory item in this row."},
+    {"rule": "item names", "gameKey": "Leve#894.1", "hash": "EF3D7540CD38909E", "why": "Dragon scales describes the material for training targets, not the inventory item in this row."},
     {"rule":"item names","gameKey":"Leve#902.1","hash":"3874090931CEDD81","why":"The match occurs in narrative leve text and does not name the inventory item."},
     {"rule":"item names","gameKey":"Leve#920.1","hash":"1A8534D6DC8D61BE","why":"The match occurs in narrative leve text and does not name the inventory item."},
     {"rule":"item names","gameKey":"Leve#921.1","hash":"1E8A8CAE7F10B7AD","why":"The match occurs in narrative leve text and does not name the inventory item."},
@@ -15111,7 +15111,7 @@
     {"rule":"text consistency","gameKey":"quest/008/GaiUsb012_00819#TEXT_GAIUSB012_00819_POP_MESSAGE_000","hash":"1CCD1A6ADE65F7A2","why":"All variants describe the same tremor."},
     {"rule":"text consistency","gameKey":"quest/010/JobBlm500_01078#TEXT_JOBBLM500_01078_SYSTEM_100_002","hash":"49693262D0B633A7","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/010/JobBrd500_01090#TEXT_JOBBRD500_01090_SYSTEM_100_002","hash":"F1A9FF79F3CEBE95","why":"Both variants retain the job quest and quest giver."},
-    {"rule":"text consistency","gameKey":"quest/010/JobDrg500_01072#TEXT_JOBDRG500_01072_SYSTEM_100_002","hash":"4AB122684D9D1ECD","why":"Both variants retain the job quest and quest giver."},
+    {"rule": "text consistency", "gameKey": "quest/010/JobDrg500_01072#TEXT_JOBDRG500_01072_SYSTEM_100_002", "hash": "27FA101EA529F51A", "why": "Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/010/JobMnk500_01066#TEXT_JOBMNK500_01066_SYSTEM_100_002","hash":"578E513D8D7AC3D0","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/010/JobPld500_01060#TEXT_JOBPLD500_01060_SYSTEM_100_002","hash":"282986EFFE0B4584","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/010/JobSmn500_01096#TEXT_JOBSMN500_01096_SYSTEM_100_002","hash":"D982E3D10E8D86ED","why":"Both variants retain the job quest and quest giver."},
@@ -15121,7 +15121,7 @@
     {"rule":"text consistency","gameKey":"quest/012/FesVlt003_01299#TEXT_FESVLT003_01299_SYSYTEM_Q1_000_1","hash":"F29E09423A3BE878","why":"All choices ask for the player’s response."},
     {"rule":"text consistency","gameKey":"quest/016/JobBlm560_01681#TEXT_JOBBLM560_01681_Q1_000_000","hash":"58AD1A6E34FB0284","why":"All choices ask for the player’s response."},
     {"rule":"text consistency","gameKey":"quest/016/JobBlm600_01683#TEXT_JOBBLM600_01683_SYSTEM_000_502","hash":"371D36D6C0B55837","why":"Both variants retain the job quest and quest giver."},
-    {"rule":"text consistency","gameKey":"quest/016/JobDrg600_01695#TEXT_JOBDRG600_01695_SYSTEM_000_502","hash":"A245082C826B83F0","why":"Both variants retain the job quest and quest giver."},
+    {"rule": "text consistency", "gameKey": "quest/016/JobDrg600_01695#TEXT_JOBDRG600_01695_SYSTEM_000_502", "hash": "7E05EA90D293EE99", "why": "Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/016/JobNin600_01688#TEXT_JOBNIN600_01688_SYSTEM_000_502","hash":"6B986ADA7C0DB1C6","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SYSTEM_000_502","hash":"0BA36C8570FAEDBC","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/017/JobBrd600_01718#TEXT_JOBBRD600_01718_SYSTEM_000_502","hash":"C8CC811025823A38","why":"Both variants retain the job quest and quest giver."},
@@ -15142,7 +15142,7 @@
     {"rule":"text consistency","gameKey":"quest/025/JobPld700_02575#TEXT_JOBPLD700_02575_SYSTEM_100_103","hash":"D09273953496CC47","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/026/JobSmn700_02629#TEXT_JOBSMN700_02629_SYSTEM_000_503","hash":"30053574F6359DA7","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_SYSTEM_100_367","hash":"603B8FC45A582B6D","why":"Both variants retain the job quest and quest giver."},
-    {"rule":"text consistency","gameKey":"quest/029/JobDrg700_02914#TEXT_JOBDRG700_02914_SYSTEM_100_103","hash":"B139E17FFF539CFD","why":"Both variants retain the job quest and quest giver."},
+    {"rule": "text consistency", "gameKey": "quest/029/JobDrg700_02914#TEXT_JOBDRG700_02914_SYSTEM_100_103", "hash": "057A4A27837CA21C", "why": "Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_SYSTEM_100_503","hash":"B1B0CC9966513E5E","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/029/JobNin700_02952#TEXT_JOBNIN700_02952_SYSTEM_100_367","hash":"C43785B7BBAF4CF0","why":"Both variants retain the job quest and quest giver."},
     {"rule":"text consistency","gameKey":"quest/029/JobSch700_02927#TEXT_JOBSCH700_02927_SYSTEM_000_503","hash":"0BA08BBDDB7D9732","why":"Both variants retain the job quest and quest giver."},
@@ -16649,8 +16649,8 @@
     {"rule": "text consistency", "gameKey": "EventItem#2000800.2", "hash": "52A916E051B11DA0", "why": "The English singular and plural names are identical; Spanish requires distinct forms in these columns."},
     {"rule": "text consistency", "gameKey": "EventItem#2000808.0", "hash": "CEE88BC846C2BFBF", "why": "The English singular and plural names are identical; Spanish requires distinct forms in these columns."},
     {"rule": "text consistency", "gameKey": "EventItem#2000808.2", "hash": "25BC83D692143ED9", "why": "The English singular and plural names are identical; Spanish requires distinct forms in these columns."},
-    {"rule": "text consistency", "gameKey": "EventItem#2000816.0", "hash": "5D763E245564F9DA", "why": "Column 0 is a common noun in running text; column 9 is the capitalized display label."},
-    {"rule": "text consistency", "gameKey": "EventItem#2000816.9", "hash": "E9712B9705290B25", "why": "Column 0 is a common noun in running text; column 9 is the capitalized display label."},
+    {"rule": "text consistency", "gameKey": "EventItem#2000816.0", "hash": "03B4D4393B7B035F", "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."},
+    {"rule": "text consistency", "gameKey": "EventItem#2000816.9", "hash": "CAA5140665292D9F", "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."},
     {"rule": "item names", "gameKey": "EventItem#2000816.0", "hash": "01848C9F7A9B02B3", "why": "This is the neglected quest crystal EventItem#2000816, not the equippable job crystal Item#4543."},
     {"rule": "item names", "gameKey": "EventItem#2000816.2", "hash": "955759BF28E38E1F", "why": "This is the neglected quest crystal EventItem#2000816, not the equippable job crystal Item#4543."},
     {"rule": "item names", "gameKey": "EventItem#2000816.9", "hash": "D9E6D2353CB97077", "why": "This is the neglected quest crystal EventItem#2000816, not the equippable job crystal Item#4543."},
@@ -17319,6 +17319,414 @@
     {"rule": "item names", "gameKey": "quest/049/KinGmd114_04925#TEXT_KINGMD114_04925_TODO_02", "hash": "318B6D14FAAEAA8B", "why": "Se refiere al objeto de misión clear fire crystal (EventItem#2003508) o low-quality fire crystal (EventItem#2003824), no al cristal ordinario Item#8. EN/FR/JA distinguen pureza y uso; las instrucciones requieren esos EventItem acotados."},
     {"rule": "item names", "gameKey": "quest/049/KinGmd114_04925#TEXT_KINGMD114_04925_TODO_03", "hash": "56CA39D8978E875B", "why": "Se refiere al objeto de misión clear fire crystal (EventItem#2003508) o low-quality fire crystal (EventItem#2003824), no al cristal ordinario Item#8. EN/FR/JA distinguen pureza y uso; las instrucciones requieren esos EventItem acotados."},
     {"rule": "item names", "gameKey": "quest/054/KinGml103_05477#TEXT_KINGML103_05477_TODO_01", "hash": "C74B065E8D0BCC51", "why": "Se refiere al objeto de misión clear fire crystal (EventItem#2003508) o low-quality fire crystal (EventItem#2003824), no al cristal ordinario Item#8. EN/FR/JA distinguen pureza y uso; las instrucciones requieren esos EventItem acotados."},
-    {"rule": "place names", "gameKey": "EventItemHelp#2003636", "hash": "9B4A5A5CC0B1A7FF", "why": "Upper reaches es el curso alto del río Miyakabek'zoma en Tural. FR/JA lo confirman; no se refiere a PlaceName#1693, Tramos Superiores."}
+    {"rule": "place names", "gameKey": "EventItemHelp#2003636", "hash": "9B4A5A5CC0B1A7FF", "why": "Upper reaches es el curso alto del río Miyakabek'zoma en Tural. FR/JA lo confirman; no se refiere a PlaceName#1693, Tramos Superiores."},
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10337.0",
+      "hash": "04268EAA67AF8771",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10337.9",
+      "hash": "2AAD1ECE2B1170FB",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10338.0",
+      "hash": "4BE70937284C3569",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10338.9",
+      "hash": "21968AEE2725E94B",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10339.0",
+      "hash": "F4966DDA2CF19DD8",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10339.9",
+      "hash": "9BD39C27A31460A2",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10340.0",
+      "hash": "0B01F023F7D45B42",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10340.9",
+      "hash": "8EDD575A98072025",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10341.0",
+      "hash": "5A18F3CF4AEAA29C",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10341.9",
+      "hash": "F1288E14DBA7707D",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10342.0",
+      "hash": "DBA675FF638436D3",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10342.9",
+      "hash": "B73468E4EEF76D74",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10343.0",
+      "hash": "90FE24018E2F12B9",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10343.9",
+      "hash": "2DA558070D109122",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10344.0",
+      "hash": "40DF1851B9396C74",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#10344.9",
+      "hash": "D57D957CF80733CE",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#17740.0",
+      "hash": "1BFDC86ED5686137",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#17740.9",
+      "hash": "9DFC90695CF4E323",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#17741.0",
+      "hash": "22B7B5D6C41F3150",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#17741.9",
+      "hash": "B304D7CEC7DAC54C",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#22747.0",
+      "hash": "DDEF7B6476746A93",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#22747.9",
+      "hash": "C51FECAD5B5C29EE",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#25216.0",
+      "hash": "A86D86E66AAC2531",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#25216.9",
+      "hash": "680DA5B947455ACE",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#25217.0",
+      "hash": "27C03DC73480CD44",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#25217.9",
+      "hash": "2B49396555A1FCAC",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#33354.0",
+      "hash": "937C1D6BBBD78BDF",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#33354.9",
+      "hash": "A47306A0294E34D0",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#33355.0",
+      "hash": "85591D8F50B84391",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#33355.9",
+      "hash": "7572FF63CD112F70",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#41455.0",
+      "hash": "EBDFF9108ACC2BAD",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#41455.9",
+      "hash": "D87F65CD0AE11C30",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#41456.0",
+      "hash": "1CA677AA72FE2081",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#41456.9",
+      "hash": "361E199F0209F8B9",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4542.0",
+      "hash": "7904AEB867FA29F0",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4542.9",
+      "hash": "D5F3C60E8BED99E4",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4543.0",
+      "hash": "BBBCD74FF73DBA31",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4543.9",
+      "hash": "6564AB9096898163",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4544.0",
+      "hash": "EC81059C8E5383C3",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4544.9",
+      "hash": "01458EBA712FD719",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4545.0",
+      "hash": "358CE7B26F24421A",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4545.9",
+      "hash": "2F3632CCF03AB3FA",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4546.0",
+      "hash": "DAD5AC0117F01CB7",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4546.9",
+      "hash": "E557CA9842519A55",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4547.0",
+      "hash": "49BB4DC1C412FCD1",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4547.9",
+      "hash": "6E2337E64E751A6C",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4548.0",
+      "hash": "81E03BCCFED6FB93",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4548.9",
+      "hash": "3A5F697F3CBC6585",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4549.0",
+      "hash": "074D3916174469BE",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4549.9",
+      "hash": "C38F6C0546BA6FA8",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4550.0",
+      "hash": "CA3A1FE59162488F",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#4550.9",
+      "hash": "0BAB8F5E9956A8B5",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#7886.0",
+      "hash": "E30107904237A633",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#7886.9",
+      "hash": "615FAE162BFF42E4",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8574.0",
+      "hash": "B6813C1CB05812DC",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8574.9",
+      "hash": "D8AAB22668D48A80",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8839.0",
+      "hash": "669D07315C530166",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8839.9",
+      "hash": "128530953AD1BA2E",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8840.0",
+      "hash": "BBD9C604CED52E3D",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "Item#8840.9",
+      "hash": "A6D2BB72E21AE315",
+      "why": "Item grammar uses lowercase in column 0 and an initial capital in the display name in column 9."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "LogMessage#2756",
+      "hash": "D1C09BFF7D2AB212",
+      "why": "Magitek reaper is a machine, not the segador job."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "LogMessage#9829",
+      "hash": "1ADF6302D476A54D",
+      "why": "Magitek reaper is a machine, not the segador job."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "LogMessage#9879",
+      "hash": "90F753FF56FE6B18",
+      "why": "Magitek reaper is a machine, not the segador job."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "LogMessage#9880",
+      "hash": "715FE931C3317E0F",
+      "why": "Magitek reaper is a machine, not the segador job."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ClsAlc050_00578#TEXT_CLSALC050_00578_SEVERIAN_004",
+      "hash": "57367EF422773F9F",
+      "why": "Grass viper is an untranslated item name, not the víbora job."
+    },
+    {
+      "rule": "term drift",
+      "gameKey": "quest/005/ClsAlc050_00578#TEXT_CLSALC050_00578_SEVERIAN_024",
+      "hash": "C643C011217EE6E2",
+      "why": "Grass viper is an untranslated item name, not the víbora job."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "ClassJob#10.30",
+      "hash": "94A8397D12C656B1",
+      "why": "This is a class or job label, not the fish with the same English name."
+    },
+    {
+      "rule": "item names",
+      "gameKey": "ClassJob#32.30",
+      "hash": "737932C26008B646",
+      "why": "This is a class or job label, not the fish with the same English name."
+    }
   ]
 }

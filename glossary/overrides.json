@@ -49,11 +49,11 @@
     {"en":"levemete","es-es":"Levemete","protect":true},
     {"en":"levewatch","es-es":"supervisor de encargos","protect":false},
     {"en":"Mother Miounne","es-es":"Madre Miounne","protect":false},
-    {"note":"Único nombre de job traducido, también en interfaz. En prosa: domador o domadora. Se conserva la abreviatura BST; los demás jobs siguen en inglés en interfaz.","en":"Beastmaster","es-es":"Domador","protect":false},
+    {"note":"Job: adiestrador o adiestradora, también en interfaz. Se conserva la abreviatura BST.","en":"Beastmaster","es-es":"Adiestrador","protect":false},
     {"en":"Kornago gourd","es-es":"calabaza Kornago","protect":false},
-    {"note":"Objeto del sistema Domador; también se traduce en inventario y en las instrucciones que lo citan.","en":"Cu Sith Gourd","es-es":"Calabaza de Cu Sith","protect":false},
+    {"note":"Objeto del sistema Adiestrador; también se traduce en inventario y en las instrucciones que lo citan.","en":"Cu Sith Gourd","es-es":"Calabaza de Cu Sith","protect":false},
     {"note":"Instrumento y acción de Beastmaster: cuerno de llamada. Las variantes de la acción conservan I, II y III.","en":"battlehorn","es-es":"cuerno de llamada","protect":false},
-    {"note":"Nombre del menú y sus citas en tutoriales y diálogo.","en":"Master's Bestiary","es-es":"Bestiario del domador","protect":false},
+    {"note":"Nombre del menú y sus citas en tutoriales y diálogo.","en":"Master's Bestiary","es-es":"Bestiario del adiestrador","protect":false},
     {"note":"Estado alterado, también en sus referencias y etiquetas de resistencia.","en":"Poison","es-es":"Veneno","protect":false},
     {"en":"Sandstill","es-es":"Retorno temporal","protect":false},
     {"en":"Through Fire","es-es":"Ignífugo","protect":false},
@@ -734,7 +734,7 @@
       "ja": "",
       "es-es": "la magia de los sabios",
       "protect": false,
-      "note": "Follows the job-name pattern of astrologian -> astrólogo and pictomancer -> pictomante, NOT the viper exception."
+      "note": "Use the agreed Spanish job names in references to their magic."
     },
     {"en":"Master Calyx","fr":"","ja":"指導者カリュクス","es-es":"el maestro Calyx","protect":false,"note":"Master designa aquí a un dirigente."},
     {
@@ -2281,7 +2281,7 @@
       "ja": "制御装置",
       "note": "Follows English \"actuation\" rather than FR \"control\"."
     },
-    {"en":"reaper","es-es":"Reaper","protect":true,"fr":"faucheur","ja":"リーパー","note":"Nombre del job: Reaper, invariable, también en prosa. Conservar paráfrasis como arte de la guadaña y portadores de guadaña, y el apodo la Segadora de Drusilla. No aplicar a máquinas magitek, segadores agrícolas ni otros homónimos."},
+    {"en":"reaper","es-es":"segador","protect":false,"fr":"faucheur","ja":"リーパー","note":"Job: segador; femenino segadora y plural segadores. Distinguir de máquinas magitek, segadores agrícolas y otros homónimos."},
     {
       "en": "the Lifestream",
       "es-es": "la corriente vital",
@@ -2648,9 +2648,9 @@
       "en": "dragoon",
       "fr": "",
       "ja": "",
-      "es-es": "caballero dragón",
+      "es-es": "dragontino",
       "protect": false,
-      "note": "Job de combate. No confundir con lancero."
+      "note": "Job: dragontino o dragontina, también en interfaz. No confundir con lancero."
     },
     {
       "en": "Athenaeum",
@@ -2963,9 +2963,9 @@
       "en": "Azure Dragoon",
       "fr": "",
       "ja": "",
-      "es-es": "Caballero Dragón Azur",
+      "es-es": "Dragontino Azur",
       "protect": false,
-      "note": "Follows the pinned dragoon → «caballero dragón», because the title IS the post of their leader: «the leader of the dragoons is known as the Azure Dragoon». «Azur» over «Azul» for 蒼, the deep blue; the French invents «le Dragon céleste» and is no help. INVARIABLE IN THE PLURAL — «los Caballeros Dragón Azur» — as «Dragón» already is."
+      "note": "Use Dragontino Azur for the title. Use Dragontinos Azur in the plural; keep Azur unchanged."
     },
     {
       "en": "Dusk Mother",
@@ -3647,7 +3647,7 @@
       "protect": false,
       "note": "Althyk, of the Twelve. Deliberately distinct from Lightwarden -> «Guardián de la Luz», which is why it is «Custodio» and not «Guardián» despite the French «Gardien»."
     },
-    {"en":"the Scholar","fr":"l'Érudit","ja":"知神","note":"ES THALIAK, UNO DE LOS DOCE, Y NO EL TRABAJO. El 16 de agosto de 2026 esta entrada se puso en «Scholar» aplicandole `_job_names_stay_english_comment`, que habla de los nombres de trabajo; el epiteto de un dios no es uno. La propia nota de entonces ya decia que el corpus enviaba «el Erudito» y lo sobrescribio igual. Revertido el 19 de agosto de 2026: 20 filas publicadas dicen «el Erudito» y el ingles no deja lugar a duda — «a strategy blessed by the Scholar Himself», «gaze at the Scholar and the sea», «The Scholar shall measure your depth». El frances coincide, «l'Erudit». OJO AL HOMONIMO: `Soul of the Scholar` SI es el cristal de alma del trabajo y va en ingles por ser nombre de objeto, y un traductor uso esta entrada como autoridad para dejar `Scholar`, `Dark Knight` y `Ninja` en ingles en todo un trozo.","es-es":"El Erudito","protect":false},
+    {"en":"the Scholar","fr":"l'Érudit","ja":"知神","note":"Epíteto de Thaliak: El Erudito. No confundir con el job erudito ni con el objeto alma del erudito.","es-es":"El Erudito","protect":false},
     {
       "en": "the Wanderer",
       "fr": "le Vagabond",
@@ -4148,9 +4148,9 @@
       "en": "viper",
       "fr": "rôdeur vipère",
       "ja": "ヴァイパー",
-      "es-es": "viper",
-      "protect": true,
-      "note": "INGLES EN TODOS LOS AMBITOS, prosa incluida: no hay forma espanola asentada y «víbora» ya nombra al animal en 86 filas. Masculino, «un viper», «los vipers». Las posturas si se traducen: «la postura de doble colmillo», «la postura de víbora». Ver `_job_names_stay_english_comment`."
+      "es-es": "víbora",
+      "protect": false,
+      "note": "Job: víbora; plural víboras. Usar la víbora y las víboras, también en interfaz. Distinguir del animal y de los nombres de objetos que se conservan en inglés."
     },
     {
       "en": "pictomancer",
@@ -4158,7 +4158,7 @@
       "ja": "ピクトマンサー",
       "es-es": "pictomante",
       "protect": false,
-      "note": "«la pictomancia» for the art. Follows the astrologian -> «astrólogo» job-name precedent rather than the [[viper]] ruling, because the English itself is a transparent -mancer compound. The Japanese-only rows use 色魔法 -> «magia de color», for which no English exists at all."
+      "note": "Job: pictomante, también en interfaz. El arte se llama pictomancia."
     },
     {
       "en": "Passage of the Unbound",
