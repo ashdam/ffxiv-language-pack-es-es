@@ -1876,8 +1876,8 @@
     {
       "rule": "place names",
       "gameKey": "DescriptionString#320",
-      "hash": "08617825710D309C",
-      "why": "The context uses a natural Spanish description for these ferry docks."
+      "hash": "B23E93F4909F77D9",
+      "why": "Ferry docks is a lowercase description of the embarkation point. Muelle del transbordador preserves the meaning; French also uses a descriptive noun."
     },
     {
       "rule": "place names",
@@ -6556,14 +6556,14 @@
     {
       "rule": "place names",
       "gameKey": "quest/032/LucKra102_03256#TEXT_LUCKRA102_03256_SEQ_01",
-      "hash": "4F1F2AFCF25F8A05",
-      "why": "The match is ordinary language, another name, or a contextual Spanish form; the translation is correct for this row."
+      "hash": "A43AF46EE9B70F85",
+      "why": "Inner reaches refers to the interior of Eden, not the place name Tramos Interiores. French and Japanese describe the same interior."
     },
     {
       "rule": "place names",
       "gameKey": "quest/032/LucKra103_03257#TEXT_LUCKRA103_03257_SEQ_01",
-      "hash": "883DEE89D60E4FC5",
-      "why": "The match is ordinary language, another name, or a contextual Spanish form; the translation is correct for this row."
+      "hash": "1A90FA248FECC7B6",
+      "why": "Inner reaches refers to the interior of Eden, not the place name Tramos Interiores. French and Japanese describe the same interior."
     },
     {
       "rule": "place names",
@@ -17727,6 +17727,90 @@
       "gameKey": "ClassJob#32.30",
       "hash": "737932C26008B646",
       "why": "This is a class or job label, not the fish with the same English name."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "CompleteJournal#7584",
+      "hash": "4049D13EC1B366DA",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "CompleteJournal#7585",
+      "hash": "B27425F9C7701B7B",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "CompleteJournal#7586",
+      "hash": "8A6D343DD774B70C",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "CompleteJournal#7587",
+      "hash": "364902D45C008BC6",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#1009.43",
+      "hash": "00D06284600FB312",
+      "why": "Warmth describes family affection in a quest title, not the place Calidez."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#1016.43",
+      "hash": "B3AD29B2503535B4",
+      "why": "Passage refers to blocking a route in a quest title, not the place Pasadizo."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#157.43",
+      "hash": "CD0A3AD0BACFF76E",
+      "why": "Enemy describes hostile reinforcements in a training exercise, not a place name."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#161.43",
+      "hash": "43CD1E6D0272B1D4",
+      "why": "Enemy describes hostile reinforcements in a training exercise, not a place name."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#266.43",
+      "hash": "6895AD4CDEDFC351",
+      "why": "The heart of the problem is an idiom in a quest title, not a location."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#283.43",
+      "hash": "612BC12D7FC6FBFA",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#570.43",
+      "hash": "1A6F7AEFCAFBF212",
+      "why": "Bridge refers to a small bridge in a minigame title, not a ship bridge."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#581.43",
+      "hash": "743F262A8BA7189C",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#598.43",
+      "hash": "1C45314175DEEFD4",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
+    },
+    {
+      "rule": "place names",
+      "gameKey": "ContentFinderCondition#639.43",
+      "hash": "55DBEC890298792D",
+      "why": "The regional name uses the agreed order: Eureka plus region, followed by la Tierra Prohibida."
     }
   ]
 }
