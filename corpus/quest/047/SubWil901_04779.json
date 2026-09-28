@@ -348,7 +348,7 @@
     {
       "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_FULKE_000_082",
       "hash": "61A8FA4FC0F6A010",
-      "target": "Me dijeron que alguien quería saber de Louisoix... y resulta ser <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>... Un placer. Soy el teniente Syro Fulke, de la Orden de las Víboras Gemelas."
+      "target": "Me dijeron que alguien quería saber de Louisoix... y resulta ser <if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>... Un placer. Soy el teniente Syro Fulke, de la Orden de las Víboras Gemelas."
     },
     {
       "gameKey": "quest/047/SubWil901_04779#TEXT_SUBWIL901_04779_NANANJI_000_083",

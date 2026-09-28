@@ -2,7 +2,7 @@
   "conversation": "custom/001/ComDefFrontLine_00182",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "custom/001/ComDefFrontLine_00182#TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_000", "hash": "1B66A95CCC542B7C", "target": "Ah, <head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>! Bien hallado, bien hallado." },
+    { "gameKey": "custom/001/ComDefFrontLine_00182#TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_100_000", "hash": "1B66A95CCC542B7C", "target": "Ah, <if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>! Bien hallado, bien hallado." },
     { "gameKey": "custom/001/ComDefFrontLine_00182#TEXT_COMDEFFRONTLINE_00182_HIKUUHEI182_000_000", "hash": "2EDB269614823772", "target": "¿Viene a unirse a nosotros en el frente? ¿O quizá tenga preguntas que hacer?" },
     { "gameKey": "custom/001/ComDefFrontLine_00182#TEXT_COMDEFFRONTLINE_00182_Q1_000_000", "hash": "B7D0E07FD29E0829", "target": "¿Qué desea hacer?" },
     { "gameKey": "custom/001/ComDefFrontLine_00182#TEXT_COMDEFFRONTLINE_00182_A1_000_000", "hash": "5B6DB90E045C0D14", "target": "Preguntar por las campañas del Frente." },
