@@ -165,7 +165,7 @@
     {
       "gameKey": "quest/038/XxaUse304_03884#TEXT_XXAUSE304_03884_SWIFT_000_090",
       "hash": "92706D76FF724884",
-      "target": "¿Qué noticias hay, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>? ¿Dónde está el mercader?"
+      "target": "¿Qué noticias hay, <if([gnum54>0],<if([gnum54<127],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>? ¿Dónde está el mercader?"
     },
     {
       "gameKey": "quest/038/XxaUse304_03884#TEXT_XXAUSE304_03884_SWIFT_000_091",
@@ -175,7 +175,7 @@
     {
       "gameKey": "quest/038/XxaUse304_03884#TEXT_XXAUSE304_03884_SWIFT_000_092",
       "hash": "76571497FE9EC7B3",
-      "target": "No lo asesinaron sin más, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>─lo <italic(1)>silenciaron<italic(0)>. Demasiados conocían su cara, y estaba a punto de revelar sus secretos."
+      "target": "No lo asesinaron sin más, <if([gnum54>0],<if([gnum54<127],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>─lo <italic(1)>silenciaron<italic(0)>. Demasiados conocían su cara, y estaba a punto de revelar sus secretos."
     },
     {
       "gameKey": "quest/038/XxaUse304_03884#TEXT_XXAUSE304_03884_SWIFT_000_093",

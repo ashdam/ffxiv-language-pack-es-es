@@ -81,7 +81,7 @@
     {
       "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_RAUBAHN_000_010",
       "hash": "40164F451D661DF1",
-      "target": "Ahora no es buen momento, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. Tengo las manos ocupadas con los refugiados."
+      "target": "Ahora no es buen momento, <if([gnum54>0],<if([gnum54<127],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. Tengo las manos ocupadas con los refugiados."
     },
     {
       "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_ALPHINAUD_000_011",
@@ -186,7 +186,7 @@
     {
       "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_040",
       "hash": "E6BE478139EED6FE",
-      "target": "Se te ve como si tuvieras algo que decir, <if([gnum54>0],<if([gnum54<127],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. ¿No es así?"
+      "target": "Se te ve como si tuvieras algo que decir, <if([gnum54>0],<if([gnum54<127],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>,<split(<string(gstr1)>, ,1)>)>. ¿No es así?"
     },
     {
       "gameKey": "quest/014/GaiUse302_01443#TEXT_GAIUSE302_01443_SWIFT_000_041",

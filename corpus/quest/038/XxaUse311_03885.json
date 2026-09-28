@@ -110,7 +110,7 @@
     {
       "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_LIEUTENANT01448_000_010",
       "hash": "E431A468642101A8",
-      "target": "¡Contamos con usted, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! ¡Cuídese y que los dioses le acompañen!"
+      "target": "¡Contamos con usted, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>! ¡Cuídese y que los dioses le acompañen!"
     },
     {
       "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_MAXIO_000_020",
@@ -195,7 +195,7 @@
     {
       "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_LIEUTENANT01448_000_063",
       "hash": "3EC2F78F62D46777",
-      "target": "Hoy ha cumplido un deber colosal, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. ¡Hay que informar de inmediato a la Gran Vidente de sus hazañas!"
+      "target": "Hoy ha cumplido un deber colosal, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>. ¡Hay que informar de inmediato a la Gran Vidente de sus hazañas!"
     }
   ]
 }

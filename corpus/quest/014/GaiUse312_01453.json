@@ -50,12 +50,12 @@
     {
       "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LIEUTENANT01448_000_001",
       "hash": "6D0AD5940E321AC5",
-      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica le estará esperando. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
+      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica le estará esperando. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
     },
     {
       "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_LIEUTENANT01448_000_010",
       "hash": "715AFC9FFB67C9BE",
-      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica aguardará su llegada. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
+      "target": "Le ruego que regrese a Gridania y se dirija sin demora al Estrado del Loto: el conjurador del Altar de Nophica aguardará su llegada. Que le vaya bien, <if([gnum52>0],<split(<string(gstr1)>, ,1)>,<if([gnum53>0],<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>,<split(<string(gstr1)>, ,1)>)>)>."
     },
     {
       "gameKey": "quest/014/GaiUse312_01453#TEXT_GAIUSE312_01453_DOORMANLOTUS_000_020",
