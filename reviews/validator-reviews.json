@@ -21927,6 +21927,18 @@
       "gameKey": "GuildleveAssignmentTalk#32.32",
       "hash": "B55914BD467E2BE8",
       "why": "Lower changes only the case of the full Grand Company rank in a sentence. All data macros are preserved."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/005/ManFst503_00524#TEXT_MANFST503_00524_SEQ_03",
+      "hash": "7B906825CBE5A29F",
+      "why": "Both quest summaries preserve the source meaning and use Arma Última. Their differences are valid prose choices."
+    },
+    {
+      "rule": "text consistency",
+      "gameKey": "quest/045/XxcFst503_04522#TEXT_XXCFST503_04522_SEQ_07",
+      "hash": "B981FA8332882209",
+      "why": "Both quest summaries preserve the source meaning and use Arma Última. Their differences are valid prose choices."
     }
   ]
 }
