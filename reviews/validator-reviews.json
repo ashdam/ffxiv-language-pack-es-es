@@ -21939,6 +21939,13 @@
       "gameKey": "quest/045/XxcFst503_04522#TEXT_XXCFST503_04522_SEQ_07",
       "hash": "B981FA8332882209",
       "why": "Both quest summaries preserve the source meaning and use Arma Última. Their differences are valid prose choices."
-    }
+    },
+    {"rule": "macro parity source vs es-es", "gameKey": "FCActivity#10", "hash": "560B651BC3859C69", "why": "Gender agreement uses the member gender parameter gnum5, also used by French. Player, rank and name references are preserved."},
+    {"rule": "macro parity source vs es-es", "gameKey": "FCActivity#12", "hash": "A7A14FC10F1163CD", "why": "Gender agreement uses the member gender parameter gnum5, also used by French. Player, rank and name references are preserved."},
+    {"rule": "place names", "gameKey": "FCAuthority#4", "hash": "F903FEF82207E7A3", "why": "Ajustes del cofre is a short permission label inside the Free Company window. It refers to its chest and needs no full map label."},
+    {"rule": "place names", "gameKey": "FCAuthority#67", "hash": "AF8932D52F238695", "why": "Creation refers to creating workshop prototypes. It does not refer to a place."},
+    {"rule": "item names", "gameKey": "Adventure#2162715.15", "hash": "A0D313E34732D30D", "why": "Venture is a verb about entering kobold lands. It does not name the currency."},
+    {"rule": "item names", "gameKey": "Adventure#2162719.15", "hash": "9EEA7698CF34853E", "why": "Venture is a verb about entering kobold lands. It does not name the currency."},
+    {"rule": "item names", "gameKey": "Adventure#2162869.15", "hash": "4E5348368BD17D3A", "why": "Mettle is part of the duty name Bardam's Mettle. It does not name the item."}
   ]
 }
