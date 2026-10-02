@@ -1,9 +1,12 @@
 {
   "_comment": [
+    "Format: https://github.com/ashdam/ffxiv-corpus-en/blob/main/docs/inventory-exclusions.md",
     "Each row needs gameKey and the current source hash; each group needs why.",
     "Matching hashes remove the row from this language pack's translation inventory.",
     "A changed source hash fails validation so the exclusion is reviewed. Translated rows are still served."
   ],
+
+  "excludedSheets": [],
 
   "exclusion_groups": [
     {
