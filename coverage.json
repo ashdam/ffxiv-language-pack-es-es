@@ -1,8 +1,8 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 479915,
-  "total": 481017,
-  "percent": 99.8,
+  "translated": 480877,
+  "total": 480877,
+  "percent": 100,
   "chars": 49038763,
   "unresolved": 5455,
   "groups": [
@@ -375,14 +375,14 @@
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
-      "translated": 14877,
-      "total": 14877
+      "translated": 14849,
+      "total": 14849
     },
     {
       "expansion": null,
       "content": "Title screen, character creation (`Lobby`)",
-      "translated": 1034,
-      "total": 1034
+      "translated": 1022,
+      "total": 1022
     },
     {
       "expansion": null,
@@ -399,8 +399,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 120687,
-      "total": 121789
+      "translated": 121689,
+      "total": 121689
     }
   ],
   "excludedFromLocalization": [
@@ -413,8 +413,98 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 604,
-      "total": 694
+      "translated": 734,
+      "total": 834
+    }
+  ],
+  "futureLocalization": [
+    {
+      "sheet": "Action",
+      "content": "Actions",
+      "total": 44412,
+      "translated": 646,
+      "pending": 43766,
+      "pendingPercent": 98.5
+    },
+    {
+      "sheet": "ActionTransient",
+      "content": "Action descriptions",
+      "total": 3397,
+      "translated": 363,
+      "pending": 3034,
+      "pendingPercent": 89.3
+    },
+    {
+      "sheet": "BNpcName",
+      "content": "Enemy names",
+      "total": 29475,
+      "translated": 246,
+      "pending": 29229,
+      "pendingPercent": 99.2
+    },
+    {
+      "sheet": "ClassJob",
+      "content": "Classes and jobs",
+      "total": 87,
+      "translated": 83,
+      "pending": 4,
+      "pendingPercent": 4.6
+    },
+    {
+      "sheet": "EventItem",
+      "content": "Quest items",
+      "total": 10593,
+      "translated": 10593,
+      "pending": 0,
+      "pendingPercent": 0
+    },
+    {
+      "sheet": "EventItemHelp",
+      "content": "Quest item descriptions",
+      "total": 3530,
+      "translated": 3530,
+      "pending": 0,
+      "pendingPercent": 0
+    },
+    {
+      "sheet": "Item",
+      "content": "Items",
+      "total": 173452,
+      "translated": 3191,
+      "pending": 170261,
+      "pendingPercent": 98.2
+    },
+    {
+      "sheet": "Pet",
+      "content": "Pet names",
+      "total": 90,
+      "translated": 50,
+      "pending": 40,
+      "pendingPercent": 44.4
+    },
+    {
+      "sheet": "Status",
+      "content": "Statuses",
+      "total": 9343,
+      "translated": 315,
+      "pending": 9028,
+      "pendingPercent": 96.6
+    },
+    {
+      "sheet": "Trait",
+      "content": "Traits",
+      "total": 682,
+      "translated": 14,
+      "pending": 668,
+      "pendingPercent": 97.9
+    },
+    {
+      "sheet": "TraitTransient",
+      "content": "Trait descriptions",
+      "total": 682,
+      "translated": 14,
+      "pending": 668,
+      "pendingPercent": 97.9
     }
   ]
 }
