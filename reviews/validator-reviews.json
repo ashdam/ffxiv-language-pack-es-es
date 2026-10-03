@@ -21946,6 +21946,8 @@
     {"rule": "place names", "gameKey": "FCAuthority#67", "hash": "AF8932D52F238695", "why": "Creation refers to creating workshop prototypes. It does not refer to a place."},
     {"rule": "item names", "gameKey": "Adventure#2162715.15", "hash": "A0D313E34732D30D", "why": "Venture is a verb about entering kobold lands. It does not name the currency."},
     {"rule": "item names", "gameKey": "Adventure#2162719.15", "hash": "9EEA7698CF34853E", "why": "Venture is a verb about entering kobold lands. It does not name the currency."},
-    {"rule": "item names", "gameKey": "Adventure#2162869.15", "hash": "4E5348368BD17D3A", "why": "Mettle is part of the duty name Bardam's Mettle. It does not name the item."}
+    {"rule": "item names", "gameKey": "Adventure#2162869.15", "hash": "4E5348368BD17D3A", "why": "Mettle is part of the duty name Bardam's Mettle. It does not name the item."},
+    {"rule":"place names","gameKey":"quest/001/ClsRog101_00126#TEXT_CLSROG101_00126_SEQ_04","hash":"17DB55702B212474","why":"The lowercase source describes the ferry docks. Muelles del transbordador preserves that description."},
+    {"rule": "place names", "gameKey": "quest/001/ClsRog301_00155#TEXT_CLSROG301_00155_JACKE_000_001", "hash": "B233B1AFE562F71A", "why": "Admiral's Bridge names the command room in the Mizzenmast, not the separate place named Bridge."}
   ]
 }
