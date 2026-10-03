@@ -8,7 +8,7 @@
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_4", "hash": "8149D2F8EA5DAAB7", "target": "Los del Maelstrom tenemos el cometido de hacer frente a las amenazas que suponen los primigenios y el Imperio garleano, y de resolver los muchos problemas causados por la Calamidad." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_5", "hash": "EA66F24615D1363D", "target": "Cada hombre y cada mujer que sirve bajo nuestros colores tiene un papel que cumplir para mantener a flote el gran navío de guerra que es Limsa Lominsa, y con el rumbo que la almirante en jefe Merlwyb Bloefhiswyn tenga a bien fijar." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_6", "hash": "A9FC23DE9CBC61D3", "target": "Como parte de la tripulación de este gran navío, se esperará que tomes tu turno al remo... pues los vientos no pintan favorables, <if(gnum4,muchacha,muchacho)>, y puede que la fuerza de los brazos sea lo único que nos lleve a puerto sanos y salvos." },
-    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_7", "hash": "850214C8EB88412A", "target": "...Si te pierdo entre tanta charla de barco y remo, lo diré de otro modo: un soldado del Maelstrom se bate hasta <if(gnum4,su,su)> último aliento y hasta <if(gnum4,su,su)> última gota de sangre. Lo damos todo por esta nación, y de ti no se espera menos." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_7", "hash": "850214C8EB88412A", "target": "... Si te pierdo entre tanta charla de barco y remo, lo diré de otro modo: un soldado del Maelstrom se bate hasta <if(gnum4,su,su)> último aliento y hasta <if(gnum4,su,su)> última gota de sangre. Lo damos todo por esta nación, y de ti no se espera menos." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_8", "hash": "20CC9B73DD16C8E0", "target": "<split(<string(gstr1)>, ,2)>... es costumbre que los nuevos reclutas presten un juramento de su elección al entrar en las filas del Maelstrom. ¿Hay algo que te gustaría decir?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_Q1_000_1", "hash": "997A32234A8DE8A0", "target": "¿Qué juramento harás?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_A1_000_1", "hash": "0DEDE8EA2E995867", "target": "¡Mi espada es tuya hasta que el mar todo lo engulla!" },
@@ -27,35 +27,11 @@
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_023", "hash": "EEE28C9C0723A13A", "target": "No hay descanso para los malvados, ¿eh?" },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_STORMPERSONNEL_000_024", "hash": "A0E3DEE50BAFAC54", "target": "Antes de esfumarte, te recomiendo tener unas palabras con la comandante Rhiki. Podría merecerte la pena..." },
     { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_GUIDE_000_200", "hash": "FBDB1CA351164436", "target": "¡Bienvenido de vuelta, <split(<string(gstr1)>, ,1)>! La señora Minfilia te espera dentro." },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_00",
-      "hash": "1A40D47158C88C5D",
-      "target": "El oficial de personal está listo para completar tu incorporación a las filas."
-    },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_01",
-      "hash": "D92A4F0F79E8CAD8",
-      "target": "Has jurado servir a la Gran Compañía de Limsa Lominsa, el Maelstrom. Apenas unos instantes después de que te asignen tu nuevo rango, Minfilia te contacta por linkpearl y solicita tu presencia. Vuelve al Refugio de las Arenas."
-    },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_02",
-      "hash": "52E90826302D50F2",
-      "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Fundiciones Garlond, están ahora bajo la protección de los Vástagos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea."
-    },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_TODO_00",
-      "hash": "C1D3C4A09378FEB6",
-      "target": "Hablar con el Vástago del Séptimo Amanecer en el Refugio de las Arenas"
-    },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025",
-      "hash": "C911403A6F023600",
-      "target": "Ya puedes aceptar la misión «Mi pequeño chocobo (Maelstrom)» hablando con R'ashaht Rhiki."
-    },
-    {
-      "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_026",
-      "hash": "7C8421CB76E4757D",
-      "target": "Debes completar esta misión para poder avanzar hasta el final de la historia principal de A Realm Reborn."
-    }
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_00", "hash": "1A40D47158C88C5D", "target": "El oficial de personal está listo para completar tu incorporación a las filas." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_01", "hash": "D92A4F0F79E8CAD8", "target": "Has jurado servir a la Gran Compañía de Limsa Lominsa, el Maelstrom. Apenas unos instantes después de que te asignen tu nuevo rango, Minfilia te contacta por linkpearl y solicita tu presencia. Vuelve al Refugio de las Arenas." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SEQ_02", "hash": "52E90826302D50F2", "target": "De vuelta en el Refugio de las Arenas, Minfilia anuncia que Biggs y Wedge, los ingenieros de las Fundiciones Garlond, están ahora bajo la protección de los Vástagos del Séptimo Amanecer. Con nuevos aliados, vuelve a luchar por el bien de Eorzea." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_TODO_00", "hash": "C1D3C4A09378FEB6", "target": "Hablar con el Vástago del Séptimo Amanecer en el Refugio de las Arenas" },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_025", "hash": "C911403A6F023600", "target": "Ya puedes aceptar la misión «Mi pequeño chocobo (Maelstrom)» hablando con R'ashaht Rhiki." },
+    { "gameKey": "quest/006/ManSea303_00684#TEXT_MANSEA303_00684_SYSTEM_000_026", "hash": "7C8421CB76E4757D", "target": "Debes completar esta misión para poder avanzar hasta el final de la historia principal de A Realm Reborn." }
   ]
 }

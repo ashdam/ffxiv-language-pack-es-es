@@ -22,7 +22,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_FLAMEOFFICER_000_27", "hash": "48B1AE88D6AEFA0D", "target": "Pues bien, incluso antes de que nos ayudara contra los Amalj'aa y su temible primigenio, el suyo ya era un nombre respetado en Ul'dah. Nuestro pueblo le conoce y le aprecia." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_FLAMEOFFICER_000_28", "hash": "E2A67AF6BF89E497", "target": "<if(gnum4,Una mujer,Un hombre)> de su talento pertenece a las Llamas Inmortales. Una su fuerza a la nuestra, amig<if(gnum4,a,o)>, y juntos asegurémosle a Ul'dah un futuro próspero." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_STORMOFFICER_000_29", "hash": "BD748773EBA6E6A0", "target": "¡La Almirante no exageraba cuando dijo que tienes aire de <if(gnum4,heroína,héroe)>! Habla de ti a menudo, amig<if(gnum4,a,o)>." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_STORMOFFICER_000_30", "hash": "301F01F537D2C972", "target": "...Como muchos otros en Limsa. Mucho antes de que el resto de Eorzea reparara en ti, tu nombre nos era bien conocido por tus valerosas hazañas en favor de nuestros ciudadanos." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_STORMOFFICER_000_30", "hash": "301F01F537D2C972", "target": "... Como muchos otros en Limsa. Mucho antes de que el resto de Eorzea reparara en ti, tu nombre nos era bien conocido por tus valerosas hazañas en favor de nuestros ciudadanos." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_STORMOFFICER_000_31", "hash": "CC53F86BF461CAB1", "target": "Es de lo más natural que te queramos para el Maelstrom. Une tu fuerza a la nuestra y juntos llevemos la gran nave de Limsa Lominsa hasta las costas de la gloria." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_THREEOFFICER_000_32", "hash": "2737FCE1D5C43B9C", "target": "¡Señora Minfilia!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_33", "hash": "A9F80C9925EB1FD9", "target": "\\<suspiro> Está bien..." },
@@ -40,7 +40,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_THREEOFFICER_000_45", "hash": "993131771355B79D", "target": "¡Aguardamos con impaciencia su respuesta!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_46", "hash": "5BAB2A3269121197", "target": "Sé muy bien que los aventureros sois por naturaleza gente amante de la libertad, poco hecha a la disciplina militar, pero aun así te insto a unirte a una Gran Compañía. Aunque la promesa de recompensa es de por sí tentadora, no es la única ventaja." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_47", "hash": "C735D959E3DCDA55", "target": "Posees un gran poder, <split(<string(gstr1)>, ,1)>, y con él eres capaz de hacer un bien incalculable. Pero has de saber que el gran poder tiende a atraer atención, y no toda amistosa." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_48", "hash": "4E964C6F2893DE5D", "target": "Habrá quienes te deseen mal, y deberás estar atent<if(gnum4,a,o)> a ellos. Pero por vigilante que seas, no eres más que <if(gnum4,una mujer,un hombre)>. En el seno de una Gran Compañía, en cambio, serás <if(gnum4,una mujer,un hombre)> entre muchos, un amig<if(gnum4,a,o)> entre amigos. Tus logros se compartirán, y también el peligro. No se me ocurre mejor arreglo." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_48", "hash": "4E964C6F2893DE5D", "target": "Habrá quienes te deseen mal, y deberás estar atent<if(gnum4,a,o)> a ellos. Pero por vigilante que seas, no eres más que <if(gnum4,una mujer,un hombre)>. En el seno de una Gran Compañía, en cambio, serás <if(gnum4,una mujer,un hombre)> entre muchos, <if(gnum4,una amiga,un amigo)> entre amigos. Tus logros se compartirán, y también el peligro. No se me ocurre mejor arreglo." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_49", "hash": "AD5E5C28E0D43A31", "target": "Por supuesto, unirte a una organización no tiene por qué significar abandonar otra. Espero que podamos seguir contando con tu ayuda; bien saben los Doce que la necesitaremos en los días venideros." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_50", "hash": "AF612C9F84F4360A", "target": "Las Grandes Compañías buscan proteger a sus propias naciones. Los Vástagos, en cambio, buscamos preservar el futuro de Eorzea en su conjunto. Parecido, pero no del todo igual." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_MINFILIA_000_51", "hash": "6B8EFCC9831EECB2", "target": "Y bien, imagino que en adelante estarás más a menudo sobre el terreno." },
@@ -110,7 +110,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100490_CLATTERM", "hash": "5668A4246C5A2722", "target": "¡El momento es ahora!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100500_CLATTERM", "hash": "80A02E78BA0F5868", "target": "¡Yo creo!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100510_ALPHINAUD", "hash": "4669098B1F3A9BC2", "target": "Permítame presentarme. Soy Alphinaud." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100520_ALPHINAUD", "hash": "D25D09D12317901A", "target": "...Y mi hermana, Alisaie, a su servicio." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100520_ALPHINAUD", "hash": "D25D09D12317901A", "target": "... Y mi hermana, Alisaie, a su servicio." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100530_ALPHINAUD", "hash": "89E34429D9C45CC4", "target": "Vi de un vistazo que era <if(gnum4,una compañera,un compañero)> de viaje." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100540_ALPHINAUD", "hash": "C54ABE9A315A8103", "target": "Podría llamarnos estudiosos de la historia, que catan las conmemoraciones del reino en pos de... la iluminación." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_100550_ALPHINAUD", "hash": "98BE5101751D7F01", "target": "Vaya, volvemos a encontrarnos." },
@@ -165,7 +165,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300920_CLATTERM", "hash": "342F8FE244F12EE8", "target": "¡Nos toca a nosotros proteger el bosque!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300930_CLATTERM", "hash": "37CB528190FA1FCA", "target": "¡Por los elementales!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300940_ALPHINAUD", "hash": "D5A1164971BD2856", "target": "Permítame presentarme. Soy Alphinaud." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300950_ALPHINAUD", "hash": "762B01AAE363A944", "target": "...Y mi hermana, Alisaie, a su servicio." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300950_ALPHINAUD", "hash": "762B01AAE363A944", "target": "... Y mi hermana, Alisaie, a su servicio." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300960_ALPHINAUD", "hash": "7E745AEF858CD730", "target": "Vi de un vistazo que era <if(gnum4,una compañera,un compañero)> de viaje." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300970_ALPHINAUD", "hash": "17E145F698F61691", "target": "Podría llamarnos estudiosos de la historia, que catan las conmemoraciones del reino en pos de... la iluminación." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_300980_ALPHINAUD", "hash": "8F874087E05CA8B4", "target": "Vaya, volvemos a encontrarnos." },
@@ -227,7 +227,7 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501390_CLATTERM", "hash": "B7E0DA0E9CE4C515", "target": "¡¿Dónde está mi sable?!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501400_CLATTERM", "hash": "7E6D20234BB4DA36", "target": "¡Os seguiré hasta los siete infiernos, Almirante!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501410_ALPHINAUD", "hash": "2A34D721A4C80B31", "target": "Permítame presentarme. Soy Alphinaud." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501420_ALPHINAUD", "hash": "E0E7B216F4EE700C", "target": "...Y mi hermana, Alisaie, a su servicio." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501420_ALPHINAUD", "hash": "E0E7B216F4EE700C", "target": "... Y mi hermana, Alisaie, a su servicio." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501430_ALPHINAUD", "hash": "63A6500EB4EE252B", "target": "Vi de un vistazo que era <if(gnum4,una compañera,un compañero)> de viaje." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501440_ALPHINAUD", "hash": "99FF060C3F89B4FF", "target": "Podría llamarnos estudiosos de la historia, que catan las conmemoraciones del reino en pos de... la iluminación." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_501450_ALPHINAUD", "hash": "BCEE10FED5C401FB", "target": "Vaya, volvemos a encontrarnos." },
@@ -268,56 +268,16 @@
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_701650_BODYGUARDB", "hash": "782305A91D15F4A7", "target": "¡Debemos escoltarla!" },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_701660_ALPHINAUD", "hash": "EBD2C4FAD2E98B06", "target": "La esperanza nada tiene que ver. Compartimos el peso de este destino, querida hermana, y venceremos juntos o no venceremos." },
     { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_701670_ALPHINAUD", "hash": "3FA857774808CC91", "target": "El bálsamo no solo servirá para cerrar nuestras heridas presentes..." },
-    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_701680_ALPHINAUD", "hash": "FA3B9F60B05617EA", "target": "...sino para evitar que las viejas vuelvan a abrirse." },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_00",
-      "hash": "AE33BE63E0A1A89A",
-      "target": "Minfilia esboza una sonrisa forzada. ¿Tendrá algo que ver con tu recién ganada fama?"
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_01",
-      "hash": "E35E000F0F40919B",
-      "target": "Al parecer, tus recientes hazañas han atraído la atención de las tres Grandes Compañías de Eorzea. Ahora cada una está empeñada en sumarte a sus filas, hasta el punto de enviar a un representante al Refugio de las Arenas para cortejarte. Aunque este giro de los acontecimientos no parece hacerle mucha gracia a Minfilia, admite que unirse a una Gran Compañía reportaría ciertos beneficios. Pero ¿por cuál te decidirás? Para que tomes una decisión con criterio, te sugiere que asistas a los próximos actos de conmemoración y escuches el discurso de cada líder de Gran Compañía. Tataru podrá darte los detalles."
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_02",
-      "hash": "0B903E18B2972857",
-      "target": "Tataru te ha dicho dónde se celebrarán los actos de conmemoración. Visita el Anfiteatro de Mih Khetto en Gridania, el Paseo Real en Ul'dah y, por último, el Salón de Estado en Limsa Lominsa, y escucha a los líderes de las Grandes Compañías."
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_03",
-      "hash": "44DDF34B2BB70C35",
-      "target": "Ya has asistido a los tres actos de conmemoración. A juzgar por las palabras de los líderes de las Grandes Compañías y de los gemelos viajeros, Alphinaud y Alisaie, parece que cada una de las ciudades-estado de Eorzea está acosada por problemas. Sin duda las tres se beneficiarían de tu ayuda, pero ¿cuál la merece más? Vuelve al Refugio de las Arenas y comparte tus reflexiones con Minfilia."
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_04",
-      "hash": "160E18CF91BA047C",
-      "target": "Minfilia confirma que las tres ciudades-estado necesitan ayuda con urgencia, y lamenta que no haya más que <if(gnum4,una,uno)> como tú. Te aguarda una decisión difícil. Sopésala bien y da tu respuesta al oficial de la Gran Compañía a la que quieras unirte."
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_00",
-      "hash": "0662DAD51607A264",
-      "target": "Hablar con Tataru"
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_01",
-      "hash": "C3A5DE21E2DE56D1",
-      "target": "Asistir al acto de conmemoración en el Anfiteatro de Mih Khetto, en Gridania"
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_02",
-      "hash": "F26386FAEFFF8FB4",
-      "target": "Asistir al acto de conmemoración en el Paseo Real, en Ul'dah"
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_03",
-      "hash": "6F6EB46859651DC1",
-      "target": "Asistir al acto de conmemoración en el Salón de Estado, en Limsa Lominsa"
-    },
-    {
-      "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_04",
-      "hash": "2EFAFC9FEEA7D372",
-      "target": "Informar a Minfilia en el Refugio de las Arenas"
-    }
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_701680_ALPHINAUD", "hash": "FA3B9F60B05617EA", "target": "... sino para evitar que las viejas vuelvan a abrirse." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_00", "hash": "AE33BE63E0A1A89A", "target": "Minfilia esboza una sonrisa forzada. ¿Tendrá algo que ver con tu recién ganada fama?" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_01", "hash": "E35E000F0F40919B", "target": "Al parecer, tus recientes hazañas han atraído la atención de las tres Grandes Compañías de Eorzea. Ahora cada una está empeñada en sumarte a sus filas, hasta el punto de enviar a un representante al Refugio de las Arenas para cortejarte. Aunque este giro de los acontecimientos no parece hacerle mucha gracia a Minfilia, admite que unirse a una Gran Compañía reportaría ciertos beneficios. Pero ¿por cuál te decidirás? Para que tomes una decisión con criterio, te sugiere que asistas a los próximos actos de conmemoración y escuches el discurso de cada líder de Gran Compañía. Tataru podrá darte los detalles." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_02", "hash": "0B903E18B2972857", "target": "Tataru te ha dicho dónde se celebrarán los actos de conmemoración. Visita el Anfiteatro de Mih Khetto en Gridania, el Paseo Real en Ul'dah y, por último, el Salón de Estado en Limsa Lominsa, y escucha a los líderes de las Grandes Compañías." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_03", "hash": "44DDF34B2BB70C35", "target": "Ya has asistido a los tres actos de conmemoración. A juzgar por las palabras de los líderes de las Grandes Compañías y de los gemelos viajeros, Alphinaud y Alisaie, parece que cada una de las ciudades-estado de Eorzea está acosada por problemas. Sin duda las tres se beneficiarían de tu ayuda, pero ¿cuál la merece más? Vuelve al Refugio de las Arenas y comparte tus reflexiones con Minfilia." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_SEQ_04", "hash": "160E18CF91BA047C", "target": "Minfilia confirma que las tres ciudades-estado necesitan ayuda con urgencia, y lamenta que no haya más que <if(gnum4,una,uno)> como tú. Te aguarda una decisión difícil. Sopésala bien y da tu respuesta al oficial de la Gran Compañía a la que quieras unirte." },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_00", "hash": "0662DAD51607A264", "target": "Hablar con Tataru" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_01", "hash": "C3A5DE21E2DE56D1", "target": "Asistir al acto de conmemoración en el Anfiteatro de Mih Khetto, en Gridania" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_02", "hash": "F26386FAEFFF8FB4", "target": "Asistir al acto de conmemoración en el Paseo Real, en Ul'dah" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_03", "hash": "6F6EB46859651DC1", "target": "Asistir al acto de conmemoración en el Salón de Estado, en Limsa Lominsa" },
+    { "gameKey": "quest/005/ManFst300_00511#TEXT_MANFST300_00511_TODO_04", "hash": "2EFAFC9FEEA7D372", "target": "Informar a Minfilia en el Refugio de las Arenas" }
   ]
 }

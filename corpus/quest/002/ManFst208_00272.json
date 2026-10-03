@@ -13,7 +13,7 @@
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_KOKOSAMU_000_22", "hash": "211313CB9928FA2D", "target": "Si la materia se junta con otro trastopelea..." },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_23", "hash": "65EC61191AEB443D", "target": "¡Entonces, ojosgrandes! ¡El trastopelea gana el poder del airealma!" },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_24", "hash": "514BC2CFC4E590D6", "target": "Fsss... Shkooo...<br>Mutamix calcula que este altotierra es amigo de Minfilia." },
-    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_25", "hash": "1E722DBA804890A4", "target": "Síii, los aleteos de lengua llegaron veloces a las orejas de Mutamix." },
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_25", "hash": "1E722DBA804890A4", "target": "Sííí, los aleteos de lengua llegaron veloces a las orejas de Mutamix." },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_26", "hash": "E917D72DCB5ABF3A", "target": "Minfilia quiere que el altotierra vea el poder de la materia. El altotierra trae su trastopelea a Mutamix, ¿sí?" },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MUTAMIX_000_27", "hash": "949CBAD6CB106A33", "target": "¡Shkooo! ¡El trastopelea es tan pocofuerte como un trastocomida! ¡Haremos buena enseñamuestra del poder de la materia!" },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SWYNBROES_000_28", "hash": "F7088646E611B875", "target": "La materia, maestro." },
@@ -30,31 +30,11 @@
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MINFILIA_000_41", "hash": "3CAD8D289CEB5931", "target": "Ahhh... ¡qué diferencia tan notable puede marcar una sola materia! Cierto es que las habilidades para manejar esa sustancia no se adquieren con facilidad, pero basta con mirar los resultados para comprender que tales esfuerzos merecen la pena." },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MINFILIA_000_42", "hash": "EF3189D4388796F1", "target": "Como sin duda sabrás, la calidad del equipo puede marcar la diferencia entre la victoria y la derrota. La materia bien podría darte la ventaja que necesitas, <split(<string(gstr1)>, ,1)>, así que hazla tu aliada." },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_MINFILIA_000_43", "hash": "773543D799509A3E", "target": "Ahora es hora de que hablemos de tu próxima misión. Habla conmigo cuando estés list<if(gnum4,a,o)> para empezar." },
-    {
-      "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_00",
-      "hash": "049482F051428E2E",
-      "target": "Minfilia quiere presentarte a un personaje distinguido."
-    },
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_00", "hash": "049482F051428E2E", "target": "Minfilia quiere presentarte a un personaje distinguido." },
     { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_01", "hash": "E6DF34B9450E4066", "target": "Minfilia quiere presentarte a un goblin erudito llamado Mutamix, a quien atribuye la introducción en Eorzea de un método revolucionario para mejorar el equipo. Dirígete al campamento del goblin, en la Hoguera, en el Centro de Thanalan, y entrégale la daga de Minfilia." },
-    {
-      "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_02",
-      "hash": "845B915F15283D1B",
-      "target": "Al llegar a la Hoguera, Mutamix y sus discípulos te obsequian con una disparatada demostración. Al conocer tu identidad, el sabio goblin te enseña los fundamentos de la materia, una clase de cristal que puede acoplarse a los objetos para mejorar sus propiedades. Si lo has entendido bien, solo los artesanos experimentados son capaces de acoplar estos cristales. Vuelve al Refugio de las Arenas y entrégale a Minfilia su daga recién mejorada."
-    },
-    {
-      "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_03",
-      "hash": "3F55F78C541F02B0",
-      "target": "Minfilia te recalca la importancia de ir bien equipad<if(gnum4,a,o)> para la batalla y te anima a usar materia para sacar el máximo partido a tu equipo. Ten presentes sus palabras al prepararte para las misiones que te aguardan."
-    },
-    {
-      "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_TODO_00",
-      "hash": "59CEF0812A5A9CF7",
-      "target": "Entregar la daga de Minfilia a Mutamix en la Hoguera"
-    },
-    {
-      "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_TODO_01",
-      "hash": "3B3CB0EEF9A13E07",
-      "target": "Entregar la daga mejorada con materia a Minfilia"
-    }
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_02", "hash": "845B915F15283D1B", "target": "Al llegar a la Hoguera, Mutamix y sus discípulos te obsequian con una disparatada demostración. Al conocer tu identidad, el sabio goblin te enseña los fundamentos de la materia, una clase de cristal que puede acoplarse a los objetos para mejorar sus propiedades. Si lo has entendido bien, solo los artesanos experimentados son capaces de acoplar estos cristales. Vuelve al Refugio de las Arenas y entrégale a Minfilia su daga recién mejorada." },
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_SEQ_03", "hash": "3F55F78C541F02B0", "target": "Minfilia te recalca la importancia de ir bien equipad<if(gnum4,a,o)> para la batalla y te anima a usar materia para sacar el máximo partido a tu equipo. Ten presentes sus palabras al prepararte para las misiones que te aguardan." },
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_TODO_00", "hash": "59CEF0812A5A9CF7", "target": "Entregar la daga de Minfilia a Mutamix en la Hoguera" },
+    { "gameKey": "quest/002/ManFst208_00272#TEXT_MANFST208_00272_TODO_01", "hash": "3B3CB0EEF9A13E07", "target": "Entregar la daga mejorada con materia a Minfilia" }
   ]
 }

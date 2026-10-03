@@ -65,7 +65,7 @@
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_A2_000_001", "hash": "C1A468E59B8CB745", "target": "Parece bastante seguro." },
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_A2_000_002", "hash": "3EAAC4DADF819B94", "target": "¡Solo hay una forma de averiguarlo!" },
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_A2_000_003", "hash": "440ED88E6209943D", "target": "¡Sombras encantadas o no, os encontraré a todos!" },
-    { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_PATTIN_000_076", "hash": "1AF34414D8F35A70", "target": "¡Hurra! ¡Tenemos el sello de aprobación de <if(gnum4,la aventurera,el aventurero)>!" },
+    { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_PATTIN_000_076", "hash": "1AF34414D8F35A70", "target": "¡Hurra! ¡Tenemos el sello de aprobación <if(gnum4,de la aventurera,del aventurero)>!" },
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_PATTIN_100_076", "hash": "05E2C762331A5589", "target": "¡Hurra! ¡Me gusta tu entusiasmo, aventurer<if(gnum4,a,o)>!" },
     { "gameKey": "quest/054/FesHlx201_05467#TEXT_FESHLX201_05467_PATTIN_000_077", "hash": "07D6817B95263E86", "target": "Con eso resuelto, ¡que empiecen los juegos!" }
   ]

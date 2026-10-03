@@ -11,7 +11,7 @@
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_003", "hash": "AC90733228551EE8", "target": "Mi camarada de aquí casi pierde el brazo en uno de esos ataques, y me temo que es solo cuestión de tiempo que la criatura mate a alguien... a menos que usted la mate antes." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_004", "hash": "5EEE5F7C30C00697", "target": "El nestling vigila sus dominios desde un estrecho pilar de roca al noreste. Le ruego que encuentre a este depredador y ponga fin a la amenaza para nuestras patrullas." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_005", "hash": "7A3AF5B1E93A941F", "target": "Al final quizá lo abatiéramos, pero demasiada sangre nuestra teñiría esas paredes de roca. Para un cazador de monstruos de su categoría, sin embargo, confío en que no supondrá un gran reto..." },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "¿Así que el nestling ha muerto? Sabía que había elegido a <if(gnum4,la mujer indicada,el hombre indicado)> para el trabajo." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_010", "hash": "83DA0694A678B58A", "target": "¿Así que el nestling ha muerto? Sabía que había elegido <if(gnum4,a la mujer indicada,al hombre indicado)> para el trabajo." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_011", "hash": "65D58532B36F065B", "target": "Le agradezco que llegara antes de que ese monstruoso pájaro cobrara vidas. ¡Tiene nuestra gratitud!" }
   ]
 }

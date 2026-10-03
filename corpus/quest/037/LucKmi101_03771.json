@@ -30,7 +30,7 @@
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_SYSTEM_000_009", "hash": "63AB999456F8DD31", "target": "Puedes consultar tu progreso en “Crónicas de una nueva era - Torre de Cristal”, en tu diario." },
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_GUIDEOFTHEPENDANTS_000_010", "hash": "3D4FB057681F2838", "target": "Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. ¿Va a salir hoy?" },
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_GUIDEOFTHEPENDANTS_000_011", "hash": "F10B3D1BB942FD0E", "target": "En tal caso, tenga cuidado. Aunque dicen que la lluvia de estrellas fue inofensiva, toda precaución es poca." },
-    { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_GUIDEOFTHEPENDANTS_000_012", "hash": "63FEB768C87FB4B5", "target": "...Pero reconozco que no me corresponde decirle a <if(gnum4,la Guerrera,el Guerrero)> de la Oscuridad cómo cuidarse. Cosas de la costumbre, ya me entiende." },
+    { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_GUIDEOFTHEPENDANTS_000_012", "hash": "63FEB768C87FB4B5", "target": "... Pero reconozco que no me corresponde decirle <if(gnum4,a la Guerrera,al Guerrero)> de la Oscuridad cómo cuidarse. Cosas de la costumbre, ya me entiende." },
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_MOREN_000_013", "hash": "D88D5A5661A12B8B", "target": "¡Ah, <split(<string(gstr1)>, ,1)>! ¡Qué oportuno!" },
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_MOREN_000_014", "hash": "7E877C7EE2E16BB4", "target": "Buenas, amigo mío. ¿Tiene por casualidad un momento?" },
     { "gameKey": "quest/037/LucKmi101_03771#TEXT_LUCKMI101_03771_MOREN_000_015", "hash": "34D13D8EAE6C7BEF", "target": "¡Estupendo, estupendo!" },

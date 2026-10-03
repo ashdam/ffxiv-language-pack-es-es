@@ -20,6 +20,6 @@
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_POPMESSAGE_000_000", "hash": "4F8A8794AB7EDD5B", "target": "¡Te están atacando!" },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_YUSUI_000_030", "hash": "2257266DFB0B2A31", "target": "Por favor, tienes que ayudarme a averiguar quién está al mando del hombre que tenemos cautivo." },
     { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_040", "hash": "D804CBF6C1FC4845", "target": "Ah, así que parece que le obligó a actuar. Quizá su muerte fuera lo mejor." },
-    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_041", "hash": "1FF245326CEB8E37", "target": "Haré llegar a Yusui noticia de todo lo ocurrido, aunque no sé si le alegrará oírlo... Ah, ¿siente curiosidad por saber cómo se lo comunicaré? Eso, amig<if(gnum4,a,o)> mío, es un secreto. \\<guiño>" }
+    { "gameKey": "quest/026/StmBdz201_02673#TEXT_STMBDZ201_02673_IKARUGA_000_041", "hash": "1FF245326CEB8E37", "target": "Haré llegar a Yusui noticia de todo lo ocurrido, aunque no sé si le alegrará oírlo... Ah, ¿siente curiosidad por saber cómo se lo comunicaré? Eso, <if(gnum4,amiga mía,amigo mío)>, es un secreto. \\<guiño>" }
   ]
 }
