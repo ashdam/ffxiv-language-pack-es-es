@@ -21948,6 +21948,20 @@
     {"rule": "item names", "gameKey": "Adventure#2162719.15", "hash": "9EEA7698CF34853E", "why": "Venture is a verb about entering kobold lands. It does not name the currency."},
     {"rule": "item names", "gameKey": "Adventure#2162869.15", "hash": "4E5348368BD17D3A", "why": "Mettle is part of the duty name Bardam's Mettle. It does not name the item."},
     {"rule":"place names","gameKey":"quest/001/ClsRog101_00126#TEXT_CLSROG101_00126_SEQ_04","hash":"17DB55702B212474","why":"The lowercase source describes the ferry docks. Muelles del transbordador preserves that description."},
-    {"rule": "place names", "gameKey": "quest/001/ClsRog301_00155#TEXT_CLSROG301_00155_JACKE_000_001", "hash": "B233B1AFE562F71A", "why": "Admiral's Bridge names the command room in the Mizzenmast, not the separate place named Bridge."}
+    {"rule": "place names", "gameKey": "quest/001/ClsRog301_00155#TEXT_CLSROG301_00155_JACKE_000_001", "hash": "B233B1AFE562F71A", "why": "Admiral's Bridge names the command room in the Mizzenmast, not the separate place named Bridge."},
+    {"rule": "term drift", "gameKey": "Adventure#2162698.15", "hash": "242D21252CB7C2F7", "why": "Mounts is part of the business name Moogle's Gift Mounts. It does not refer to the mount category."},
+    {"rule": "item names", "gameKey": "Adventure#2162690.15", "hash": "722F323787C40026", "why": "Evening stars are stars in a sailor prayer. They do not refer to the astrologian weapon."},
+    {"rule": "item names", "gameKey": "Adventure#2162713.13", "hash": "3F53F89134B0DF68", "why": "The Navigator names the statue of Llymlaen. It does not refer to a furnishing item."},
+    {"rule": "item names", "gameKey": "Adventure#2162720.15", "hash": "7A9506C94DD6C13A", "why": "Wind crystals explain why the ruins float. The passage does not refer to inventory items."},
+    {"rule": "item names", "gameKey": "Adventure#2162791.15", "hash": "541E9624F778AC28", "why": "Water crystals explain how the spring formed. The passage does not refer to inventory items."},
+    {"rule": "item names", "gameKey": "Adventure#2162875.13", "hash": "9EDBD6A8BFD9A3B8", "why": "The Destroyer names the statue of Rhalgr. It does not refer to a furnishing item."},
+    {"rule": "item names", "gameKey": "Adventure#2162977.15", "hash": "E2C441AC63928EEB", "why": "The plate is part of the tower structure. It does not refer to a crafting item."},
+    {"rule": "item names", "gameKey": "PointMenuString#61", "hash": "C15A2E22510B755B", "why": "Sapphire is a translated gem option in a menu. It does not identify an inventory item."},
+    {"rule": "item names", "gameKey": "PointMenuString#62", "hash": "018149A244563343", "why": "Garnet is a translated gem option in a menu. It does not identify an inventory item."},
+    {"rule": "place names", "gameKey": "Adventure#2162744.15", "hash": "BF10DFB3124795CA", "why": "Trader is the title of Thal. It does not name a place."},
+    {"rule": "place names", "gameKey": "Adventure#2162745.15", "hash": "4786FBC97951F0A3", "why": "Trader is the title of Nald. It does not name a place."},
+    {"rule": "place names", "gameKey": "PointMenuString#13", "hash": "3D7986A21F8CCCB1", "why": "Proof is part of the chapter title Lay of Proof. It does not name the separate place Proof."},
+    {"rule": "place names", "gameKey": "Warp#131116.10", "hash": "FCD8B0DEA8607A26", "why": "Passage means a boat journey to the quay. It does not name the place Passage."},
+    {"rule": "place names", "gameKey": "Adventure#2162729.13", "hash": "D00016AFE5206E46", "why": "Rainbow Bridge names the rainbow above a waterfall. It does not refer to the place Bridge, translated as Puente de Mando."}
   ]
 }
