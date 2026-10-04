@@ -2,98 +2,30 @@
   "conversation": "quest/002/ClsCul501_00270",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_00",
-      "hash": "DE989BB24F24F98D",
-      "target": "Lyngsath necesita que prepares un banquete digno de una sultana."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_01",
-      "hash": "2AFD5A2A12A5C9E1",
-      "target": "La noticia de tu talento ha llegado a oídos de la sultana de Ul'dah, que ha solicitado que tus creaciones culinarias se sirvan en su cena de bienvenida. Por desgracia, aunque Su Excelencia especificó quién cocinaría, no dijo qué desea comer. Para decidir el menú, Lyngsath te recomienda que busques el consejo de Diving Dove."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_02",
-      "hash": "7AB155058BE02518",
-      "target": "Diving Dove sospecha que el señor Lolorito, el hombre al que los cocineros temen como el Azote de los Cocineros, ha organizado esta visita real con el único fin de desacreditar al Bismarck. Pide consejo a Latisha sobre cómo podrías evitar el desastre."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_03",
-      "hash": "FD49CC79639B70DA",
-      "target": "Para descubrir las preferencias de la sultana, Latisha te sugiere que busques el consejo de los visitantes uldianos que hay en la ciudad. También te indica que hables con su antigua compañera, Rubh Epocan, de la Aduana de Mealvaan."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_04",
-      "hash": "F655598706C5276B",
-      "target": "Has logrado identificar cuatro de los platos favoritos de la sultana. Vuelve con Latisha con la información."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_05",
-      "hash": "9DD78E8A17955680",
-      "target": "Tras cierta deliberación, se ha decidido que prepararás los cuatro platos para la sultana. Prepara un eft steak, un cuenco de beef stew, una ración de trapper's quiche y un crowned pie ─todos de la máxima calidad─ y entrégalos en el lugar del banquete. Habla con Zanthael en la Sala del Baluarte para que te dejen entrar."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_06",
-      "hash": "8052EAE0588F25A0",
-      "target": "Para tu alivio, la sultana queda enormemente satisfecha con su comida, y el complot del señor Lolorito para humillaros a ti y al Bismarck se frustra. Por segunda vez, has ganado la partida al Azote de los Cocineros. Lleva la buena nueva a Lyngsath."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_07",
-      "hash": "679A13CFD69B9858",
-      "target": "Lyngsath aplaude tu reciente éxito, y llega a decir que lo has superado en fama. Te insta a emplear tus habilidades en beneficio del reino, y promete que él se esforzará por hacer lo mismo.<br><br>※La próxima misión de cocinero estará disponible con Lyngsath una vez que hayas completado la misión de la historia principal “La llama de la esperanza”."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_00",
-      "hash": "F69AFE5B4BAB5B8B",
-      "target": "Hablar con Diving Dove"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_01",
-      "hash": "CE2E050A006DE328",
-      "target": "Hablar con Latisha"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_02",
-      "hash": "F4CF0E4F124C789B",
-      "target": "Hablar con un observador uldiano en Limsa Lominsa"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_03",
-      "hash": "B5E3391A60B63628",
-      "target": "Hablar con un mercader uldiano en Limsa Lominsa"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_04",
-      "hash": "C982537580A4C3A0",
-      "target": "Hablar con un tratante uldiano en Limsa Lominsa"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_05",
-      "hash": "ADB4168AC0725E7F",
-      "target": "Hablar con Rubh Epocan en la Aduana de Mealvaan"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_06",
-      "hash": "F25153FCDEB9CA07",
-      "target": "Informar a Latisha"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_07",
-      "hash": "F7C50FD0EB8674C4",
-      "target": "Mostrar un eft steak <sheet(Addon,9,0)>, un cuenco de beef stew <sheet(Addon,9,0)>, una ración de trapper's quiche <sheet(Addon,9,0)> y un crowned pie <sheet(Addon,9,0)> a Zanthael en la Sala del Baluarte"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_08",
-      "hash": "14B85F16D9C6ADB0",
-      "target": "Hablar con Lyngsath"
-    },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_00", "hash": "DE989BB24F24F98D", "target": "Lyngsath necesita que prepares un banquete digno de una sultana." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_01", "hash": "2AFD5A2A12A5C9E1", "target": "La noticia de tu talento ha llegado a oídos de la sultana de Ul'dah, que ha solicitado que tus creaciones culinarias se sirvan en su cena de bienvenida. Por desgracia, aunque Su Excelencia especificó quién cocinaría, no dijo qué desea comer. Para decidir el menú, Lyngsath te recomienda que busques el consejo de Diving Dove." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_02", "hash": "7AB155058BE02518", "target": "Diving Dove sospecha que el señor Lolorito, el hombre al que los cocineros temen como el Azote de los Cocineros, ha organizado esta visita real con el único fin de desacreditar al Bismarck. Pide consejo a Latisha sobre cómo podrías evitar el desastre." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_03", "hash": "FD49CC79639B70DA", "target": "Para descubrir las preferencias de la sultana, Latisha te sugiere que busques el consejo de los visitantes uldianos que hay en la ciudad. También te indica que hables con su antigua compañera, Rubh Epocan, de la Aduana de Mealvaan." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_04", "hash": "F655598706C5276B", "target": "Has logrado identificar cuatro de los platos favoritos de la sultana. Vuelve con Latisha con la información." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_05", "hash": "9DD78E8A17955680", "target": "Tras cierta deliberación, se ha decidido que prepararás los cuatro platos para la sultana. Prepara un eft steak, un cuenco de beef stew, una ración de trapper's quiche y un crowned pie ─todos de la máxima calidad─ y entrégalos en el lugar del banquete. Habla con Zanthael en la Sala del Baluarte para que te dejen entrar." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_06", "hash": "8052EAE0588F25A0", "target": "Para tu alivio, la sultana queda enormemente satisfecha con su comida, y el complot del señor Lolorito para humillaros a ti y al Bismarck se frustra. Por segunda vez, has ganado la partida al Azote de los Cocineros. Lleva la buena nueva a Lyngsath." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SEQ_07", "hash": "679A13CFD69B9858", "target": "Lyngsath aplaude tu reciente éxito, y llega a decir que lo has superado en fama. Te insta a emplear tus habilidades en beneficio del reino, y promete que él se esforzará por hacer lo mismo.<br><br>※La próxima misión de cocinero estará disponible con Lyngsath una vez que hayas completado la misión de la historia principal “La llama de la esperanza”." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_00", "hash": "F69AFE5B4BAB5B8B", "target": "Hablar con Diving Dove" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_01", "hash": "CE2E050A006DE328", "target": "Hablar con Latisha" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_02", "hash": "F4CF0E4F124C789B", "target": "Hablar con un observador uldiano en Limsa Lominsa" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_03", "hash": "B5E3391A60B63628", "target": "Hablar con un mercader uldiano en Limsa Lominsa" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_04", "hash": "C982537580A4C3A0", "target": "Hablar con un tratante uldiano en Limsa Lominsa" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_05", "hash": "ADB4168AC0725E7F", "target": "Hablar con Rubh Epocan en la Aduana de Mealvaan" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_06", "hash": "F25153FCDEB9CA07", "target": "Informar a Latisha" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_07", "hash": "F7C50FD0EB8674C4", "target": "Mostrar un eft steak <sheet(Addon,9,0)>, un cuenco de beef stew <sheet(Addon,9,0)>, una ración de trapper's quiche <sheet(Addon,9,0)> y un crowned pie <sheet(Addon,9,0)> a Zanthael en la Sala del Baluarte" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_TODO_08", "hash": "14B85F16D9C6ADB0", "target": "Hablar con Lyngsath" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_000", "hash": "79AA09AC1A3A62E5", "target": "¡Gracias a los dioses que estás aquí, <split(<string(gstr1)>, ,1)>! La Almirante va a recibir a la sultana de Ul'dah, y se ha llamado al Bismarck para encargarse del banquete de bienvenida... ¡pero eso no es ni la mitad!" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_001", "hash": "F0A2AE00B28AE74A", "target": "¡La sultana pidió expresamente que se sirviera <italic(1)>tu<italic(0)> cocina! Por lo visto la fama de tu talento llegó a oídos de Su Excelencia, y nada la contentaba salvo probar tus creaciones culinarias." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_002", "hash": "4F600C2B997C4514", "target": "Ahora bien, todo eso está muy bien, pero aquí hay muchísimo en juego. Complacer a la sultana te granjearía más renombre que ninguna otra cosa que pudieras hacer, pero si la llegaras a fastidiar... en fin, prefiero no pensarlo." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_003", "hash": "75C91FB516AD5AC1", "target": "Ahora mismo, todo lo que sabemos es que le apetece cenar algo sabroso. Pero si quieres garantizar la satisfacción de tu clienta real, tendrás que averiguar qué se le antoja." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_004", "hash": "E357266B3FC8A75D", "target": "Como siempre, puedes contar con la ayuda de tus compañeros de gremio. Para empezar, harías bien en consultar a Diving Dove. La mujer es de Ul'dah, como sabes, y puede que arroje algo de luz sobre las preferencias de la sultana. ¡Venga, en marcha, y suerte!" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_DIVINGDOVE_000_010", "hash": "17F2F1B52B4F3C7F", "target": "En Ul'dah, los plebeyos como yo rara vez tenemos ocasión de ver a la sultana en carne y hueso. Es un gran honor que te llamen a preparar la comida de Su Excelencia... pero te advierto que procedas con cautela." },
-    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_DIVINGDOVE_000_011", "hash": "661F4D64739BEEA0", "target": "Seguro que recuerdas a el señor Lolorito, tu antiguo cliente. Pues bien, circula un rumor inquietante según el cual fue <italic(1)>él<italic(0)> quien organizó esta visita real. Como miembro del Sindicato, está por entero en su mano hacerlo." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_DIVINGDOVE_000_011", "hash": "661F4D64739BEEA0", "target": "Seguro que recuerdas al señor Lolorito, tu antiguo cliente. Pues bien, circula un rumor inquietante según el cual fue <italic(1)>él<italic(0)> quien organizó esta visita real. Como miembro del Sindicato, está por entero en su mano hacerlo." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_DIVINGDOVE_000_012", "hash": "4584FF1A989A7A34", "target": "Y si hay que creer los rumores, el único propósito de Lolorito al traer a la sultana a Limsa Lominsa es humillarte a <italic(1)>ti<italic(0)>, <split(<string(gstr1)>, ,1)>, y, por extensión, al Bismarck. Sean cuales sean sus motivos, parece que sigue empeñado en dejar nuestras creaciones en mal lugar." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_DIVINGDOVE_000_013", "hash": "DC159C9D08B18C87", "target": "Así que, para preservar nuestro buen nombre, te conviene hacer lo que sugirió el maestro del gremio y averiguar todo lo que puedas sobre los gustos de la sultana. Para ello, te recomiendo que consultes a Latisha; conociéndola, ya habrá empezado a investigar el asunto." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LATISHA_000_020", "hash": "9B719E6A571C683D", "target": "Le estaba esperando, <split(<string(gstr1)>, ,1)>. Seré más contable que chef, pero no por ello menos miembro del Bismarck. Como tal, pienso hacer todo lo que esté en mi mano para que logre complacer a la sultana." },
@@ -130,27 +62,15 @@
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LOLORITO_000_108", "hash": "BC92B6A889360304", "target": "N-no, Su Excelencia. Solo admiraba la cocina." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_NANAMO_000_109", "hash": "56DDBE20BCF122F2", "target": "Como usted diga." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_NANAMO_000_110", "hash": "2D10852D070BA1A7", "target": "<switch(gnum70,Y bien\\, <if(gnum4,mi buena cocinera,mi buen cocinero)>\\, dime tu nombre. Quiero enviarte un obsequio digno del servicio que has prestado hoy.,Y bien\\, <if(gnum4,mi buena cocinera,mi buen cocinero)>\\, dime tu nombre. Quiero enviarte un obsequio digno del servicio que has prestado hoy.,Pero\\, en verdad\\, tu presencia aquí es la mayor de las sorpresas. Debes permitirme enviarte un obsequio digno del servicio que has prestado hoy.)>" },
-    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_NANAMO_000_111", "hash": "B437D18E0FB7419E", "target": "¿Hm? ¿Le dieron a entender que fui <italic(1)>yo<italic(0)> quien le pidió por su nombre? Disculpe, pero parece haber un malentendido. Yo había confiado los preparativos por entero a el señor Lolorito." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_NANAMO_000_111", "hash": "B437D18E0FB7419E", "target": "¿Hm? ¿Le dieron a entender que fui <italic(1)>yo<italic(0)> quien le pidió por su nombre? Disculpe, pero parece haber un malentendido. Yo había confiado los preparativos por entero al señor Lolorito." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_090", "hash": "1E1CA1EBABE7F205", "target": "¡Me he enterado de todo, <split(<string(gstr1)>, ,1)>! ¡Lo has vuelto a conseguir, benditos sean los dioses!" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_091", "hash": "5B8AEF57A90FDED7", "target": "Que la mismísima sultana alabe tu cocina como un sabor del cielo... ¡Diablos, ni yo puedo presumir de semejante hazaña!" },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_092", "hash": "ED256E7B896B057A", "target": "La Almirante me felicita por haber formado a un cocinero tan bueno, pero yo no hice más que enseñarte lo que significa serlo. Que no te quepa duda: fuiste <italic(1)>tú<italic(0)> quien hizo todo el trabajo duro." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_093", "hash": "09CF374865C060D6", "target": "Me has superado incluso a mí en fama, <split(<string(gstr1)>, ,1)>. No me queda nada que enseñarte que no sepas ya. Estoy más orgulloso de lo que tengo derecho a estar." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_094", "hash": "2E4096D2DDCCFE5F", "target": "¡No, no, no es un logro cualquiera, <if(gnum4,muchacha,muchacho)>! Y de aquí en adelante llegarás a cotas aún más altas en nuestro oficio. Pero acabes donde acabes, recuerda siempre mis palabras: es la pasión lo que hace a un cocinero." },
     { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_LYNGSATH_000_095", "hash": "55CB3AE0F82706BB", "target": "¡Con esa pasión bien cerca del corazón, ve y saca sonrisas a la gente con tu cocina! ¡Y puedes estar seguro de que yo seguiré esforzándome por hacer lo mismo!" },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_500",
-      "hash": "435F9ECEFD447143",
-      "target": "Con esto concluyen las misiones de cocinero de FINAL FANTASY XIV: A Realm Reborn. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:"
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_501",
-      "hash": "9DAC7CD30C6E83D2",
-      "target": "※Debes haber completado la misión de la historia principal “La llama de la esperanza”."
-    },
-    {
-      "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_502",
-      "hash": "3EC720A46A1591C0",
-      "target": "Una vez hecho, la próxima misión de cocinero estará disponible con Lyngsath."
-    }
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_500", "hash": "435F9ECEFD447143", "target": "Con esto concluyen las misiones de cocinero de FINAL FANTASY XIV: A Realm Reborn. Para emprender la siguiente serie de misiones, primero debes cumplir los siguientes requisitos:" },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_501", "hash": "9DAC7CD30C6E83D2", "target": "※Debes haber completado la misión de la historia principal “La llama de la esperanza”." },
+    { "gameKey": "quest/002/ClsCul501_00270#TEXT_CLSCUL501_00270_SYSTEM_000_502", "hash": "3EC720A46A1591C0", "target": "Una vez hecho, la próxima misión de cocinero estará disponible con Lyngsath." }
   ]
 }

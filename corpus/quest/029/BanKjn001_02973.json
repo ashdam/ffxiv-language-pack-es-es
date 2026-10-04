@@ -49,7 +49,7 @@
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_SHIHOUMI_000_039", "hash": "C91F07F65AB3B48E", "target": "Espere, por favor. ¿Al menos me diría el nombre del gallardo Kojin que me rescató?" },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_040", "hash": "60222FD0CC60F81D", "target": "¿Mi nombre...?" },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_041", "hash": "20BBC71D39E92121", "target": "Soy Kabuto de los Azules." },
-    { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_042", "hash": "D03832E00B4E3A7E", "target": "Tú, valiente guerrero. ¿Cuál es el nombre de <if(gnum4,la mujer,el hombre)> que me ha rescatado?" },
+    { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_042", "hash": "D03832E00B4E3A7E", "target": "Tú, <if(gnum4,valiente guerrera,valiente guerrero)>. ¿Cuál es el nombre <if(gnum4,de la mujer,del hombre)> que me ha rescatado?" },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_043", "hash": "0664D106EA2AD055", "target": "<split(<string(gstr1)>, ,1)>... Lo recordaré." },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_SHIHOUMI_000_044", "hash": "4F428EA644238F98", "target": "No tengo mucho, pero, por favor, dejen que les recompense a los dos por su bondad." },
     { "gameKey": "quest/029/BanKjn001_02973#TEXT_BANKJN001_02973_KABUTO_000_045", "hash": "4F98FA9DF34889AF", "target": "<split(<string(gstr1)>, ,1)> me salvó la vida. Que otra persona saldara mi deuda de gratitud sería una mancha en mi honor." },

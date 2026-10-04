@@ -100,7 +100,7 @@
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_LIVIA_000_137", "hash": "FABDCC34DE18754B", "target": "Quizá, pero eso es asunto para otro momento." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_LIVIA_000_138", "hash": "E89893B0AC36296A", "target": "Se te ha encomendado una tarea. <italic(1)>Esa<italic(0)> es tu prioridad. Te sugiero que la trates como tal." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_LIVIA_000_140", "hash": "E766F326EE0A0EC1", "target": "Como no hagas lo que mi señor ordena..." },
-    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_LIVIA_000_141", "hash": "5AEC21EB41D38224", "target": "...le ahorraré la molestia de tener que castigarte." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_LIVIA_000_141", "hash": "5AEC21EB41D38224", "target": "... le ahorraré la molestia de tener que castigarte." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_NERO_000_142", "hash": "532F2D411A93D9AF", "target": "Con aliados así..." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_NERO_000_143", "hash": "28951E2499AF1665", "target": "Cuidado con una mujer enamorada. Tendré que comportarme lo mejor posible." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_THANCRED_000_150", "hash": "4B72B0333C638816", "target": "Ah, aquí estás, <split(<string(gstr1)>, ,1)>. Ven, descansa un rato; no tendrás mejor ocasión. Tras presenciar la ignominiosa derrota de su dios, los Amalj'aa estarán menos dispuestos a arriesgarse a nuestra ira, al menos por un tiempo." },
@@ -162,80 +162,20 @@
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_GLA_DEAD", "hash": "50D6BC4AC1EF3C76", "target": "Decidle a mi hija... que la quiero..." },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_HP50", "hash": "4FA0F2892BBBB81F", "target": "¡No debemos rendirnos!" },
     { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_FLAMESGT_BATTLETALK_DEAD", "hash": "80ABC87C4A4F5F88", "target": "Que los dioses se apiaden..." },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_00",
-      "hash": "9F0610F7075C2F9A",
-      "target": "Minfilia quiere que ayudes a las Llamas Inmortales."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_01",
-      "hash": "03149F07FAD437E8",
-      "target": "En un intento por averiguar el paradero de los secuestrados, las Llamas Inmortales han ideado un plan para capturar Amalj'aa usando como cebo al falso sacerdote Ungust. Minfilia te pide que participes en la operación como representante de los Vástagos. Dirígete al Campamento Huesos Secos y reúnete con las Llamas."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_02",
-      "hash": "AB7110F7451773EE",
-      "target": "Te han informado de los detalles de la operación. Las Llamas prevén que los Amalj'aa opondrán una feroz resistencia, y se te insta a prepararte en consecuencia. Cuando estés list<if(gnum4,a,o)>, dirígete a la Ciudad Invisible y quédate al acecho en el lugar señalado."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_03",
-      "hash": "FA16D081F9A1DC67",
-      "target": "Apenas unos instantes después de rodear al enemigo, descubres que hay un traidor en las filas, y te reducen sin dilación. Tras un tiempo indeterminado, despiertas prisioner<if(gnum4,a,o)> en una fortaleza Amalj'aa, junto a las Llamas. Habla con ellos para hacerte una idea de la situación."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_04",
-      "hash": "CE386F512595FD13",
-      "target": "Parece que los Amalj'aa pretenden ofreceros, a ti y a tus compañeros, en sacrificio a su primigenio, Ifrit. Si esto ha de terminar, que sea con las armas en la mano. Espera el momento oportuno y contraataca a los hombres bestia.<br><br>※Enfréntate al Cráter de las Brasas con otros jugadores a través del Buscador de contenido, o con un grupo de PNJ mediante el Apoyo en Contenido. Se puede acceder a ambos sistemas desde el menú principal y desde el punto de entrada de la prueba."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_05",
-      "hash": "A5EC9EF25E21FC94",
-      "target": "Al parecer, Ifrit tiene el poder de doblegar a los mortales a su voluntad, pero, por razones aún desconocidas, tú eres inmune a su influencia. Incapaz de convertirte en su siervo, Ifrit opta por exterminarte, solo para verse superado. Cómo hallaste la fuerza para resistir a semejante ser divino es una cuestión para otro momento. Por ahora, vuelve al Campamento Huesos Secos y habla con Thancred."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_06",
-      "hash": "0D429C320D7E67FD",
-      "target": "Tras colmarte de elogios, Thancred se despide para regresar al Refugio de las Arenas. Minfilia también estará impaciente por saber de ti. Infórmala en cuanto tengas ocasión."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_07",
-      "hash": "014FC04C156C91E3",
-      "target": "En el Refugio de las Arenas, Minfilia y Thancred se turnan para bombardearte con información, explicándote cómo el robo de cristal y los secuestros sirvieron para favorecer la causa de Ifrit. Entonces Thancred revela una verdad inquietante: para impedir que el primigenio cobre fuerza, sus víctimas «subyugadas» deben ser ejecutadas. Aunque esta revelación arroja una sombra funesta sobre tu victoria, te sientes más decidid<if(gnum4,a,o)> que nunca a cumplir tu papel como <if(gnum4,Vástago,Vástago)>."
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_00",
-      "hash": "2278786EA9EE97EA",
-      "target": "Informar al sargento de las Llamas en el Campamento Huesos Secos"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_01",
-      "hash": "D7B2A78AF21F0552",
-      "target": "Quedarse al acecho en la Ciudad Invisible"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_02",
-      "hash": "71CBE58D175CF998",
-      "target": "Hablar con el sargento de las Llamas"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_03",
-      "hash": "9EA7E718C8EAE359",
-      "target": "Enfrentarse a Ifrit en el Cráter de las Brasas"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_04",
-      "hash": "FDFF39DA8E9B4B07",
-      "target": "Hablar con Thancred en el Campamento Huesos Secos"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_05",
-      "hash": "0B970973F01F9847",
-      "target": "Informar al Vástago del Séptimo Amanecer en el Refugio de las Arenas"
-    },
-    {
-      "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_QIB_TODO_001",
-      "hash": "F70C44513F207F8A",
-      "target": "¡Derrota a los Amalj'aa!"
-    }
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_00", "hash": "9F0610F7075C2F9A", "target": "Minfilia quiere que ayudes a las Llamas Inmortales." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_01", "hash": "03149F07FAD437E8", "target": "En un intento por averiguar el paradero de los secuestrados, las Llamas Inmortales han ideado un plan para capturar Amalj'aa usando como cebo al falso sacerdote Ungust. Minfilia te pide que participes en la operación como representante de los Vástagos. Dirígete al Campamento Huesos Secos y reúnete con las Llamas." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_02", "hash": "AB7110F7451773EE", "target": "Te han informado de los detalles de la operación. Las Llamas prevén que los Amalj'aa opondrán una feroz resistencia, y se te insta a prepararte en consecuencia. Cuando estés list<if(gnum4,a,o)>, dirígete a la Ciudad Invisible y quédate al acecho en el lugar señalado." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_03", "hash": "FA16D081F9A1DC67", "target": "Apenas unos instantes después de rodear al enemigo, descubres que hay un traidor en las filas, y te reducen sin dilación. Tras un tiempo indeterminado, despiertas prisioner<if(gnum4,a,o)> en una fortaleza Amalj'aa, junto a las Llamas. Habla con ellos para hacerte una idea de la situación." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_04", "hash": "CE386F512595FD13", "target": "Parece que los Amalj'aa pretenden ofreceros, a ti y a tus compañeros, en sacrificio a su primigenio, Ifrit. Si esto ha de terminar, que sea con las armas en la mano. Espera el momento oportuno y contraataca a los hombres bestia.<br><br>※Enfréntate al Cráter de las Brasas con otros jugadores a través del Buscador de contenido, o con un grupo de PNJ mediante el Apoyo en Contenido. Se puede acceder a ambos sistemas desde el menú principal y desde el punto de entrada de la prueba." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_05", "hash": "A5EC9EF25E21FC94", "target": "Al parecer, Ifrit tiene el poder de doblegar a los mortales a su voluntad, pero, por razones aún desconocidas, tú eres inmune a su influencia. Incapaz de convertirte en su siervo, Ifrit opta por exterminarte, solo para verse superado. Cómo hallaste la fuerza para resistir a semejante ser divino es una cuestión para otro momento. Por ahora, vuelve al Campamento Huesos Secos y habla con Thancred." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_06", "hash": "0D429C320D7E67FD", "target": "Tras colmarte de elogios, Thancred se despide para regresar al Refugio de las Arenas. Minfilia también estará impaciente por saber de ti. Infórmala en cuanto tengas ocasión." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_SEQ_07", "hash": "014FC04C156C91E3", "target": "En el Refugio de las Arenas, Minfilia y Thancred se turnan para bombardearte con información, explicándote cómo el robo de cristal y los secuestros sirvieron para favorecer la causa de Ifrit. Entonces Thancred revela una verdad inquietante: para impedir que el primigenio cobre fuerza, sus víctimas «subyugadas» deben ser ejecutadas. Aunque esta revelación arroja una sombra funesta sobre tu victoria, te sientes más decidid<if(gnum4,a,o)> que nunca a cumplir tu papel como <if(gnum4,Vástago,Vástago)>." },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_00", "hash": "2278786EA9EE97EA", "target": "Informar al sargento de las Llamas en el Campamento Huesos Secos" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_01", "hash": "D7B2A78AF21F0552", "target": "Quedarse al acecho en la Ciudad Invisible" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_02", "hash": "71CBE58D175CF998", "target": "Hablar con el sargento de las Llamas" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_03", "hash": "9EA7E718C8EAE359", "target": "Enfrentarse a Ifrit en el Cráter de las Brasas" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_04", "hash": "FDFF39DA8E9B4B07", "target": "Hablar con Thancred en el Campamento Huesos Secos" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_TODO_05", "hash": "0B970973F01F9847", "target": "Informar al Vástago del Séptimo Amanecer en el Refugio de las Arenas" },
+    { "gameKey": "quest/003/ManFst209_00343#TEXT_MANFST209_00343_QIB_TODO_001", "hash": "F70C44513F207F8A", "target": "¡Derrota a los Amalj'aa!" }
   ]
 }

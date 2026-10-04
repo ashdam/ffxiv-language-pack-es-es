@@ -86,7 +86,7 @@
     { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_BEROALD_005_005", "hash": "6B0C050A2571BCC0", "target": "¡A la m-mierda! ¡Te haré daño, viejo, aunque sea lo último que haga! ¡Yaaaaargh!" },
     { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_MUSOSAI_005_006", "hash": "D0615F8D4C9E22E5", "target": "...¿Has terminado? Entonces permíteme." },
     { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_MUSOSAI_005_007", "hash": "E12081FA6DBA0CBB", "target": "Jajaja, ni siquiera merece que desenvaine. Bien luchado, muchacho. He visto todo cuanto necesitaba ver." },
-    { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_MOMOZIGO_005_008", "hash": "5B3D158B75222910", "target": "¡Y el ganador es el retador! ¡Qué luchadores tan temibles, estos samuráis! ¡Ofrezcámosle un sonoro aplauso a <if(gnum4,la campeona,el campeón)>!" },
+    { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_MOMOZIGO_005_008", "hash": "5B3D158B75222910", "target": "¡Y <if(gnum4,la ganadora es la retadora,el ganador es el retador)>! ¡Qué luchadores tan temibles, estos samuráis! ¡Ofrezcámosle un sonoro aplauso <if(gnum4,a la campeona,al campeón)>!" },
     { "gameKey": "quest/025/JobSam501_02560#TEXT_JOBSAM501_02560_MUSOSAI_FAILED", "hash": "24681098958763FE", "target": "Hmmm, quizá me equivoqué al juzgarte..." }
   ]
 }

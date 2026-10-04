@@ -46,7 +46,7 @@
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_RIOL_000_058", "hash": "E250F02DEED59B46", "target": "Bah. Como si nunca hubiera descifrado los libros de un prestamista, o hubiera tenido que rastrear una transacción hasta su origen..." },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_RIOL_000_059", "hash": "A7C8969D1B971317", "target": "Hice mucho de eso cuando los Valientes empezaban, créeme. El comandante quería garantías de que no aceptábamos gil de la clase equivocada de benefactores." },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_RIOL_000_060", "hash": "2AAB94EE05D955FF", "target": "Claro que hoy en día el dinero corre como el agua, y la Primera y la Tercera Unidad se llevan los juguetitos más relucientes..." },
-    { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_RIOL_000_061", "hash": "F2BBAD5FC9B09F4D", "target": "...Perdóname, amigo. Tengo muchas cosas en la cabeza estos días, y te agradezco que me hayas escuchado. En fin... más vale que vuelva a lo mío." },
+    { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_RIOL_000_061", "hash": "F2BBAD5FC9B09F4D", "target": "... Perdóname, <if(gnum4,amiga,amigo)>. Tengo muchas cosas en la cabeza estos días, y te agradezco que me hayas escuchado. En fin... más vale que vuelva a lo mío." },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_TATARU_000_062", "hash": "1ECFBC50317D8968", "target": "¡¿<split(<string(gstr1)>, ,1)>, me oye?! ¡Soy Tataru!" },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_TATARU_000_063", "hash": "68BFBF2FD8F875C2", "target": "¡Se requiere su presencia con urgencia en el Refugio de las Rocas! ¡Venga a verme en cuanto le sea posible, por favor!" },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_TATARU_000_080", "hash": "7F46067D6D1DC4A6", "target": "¡Gracias por venir tan rápido, <split(<string(gstr1)>, ,1)>!" },
@@ -54,6 +54,6 @@
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_MINFILIA_000_090", "hash": "A4E7E1DE586EBE60", "target": "Ah, <split(<string(gstr1)>, ,1)>... enseguida estamos contigo. ¿Te importaría esperar fuera con Tataru?" },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_LUCIA_000_091", "hash": "D0CD0133B8D632F1", "target": "Tiene buen aspecto, <split(<string(gstr1)>, ,1)>. Hablaremos cuando la Antecesora y yo hayamos terminado." },
     { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_URIANGER_000_092", "hash": "3DC768787F82DAD6", "target": "Mal parece agredir a un huésped en la propia morada. Mas, ay, a Moenbryda siempre le ha costado guardar el debido decoro." },
-    { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_MOENBRYDA_000_093", "hash": "EA2380F703CCF57A", "target": "Así que esta es una caballero de Ishgard, ¿eh? Tiene toda la pinta, eso se lo reconozco... pero apuesto a que yo le plantaría cara." }
+    { "gameKey": "quest/003/GaiUse503_00365#TEXT_GAIUSE503_00365_MOENBRYDA_000_093", "hash": "EA2380F703CCF57A", "target": "Así que esta es una caballera de Ishgard, ¿eh? Tiene toda la pinta, eso se lo reconozco... pero apuesto a que yo le plantaría cara." }
   ]
 }

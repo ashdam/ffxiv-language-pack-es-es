@@ -2,7 +2,7 @@
   "conversation": "cut_scene/034/VoiceMan_03400",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000010_AYMERIC", "hash": "6ACD2F6B9E0A7A86", "target": "¡Quién iba a decir que los moguri resultarían capataces tan severos! Perdóneme, no sabía que hubiera padecido tanto en su búsqueda del cuerno." },
+    { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000010_AYMERIC", "hash": "6ACD2F6B9E0A7A86", "target": "¡Quién iba a decir que los moguris resultarían capataces tan severos! Perdóneme, no sabía que hubiera padecido tanto en su búsqueda del cuerno." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000020_AYMERIC", "hash": "5D3A6E28686258AF", "target": "He de decir que sus animados relatos siempre son un grato cambio frente a los áridos informes que llenan mis días." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_000030_AYMERIC", "hash": "9D91362C025B8501", "target": "Aunque he vivido en estas tierras toda mi vida, al oírle hablar de ellas, hay mucho, muchísimo que aún no he visto. En verdad, el suyo fue un viaje maravilloso." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_Q1_000_001_NONE_VOICE", "hash": "05C7DE34DF58419E", "target": "¿Qué vas a decir?" },
@@ -208,7 +208,7 @@
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001970_PAPALYMO", "hash": "F75F855EA802CAF0", "target": "Si hay un alijo que encontrar, Yda y yo lo encontraremos." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001980_IRONMASK", "hash": "893BB789FCFA26B8", "target": "Entonces, en marcha." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001990_IRONMASK", "hash": "314ED02A866AE97D", "target": "¿Acaso eres tú el Guerrero de la Luz?" },
-    { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002000_IRONMASK", "hash": "E953264101B1EF9D", "target": "Sí, eso pensaba. Has de saber que muchos de los que se nos han unido lo hicieron porque los salvaste... porque les mostraste que una sola <if(gnum4,mujer,hombre)> valiente puede marcar la diferencia." },
+    { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002000_IRONMASK", "hash": "E953264101B1EF9D", "target": "Sí, eso pensaba. Has de saber que muchos de los que se nos han unido lo hicieron porque los salvaste... porque les mostraste que <if(gnum4,una sola mujer,un solo hombre)> valiente puede marcar la diferencia." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002010_IRONMASK", "hash": "8474E071BFD6F8B7", "target": "A mí también me salvaste una vez. Ayudaste a un amigo en el Molino de la Cantera a preparar una medicina que yo necesitaba. Pero de eso hace ya toda una vida..." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002020_IRONMASK", "hash": "4C32CA53F42B54F4", "target": "En nombre de mis hermanos y hermanas, te doy las gracias. Nos diste esperanza donde no la había; valor y fuerza cuando todo estaba perdido. No malgastaremos tu don." },
     { "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_002030_PAPALYMO", "hash": "13AC902F27903FF3", "target": "Conozco esa mirada, Yda, y no me gusta. No estarás pensando en serio en tomar las armas junto a esa banda de degolladores, ¿verdad?" },
