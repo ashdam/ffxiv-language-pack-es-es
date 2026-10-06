@@ -52,7 +52,7 @@
     { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_03", "hash": "ABEDBB5D391274C6", "target": "Desterrada... alma insensible... muerta al deseo...♪" },
     { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_04", "hash": "BC9810DFF75767A0", "target": "Apiádate... señora afligida... desdicha...♪" },
     { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_05", "hash": "1057764B845BBD9D", "target": "... melodía... último aliento... de muerte... el compás...♪" },
-    { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_06", "hash": "C67C781CDCF69793", "target": "¿Acaso no... ceder... lamentar... para siempre sola...?♪" },
+    { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_06", "hash": "C67C781CDCF69793", "target": "¿Acaso no... ceder... lamentar... para siempre <if(gnum4,sola,solo)>...?♪" },
     { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_07", "hash": "536102CC883B5D15", "target": "Mi amor... un río... una mirada... el alma tiembla...♪" },
     { "gameKey": "quest/009/GaiUsc208_00967#TEXT_GAIUSC208_00967_SEIREN_BATTLETALK_08", "hash": "406DD1EDE12DD9D8", "target": "No más... oscuridad... eclipse... el corazón...♪" }
   ]

@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_SEQ_00", "hash": "755BD1EF6970DF4A", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Varthon tiene prisa, pero no tanta como para rechazar una mano amiga." },
-    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_00", "hash": "93A89F941B7FB0C1", "target": "Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribir «tuktu» para convencer a Karnes de que no eres un enemigo" },
+    { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_00", "hash": "93A89F941B7FB0C1", "target": "Con el modo de chat en <colortype(500)><edgecolortype(501)>Say<edgecolortype(0)><colortype(0)>, escribir «tuktu» para convencer a Karnes de que no eres <if(gnum4,una enemiga,un enemigo)>" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_01", "hash": "5978873B61811F9D", "target": "Buscar el suero de Rama Serpenteante en el lugar señalado" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_TODO_02", "hash": "B9E0FE5E8D099B27", "target": "Entregar el suero de Rama Serpenteante a Karnes" },
     { "gameKey": "quest/034/LucKze010_03444#TEXT_LUCKZE010_03444_VARTHON_000_001", "hash": "EA3A9F5B1FE411D3", "target": "¡Eh, tú! Eres ese invitado del que nos hablaba la maestra Matoya. ¡Por favor, tienes que ayudarme!" },

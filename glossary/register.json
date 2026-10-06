@@ -1272,18 +1272,7 @@
       "confidence": "high",
       "why": "Mercader veterano de Reunion. Francés tu 17 contra 1, y japonés あんた con formas llanas."
     },
-    "TAYNOR": {
-      "corpus": { "conversations": 9, "rows": 164 },
-      "evidence": [
-        { "gameKey": "quest/036/LucKba451_03628#TEXT_LUCKBA451_03628_TAYNOR_000_310", "lang": "ja", "term": "きみ" },
-        { "gameKey": "quest/036/LucKba421_03625#TEXT_LUCKBA421_03625_TAYNOR_000_308", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_075", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_105", "lang": "fr", "term": "vous+keigo" }
-      ],
-      "player": "usted",
-      "confidence": "high",
-      "why": "Side Story: corpus 20 filas, ja cortés. Con Unukalhai, usted hasta que se tutean en LucKun003. DECIDIDO POR EL JAPONÉS. Keigo en 17 de las 23 filas dirigidas al jugador, sin pronombre familiar; el francés en «vous», 15 contra 2."
-    },
+    "TAYNOR": {"corpus": {"conversations": 9, "rows": 164}, "evidence": [{"gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_075", "lang": "ja", "term": "勉強します"}, {"gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_075", "lang": "fr", "term": "Montrez-moi"}, {"gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_100", "lang": "ja", "term": "ですか"}, {"gameKey": "quest/036/LucKba441_03627#TEXT_LUCKBA441_03627_TAYNOR_000_105", "lang": "fr", "term": "votre"}], "player": "usted", "confidence": "high", "why": "Side Story: corpus 20 filas, ja cortés. Con Unukalhai, usted hasta que se tutean en LucKun003. DECIDIDO POR EL JAPONÉS. Keigo en 17 de las 23 filas dirigidas al jugador, sin pronombre familiar; el francés en «vous», 15 contra 2."},
     "THAYMOTH": {
       "corpus": { "conversations": 2, "rows": 14 },
       "player": "tú",
@@ -1430,12 +1419,7 @@
       "confidence": "high",
       "why": "DECIDIDO POR EL JAPONÉS. Habla en llano, con 俺たち y sin una sola forma de keigo en sus 5 filas al jugador; el único «vous» francés no es evidencia contra eso. Guardia de Nabaath Areng."
     },
-    "WYDLAD": {
-      "corpus": { "conversations": 3, "rows": 30 },
-      "player": "tú",
-      "confidence": "high",
-      "why": "Il Mheg: pixie mercader; el fr sobre-marca «vous» y no manda. DECIDIDO POR EL JAPONÉS LLANO. Ni keigo (0 de 4 filas al jugador) ni pronombre deferente; el francés se reparte, 1 «vous» contra 0, y no decide."
-    },
+    "WYDLAD": {"corpus": {"conversations": 3, "rows": 30}, "player": "tú", "confidence": "high", "why": "Nu Mou de Pla Enni. Trato coloquial al jugador: JA usa あんた y terminaciones っす. Mantener tú en sus encargos y agradecimientos. A Titania se dirige con usted; la súplica al monarca es otra relación.", "voice": "Coloquial, inseguro y servicial; っす es una forma coloquial de です."},
     "XEMUTT": {
       "corpus": { "conversations": 3, "rows": 24 },
       "player": "tú",
@@ -1513,21 +1497,7 @@
       "confidence": "high",
       "why": "Francés `vous` 113 contra 2; japonés llano 103 contra 24 con keigo. DECIDIDO POR EL JAPONÉS. 殿 tras el nombre del jugador en 28 de las 42 filas dirigidas al jugador; el «vous» francés, 34 contra 0, es el de por defecto."
     },
-    "FLHAMINN": {
-      "corpus": { "conversations": 23, "rows": 259 },
-      "evidence": [
-        { "gameKey": "quest/011/GaiUse104_01178#TEXT_GAIUSE104_01178_FLHAMINN_000_042", "lang": "fr", "term": "tu" },
-        { "gameKey": "quest/011/GaiUse105_01179#TEXT_GAIUSE105_01179_FLHAMINN_000_086", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/032/LucKbb241_03254#TEXT_LUCKBB241_03254_FLHAMINN_000_254", "lang": "fr", "term": "tu" },
-        { "gameKey": "quest/032/LucKbb241_03254#TEXT_LUCKBB241_03254_FLHAMINN_000_267", "lang": "fr", "term": "tu" }
-      ],
-      "player": "usted al conocerle, tú después",
-      "confidence": "high",
-      "why": "LA ÚNICA ENTRADA CON ARCO, y la estructura lo admite. En las secundarias de A Realm Reborn le llama «forasterrro» y le trata de usted; en el contenido posterior es «¿Acaso crees que hice todo este viaje por capricho?». Un traductor que iguale «lo publicado» contando ocurrencias acierta la mitad de las veces. Lleva además la erre arrastrada en las dos épocas: «terrrible», «verrrdad».",
-      "examples": [
-        "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_020"
-      ]
-    },
+    "FLHAMINN": {"corpus": {"conversations": 23, "rows": 259}, "evidence": [{"gameKey": "quest/011/GaiUse103_01177#TEXT_GAIUSE103_01177_FLHAMINN_000_050", "lang": "fr", "term": "Pardonnez-moi"}, {"gameKey": "quest/011/GaiUse105_01179#TEXT_GAIUSE105_01179_FLHAMINN_000_086", "lang": "fr", "term": "Dites-lui"}, {"gameKey": "quest/032/LucKbb241_03254#TEXT_LUCKBB241_03254_FLHAMINN_000_254", "lang": "fr", "term": "tu"}, {"gameKey": "quest/032/LucKbb241_03254#TEXT_LUCKBB241_03254_FLHAMINN_000_267", "lang": "fr", "term": "tu"}], "player": "usted al conocerle, tú después", "confidence": "high", "why": "LA ÚNICA ENTRADA CON ARCO, y la estructura lo admite. En las secundarias de A Realm Reborn le llama «forasterrro» y le trata de usted; en el contenido posterior es «¿Acaso crees que hice todo este viaje por capricho?». Un traductor que iguale «lo publicado» contando ocurrencias acierta la mitad de las veces. Lleva además la erre arrastrada en las dos épocas: «terrrible», «verrrdad».", "examples": ["quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_020"]},
     "RAUBAHN": {
       "corpus": { "conversations": 88, "rows": 978 },
       "evidence": [
@@ -2556,19 +2526,7 @@
       "confidence": "high",
       "why": "DECIDIDO POR EL JAPONÉS. 君 y キミ en 43 filas, 吾輩 para sí, y solo 2 con keigo. Erudito excéntrico y campechano; el francés dice «vous» 85 contra 11 y es el de por defecto."
     },
-    "ESUMIYAN": {
-      "corpus": { "conversations": 29, "rows": 448 },
-      "evidence": [
-        { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_2", "lang": "fr", "term": "tu" },
-        { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_4", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_6", "lang": "fr", "term": "tu" },
-        { "gameKey": "custom/000/RegFstCnjGuild_00023#TEXT_REGFSTCNJGUILD_00023_ESUMIYAN_000_7", "lang": "fr", "term": "tu" }
-      ],
-      "player": "usted",
-      "others": { "SYLPHIE": "usted" },
-      "confidence": "high",
-      "why": "DECIDIDO POR EL JAPONÉS. Keigo en 112 de 132 filas y el francés en «vous», 84 contra 12. Tutea a Sylphie y a Rielle."
-    },
+    "ESUMIYAN": {"corpus": {"conversations": 29, "rows": 448}, "evidence": [{"gameKey": "quest/004/ClsCnj005_00440#TEXT_CLSCNJ005_00440_ESUMIYAN_000_88", "lang": "ja", "term": "晴れましたか"}, {"gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_ESUMIYAN_000_026", "lang": "fr", "term": "vous a inquiétée"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_087", "lang": "fr", "term": "Tu dois être Rielle"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_107", "lang": "ja", "term": "君"}], "player": "usted", "others": {"SYLPHIE": "usted", "RIELLE": "tú"}, "confidence": "high", "why": "Al jugador, usted por el japonés. A Sylphie, usted: el francés usa vous singular y el japonés mantiene el habla cortés. Tutea a Rielle, como el francés; el japonés usa 君 al tranquilizarla."},
     "FORDOLA": {
       "corpus": { "conversations": 16, "rows": 185 },
       "evidence": [
