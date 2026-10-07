@@ -23,7 +23,7 @@
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_Q2_000_000", "hash": "04632499C07F4DEA", "target": "¿Qué vas a decir?" },
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_A2_000_001", "hash": "E4ADA505F5D62AC5", "target": "Necesita conocimientos de artefactos allaganos para arreglarlo." },
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_A2_000_002", "hash": "9C4F9C41059DBEDC", "target": "Necesita conocimientos especializados para arreglarlo." },
-    { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_THIUNA_000_016", "hash": "100A825DB695DEDC", "target": "Oh, ¿versada en tales máquinas, eh? Bueno, agradezco el consejo, pero descuide, tengo la situación bien controlada. Esto pasa todo el rato." },
+    { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_THIUNA_000_016", "hash": "100A825DB695DEDC", "target": "Oh, ¿<if(gnum4,versada,versado)> en tales máquinas, eh? Bueno, agradezco el consejo, pero descuide, tengo la situación bien controlada. Esto pasa todo el rato." },
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_THIUNA_000_017", "hash": "DE91FB5A1523FF66", "target": "¡Hala!" },
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_RECORDSYSTEM_000_018", "hash": "B91488C5B8A3D48A", "target": "\\<bip> Tu nodo ha encontrado un problema y necesita reiniciarse. Recopilando información del error y reiniciando." },
     { "gameKey": "quest/032/LucKla201_03230#TEXT_LUCKLA201_03230_RECORDSYSTEM_000_019", "hash": "ABE20AD5D361AC50", "target": "\\<pip> \\<blup> Reinicio del nodo completado. Iniciando sesión como Thiuna. \\<bzzzzzz> Más, Thiuna. Golpéame más." },

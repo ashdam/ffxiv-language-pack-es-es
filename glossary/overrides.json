@@ -41,7 +41,7 @@
     {"en":"Chaotic Alliance Raid","es-es":"Raids caóticas","protect":false},
     {"en":"Raid Finder","es-es":"Buscador de raids","protect":false},
     {"en":"The Unending Codex","es-es":"El Códice Interminable","protect":false},
-    {"en":"somanoutics","es-es":"somanóutica","protect":false},
+    {"en": "somanoutics", "es-es": "somanáutica", "protect": false},
     {"en":"Mogpendium","es-es":"Mogpendium","protect":true},
     {"en":"Minimog Challenges","es-es":"Desafíos Minimog","protect":false},
     {"en":"Ultimog Challenge","es-es":"Desafío Ultimog","protect":false},
@@ -361,14 +361,7 @@
       "protect": false,
       "note": "LOW CONFIDENCE coinage; neither reference fixes a term. The elementals' retribution, recurring through the Gridania arc and into Heavensward. Lowercase — a phenomenon, not a proper name."
     },
-    {
-      "en": "gil",
-      "fr": "gil",
-      "ja": "ギル",
-      "es-es": "gil",
-      "protect": false,
-      "note": "OWNER'S RULING: the singular is «gil» and THE PLURAL IS «GILES». Not «guiles», which only the Spanish Fandom wiki asserts and no official source confirms; do not reopen it on that."
-    },
+    {"en": "gil", "fr": "gil", "ja": "ギル", "es-es": "gil", "protect": false, "note": "Use «gil» in the singular and «giles» in the plural."},
     {
       "en": "Mogguardia",
       "fr": "",
@@ -401,14 +394,7 @@
       "protect": false,
       "note": "APPLIED EVEN WHERE THE ENGLISH USES A DESCRIPTION rather than the name — «the star's previous residents», «our predecessors» — because the Japanese is 先駆者 every time. OPEN: the alternative is to reserve it for where the English capitalises."
     },
-    {
-      "en": "mech",
-      "fr": "méca",
-      "ja": "メカ",
-      "es-es": "mecha",
-      "protect": false,
-      "note": "Cosmic Exploration piloted machine. FEMININE throughout: «la mecha», «las mechas», «hangar de mechas», «pilotos de mechas». BEWARE A BLIND SWEEP: «mecha» is also the ordinary word for a fuse, used that way in Balloon#1376. Sweeping «robot» has to flip determiners too («ese robot magitek» -> «esa mecha magitek»), so do it as phrase pairs."
-    },
+    {"en": "mech", "fr": "méca", "ja": "メカ", "es-es": "mecha", "protect": false, "note": "A robot or piloted machine, in any content. Use masculine: «el mecha», «los mechas», «hangar de mechas». Keep ordinary Spanish «mecha» feminine when it means a fuse or a hair highlight."},
     {
       "en": "spongoi",
       "fr": "",
@@ -628,14 +614,7 @@
       "protect": true,
       "note": "KEPT UNACCENTED, NOT «Odín», matching every shipped occurrence in InstanceContentTextData and NpcYell. Recorded because the Spanish accent is the natural instinct and would split the corpus."
     },
-    {
-      "en": "MGP",
-      "fr": "PGS",
-      "ja": "MGP",
-      "es-es": "MGP",
-      "protect": true,
-      "note": "Gold Saucer currency, shipped as MGP everywhere. Recorded because the French says PGS: a translator following the French would coin a currency name the corpus does not use."
-    },
+    {"en": "MGP", "fr": "PGS", "ja": "MGP", "es-es": "PGM", "protect": false, "note": "Sigla de puntos del Gold Saucer de Manderville. Usar PGM en el texto para jugadores."},
     {
       "en": "levin sickness",
       "fr": "",
@@ -2171,14 +2150,7 @@
       "protect": true,
       "note": "Proper name, untouched."
     },
-    {
-      "en": "bomb",
-      "es-es": "bomba",
-      "protect": false,
-      "fr": "bombo",
-      "ja": "ボム",
-      "note": "The recurring Final Fantasy creature, not an explosive device. Translated in every language and rendered «Bomba» by the Spanish Final Fantasy titles, so English would read as a gap. Plural: bombas."
-    },
+    {"en": "bomb", "es-es": "bom", "protect": false, "fr": "bombo", "ja": "ボム", "note": "Use «bom» for the creature (Japanese ボム), with plural «boms». Use «bomba» for an explosive device."},
     {
       "en": "Oblivion",
       "es-es": "Oblivion",
@@ -2366,14 +2338,7 @@
       "protect": false,
       "note": "Goblin-speak. See uplander; 15 lines unified."
     },
-    {
-      "en": "whizzlepops",
-      "fr": "",
-      "ja": "",
-      "es-es": "chisporrotos",
-      "protect": false,
-      "note": "Goblin-speak. See uplander; 12 lines unified off «chisporrotines», whose diminutive breaks the pattern."
-    },
+    {"en": "whizzlepops", "fr": "", "ja": "", "es-es": "cacharros girapum", "protect": false, "note": "Goblin word for devices. Singular: cacharro girapum. Plural: cacharros girapum."},
     {
       "en": "the Fury",
       "fr": "",
@@ -2858,14 +2823,7 @@
       "protect": false,
       "note": "shipped, confirmed by chunk 19"
     },
-    {
-      "en": "tonberry",
-      "fr": "",
-      "ja": "",
-      "es-es": "tonberry",
-      "protect": true,
-      "note": "invariable. Series precedent."
-    },
+    {"en": "tonberry", "fr": "", "ja": "", "es-es": "tomberi", "protect": false, "note": "Spanish series name: tomberi. Plural: tomberis. Protected item and destination names stay in English."},
     {
       "en": "sylph",
       "fr": "",
@@ -4398,14 +4356,6 @@
       "es-es": "ishgardés",
       "protect": false,
       "note": "The demonym: feminine «ishgardesa», plural «ishgardeses». The -és pattern is what Spanish uses for a city name ending in a consonant. Not «ishgardiano/a». Lowercase, per _peoples_casing_comment."
-    },
-    {
-      "en": "Silvertear",
-      "fr": "Pleurargent",
-      "ja": "銀泪",
-      "es-es": "Silvertear",
-      "protect": true,
-      "note": "KEEPS ITS ENGLISH ROOT, with the rest of the name in Spanish: «el lago Silvertear», «las Cataratas de Silvertear», «los Cielos de Silvertear». One batch produced four shapes at once; the shipped corpus already kept the root, and it is Midgardsormr's tear, a name with lore behind it rather than a description."
     },
     {
       "en": "white auracite",
@@ -6700,11 +6650,7 @@
       "es-es": "la Cala del Tesoro",
       "note": "Paraje del Mar de Rubí, sin precedente en el corpus."
     },
-    {
-      "en": "Bomb Dance",
-      "es-es": "la Danza de la Bomba",
-      "note": "El baile de Kugane, en prosa. «the Bomb Dance of Kugane» pasa a «la Danza de la Bomba de Kugane»."
-    },
+    {"en": "Bomb Dance", "es-es": "la Danza del Bom", "note": "El baile de Kugane, en prosa. «the Bomb Dance of Kugane» pasa a «la Danza del Bom de Kugane»."},
     {
       "en": "aetherology",
       "es-es": "eterología",
@@ -7390,7 +7336,7 @@
     {"en":"Zidane Tribal","es-es":"Yitán Tribal","note":"Nombre español del protagonista de Final Fantasy IX.","protect":false},
     {"en":"Necron","es-es":"Tiniebla Eterna","note":"Nombre español de Final Fantasy IX.","protect":false},
     {"en":"Ultima, the High Seraph","es-es":"Artema, el Ángel","note":"Entidad de Ivalice, con el nombre español de Final Fantasy XII. No aplicar a Ultima Weapon.","protect":false},
-    {"en":"floor","es-es":"planta","protect":false,"note":"Planta o plantas en mazmorras profundas, también en macros y diálogos. No aplicar a suelo, fondo marino ni expresiones figuradas."},
+    {"en":"floor","es-es":"planta","protect":false,"note":"Planta o plantas en mazmorras profundas, también en macros y diálogos. Conservar la numeración inglesa literal: first=primera, second=segunda, third=tercera, fourth=cuarta; piso/planta son variantes válidas. Ground floor: planta baja. No aplicar a suelo, fondo marino ni expresiones figuradas."},
     {"en":"protomander","es-es":"protovasija","protect":false},
     {"en":"Accursed Hoard","es-es":"Tesoro Maldito","protect":false},
     {"en":"Gelmorran potsherd","es-es":"fragmento de cerámica gelmorrana","protect":false},
@@ -7556,8 +7502,8 @@
     {"en":"Society Quests","es-es":"Misiones de tribus aliadas","protect":false,"note":"Categoría de misiones. Con una agrupación concreta, adaptar el número: misiones de la tribu correspondiente."}
   ,
     {"en":"Guildhest","es-es":"Gesta","protect":false,"note":"Singular del tipo de contenido Gestas. En prosa: gesta."},
-    {"en":"Now Fall","es-es":"Now Fall","protect":true,"note":"Contraseña literal de BanIxa302. Conservar también al recordarla en diálogo."},
-    {"en": "Underfoot", "fr": "le coursier", "ja": "追廻", "es-es": "Recadero", "protect": false, "note": "Apodo de Perimu Haurimu. En prosa, el Recadero; en vocativo, Recadero."}
+    {"en": "Underfoot", "fr": "le coursier", "ja": "追廻", "es-es": "Recadero", "protect": false, "note": "Apodo de Perimu Haurimu. En prosa, el Recadero; en vocativo, Recadero."},
+    {"en": "beastman aetheryte", "es-es": "eterita de los hombres bestia", "protect": false, "note": "Mantener el femenino de eterita y distinguir beastmen de beast tribes."}
   ],
   "_emotes_comment": [
     "Acotaciones: en el corpus van escapadas, \\<sigh>, y el jugador lee <sigh>. No son macros.",

@@ -35,7 +35,7 @@
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_BRIARDIEN_000_028", "hash": "D30CD3D38517EECA", "target": "La única forma de determinar su culpabilidad o inocencia es registrar esa carreta." },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_BRIARDIEN_000_029", "hash": "063727C1EF1B2A00", "target": "Te ruego que mantengas distraídos al mercader y a su guardia para que yo pueda colarme." },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_SYSTEM_000_030", "hash": "D5BE2B10EE848431", "target": "inspección" },
-    { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_VENDOR002210_000_030", "hash": "0695CB3562154874", "target": "¿Inspección? ¿De qué diablos hablas? No eres ningún Caballero del Templo, ¡no tienes ningún derecho! A no ser que..." },
+    { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_VENDOR002210_000_030", "hash": "0695CB3562154874", "target": "¿Inspección? ¿De qué diablos hablas? No eres <if(gnum4,ninguna caballera,ningún caballero)> del Templo, ¡no tienes ningún derecho! A no ser que..." },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_VENDOR002210_000_031", "hash": "83F98B65A3784E0C", "target": "(Confío en que la <italic(1)>mercancía<italic(0)> esté bien asegurada y en que la carreta esté lista para una huida rápida, si hace falta, ¿no?)" },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_VENDOR002210_000_032", "hash": "3D1792F34B87D77C", "target": "Bien, ¿por dónde íbamos? Ah, sí. No vamos a consentir tu inspección. Y ahora haz el favor de largarte." },
     { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_VENDOR002210_000_033", "hash": "26B4E5AFAECC682C", "target": "¡Maldita sea, chaval! ¿¡Qué haces!?" },

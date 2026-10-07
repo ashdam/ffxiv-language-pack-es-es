@@ -14,7 +14,7 @@
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_TODO_03", "hash": "8B6CF51B5B839CF8", "target": "Hablar con Zero" },
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_YSHTOLA_000_000", "hash": "66B93F063E49759B", "target": "Un lugar que Golbez visita sin falta... Si hubiera alguna distorsión en el éter ambiental, la localizaría con facilidad..." },
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_ESTINIEN_000_005", "hash": "EDB6F9DE8209170D", "target": "Consuela ver que el espíritu de Azdaja sigue intacto. Encontremos ese lugar misterioso que tanto frecuenta Golbez." },
-    { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_VRITRA_000_007", "hash": "B57BD3E13741D2C5", "target": "No nos queda sino derrotar a Golbez para liberar a mi hermana. Asegúrate de estar preparado para cualquier cosa." },
+    { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_VRITRA_000_007", "hash": "B57BD3E13741D2C5", "target": "No nos queda sino derrotar a Golbez para liberar a mi hermana. Asegúrate de estar <if(gnum4,preparada,preparado)> para cualquier cosa." },
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_MYSTERIOUSPERSON_000_010", "hash": "4AEF66F63B400457", "target": "Los demás ya han empezado a buscar pistas. Hagamos lo mismo." },
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_MYSTERIOUSPERSON_000_011", "hash": "1D93A939831C7AC9", "target": "Yo me encargo de esta zona. Tú ocúpate del sur." },
     { "gameKey": "quest/047/AktKmk108_04742#TEXT_AKTKMK108_04742_MYSTERIOUSPERSON_000_020", "hash": "3B7F2454E83B383D", "target": "Deja esta zona en mis manos y ocúpate del sur." },

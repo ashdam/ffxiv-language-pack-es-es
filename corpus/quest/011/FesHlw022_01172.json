@@ -15,7 +15,7 @@
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_SEQ_10", "hash": "75127365E57839EC", "target": "El magic pot parece contento. Dale un caramelo de fuego." },
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_SEQ_11", "hash": "E28D4DCD1458CCE0", "target": "El magic pot está encantado. Dale un caramelo de viento para completar el surtido." },
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_SEQ_12", "hash": "A70CEB0DF0E4B55F", "target": "El magic pot está exultante y devuelve tu bondad con un lote de galletas de calabaza. ¿Qué otros dulces y terrores te aguardan antes de que acaben las fiestas? Busca al Impresario tras la puesta de sol para adentrarte más en las sombras de la noche." },
-    { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_00", "hash": "83F52D5C94A14E78", "target": "Hablar con el Impresario mientras vas disfrazado" },
+    { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_00", "hash": "83F52D5C94A14E78", "target": "Hablar con el Impresario mientras vas <if(gnum4,disfrazada,disfrazado)>" },
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_01", "hash": "5D19D8A4B82451D0", "target": "Asustar al acróbata asustadizo en Ul'dah mientras vas disfrazado" },
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_02", "hash": "9F3F043A45B6497E", "target": "Recoger las galletas" },
     { "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_03", "hash": "1463CA7DA454411F", "target": "Presentar las galletas al acróbata mientras vas disfrazado" },

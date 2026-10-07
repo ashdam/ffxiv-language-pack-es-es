@@ -2,7 +2,7 @@
   "conversation": "quest/029/StmBdy402_02942",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_000", "hash": "B8DB02E70A8061AD", "target": "¡Buenas noticias, aventurero! Mientras estaba fuera, la señora Krile terminó su trabajo en la eterita de relé, lo que nos permite acceder a otra región de la isla." },
+    { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_000", "hash": "B8DB02E70A8061AD", "target": "¡Buenas noticias, <if(gnum4,aventurera,aventurero)>! Mientras estaba fuera, la señora Krile terminó su trabajo en la eterita de relé, lo que nos permite acceder a otra región de la isla." },
     { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_100_000", "hash": "65833EC89784F347", "target": "Me dicen que es muy distinta de Anemos─mucho, mucho más fría, por la preponderancia de éter de aspecto de hielo. En consecuencia, el equipo la bautizó «Pagos»." },
     { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_001", "hash": "677346D245057AE8", "target": "Ya han establecido un nuevo campamento base y, si desea echar una mano con la expedición, será más que bienvenido." },
     { "gameKey": "quest/029/StmBdy402_02942#TEXT_STMBDY402_02942_RODNEY_000_002", "hash": "AA8BA70BA4CD6360", "target": "No tiene más que decirlo y yo me encargo de los preparativos. ¡Seguro que la señora Krile se alegrará muchísimo de volver a verle!" },
