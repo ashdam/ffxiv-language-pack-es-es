@@ -27309,6 +27309,678 @@
     {"rule": "corrector-grammar-languagetool", "gameKey": "quest/019/HeaVnz826_01956#TEXT_HEAVNZ826_01956_SLOWFIX_000_084", "hash": "B9C957F91335AFBC", "why": "Arquitectón coincide con PlaceName#2032 y con el lugar citado en francés y japonés."},
     {"rule": "corrector-grammar-languagetool", "gameKey": "quest/019/HeaVnz827_01957#TEXT_HEAVNZ827_01957_BOOMSHOX_000_030", "hash": "DA9F0AE4D2B93931", "why": "Reptabichos conserva el compuesto goblin fijado en el glosario para crawlybugs. Compuesto goblin de la voz de Boomshox, correspondiente a checkwork en la fuente."},
     {"rule": "corrector-grammar-languagetool", "gameKey": "quest/019/HeaVnz827_01957#TEXT_HEAVNZ827_01957_BOOMSHOX_000_040", "hash": "AD0D7B87781221E6", "why": "Vocalización goblin intencionada presente en la fuente y el contexto. Reptabichos conserva el compuesto goblin fijado en el glosario para crawlybugs."},
-    {"rule": "corrector-grammar-languagetool", "gameKey": "quest/053/KinGkw101_05380#TEXT_KINGKW101_05380_SEQ_02", "hash": "7BDD99E40E861B24", "why": "Blandidor expresa quien blande los cuchillos de Archive. Aetherwells designa los recipientes de la misión; glue y siderite forman parte de nombres de objetos conservados para identificarlos en el juego."}
+    {"rule": "corrector-grammar-languagetool", "gameKey": "quest/053/KinGkw101_05380#TEXT_KINGKW101_05380_SEQ_02", "hash": "7BDD99E40E861B24", "why": "Blandidor expresa quien blande los cuchillos de Archive. Aetherwells designa los recipientes de la misión; glue y siderite forman parte de nombres de objetos conservados para identificarlos en el juego."},
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "custom/003/RegSeaPvpGaro_00384#TEXT_REGSEAPVPGARO_00384_HOUSHI_003_005",
+      "hash": "91EF9D33877DC7EA",
+      "why": "Keep the Garo title names. Empty titles occur for class values outside the listed jobs in both sources. Their generated spaces do not show a Spanish text error. Runtime class eligibility is not checked offline."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "custom/003/RegSeaPvpGaro_00384#TEXT_REGSEAPVPGARO_00384_HOUSHI_003_007",
+      "hash": "37FE0F89C4AE7164",
+      "why": "Keep the Garo title names. Empty titles occur for class values outside the listed jobs in both sources. Their generated spaces do not show a Spanish text error. Runtime class eligibility is not checked offline."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "custom/007/CtsHnt60RiskyMobMareLamentorum_00764#TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_011",
+      "hash": "AB4F1865CD7DC472",
+      "why": "Lunar phoebad is the full enemy label. Keep the untranslated enemy name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "cut_scene/073/VoiceMan_07300#TEXT_VOICEMAN_07300_000320_GEODE",
+      "hash": "DD0ABFE217CAEC3A",
+      "why": "Reu is an interrupted word. The English and Japanese source also cut off the word."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "ActionTransient#41636",
+      "hash": "ED852C1B773A6B19",
+      "why": "Prediction, Regen and Starfall are parts of the current status names. Keep these names until their status labels are translated."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "ActionTransient#46604",
+      "hash": "7A57A9455E06A60C",
+      "why": "Steadfast Stance is the barrier status name. Maximos agrees with PV, not with Duracion on the next line."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "DescriptionString#1664",
+      "hash": "6B991A457A607568",
+      "why": "FATE is the game event acronym. It has no plural suffix in Spanish."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "DescriptionString#224",
+      "hash": "EB3595573F2CD9A5",
+      "why": "The quoted menu label ends with a period. Para continues the outer sentence after that quoted label."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "InstanceContentTextData#12913",
+      "hash": "E5208442CA8BB62F",
+      "why": "This is a location phrase, not a full sentence. The English source also starts with a lowercase preposition."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "LogMessage#2148",
+      "hash": "C3F8A18750B7F322",
+      "why": "Keep the full tonberry king or tonberry wanderer enemy label. The related BNpcName labels are not translated. Generic tonberry uses tomberi."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "LogMessage#3224",
+      "hash": "64DD9F27263530BF",
+      "why": "Keep the full tonberry king or tonberry wanderer enemy label. The related BNpcName labels are not translated. Generic tonberry uses tomberi."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#163.12",
+      "hash": "F656B6FEC8187A4A",
+      "why": "Keep the current status names Rehabilitation."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#165.12",
+      "hash": "58FA0C9DA379E8FE",
+      "why": "Keep the current status names Rehabilitation. Critico agrees with golpe in probabilidad de golpe critico."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#179.12",
+      "hash": "04ED7AAA41C90FE4",
+      "why": "Keep the current status names Blink."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#180.12",
+      "hash": "C31126101EF66FE8",
+      "why": "Keep the current status names Haste."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#185.12",
+      "hash": "CB1FAED2EC5A72E8",
+      "why": "Keep the current status names Haste."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#190.12",
+      "hash": "F73473944448914C",
+      "why": " Critico agrees with golpe in probabilidad de golpe critico."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#23.12",
+      "hash": "E86746AB2295A060",
+      "why": "Keep the current status names Rehabilitation."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#44.12",
+      "hash": "67BC51F74E1B4BE7",
+      "why": "Keep the current status names Haste."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#55.12",
+      "hash": "118E78DE2878B16A",
+      "why": " Critico agrees with golpe in probabilidad de golpe critico."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "XBMItem#73.12",
+      "hash": "A84215AD92F72512",
+      "why": "Keep the current status names Rehabilitation."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/004/SubSea109_00406#TEXT_SUBSEA109_00406_HNAANZA_000_5",
+      "hash": "8BFE5828A1D23DF3",
+      "why": "The extra r marks the speaker voice on a strong r sound. Keep the intended Miqote pronunciation."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/010/JobSch400_01099#TEXT_JOBSCH400_01099_QIB_001_TODO_1",
+      "hash": "3B389D112C5EA8E7",
+      "why": "Keep the full tonberry king or tonberry wanderer enemy label. The related BNpcName labels are not translated. Generic tonberry uses tomberi."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw013_01169#TEXT_FESHLW013_01169_TODO_03",
+      "hash": "F91379C7DDF65B7E",
+      "why": "Impresario is the NPC name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_1",
+      "hash": "6994B2FE11F60D25",
+      "why": "Keep the full tonberry king or tonberry wanderer enemy label. The related BNpcName labels are not translated. Generic tonberry uses tomberi."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_2",
+      "hash": "E31B84C2CA9D873A",
+      "why": "Keep the full tonberry king or tonberry wanderer enemy label. The related BNpcName labels are not translated. Generic tonberry uses tomberi."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/013/BanKob206_01340#TEXT_BANKOB206_01340_BOGU_000_000",
+      "hash": "87A4B1DFEB87086B",
+      "why": "Cobalt golems is the full enemy label. The glossary keeps compound golem enemy names in English."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00",
+      "hash": "0FA6DC575AE02BF2",
+      "why": "Bo is part of the NPC name Bo Bu. Full Metal Alchemist is the FATE title, not a spelling of the anime title."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_130_019",
+      "hash": "E2964EEFD5CCB2F5",
+      "why": "Eteritas is the glossary term. Kupo is the intended moogle call."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/015/BanIxa203_01506#TEXT_BANIXA203_01506_METHULICATTLAN_000_040",
+      "hash": "564D32A74A08FBE4",
+      "why": "Methuli is the speaker name. Keep shale golem and clay golem as full enemy labels under the glossary rule."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_SEQ_02",
+      "hash": "6AAA7635D9DBA5D6",
+      "why": "Anyx is part of the place name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_JANNEQUINARD_000_009",
+      "hash": "EA95771EECBDA6F2",
+      "why": "Comosellame is an intended dismissive name form in this speaker voice."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/020/JobAst400_02015#TEXT_JOBAST400_02015_SEQ_01",
+      "hash": "F7C33F3CE3B51C59",
+      "why": "Sharlayana is the feminine demonym of Sharlayan."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/020/JobAst500_02018#TEXT_JOBAST500_02018_JANNEQUINARD_000_009",
+      "hash": "D3C1AC472CFBEA55",
+      "why": "Durendaire is the proper name of the house."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/022/JobRel101_02212#TEXT_JOBREL101_02212_SEQ_02",
+      "hash": "3D0BDD6D44C84699",
+      "why": "Mercader is valid for a female merchant. The article una agrees with Syndony."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/025/JobRdm700_02587#TEXT_JOBRDM700_02587_XRHUNTIA_000_144",
+      "hash": "B3897E505DFC6B29",
+      "why": "The exclamation continues the preceding request. Its initial y stays lowercase."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/031/FesXms401_03173#TEXT_FESXMS401_03173_SEQ_01",
+      "hash": "CAE825F5CD668778",
+      "why": "Lodestone is the official website name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/049/KinGra104_04963#TEXT_KINGRA104_04963_YAANA_000_121",
+      "hash": "390D32992EBBD533",
+      "why": "The extra r marks the speaker voice on a strong r sound. Keep the intended Miqote pronunciation."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/053/FesHlx101_05375#TEXT_FESHLX101_05375_SEQ_03",
+      "hash": "3E366A8FD4E128FF",
+      "why": "Impresario is the NPC name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/053/FesHlx102_05376#TEXT_FESHLX102_05376_SEQ_04",
+      "hash": "D93C7650DA484912",
+      "why": "Ambulario is the current mount name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/054/KinGsf201_05460#TEXT_KINGSF201_05460_TIISOLJA_000_029",
+      "hash": "11F9D913C65BD31C",
+      "why": "Tii is part of the speaker name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "custom/003/RegSeaPvpGaro_00384#TEXT_REGSEAPVPGARO_00384_HOUSHI_003_005",
+      "hash": "9575E8838DE8782E",
+      "why": "Darkness is part of the Garo title name in this branch, not the term for darkness. Keep the full title name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "custom/003/RegSeaPvpGaro_00384#TEXT_REGSEAPVPGARO_00384_HOUSHI_003_007",
+      "hash": "DFF069AF84AF2445",
+      "why": "Darkness is part of the Garo title name in this branch, not the term for darkness. Keep the full title name."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "ActionTransient#46604",
+      "hash": "A3C0F67D0B8476FC",
+      "why": "Steadfast Stance es un estado de barrera, no la acción Stance de Envainar/Desenvainar. FR Position fermée y JA ホールドポジション confirman el sentido; se mantiene el nombre del estado fuera del alcance traducido."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#2148",
+      "hash": "398E12E94CAD6953",
+      "why": "El texto cita el nombre compuesto completo de un enemigo. BNpcName#1547.0 tonberry king y #1650.0 tonberry wanderer tienen target vacío y conservan la etiqueta inglesa efectiva. El tomberi genérico no permite cambiar solo una parte de esta etiqueta; mantener mientras no se traduzca BNpcName junto con sus referencias."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "LogMessage#3224",
+      "hash": "3D6F96B8E65940FB",
+      "why": "El texto cita el nombre compuesto completo de un enemigo. BNpcName#1547.0 tonberry king y #1650.0 tonberry wanderer tienen target vacío y conservan la etiqueta inglesa efectiva. El tomberi genérico no permite cambiar solo una parte de esta etiqueta; mantener mientras no se traduzca BNpcName junto con sus referencias."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/010/JobSch400_01099#TEXT_JOBSCH400_01099_QIB_001_TODO_1",
+      "hash": "06585B165CAA52D3",
+      "why": "El texto cita el nombre compuesto completo de un enemigo. BNpcName#1547.0 tonberry king y #1650.0 tonberry wanderer tienen target vacío y conservan la etiqueta inglesa efectiva. El tomberi genérico no permite cambiar solo una parte de esta etiqueta; mantener mientras no se traduzca BNpcName junto con sus referencias."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_1",
+      "hash": "C4C369A17B454ACB",
+      "why": "El texto cita el nombre compuesto completo de un enemigo. BNpcName#1547.0 tonberry king y #1650.0 tonberry wanderer tienen target vacío y conservan la etiqueta inglesa efectiva. El tomberi genérico no permite cambiar solo una parte de esta etiqueta; mantener mientras no se traduzca BNpcName junto con sus referencias."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/011/JobSch500_01102#TEXT_JOBSCH500_01102_QIB_001_TODO_2",
+      "hash": "4C9E5DF9A579E609",
+      "why": "El texto cita el nombre compuesto completo de un enemigo. BNpcName#1547.0 tonberry king y #1650.0 tonberry wanderer tienen target vacío y conservan la etiqueta inglesa efectiva. El tomberi genérico no permite cambiar solo una parte de esta etiqueta; mantener mientras no se traduzca BNpcName junto con sus referencias."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/013/BanKob206_01340#TEXT_BANKOB206_01340_BOGU_000_000",
+      "hash": "D78769A945123D68",
+      "why": "Cobalt golems es nombre compuesto de enemigo, no golem genérico. El glosario golem exige conservar estos compuestos en inglés y BNpcName#2700.2 sigue sin traducción. Las dos macros gnum4 dan concordancia al vocativo y preservan el sentido."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/013/BanKob301_01364#TEXT_BANKOB301_01364_TODO_00",
+      "hash": "4789CC78C756ACB1",
+      "why": "Full Metal Alchemist es el título propio del FATE, no la profesión Alchemist. El objeto sí está traducido en Item#7802.0 como «pieza de acero de Titán»; la referencia usa ese nombre vigente. No sustituir la palabra del título por alquimista aisladamente."
+    },
+    {
+      "rule": "terminology-drift",
+      "gameKey": "quest/015/BanIxa203_01506#TEXT_BANIXA203_01506_METHULICATTLAN_000_040",
+      "hash": "9142F88EDE7F56EB",
+      "why": "Shale golem y clay golem son nombres compuestos que el glosario golem exige conservar. El uso genérico «golem minds» ya dice «la mente de un gólem». Alder Springs sigue PlaceName#85.0. Methuli conserva la autorreferencia en tercera persona."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "custom/008/FesPdy2023Aldiytha_00810#TEXT_FESPDY2023ALDIYTHA_00810_ALDIYTHA_000_005",
+      "hash": "9A4E12346A34C597",
+      "why": "FP: conversación sobre el origen de las coronas y la familia Thorne; no pide buscar, comprar ni entregar Item#24590. La fuente y su contexto permiten «coronas de flores»."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "DescriptionString#95",
+      "hash": "F0FC7584623EDCF5",
+      "why": "FP: Lodestone es la web que contiene la guía de mahjong, confirmado por FR y JA; no es Item#33780 ni una piedra de regreso."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_BRIARDIEN_000_109",
+      "hash": "3FB81EECCA68B387",
+      "why": "FP: Briardien usa su propio pedernal para encender fuego; el jugador no debe identificar Item#5123. FR y JA confirman un útil para prender fuego, y el contexto muestra la antorcha."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/014/ChrHdb302_01439#TEXT_CHRHDB302_01439_HILDIBRAND_000_206",
+      "hash": "E512AA894BEC2604",
+      "why": "FP: el glosario fija dragon peppers como «pimientos dragón». Además, Lewenhart aclara que la especia importada solo se parece al pimiento eorzeo y tiene otro color; no identifica Item#4838."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/017/JobMch580_01710#TEXT_JOBMCH580_01710_STEPHANIVIEN_000_032",
+      "hash": "DA005114BD8242D4",
+      "why": "FP: FR y JA citan EventItem#2001818, clear lightning crystal, traducido explícitamente como «cristal de rayo transparente». El aviso confunde este objeto de misión con Item#12, lightning crystal."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/031/FesXms401_03173#TEXT_FESXMS401_03173_SEQ_01",
+      "hash": "A28A8EC65B021526",
+      "why": "FP: la nota de disponibilidad remite a la web Lodestone; FR conserva The Lodestone y JA solicita consultarla. No identifica Item#33780."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "quest/039/FesGsc401_03963#TEXT_FESGSC401_03963_SEQ_01",
+      "hash": "BFA5C352B4D6C4A6",
+      "why": "FP: la nota de disponibilidad remite a la web Lodestone, no a Item#33780. La sigla PGM ya respeta el pin vigente."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "custom/006/RegOth4MycMikoto_00659#TEXT_REGOTH4MYCMIKOTO_00659_MIKOTO_300_544",
+      "hash": "AD572D39486943D5",
+      "why": "Save the Queen nombra el arma de Misija y el primal, no el destino Field Entry. JA 闘神セイブ・ザ・クイーン y la cadena de Mikoto confirman el referente; no extender Salvad a la Reina desde PlaceName."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "custom/007/CtsHnt60RiskyMobMareLamentorum_00764#TEXT_CTSHNT60RISKYMOBMARELAMENTORUM_00764_CHRYSIELLE_000_011",
+      "hash": "5547907823B4E212",
+      "why": "Lunar es el adjetivo de phoebads, no el Théâtre lunaire de PlaceName#1883. FR surface lunaire y JA 月面 confirman la luna; lunares expresa el sentido."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "ActionTransient#41636",
+      "hash": "D3C273983C7AEC29",
+      "why": "Starfall es Action#41640, Lluvia de estrellas, no PlaceName#2713. Juicio fantasma, Purificación y Bendición coinciden con Action#41637-41639; Prediction of Starfall y las otras predicciones conservan los Status sin traducir."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "ActionTransient#44992",
+      "hash": "4F1558DE6AD59BC4",
+      "why": "Frenetic Flurry es Action#44992, Ráfaga frenética, no el lugar Flurry. Ambas variantes conservan la habilidad y el efecto adicional de nivel; no usar Ventisca."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "ActionTransient#44998",
+      "hash": "6D411A218FC1F528",
+      "why": "Pecking Flurry es Action#44998, Ráfaga de picotazos, no el lugar Flurry. Ambas variantes conservan la habilidad y el efecto adicional de nivel; no usar Ventisca."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "ActionTransient#46595",
+      "hash": "687510D49620D45D",
+      "why": "Maximum Stacks cuantifica acumulaciones de un efecto, no el asentamiento Stacks. FR cumulable y JA 最大スタック数 confirman el sentido; acumulaciones máximas es correcto."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "DescriptionString#1664",
+      "hash": "D67D24B221546FBE",
+      "why": "Enlightenment names the obol currency here, not the place. The currency names match the glossary and Item labels."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "DescriptionString#224",
+      "hash": "5FDB263E026121E3",
+      "why": "Shop is part of a quoted mannequin settings label, not the place. The Spanish references match the current menu labels."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "Leve#865.1",
+      "hash": "0E16ABE9E9EF0E9E",
+      "why": "Supply route es la ruta logística bloqueada, no PlaceName#5166. FR route approvisionnement y JA 本国からの補給 confirman suministros; Lágrima de Plata respeta el pin y la forma corta Silvertear."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#150.12",
+      "hash": "EF0354D28DA994B5",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#163.12",
+      "hash": "D87EAE7A35391872",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#165.12",
+      "hash": "5F91CE42FF3F20BF",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#174.12",
+      "hash": "F5FB1EF8EE1F7EE8",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#175.12",
+      "hash": "41B8ED508357D40F",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#178.12",
+      "hash": "6DD25BD0C6B4E8B5",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#179.12",
+      "hash": "1746AFFB05421D66",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#180.12",
+      "hash": "53FA26820BA932F4",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#185.12",
+      "hash": "4A5C07BE09098DC6",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#190.12",
+      "hash": "B28ACABC8E321C2D",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#23.12",
+      "hash": "2F9EF68AE7A88DDC",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#44.12",
+      "hash": "9EA0D884C8CEDD24",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#55.12",
+      "hash": "CE3C05207B5EB81A",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#62.12",
+      "hash": "7564905726831F4A",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#63.12",
+      "hash": "61FCCB96953A7EC8",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#72.12",
+      "hash": "9709F4C023410328",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "XBMItem#73.12",
+      "hash": "08DBFBEAF2F6FDBB",
+      "why": "Maximum Stacks cuantifica acumulaciones del efecto de este objeto, no el asentamiento Stacks. FR cumulable y JA 最大スタック confirman el sentido; conservar acumulaciones máx. y los estados compartidos."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/011/FesHlw013_01169#TEXT_FESHLW013_01169_TODO_01",
+      "hash": "7CEF698BF88876AC",
+      "why": "Cubierta Superior de Limsa Lominsa follows the full place label in PlaceName#28. The short Upper Decks label does not replace that full name."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_130_019",
+      "hash": "D5EBCF3EE530631E",
+      "why": "Beyond es una preposición exceptiva tras no way of communicating, no PlaceName#3661. Salvo desgañitándose conserva el sentido inglés y el contexto postal."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_ICEHEART_100_017",
+      "hash": "5B6E163396DAC398",
+      "why": "Segundo piso and segunda planta express the same English numbered floor. Keep the English ordinal and the valid piso variant."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_SEQ_02",
+      "hash": "6439ADC3AB3F2717",
+      "why": "Segundo piso and segunda planta express the same English numbered floor. Keep the English ordinal and the valid piso variant."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/022/JobRel101_02212#TEXT_JOBREL101_02212_SEQ_02",
+      "hash": "F33283E6CE712F23",
+      "why": "Segundo piso and segunda planta express the same English numbered floor. Keep the English ordinal and the valid piso variant."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/022/JobRel102_02213#TEXT_JOBREL102_02213_SEQ_02",
+      "hash": "1640919143E74127",
+      "why": "Gruta de Sastasha identifica el mismo lugar mediante una forma corta válida; no se expande a la etiqueta del topónimo."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/024/JobAst630_02410#TEXT_JOBAST630_02410_KYOKUHO_000_035",
+      "hash": "EC9EACC83AD0715B",
+      "why": "Segundo piso and segunda planta express the same English numbered floor. Keep the English ordinal and the valid piso variant."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/030/FesHlw402_03012#TEXT_FESHLW402_03012_SOGA_000_021",
+      "hash": "48209A40BA8EE4F0",
+      "why": "Los eorzeos expresa the people of Eorzea mediante su gentilicio. FR Éorzéens lo confirma y JA エオルゼアのヒト conserva la misma población; no reinsertar Eorzea por literalidad."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/030/FesHlw402_03012#TEXT_FESHLW402_03012_TODO_03",
+      "hash": "061076B64E0A45A7",
+      "why": "Los gridanianos expresa the people of Gridania mediante su gentilicio, igual que FR Gridaniens y la cadena vecina. No reinsertar el topónimo ni modificar Say o la frase de /say."
+    },
+    {
+      "rule": "terminology-place-names",
+      "gameKey": "quest/032/FesGsc301_03207#TEXT_FESGSC301_03207_RIRIZAN_000_046",
+      "hash": "9A0530751F10CCDF",
+      "why": "Segundo piso and segunda planta express the same English numbered floor. Keep the English ordinal and the valid piso variant."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#103",
+      "hash": "56D6205A4267AAD9",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#104",
+      "hash": "A9A4D9FC688F2D94",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#106",
+      "hash": "E9E11CB1502B34F8",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#132",
+      "hash": "D418AB9D86BEF326",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#74",
+      "hash": "915724E33F963BC0",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "terminology-item-names",
+      "gameKey": "GuidePageString#76",
+      "hash": "F8CDC89615106553",
+      "why": "Brilliance is part of the action name Precious Brilliance. Action#25884 has no Spanish label. This reference does not name the bow Item#30232."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_00",
+      "hash": "2D929AA007C38FD1",
+      "why": "Impresario is the NPC name. Both player gender variants are valid."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw003_01165#TEXT_FESHLW003_01165_TODO_03",
+      "hash": "0675308102DCD5FB",
+      "why": "Impresario is the NPC name. Both player gender variants are valid."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw012_01168#TEXT_FESHLW012_01168_TODO_00",
+      "hash": "11F26EC4548F45A3",
+      "why": "Impresario is the NPC name. Both player gender variants are valid."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw022_01172#TEXT_FESHLW022_01172_TODO_00",
+      "hash": "51525B99BAEEF09A",
+      "why": "Impresario is the NPC name. Both player gender variants are valid."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/011/FesHlw023_01173#TEXT_FESHLW023_01173_TODO_03",
+      "hash": "780A7C69EE922C47",
+      "why": "Impresario is the NPC name. Both player gender variants are valid."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/038/XxaUse505_03888#TEXT_XXAUSE505_03888_SEQ_03",
+      "hash": "8B70592588240CD7",
+      "why": "Garleana is the feminine demonym of Garlemald. It agrees with amenaza."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/039/LucKsa111_03951#TEXT_LUCKSA111_03951_SYSTEM_000_800",
+      "hash": "43BD89EA16FB606D",
+      "why": "Bozjanas is the adjective used in the current coin label. Utya is part of the place name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/040/LucKsa202_04026#TEXT_LUCKSA202_04026_MARSHAK_000_210",
+      "hash": "3D946689A0D0B08F",
+      "why": "Bozjanas is the adjective used in the current coin label. Utya is part of the place name."
+    },
+    {
+      "rule": "corrector-grammar-languagetool",
+      "gameKey": "quest/040/LucKsa305_04088#TEXT_LUCKSA305_04088_SYSTEM_000_901",
+      "hash": "EC2F9ECB983597DC",
+      "why": "Bozjanas is the adjective used in the current coin label. Utya is part of the place name."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKsa253_04040#TEXT_LUCKSA253_04040_SYSTEM_000_124",
+      "hash": "B277930464B6D586",
+      "why": "Both sentences direct the player to Auriana or Hismena for the same aetherial sealant. The active and passive forms are valid context variants."
+    },
+    {
+      "rule": "corrector-consistency-text",
+      "gameKey": "quest/040/LucKsa299_04041#TEXT_LUCKSA299_04041_SYSTEM_000_002",
+      "hash": "3C717D878B5F6CA2",
+      "why": "Both sentences direct the player to Auriana or Hismena for the same aetherial sealant. The active and passive forms are valid context variants."
+    }
   ]
 }

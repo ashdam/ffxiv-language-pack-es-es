@@ -15,7 +15,7 @@
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_SEQ_10", "hash": "3A00A143E8E4C868", "target": "El magic pot está contento. Dale un caramelo de tierra." },
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_SEQ_11", "hash": "BCE78C354EB3D50A", "target": "El magic pot está encantado. Dale un caramelo de fuego para completar el surtido." },
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_SEQ_12", "hash": "739EFCC1A75FB67D", "target": "El magic pot está exultante y devuelve tu bondad con un lote de galletas de calabaza. ¿Qué otros dulces y terrores te aguardan antes de que acaben las fiestas? Busca al Impresario tras la puesta de sol para adentrarte más en las sombras de la noche." },
-    { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_00", "hash": "388DE8B4D5C3F664", "target": "Hablar con el Impresario mientras vas disfrazado" },
+    { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_00", "hash": "388DE8B4D5C3F664", "target": "Hablar con el Impresario mientras vas <if(gnum4,disfrazada,disfrazado)>" },
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_01", "hash": "FD34B520D0FA2DEC", "target": "Hablar con el saltimbanqui alegre mientras vas disfrazado" },
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_02", "hash": "7A529695C411B48A", "target": "Hacer /clap al forzudo taciturno mientras vas disfrazado" },
     { "gameKey": "quest/011/FesHlw002_01164#TEXT_FESHLW002_01164_TODO_03", "hash": "7444B2820B390380", "target": "Hacer /congratulate al forzudo taciturno mientras vas disfrazado" },
