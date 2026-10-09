@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 481138,
-  "total": 543585,
-  "percent": 88.5,
-  "chars": 49713098,
+  "translated": 480880,
+  "total": 480880,
+  "percent": 100,
+  "chars": 49038789,
   "unresolved": 5455,
   "groups": [
     {
@@ -399,8 +399,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 121950,
-      "total": 184397
+      "translated": 121692,
+      "total": 121692
     }
   ],
   "excludedFromLocalization": [
@@ -414,7 +414,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 734,
-      "total": 1018
+      "total": 834
     }
   ],
   "futureLocalization": [
@@ -449,6 +449,14 @@
       "translated": 83,
       "pending": 4,
       "pendingPercent": 4.6
+    },
+    {
+      "sheet": "ENpcResident",
+      "content": "Non-battle NPC names",
+      "total": 62705,
+      "translated": 258,
+      "pending": 62447,
+      "pendingPercent": 99.6
     },
     {
       "sheet": "EventItem",
