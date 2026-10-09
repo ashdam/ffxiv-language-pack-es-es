@@ -6,7 +6,7 @@
     "A changed source hash fails validation so the exclusion is reviewed. Translated rows are still served."
   ],
 
-  "excludedSheets": [],
+  "excludedSheets": ["ENpcResident"],
 
   "exclusion_groups": [
     {
