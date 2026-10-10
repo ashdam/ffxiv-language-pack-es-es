@@ -20,6 +20,6 @@
     { "gameKey": "quest/043/AktKzj003_04339#TEXT_AKTKZJ003_04339_A1_000_003", "hash": "9DA7ED7F0EBB4340", "target": "No deberías temer a nada, como yo." },
     { "gameKey": "quest/043/AktKzj003_04339#TEXT_AKTKZJ003_04339_DRAGON04339_100_015", "hash": "48BE72D30B0DAEC9", "target": "Eres fuerte. Si los míos hubieran buscado lo que tú has hallado, quizá nuestro astro habría corrido otra suerte..." },
     { "gameKey": "quest/043/AktKzj003_04339#TEXT_AKTKZJ003_04339_DRAGON04339_000_015", "hash": "3B228C8BCA1EB08B", "target": "Eres fuerte. Ojalá los míos hubieran buscado lo que tú has hallado..." },
-    { "gameKey": "quest/043/AktKzj003_04339#TEXT_AKTKZJ003_04339_DRAGON04339_000_016", "hash": "B4E78A1D07559A6C", "target": "...Aunque quizá aún haya tiempo. Nada puede alterar el curso de la historia, mas el futuro todavía aguarda. Te agradezco tu perspicacia, valeroso." }
+    { "gameKey": "quest/043/AktKzj003_04339#TEXT_AKTKZJ003_04339_DRAGON04339_000_016", "hash": "B4E78A1D07559A6C", "target": "... Aunque quizá aún haya tiempo. Nada puede alterar el curso de la historia, mas el futuro todavía aguarda. Te agradezco tu perspicacia, <if(gnum4,valerosa,valeroso)>." }
   ]
 }

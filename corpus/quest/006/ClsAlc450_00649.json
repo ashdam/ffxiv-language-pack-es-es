@@ -2,27 +2,11 @@
   "conversation": "quest/006/ClsAlc450_00649",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_00",
-      "hash": "DABEED65D1C0BB78",
-      "target": "El maestro del gremio Severian parece necesitar tu ayuda con frenesí."
-    },
-    {
-      "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_01",
-      "hash": "375BEB3D323D8D02",
-      "target": "Al parecer, el tan esperado proceso alquímico de Severian no ha dado los resultados previstos. Sin ofrecer explicación alguna, el frenético alquimista te exige que le lleves varios brebajes de alta calidad. Crea tres mega-potions extraordinarias —una de inteligencia, una de mente y una de vitalidad— y entrega las sustancias terminadas al maestro del gremio."
-    },
-    {
-      "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_02",
-      "hash": "6105DD4F8CCE4634",
-      "target": "Has entregado las tres mega-potions al agitado maestro del gremio. Tras inspeccionar tus soberbias creaciones y recuperar cierta compostura, Severian por fin explica el motivo de su obsesiva investigación: pretende resucitar a W'nahja, el amor que perdió por la Calamidad. Con un nuevo lote de componentes en la mano, el decidido alquimista regresa a su mesa de trabajo para comenzar un nuevo intento. Una vez más, no puedes hacer nada salvo aguardar los resultados...<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 50."
-    },
-    {
-      "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_TODO_00",
-      "hash": "7558D1953202E396",
-      "target": "Entregar una mega-potion of intelligence <sheet(Addon,9,0)>, una mega-potion of mind <sheet(Addon,9,0)> y una mega-potion of vitality <sheet(Addon,9,0)> a Severian"
-    },
-    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEVERIAN_000_000", "hash": "FF4D862CE1BC1593", "target": "¡Esto es incomprensible! Mis experimentos fueron concluyentes, y sin embargo persiste algún defecto fatal en el proceso..." },
+    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_00", "hash": "DABEED65D1C0BB78", "target": "El maestro del gremio Severian parece necesitar tu ayuda con frenesí." },
+    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_01", "hash": "375BEB3D323D8D02", "target": "Al parecer, el tan esperado proceso alquímico de Severian no ha dado los resultados previstos. Sin ofrecer explicación alguna, el frenético alquimista te exige que le lleves varios brebajes de alta calidad. Crea tres mega-potions extraordinarias —una de inteligencia, una de mente y una de vitalidad— y entrega las sustancias terminadas al maestro del gremio." },
+    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEQ_02", "hash": "6105DD4F8CCE4634", "target": "Has entregado las tres mega-potions al agitado maestro del gremio. Tras inspeccionar tus soberbias creaciones y recuperar cierta compostura, Severian por fin explica el motivo de su obsesiva investigación: pretende resucitar a W'nahja, el amor que perdió por la Calamidad. Con un nuevo lote de componentes en la mano, el decidido alquimista regresa a su mesa de trabajo para comenzar un nuevo intento. Una vez más, no puedes hacer nada salvo aguardar los resultados...<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 50." },
+    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_TODO_00", "hash": "7558D1953202E396", "target": "Entregar una mega-potion of intelligence<sheet(Addon,9,0)>, una mega-potion of mind<sheet(Addon,9,0)> y una mega-potion of vitality<sheet(Addon,9,0)> a Severian" },
+    { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEVERIAN_000_000", "hash": "FF4D862CE1BC1593", "target": "¡Esto es incomprensible! Mis experimentos fueron concluyentes, y, sin embargo, persiste algún defecto fatal en el proceso..." },
     { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEVERIAN_000_001", "hash": "511740248780492A", "target": "¿Dónde está el fallo? ¿En el método? ¿En los materiales? ¿En mi interpretación de los resultados? ¿Tendré que recurrir a la taumaturgia, después de todo...? No, tales energías no levantarán más que una burla de la vida." },
     { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEVERIAN_000_002", "hash": "293B9DD189494FC5", "target": "¡Agh, qué absoluto fracaso! Debo desandar mis pasos, empezar de nuevo desde el principio. ¡No importa cuántas veces haga falta, veré triunfar mi alquimia!" },
     { "gameKey": "quest/006/ClsAlc450_00649#TEXT_CLSALC450_00649_SEVERIAN_000_003", "hash": "AAD62561BF6C0E44", "target": "¡<italic(1)>Tú<italic(0)>! ¡Ayudante! ¡Tráeme tres mega-potions: una de inteligencia, una de mente y una de vitalidad! ¡Y <italic(1)>deben<italic(0)> ser de una calidad incuestionable!" },

@@ -29,7 +29,7 @@
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_GOSETSU_000_090", "hash": "1BFEE8383C4EFBEA", "target": "La postura de Doma respecto a la Confederación podría describirse como de “aceptación cautelosa”. Son piratas, sí, pero se rigen por un código y son una fuerza estabilizadora en el Mar de Rubí." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_SOROBAN_000_095", "hash": "6C2C688295F727B5", "target": "Este es Tansui. Vamos, vamos, preséntense." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_100", "hash": "58C5BDC25880FFCC", "target": "...Me temo que me llevas ventaja. ¿Cómo te llamas?" },
-    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_101", "hash": "EBC0A05015BEC84E", "target": "El muy honorable y estimado <string(gstr1)>. Yo soy Tansui, un humilde marinero al servicio del capitán de la Confederación." },
+    { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_101", "hash": "EBC0A05015BEC84E", "target": "<if(gnum4,La muy honorable y estimada,El muy honorable y estimado)> <string(gstr1)>. Yo soy Tansui, un humilde marinero al servicio del capitán de la Confederación." },
     { "gameKey": "quest/024/StmBda301_02477#TEXT_STMBDA301_02477_TANSUI_000_102", "hash": "4FBE7BF7C0EEE477", "target": "Como vienes en compañía del caparazón, supongo que tenemos algún asunto que tratar..." }
   ]
 }

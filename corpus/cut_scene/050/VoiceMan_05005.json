@@ -54,7 +54,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000460_LYNA", "hash": "4EECDFEB294106C2", "target": "Cuando tenga lo que necesita, volveré a sellarla. Hasta entonces, aguardaré fuera." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000470_URIANGER", "hash": "6F882D04EFBCB64D", "target": "Concededme un instante para ordenar mis ideas, os lo ruego..." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000480_URIANGER", "hash": "6392A57205868C36", "target": "Vuestro verdadero nombre es, pues, G'raha Tia." },
-    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000490_URIANGER", "hash": "9CDE7D9BF07D8E44", "target": "Según afirma, usted también es oriundo de la Fuente, aunque de una era posterior a la nuestra, cuando la Octava Calamidad Umbral ya ha traído la devastación sobre nuestro astro." },
+    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000490_URIANGER", "hash": "9CDE7D9BF07D8E44", "target": "Según afirmáis, también sois oriundo de la Fuente, aunque de una era posterior a la nuestra, cuando la Octava Calamidad Umbral ya ha traído la devastación sobre nuestro astro." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000500_URIANGER", "hash": "4993874D6CE2179A", "target": "Por medios sutiles habéis franqueado las fronteras del tiempo y el espacio para deshacer la simiente de la catástrofe, antes de que sus zarcillos arrastren a nuestro adalid a una tumba prematura..." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000510_MYSTERYVOICE", "hash": "14FDB6911C205B2F", "target": "En esencia, sí. Una historia difícil de tragar, sin duda..." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_000520_URIANGER", "hash": "0B0C3A2F204D24D2", "target": "Aaah..." },
@@ -130,7 +130,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001170_ALPHINAUD", "hash": "3C47A0304413C718", "target": "Urianger nos lo ha contado todo: la verdadera identidad del Exarca y su propósito." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001180_URIANGER", "hash": "7A9DF6EB85FFBFEE", "target": "No ofrezco excusa alguna." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001190_URIANGER", "hash": "214B838DBF9F0B5D", "target": "Cuando accedí a ayudar al Exarca con sus planes, fue aceptando de pleno la condena que afrontaría cuando mi doblez saliera a la luz." },
-    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001200_URIANGER", "hash": "5220C8AC42AE96BF", "target": "...Mas no es rencor, sino determinación, lo que percibo en ti. Estás plenamente resuelto a recorrer tu senda hasta el final, ¿no es así?" },
+    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001200_URIANGER", "hash": "5220C8AC42AE96BF", "target": "... Mas no es rencor, sino determinación, lo que percibo en ti. Estás plenamente <if(gnum4,resuelta,resuelto)> a recorrer tu senda hasta el final, ¿no es así?" },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_001210_URIANGER", "hash": "A557F71FBD926F42", "target": "Si puedes perdonar mi engaño (o, en su defecto, dejar de lado tu enojo por un tiempo), te ruego que me permitas seguirte. La fuerza y la sabiduría que poseo están a tu disposición." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_Q3_000_001_NONE_VOICE", "hash": "58EEFD94A67044E5", "target": "¿Qué vas a decir?" },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_A3_000_001_NONE_VOICE", "hash": "C811C32EFC7C4E85", "target": "Te perdono. Vamos." },
@@ -239,7 +239,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002110_ALPHINAUD", "hash": "37309A21008EFD86", "target": "Disculpad, llegamos un poco tarde a la reunión." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002120_YSHTOLA", "hash": "03FC017FFBD14984", "target": "Parece que hemos logrado ganarnos su confianza." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002130_THANCRED", "hash": "7E54423B6C4CB198", "target": "El retraso no fue precisamente bienvenido, pero, al menos, muchas manos aligeran el trabajo." },
-    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002140_THANCRED", "hash": "2860FF3F4FA2F217", "target": "Y tu aportación pareció impresionarlos especialmente. Nuestro héroe, no cabe duda." },
+    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002140_THANCRED", "hash": "2860FF3F4FA2F217", "target": "Y tu aportación pareció impresionarlos especialmente. <if(gnum4,Nuestra heroína,Nuestro héroe)>, no cabe duda." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002150_ALPHINAUD", "hash": "8AC8614FF367B82C", "target": "Y'shtola nos decía que esas estructuras podrían remontarse a la era de los ascianos." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002160_ALISAIE", "hash": "923840046D4C654A", "target": "La patria de los ascianos..." },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_002170_ALISAIE", "hash": "14FE7A70BAE2D04F", "target": "Pese a sus muchas protestas, nunca acabé de creer que Emet-Selch dijera la verdad." },
@@ -549,7 +549,7 @@
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005020_HYTHLODAEUS", "hash": "EFD80D2B87434A06", "target": "<colortype(547)>Un matiz tan característico no admite confusión, por muy fina que se extienda el alma.<colortype(0)>" },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005030_HYTHLODAEUS", "hash": "A46AF623A251C1DD", "target": "<colortype(547)>¡Ja! Es justo la clase de destino que cabría esperar de alguien como él. Sin duda, Emet-Selch habrá reconocido el asomo de «él» en ti...<colortype(0)>" },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005040_HYTHLODAEUS", "hash": "29D9FC30CECEEE62", "target": "<colortype(547)>¡Ja! Es justo la clase de destino que cabría esperar de alguien como ella. Sin duda, Emet-Selch habrá reconocido el asomo de «ella» en ti...<colortype(0)>" },
-    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005050_AMAUROTADMINISTRATOR", "hash": "F957010EA6FAE4A1", "target": "<colortype(547)><string(gstr1)>...?<colortype(0)>" },
+    { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005050_AMAUROTADMINISTRATOR", "hash": "F957010EA6FAE4A1", "target": "<colortype(547)>¿<string(gstr1)>...?<colortype(0)>" },
     { "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_005060_HYTHLODAEUS", "hash": "94339C411DE4CFA4", "target": "<colortype(547)>Que te vaya bien, mi nuevo viejo amigo. Ojalá halles aquello que buscas.<colortype(0)>" }
   ]
 }

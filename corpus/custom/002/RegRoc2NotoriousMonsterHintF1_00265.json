@@ -3,7 +3,7 @@
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_000_000", "hash": "EF90617348733A80", "target": "¿Qué hace un aventurero como tú en un sitio así? No vemos a muchos de los tuyos por estos lares. Cuídate ahí fuera, <if(gnum4,muchacha,muchacho)>: si no te pilla la fauna, lo hará el frío." },
-    { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_000_001", "hash": "A4B66BA24F171B8D", "target": "Vaya, pero si es un compañero del Clan. Bienvenido al Nido del Halcón, <if(gnum4,hermana,hermano)>. Imagino que querrás informarte sobre la fauna local." },
+    { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_000_001", "hash": "A4B66BA24F171B8D", "target": "Vaya, pero si es <if(gnum4,una compañera,un compañero)> del Clan. <if(gnum4,Bienvenida,Bienvenido)> al Nido del Halcón, <if(gnum4,hermana,hermano)>. Imagino que querrás informarte sobre la fauna local." },
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_Q1_000_000", "hash": "30CEEB640E97E6C6", "target": "¿Qué vas a preguntar?" },
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_A1_000_001", "hash": "4C4A1B053F26EBE9", "target": "Háblame del objetivo de élite de rango B. (Alteci)" },
     { "gameKey": "custom/002/RegRoc2NotoriousMonsterHintF1_00265#TEXT_REGROC2NOTORIOUSMONSTERHINTF1_00265_ALEXONDRE_A1_000_002", "hash": "992F3DA143475A05", "target": "Háblame del objetivo de élite de rango B. (Kreutzet)" },

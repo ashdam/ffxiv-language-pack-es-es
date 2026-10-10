@@ -18,6 +18,6 @@
     { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_LANIAITTE_000_020", "hash": "F93AF456DC352F2C", "target": "¿Cómo va la búsqueda? Sé que conseguir un ala de gaelicat intacta no es tarea fácil." },
     { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_LANIAITTE_000_021", "hash": "2CD2516C8FA87808", "target": "¡Vaya, qué hallazgo tan extraordinario! Me alegra ver que su perseverancia ha dado fruto. ¡Con esto, ella podrá retomar su trabajo sobre los monstruos voladores!" },
     { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_LANIAITTE_000_022", "hash": "D7B3C744A899D79E", "target": "Ah, qué descuido no haberlo mencionado antes. Esta muestra es para Atelloune, la célebre naturalista. Está enfrascada en un nuevo artículo para <italic(1)>la Nueva Geográfica de Eorzea<italic(0)> y pidió que se le entregara una muestra con la mayor premura." },
-    { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_LANIAITTE_000_023", "hash": "D4B639CFFEFD0F4B", "target": "Puede estar segura de que sabrá que fue <string(gstr1)>, sin par, quien hizo posible su último trabajo sobre las monstruos voladores." }
+    { "gameKey": "quest/017/HeaVnz023_01748#TEXT_HEAVNZ023_01748_LANIAITTE_000_023", "hash": "D4B639CFFEFD0F4B", "target": "Puede estar <if(gnum4,segura,seguro)> de que sabrá que fue <string(gstr1)>, sin par, quien hizo posible su último trabajo sobre los monstruos voladores." }
   ]
 }

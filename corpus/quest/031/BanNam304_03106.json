@@ -2,7 +2,7 @@
   "conversation": "quest/031/BanNam304_03106",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_SEQ_00", "hash": "1C5F2EE7CA8E3BAB", "target": "Seigetsu se esfuerza mucho por parecer contemplativo.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no puedes avanzar con una clase o un trabajo distintos de los que tenías al aceptar la misión." },
+    { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_SEQ_00", "hash": "1C5F2EE7CA8E3BAB", "target": "Seigetsu se esfuerza mucho por parecer contemplativo.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no puedes avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_SEQ_01", "hash": "F8ADDED1C468CC4E", "target": "Hablar con el Namazu obstinado" },
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_SEQ_02", "hash": "7DB932B9C6D070BF", "target": "Has hablado con el Namazu obstinado.<br>Entregar el material solicitado a Seigetsu" },
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_TODO_00", "hash": "DE24A22E2442A3DE", "target": "Hablar con el Namazu obstinado" },
@@ -35,6 +35,6 @@
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_040", "hash": "A1E8FD66BCF2EC20", "target": "¿Cómo van los componentes de brasero?" },
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_041", "hash": "B70D5F28B586C421", "target": "Oh, excelente trabajo, desde luego. Con esto nos apañaremos de momento. Si el terco ese y su caja no vuelven en quince días, enviaré una partida a recuperarlo por la fuerza. Me atrevo a decir que algo de esa caja bastará para dejarlo inconsciente mientras lo traen de vuelta." },
     { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_042", "hash": "5FE663C97C4620DE", "target": "Dejando a un lado la ausencia de ese bufón, su trabajo de hoy sin duda ayudará a mantener un ambiente festivo día y noche durante los próximos siete años." },
-    { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_043", "hash": "F75CC0BDA835906A", "target": "...¿Se pregunta por qué no descansamos de vez en cuando? Oh, mi querido <split(<string(gstr1)>, ,1)>. ¿Existe símbolo de civilización más universal que el fuego que ahuyenta la oscuridad? ¡La iluminación nunca duerme!" }
+    { "gameKey": "quest/031/BanNam304_03106#TEXT_BANNAM304_03106_KOFUINSEIGETSU_000_043", "hash": "F75CC0BDA835906A", "target": "... ¿Te preguntas por qué no descansamos de vez en cuando? Oh, mi <if(gnum4,querida,querido)> <split(<string(gstr1)>, ,1)>. ¿Existe símbolo de civilización más universal que el fuego que ahuyenta la oscuridad? ¡La iluminación nunca duerme!" }
   ]
 }
