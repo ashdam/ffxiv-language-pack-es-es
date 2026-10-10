@@ -15,7 +15,7 @@
     {
       "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_02",
       "hash": "2B32B15821BB4570",
-      "target": "Aunque algo adusto de palabra y de trato, el maestro del hacha Wyrnzoen te da pese a todo la bienvenida al Gremio de Asaltantes. Como nuevo alumno del hacha, el corpulento Roegadyn te ordena no perder tiempo en probar el filo del arma que has elegido en combate. Dirígete a las afueras de Limsa Lominsa y mata tres lost lambs, tres wharf rats y tres little ladybugs."
+      "target": "Aunque algo adusto de palabra y de trato, el maestro del hacha Wyrnzoen te da pese a todo la bienvenida al Gremio de Asaltantes. Como nuevo alumno del hacha, el corpulento Roegadyn te ordena no perder tiempo en probar el filo del arma que has elegido en combate. Dirígete a las afueras de Limsa Lominsa y mata tres corderos perdidos, tres ratas del muelle y tres little ladybugs."
     },
     {
       "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_SEQ_03",
@@ -35,12 +35,12 @@
     {
       "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_01",
       "hash": "5C058BE685A2B4A8",
-      "target": "Matar wharf rats"
+      "target": "Matar ratas del muelle"
     },
     {
       "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_02",
       "hash": "160433952BE8C30B",
-      "target": "Matar lost lambs"
+      "target": "Matar corderos perdidos"
     },
     {
       "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_TODO_03",
@@ -67,7 +67,7 @@
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_31", "hash": "A3380F0BCACAD394", "target": "Muy bien. ¿Tu nombre? Atiéndeme bien, entonces, <split(<string(gstr1)>, ,1)>. Aférrate a este momento de entrega. El camino del asaltante es escarpado y peligroso: la sangre que se derrame a tus pies será a menudo la tuya." },
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_33", "hash": "A3DF0524434C3E0E", "target": "Ahora eres <if(gnum4,una alumna,un alumno)> del hacha... no perdamos tiempo en poner a prueba el filo del arma que has elegido. Te lanzarás de inmediato al combate, como corresponde a un novato de nuestra disciplina." },
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_34", "hash": "7DED4B1C19D02A38", "target": "Ve y da muerte a las alimañas que balan, corretean y reptan asolando las afueras de Limsa Lominsa." },
-    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_35", "hash": "90DB3BC6F15CB7F8", "target": "Lost lambs, wharf rats y little ladybugs serán tus lastimosos adversarios de hoy. Vuelve a mí cuando tres de cada criatura hayan caído bajo tu hoja." },
+    { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_35", "hash": "90DB3BC6F15CB7F8", "target": "Corderos perdidos, ratas del muelle y little ladybugs serán tus lastimosos adversarios de hoy. Vuelve a mí cuando tres de cada criatura hayan caído bajo tu hoja." },
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_40", "hash": "A2069E4E82965601", "target": "Vuelves a mí convertid<if(gnum4,a,o)> en otra persona. Tu rostro ya muestra un gesto más duro; la constatación de la matanza de la que eres capaz." },
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_42", "hash": "3CE4A2AA02D72449", "target": "Pero queda mucho adiestramiento por delante antes de que empuñes el hacha en todo su potencial. Aprende bien tus lecciones, forja tu fuerza y haz de cada golpe un acto instintivo." },
     { "gameKey": "quest/003/ClsExc020_00311#TEXT_CLSEXC020_00311_WYRNZOEN_000_51", "hash": "E9C717DB381BA0E6", "target": "Tendrás este cuaderno de caza para ayudarte en ese empeño. En sus páginas figuran adversarios idóneos para pulir tus habilidades." },

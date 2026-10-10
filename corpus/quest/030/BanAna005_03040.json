@@ -14,7 +14,7 @@
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_TODO_02", "hash": "0460A13F8E3D4995", "target": "Buscar refugiadas Qalyana" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_TODO_03", "hash": "3B07C345043B835A", "target": "Seguir buscando refugiadas Qalyana" },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_TODO_04", "hash": "AB34F20B78AD6391", "target": "Hablar con Alpa" },
-    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_001", "hash": "9E3FB3B75968200D", "target": "<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>! Sss..." },
+    { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_001", "hash": "9E3FB3B75968200D", "target": "¡<if([gnum11<12],<if([gnum11<4],Buenas noches,Buenos días)>,<if([gnum11<17],Buenas tardes,Buenas noches)>)>, <split(<string(gstr1)>, ,1)>! Sss..." },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_002", "hash": "12E03E075A841DDD", "target": "No sé cómo agradecerte toda tu ayuda. ¡El castellum se ha convertido en todo lo que esperaba! ¡Tanto los viajeros como los miembros de la Resistencia no dejan de cantar sssus alabanzas! Sss..." },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_ALPA_000_003", "hash": "1408A958FF0A6F77", "target": "Mientras no pase nada indebido, confío en que superará la prueba de mi madre. Sss..." },
     { "gameKey": "quest/030/BanAna005_03040#TEXT_BANANA005_03040_JOLHMYN_100_003", "hash": "847826717EDF2A2F", "target": "Eso me recuerda... ¿cómo va la muda de tu madre? Debería haberrr terminado ya, ¿no?" },

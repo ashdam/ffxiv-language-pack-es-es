@@ -42,11 +42,7 @@
       "hash": "C7B6B6BFB5CBA8E5",
       "target": "Informar a Melkoko"
     },
-    {
-      "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_02",
-      "hash": "9088F4C7CE078B7F",
-      "target": "Entregar una morel salad <sheet(Addon,9,0)>, un okeanis frito <sheet(Addon,9,0)> y un marron glace <sheet(Addon,9,0)> al miembro del comité del concurso"
-    },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_02", "hash": "9088F4C7CE078B7F", "target": "Entregar una morel salad<sheet(Addon,9,0)>, un deep-fried okeanis<sheet(Addon,9,0)> y un marron glace<sheet(Addon,9,0)> al miembro del comité del concurso" },
     {
       "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_TODO_03",
       "hash": "B09E7B508429A3CD",
@@ -96,7 +92,7 @@
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_010", "hash": "9D0ABFF5D28F6DF3", "target": "Primero, el entrante. Tras un largo día de juzgar, las setas ayudaron a absorber la grasa acumulada en mi estómago, dándole una nueva vida─un gesto de consideración digno de la más entregada de las madres." },
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_011", "hash": "A0BFA0A997DB507B", "target": "Luego llegó el plato principal. Al hincar el diente en el rebozado, deliciosamente ligero y crujiente, mi lengua se vio recibida por una armonía de sabores, que brotaba del suculento corte de okeanis que había debajo. Que se puso gran cariño en hacerlo tierno era evidente a mis sentidos." },
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_012", "hash": "FD2366417348BCED", "target": "Y por último, el postre. A decir verdad, para entonces estaba a punto de reventar, pero, compacto como era, pude acomodar cómodamente el marron glace, cuyo dulzor concentrado sirvió de acento perfecto a una comida maravillosa. Del primer bocado al último, sentí el espíritu de la hospitalidad." },
-    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_100_012", "hash": "7E173AE92CF20C5A", "target": "Al final, fue la interpretación del tema de <split(<string(gstr1)>, ,1)> lo que <if(gnum4,la,lo)> distinguió del resto. En vez de afanarse por asombrar con su destreza, se mostró <if(gnum4,más atenta,más atento)> al comensal; como buena <if(gnum4,cocinera,cocinero)>, <if(gnum4,ella,él)> tuvo siempre presente a quien iba a comer." },
+    { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_100_012", "hash": "7E173AE92CF20C5A", "target": "Al final, fue la interpretación del tema de <split(<string(gstr1)>, ,1)> lo que <if(gnum4,la,lo)> distinguió del resto. En vez de afanarse por asombrar con su destreza, se mostró <if(gnum4,más atenta,más atento)> al comensal; como <if(gnum4,buena cocinera,buen cocinero)>, <if(gnum4,ella,él)> tuvo siempre presente a quien iba a comer." },
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_MELKOKO_000_013", "hash": "84B2001226B8DD45", "target": "Consideración digna de la más entregada de las madres... ¡Esto es algo que aprendiste con la beet soup ishgardesa!" },
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_LYNGSATH_000_015", "hash": "2CE47913D1C99CC5", "target": "¡Y me parece que hiciste el okeanis especialmente tierno marinándolo, como cuando preparaste las cockatrice meatballs para mi amigo!" },
     { "gameKey": "quest/020/ClsCul600_02047#TEXT_CLSCUL600_02047_DELLEMMONT_000_017", "hash": "F736097F766EBF7D", "target": "H'mhasi Tia. Tus platos fueron magníficos, no cabe duda. Nadie podría dudar de la gran destreza que se puso en su creación." },
