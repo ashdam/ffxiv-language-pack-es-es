@@ -61,7 +61,7 @@
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_FF15GARUDA_000_066", "hash": "C2D702C0B92AD466", "target": "Fue tu presencia la que me atrajo hasta aquí." },
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_FF15GARUDA_000_067", "hash": "A5FD955965EF802C", "target": "Muy bien. Toma tu arma, Rey Elegido, y hazme frente. Veremos si eres digno de mi poder." },
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_NOCTIS_000_068", "hash": "BA603BC0192BF262", "target": "Menudo golpe tienes, <split(<string(gstr1)>, ,1)>. Estoy impresionado." },
-    { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_FF15GARUDA_000_069", "hash": "5DD2FBE0302EBEBB", "target": "En verdad el Cristal ha elegido bien. Reconozco tu fuerza, Noctis. La tuya y la de tu compañero por igual." },
+    { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_FF15GARUDA_000_069", "hash": "5DD2FBE0302EBEBB", "target": "En verdad el Cristal ha elegido bien. Reconozco tu fuerza, Noctis. La tuya y la de tu <if(gnum4,compañera,compañero)> por igual." },
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_NOCTIS_000_070", "hash": "AD42FBC3470D3F3A", "target": "Tío, ¿qué les pasa a los dioses con las pruebas? ¿Tenéis que ser siempre tan desconfiados?" },
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_FF15GARUDA_000_071", "hash": "D4DC49D179544234", "target": "Así está decretado. Solo con el mundo en peligro concedemos nuestro poder a los no probados." },
     { "gameKey": "quest/031/FesBkc003_03160#TEXT_FESBKC003_03160_CID_000_072", "hash": "8014689EC7A47259", "target": "¡Perdón por el retraso!" },

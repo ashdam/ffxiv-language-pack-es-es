@@ -2,7 +2,7 @@
   "conversation": "custom/000/RegWikAdvGuild_00059",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Hola, viajero. ¿Ha probado ya algún plato en las Arenas Movedizas? Nada prepara mejor para un día de aventuras que una comida abundante, ¿sabe?" },
+    { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_PAPASU_000", "hash": "338F31759E6620F8", "target": "Hola, <if(gnum4,viajera,viajero)>. ¿Ha probado ya algún plato en las Arenas Movedizas? Nada prepara mejor para un día de aventuras que una comida abundante, ¿sabe?" },
     { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_Q1_000_1", "hash": "8CFA902AE0E02297", "target": "¿Qué quieres saber?" },
     { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_1", "hash": "8F17F0D80FD1887D", "target": "¿A qué te dedicas aquí?" },
     { "gameKey": "custom/000/RegWikAdvGuild_00059#TEXT_REGWIKADVGUILD_00059_A1_000_2", "hash": "C810DBE8E5EBFC92", "target": "¿Por qué se llama «Quicksand»?" },

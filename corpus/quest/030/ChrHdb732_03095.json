@@ -58,7 +58,7 @@
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_DAIGORO_000_041", "hash": "7756DE51DAAB17AB", "target": "\\<gimoteo>" },
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_HILDINAMAZUO03095_000_050", "hash": "5F12874BCAE3E3F4", "target": "\\<hic>" },
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_HILDINAMAZUO03095_000_051", "hash": "D463D451676500A8", "target": "¡Vivo estoy! ¡Sano y salvo, sí, sí! ¡Arrastrando una resaca de aúpa por un exceso de té, pero por lo demás como una rosa!" },
-    { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_HILDINAMAZUO03095_000_052", "hash": "46F8AC0292D9B77C", "target": "¡Mil gracias por despertarme antes de que me asaltaran bestias voraces o bandidos ladrones! A menos que... no serás tú un bandido ladrón, ¿verdad?" },
+    { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_HILDINAMAZUO03095_000_052", "hash": "46F8AC0292D9B77C", "target": "¡Mil gracias por despertarme antes de que me asaltaran bestias voraces o bandidos ladrones! A menos que... no serás tú <if(gnum4,una bandida ladrona,un bandido ladrón)>, ¿verdad?" },
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_Q1_000_000", "hash": "D0037308DC633CBF", "target": "¿Qué vas a decir?" },
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_A1_000_000", "hash": "F2105FBF392DAE32", "target": "Depende... ¿Llevas encima cierta espada sin precio?" },
     { "gameKey": "quest/030/ChrHdb732_03095#TEXT_CHRHDB732_03095_A1_000_001", "hash": "187190123C1B9874", "target": "No, pero ando a la caza de un bandido ladrón. Un Lupin." },

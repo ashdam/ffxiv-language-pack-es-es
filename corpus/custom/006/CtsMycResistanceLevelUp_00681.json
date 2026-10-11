@@ -2,8 +2,8 @@
   "conversation": "custom/006/CtsMycResistanceLevelUp_00681",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_001", "hash": "5A9CE14A0FDBD08C", "target": "Bienvenido, Espada <split(<string(gstr1)>, ,2)>. Si cree que sus hazañas en el campo de batalla han demostrado su temple y son dignas de evaluación, me gustaría oírlas." },
-    { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_002", "hash": "6CEB6B313B1F31F6", "target": "Eso, claro está, suponiendo que tenga hazañas que informar. Si es siquiera la mitad de buen soldado de lo que dicen, aguardo su regreso, <if(gnum4,señorita,señor)>." },
+    { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_001", "hash": "5A9CE14A0FDBD08C", "target": "Bienvenid<if(gnum4,a,o)>, Espada <split(<string(gstr1)>, ,2)>. Si cree que sus hazañas en el campo de batalla han demostrado su temple y son dignas de evaluación, me gustaría oírlas." },
+    { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_002", "hash": "6CEB6B313B1F31F6", "target": "Eso, claro está, suponiendo que tenga hazañas que informar. Si es siquiera la mitad de <if(gnum4,buena soldado,buen soldado)> de lo que dicen, aguardo su regreso, <if(gnum4,señorita,señor)>." },
     { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_010", "hash": "A4C1E65FA4D69822", "target": "Ah, Espada <split(<string(gstr1)>, ,2)>. ¿Qué noticias trae del frente?" },
     { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_Q1_000_001", "hash": "D5BD486BCE58BB20", "target": "¿Qué vas a hacer?" },
     { "gameKey": "custom/006/CtsMycResistanceLevelUp_00681#TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_001", "hash": "43080BAC324E8809", "target": "Ofrecer prueba de tus méritos." },

@@ -48,7 +48,7 @@
       "why": "Werlyt: fr «tu/toi», ja 英雄さん. Con Gaius y Valens, usted. Voz joven y emotiva."
     },
     "ANOGG": {
-      "corpus": { "conversations": 16, "rows": 205 },
+      "corpus": { "conversations": 16, "rows": 203 },
       "evidence": [
         { "gameKey": "quest/039/LucKta301_03952#TEXT_LUCKTA301_03952_ANOGG_000_105", "lang": "ja", "term": "旅の者" }
       ],
@@ -88,7 +88,7 @@
       "why": "Kholusia: enana de Tomra, cálida. DECIDIDO POR EL FRANCÉS. 4 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 0 de 6, es su forma de hablar."
     },
     "BEQLUGG": {
-      "corpus": { "conversations": 24, "rows": 281 },
+      "corpus": {"conversations": 24, "rows": 280},
       "evidence": [
         { "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_BEQLUGG_000_013", "lang": "ja", "term": "おぬし" },
         { "gameKey": "quest/039/LucKun001_03986#TEXT_LUCKUN001_03986_BEQLUGG_000_150", "lang": "ja", "term": "おぬし" }
@@ -285,7 +285,7 @@
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. El japonés llama al jugador 旅の方 y usa ますかな, con «vous» francés. Anciano de Isari."
     },
     "GAIA": {
-      "corpus": { "conversations": 17, "rows": 370 },
+      "corpus": { "conversations": 17, "rows": 369 },
       "evidence": [
         { "gameKey": "custom/006/CtsOpn50Lewrey_00622#TEXT_CTSOPN50LEWREY_00622_GAIA_000_208", "lang": "fr", "term": "tu" },
         { "gameKey": "custom/006/CtsOpn50Lewrey_00622#TEXT_CTSOPN50LEWREY_00622_GAIA_000_214", "lang": "fr", "term": "tu" },
@@ -297,7 +297,7 @@
       "why": "Eden: tutea a todo el mundo, jugador incluido. ja casi sin です/ます, con わよ/のよ y かしら; fr «tu» 51 contra 26 «vous», y esos son plurales al grupo. Adolescente arisca y sardónica; con [[RYNE]] el tono se ablanda pero sigue de tú."
     },
     "GAIAPRIME": {
-      "corpus": { "conversations": 2, "rows": 20 },
+      "corpus": {"conversations": 0, "rows": 0},
       "player": "tú",
       "confidence": "high",
       "why": "Eden: Gaia fusionada, la Oráculo de la Oscuridad. Altiva y despectiva, ja お前."
@@ -487,7 +487,7 @@
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le habla en keigo, con ありません y 様, y el francés va en «vous». Sirvienta de la princesa."
     },
     "HOZAN": {
-      "corpus": { "conversations": 8, "rows": 98 },
+      "corpus": { "conversations": 9, "rows": 105 },
       "evidence": [
         { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_HOZAN_000_163", "lang": "ja", "term": "君" },
         { "gameKey": "quest/030/StmBdy502_03087#TEXT_STMBDY502_03087_HOZAN_000_162", "lang": "ja", "term": "君" },
@@ -573,7 +573,7 @@
       "why": "Dotharl brusca. Francés tu; japonés あんた con formas llanas. DECIDIDO POR EL JAPONÉS LLANO. Ni keigo (0 de 4 filas al jugador) ni pronombre deferente; el francés se reparte, 0 «vous» contra 2, y no decide."
     },
     "KUGANEWOLFBURGLAR": {
-      "corpus": { "conversations": 7, "rows": 67 },
+      "corpus": {"conversations": 3, "rows": 18},
       "player": "tú",
       "confidence": "high",
       "why": "Se nombra オイラ y trata de お前/てめぇ/あんた, con terminaciones llanas 〜だろ/〜ぜ/〜さ y cero keigo. Francés tu entero. El inglés le da registro golfo, «Bugger me», «baldy». Dos traductores lo decidieron igual por separado."
@@ -710,7 +710,19 @@
       "why": "Side Story: camarada de caza. Lleva la erre marcada, «engorrrosa». DECIDIDO POR EL JAPONÉS. お前 en 7 de las 31 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 17 contra 4."
     },
     "MARSHAK": {
-      "corpus": { "conversations": 14, "rows": 283 },
+      "corpus": {"conversations": 11, "rows": 208},
+      "evidence": [
+        { "gameKey": "quest/039/LucKsa101_03941#TEXT_LUCKSA101_03941_MARSHAK_000_000", "lang": "ja", "term": "貴方様" },
+        { "gameKey": "quest/038/LucKsa002_03835#TEXT_LUCKSA002_03835_MARSHAK_000_000", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/039/LucKsa101_03941#TEXT_LUCKSA101_03941_MARSHAK_000_143", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/039/LucKsa110_03950#TEXT_LUCKSA110_03950_MARSHAK_000_110", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous», y el corpus RegOth4MycMarschak_00658 da 17 «le» contra 5. El texto lo escribe «Marsak»."
+    },
+    "MARSAK": {
+      "corpus": { "conversations": 12, "rows": 122 },
       "evidence": [
         { "gameKey": "quest/039/LucKsa101_03941#TEXT_LUCKSA101_03941_MARSHAK_000_000", "lang": "ja", "term": "貴方様" },
         { "gameKey": "quest/038/LucKsa002_03835#TEXT_LUCKSA002_03835_MARSHAK_000_000", "lang": "fr", "term": "vous+keigo" },
@@ -746,7 +758,19 @@
       "why": "Lakeland: fr «tu», ja キミ. DECIDIDO POR EL JAPONÉS. キミ en 3 de las 13 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 7 contra 2."
     },
     "MEESIYA": {
-      "corpus": { "conversations": 13, "rows": 178 },
+      "corpus": {"conversations": 10, "rows": 98},
+      "evidence": [
+        { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_010", "lang": "ja", "term": "貴方様" },
+        { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_001", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_006", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_013", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: fr «vous», ja keigo humilde. El texto la escribe «Misija». Al revelarse traidora pasa a tú despectivo; con Marshak, tú de par a par."
+    },
+    "MISIJA": {
+      "corpus": { "conversations": 10, "rows": 101 },
       "evidence": [
         { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_010", "lang": "ja", "term": "貴方様" },
         { "gameKey": "custom/006/RegOth4MycMeesiya_00662#TEXT_REGOTH4MYCMEESIYA_00662_MEESIYA_030_001", "lang": "fr", "term": "vous+keigo" },
@@ -758,7 +782,13 @@
       "why": "Bozja: fr «vous», ja keigo humilde. El texto la escribe «Misija». Al revelarse traidora pasa a tú despectivo; con Marshak, tú de par a par."
     },
     "MENENIUS": {
-      "corpus": { "conversations": 8, "rows": 48 },
+      "corpus": {"conversations": 1, "rows": 2},
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: tribuno garleano, frío y aristocrático. Tutea a sus subordinados y pares."
+    },
+    "MENENIUSSASLANATUS": {
+      "corpus": { "conversations": 6, "rows": 44 },
       "player": "usted",
       "confidence": "high",
       "why": "Bozja: tribuno garleano, frío y aristocrático. Tutea a sus subordinados y pares."
@@ -800,7 +830,13 @@
       "why": "Sephiroth: comerciante, fr «vous», ja ですます."
     },
     "MRAHZNUN": {
-      "corpus": { "conversations": 6, "rows": 61 },
+      "corpus": {"conversations": 6, "rows": 38},
+      "player": "usted",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. El japonés llama al jugador 冒険者の客人, que es trato de huésped, y el francés va en «vous»."
+    },
+    "MRAHZNUNH": {
+      "corpus": { "conversations": 5, "rows": 41 },
       "player": "usted",
       "confidence": "high",
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. El japonés llama al jugador 冒険者の客人, que es trato de huésped, y el francés va en «vous»."
@@ -812,7 +848,7 @@
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone 君 al jugador, que es familiar."
     },
     "MZHETTIA": {
-      "corpus": { "conversations": 12, "rows": 167 },
+      "corpus": { "conversations": 12, "rows": 165 },
       "evidence": [
         { "gameKey": "quest/031/BanAll220_03162#TEXT_BANALL220_03162_MZHETTIA_000_160", "lang": "ja", "term": "アンタ" },
         { "gameKey": "quest/030/BanAna004_03039#TEXT_BANANA004_03039_MZHETTIA_000_008", "lang": "ja", "term": "アンタ" },
@@ -924,7 +960,7 @@
       "why": "Kholusia: ja キミ. DECIDIDO POR EL JAPONÉS. キミ en 2 de las 12 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 7 contra 1, es el de por defecto."
     },
     "RASHO": {
-      "corpus": { "conversations": 15, "rows": 95 },
+      "corpus": { "conversations": 15, "rows": 98 },
       "evidence": [
         { "gameKey": "quest/031/StmBdy702_03132#TEXT_STMBDY702_03132_RASHO_000_020", "lang": "ja", "term": "お前" }
       ],
@@ -951,7 +987,13 @@
       "why": "Werlyt: tú al jugador con desprecio, ja オレ. Con Gaius, usted."
     },
     "RIAN": {
-      "corpus": { "conversations": 7, "rows": 47 },
+      "corpus": {"conversations": 2, "rows": 4},
+      "player": "tú",
+      "confidence": "high",
+      "why": "Bozja: garleano de voz vulgar y malhablada, fr «tu/toi». Apenas se dirige al jugador."
+    },
+    "LYONREMHELSOS": {
+      "corpus": { "conversations": 6, "rows": 43 },
       "player": "tú",
       "confidence": "high",
       "why": "Bozja: garleano de voz vulgar y malhablada, fr «tu/toi». Apenas se dirige al jugador."
@@ -1082,7 +1124,7 @@
       "why": "Werlyt: fr «vous», ja 英雄殿/ます. Con Gaius, usted, «el señor Gaius»."
     },
     "SHADOWHUNTER": {
-      "corpus": { "conversations": 18, "rows": 407 },
+      "corpus": { "conversations": 12, "rows": 210 },
       "evidence": [
         { "gameKey": "quest/043/AktKmb102_04381#TEXT_AKTKMB102_04381_SHADOWHUNTER_000_163", "lang": "ja", "term": "貴殿" },
         { "gameKey": "quest/040/LucKyw402_04032#TEXT_LUCKYW402_04032_SHADOWHUNTER_000_156", "lang": "ja", "term": "貴殿" },
@@ -1094,7 +1136,7 @@
       "why": "Werlyt: Gaius. fr tutea, ja 貴殿, respeto entre iguales. Voz solemne y arcaizante. Con los huérfanos, paternal."
     },
     "SHIGURE": {
-      "corpus": { "conversations": 10, "rows": 244 },
+      "corpus": { "conversations": 10, "rows": 243 },
       "evidence": [
         { "gameKey": "quest/031/ChrHdb752_03168#TEXT_CHRHDB752_03168_SHIGURE_000_165", "lang": "ja", "term": "冒険者殿" },
         { "gameKey": "quest/031/ChrHdb742_03151#TEXT_CHRHDB742_03151_SHIGURE_000_085", "lang": "ja", "term": "冒険者殿" },
@@ -1139,7 +1181,7 @@
       "voice": "Cecea. Marca una o dos palabras por línea, nunca la transcripción entera: «inzpiración», «ezto», «conzigues», «zol», «Azí». NO conviertas «has» en «haz», que es palabra española y se lee como falta en vez de como acento; marca otra palabra en esas líneas. Antes de nada, decide qué líneas son suyas: el comentarista de la arena comparte su combate y se reconoce en el japonés por ～だァ～ / ～ぞォ～ y por la tercera persona."
     },
     "KANESENNA": {
-      "corpus": { "conversations": 50, "rows": 690 },
+      "corpus": {"conversations": 48, "rows": 669},
       "evidence": [
         { "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_KANESENNA_000_212", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_KANESENNA_000_026", "lang": "ja", "term": ")>殿" },
@@ -1390,7 +1432,7 @@
       "confidence": "high",
       "why": "DECIDIDO POR EL JAPONÉS. Habla en llano, con 俺たち y sin una sola forma de keigo en sus 5 filas al jugador; el único «vous» francés no es evidencia contra eso. Guardia de Nabaath Areng."
     },
-    "WYDLAD": {"corpus": {"conversations": 3, "rows": 30}, "player": "tú", "confidence": "high", "why": "Nu Mou de Pla Enni. Trato coloquial al jugador: JA usa あんた y terminaciones っす. Mantener tú en sus encargos y agradecimientos. A Titania se dirige con usted; la súplica al monarca es otra relación.", "voice": "Coloquial, inseguro y servicial; っす es una forma coloquial de です."},
+    "WYDLAD": {"corpus": {"conversations": 4, "rows": 31}, "player": "tú", "confidence": "high", "why": "Nu Mou de Pla Enni. Trato coloquial al jugador: JA usa あんた y terminaciones っす. Mantener tú en sus encargos y agradecimientos. A Titania se dirige con usted; la súplica al monarca es otra relación.", "voice": "Coloquial, inseguro y servicial; っす es una forma coloquial de です."},
     "XEMUTT": {
       "corpus": { "conversations": 3, "rows": 24 },
       "player": "tú",
@@ -1482,7 +1524,7 @@
       "why": "RESUELTO MIDIENDO POR DESTINATARIO, que es lo que la entrada anterior pedía. Sus 62 filas que nombran al jugador son 29 de tú y ninguna de usted; el francés partido 119 a 93 lo estaba porque mezclaba lo que dice a Raganfrid y a M'naago."
     },
     "GRAHATIA": {
-      "corpus": { "conversations": 167, "rows": 2027 },
+      "corpus": { "conversations": 168, "rows": 2038 },
       "evidence": [
         { "gameKey": "quest/052/KinGmg103_05246#TEXT_KINGMG103_05246_GRAHATIA_000_031", "lang": "ja", "term": "あんた" },
         { "gameKey": "quest/047/AktKea301_04791#TEXT_AKTKEA301_04791_GRAHATIA_000_274", "lang": "ja", "term": "あんた" },
@@ -1498,7 +1540,7 @@
       ]
     },
     "KRILE": {
-      "corpus": { "conversations": 236, "rows": 2772 },
+      "corpus": { "conversations": 236, "rows": 2771 },
       "evidence": [
         { "gameKey": "quest/049/KinGmf112_04957#TEXT_KINGMF112_04957_KRILE_000_099", "lang": "ja", "term": "君" },
         { "gameKey": "custom/004/CtsErkEureka1EventKrile_00455#TEXT_CTSERKEUREKA1EVENTKRILE_00455_KRILE_000_005", "lang": "fr", "term": "vous+keigo" },
@@ -1515,7 +1557,7 @@
       ]
     },
     "ALPHINAUD": {
-      "corpus": { "conversations": 559, "rows": 5957 },
+      "corpus": { "conversations": 559, "rows": 5956 },
       "evidence": [
         { "gameKey": "quest/053/KinGmh107_05305#TEXT_KINGMH107_05305_ALPHINAUD_000_036", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/AktKmk103_04737#TEXT_AKTKMK103_04737_ALPHINAUD_000_119", "lang": "ja", "term": "君" },
@@ -1581,7 +1623,23 @@
       ]
     },
     "EDMONT": {
-      "corpus": { "conversations": 29, "rows": 221 },
+      "corpus": {"conversations": 22, "rows": 110},
+      "evidence": [
+        { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_150", "lang": "ja", "term": ")>殿" },
+        { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_141", "lang": "ja", "term": ")>殿" },
+        { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_139", "lang": "ja", "term": "英雄殿" },
+        { "gameKey": "quest/031/StmBdg102_03185#TEXT_STMBDG102_03185_EDMONT_000_028", "lang": "ja", "term": "貴殿" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Usted al jugador, con tratamiento cortés japonés. Distinguir los plurales y los destinatarios de cada intervención.",
+      "examples": [
+        "quest/022/HeaVnd105_02246#TEXT_HEAVND105_02246_EDMONT_000_020",
+        "quest/029/JobDrk700_02919#TEXT_JOBDRK700_02919_EDMONT_000_482"
+      ]
+    },
+    "COUNTEDMONTDEFORTEMPS": {
+      "corpus": { "conversations": 17, "rows": 112 },
       "evidence": [
         { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_150", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/036/LucKha001_03672#TEXT_LUCKHA001_03672_EDMONT_000_141", "lang": "ja", "term": ")>殿" },
@@ -1619,7 +1677,7 @@
       "why": "NO TENÍA ENTRADA Y TRATABA AL JUGADOR DE VOS EN 12 FILAS, que el §6 prohíbe. Su japonés es keigo profundo, con 私め para sí y ございます, y el francés va en «vous». Samurái de Vana'diel que reverencia al jugador como maestro: la reverencia va en el léxico, no en el pronombre."
     },
     "ILIUD": {
-      "corpus": { "conversations": 11, "rows": 63 },
+      "corpus": { "conversations": 11, "rows": 69 },
       "evidence": [
         { "gameKey": "DefaultTalk#591039.20", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "quest/005/ManFst313_00517#TEXT_MANFST313_00517_ILIUD_000_151", "lang": "fr", "term": "tu" },
@@ -1712,7 +1770,7 @@
       ]
     },
     "OBORO": {
-      "corpus": { "conversations": 21, "rows": 519 },
+      "corpus": { "conversations": 21, "rows": 520 },
       "evidence": [
         { "gameKey": "quest/032/LucKbc010_03219#TEXT_LUCKBC010_03219_OBORO_000_001", "lang": "ja", "term": "お主" },
         { "gameKey": "quest/029/JobNin700_02952#TEXT_JOBNIN700_02952_OBORO_000_059", "lang": "ja", "term": "お主" },
@@ -1728,7 +1786,7 @@
       ]
     },
     "OLLIER": {
-      "corpus": { "conversations": 10, "rows": 247 },
+      "corpus": { "conversations": 10, "rows": 245 },
       "evidence": [
         { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_OLLIER_000_112", "lang": "ja", "term": "お客様" },
         { "gameKey": "quest/021/FesGsc001_02133#TEXT_FESGSC001_02133_OLLIER_000_036", "lang": "fr", "term": "vous+keigo" },
@@ -1791,7 +1849,7 @@
       ]
     },
     "URIANGER": {
-      "corpus": { "conversations": 252, "rows": 2232 },
+      "corpus": {"conversations": 253, "rows": 2214},
       "evidence": [
         { "gameKey": "DefaultTalk#596513.20", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "custom/001/RegWilSandsUrianger_00139#TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_000", "lang": "fr", "term": "vous+keigo" },
@@ -1834,7 +1892,7 @@
       "examples": []
     },
     "VARSHAHN": {
-      "corpus": { "conversations": 39, "rows": 493 },
+      "corpus": { "conversations": 44, "rows": 658 },
       "evidence": [
         { "gameKey": "quest/047/AktKmm101_04751#TEXT_AKTKMM101_04751_VARSHAHN_000_001", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/AktKml101_04744#TEXT_AKTKML101_04744_VARSHAHN_000_001", "lang": "ja", "term": "君" },
@@ -1850,7 +1908,7 @@
       ]
     },
     "VARSHAHNBIG": {
-      "corpus": { "conversations": 13, "rows": 225 },
+      "corpus": { "conversations": 11, "rows": 60 },
       "player": "tú",
       "confidence": "high",
       "why": "La forma de dragón del mismo personaje, con clave de hablante distinta. Mismo trato que VARSHAHN y medido aparte para comprobarlo: 君 32 veces contra あなた 3, sin una sola forma です/ます.",
@@ -1867,7 +1925,7 @@
       ]
     },
     "BRIARDIEN": {
-      "corpus": { "conversations": 26, "rows": 392 },
+      "corpus": { "conversations": 26, "rows": 391 },
       "evidence": [
         { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_056", "lang": "ja", "term": "君" },
         { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_BRIARDIEN_000_049", "lang": "ja", "term": "君" },
@@ -1880,7 +1938,7 @@
       "examples": []
     },
     "HILDIBRAND": {
-      "corpus": { "conversations": 55, "rows": 1137 },
+      "corpus": { "conversations": 55, "rows": 1136 },
       "evidence": [
         { "gameKey": "quest/054/ChrHdb942_05447#TEXT_CHRHDB942_05447_HILDIBRAND_000_212", "lang": "ja", "term": "冒険者殿" },
         { "gameKey": "quest/048/ChrHdb852_04800#TEXT_CHRHDB852_04800_HILDIBRAND_000_400", "lang": "ja", "term": ")>殿" },
@@ -1893,7 +1951,7 @@
       "examples": []
     },
     "GODBERT": {
-      "corpus": { "conversations": 49, "rows": 665 },
+      "corpus": {"conversations": 41, "rows": 635},
       "evidence": [
         { "gameKey": "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_GODBERT_000_201", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_GODBERT_000_092", "lang": "ja", "term": ")>殿" },
@@ -1928,7 +1986,7 @@
       "examples": []
     },
     "NASHUMHAKARACCA": {
-      "corpus": { "conversations": 57, "rows": 670 },
+      "corpus": { "conversations": 57, "rows": 671 },
       "evidence": [
         { "gameKey": "quest/012/ChrHdb102_01205#TEXT_CHRHDB102_01205_NASHUMHAKARACCA_000_010", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_NASHUMHAKARACCA_100_082", "lang": "fr", "term": "vous+keigo" },
@@ -1941,7 +1999,18 @@
       "examples": []
     },
     "ELVIANE": {
-      "corpus": { "conversations": 3, "rows": 12 },
+      "corpus": {"conversations": 2, "rows": 2},
+      "evidence": [
+        { "gameKey": "quest/021/ChrEnd103_02154#TEXT_CHREND103_02154_ELVIANE_000_021", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/021/ChrEnd103_02154#TEXT_CHREND103_02154_ELVIANE_000_031", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Keigo en sus 2 filas y «vous» francés.",
+      "examples": []
+    },
+    "HEADMISTRESSELVIANE": {
+      "corpus": { "conversations": 2, "rows": 10 },
       "evidence": [
         { "gameKey": "quest/021/ChrEnd103_02154#TEXT_CHREND103_02154_ELVIANE_000_021", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "quest/021/ChrEnd103_02154#TEXT_CHREND103_02154_ELVIANE_000_031", "lang": "fr", "term": "vous+keigo" }
@@ -2028,7 +2097,20 @@
       "examples": []
     },
     "NERO": {
-      "corpus": { "conversations": 41, "rows": 412 },
+      "corpus": {"conversations": 27, "rows": 151},
+      "evidence": [
+        { "gameKey": "quest/030/StmBdr201_03031#TEXT_STMBDR201_03031_NERO_000_045", "lang": "ja", "term": "お前" },
+        { "gameKey": "quest/029/StmBdr106_02933#TEXT_STMBDR106_02933_NERO_000_182", "lang": "ja", "term": "お前" },
+        { "gameKey": "quest/017/GaiUsx201_01709#TEXT_GAIUSX201_01709_NERO_000_000", "lang": "ja", "term": "お前" },
+        { "gameKey": "quest/011/GaiUsd201_01199#TEXT_GAIUSD201_01199_NERO_000_000", "lang": "ja", "term": "お前" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "Nero tol Scaeva. Tuteo en 17 filas contra 3 de usted, y esas tres son a Rhitahtyn, un oficial garleano, no al jugador. Sardónico y teatral; a Cid le llama «Garlond».",
+      "examples": []
+    },
+    "NEROTOLSCAEVA": {
+      "corpus": { "conversations": 28, "rows": 253 },
       "evidence": [
         { "gameKey": "quest/030/StmBdr201_03031#TEXT_STMBDR201_03031_NERO_000_045", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/029/StmBdr106_02933#TEXT_STMBDR106_02933_NERO_000_182", "lang": "ja", "term": "お前" },
@@ -2041,7 +2123,7 @@
       "examples": []
     },
     "GENBU": {
-      "corpus": { "conversations": 7, "rows": 199 },
+      "corpus": { "conversations": 6, "rows": 196 },
       "evidence": [
         { "gameKey": "quest/046/AktKsa301_04662#TEXT_AKTKSA301_04662_SOROBAN_000_232", "lang": "ja", "term": "おぬし" },
         { "gameKey": "quest/031/StmBdy332_03166#TEXT_STMBDY332_03166_GENBU_000_100", "lang": "ja", "term": "おぬし" },
@@ -2067,7 +2149,19 @@
       "why": "CORREGIDO DESDE «usted»: la regla «a diferencia de Cid, que tutea» no se sostiene medida. Su japonés al jugador es llano y cercano, あなた con の/わ, y el keigo lo guarda para su jefe, al que llama 会長. Ese keigo de oficina no es «usted» en español: con Cid es tú, como en el corpus entregado, que la tutea 11 filas contra 3. Francés «vous» 17 contra 0, el de por defecto."
     },
     "RAMZALEXENTALE": {
-      "corpus": { "conversations": 10, "rows": 144 },
+      "corpus": {"conversations": 9, "rows": 38},
+      "evidence": [
+        { "gameKey": "quest/030/StmBdi204_03092#TEXT_STMBDI204_03092_RAMZALEXENTALE_000_151", "lang": "fr", "term": "tu" },
+        { "gameKey": "quest/031/StmBdi302_03188#TEXT_STMBDI302_03188_RAMZALEXENTALE_000_380", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_00543_RAMZALEXENTALE_500_075", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Familia Lexentale, el crossover de Final Fantasy Tactics. Francés `vous` y japonés です／ます. Entre ellos se tutean: Ramza, Alma, Jenomis y Mikoto. Confianza media porque combate al lado del jugador y eso suele ablandar el trato. DECIDIDO POR EL JAPONÉS. Keigo en 4 de las 5 filas dirigidas al jugador, sin pronombre familiar; el francés en «vous», 2 contra 1.",
+      "examples": []
+    },
+    "RAMZABASLEXENTALE": {
+      "corpus": { "conversations": 8, "rows": 106 },
       "evidence": [
         { "gameKey": "quest/030/StmBdi204_03092#TEXT_STMBDI204_03092_RAMZALEXENTALE_000_151", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/031/StmBdi302_03188#TEXT_STMBDI302_03188_RAMZALEXENTALE_000_380", "lang": "fr", "term": "vous+keigo" },
@@ -2079,7 +2173,20 @@
       "examples": []
     },
     "JENOMISLEXENTALE": {
-      "corpus": { "conversations": 8, "rows": 171 },
+      "corpus": {"conversations": 8, "rows": 88},
+      "evidence": [
+        { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_JENOMISLEXENTALE_000_300", "lang": "ja", "term": "おまえ" },
+        { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_JENOMISLEXENTALE_500_030", "lang": "ja", "term": "きみ" },
+        { "gameKey": "custom/004/RegHinJenomis_00446#TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_122", "lang": "ja", "term": "きみ" },
+        { "gameKey": "custom/004/RegHinJenomis_00446#TEXT_REGHINJENOMIS_00446_JENOMISLEXENTALE_000_121", "lang": "ja", "term": "君" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. Trata al jugador de きみ y no usa keigo con él en ninguna de sus filas; su inglés es de erudito y por eso parecía usted. El francés dice «vous» 15 contra 2. DECIDIDO POR EL JAPONÉS. きみ en 7 de las 62 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 15 contra 2, es el de por defecto.",
+      "examples": []
+    },
+    "JENOMISCENLEXENTALE": {
+      "corpus": { "conversations": 7, "rows": 84 },
       "evidence": [
         { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_JENOMISLEXENTALE_000_300", "lang": "ja", "term": "おまえ" },
         { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_JENOMISLEXENTALE_500_030", "lang": "ja", "term": "きみ" },
@@ -2105,7 +2212,20 @@
       "examples": []
     },
     "ALMALEXENTALE": {
-      "corpus": { "conversations": 9, "rows": 74 },
+      "corpus": {"conversations": 7, "rows": 27},
+      "evidence": [
+        { "gameKey": "quest/030/StmBdi201_03089#TEXT_STMBDI201_03089_ALMALEXENTALE_000_333", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/031/StmBdi301_03187#TEXT_STMBDI301_03187_ALMALEXENTALE_000_108", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_00543_ALMALEXENTALE_500_039", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/031/StmBdi303_03189#TEXT_STMBDI303_03189_00543_ALMALEXENTALE_500_080", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Familia Lexentale. Tú con su hermano Ramza y con su padre. DECIDIDO POR EL JAPONÉS. Keigo en 5 de las 7 filas dirigidas al jugador, sin pronombre familiar; el francés en «vous», 5 contra 0.",
+      "examples": []
+    },
+    "ALMABASLEXENTALE": {
+      "corpus": { "conversations": 7, "rows": 53 },
       "evidence": [
         { "gameKey": "quest/030/StmBdi201_03089#TEXT_STMBDI201_03089_ALMALEXENTALE_000_333", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "quest/031/StmBdi301_03187#TEXT_STMBDI301_03187_ALMALEXENTALE_000_108", "lang": "fr", "term": "vous+keigo" },
@@ -2143,7 +2263,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. Llama al jugador 君 en 37 filas y no usa keigo con él ni una vez; el «vous» francés, 80 contra 4, es el de por defecto. Maestro retirado que instruye a su sucesor."
     },
     "ALDIS": {
-      "corpus": { "conversations": 9, "rows": 180 },
+      "corpus": {"conversations": 10, "rows": 178},
       "evidence": [
         { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_083", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_065", "lang": "ja", "term": "お前" },
@@ -2156,7 +2276,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 14 de las 39 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 30 contra 2."
     },
     "ALISAIE": {
-      "corpus": { "conversations": 404, "rows": 3826 },
+      "corpus": { "conversations": 404, "rows": 3825 },
       "evidence": [
         { "gameKey": "DefaultTalk#596440.20", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/000/GaiUsd501_00043#TEXT_GAIUSD501_00043_ALISAIE_000_101", "lang": "fr", "term": "vous+keigo" },
@@ -2181,7 +2301,19 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 69 filas y el francés en «tu», 79 contra 9."
     },
     "BADERON": {
-      "corpus": { "conversations": 40, "rows": 400 },
+      "corpus": {"conversations": 36, "rows": 373},
+      "evidence": [
+        { "gameKey": "quest/040/FesNyr802_04024#TEXT_FESNYR802_04024_BADERON_000_020", "lang": "ja", "term": "お前" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_240", "lang": "ja", "term": "おまえ" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_182", "lang": "ja", "term": "おまえ" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_172", "lang": "ja", "term": "おまえ" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. おまえ en 21 de las 58 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 42 contra 1."
+    },
+    "BADERONTENFINGERS": {
+      "corpus": { "conversations": 3, "rows": 21 },
       "evidence": [
         { "gameKey": "quest/040/FesNyr802_04024#TEXT_FESNYR802_04024_BADERON_000_020", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_240", "lang": "ja", "term": "おまえ" },
@@ -2193,7 +2325,20 @@
       "why": "DECIDIDO POR EL JAPONÉS. おまえ en 21 de las 58 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 42 contra 1."
     },
     "BAISHAEN": {
-      "corpus": { "conversations": 13, "rows": 312 },
+      "corpus": {"conversations": 12, "rows": 228},
+      "evidence": [
+        { "gameKey": "quest/041/LucKsa355_04101#TEXT_LUCKSA355_04101_BAISHAEN_000_510", "lang": "ja", "term": "貴方様" },
+        { "gameKey": "quest/041/LucKsa355_04101#TEXT_LUCKSA355_04101_BAISHAEN_000_505", "lang": "ja", "term": "貴方様" },
+        { "gameKey": "quest/040/LucKsa305_04088#TEXT_LUCKSA305_04088_BAISHAEN_000_700", "lang": "ja", "term": "貴方様" },
+        { "gameKey": "quest/039/LucKsa101_03941#TEXT_LUCKSA101_03941_BAISHAEN_000_060", "lang": "ja", "term": "貴方様" }
+      ],
+      "player": "usted",
+      "others": { "MIKOTO": "usted", "CID": "usted" },
+      "confidence": "high",
+      "why": "Bozja: fr «vous», corpus RegOth4MycBaichaouen_00657. A Cid, usted, ja シド殿."
+    },
+    "BAJSALJEN": {
+      "corpus": { "conversations": 9, "rows": 127 },
       "evidence": [
         { "gameKey": "quest/041/LucKsa355_04101#TEXT_LUCKSA355_04101_BAISHAEN_000_510", "lang": "ja", "term": "貴方様" },
         { "gameKey": "quest/041/LucKsa355_04101#TEXT_LUCKSA355_04101_BAISHAEN_000_505", "lang": "ja", "term": "貴方様" },
@@ -2206,7 +2351,19 @@
       "why": "Bozja: fr «vous», corpus RegOth4MycBaichaouen_00657. A Cid, usted, ja シド殿."
     },
     "BEATINE": {
-      "corpus": { "conversations": 35, "rows": 441 },
+      "corpus": {"conversations": 30, "rows": 391},
+      "evidence": [
+        { "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_050", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_060", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_122", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/001/ClsWdk001_00139#TEXT_CLSWDK001_00139_BEATINE_000_1", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. Keigo en 137 de 168 filas al jugador, y el francés en «vous», 105 contra 8. Tutea a Cemi, su aprendiza: esas filas no son un desliz."
+    },
+    "BEATIN": {
+      "corpus": { "conversations": 12, "rows": 66 },
       "evidence": [
         { "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_050", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "custom/000/RegFstWdkGuild_00029#TEXT_REGFSTWDKGUILD_00029_BEATINE_000_060", "lang": "fr", "term": "vous+keigo" },
@@ -2218,7 +2375,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. Keigo en 137 de 168 filas al jugador, y el francés en «vous», 105 contra 8. Tutea a Cemi, su aprendiza: esas filas no son un desliz."
     },
     "BIGGS": {
-      "corpus": { "conversations": 62, "rows": 372 },
+      "corpus": {"conversations": 62, "rows": 369},
       "evidence": [
         { "gameKey": "quest/045/StmBdr601_04586#TEXT_STMBDR601_04586_BIGGS_000_071", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_BIGGS_000_296", "lang": "ja", "term": "お前" },
@@ -2243,7 +2400,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 5 de las 17 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 14 contra 0."
     },
     "BRITHAEL": {
-      "corpus": { "conversations": 23, "rows": 308 },
+      "corpus": { "conversations": 23, "rows": 307 },
       "evidence": [
         { "gameKey": "quest/026/ClsBsm680_02618#TEXT_CLSBSM680_02618_BRITHAEL_000_000", "lang": "ja", "term": "キミ" },
         { "gameKey": "quest/026/ClsBsm630_02616#TEXT_CLSBSM630_02616_BRITHAEL_000_002", "lang": "ja", "term": "キミ" },
@@ -2262,7 +2419,7 @@
         { "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_BRUVAGNON_000_080", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/021/ChrEnd102_02153#TEXT_CHREND102_02153_BRUVAGNON_000_074", "lang": "ja", "term": "英雄殿" }
       ],
-      "others": { "ELVIANE": "usted" },
+      "others": { "ELVIANE": "usted", "HEADMISTRESSELVIANE": "usted" },
       "player": "usted",
       "confidence": "high",
       "why": "Vicerrector del seminario. Francés «vous» 5 contra 1 y japonés en keigo con 英雄殿; el corpus entregado lo tiene en usted con el jugador y tuteando a su sobrino Briardien. DECIDIDO POR EL JAPONÉS. 英雄殿 en 9 de las 41 filas dirigidas al jugador; el «vous» francés, 18 contra 1, es el de por defecto."
@@ -2386,7 +2543,7 @@
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Japonés llano y familiar, sin honorífico."
     },
     "ERENVILLE": {
-      "corpus": { "conversations": 114, "rows": 1214 },
+      "corpus": { "conversations": 114, "rows": 1216 },
       "evidence": [
         { "gameKey": "custom/009/FesXmx2025Omake_00941#TEXT_FESXMX2025OMAKE_00941_ERENVILLE_000_087", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/048/KinGmb113_04892#TEXT_KINGMB113_04892_ERENVILLE_000_145", "lang": "fr", "term": "tu" },
@@ -2410,7 +2567,7 @@
       "confidence": "high",
       "why": "DECIDIDO POR EL JAPONÉS. 君 y キミ en 43 filas, 吾輩 para sí, y solo 2 con keigo. Erudito excéntrico y campechano; el francés dice «vous» 85 contra 11 y es el de por defecto."
     },
-    "ESUMIYAN": {"corpus": {"conversations": 29, "rows": 448}, "evidence": [{"gameKey": "quest/004/ClsCnj005_00440#TEXT_CLSCNJ005_00440_ESUMIYAN_000_88", "lang": "ja", "term": "晴れましたか"}, {"gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_ESUMIYAN_000_026", "lang": "fr", "term": "vous a inquiétée"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_087", "lang": "fr", "term": "Tu dois être Rielle"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_107", "lang": "ja", "term": "君"}], "player": "usted", "others": {"SYLPHIE": "usted", "RIELLE": "tú"}, "confidence": "high", "why": "Al jugador, usted por el japonés. A Sylphie, usted: el francés usa vous singular y el japonés mantiene el habla cortés. Tutea a Rielle, como el francés; el japonés usa 君 al tranquilizarla."},
+    "ESUMIYAN": {"corpus": {"conversations": 29, "rows": 455}, "evidence": [{"gameKey": "quest/004/ClsCnj005_00440#TEXT_CLSCNJ005_00440_ESUMIYAN_000_88", "lang": "ja", "term": "晴れましたか"}, {"gameKey": "quest/024/JobWhm601_02414#TEXT_JOBWHM601_02414_ESUMIYAN_000_026", "lang": "fr", "term": "vous a inquiétée"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_087", "lang": "fr", "term": "Tu dois être Rielle"}, {"gameKey": "quest/020/JobDrk540_02061#TEXT_JOBDRK540_02061_ESUMIYAN_000_107", "lang": "ja", "term": "君"}], "player": "usted", "others": {"SYLPHIE": "usted", "RIELLE": "tú"}, "confidence": "high", "why": "Al jugador, usted por el japonés. A Sylphie, usted: el francés usa vous singular y el japonés mantiene el habla cortés. Tutea a Rielle, como el francés; el japonés usa 君 al tranquilizarla."},
     "FORDOLA": {
       "corpus": { "conversations": 16, "rows": 185 },
       "evidence": [
@@ -2473,7 +2630,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 8 de las 157 filas dirigidas al jugador, con keigo en 2; el francés va en «tu», 110 contra 5."
     },
     "GEVA": {
-      "corpus": { "conversations": 29, "rows": 394 },
+      "corpus": { "conversations": 29, "rows": 393 },
       "evidence": [
         { "gameKey": "quest/054/FesXmx201_05464#TEXT_FESXMX201_05464_GEVA_000_200", "lang": "ja", "term": "あんた" },
         { "gameKey": "quest/052/FesEsx001_05242#TEXT_FESESX001_05242_GEVA_000_170", "lang": "ja", "term": "あんた" },
@@ -2536,7 +2693,7 @@
       "why": "DECIDIDO POR EL FRANCÉS. 7 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 0 de 19, es su forma de hablar."
     },
     "HAMON": {
-      "corpus": { "conversations": 18, "rows": 252 },
+      "corpus": { "conversations": 18, "rows": 251 },
       "evidence": [
         { "gameKey": "quest/045/FesAnv801_04544#TEXT_FESANV801_04544_HAMON_000_084", "lang": "ja", "term": "お主" },
         { "gameKey": "quest/006/ClsPgl101_00698#TEXT_CLSPGL101_00698_HAMON_000_55", "lang": "ja", "term": "お主" },
@@ -2548,7 +2705,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お主 en 20 de las 74 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 57 contra 3."
     },
     "HAURCHEFANT": {
-      "corpus": { "conversations": 38, "rows": 244 },
+      "corpus": {"conversations": 37, "rows": 230},
       "evidence": [
         { "gameKey": "quest/038/XxaUsb808_03868#TEXT_XXAUSB808_03868_HAURCHEFANT_000_054", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/015/HeaVna118_01597#TEXT_HEAVNA118_01597_HAURCHEFANT_000_053", "lang": "ja", "term": "お前" },
@@ -2586,7 +2743,7 @@
       "why": "Francés tu; japonés そなた, de señor a amigo de confianza. Antes solo tenía el trato a otros personajes. DECIDIDO POR EL FRANCÉS. 41 «tu» contra 6 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 1 de 64, es su forma de hablar."
     },
     "HNAANZA": {
-      "corpus": { "conversations": 29, "rows": 310 },
+      "corpus": { "conversations": 29, "rows": 308 },
       "evidence": [
         { "gameKey": "quest/025/ClsArm601_02594#TEXT_CLSARM601_02594_HNAANZA_000_033", "lang": "ja", "term": "あんた" },
         { "gameKey": "quest/025/ClsArm601_02594#TEXT_CLSARM601_02594_HNAANZA_000_005", "lang": "ja", "term": "あんた" },
@@ -2598,7 +2755,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. あんた en 28 de las 120 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 76 contra 2."
     },
     "ICEHEART": {
-      "corpus": { "conversations": 24, "rows": 237 },
+      "corpus": {"conversations": 22, "rows": 150},
       "evidence": [
         { "gameKey": "quest/016/HeaVna313_01614#TEXT_HEAVNA313_01614_ICEHEART_000_006", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/016/HeaVna314_01615#TEXT_HEAVNA314_01615_ICEHEART_000_004", "lang": "fr", "term": "tu" },
@@ -2661,7 +2818,7 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Lo decide el papel y el pronombre: el japonés le pone 貴公 al jugador, que es el trato entre hombres de rango, y es el Lord Comandante de los Espadas del Sultán."
     },
     "JIHLIALIAPOH": {
-      "corpus": { "conversations": 32, "rows": 528 },
+      "corpus": {"conversations": 32, "rows": 521},
       "evidence": [
         { "gameKey": "DefaultTalk#601111.20", "lang": "fr", "term": "tu" },
         { "gameKey": "quest/005/FesEst101_00556#TEXT_FESEST101_00556_JIHLIALIAPOH_000_010", "lang": "fr", "term": "tu" },
@@ -2723,7 +2880,20 @@
       "why": "DECIDIDO POR EL JAPONÉS. キミ en 8 de las 23 filas dirigidas al jugador, con keigo en 18; el francés va en «tu», 21 contra 0."
     },
     "KOFUINSEIGETSU": {
-      "corpus": { "conversations": 37, "rows": 316 },
+      "corpus": {"conversations": 31, "rows": 246},
+      "evidence": [
+        { "gameKey": "quest/031/BanNam608_03130#TEXT_BANNAM608_03130_KOFUINSEIGETSU_000_002", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_000", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_KOFUINSEIGETSU_000_030", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/031/BanNam602_03124#TEXT_BANNAM602_03124_KOFUINSEIGETSU_000_000", "lang": "ja", "term": "君" }
+      ],
+      "others": { "GYOSHIN": "tú" },
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. 貴君 y 君 en 42 filas, sin una sola de keigo; el «vous» francés, 52 contra 4, es el de por defecto. Namazu pomposo y condescendiente: el desdén va en el léxico, no en el pronombre."
+    },
+    "SEIGETSUTHEENLIGHTENED": {
+      "corpus": { "conversations": 7, "rows": 70 },
       "evidence": [
         { "gameKey": "quest/031/BanNam608_03130#TEXT_BANNAM608_03130_KOFUINSEIGETSU_000_002", "lang": "ja", "term": "君" },
         { "gameKey": "quest/031/BanNam605_03127#TEXT_BANNAM605_03127_KOFUINSEIGETSU_000_000", "lang": "ja", "term": "君" },
@@ -2736,7 +2906,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 貴君 y 君 en 42 filas, sin una sola de keigo; el «vous» francés, 52 contra 4, es el de por defecto. Namazu pomposo y condescendiente: el desdén va en el léxico, no en el pronombre."
     },
     "KONOGG": {
-      "corpus": { "conversations": 17, "rows": 229 },
+      "corpus": { "conversations": 17, "rows": 230 },
       "evidence": [
         { "gameKey": "quest/040/LucKta501_04034#TEXT_LUCKTA501_04034_KONOGG_000_051", "lang": "fr", "term": "vous+keigo" }
       ],
@@ -2771,7 +2941,7 @@
       "why": "Lo fija el corpus entregado, CtsDomReconCollectionBox_00484 «es usted demasiado amable». Japonés humilde en まする."
     },
     "LALAI": {
-      "corpus": { "conversations": 17, "rows": 295 },
+      "corpus": { "conversations": 17, "rows": 294 },
       "evidence": [
         { "gameKey": "quest/010/JobBlm350_01074#TEXT_JOBBLM350_01074_LALAI_000_007", "lang": "ja", "term": "そなた" },
         { "gameKey": "custom/000/JobDefBlm_00096#TEXT_JOBDEFBLM_00096_LALAI_000_011", "lang": "fr", "term": "vous+keigo" },
@@ -2832,7 +3002,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. アンタ en 9 de las 41 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 24 contra 2."
     },
     "LEOFARD": {
-      "corpus": { "conversations": 10, "rows": 213 },
+      "corpus": { "conversations": 10, "rows": 212 },
       "evidence": [
         { "gameKey": "quest/046/AktKsa201_04650#TEXT_AKTKSA201_04650_LEOFARD_000_611", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/046/AktKsa201_04650#TEXT_AKTKSA201_04650_LEOFARD_000_605", "lang": "ja", "term": "お前" },
@@ -2845,7 +3015,7 @@
       "why": "110 filas de tú contra 1; el francés tutea 17 contra 2. Capitán de los Redbills, campechano."
     },
     "LETTERMOOGLE": {
-      "corpus": { "conversations": 26, "rows": 200 },
+      "corpus": {"conversations": 25, "rows": 189},
       "evidence": [
         { "gameKey": "quest/015/SubPst015_01575#TEXT_SUBPST015_01575_LETTERMOOGLE_000_003", "lang": "ja", "term": "君" },
         { "gameKey": "quest/015/SubPst015_01575#TEXT_SUBPST015_01575_LETTERMOOGLE_000_000", "lang": "ja", "term": "君" },
@@ -2869,7 +3039,7 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Lo decide el papel: astróloga sharlayana que se dirige al jugador por su título, con formas corteses en 78 filas."
     },
     "LEWIN": {
-      "corpus": { "conversations": 12, "rows": 73 },
+      "corpus": { "conversations": 12, "rows": 74 },
       "evidence": [
         { "gameKey": "quest/017/JobBrd501_01713#TEXT_JOBBRD501_01713_LEWIN_000_022", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/010/GaiUsc607_01007#TEXT_GAIUSC607_01007_LEWIN_000_010", "lang": "ja", "term": "お前" },
@@ -2881,7 +3051,20 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 8 de las 14 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 14 contra 0."
     },
     "LISETTE": {
-      "corpus": { "conversations": 24, "rows": 274 },
+      "corpus": {"conversations": 21, "rows": 247},
+      "evidence": [
+        { "gameKey": "quest/046/FesVlt901_04654#TEXT_FESVLT901_04654_LISETTE_100_014", "lang": "ja", "term": "アンタ" },
+        { "gameKey": "quest/022/FesVlt203_02220#TEXT_FESVLT203_02220_LISETTE_000_053", "lang": "ja", "term": "てめ" },
+        { "gameKey": "custom/006/FesVlt2020Evangelist_00651#TEXT_FESVLT2020EVANGELIST_00651_LISETTE_000_033", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/022/FesVlt203_02220#TEXT_FESVLT203_02220_LISETTE_000_034", "lang": "fr", "term": "tu" }
+      ],
+      "others": { "HORTEFENSE": "tú" },
+      "player": "tú",
+      "confidence": "high",
+      "why": "81 filas de tú contra 20 de usted, y el japonés va en アナタ con formas llanas y ♪. Las de usted son sus primeras apariciones y son la deriva."
+    },
+    "LISETTEDEVALENTIONE": {
+      "corpus": { "conversations": 7, "rows": 40 },
       "evidence": [
         { "gameKey": "quest/046/FesVlt901_04654#TEXT_FESVLT901_04654_LISETTE_100_014", "lang": "ja", "term": "アンタ" },
         { "gameKey": "quest/022/FesVlt203_02220#TEXT_FESVLT203_02220_LISETTE_000_053", "lang": "ja", "term": "てめ" },
@@ -2906,7 +3089,19 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Japonés en アナタ con formas llanas, como su hermana Lisette. Sus filas en usted son las primeras apariciones."
     },
     "LLOONGAH": {
-      "corpus": { "conversations": 7, "rows": 132 },
+      "corpus": {"conversations": 5, "rows": 79},
+      "evidence": [
+        { "gameKey": "custom/001/RegWilRingofAsh_00143#TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050", "lang": "fr", "term": "tu" },
+        { "gameKey": "custom/001/RegWilRingofAsh_00143#TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150", "lang": "fr", "term": "tu" },
+        { "gameKey": "custom/001/RegWilRingofAsh_00143#TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_204", "lang": "fr", "term": "tu" },
+        { "gameKey": "quest/012/BanAma004_01220#TEXT_BANAMA004_01220_LLOONGAH_000_043", "lang": "fr", "term": "tu" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 10 «tu» contra 0 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 0 de 15, es su forma de hablar."
+    },
+    "LOONHGAH": {
+      "corpus": { "conversations": 5, "rows": 53 },
       "evidence": [
         { "gameKey": "custom/001/RegWilRingofAsh_00143#TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_050", "lang": "fr", "term": "tu" },
         { "gameKey": "custom/001/RegWilRingofAsh_00143#TEXT_REGWILRINGOFASH_00143_LLOONGAH_000_150", "lang": "fr", "term": "tu" },
@@ -2943,7 +3138,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 33 de las 88 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 61 contra 0."
     },
     "LYSE": {
-      "corpus": { "conversations": 134, "rows": 1153 },
+      "corpus": { "conversations": 134, "rows": 1161 },
       "evidence": [
         { "gameKey": "quest/024/StmBda205_02474#TEXT_STMBDA205_02474_LYSE_000_013", "lang": "ja", "term": "君" },
         { "gameKey": "quest/024/StmBda104_02449#TEXT_STMBDA104_02449_LYSE_000_045", "lang": "fr", "term": "tu" },
@@ -2956,7 +3151,7 @@
       "why": "El corpus la tutea en 264 filas contra 13, y el francés también, «tu» 52 contra 9. Camarada del jugador desde el principio."
     },
     "MARTYN": {
-      "corpus": { "conversations": 27, "rows": 630 },
+      "corpus": {"conversations": 27, "rows": 627},
       "evidence": [
         { "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_000", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/JobAoz780_04776#TEXT_JOBAOZ780_04776_MARTYN_000_422", "lang": "ja", "term": "君" },
@@ -2969,7 +3164,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 61 de las 91 filas dirigidas al jugador, con keigo en 3; el francés va en «tu», 66 contra 6."
     },
     "MERLWYB": {
-      "corpus": { "conversations": 45, "rows": 709 },
+      "corpus": { "conversations": 48, "rows": 727 },
       "evidence": [
         { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_MERLWYB_000_256", "lang": "ja", "term": "君" },
         { "gameKey": "quest/041/AktKba331_04117#TEXT_AKTKBA331_04117_MERLWYB_000_204", "lang": "ja", "term": "君" },
@@ -2993,20 +3188,54 @@
       "why": "DECIDIDO POR EL JAPONÉS. お前 en 5 de las 15 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 7 contra 2, es el de por defecto."
     },
     "MINFILIA": {
-      "corpus": { "conversations": 94, "rows": 1239 },
+      "corpus": {
+        "conversations": 114,
+        "rows": 1378
+      },
       "evidence": [
-        { "gameKey": "DefaultTalk#590540.22", "lang": "fr", "term": "tu" },
-        { "gameKey": "DefaultTalk#591042.21", "lang": "fr", "term": "tu" },
-        { "gameKey": "DefaultTalk#591044.20", "lang": "fr", "term": "tu" },
-        { "gameKey": "DefaultTalk#591046.20", "lang": "fr", "term": "tu" }
+        {
+          "gameKey": "DefaultTalk#590540.22",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591042.21",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591044.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591046.20",
+          "lang": "fr",
+          "term": "tu"
+        }
       ],
       "player": "tú",
-      "others": { "URIANGER": "usted" },
+      "others": {
+        "URIANGER": "usted"
+      },
       "confidence": "high",
-      "why": "DECIDIDO POR EL FRANCÉS. 94 «tu» contra 7 «vous»; el keigo japonés es su forma de hablar, no distancia con el jugador."
+      "why": "DECIDIDO POR EL FRANCÉS. 94 «tu» contra 7 «vous»; el keigo japonés es su forma de hablar, no distancia con el jugador. Cuando Minfilia es el nombre de la niña que después se llama Ryne, consultar RYNE y conservar su voz. Distinguirla de la Minfilia original y de la Oráculo de la Luz."
     },
     "MIOUNNE": {
-      "corpus": { "conversations": 37, "rows": 377 },
+      "corpus": {"conversations": 31, "rows": 305},
+      "evidence": [
+        { "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_MIOUNNE_000_207", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_230", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_100", "lang": "ja", "term": "君" },
+        { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_040", "lang": "ja", "term": "君" }
+      ],
+      "player": "tú",
+      "others": { "PARSEMONTRET": "tú" },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. 君 en 31 de las 61 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 43 contra 1."
+    },
+    "MOTHERMIOUNNE": {
+      "corpus": { "conversations": 5, "rows": 63 },
       "evidence": [
         { "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_MIOUNNE_000_207", "lang": "ja", "term": "君" },
         { "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_230", "lang": "ja", "term": "君" },
@@ -3032,7 +3261,7 @@
       "voice": "La erre arrastrada del francés, «rendrrre», «camarrrades», NO se importa: solo está en el francés, ni en el inglés ni en el japonés. Misma trampa registrada en NASHUMHAKARACCA."
     },
     "MOMODI": {
-      "corpus": { "conversations": 38, "rows": 410 },
+      "corpus": {"conversations": 36, "rows": 404},
       "evidence": [
         { "gameKey": "quest/045/FesAnv801_04544#TEXT_FESANV801_04544_MOMODI_000_040", "lang": "ja", "term": "君" },
         { "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_118", "lang": "fr", "term": "vous+keigo" },
@@ -3090,7 +3319,7 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Japonés casual sin keigo en sus 33 filas."
     },
     "NANAMOULNAMO": {
-      "corpus": { "conversations": 39, "rows": 472 },
+      "corpus": {"conversations": 41, "rows": 472},
       "evidence": [
         { "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_NANAMOULNAMO_000_065", "lang": "ja", "term": ")>様" },
         { "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_NANAMOULNAMO_000_064", "lang": "ja", "term": "そなた" },
@@ -3103,7 +3332,7 @@
       "why": "113 filas de tú contra 10 de usted; entre las que nombran al jugador, 17 contra 3. DECIDIDO POR EL JAPONÉS LLANO. Ni keigo (1 de 29 filas al jugador) ni pronombre deferente; el francés se reparte, 12 «vous» contra 13, y no decide."
     },
     "NONOTTA": {
-      "corpus": { "conversations": 26, "rows": 358 },
+      "corpus": { "conversations": 26, "rows": 357 },
       "evidence": [
         { "gameKey": "quest/054/FesEsx101_05425#TEXT_FESESX101_05425_NONOTTA_000_200", "lang": "ja", "term": "お客様" },
         { "gameKey": "DefaultTalk#599421.20", "lang": "fr", "term": "vous+keigo" },
@@ -3137,7 +3366,7 @@
       "why": "NI EL JAPONÉS NI EL FRANCÉS DECIDEN: japonés llano, sin keigo ni pronombre, contra un «vous» francés que es el de por defecto. Japonés casual sin keigo; 9 filas al jugador."
     },
     "OMEGA": {
-      "corpus": { "conversations": 12, "rows": 420 },
+      "corpus": { "conversations": 12, "rows": 421 },
       "evidence": [
         { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_002", "lang": "fr", "term": "tu" },
         { "gameKey": "dungeon/000/DungeonOmega2_00000#TEXT_DUNGEONOMEGA2_00000_OMEGA_000_003", "lang": "fr", "term": "tu" },
@@ -3150,7 +3379,7 @@
       "why": "Trata al jugador de sujeto de experimento: usted en todo el hilo de historia, «Soy Omega, y aguardaba su llegada». OJO, SUS FILAS DE COMBATE VAN APARTE: en las incursiones se dirige al grupo entero y ahí usa el plural, y un recuento por hablante sale partido, 92 filas con marca de tú contra 53 de usted, por mezclar las dos cosas. DECIDIDO POR EL FRANCÉS. 12 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 20 de 26, es su forma de hablar."
     },
     "PAPALYMO": {
-      "corpus": { "conversations": 57, "rows": 348 },
+      "corpus": { "conversations": 57, "rows": 347 },
       "evidence": [
         { "gameKey": "quest/038/XxaUse311_03885#TEXT_XXAUSE311_03885_PAPALYMO_000_056", "lang": "ja", "term": "君" },
         { "gameKey": "quest/038/XxaUsa104_03858#TEXT_XXAUSA104_03858_PAPALYMO_000_000", "lang": "ja", "term": "君" },
@@ -3206,7 +3435,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 19 de las 49 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 35 contra 3."
     },
     "RAYAOSENNA": {
-      "corpus": { "conversations": 21, "rows": 416 },
+      "corpus": { "conversations": 21, "rows": 415 },
       "evidence": [
         { "gameKey": "quest/032/LucKbc006_03215#TEXT_LUCKBC006_03215_RAYAOSENNA_000_104", "lang": "ja", "term": "あんた" },
         { "gameKey": "quest/032/LucKbc006_03215#TEXT_LUCKBC006_03215_RAYAOSENNA_000_101", "lang": "ja", "term": "あんた" },
@@ -3218,7 +3447,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 47 filas y solo 2 de keigo; el francés va en «tu», 94 contra 4. El usted que le queda lo dirige al moguri cartero, no al jugador."
     },
     "REDOLENTROSE": {
-      "corpus": { "conversations": 26, "rows": 306 },
+      "corpus": { "conversations": 26, "rows": 305 },
       "evidence": [
         { "gameKey": "quest/005/ClsWvr150_00590#TEXT_CLSWVR150_00590_REDOLENTROSE_003", "lang": "ja", "term": "お客様" },
         { "gameKey": "quest/005/ClsWvr050_00587#TEXT_CLSWVR050_00587_REDOLENTROSE_016", "lang": "ja", "term": "お客様" },
@@ -3231,7 +3460,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. お客様 en 2 de las 132 filas dirigidas al jugador; el «vous» francés, 89 contra 1, es el de por defecto."
     },
     "ROLAND": {
-      "corpus": { "conversations": 7, "rows": 91 },
+      "corpus": { "conversations": 7, "rows": 93 },
       "evidence": [
         { "gameKey": "quest/040/FesGsc503_04056#TEXT_FESGSC503_04056_ROLAND_000_126", "lang": "ja", "term": ")>様" },
         { "gameKey": "quest/040/FesGsc503_04056#TEXT_FESGSC503_04056_ROLAND_000_118", "lang": "ja", "term": ")>様" },
@@ -3282,7 +3511,7 @@
       "why": "46 filas de tú contra 1; el francés tutea 7 contra 2. DECIDIDO POR EL JAPONÉS. あんた en 3 de las 13 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 7 contra 2."
     },
     "RYNE": {
-      "corpus": { "conversations": 112, "rows": 1283 },
+      "corpus": {"conversations": 108, "rows": 1101},
       "evidence": [
         { "gameKey": "custom/006/CtsOpn50Lewrey_00622#TEXT_CTSOPN50LEWREY_00622_RYNE_000_032", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "custom/006/CtsOpn50Lewrey_00622#TEXT_CTSOPN50LEWREY_00622_RYNE_000_321", "lang": "fr", "term": "tu" },
@@ -3331,7 +3560,7 @@
       "why": "Francés «vous» 11 veces contra ninguna y japonés con keigo en 15; el corpus dice usted 14 contra 3. DECIDIDO POR EL JAPONÉS. 殿 tras el nombre del jugador en 9 de las 17 filas dirigidas al jugador; el «vous» francés, 11 contra 0, es el de por defecto."
     },
     "SERENDIPITY": {
-      "corpus": { "conversations": 34, "rows": 475 },
+      "corpus": { "conversations": 34, "rows": 472 },
       "evidence": [
         { "gameKey": "quest/013/FesPdy005_01306#TEXT_FESPDY005_01306_SERENDIPITY_000_053", "lang": "ja", "term": "きみ" },
         { "gameKey": "custom/000/RegWilGldGuild_00068#TEXT_REGWILGLDGUILD_00068_SERENDIPITY_000", "lang": "fr", "term": "vous+keigo" },
@@ -3392,7 +3621,7 @@
       "why": "DECIDIDO POR EL JAPONÉS: お前 y おい al jugador, sin keigo; el «vous» francés es el de por defecto. Arquero áspero: el desprecio va en el léxico. Luciane y él se tutean. DECIDIDO POR EL JAPONÉS. お前 en 2 de las 7 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 5 contra 0, es el de por defecto."
     },
     "SISIPU": {
-      "corpus": { "conversations": 24, "rows": 240 },
+      "corpus": { "conversations": 24, "rows": 241 },
       "evidence": [
         { "gameKey": "quest/002/SubSea923_00246#TEXT_SUBSEA923_00246_SISIPU_000_052", "lang": "ja", "term": "オヌシ" },
         { "gameKey": "custom/000/RegSeaFshGuild_00088#TEXT_REGSEAFSHGUILD_00088_SISIPU_000_010", "lang": "fr", "term": "tu" },
@@ -3471,7 +3700,7 @@
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone 君 al jugador, que es familiar. Y el francés lo tutea."
     },
     "TATARU": {
-      "corpus": { "conversations": 165, "rows": 1300 },
+      "corpus": { "conversations": 164, "rows": 1296 },
       "evidence": [
         { "gameKey": "DefaultTalk#590838.21", "lang": "fr", "term": "tu" },
         { "gameKey": "custom/001/RegWiltheWakingSands_00131#TEXT_REGWILTHEWAKINGSANDS_00131_TATARU_000_010", "lang": "fr", "term": "vous+keigo" },
@@ -3546,7 +3775,7 @@
       "why": "142 filas de tú y ninguna de usted; el francés tutea 28 contra 2."
     },
     "TSUKUMO": {
-      "corpus": { "conversations": 5, "rows": 96 },
+      "corpus": { "conversations": 5, "rows": 97 },
       "evidence": [
         { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TSUKUMO_000_097", "lang": "ja", "term": ")>殿" },
         { "gameKey": "quest/029/BanKjn003_02975#TEXT_BANKJN003_02975_TSUKUMO_000_095", "lang": "ja", "term": ")>殿" },
@@ -3571,7 +3800,7 @@
       "why": "DECIDIDO POR EL FRANCÉS. 6 «tu» contra 0 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 0 de 10, es su forma de hablar."
     },
     "WANDERINGMINSTREL": {
-      "corpus": { "conversations": 47, "rows": 1195 },
+      "corpus": { "conversations": 47, "rows": 1196 },
       "evidence": [
         { "gameKey": "quest/055/FesAnx201_05510#TEXT_FESANX201_05510_WANDERINGMINSTREL_100_001", "lang": "ja", "term": "君" },
         { "gameKey": "quest/055/FesAnx201_05510#TEXT_FESANX201_05510_WANDERINGMINSTREL_000_001", "lang": "ja", "term": "君" },
@@ -3595,7 +3824,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. オヌシ en 3 de las 69 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 51 contra 0."
     },
     "WEDGE": {
-      "corpus": { "conversations": 69, "rows": 397 },
+      "corpus": { "conversations": 69, "rows": 398 },
       "evidence": [
         { "gameKey": "quest/030/StmBdr203_03033#TEXT_STMBDR203_03033_WEDGE_000_120", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/004/GaiUsd601_00494#TEXT_GAIUSD601_00494_WEDGE_000_040", "lang": "fr", "term": "tu" },
@@ -3665,7 +3894,7 @@
       "why": "DECIDIDO POR EL JAPONÉS. 君 en 27 filas, sin keigo, y el francés en «tu», 60 contra 12. A su padre lo trata de usted."
     },
     "YAANA": {
-      "corpus": { "conversations": 18, "rows": 362 },
+      "corpus": { "conversations": 18, "rows": 361 },
       "evidence": [
         { "gameKey": "quest/054/KinGra306_05440#TEXT_KINGRA306_05440_YAANA_000_408", "lang": "ja", "term": "アンタ" },
         { "gameKey": "quest/054/KinGra306_05440#TEXT_KINGRA306_05440_YAANA_000_301", "lang": "ja", "term": "アンタ" },
@@ -3701,7 +3930,7 @@
       "why": "DECIDIDO POR EL FRANCÉS. 95 «tu» contra 1 «vous»; el japonés apenas usa keigo."
     },
     "YSHTOLA": {
-      "corpus": { "conversations": 318, "rows": 3320 },
+      "corpus": {"conversations": 318, "rows": 3321},
       "evidence": [
         { "gameKey": "DefaultTalk#590829.20", "lang": "fr", "term": "tu" },
         { "gameKey": "DefaultTalk#596441.20", "lang": "fr", "term": "tu" },
@@ -3766,7 +3995,17 @@
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Japonés llano sin honorífico ni keigo; el corpus la tenía ya en tú en sus 30 filas."
     },
     "BRADIHILND": {
-      "corpus": { "conversations": 6, "rows": 70 },
+      "corpus": {"conversations": 6, "rows": 32},
+      "evidence": [
+        { "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_BRADIHILND_000_044", "lang": "fr", "term": "vous+keigo" },
+        { "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_BRADIHILND_000_050", "lang": "fr", "term": "vous+keigo" }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Keigo en 2 de sus 3 filas y «vous» francés; el corpus ya la tenía en usted en sus 11 filas."
+    },
+    "BRANDIHILD": {
+      "corpus": { "conversations": 6, "rows": 40 },
       "evidence": [
         { "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_BRADIHILND_000_044", "lang": "fr", "term": "vous+keigo" },
         { "gameKey": "quest/047/ChrHdb841_04754#TEXT_CHRHDB841_04754_BRADIHILND_000_050", "lang": "fr", "term": "vous+keigo" }
@@ -3791,7 +4030,7 @@
       "why": "Entregado en custom/008/RegNot5Claudien_00838: «le agradecería que las compartiera con nosotros», «si alguna vez hay algo en lo que podamos ayudarle». El japonés coincide, 貴方 más です／ます, y se dirige al jugador con さん. Tratamiento: «el profesor Claudien», también entregado. A sus ayudantes, tú."
     },
     "DEIANEIRA": {
-      "corpus": { "conversations": 1, "rows": 14 },
+      "corpus": {"conversations": 1, "rows": 2},
       "player": "usted",
       "others": {
         "ERICHTHONIOS": "tú",
@@ -3892,7 +4131,16 @@
       "why": "LO DECIDE EL JAPONÉS, NO EL FRANCÉS: 「<player>様ですね」, おります y ですます en sus 32 filas. El francés le pone tu, que es su reparto por defecto. DECIDIDO POR EL FRANCÉS. 5 «tu» contra 0 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 3 de 5, es su forma de hablar."
     },
     "HEPHAESTUS": {
-      "corpus": { "conversations": 3, "rows": 10 },
+      "corpus": {"conversations": 1, "rows": 1},
+      "evidence": [
+        { "gameKey": "cut_scene/062/VoiceMan_06201#TEXT_VOICEMAN_06201_000010_HEPHAESTUS", "lang": "ja", "term": "お前" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Se dirige al grupo, no al jugador solo: お前たち en japonés, así que sus filas van en vosotros. Sin honorífico ni keigo."
+    },
+    "HEPHAISTOS": {
+      "corpus": { "conversations": 3, "rows": 9 },
       "evidence": [
         { "gameKey": "cut_scene/062/VoiceMan_06201#TEXT_VOICEMAN_06201_000010_HEPHAESTUS", "lang": "ja", "term": "お前" }
       ],
@@ -3910,7 +4158,7 @@
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone お前 al jugador, que es familiar."
     },
     "JULYAN": {
-      "corpus": { "conversations": 13, "rows": 100 },
+      "corpus": {"conversations": 12, "rows": 92},
       "evidence": [
         { "gameKey": "quest/023/ChrHdb652_02372#TEXT_CHRHDB652_02372_JULYAN_000_028", "lang": "ja", "term": "アンタ" },
         { "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_101_063", "lang": "ja", "term": "アンタ" },
@@ -3922,7 +4170,17 @@
       "why": "Francés tu («Ravie de voir que tu t'entends toujours aussi bien avec mon Hildoudou»), japonés sin 様 ni です. Voz de matriarca de barrio de Ul'dah: el inglés le come las eses finales («yer», «ain't», «afore»), y en español eso se lleva con léxico llano y frases cortas, NO con apócope, que en castellano se lee como falta. DECIDIDO POR EL JAPONÉS. アンタ en 4 de las 9 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 6 contra 1."
     },
     "KOYOKOYO": {
-      "corpus": { "conversations": 8, "rows": 86 },
+      "corpus": {"conversations": 7, "rows": 43},
+      "evidence": [
+        { "gameKey": "quest/048/ChrHdb852_04800#TEXT_CHRHDB852_04800_KOYOKOYO_000_455", "lang": "ja", "term": "キミ" },
+        { "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_KOYOKOYO_000_022", "lang": "ja", "term": "キミ" }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Pronombre familiar en sus 2 filas; el «vous» francés es el de por defecto."
+    },
+    "PUPU": {
+      "corpus": { "conversations": 8, "rows": 43 },
       "evidence": [
         { "gameKey": "quest/048/ChrHdb852_04800#TEXT_CHRHDB852_04800_KOYOKOYO_000_455", "lang": "ja", "term": "キミ" },
         { "gameKey": "quest/047/ChrHdb831_04718#TEXT_CHRHDB831_04718_KOYOKOYO_000_022", "lang": "ja", "term": "キミ" }
@@ -3932,7 +4190,7 @@
       "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. Pronombre familiar en sus 2 filas; el «vous» francés es el de por defecto."
     },
     "LAHABREA": {
-      "corpus": { "conversations": 14, "rows": 338 },
+      "corpus": { "conversations": 23, "rows": 395 },
       "evidence": [
         { "gameKey": "quest/047/AktKra305_04760#TEXT_AKTKRA305_04760_LAHABREA_000_489", "lang": "ja", "term": "お前" },
         { "gameKey": "quest/047/AktKra304_04759#TEXT_AKTKRA304_04759_LAHABREA_000_023", "lang": "ja", "term": "お前" },
@@ -3949,7 +4207,7 @@
       "why": "93 filas entregadas: GaiUsc101_00952 al jugador («ese eres tú»), MANFST503_00524 («No saldrás de este lugar con vida»), VoiceMan_05300 a Elidibus («Te preocupas demasiado, Elidibus»). Tú a todo el mundo. Voz alta y fría, con arcaísmo léxico y sintáctico, «Mas», «pues», «Ni que decir tiene», subjuntivo y futuro de mandato; nunca coloquial. Interjección «Hmpf»."
     },
     "LUGAE": {
-      "corpus": { "conversations": 3, "rows": 22 },
+      "corpus": {"conversations": 3, "rows": 18},
       "evidence": [
         { "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_000_302", "lang": "ja", "term": "貴様" }
       ],
@@ -4036,7 +4294,7 @@
       "why": "SU KEIGO NO CUENTA: es una erudita cortés y lo usa con todo el mundo. Las filas dirigidas al jugador llevan «tu» en francés, y sus «vous» son plurales al grupo. Sin pronombre deferente en japonés."
     },
     "THEMIS": {
-      "corpus": { "conversations": 18, "rows": 424 },
+      "corpus": { "conversations": 18, "rows": 425 },
       "evidence": [
         { "gameKey": "quest/047/AktKra305_04760#TEXT_AKTKRA305_04760_THEMIS_000_443", "lang": "ja", "term": "君" },
         { "gameKey": "quest/047/AktKra304_04759#TEXT_AKTKRA304_04759_THEMIS_000_552", "lang": "ja", "term": "君" },
@@ -4052,7 +4310,7 @@
       "why": "VoiceMan_06401 está entregado y lo trata de tú: «Confieso que llevo mucho meditando cómo enfrentarme a ti», «No habría llegado hasta aquí sin ti, amigo». Concuerda con francés tu 83 contra vous 7 y japonés 君; los siete vous son plurales o van al portavoz de los Escritos, a quien trata de usted. OJO: en japonés trata a Lahabrea de あなた, no de お前, y el francés le da tu. Voz cortés, algo teatral, curiosa; frases medidas, ironía suave."
     },
     "WATCHEROFMOON": {
-      "corpus": { "conversations": 15, "rows": 177 },
+      "corpus": {"conversations": 11, "rows": 82},
       "evidence": [
         { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_328", "lang": "ja", "term": "貴殿" },
         { "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_319", "lang": "ja", "term": "貴殿" },
@@ -4064,7 +4322,7 @@
       "why": "139 filas entregadas en AktKmb117-119, AktKmc101-102, AktKmc109, AktKmk106-107 y AktKml106, todas tú en singular («si pretendes evitar los Días Finales», «el familiar que conociste antes») y vosotros solo donde se dirige al grupo («si me permitís descansar», «Seguidme»). Cero «usted». Francés tu y japonés 貴殿 coinciden."
     },
     "CARNELIAN": {
-      "corpus": { "conversations": 4, "rows": 33 },
+      "corpus": { "conversations": 4, "rows": 31 },
       "player": "tú",
       "confidence": "high",
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone お前たち al jugador, que es familiar. Se dirige al grupo, así que sus filas van en vosotros."
@@ -4094,7 +4352,7 @@
       "why": "Misma voz que su gemela [[ELSEBEEIRONHEART]]: japonés 君, 私, ～かい. Tampoco hereda el usted de Babeth. DECIDIDO POR EL JAPONÉS. 君 en 4 de las 10 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 7 contra 0, es el de por defecto."
     },
     "HARDIBOILED": {
-      "corpus": { "conversations": 9, "rows": 441 },
+      "corpus": { "conversations": 9, "rows": 440 },
       "evidence": [
         { "gameKey": "quest/054/ChrHdb952_05482#TEXT_CHRHDB952_05482_HARDIBOILED_000_504", "lang": "ja", "term": "アンタ" },
         { "gameKey": "quest/054/ChrHdb942_05447#TEXT_CHRHDB942_05447_HARDIBOILED_000_226", "lang": "ja", "term": "アンタ" },
@@ -4110,7 +4368,7 @@
       "why": "LO DECIDE EL JAPONÉS Y EL FRANCÉS ES JUSTO LA FUENTE QUE SE DESCARTA, el caso Varshahn. Sobre sus 260 filas: 俺 70, terminaciones llanas (だな 26, だぜ 10, だろ 9), お前 7, アンタ recurrente, ます una sola vez, y cero あなた y cero 君. El francés dice vous 105 contra tu 29. Tú con todo el mundo y vosotros al grupo. QUE ÉL TUTEE NO OBLIGA A LO CONTRARIO: Hildibrand y Nashu le hablan de usted, medido aparte. Voz de novela negra, frases cortas y léxico de calle. TRAMPA DE CLAVE: ChrHdb922_05296 _000_520 y _000_521 llevan su clave y son de Hildibrand (ja ですぞ, 窃盗犯殿)."
     },
     "KEMAKKA": {
-      "corpus": { "conversations": 5, "rows": 46 },
+      "corpus": { "conversations": 5, "rows": 48 },
       "player": "tú",
       "confidence": "high",
       "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. El japonés le pone お前さん al jugador, que es familiar."
@@ -4589,6 +4847,21 @@
         }
       ]
     },
+    "VENAT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. El francés tutea; あなた y la cortesía japonesa no marcan deferencia.",
+      "examples": [
+        "quest/044/AktKme115_04433#TEXT_AKTKME115_04433_VENAS_000_052"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/044/AktKme115_04433#TEXT_AKTKME115_04433_VENAS_000_052",
+          "lang": "fr",
+          "term": "ton"
+        }
+      ]
+    },
     "AMELIANCE": {
       "player": "usted",
       "others": {
@@ -4664,6 +4937,26 @@
       ]
     },
     "VRITRA": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. 君 y tuteo francés; conservar la voz solemne en el léxico.",
+      "examples": [
+        "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_007700_VRITRA"
+      ],
+      "evidence": [
+        {
+          "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_007700_VRITRA",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "cut_scene/060/VoiceMan_06000#TEXT_VOICEMAN_06000_007700_VRITRA",
+          "lang": "fr",
+          "term": "toi"
+        }
+      ]
+    },
+    "VRTRA": {
       "player": "tú",
       "confidence": "high",
       "why": "Tú al jugador. 君 y tuteo francés; conservar la voz solemne en el léxico.",
@@ -4870,6 +5163,39 @@
         "SHANTOTTO": "usted"
       }
     },
+    "VORSAILEHEULOIX": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador y a Sanson, con 君 y habla llana. Usted a Shantotto al pedirle explicaciones sobre su identidad y procedencia.",
+      "examples": [
+        "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_054",
+        "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_332",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_027",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_033"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+          "lang": "fr",
+          "term": "vous"
+        },
+        {
+          "gameKey": "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_054",
+          "lang": "ja",
+          "term": "君"
+        }
+      ],
+      "others": {
+        "SANSON": "tú",
+        "SHANTOTTO": "usted"
+      }
+    },
     "WILRED": {
       "player": "tú",
       "confidence": "high",
@@ -5020,7 +5346,7 @@
         }
       ]
     },
-    "LIVIA": {
+    "LIVIASASJUNIUS": {
       "player": "tú",
       "others": {
         "MINFILIA": "tú",
@@ -5045,6 +5371,21 @@
       ]
     },
     "MARQUEZ": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. お前, peticiones llanas y tuteo francés; la vacilación al hablar no implica usted.",
+      "examples": [
+        "quest/008/GaiUsb502_00871#TEXT_GAIUSB502_00871_MARQUEZ_000_012"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/008/GaiUsb502_00871#TEXT_GAIUSB502_00871_MARQUEZ_000_012",
+          "lang": "fr",
+          "term": "Tu"
+        }
+      ]
+    },
+    "MARQUES": {
       "player": "tú",
       "confidence": "high",
       "why": "Tú al jugador. お前, peticiones llanas y tuteo francés; la vacilación al hablar no implica usted.",
@@ -5300,6 +5641,26 @@
       ]
     },
     "RASHAHT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. キミ y tuteo francés en las misiones del Maelstrom; separar el plural de los relatos históricos.",
+      "examples": [
+        "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Rashaht_000"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Rashaht_000",
+          "lang": "ja",
+          "term": "キミ"
+        },
+        {
+          "gameKey": "quest/007/SubSea910_00701#TEXT_SUBSEA910_00701_Rashaht_000",
+          "lang": "fr",
+          "term": "tes"
+        }
+      ]
+    },
+    "RASHAHTRHIKI": {
       "player": "tú",
       "confidence": "high",
       "why": "Tú al jugador. キミ y tuteo francés en las misiones del Maelstrom; separar el plural de los relatos históricos.",
@@ -5587,7 +5948,30 @@
         "CID": "tú"
       },
       "confidence": "high",
-      "why": "Tú al jugador y a Cid. うぬ y 貴様, con tuteo francés; vosotros al grupo.",
+      "why": "Tú al jugador y a Cid. うぬ y 貴様, con tuteo francés; vosotros al grupo. En las escenas donde aparece como Shadowhunter, conservar las reglas de voz e interlocutores de SHADOWHUNTER.",
+      "examples": [
+        "quest/005/ManFst503_00524#TEXT_MANFST503_00524_GAIUS_000_352"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/005/ManFst503_00524#TEXT_MANFST503_00524_GAIUS_000_352",
+          "lang": "ja",
+          "term": "うぬ"
+        },
+        {
+          "gameKey": "quest/005/ManFst503_00524#TEXT_MANFST503_00524_GAIUS_000_352",
+          "lang": "fr",
+          "term": "toi"
+        }
+      ]
+    },
+    "GAIUSVANBAELSAR": {
+      "player": "tú",
+      "others": {
+        "CID": "tú"
+      },
+      "confidence": "high",
+      "why": "Tú al jugador y a Cid. うぬ y 貴様, con tuteo francés; vosotros al grupo. En las escenas donde aparece como Shadowhunter, conservar las reglas de voz e interlocutores de SHADOWHUNTER.",
       "examples": [
         "quest/005/ManFst503_00524#TEXT_MANFST503_00524_GAIUS_000_352"
       ],
@@ -5647,6 +6031,29 @@
       "evidence": []
     },
     "EYNZAHRSLAFYRSYN": {
+      "player": "tú",
+      "others": {
+        "MERLWYB": "usted"
+      },
+      "confidence": "high",
+      "why": "Tú al jugador, con お前 y tuteo francés; usted a Merlwyb en servicio.",
+      "examples": [
+        "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_084"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_084",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/040/LucKmj109_04015#TEXT_LUCKMJ109_04015_EYNZAHRSLAFYRSYN_000_084",
+          "lang": "fr",
+          "term": "toi"
+        }
+      ]
+    },
+    "EYNZAHR": {
       "player": "tú",
       "others": {
         "MERLWYB": "usted"
@@ -5838,10 +6245,7 @@
     },
     "ILBERD": {
       "player": "tú",
-      "others": {
-        "ROAILLE": "tú",
-        "ALPHINAUD": "tú"
-      },
+      "others": { "ROAILLE": "tú", "ALPHINAUD": "tú", "ELINEROAILLE": "tú" },
       "confidence": "high",
       "why": "Tú al jugador, a Alphinaud y a Roaille. あんた al jugador; お前 a Roaille al acusarla, sin deferencia.",
       "examples": [
@@ -5866,7 +6270,41 @@
       "examples": [],
       "evidence": []
     },
+    "ELINEROAILLE": {
+      "player": "tú",
+      "others": {
+        "ALPHINAUD": "tú",
+        "RAUBAHN": "usted"
+      },
+      "confidence": "low",
+      "why": "Tú a Alphinaud y usted a Raubahn. Trato al jugador provisional: su único saludo combina cortesía y amistad, sin una marca que decida el pronombre.",
+      "examples": [],
+      "evidence": []
+    },
     "PIPPIN": {
+      "player": "usted",
+      "others": {
+        "ALPHINAUD": "usted"
+      },
+      "confidence": "high",
+      "why": "Usted al jugador y a Alphinaud. 殿 y あなた al jugador; アルフィノ殿 con cortesía y vous al joven.",
+      "examples": [
+        "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_031"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_031",
+          "lang": "ja",
+          "term": "殿"
+        },
+        {
+          "gameKey": "quest/004/GaiUse615_00427#TEXT_GAIUSE615_00427_PIPPIN_000_031",
+          "lang": "fr",
+          "term": "vous"
+        }
+      ]
+    },
+    "PIPIN": {
       "player": "usted",
       "others": {
         "ALPHINAUD": "usted"
@@ -5993,6 +6431,26 @@
       ]
     },
     "UODHNUN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. お前 y てめぇ, con tuteo francés; conservar la voz áspera.",
+      "examples": [
+        "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_UODHNUN_000_042"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_UODHNUN_000_042",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/008/GaiUsb314_00855#TEXT_GAIUSB314_00855_UODHNUN_000_042",
+          "lang": "fr",
+          "term": "Tu"
+        }
+      ]
+    },
+    "UODHNUNH": {
       "player": "tú",
       "confidence": "high",
       "why": "Tú al jugador. お前 y てめぇ, con tuteo francés; conservar la voz áspera.",
@@ -6221,6 +6679,26 @@
         }
       ]
     },
+    "YOZAN": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. ねえちゃん o にいちゃん y habla infantil llana; vous francés no implica distancia.",
+      "examples": [
+        "custom/005/CtsDomReconstructIhase_00527#TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_067"
+      ],
+      "evidence": [
+        {
+          "gameKey": "custom/005/CtsDomReconstructIhase_00527#TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_067",
+          "lang": "ja",
+          "term": "ねえちゃん"
+        },
+        {
+          "gameKey": "custom/005/CtsDomReconstructIhase_00527#TEXT_CTSDOMRECONSTRUCTIHASE_00527_YOUZAN_000_067",
+          "lang": "fr",
+          "term": "vous"
+        }
+      ]
+    },
     "OWYNE": {
       "player": "tú",
       "confidence": "high",
@@ -6290,9 +6768,7 @@
     },
     "REYNER": {
       "player": "tú",
-      "others": {
-        "BADERON": "tú"
-      },
+      "others": { "BADERON": "tú", "BADERONTENFINGERS": "tú" },
       "confidence": "high",
       "why": "Tú al jugador y a Baderon. 君 al jugador y Laisse-moi a Baderon; el tratamiento maese no cambia el pronombre.",
       "examples": [
@@ -6430,6 +6906,1419 @@
           "term": "アナタ"
         }
       ]
+    },
+    "AGDISTIS": {
+      "corpus": {"conversations": 1, "rows": 12},
+      "player": "usted",
+      "others": {
+        "ERICHTHONIOS": "tú",
+        "LAHABREA": "usted"
+      },
+      "confidence": "high",
+      "why": "SIN NINGUNA FILA ATRIBUIBLE AL JUGADOR: no se puede recomprobar sola tras un parche, así que se leyó entera. Japonés cortés sin pronombre familiar y «vous» francés. Esta entrada corresponde a DEIANEIRA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/046/AktKra204_04638#TEXT_AKTKRA204_04638_DEIANEIRA_000_502",
+        "quest/046/AktKra204_04638#TEXT_AKTKRA204_04638_DEIANEIRA_000_503",
+        "quest/046/AktKra204_04638#TEXT_AKTKRA204_04638_DEIANEIRA_000_505"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/046/AktKra204_04638#TEXT_AKTKRA204_04638_DEIANEIRA_000_502",
+          "lang": "en",
+          "term": "If only I could restore Tartaros to order...but I am afraid this is the most I can manage with such power as remains to me."
+        },
+        {
+          "gameKey": "quest/046/AktKra204_04638#TEXT_AKTKRA204_04638_DEIANEIRA_000_503",
+          "lang": "en",
+          "term": "It has been too long, Master Lahabrea."
+        }
+      ]
+    },
+    "AIRSHIPCREWMAN": {
+      "corpus": {"conversations": 3, "rows": 15},
+      "evidence": [
+        {
+          "gameKey": "quest/045/StmBdr601_04586#TEXT_STMBDR601_04586_BIGGS_000_071",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/044/AktKmg101_04450#TEXT_AKTKMG101_04450_BIGGS_000_296",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/032/FesPdy502_03209#TEXT_FESPDY502_03209_BIGGS_000_011",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/030/StmBdr204_03034#TEXT_STMBDR204_03034_BIGGS_000_000",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_51",
+          "lang": "en",
+          "term": "After years of work, she was finally ready for her first test flight. And she was <italic(1)>soaring<italic(0)>, she really was─till those bastards blasted her out of the sky!"
+        }
+      ],
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Aplicar BIGGS al tripulante de ManSea302 identificado en la evidencia. Otros tripulantes son NPC distintos; consultar el contexto de su propia escena. No asignarles globalmente el registro o la voz de Biggs.",
+      "examples": [
+        "quest/006/ManSea302_00681#TEXT_MANSEA302_00681_BIGGS_000_51"
+      ]
+    },
+    "ASCIANPRIME": {
+      "corpus": {"conversations": 3, "rows": 23},
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Para la fusión de Gaia y Mitron en LucKra303, aplicar GAIAPRIME. La fusión de Lahabrea e Igeyorhm en A Realm Reborn es otra identidad; consultar las reglas de sus componentes y su destinatario. No trasladar la voz de Gaia a toda aparición de Ascian prime.",
+      "examples": [
+        "quest/039/LucKra303_03977#TEXT_LUCKRA303_03977_GAIAPRIME_000_228",
+        "quest/039/LucKra303_03977#TEXT_LUCKRA303_03977_GAIAPRIME_000_230",
+        "quest/039/LucKra303_03977#TEXT_LUCKRA303_03977_GAIAPRIME_000_260"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/039/LucKra303_03977#TEXT_LUCKRA303_03977_GAIAPRIME_000_228",
+          "lang": "en",
+          "term": "We are one. We remember."
+        },
+        {
+          "gameKey": "quest/039/LucKra303_03977#TEXT_LUCKRA303_03977_GAIAPRIME_000_230",
+          "lang": "en",
+          "term": "The girl you once knew is no more. The Ascian who held the seat of Loghrif is all that remains. Gaia is her true name."
+        }
+      ]
+    },
+    "BLACKLOTUS": {
+      "corpus": {"conversations": 2, "rows": 5},
+      "evidence": [
+        {
+          "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_083",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_065",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/032/LucKbc001_03210#TEXT_LUCKBC001_03210_ALDIS_000_032",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/025/JobPld700_02575#TEXT_JOBPLD700_02575_ALDIS_000_067",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_ALDIS_000_050",
+          "lang": "en",
+          "term": "You can threaten me all you like, but I ain't pulling out. It's poor form, see?"
+        },
+        {
+          "gameKey": "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_ALDIS_000_052",
+          "lang": "en",
+          "term": "You bastard!"
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "MYLLA": "tú"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. お前 en 14 de las 39 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 30 contra 2. Esta entrada corresponde a ALDIS bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_ALDIS_000_050",
+        "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_ALDIS_000_052",
+        "quest/025/JobPld650_02573#TEXT_JOBPLD650_02573_ALDIS_000_054"
+      ]
+    },
+    "DELIVERYMOOGLE": {
+      "corpus": {"conversations": 1, "rows": 11},
+      "evidence": [
+        {
+          "gameKey": "quest/015/SubPst015_01575#TEXT_SUBPST015_01575_LETTERMOOGLE_000_003",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/015/SubPst015_01575#TEXT_SUBPST015_01575_LETTERMOOGLE_000_000",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/015/SubPst012_01572#TEXT_SUBPST012_01572_LETTERMOOGLE_000_000",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/015/SubPst010_01570#TEXT_SUBPST010_01570_LETTERMOOGLE_000_062",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_000_014",
+          "lang": "en",
+          "term": "I am most profusely, profoundly sorry for the terrible inconvenience I have caused. You may rest assured that the offending moogle has been flogged several times with a large harbor herring as due punishment for his negligence. Kupo-ow-ow..."
+        },
+        {
+          "gameKey": "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_000_015",
+          "lang": "en",
+          "term": "You have my word that we delivery moogles shall redouble─retriple, even!─our efforts to ensure that no precious parcel or missive ever again goes astray. Behold, for I shall now perform for you the moogle dance of inimitable integrity!"
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. 君 en 22 de las 51 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 47 contra 0. Esta entrada corresponde a LETTERMOOGLE bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_000_014",
+        "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_000_015",
+        "quest/014/SubPst000_01481#TEXT_SUBPST000_01481_LETTERMOOGLE_000_019"
+      ]
+    },
+    "GOLDOR": {
+      "corpus": {"conversations": 1, "rows": 3},
+      "evidence": [
+        {
+          "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_000",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/047/JobAoz780_04776#TEXT_JOBAOZ780_04776_MARTYN_000_422",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/047/JobAoz780_04776#TEXT_JOBAOZ780_04776_MARTYN_000_021",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/047/JobAoz750_04775#TEXT_JOBAOZ750_04775_MARTYN_000_021",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_207",
+          "lang": "en",
+          "term": "That sounds a mite unfair, don't you think?"
+        },
+        {
+          "gameKey": "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_210",
+          "lang": "en",
+          "term": "Miserly...?"
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "PYANDIH": "tú"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. 君 en 61 de las 91 filas dirigidas al jugador, con keigo en 3; el francés va en «tu», 66 contra 6. Esta entrada corresponde a MARTYN bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_207",
+        "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_210",
+        "quest/047/JobAoz800_04777#TEXT_JOBAOZ800_04777_MARTYN_000_212"
+      ]
+    },
+    "HADES": {
+      "player": "tú",
+      "others": {
+        "HERMES": "tú"
+      },
+      "confidence": "high",
+      "why": "Tú al jugador y a Hermes. お前 y tuteo francés; el plural y la cortesía a Vauthry tienen otros destinatarios. Esta entrada corresponde a EMETSELCH bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_EMETSELCH_000_020",
+        "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_003380_EMETSELCH",
+        "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_003390_EMETSELCH",
+        "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_003400_EMETSELCH"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_EMETSELCH_000_020",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/044/AktKme117_04435#TEXT_AKTKME117_04435_EMETSELCH_000_020",
+          "lang": "fr",
+          "term": "Toi"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_003380_EMETSELCH",
+          "lang": "en",
+          "term": "I...will...not...yield."
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05005#TEXT_VOICEMAN_05005_003390_EMETSELCH",
+          "lang": "en",
+          "term": "Should I surrender this fight, what will become of it all...?"
+        }
+      ],
+      "corpus": {"conversations": 2, "rows": 8}
+    },
+    "HOODEDLALAFELL": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador, como Nanamo. Japonés llano con じゃ y órdenes directas; usted sólo en fórmulas dirigidas al antepasado. Esta entrada corresponde a LILILA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000050_LILILA",
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_LILILA_000_15",
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000010_LILILA",
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000020_LILILA"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000050_LILILA",
+          "lang": "ja",
+          "term": "放っておけ"
+        },
+        {
+          "gameKey": "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_LILILA_000_15",
+          "lang": "en",
+          "term": "O Sultantree..."
+        },
+        {
+          "gameKey": "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000010_LILILA",
+          "lang": "en",
+          "term": "O Sultantree, hallowed spirit of my line, forgive my weakness. My failings have cost us dear..."
+        }
+      ],
+      "corpus": {"conversations": 1, "rows": 3}
+    },
+    "INNOCENCE": {
+      "player": "tú",
+      "others": {
+        "MYSTERYVOICE": "tú",
+        "CRYSTALEXARCH": "tú"
+      },
+      "confidence": "high",
+      "why": "Tú al jugador y al Exarca, también bajo MYSTERYVOICE. お前 y tu; vosotros al grupo. Esta entrada corresponde a VAUTHRY bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_003190_VAUTHRY",
+        "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_003690_VAUTHRY",
+        "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_003700_VAUTHRY",
+        "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_003710_VAUTHRY"
+      ],
+      "evidence": [
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_003190_VAUTHRY",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_003190_VAUTHRY",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_003690_VAUTHRY",
+          "lang": "en",
+          "term": "Why? Why am <italic(1)>I<italic(0)> cast down...when it is <italic(1)>you<italic(0)> who are the villains?"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05004#TEXT_VOICEMAN_05004_003700_VAUTHRY",
+          "lang": "en",
+          "term": "Father told me...that I am hope. I am righteousness. That I am...a <italic(1)>god<italic(0)>..."
+        }
+      ],
+      "corpus": {"conversations": 2, "rows": 7}
+    },
+    "KNIGHTEXEMPLAR": {
+      "corpus": {"conversations": 1, "rows": 14},
+      "evidence": [
+        {
+          "gameKey": "quest/038/XxaUsb808_03868#TEXT_XXAUSB808_03868_HAURCHEFANT_000_054",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/015/HeaVna118_01597#TEXT_HEAVNA118_01597_HAURCHEFANT_000_053",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_226",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_221",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_211",
+          "lang": "en",
+          "term": "Well, if you cannot name me, I have no name to claim! The helm I bought off a passing adventurer. It has a certain...vigor that appealed to me."
+        },
+        {
+          "gameKey": "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_212",
+          "lang": "en",
+          "term": "Esteemed visitor from the East, I have the honor to have been born under the unicorn sigil of a proud house. Horn or no, I know the love you bear for the mount of your homeland."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. お前 en 11 de las 29 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 18 contra 4. Esta entrada corresponde a HAURCHEFANT bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_211",
+        "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_212",
+        "quest/012/FesNyr005_01296#TEXT_FESNYR005_01296_HAURCHEFANT_000_213"
+      ]
+    },
+    "LANGUIDCHICKEN": {
+      "corpus": {"conversations": 2, "rows": 6},
+      "evidence": [
+        {
+          "gameKey": "quest/045/FesAnv801_04544#TEXT_FESANV801_04544_MOMODI_000_040",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/003/SubWil066_00320#TEXT_SUBWIL066_00320_MOMODI_000_118",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "quest/006/ManFst205_00660#TEXT_MANFST205_00660_MOMODI_000_10",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "quest/006/ManWil008_00641#TEXT_MANWIL008_00641_MOMODI_000_20",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_031",
+          "lang": "en",
+          "term": "And seein' how the Dreamers always do such a nice job of decoratin' Ul'dah, I figured this was the perfect chance for me to return the favor."
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_033",
+          "lang": "en",
+          "term": "Oooh, those are just darlin', ain't they? Not exactly a match for the Quicksand's decor, though, so I might need to keep 'em in my room..."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "CORREGIDO DESDE «usted», QUE VENÍA SIN FILAS CITADAS. La posadera del Arenal, maternal con el recién llegado: el inglés le da «younglin'», el japonés あなた con formas llanas y femeninas, の/わ/かしら, y cero keigo en 88 filas al jugador. El francés dice «vous» 77 contra 3 y es el «vous» por defecto que el encabezado de este fichero advierte. Lo zanjan sus dos homólogas: [[MIOUNNE]] y [[BADERON]], los otros dos recepcionistas de gremio, van de tú sin una sola fila de usted en el corpus, y a ellos el francés sí los tutea. Esta entrada corresponde a MOMODI bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_031",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_033",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MOMODI_000_036"
+      ]
+    },
+    "LILIRA": {
+      "corpus": {"conversations": 3, "rows": 21},
+      "evidence": [
+        {
+          "gameKey": "quest/046/AktKva101_04646#TEXT_AKTKVA101_04646_NANAMOULNAMO_000_065",
+          "lang": "ja",
+          "term": ")>様"
+        },
+        {
+          "gameKey": "quest/031/StmBdf104_03182#TEXT_STMBDF104_03182_NANAMOULNAMO_000_064",
+          "lang": "ja",
+          "term": "そなた"
+        },
+        {
+          "gameKey": "quest/029/StmBdb111_02972#TEXT_STMBDB111_02972_NANAMOULNAMO_000_120",
+          "lang": "ja",
+          "term": "そなた"
+        },
+        {
+          "gameKey": "quest/029/StmBdb109_02970#TEXT_STMBDB109_02970_NANAMOULNAMO_000_002",
+          "lang": "ja",
+          "term": "そなた"
+        },
+        {
+          "gameKey": "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000050_LILILA",
+          "lang": "en",
+          "term": "I don't recall requesting an escort! Simply pretend we never met and continue on your way."
+        },
+        {
+          "gameKey": "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_300200_LILILA",
+          "lang": "en",
+          "term": "Would you mind telling me what that was?"
+        }
+      ],
+      "others": {
+        "RAUBAHN": "tú"
+      },
+      "player": "tú",
+      "confidence": "high",
+      "why": "113 filas de tú contra 10 de usted; entre las que nombran al jugador, 17 contra 3. DECIDIDO POR EL JAPONÉS LLANO. Ni keigo (1 de 29 filas al jugador) ni pronombre deferente; el francés se reparte, 12 «vous» contra 13, y no decide. Esta entrada corresponde a NANAMOULNAMO bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_000050_LILILA",
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_300200_LILILA",
+        "quest/005/ManWil005_00550#TEXT_MANWIL005_00550_300220_LILILA"
+      ]
+    },
+    "MASKEDMAN": {
+      "corpus": {"conversations": 4, "rows": 23},
+      "evidence": [
+        {
+          "gameKey": "DefaultTalk#596513.20",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "custom/001/RegWilSandsUrianger_00139#TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_000",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "custom/001/RegWilSandsUrianger_00139#TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_012",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "custom/001/RegWilSandsUrianger_00139#TEXT_REGWILSANDSURIANGER_00139_URIANGER_000_072",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001420_URIANGER",
+          "lang": "en",
+          "term": "To what end dost thou cling to the tainted gifts of the Mother?"
+        },
+        {
+          "gameKey": "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001450_URIANGER",
+          "lang": "en",
+          "term": "The seeds sown in Vylbrand have been plucked from the earth and left to wither."
+        }
+      ],
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Aplicar URIANGER únicamente al hombre enmascarado de VoiceMan_03400 y a sus escenas identificadas. Los hombres enmascarados de JobMnk650 y JobBrd650 son otros personajes; determinar su trato por destinatario. No usar esta entrada como trato global de personas enmascaradas.",
+      "examples": [
+        "quest/011/GaiUse118_01192#TEXT_GAIUSE118_01192_URIANGER_000_010",
+        "quest/011/GaiUse118_01192#TEXT_GAIUSE118_01192_URIANGER_000_014",
+        "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001420_URIANGER",
+        "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001450_URIANGER",
+        "cut_scene/034/VoiceMan_03400#TEXT_VOICEMAN_03400_001460_URIANGER"
+      ]
+    },
+    "MENENIUSREMLANATUS": {
+      "corpus": {"conversations": 1, "rows": 2},
+      "player": "usted",
+      "confidence": "high",
+      "why": "Bozja: tribuno garleano, frío y aristocrático. Tutea a sus subordinados y pares. Esta entrada corresponde a MENENIUS bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MENENIUS_000_320",
+        "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MENENIUS_000_322"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MENENIUS_000_320",
+          "lang": "en",
+          "term": "Our spies at the Gangos encampment have confirmed work on the blades of Gunnhildr is underway."
+        },
+        {
+          "gameKey": "quest/038/LucKsa003_03836#TEXT_LUCKSA003_03836_MENENIUS_000_322",
+          "lang": "en",
+          "term": "Understood."
+        }
+      ]
+    },
+    "MIQOTEMENDER": {
+      "corpus": {"conversations": 1, "rows": 8},
+      "evidence": [
+        {
+          "gameKey": "DefaultTalk#601111.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/005/FesEst101_00556#TEXT_FESEST101_00556_JIHLIALIAPOH_000_010",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/005/FesEst101_00556#TEXT_FESEST101_00556_JIHLIALIAPOH_000_015",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/005/FesEst101_00556#TEXT_FESEST101_00556_JIHLIALIAPOH_000_020",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_073",
+          "lang": "en",
+          "term": "Oh, Riggy, my poor friend. Lie still, and I'll have you mended in a moment..."
+        },
+        {
+          "gameKey": "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_075",
+          "lang": "en",
+          "term": "From your actions, I assume the two of you are on the trail of the missing eggs?"
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 82 «tu» contra 6 «vous» en filas al jugador; el japonés no usa ni pronombre ni keigo. Esta entrada corresponde a JIHLIALIAPOH bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_073",
+        "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_075",
+        "quest/030/FesEst401_03079#TEXT_FESEST401_03079_JIHLIALIAPOH_000_076"
+      ]
+    },
+    "OCTOBEARD": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. お前 y voz coloquial, con tuteo francés; mantener el trato también al suplicar. Esta entrada corresponde a TRACHTOUM bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_004",
+        "quest/047/JobAoz730_04774#TEXT_JOBAOZ730_04774_TRACHTOUM_000_143",
+        "quest/047/JobAoz730_04774#TEXT_JOBAOZ730_04774_TRACHTOUM_000_145",
+        "quest/047/JobAoz730_04774#TEXT_JOBAOZ730_04774_TRACHTOUM_000_146"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_004",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/008/GaiUsb003_00810#TEXT_GAIUSB003_00810_TRACHTOUM_000_004",
+          "lang": "fr",
+          "term": "tes"
+        },
+        {
+          "gameKey": "quest/047/JobAoz730_04774#TEXT_JOBAOZ730_04774_TRACHTOUM_000_143",
+          "lang": "en",
+          "term": "Huh!? I-It's you!"
+        },
+        {
+          "gameKey": "quest/047/JobAoz730_04774#TEXT_JOBAOZ730_04774_TRACHTOUM_000_145",
+          "lang": "en",
+          "term": "I...er...ahem! I don't care for yer tone, ye preenin' little shite!"
+        }
+      ],
+      "corpus": {"conversations": 1, "rows": 4}
+    },
+    "ORACLEOFLIGHT": {
+      "corpus": {"conversations": 3, "rows": 38},
+      "evidence": [
+        {
+          "gameKey": "DefaultTalk#590540.22",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591042.21",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591044.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591046.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_000280_MINFILIA",
+          "lang": "en",
+          "term": "Your time has not yet come."
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05003#TEXT_VOICEMAN_05003_002490_MINFILIA",
+          "lang": "en",
+          "term": "(EFFORT GRUNT)"
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "URIANGER": "usted"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 94 «tu» contra 7 «vous»; el keigo japonés es su forma de hablar, no distancia con el jugador. Esta entrada corresponde a MINFILIA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_000280_MINFILIA",
+        "cut_scene/050/VoiceMan_05003#TEXT_VOICEMAN_05003_002490_MINFILIA",
+        "cut_scene/050/VoiceMan_05003#TEXT_VOICEMAN_05003_002500_MINFILIA"
+      ]
+    },
+    "OUTLANDISHMAN": {
+      "corpus": {"conversations": 1, "rows": 5},
+      "evidence": [
+        {
+          "gameKey": "quest/030/StmBdr201_03031#TEXT_STMBDR201_03031_NERO_000_045",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/029/StmBdr106_02933#TEXT_STMBDR106_02933_NERO_000_182",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/017/GaiUsx201_01709#TEXT_GAIUSX201_01709_NERO_000_000",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/011/GaiUsd201_01199#TEXT_GAIUSD201_01199_NERO_000_000",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/012/GaiUsd205_01203#TEXT_GAIUSD205_01203_NERO_000_040",
+          "lang": "en",
+          "term": "Such a terrible mess. Yet it does leave the door wide open, so to speak."
+        },
+        {
+          "gameKey": "quest/012/GaiUsd205_01203#TEXT_GAIUSD205_01203_NERO_000_041",
+          "lang": "en",
+          "term": "One cannot help but be impressed. I'm beginning to understand the reliance you place on adventurers, old friend."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "Nero tol Scaeva. Tuteo en 17 filas contra 3 de usted, y esas tres son a Rhitahtyn, un oficial garleano, no al jugador. Sardónico y teatral; a Cid le llama «Garlond». Esta entrada corresponde a NERO bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/012/GaiUsd205_01203#TEXT_GAIUSD205_01203_NERO_000_040",
+        "quest/012/GaiUsd205_01203#TEXT_GAIUSD205_01203_NERO_000_041",
+        "quest/012/GaiUsd205_01203#TEXT_GAIUSD205_01203_NERO_000_042"
+      ]
+    },
+    "REFINEDRABBIT": {
+      "corpus": {"conversations": 5, "rows": 28},
+      "evidence": [
+        {
+          "gameKey": "quest/040/LucKml102_04065#TEXT_LUCKML102_04065_KANESENNA_000_212",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/016/HeaVna323_01624#TEXT_HEAVNA323_01624_KANESENNA_000_026",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/014/HeaVnz027_01477#TEXT_HEAVNZ027_01477_KANESENNA_000_050",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/014/HeaVnz027_01477#TEXT_HEAVNZ027_01477_KANESENNA_000_043",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_020",
+          "lang": "en",
+          "term": "Greetings. We have come to report the completion of our part in the decorations."
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_021",
+          "lang": "en",
+          "term": "'Tis a joyful duty to assist with the Hatching<-->tide adornments, knowing that every inhabitant of Gridania might enjoy the festivities. I hope you, too, will take a moment to join in this rare chance for revelry."
+        }
+      ],
+      "player": "usted",
+      "confidence": "high",
+      "why": "Usted al jugador. Los plurales de la plegaria se dirigen a los espíritus. Esta entrada corresponde a KANESENNA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/040/AktKba101_04102#TEXT_AKTKBA101_04102_KANESENNA_000_094",
+        "quest/040/AktKba131_04105#TEXT_AKTKBA131_04105_KANESENNA_000_023",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_020",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_021",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_KANESENNA_000_022"
+      ]
+    },
+    "RELAXEDRABBIT": {
+      "corpus": {"conversations": 5, "rows": 15},
+      "evidence": [
+        {
+          "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_MIOUNNE_000_207",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_230",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_100",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_MIOUNNE_000_040",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_030",
+          "lang": "en",
+          "term": "Hah, why am I not surprised to see you here? We had a guild meeting scheduled, but you know how adventurers are─we just had to get involved in the celebrations."
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_034",
+          "lang": "en",
+          "term": "Ah, these are the type they fill with baked delights! There's nothing better than enjoying a sweet treat after a hard day's work."
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "PARSEMONTRET": "tú"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. 君 en 31 de las 61 filas dirigidas al jugador, con keigo en 1; el francés va en «tu», 43 contra 1. Esta entrada corresponde a MIOUNNE bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_030",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_034",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_MIOUNNE_000_038"
+      ]
+    },
+    "SAHAGINPRIEST": {
+      "player": "vosotros",
+      "confidence": "low",
+      "why": "Vosotros a los presentes, con 貴様ら. Trato al jugador sin prueba singular; separar las réplicas a Thancred, Leviatán y el emisario. Esta entrada corresponde a WUUR bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_400030_WUUR",
+        "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_400040_WUUR",
+        "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_700030_WUUR"
+      ],
+      "evidence": [
+        {
+          "gameKey": "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_400030_WUUR",
+          "lang": "en",
+          "term": "Soon! Sssoon it shall begin! Our Lord shall rise 'midst sssurging waves to wash away the finless ones!"
+        },
+        {
+          "gameKey": "cut_scene/022/VoiceMan_02200#TEXT_VOICEMAN_02200_400040_WUUR",
+          "lang": "en",
+          "term": "And I shall be granted the gift and knowledge of eternity, and with the emissary ssstand equal! Then shall I know no cesssation, no oblivion!"
+        }
+      ],
+      "corpus": {"conversations": 2, "rows": 18}
+    },
+    "SAINTOFNYMEIA": {
+      "corpus": {"conversations": 15, "rows": 72},
+      "evidence": [
+        {
+          "gameKey": "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_GODBERT_000_201",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_GODBERT_000_092",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/ChrHdy401_04806#TEXT_CHRHDY401_04806_GODBERT_000_144",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/ChrHdy401_04806#TEXT_CHRHDY401_04806_GODBERT_000_012",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_009",
+          "lang": "en",
+          "term": "A wandering pilgrim, come to see justice is served! I can vouch for the boy's testimony, as I too witnessed this heinous crime with my very eyes! But what say you, adventurer? What do your instincts tell you?"
+        },
+        {
+          "gameKey": "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_010",
+          "lang": "en",
+          "term": "Verily, you have cut straight to the heart of the matter! For the true criminal is naught more than a common treant, draped in plundered Starlight Celebration finery!"
+        }
+      ],
+      "player": "usted",
+      "others": {
+        "HILDIBRAND": "tú",
+        "JULYAN": "tú",
+        "NASHUMHAKARACCA": "tú",
+        "KAMLITO": "tú",
+        "AITKEN": "tú",
+        "PIPIMAYA": "tú",
+        "SASAPANO": "tú"
+      },
+      "confidence": "high",
+      "why": "Medido sobre sus 727 filas de todo el corpus, no sobre una rodaja: japonés です／ます en 426, キミ o 君 en 21, francés vous en la inmensa mayoría y tu en 32. Y de esas 21 solo 8 son キミ al jugador, todas de A Realm Reborn y todas dentro de frases que terminan en です／ます (「持ってきてくれたのですかね」, 「用意したものですな」), con vous en el francés de las ocho: es campechanía teatral, no confianza. Las otras 13 son el sufijo 君 pegado al nombre de OTRO (カムリト君, オリアー君, アイトケン君, ウソ助君). NO HAY CAMBIO DE REGISTRO CON EL TIEMPO, comprobado en la escena más íntima que tiene con el jugador, el paseo de la Fiesta de las Estrellas de FesXms703_04470: 83 filas, CERO キミ, 50 con です／ます, CERO tu en francés y 37 vous. EL TÚ QUE SÍ LLEVA ES POR INTERLOCUTOR, no por época: su hijo, su mujer, Nashu y los chicos a los que apadrina. COMPARTE EL ぞ CON SU HIJO Hildibrand, que es de familia, y ahora también el trato. Esta entrada corresponde a GODBERT bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_009",
+        "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_010",
+        "quest/030/FesXms302_03010#TEXT_FESXMS302_03010_GODBERT_000_020"
+      ]
+    },
+    "SAINTSLITTLEHELPER": {
+      "corpus": {"conversations": 2, "rows": 14},
+      "evidence": [
+        {
+          "gameKey": "quest/023/ChrHdb652_02372#TEXT_CHRHDB652_02372_JULYAN_000_028",
+          "lang": "ja",
+          "term": "アンタ"
+        },
+        {
+          "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_101_063",
+          "lang": "ja",
+          "term": "アンタ"
+        },
+        {
+          "gameKey": "quest/004/ChrHdb504_00493#TEXT_CHRHDB504_00493_JULYAN_000_055",
+          "lang": "ja",
+          "term": "アンタ"
+        },
+        {
+          "gameKey": "quest/004/ChrHdb504_00493#TEXT_CHRHDB504_00493_JULYAN_000_009",
+          "lang": "ja",
+          "term": "アンタ"
+        },
+        {
+          "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_000_051",
+          "lang": "en",
+          "term": "You there! What was that song ye were playin' on that bell?"
+        },
+        {
+          "gameKey": "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_000_054",
+          "lang": "en",
+          "term": "Let me ask ye a question, lad: what exactly are ye ringin' this bell for?"
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "Francés tu («Ravie de voir que tu t'entends toujours aussi bien avec mon Hildoudou»), japonés sin 様 ni です. Voz de matriarca de barrio de Ul'dah: el inglés le come las eses finales («yer», «ain't», «afore»), y en español eso se lleva con léxico llano y frases cortas, NO con apócope, que en castellano se lee como falta. DECIDIDO POR EL JAPONÉS. アンタ en 4 de las 9 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 6 contra 1. Esta entrada corresponde a JULYAN bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_000_051",
+        "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_000_054",
+        "quest/022/FesXms101_02224#TEXT_FESXMS101_02224_JULYAN_000_056"
+      ]
+    },
+    "SALTENCRUSTEDCHICKEN": {
+      "corpus": {"conversations": 2, "rows": 6},
+      "evidence": [
+        {
+          "gameKey": "quest/040/FesNyr802_04024#TEXT_FESNYR802_04024_BADERON_000_020",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_240",
+          "lang": "ja",
+          "term": "おまえ"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_182",
+          "lang": "ja",
+          "term": "おまえ"
+        },
+        {
+          "gameKey": "quest/024/FesVlt302_02420#TEXT_FESVLT302_02420_BADERON_000_172",
+          "lang": "ja",
+          "term": "おまえ"
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_032",
+          "lang": "en",
+          "term": "Eh? Passin' out presents to us laborers, are ye? Far be it from me to refuse a gift given freely!"
+        },
+        {
+          "gameKey": "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_035",
+          "lang": "en",
+          "term": "Don't go 'oardin' 'em all to yerself now. I've got time for a quick bite an' a cup o' Mother Miounne's best tea afore I make the trip back to Limsa Lominsa."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS. おまえ en 21 de las 58 filas dirigidas al jugador, con keigo en 0; el francés va en «tu», 42 contra 1. Esta entrada corresponde a BADERON bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_032",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_035",
+        "custom/007/FesEst2021Recollection_00714#TEXT_FESEST2021RECOLLECTION_00714_BADERON_000_037"
+      ]
+    },
+    "SEEKEROFSOLITUDE": {
+      "corpus": {"conversations": 1, "rows": 1},
+      "evidence": [
+        {
+          "gameKey": "quest/045/ChrHdb812_04543#TEXT_CHRHDB812_04543_BEQLUGG_000_013",
+          "lang": "ja",
+          "term": "おぬし"
+        },
+        {
+          "gameKey": "quest/039/LucKun001_03986#TEXT_LUCKUN001_03986_BEQLUGG_000_150",
+          "lang": "ja",
+          "term": "おぬし"
+        },
+        {
+          "gameKey": "cut_scene/051/VoiceMan_05100#TEXT_VOICEMAN_05100_000700_BEQLUGG",
+          "lang": "en",
+          "term": "That was my fiercest familiar. Impressive..."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL JAPONÉS: おぬし y formas llanas, sin keigo. El «vous» francés, 11 contra 0, es el de por defecto. Nu Mou masculino pese al «they» inglés. DECIDIDO POR EL JAPONÉS. おぬし en 2 de las 11 filas dirigidas al jugador, con keigo en 0; el «vous» francés, 11 contra 0, es el de por defecto. Esta entrada corresponde a BEQLUGG bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/051/VoiceMan_05100#TEXT_VOICEMAN_05100_000700_BEQLUGG"
+      ]
+    },
+    "SERPENTCOMMANDERHEULOIX": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador y a Sanson, con 君 y habla llana. Usted a Shantotto al pedirle explicaciones sobre su identidad y procedencia. Esta entrada corresponde a VORSAILE bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_054",
+        "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_332",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_027",
+        "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_033",
+        "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_010",
+        "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_011",
+        "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_013"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/011/ComGrd010_01129#TEXT_COMGRD010_01129_VORSAILE_000_020",
+          "lang": "fr",
+          "term": "vous"
+        },
+        {
+          "gameKey": "quest/012/FesEvn001_01287#TEXT_FESEVN001_01287_VORSAILE_000_054",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_010",
+          "lang": "en",
+          "term": "Command has made its decision."
+        },
+        {
+          "gameKey": "quest/028/JobBrd700_02894#TEXT_JOBBRD700_02894_VORSAILE_000_011",
+          "lang": "en",
+          "term": "You will not wish to hear this...but the order rejects Nourval's demands. He and his band are to be summarily eliminated."
+        }
+      ],
+      "others": {
+        "SANSON": "tú",
+        "SHANTOTTO": "usted"
+      },
+      "corpus": {"conversations": 1, "rows": 10}
+    },
+    "SHIVA": {
+      "corpus": {"conversations": 4, "rows": 5},
+      "evidence": [
+        {
+          "gameKey": "quest/016/HeaVna313_01614#TEXT_HEAVNA313_01614_ICEHEART_000_006",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna314_01615#TEXT_HEAVNA314_01615_ICEHEART_000_004",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_ICEHEART_100_032",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_ICEHEART_000_005",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_810240_ICEHEART",
+          "lang": "en",
+          "term": "Is aught amiss, my lord? Thou wilt not break thy word, I trust."
+        },
+        {
+          "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_810260_ICEHEART",
+          "lang": "en",
+          "term": "I thought myself...stronger... Mayhap with more crystals...?"
+        }
+      ],
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Consultar ICEHEART para Ysayle y RYNE para Ryne según la escena. Ambas tutean; conservar la voz de cada avatar y distinguir el respeto hacia Ravana del trato al jugador.",
+      "examples": [
+        "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_810240_ICEHEART",
+        "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_810260_ICEHEART",
+        "cut_scene/030/VoiceMan_03007#TEXT_VOICEMAN_03007_100190_ICEHEART"
+      ]
+    },
+    "SNAPPYLOPORRIT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. Tu francés en la convocatoria; あなた y ですわ forman parte de su voz ceremoniosa. Esta entrada corresponde a LIVINGWAY bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_LIVINGWAY_000_133",
+        "cut_scene/060/VoiceMan_06002#TEXT_VOICEMAN_06002_000650_LIVINGWAY"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/044/AktKmc106_04404#TEXT_AKTKMC106_04404_LIVINGWAY_000_133",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/060/VoiceMan_06002#TEXT_VOICEMAN_06002_000650_LIVINGWAY",
+          "lang": "en",
+          "term": "My name is Livingway, and we are the Loporrits. Created for the express purpose of commanding this ship and bearing the people of Etheirys to a brave new world!"
+        }
+      ],
+      "corpus": {"conversations": 1, "rows": 2}
+    },
+    "SUPRAELUGAE": {
+      "corpus": {"conversations": 2, "rows": 12},
+      "evidence": [
+        {
+          "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_000_302",
+          "lang": "ja",
+          "term": "貴様"
+        },
+        {
+          "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_100_301",
+          "lang": "en",
+          "term": "Wee hee hee! All shall fall before Suprae-Lugae! With this new and improved body, revenge will finally be mine..."
+        },
+        {
+          "gameKey": "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_000_302",
+          "lang": "en",
+          "term": "What are you two doing here!? I <italic(1)>specifically<italic(0)> asked for the adventurer! Begone, before I unleash my fury prematurely..."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "MENOS DE CUATRO FILAS ATRIBUIBLES AL JUGADOR, así que la entrada se leyó entera. El japonés le pone 貴様ら, que es familiar y despectivo, y va en plural al grupo. Esta entrada corresponde a LUGAE bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_100_301",
+        "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_000_302",
+        "quest/047/ChrHdb832_04719#TEXT_CHRHDB832_04719_LUGAE_000_306"
+      ]
+    },
+    "THEWATCHER": {
+      "corpus": {"conversations": 6, "rows": 97},
+      "evidence": [
+        {
+          "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_328",
+          "lang": "ja",
+          "term": "貴殿"
+        },
+        {
+          "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_319",
+          "lang": "ja",
+          "term": "貴殿"
+        },
+        {
+          "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_315",
+          "lang": "ja",
+          "term": "貴殿"
+        },
+        {
+          "gameKey": "quest/045/StmBdr602_04587#TEXT_STMBDR602_04587_WATCHEROFMOON_000_310",
+          "lang": "ja",
+          "term": "貴殿"
+        },
+        {
+          "gameKey": "cut_scene/060/VoiceMan_06001#TEXT_VOICEMAN_06001_006900_WATCHEROFMOON",
+          "lang": "en",
+          "term": "<colortype(547)>Apologies. I have been preoccupied for quite some time, and am...out of practice at conversation...<colortype(0)>"
+        },
+        {
+          "gameKey": "cut_scene/060/VoiceMan_06001#TEXT_VOICEMAN_06001_006910_WATCHEROFMOON",
+          "lang": "en",
+          "term": "<colortype(547)>Ever since this moon was created by Hydaelyn, I have served as...an integral part. I am the watcher.<colortype(0)>"
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "139 filas entregadas en AktKmb117-119, AktKmc101-102, AktKmc109, AktKmk106-107 y AktKml106, todas tú en singular («si pretendes evitar los Días Finales», «el familiar que conociste antes») y vosotros solo donde se dirige al grupo («si me permitís descansar», «Seguidme»). Cero «usted». Francés tu y japonés 貴殿 coinciden. Esta entrada corresponde a WATCHEROFMOON bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/060/VoiceMan_06001#TEXT_VOICEMAN_06001_006900_WATCHEROFMOON",
+        "cut_scene/060/VoiceMan_06001#TEXT_VOICEMAN_06001_006910_WATCHEROFMOON",
+        "cut_scene/060/VoiceMan_06001#TEXT_VOICEMAN_06001_006920_WATCHEROFMOON"
+      ]
+    },
+    "THEWOLFBURGLAR": {
+      "corpus": {"conversations": 7, "rows": 49},
+      "player": "tú",
+      "confidence": "high",
+      "why": "Se nombra オイラ y trata de お前/てめぇ/あんた, con terminaciones llanas 〜だろ/〜ぜ/〜さ y cero keigo. Francés tu entero. El inglés le da registro golfo, «Bugger me», «baldy». Dos traductores lo decidieron igual por separado. Esta entrada corresponde a KUGANEWOLFBURGLAR bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_KUGANEWOLFBURGLAR_000_051",
+        "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_KUGANEWOLFBURGLAR_000_155",
+        "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_KUGANEWOLFBURGLAR_000_156"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_KUGANEWOLFBURGLAR_000_051",
+          "lang": "en",
+          "term": "Gah! So they've finally caught up to me!"
+        },
+        {
+          "gameKey": "quest/030/ChrHdb722_03021#TEXT_CHRHDB722_03021_KUGANEWOLFBURGLAR_000_155",
+          "lang": "en",
+          "term": "Shut up, you stupid statue!"
+        }
+      ]
+    },
+    "THEWORDOFTHEMOTHER": {
+      "corpus": {"conversations": 2, "rows": 20},
+      "evidence": [
+        {
+          "gameKey": "DefaultTalk#590540.22",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591042.21",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591044.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#591046.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_000210_MINFILIA",
+          "lang": "en",
+          "term": "We are the Word of the Mother. We who were once called “Minfilia.”"
+        },
+        {
+          "gameKey": "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_000220_MINFILIA",
+          "lang": "en",
+          "term": "Much time hath passed for thee, since the bloody banquet. Since...since I hearkened to Her word."
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "URIANGER": "usted"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 94 «tu» contra 7 «vous»; el keigo japonés es su forma de hablar, no distancia con el jugador. Esta entrada corresponde a MINFILIA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_000210_MINFILIA",
+        "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_000220_MINFILIA",
+        "cut_scene/032/VoiceMan_03200#TEXT_VOICEMAN_03200_000230_MINFILIA"
+      ]
+    },
+    "TITANIA": {
+      "player": "tú",
+      "confidence": "medium",
+      "why": "Para Feo Ul bajo el título de Titania, consultar FEOUL. La Titania anterior es otro personaje: conservar su habla infantil y distinguir sus órdenes al grupo del singular. No copiar los apelativos de Feo Ul en sus intervenciones.",
+      "examples": [
+        "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_001230_FEOUL",
+        "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_004010_FEOUL",
+        "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_004020_FEOUL",
+        "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_004440_FEOUL"
+      ],
+      "evidence": [
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05000#TEXT_VOICEMAN_05000_001230_FEOUL",
+          "lang": "fr",
+          "term": "Tu"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_004010_FEOUL",
+          "lang": "en",
+          "term": "[Rejoice and revel, for the Kingdom of Rainbows is forever young.]"
+        },
+        {
+          "gameKey": "cut_scene/050/VoiceMan_05001#TEXT_VOICEMAN_05001_004020_FEOUL",
+          "lang": "en",
+          "term": "Now, shall we attend to those unwise enough to trespass in our realm?"
+        }
+      ],
+      "corpus": {"conversations": 6, "rows": 84}
+    },
+    "WELLOILEDRABBIT": {
+      "corpus": {"conversations": 2, "rows": 6},
+      "evidence": [
+        {
+          "gameKey": "quest/054/FesGsx001_05443#TEXT_FESGSX001_05443_GODBERT_000_201",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/FesGsc801_04814#TEXT_FESGSC801_04814_GODBERT_000_092",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/ChrHdy401_04806#TEXT_CHRHDY401_04806_GODBERT_000_144",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/048/ChrHdy401_04806#TEXT_CHRHDY401_04806_GODBERT_000_012",
+          "lang": "ja",
+          "term": ")>殿"
+        },
+        {
+          "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_152",
+          "lang": "en",
+          "term": "I observe that your expression is a curious one. Clearly, you are at a complete loss as to the identity of the virile gentle-rabbit who stands before you!"
+        },
+        {
+          "gameKey": "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_153",
+          "lang": "en",
+          "term": "Ah, but it is a fine Hatching<-->tide this year, is it not? The colorful decorations about the town, the festive mood in the air─why, it is enough to make a Mander─er, rabbit such as I lift up his legs, put up his paws, and dance!"
+        }
+      ],
+      "player": "usted",
+      "others": {
+        "HILDIBRAND": "tú",
+        "JULYAN": "tú",
+        "NASHUMHAKARACCA": "tú",
+        "KAMLITO": "tú",
+        "AITKEN": "tú",
+        "PIPIMAYA": "tú",
+        "SASAPANO": "tú"
+      },
+      "confidence": "high",
+      "why": "Medido sobre sus 727 filas de todo el corpus, no sobre una rodaja: japonés です／ます en 426, キミ o 君 en 21, francés vous en la inmensa mayoría y tu en 32. Y de esas 21 solo 8 son キミ al jugador, todas de A Realm Reborn y todas dentro de frases que terminan en です／ます (「持ってきてくれたのですかね」, 「用意したものですな」), con vous en el francés de las ocho: es campechanía teatral, no confianza. Las otras 13 son el sufijo 君 pegado al nombre de OTRO (カムリト君, オリアー君, アイトケン君, ウソ助君). NO HAY CAMBIO DE REGISTRO CON EL TIEMPO, comprobado en la escena más íntima que tiene con el jugador, el paseo de la Fiesta de las Estrellas de FesXms703_04470: 83 filas, CERO キミ, 50 con です／ます, CERO tu en francés y 37 vous. EL TÚ QUE SÍ LLEVA ES POR INTERLOCUTOR, no por época: su hijo, su mujer, Nashu y los chicos a los que apadrina. COMPARTE EL ぞ CON SU HIJO Hildibrand, que es de familia, y ahora también el trato. Esta entrada corresponde a GODBERT bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_152",
+        "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_153",
+        "quest/038/FesEst602_03847#TEXT_FESEST602_03847_GODBERT_000_154"
+      ]
+    },
+    "WELLTRAVELEDMIQOTE": {
+      "corpus": {"conversations": 1, "rows": 1},
+      "evidence": [
+        {
+          "gameKey": "DefaultTalk#590829.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#596441.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "DefaultTalk#599168.20",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_81",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_118",
+          "lang": "en",
+          "term": "Ah...he told me of you, but perchance he did not tell you of me. My name is Y'shtola."
+        }
+      ],
+      "player": "tú",
+      "others": {
+        "KRILE": "tú",
+        "URIANGER": "tú",
+        "ESTINIEN": "tú",
+        "ZERO": "tú"
+      },
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 75 «tu» contra 11 «vous»; sus 10 filas de keigo son su forma de hablar. El usted que le queda va al Gran Comandante y al capitán maelstrom. Esta entrada corresponde a YSHTOLA bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "quest/004/SubSea057_00469#TEXT_SUBSEA057_00469_YSHTOLA_000_118"
+      ]
+    },
+    "YSAYLE": {
+      "corpus": {"conversations": 14, "rows": 86},
+      "evidence": [
+        {
+          "gameKey": "quest/016/HeaVna313_01614#TEXT_HEAVNA313_01614_ICEHEART_000_006",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna314_01615#TEXT_HEAVNA314_01615_ICEHEART_000_004",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna315_01616#TEXT_HEAVNA315_01616_ICEHEART_100_032",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "quest/016/HeaVna316_01617#TEXT_HEAVNA316_01617_ICEHEART_000_005",
+          "lang": "fr",
+          "term": "tu"
+        },
+        {
+          "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_800010_ICEHEART",
+          "lang": "en",
+          "term": "Vidofnir!"
+        },
+        {
+          "gameKey": "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_800030_ICEHEART",
+          "lang": "en",
+          "term": "Dear Vidofnir...how I have missed you. Would that I had come sooner...and not out of dire necessity."
+        }
+      ],
+      "player": "tú",
+      "confidence": "high",
+      "why": "DECIDIDO POR EL FRANCÉS. 5 «tu» contra 1 «vous» en filas al jugador; el japonés no marca pronombre, y su keigo, 1 de 18, es su forma de hablar. Esta entrada corresponde a ICEHEART bajo este nombre en las escenas citadas; no extenderla a otros NPC por semejanza del nombre.",
+      "examples": [
+        "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_800010_ICEHEART",
+        "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_800030_ICEHEART",
+        "cut_scene/030/VoiceMan_03003#TEXT_VOICEMAN_03003_800060_ICEHEART"
+      ]
+    },
+    "WARRIOROFLIGHT": {
+      "player": "tú",
+      "confidence": "high",
+      "why": "Tú al jugador. 君 y tuteo francés; la pregunta cortés a Nabriales tiene otro destinatario. Bajo el nombre Warrior of Light, aplicar esta regla solo a Elidibus en las escenas de LucKra; no al jugador ni a otros Guerreros de la Luz.",
+      "examples": [
+        "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_080",
+        "cut_scene/053/VoiceMan_05300#TEXT_VOICEMAN_05300_003600_ELIDIBUS",
+        "cut_scene/053/VoiceMan_05300#TEXT_VOICEMAN_05300_003650_ELIDIBUS",
+        "cut_scene/053/VoiceMan_05300#TEXT_VOICEMAN_05300_003660_ELIDIBUS",
+        "cut_scene/053/VoiceMan_05300#TEXT_VOICEMAN_05300_003670_ELIDIBUS",
+        "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000050_ELIDIBUS",
+        "cut_scene/053/VoiceMan_05301#TEXT_VOICEMAN_05301_000060_ELIDIBUS"
+      ],
+      "evidence": [
+        {
+          "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_080",
+          "lang": "ja",
+          "term": "お前"
+        },
+        {
+          "gameKey": "quest/037/LucKmi105_03775#TEXT_LUCKMI105_03775_ELIDIBUS_000_080",
+          "lang": "fr",
+          "term": "ta"
+        }
+      ],
+      "corpus": {"conversations": 2, "rows": 6}
     }
   }
 }

@@ -61,7 +61,7 @@
     {
       "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_020",
       "hash": "07C35087EA4AE6B2",
-      "target": "Me complace informar de que logramos convencer a uno de los juravasijas para que se quedara. ¿Cómo os ha ido a vosotros?"
+      "target": "Me complace informar de que logramos convencer a uno de los juravasijas para que se quedara. ¿Cómo os ha ido a <if(gnum4,vosotras,vosotros)>?"
     },
     {
       "gameKey": "quest/048/KinGmb103_04882#TEXT_KINGMB103_04882_ALPHINAUD_000_021",

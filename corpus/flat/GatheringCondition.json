@@ -1,0 +1,26 @@
+{
+  "sheet": "GatheringCondition",
+  "gameVersion": "2026.09.15.0000.0000",
+  "entries": [
+    { "gameKey": "GatheringCondition#1", "hash": "7D3B87D720D71BD8", "target": "Cadena ≥ #<num(lnum1)>" },
+    { "gameKey": "GatheringCondition#2", "hash": "349143732B517A58", "target": "FUE ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#3", "hash": "F6010314A1F2FA6C", "target": "DES ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#4", "hash": "12EEE922C0C1DA4F", "target": "VIT ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#5", "hash": "8DAB9779DB185856", "target": "INT ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#6", "hash": "BCC5DD33BEFB523C", "target": "MEN ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#7", "hash": "EE426816514557DA", "target": "PIE ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#8", "hash": "E9CC74CDE44FFA12", "target": "<icon(56)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#9", "hash": "2CFD1C9A91C50296", "target": "<icon(57)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#10", "hash": "403DCA313A06B2D3", "target": "<icon(58)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#11", "hash": "DF0A406EDC86AE43", "target": "<icon(59)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#12", "hash": "70C5F04A521EFC20", "target": "<icon(60)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#13", "hash": "CC6CC453A6813315", "target": "<icon(61)> ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#14", "hash": "70462FB5D807436F", "target": "Recolección ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#15", "hash": "B756CCCC5AFC4C2B", "target": "Percepción ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#16", "hash": "883158953DFE2E04", "target": "Recolección \\< <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#17", "hash": "3F6CCF78D6BCB5DC", "target": "Percepción <if(lnum2,≥,\\<)> <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#18", "hash": "B9DC41B72B0D5E5B", "target": "Requiere <sheet(Status,lnum1,0)>" },
+    { "gameKey": "GatheringCondition#19", "hash": "150B33B9C965E2CB", "target": "GP máx. ≥ <num(lnum1)>" },
+    { "gameKey": "GatheringCondition#20", "hash": "7BE42E284BF11FF2", "target": "<sheet(Item,lnum1,9)> <if(lnum2,En el equipo,Sin equipar)>" }
+  ]
+}

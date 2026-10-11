@@ -23,13 +23,13 @@
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_CITIZENA02233_000_040", "hash": "488AB493657D0773", "target": "¡Por la Furia, mira qué tamaño tiene! ¿Alguna idea de qué aspecto tendrá cuando lo terminen?" },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_CITIZENB02233_000_045", "hash": "F760089390001431", "target": "Paz entre dragón y hombre. No hace mucho me habría burlado de la idea, pero ahora, tras ver a aquel dragón arrancar a esa niña del cielo, en fin... Si este ha de ser el momento, mi mujer y yo querríamos presenciarlo con nuestros propios ojos." },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_CITIZENC02233_000_050", "hash": "8674370AC42234ED", "target": "No envidio a los pobres desgraciados que tienen que trabajar allá arriba, en los andamios, expuestos al viento y demás. Sí, es por una buena causa, ¡pero mejor ellos que yo!" },
-    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_060", "hash": "080A0B0440DC7724", "target": "El gran comandante dijo que vendríais, <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_061", "hash": "FA925DE857D9F7A2", "target": "Como podéis ver, los preparativos de la conferencia avanzan a buen ritmo." },
-    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_100_061", "hash": "0A4AEC2F7B739B65", "target": "Fijaos bien en el telón de allá arriba." },
+    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_060", "hash": "080A0B0440DC7724", "target": "El gran comandante dijo que vendría, <split(<string(gstr1)>, ,1)>." },
+    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_061", "hash": "FA925DE857D9F7A2", "target": "Como puede ver, los preparativos de la conferencia avanzan a buen ritmo." },
+    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_100_061", "hash": "0A4AEC2F7B739B65", "target": "Fíjese bien en el telón de allá arriba." },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_062", "hash": "FF1B83E7E4BDC59C", "target": "Oculta un relieve que se descubrirá durante la conferencia. Los canteros trabajan día y noche para terminarlo a tiempo." },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_063", "hash": "64764CBFAB2CB439", "target": "Ser Aymeric quería un símbolo que perdurara mucho después de concluida esta conferencia. Creo que quedará complacido con el resultado." },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_064", "hash": "904A0DFE7367F52F", "target": "No era mi guerra, pero la hice mía... y verla acercarse a una resolución me llena de una extraña esperanza." },
     { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_065", "hash": "8F138CA5402417C6", "target": "Su fe es contagiosa, ¿verdad? Su certeza de que podemos ser mejores de lo que somos..." },
-    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_066", "hash": "D323AE7DB68D57E3", "target": "Perdonad, estoy divagando. Debéis de estar cansado del viaje. Id, descansad. No os entretengo." }
+    { "gameKey": "quest/022/HeaVnc103_02233#TEXT_HEAVNC103_02233_LUCIA_000_066", "hash": "D323AE7DB68D57E3", "target": "Perdone, estoy divagando. Debe de estar <if(gnum4,cansada,cansado)> del viaje. Vaya, descanse. No le entretengo." }
   ]
 }

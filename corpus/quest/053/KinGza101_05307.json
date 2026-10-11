@@ -10,7 +10,7 @@
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_TODO_00", "hash": "E807B581AB599A3C", "target": "Hablar con el Cornservant para que te acompañe" },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_TODO_01", "hash": "3D56C04DD19E23E2", "target": "Acompañar al Cornservant hasta Bahía Comerciante y hablar con él" },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_TODO_02", "hash": "1A2DEA191EF70CBF", "target": "Hablar con el Deathservant" },
-    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_001", "hash": "9B523686BE51A304", "target": "¡Vaya, pero si es mi querido amigo <split(<string(gstr1)>, ,1)>! Confío en que hayas vivido tu buena ración de aventuras y sabrosos manjares desde la última vez que nos vimos, ¿eh?" },
+    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_001", "hash": "9B523686BE51A304", "target": "¡Vaya, pero si es <if(gnum4,mi querida amiga,mi querido amigo)> <split(<string(gstr1)>, ,1)>! Confío en que hayas vivido tu buena ración de aventuras y sabrosos manjares desde la última vez que nos vimos, ¿eh?" },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_002", "hash": "FA62E961005CE0D5", "target": "Me alegro. Ojalá yo tuviera nuevas parecidas que contar, pero lo cierto es que estos viejos granos se ven necesitados de ayuda." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_003", "hash": "13E65276D6E635A2", "target": "Verás, percibo que un vientre de apetito monstruoso se ha dejado caer por Bahía Comerciante." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_004", "hash": "E47B26E021CCE488", "target": "Es un hambre tan voraz que me ha estremecido hasta la mazorca. No me atrevo a enfrentarla a solas, ¡pero ahora te tengo a ti!" },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_A1_000_001", "hash": "BA975A79E19D42B3", "target": "Hablar con el Cornservant." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_A1_000_002", "hash": "AC2BE502E8B118AA", "target": "Separarte del Cornservant." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_A1_000_003", "hash": "5DA5ABCA1CCD011A", "target": "Nada." },
-    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_020", "hash": "3D5725E333FAB062", "target": "No tenemos un momento que perder, amigo. ¡Ahí fuera hay un vientre que clama por nuestra ayuda!" },
+    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_020", "hash": "3D5725E333FAB062", "target": "No tenemos un momento que perder, <if(gnum4,amiga,amigo)>. ¡Ahí fuera hay un vientre que clama por nuestra ayuda!" },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_025", "hash": "D9B6A65D623FA300", "target": "¿Un asunto urgente reclama tu atención? Entonces no te entretendré. Cuando termines, vuelve al puerto, que allí te esperaré." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_SYSTEM_000_026", "hash": "D262783AE91A9133", "target": "¿Seguro que quieres separarte del Cornservant?" },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_030", "hash": "9D96C5EF66AD61FD", "target": "Has vuelto. Muy bien. Solo tenemos que llegar hasta Bahía Comerciante y yo me encargo del resto." },
@@ -82,6 +82,6 @@
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_142", "hash": "1D3B32D7D320E4EA", "target": "Un giro de lo más inesperado, ¿no te parece? Ojalá todos los apetitos pudieran saciarse con maíz, pero, ay, el hambre es un demonio caprichoso al que no se vence tan fácilmente." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_143", "hash": "DD1E1A7A945E3BE8", "target": "Con todo, gracias a buenos amigos como tú, no tengo que afrontar estos desafíos a solas. En verdad, he sido bendecido con los fértiles suelos de la confianza y la aceptación para cultivar una amistad tan hermosa." },
     { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_144", "hash": "D6CCB76C1BB13D51", "target": "Poco más que mi mazorca tengo que ofrecerte, pero confío en que esto baste como pago merecido: un plato suculento hecho con el mejor maíz." },
-    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_145", "hash": "04834381E7EC580A", "target": "Y con esto, debo despedirme. ¡Hasta que volvamos a vernos, amigo mío!" }
+    { "gameKey": "quest/053/KinGza101_05307#TEXT_KINGZA101_05307_CORNSERVANT_000_145", "hash": "04834381E7EC580A", "target": "Y con esto, debo despedirme. ¡Hasta que volvamos a vernos, <if(gnum4,amiga mía,amigo mío)>!" }
   ]
 }

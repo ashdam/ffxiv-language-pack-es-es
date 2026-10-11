@@ -10,7 +10,7 @@
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_005", "hash": "DD5577DB4BA8348A", "target": "Al principio no sabía qué pensar de Zero, pero su franqueza me llega. ¡Me cae bien!" },
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_010", "hash": "2BFCFDC5CA70F52C", "target": "Gracias otra vez por acceder a ayudar." },
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_011", "hash": "58C051AD8E77DF66", "target": "El contingente de Ilsabard trae por aeronave cargamentos de comida, medicinas y otras cosas de primera necesidad." },
-    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_012", "hash": "E02DB1845F9A5B74", "target": "Aún nos queda entregar una parte de las provisiones en Tertium, y agradecería que uno de vosotros me ayudara hoy con la tarea." },
+    { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALPHINAUD_000_012", "hash": "E02DB1845F9A5B74", "target": "Aún nos queda entregar una parte de las provisiones en Tertium, y agradecería que <if(gnum4,una de vosotras,uno de vosotros)> me ayudara hoy con la tarea." },
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_MYSTERIOUSPERSON_000_013", "hash": "65334D4D149DDB23", "target": "Yo lo haré." },
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_014", "hash": "87F639B4EC7BB27E", "target": "Bueno, <split(<string(gstr1)>, ,1)>. Entonces parece que te vienes conmigo." },
     { "gameKey": "quest/046/AktKmj103_04672#TEXT_AKTKMJ103_04672_ALISAIE_000_015", "hash": "6F4ED4E68B9B42D2", "target": "Los avistamientos de seres del Vacío aumentan de día en día, por eso pensaba salir a patrullar la Escarcha de Eblan. ¿Vamos?" },

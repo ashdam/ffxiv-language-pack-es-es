@@ -86,7 +86,7 @@
     { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_JANDELAINE_000_084", "hash": "28563D1A600024C9", "target": "¡Un muy feliz onomástico, a un hermano renacido!" },
     { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_GUILLEFRESNE_000_085", "hash": "B9D5AA9722385954", "target": "Las palabras de los maestros Beatin y Severian... ¡Todo parece tan claro ahora! ¡Santos dioses! ¡¿Cómo pude estar tan ciego?!" },
     { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_GUILLEFRESNE_000_086", "hash": "395FCF09B4082B73", "target": "Perdóname por haberme burlado de tu arte, hermano. La gente de este reino te necesita, eso está claro. No te preocupes por padre, ni por nuestras tierras─sí, ¡regresaré a Ishgard y enorgulleceré a nuestra familia!" },
-    { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_GUILLEFRESNE_000_087", "hash": "AA5068A9E24D5E08", "target": "Por todos aquellos años en que miré a mi hermano con admiración, nunca comprendí de verdad su grandeza hasta el día de hoy. Por ello, es a usted a quien debo dar las gracias, amigo. ¡Hasta que nuestros caminos vuelvan a cruzarse!" },
+    { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_GUILLEFRESNE_000_087", "hash": "AA5068A9E24D5E08", "target": "Por todos aquellos años en que miré a mi hermano con admiración, nunca comprendí de verdad su grandeza hasta el día de hoy. Por ello, es a usted a quien debo dar las gracias, <if(gnum4,amiga,amigo)>. ¡Hasta que nuestros caminos vuelvan a cruzarse!" },
     { "gameKey": "quest/015/SubPst013_01573#TEXT_SUBPST013_01573_SYSTEM_000_000", "hash": "2A915F4E4C5A64D8", "target": "¡Gracias a esta entrega, tu reputación como <if(gnum4,cartera,cartero)> ha aumentado!" }
   ]
 }

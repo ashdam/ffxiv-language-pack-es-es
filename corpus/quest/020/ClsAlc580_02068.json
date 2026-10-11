@@ -52,7 +52,7 @@
       "hash": "1C2D27A69283098A",
       "target": "<if([lnum1<lnum2],Sintetizar una draconian potion of strength <sheet(Addon,9,0)>,Entregar la draconian potion of strength <sheet(Addon,9,0)> a Chanene)>"
     },
-    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_000", "hash": "73CE03593126543F", "target": "Ah, <split(<string(gstr1)>, ,1)>. Bien. Solo estoy esperando a Chanene. Verá, una vez supimos el objetivo de nuestros culpables, peinar los hechos─" },
+    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_000", "hash": "73CE03593126543F", "target": "Ah, <split(<string(gstr1)>, ,1)>. Bien. Solo estoy esperando a Chanene. Verá, una vez supimos el objetivo de nuestros culpables, peinar los hechos..." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_001", "hash": "0FF60BC7DDFFAAC1", "target": "¿Chanene? ¿A quién has encontrado? No, no, retenlos a todos ahí─¡ya voy yo!" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_002", "hash": "7FF24FADC074006E", "target": "Ha encontrado a una de nuestras personas desaparecidas camino abajo del Campamento Peaje del Aparecido. ¿Viene?" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_010", "hash": "394B77035BFC6FBA", "target": "¡Vamos, <split(<string(gstr1)>, ,1)>, a las Ciénagas Brumosas!" },
@@ -89,7 +89,7 @@
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_160", "hash": "37E53A393BDE2459", "target": "Empezaremos el experimento en cuanto haya hecho la draconian potion of strength." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_170", "hash": "12F08E9B16F8D296", "target": "Bien, la cuestión es si un Lalafell puede─bajo el efecto de una draconian potion of strength─levantar un tonel con un Hyur dentro." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_171", "hash": "CA78AC2437D229CC", "target": "No sería propio volver a embutir a los hombres en los toneles, así que usaremos agua para aproximar su peso. Y ahora, Chanene, cuando estés lista." },
-    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_172", "hash": "19D0B340257B84B3", "target": "¡JA! ¡Lo conseguí! ¡Los levanté! ¡Esto es un producto <italic(1)>increíble<italic(0)>, <split(<string(gstr1)>, ,1)>! ¿Puedo tomar un poco má─" },
+    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_172", "hash": "19D0B340257B84B3", "target": "¡JA! ¡Lo conseguí! ¡Los levanté! ¡Esto es un producto <italic(1)>increíble<italic(0)>, <split(<string(gstr1)>, ,1)>! ¿Puedo tomar un poco má...?" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_173", "hash": "6A4F83682FCC5E7E", "target": "¡Usted, señor, es un condenado mentiroso! ¡El testigo lo vio moviendo los toneles, y hemos demostrado que era más que capaz de hacerlo con la poción adecuada!" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CRIMINAL02068_000_174", "hash": "5F182A727F4E99B4", "target": "¡Es verdad, lo hice yo! Un viejo alquimista me pagó por hacer su trabajo sucio, y por deshacerme del cuerpo... ¡pero eso es todo, lo juro!" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CRIMINAL02068_000_175", "hash": "6CE2075C2070A10F", "target": "¡Ese hombre está loco, y no le gustan los cabos sueltos! ¡Me coserá la boca para que me calle, y luego me clavará la aguja! Contaré todo lo que sé, ¡pero, por favor, protegedme!" },

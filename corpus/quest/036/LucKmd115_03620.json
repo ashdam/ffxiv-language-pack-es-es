@@ -33,6 +33,6 @@
     { "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_ALPHINAUD_000_040", "hash": "E7F7061234CE8853", "target": "¡Habéis vuelto! Empezábamos a preocuparnos por vosotros." },
     { "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_ALISAIE_000_045", "hash": "24D669121428A4AE", "target": "¡<split(<string(gstr1)>, ,1)>! Gracias a los dioses que estás bien." },
     { "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_URIANGER_000_050", "hash": "9E218EED8FA0C288", "target": "Has vuelto. Mas ¿dónde está Minfilia?" },
-    { "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_YSHTOLA_000_055", "hash": "7170DDC2E2315F22", "target": "Bienvenido de vuelta. Veo que te ha ido mejor que a Thancred." }
+    { "gameKey": "quest/036/LucKmd115_03620#TEXT_LUCKMD115_03620_YSHTOLA_000_055", "hash": "7170DDC2E2315F22", "target": "<if(gnum4,Bienvenida,Bienvenido)> de vuelta. Veo que te ha ido mejor que a Thancred." }
   ]
 }

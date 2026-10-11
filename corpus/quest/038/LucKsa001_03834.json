@@ -33,7 +33,7 @@
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_DOMAMESSENGER00000_000_072", "hash": "37841B2A45BBB940", "target": "Se marchó hace poco a los Faldones; la vista del Castillo de Doma le sosiega. Por aquí, si es tan amable." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_DOMAMESSENGER00000_000_090", "hash": "81F9C6C95EA876D2", "target": "Por aquí, en lo alto del puente roto. Se alegrará mucho de su llegada." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_HIEN_000_110", "hash": "CF8012876BBE6E64", "target": "¿Recuerdas la primera vez que contemplamos juntos este castillo? Aún bajo el control de los garleanos, quizá, pero, con toda su maldad, su belleza no se dejaba mancillar tan fácilmente." },
-    { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_HIEN_000_111", "hash": "543675B13B26CFCD", "target": "Me alegra verte, amigo mío. Perdóname que me salte las cortesías, pero nuestro invitado aquí necesita desesperadamente tu ayuda." },
+    { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_HIEN_000_111", "hash": "543675B13B26CFCD", "target": "Me alegra verte, <if(gnum4,amiga mía,amigo mío)>. Perdóname que me salte las cortesías, pero nuestro invitado aquí necesita desesperadamente tu ayuda." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_MARSHAK_000_112", "hash": "902BCD6CD91F9133", "target": "Marsak, de la Resistencia de Bozja. Es un placer conocerle." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_MARSHAK_000_113", "hash": "9AC119254A0E0963", "target": "Como sin duda ya le habrá contado el señor Hien, mi pueblo busca recuperar nuestra patria de manos del Imperio." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_MARSHAK_000_114", "hash": "19DDC3CB35B6A662", "target": "Bajo sus auspicios y los de la Alianza Eorzea, pretendemos lograr justo eso." },
@@ -60,7 +60,7 @@
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_Q1_000_100", "hash": "EF62081310CBD90E", "target": "¿Qué vas a decir?" },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_A1_000_100", "hash": "9EA5A83AF70F4834", "target": "Déjamelo a mí." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_A2_000_100", "hash": "B0C374018DD18DBD", "target": "Haré lo que pueda." },
-    { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_HIEN_000_134", "hash": "C013E51579FC456C", "target": "Gracias, amigo mío. Si necesitas cualquier otra cosa de la alianza oriental, no tienes más que pedirla. Buen viaje a los dos." },
+    { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_HIEN_000_134", "hash": "C013E51579FC456C", "target": "Gracias, <if(gnum4,amiga mía,amigo mío)>. Si necesitas cualquier otra cosa de la alianza oriental, no tienes más que pedirla. Buen viaje a los dos." },
     { "gameKey": "quest/038/LucKsa001_03834#TEXT_LUCKSA001_03834_MARSHAK_000_150", "hash": "AD72790201B3D97D", "target": "Se nos ha preparado una aeronave rumbo a nuestra base en el muelle del enclave. Espero verle allí pronto." }
   ]
 }

@@ -135,6 +135,6 @@
     { "gameKey": "quest/032/FesPdy501_03208#TEXT_FESPDY501_03208_ALDIYTHA_000_120", "hash": "436A4533386BB742", "target": "Gracias. Solo desearía no tener que marcharme tan pronto..." },
     { "gameKey": "quest/032/FesPdy501_03208#TEXT_FESPDY501_03208_RODOLPH_000_121", "hash": "50A2FED43D648298", "target": "Si ese es su deseo, sencillamente tendremos que encontrar la manera de que se quede más tiempo el año que viene." },
     { "gameKey": "quest/032/FesPdy501_03208#TEXT_FESPDY501_03208_BUTLER_000_122", "hash": "F4DBDDF76F17D34F", "target": "Por mi parte, os estoy agradecido a todos. Este será un Día de las Damiselas memorable para muchos de nosotros, estoy seguro." },
-    { "gameKey": "quest/032/FesPdy501_03208#TEXT_FESPDY501_03208_BUTLER_000_124", "hash": "4E7540A0EA0D3230", "target": "Pero no ha terminado para usted y para mí, ¿verdad, aventurero? Aún debemos trabajar por ver coronas de flores en las manos de muchas princesas y senescales." }
+    { "gameKey": "quest/032/FesPdy501_03208#TEXT_FESPDY501_03208_BUTLER_000_124", "hash": "4E7540A0EA0D3230", "target": "Pero no ha terminado para usted y para mí, ¿verdad, <if(gnum4,aventurera,aventurero)>? Aún debemos trabajar por ver coronas de flores en las manos de muchas princesas y senescales." }
   ]
 }
