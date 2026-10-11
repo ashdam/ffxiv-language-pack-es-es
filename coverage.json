@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.09.15.0000.0000",
-  "translated": 480925,
-  "total": 480947,
-  "percent": 100,
-  "chars": 49039454,
-  "unresolved": 5455,
+  "translated": 481761,
+  "total": 485039,
+  "percent": 99.3,
+  "chars": 49102939,
+  "unresolved": 5504,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -398,9 +398,15 @@
     },
     {
       "expansion": null,
+      "content": "Crafting log categories (`CraftType`)",
+      "translated": 8,
+      "total": 8
+    },
+    {
+      "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 121737,
-      "total": 121759
+      "translated": 122565,
+      "total": 125843
     }
   ],
   "excludedFromLocalization": [
@@ -414,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 734,
-      "total": 834
+      "total": 837
     }
   ],
   "futureLocalization": [
@@ -422,8 +428,8 @@
       "sheet": "Action",
       "content": "Actions",
       "total": 44412,
-      "translated": 646,
-      "pending": 43766,
+      "translated": 647,
+      "pending": 43765,
       "pendingPercent": 98.5
     },
     {
@@ -438,9 +444,9 @@
       "sheet": "BNpcName",
       "content": "Enemy names",
       "total": 29475,
-      "translated": 406,
-      "pending": 29069,
-      "pendingPercent": 98.6
+      "translated": 512,
+      "pending": 28963,
+      "pendingPercent": 98.3
     },
     {
       "sheet": "ClassJob",
@@ -454,9 +460,9 @@
       "sheet": "ENpcResident",
       "content": "Non-battle NPC names",
       "total": 62705,
-      "translated": 636,
-      "pending": 62069,
-      "pendingPercent": 99
+      "translated": 660,
+      "pending": 62045,
+      "pendingPercent": 98.9
     },
     {
       "sheet": "EventItem",
@@ -478,9 +484,9 @@
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 5011,
-      "pending": 168441,
-      "pendingPercent": 97.1
+      "translated": 5427,
+      "pending": 168025,
+      "pendingPercent": 96.9
     },
     {
       "sheet": "Pet",
@@ -494,9 +500,9 @@
       "sheet": "Status",
       "content": "Statuses",
       "total": 9343,
-      "translated": 356,
-      "pending": 8987,
-      "pendingPercent": 96.2
+      "translated": 380,
+      "pending": 8963,
+      "pendingPercent": 95.9
     },
     {
       "sheet": "Trait",
