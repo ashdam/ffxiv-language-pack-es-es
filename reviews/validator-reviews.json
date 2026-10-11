@@ -29343,6 +29343,7 @@
     {"rule":"terminology-place-names","gameKey":"Status#2580.1","hash":"6417ABA4CC09824D","why":"La descripción remite al título del encuentro DynamicEvent#18.11, Sintiendo el ardor. No nombra el topónimo The Burn."},
     {"rule":"corrector-consistency-text","gameKey":"BNpcName#9637.0","hash":"65D832A1C70BE38F","why":"Nombre singular de la criatura. La columna 2 es plural; FR oiseaux arc-en-ciel confirma el plural aunque EN repita la forma singular."},
     {"rule":"corrector-consistency-text","gameKey":"BNpcName#9637.2","hash":"9479C7C83715D241","why":"La columna 2 es plural: FR oiseaux arc-en-ciel. Arcoíris Emplumados conserva el número; la columna 0 usa Arcoíris Emplumado."},
-    {"rule":"terminology-item-names","gameKey":"Completion#1561.3","hash":"7C512F592E940D66","why":"Lodestone names the website, as in French and Japanese, not the Bozja item Lodestone."}
+    {"rule":"terminology-item-names","gameKey":"Completion#1561.3","hash":"7C512F592E940D66","why":"Lodestone names the website, as in French and Japanese, not the Bozja item Lodestone."},
+    {"rule":"terminology-place-names","gameKey":"Emote#120","hash":"9407398366BBC3E1","why":"Sundrop Dance names the Vanu Vanu ritual dance, not the place Sundrop. The glossary fixes Danza del sol; French and Japanese agree."}
   ]
 }
