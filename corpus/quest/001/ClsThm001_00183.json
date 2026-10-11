@@ -2,7 +2,7 @@
   "conversation": "quest/001/ClsThm001_00183",
   "gameVersion": "2026.09.15.0000.0000",
   "entries": [
-    { "gameKey": "quest/001/ClsThm001_00183#TEXT_CLSTHM001_00183_YAYAKE_000_1", "hash": "5722689E9A78FFAA", "target": "<if(gnum4,Bienvenida,Bienvenido)> al Gremio de Taumaturgos. Es el destino quien ha guiado sus pasos hasta aquí, amigo." },
+    { "gameKey": "quest/001/ClsThm001_00183#TEXT_CLSTHM001_00183_YAYAKE_000_1", "hash": "5722689E9A78FFAA", "target": "<if(gnum4,Bienvenida,Bienvenido)> al Gremio de Taumaturgos. Es el destino quien ha guiado sus pasos hasta aquí, <if(gnum4,amiga,amigo)>." },
     { "gameKey": "quest/001/ClsThm001_00183#TEXT_CLSTHM001_00183_YAYAKE_000_2", "hash": "5024E652B966CEBB", "target": "Entre estas sagradas salas se enseñan las artes de la devastación─magias primigenias con las que provocar la ruina de un enemigo." },
     { "gameKey": "quest/001/ClsThm001_00183#TEXT_CLSTHM001_00183_YAYAKE_000_3", "hash": "3D316975BEBA2C78", "target": "Si desea unirse a nuestras filas y esgrimir el poder de la taumaturgia, le insto a aprovechar este momento y a confiarme sus ambiciones arcanas." },
     { "gameKey": "quest/001/ClsThm001_00183#TEXT_CLSTHM001_00183_Q1_000_1", "hash": "84F2BF45E2862E0B", "target": "¿Deseas unirte al Gremio de Taumaturgos?" },

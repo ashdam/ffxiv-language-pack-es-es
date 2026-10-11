@@ -26,6 +26,6 @@
     { "gameKey": "quest/046/ChrHdy151_04653#TEXT_CHRHDY151_04653_GEROLT_000_014", "hash": "6132E6D1163CB524", "target": "¡Ya eres el orgulloso dueño de <ennoun(Item,3,lnum1,1,1)>!" },
     { "gameKey": "quest/046/ChrHdy151_04653#TEXT_CHRHDY151_04653_CRAFTER04653_000_015", "hash": "3CBE4BE36B6824DE", "target": "¡Bravo! ¡Es usted toda una inspiración, maese Gerolt! ¡Jamás habría alcanzado semejante perfección yo solo, y desde luego no con el estorbo de un exceso de ropa!" },
     { "gameKey": "quest/046/ChrHdy151_04653#TEXT_CHRHDY151_04653_GEROLT_000_016", "hash": "2452187EE34EAD0B", "target": "¡Para este viejo perro es el pan de cada día, ja!" },
-    { "gameKey": "quest/046/ChrHdy151_04653#TEXT_CHRHDY151_04653_CRAFTER04653_000_017", "hash": "D8920E8830D3F254", "target": "Confío en que esté satisfecho con el resultado de nuestro trabajo. Si alguna vez desea ampliar su arsenal de armas de los Manderville, quedo a su disposición en un futuro previsible." }
+    { "gameKey": "quest/046/ChrHdy151_04653#TEXT_CHRHDY151_04653_CRAFTER04653_000_017", "hash": "D8920E8830D3F254", "target": "Confío en que esté <if(gnum4,satisfecha,satisfecho)> con el resultado de nuestro trabajo. Si alguna vez desea ampliar su arsenal de armas de los Manderville, quedo a su disposición en un futuro previsible." }
   ]
 }

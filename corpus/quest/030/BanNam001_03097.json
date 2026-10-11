@@ -38,7 +38,7 @@
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_SYSTEM_110_029", "hash": "624291033EDF2F10", "target": "Rebuscas entre la profusión de materiales de artesanía y sacas todo lo que necesitas para tu labor." },
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_KOFUINSEIGETSU_000_030", "hash": "9FBEF322DF727570", "target": "Cualquier entrega debe hacerse a Gyorei. Se agradece su pronta atención a este asunto." },
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_GYOSHIN_000_045", "hash": "302C98CEA76334D4", "target": "¡Tendré el recinto listo en un santiamén, en un abrir y cerrar de ojos!" },
-    { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_GYOREI_000_050", "hash": "8333C0B351BFE0D3", "target": "¿Tiene lo que necesitamos? Pensé que aún estaría atrapado en una conversación forzosa con Seigetsu el Iluminado." },
+    { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_GYOREI_000_050", "hash": "8333C0B351BFE0D3", "target": "¿Tiene lo que necesitamos? Pensé que aún estaría <if(gnum4,atrapada,atrapado)> en una conversación forzosa con Seigetsu el Iluminado." },
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_GYOREI_000_051", "hash": "1E23A1FC9AE76F73", "target": "Gyoshin también ha avanzado mucho... ¡y sin una sola herida abierta que mostrar!" },
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_GYOREI_000_052", "hash": "5E0E05B41F8DFD8B", "target": "Espero que todo esté listo en breve, sí, sí, así que aproveche para descansar." },
     { "gameKey": "quest/030/BanNam001_03097#TEXT_BANNAM001_03097_SYSTEM_000_053", "hash": "53058986325509A9", "target": "Tú y Gyorei habéis confeccionado unos happi dignos de un festival." },

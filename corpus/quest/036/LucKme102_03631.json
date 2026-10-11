@@ -23,7 +23,7 @@
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_KAISHIRR_000_036", "hash": "2F3383A4AE0D1246", "target": "Yo nunca llegué a comer ni de lejos tanto como los demás, pero... puaj..." },
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_KAISHIRR_000_037", "hash": "BC538814F982618E", "target": "Je... Las verduras amargas y el pescado lleno de espinas con los que me apañaba ya no parecen tan malos..." },
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_ALPHINAUD_000_040", "hash": "7726B82F1D9A588A", "target": "Cuando crucemos las puertas, no encontraremos el lugar de placer hedonista que recordamos, sino un campo de batalla." },
-    { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_ALPHINAUD_000_041", "hash": "A7C4779CC44094FE", "target": "Si estás preparado para esto, ¡irrumpamos, pues!" },
+    { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_ALPHINAUD_000_041", "hash": "A7C4779CC44094FE", "target": "Si estás <if(gnum4,preparada,preparado)> para esto, ¡irrumpamos, pues!" },
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_ALPHINAUD_000_050", "hash": "5EA57FC85C4D474C", "target": "¿¡Estás bien, <split(<string(gstr1)>, ,1)>!?" },
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_THANCRED_000_051", "hash": "70EE1EB4EB4AB447", "target": "Los ciudadanos parecen haberse calmado de momento. Solo puedo suponer que Vauthry está ocupado en otra cosa. Subamos al nivel superior mientras podamos." },
     { "gameKey": "quest/036/LucKme102_03631#TEXT_LUCKME102_03631_ALPHINAUD_000_060", "hash": "74807B660A5931DC", "target": "Gracias de nuevo, <split(<string(gstr1)>, ,1)>. Buscaremos a los heridos y les prestaremos toda la ayuda que podamos." },

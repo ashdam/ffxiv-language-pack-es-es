@@ -72,7 +72,7 @@
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_YUGIRI_000_180", "hash": "2C1A803D2C32AA35", "target": "No debí permitir que maese Alphinaud partiera sin escolta. Pero de nada nos sirve regodearnos en el pasado. Debemos centrarnos en lo que puede hacerse ahora." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_KIENKANGATEKEEPER03028_100_003", "hash": "B3102BFA215B77B3", "target": "El señor Hien los espera. ¿Los hago pasar?" },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_EVENTAREA_WARP_100_004", "hash": "279385A78AE9888C", "target": "¿Entrar en el Kienkan?" },
-    { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_HIEN_000_190", "hash": "A61EF171EEE291B6", "target": "Saludos, amigo mío. Alisaie me lo ha explicado todo." },
+    { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_HIEN_000_190", "hash": "A61EF171EEE291B6", "target": "Saludos, <if(gnum4,amiga mía,amigo mío)>. Alisaie me lo ha explicado todo." },
     { "gameKey": "quest/031/StmBde101_03143#TEXT_STMBDE101_03143_HIEN_000_191", "hash": "BF5AF860C7E8B871", "target": "No hace falta decir que tendréis toda nuestra cooperación en la búsqueda. Aunque el rastro de Alphinaud lleve a la Quemadura, precisamente..." }
   ]
 }

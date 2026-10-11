@@ -140,7 +140,7 @@
     {
       "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000280_GULOOLJAJA",
       "hash": "D4B091C01A99EF48",
-      "target": "Dime entonces: tras el viaje que habéis hecho juntas, ¿qué impresión te da Lamaty'i?"
+      "target": "Dime entonces: tras el viaje que habéis hecho <if(gnum4,juntas,juntos)>, ¿qué impresión te da Lamaty'i?"
     },
     {
       "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_000290_GULOOLJAJA",
@@ -663,7 +663,7 @@
     {
       "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001330_BAKOOLJAJA",
       "hash": "4917C6DD05A3CFFB",
-      "target": "No pueden hacer nada mientras tengamos a─"
+      "target": "No pueden hacer nada mientras tengamos a..."
     },
     {
       "gameKey": "cut_scene/070/VoiceMan_07001#TEXT_VOICEMAN_07001_001360_THANCRED",

@@ -57,7 +57,7 @@
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_910", "hash": "CA329BAC6A268D6B", "target": "Es una enfermedad, y se ha extendido a cada rincón de Eorzea. Las ciudades-estado están sumidas en el caos, y, por lo que se dice, al Lejano Oriente no le va mejor." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_911", "hash": "FC86FF103F7A50D5", "target": "No quedará nada de nosotros cuando esto termine." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_912", "hash": "18531382148D98E4", "target": "Este mundo no tiene salvación..." },
-    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_913", "hash": "3D2E7CC86A5511A0", "target": "Nunca me canso de esa historia. Cuando el héroe se lanza a lomos de un dragón blanco para salvar a la niña..." },
+    { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_913", "hash": "3D2E7CC86A5511A0", "target": "Nunca me canso de esa historia. Cuando <if(gnum4,la heroína,el héroe)> se lanza a lomos de un dragón blanco para salvar a la niña..." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_BLUECLOTHESMAN_000_914", "hash": "4F7AC1BD544A9F85", "target": "Podría morir feliz sabiendo que aún queda alguien así." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_MYSTERYVOICE_000_916", "hash": "C82EE6E7891D284E", "target": "Cierto. Pero hoy no. No mientras nuestro mensaje siga sin entregarse." },
     { "gameKey": "quest/036/LucKmd117_03622#TEXT_LUCKMD117_03622_MYSTERYVOICE_000_917", "hash": "D45ECFB4B33C6E79", "target": "Ten fe, amigo mío: <italic(1)>vamos<italic(0)> a <if(gnum4,encontrarla,encontrarlo)>..." },

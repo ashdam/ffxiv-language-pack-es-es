@@ -198,7 +198,7 @@
     {
       "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_HOOBIGOBAKOOLJAJAMINIONSA_000_070",
       "hash": "B934451958819438",
-      "target": "Ah, ahórrame tus balidos de miedo. ¡Venga! Escabúllete ya, antes de que el mercenario aterrador venga a reclamar tu cabeza."
+      "target": "Ah, ahórrame tus balidos de miedo. ¡Venga! Escabúllete ya, antes de que <if(gnum4,la mercenaria aterradora,el mercenario aterrador)> venga a reclamar tu cabeza."
     },
     {
       "gameKey": "quest/048/KinGmb107_04886#TEXT_KINGMB107_04886_THANCRED_000_071",

@@ -710,7 +710,7 @@
       "hash": "669D73A03DDB4FCF",
       "target": "Si buscas algo formidable, no mires más allá de esa mujer de ahí."
     },
-    { "gameKey": "cut_scene/070/VoiceMan_07000#TEXT_VOICEMAN_07000_001540_GULOOLJAJA", "hash": "2BBC27CA3F28C045", "target": "... Te veo, guerrero." },
+    { "gameKey": "cut_scene/070/VoiceMan_07000#TEXT_VOICEMAN_07000_001540_GULOOLJAJA", "hash": "2BBC27CA3F28C045", "target": "... Te veo, <if(gnum4,guerrera,guerrero)>." },
     {
       "gameKey": "cut_scene/070/VoiceMan_07000#TEXT_VOICEMAN_07000_001550_ALPHINAUD",
       "hash": "55BD41E2D70FE0EB",

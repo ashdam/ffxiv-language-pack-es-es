@@ -21,6 +21,6 @@
     { "gameKey": "quest/051/KinGzf006_05154#TEXT_KINGZF006_05154_CORNSERVANT_000_020", "hash": "1E8FF91632BE5A0F", "target": "\\<frufrú> Jajaja, ¡las palomitas han sido todo un éxito!" },
     { "gameKey": "quest/051/KinGzf006_05154#TEXT_KINGZF006_05154_CORNSERVANT_000_021", "hash": "02B1C4050E6C15CC", "target": "Se había convencido de que los alimentos hay que tomarlos tal cual son, sin caer nunca en la cuenta de que pueden llegar a ser mucho más si se preparan como es debido." },
     { "gameKey": "quest/051/KinGzf006_05154#TEXT_KINGZF006_05154_CORNSERVANT_000_022", "hash": "ECDAC98B2E55DFD6", "target": "Reconforta ver que algo tan sencillo como unos granos reventados le haya dado un aprecio nuevo por la comida." },
-    { "gameKey": "quest/051/KinGzf006_05154#TEXT_KINGZF006_05154_CORNSERVANT_000_023", "hash": "B92F0701EB2D3C30", "target": "Y con esto creo que nuestra labor aquí ha terminado. Apenas puedo imaginar adónde me llevará mi búsqueda de estómagos necesitados de alimento. Sea donde sea, me alegraría verte allí. Buen viaje, amigo." }
+    { "gameKey": "quest/051/KinGzf006_05154#TEXT_KINGZF006_05154_CORNSERVANT_000_023", "hash": "B92F0701EB2D3C30", "target": "Y con esto creo que nuestra labor aquí ha terminado. Apenas puedo imaginar adónde me llevará mi búsqueda de estómagos necesitados de alimento. Sea donde sea, me alegraría verte allí. Buen viaje, <if(gnum4,amiga,amigo)>." }
   ]
 }
