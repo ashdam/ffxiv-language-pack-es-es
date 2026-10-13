@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
-  "translated": 481800,
-  "total": 489378,
-  "percent": 98.5,
-  "chars": 49565565,
-  "unresolved": 5585,
+  "translated": 481563,
+  "total": 481746,
+  "percent": 100,
+  "chars": 49052086,
+  "unresolved": 5513,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -405,8 +405,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 122604,
-      "total": 130182
+      "translated": 122367,
+      "total": 122550
     }
   ],
   "excludedFromLocalization": [
@@ -420,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 734,
-      "total": 847
+      "total": 837
     }
   ],
   "futureLocalization": [
@@ -457,6 +457,22 @@
       "pendingPercent": 4.6
     },
     {
+      "sheet": "Completion",
+      "content": "Completion",
+      "total": 3140,
+      "translated": 46,
+      "pending": 3094,
+      "pendingPercent": 98.5
+    },
+    {
+      "sheet": "DynamicEvent",
+      "content": "DynamicEvent",
+      "total": 130,
+      "translated": 64,
+      "pending": 66,
+      "pendingPercent": 50.8
+    },
+    {
       "sheet": "ENpcResident",
       "content": "Non-battle NPC names",
       "total": 62705,
@@ -479,6 +495,14 @@
       "translated": 3530,
       "pending": 0,
       "pendingPercent": 0
+    },
+    {
+      "sheet": "Fate",
+      "content": "Fate",
+      "total": 4362,
+      "translated": 127,
+      "pending": 4235,
+      "pendingPercent": 97.1
     },
     {
       "sheet": "Item",
