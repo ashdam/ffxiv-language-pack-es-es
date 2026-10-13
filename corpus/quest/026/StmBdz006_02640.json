@@ -1,12 +1,12 @@
 {
   "conversation": "quest/026/StmBdz006_02640",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_SEQ_00", "hash": "7D7A72832B823556", "target": "La cara del gran mariscal Brookstone hace pensar que ha recibido noticias inquietantes." },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_00", "hash": "D0F0829FAAD83E18", "target": "Hablar con el recluta de las Llamas Inmortales" },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_01", "hash": "36835C7114028C94", "target": "Hablar con el recluta de las Víboras Gemelas" },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_02", "hash": "C62853E092718FAA", "target": "Otear la zona indicada" },
-    { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_03", "hash": "BAAC87E71C6B8007", "target": "Derrotar al molbol descomunal" },
+    { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_03", "hash": "BAAC87E71C6B8007", "target": "Derrotar al molbol supremo" },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_TODO_04", "hash": "750CA0488B44AE7A", "target": "Hablar con Brookstone" },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_SWETHRYKBROOKSTONE_000_000", "hash": "E6E89CDB85A819CB", "target": "<if([gnum52>0],<split(<string(gstr1)>, ,1)>!,<if([gnum53>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>!,<split(<string(gstr1)>, ,1)>!)>)> Necesitamos desesperadamente su ayuda." },
     { "gameKey": "quest/026/StmBdz006_02640#TEXT_STMBDZ006_02640_SWETHRYKBROOKSTONE_000_001", "hash": "67FAD05906438E22", "target": "Enviamos a una pequeña unidad a lo que creíamos una simple misión de exterminio, pero hace apenas unos instantes recibí una llamada de socorro urgente: ¡les ha atacado un molbol descomunal!" },

@@ -1,6 +1,6 @@
 {
   "conversation": "quest/000/ClsArc003_00068",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_SEQ_00", "hash": "99CD88E3E28CD3EA", "target": "Luciane, la maestra del gremio, desea que te adiestres bajo la tutela de Silvairre." },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_SEQ_01", "hash": "B84C8326CC99DC75", "target": "Se te ha ordenado adiestrarte con Silvairre, uno de los arqueros más experimentados del gremio. Habla con el Elezen y averigua qué requiere de ti." },
@@ -13,7 +13,7 @@
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_00", "hash": "A2B1856B2F16247B", "target": "Hablar con Silvairre" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_01", "hash": "0796A525C5BB1AD5", "target": "Destruir las dianas" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_02", "hash": "FEE19C6631CE956F", "target": "Informar a Silvairre" },
-    { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_03", "hash": "4EF60BE2C30BD12A", "target": "Derrotar a Nezul Cattlan the Violator" },
+    { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_03", "hash": "4EF60BE2C30BD12A", "target": "Derrotar a Nezul Cattlan el Profanador" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_04", "hash": "8642AF4356E366B6", "target": "Informar a Silvairre" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_TODO_05", "hash": "C5E8F4F45C465826", "target": "Hablar con Luciane" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_LUCIANE_000_1", "hash": "852F5742F4801289", "target": "<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>. Confío en que haya estado arrimando el hombro." },
@@ -56,7 +56,7 @@
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_LUCIANE_000_59", "hash": "A1D7B057EA7C9E03", "target": "Ahora es un arquero de pleno derecho. Permítame enseñarle algo para conmemorar este logro." },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_LUCIANE_000_60", "hash": "91221B10F59F65F0", "target": "Repelling Shot es una técnica avanzada que permite a <if(gnum4,una arquera,un arquero)> esquivar ataques mientras sigue disparando a su oponente. Usada con criterio, puede concederle un breve respiro en el fragor de la batalla." },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_LUCIANE_000_61", "hash": "2287EF76F2B9A584", "target": "Confío en que, con práctica regular, aprenderá a emplearla del mejor modo en su beneficio. Recuerde las lecciones de sus veteranos mientras se esfuerza por alcanzar la verdadera maestría." },
-    { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_QIB_TODO_001", "hash": "EF58F9C7EEF5FEE2", "target": "¡Derrota a Nezul Cattlan the Violator!" },
+    { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_QIB_TODO_001", "hash": "EF58F9C7EEF5FEE2", "target": "¡Derrota a Nezul Cattlan el Profanador!" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_TITLE", "hash": "4D5EB18B9022BED8", "target": "El deber llama. ¿Deseas proceder con<br>«La arquería de Silvairre»?" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_YES", "hash": "B8A77B8562F8AFE0", "target": "Sí" },
     { "gameKey": "quest/000/ClsArc003_00068#TEXT_CLSARC003_00068_INSTANCE_BATTLE_YESNO_NO", "hash": "09B959F48BB0ED90", "target": "No" },

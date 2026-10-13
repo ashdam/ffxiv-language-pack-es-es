@@ -1,9 +1,9 @@
 {
   "conversation": "quest/028/StmBdz927_02883",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_SEQ_00", "hash": "6D6FD3B6B7D325D3", "target": "J'zula Tia tiene una tarea engorrosa para un aventurero." },
-    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usar sacos de cáñamo resistentes para capturar yabbies debilitados." },
+    { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_00", "hash": "DD07C6D3D042D681", "target": "Usar sacos de cáñamo resistentes para capturar cangrejos de río debilitados." },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_TODO_01", "hash": "08B6D1033BD66F62", "target": "Entregar los sacos de cáñamo que se retuercen a J'zula Tia." },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_000", "hash": "170B7B377ADF8AA2", "target": "Eres <split(<string(gstr1)>, ,1)>, ¿verdad? ¿<if(gnum4,La famosa soldada y aventurera,El famoso soldado y aventurero)>? Quizá esté pidiendo más de lo que me corresponde, pero me vendría bien tu ayuda para arrreglar un pequeño problema." },
     { "gameKey": "quest/028/StmBdz927_02883#TEXT_STMBDZ927_02883_JZULATIA_000_001", "hash": "56D9958B1A53D154", "target": "Me han encargado atrapar a un par de monstruos acuáticos de cuidado, y he de admitir que me superan. Para <if(gnum4,una heroína,un héroe)> como tú, en cambio, sospecho que no serían más que un poco de ejercicio ligero antes <if([gnum11<12],<if([gnum11<4],de la cena,del desayuno)>,<if([gnum11<17],de la comida,de la cena)>)>." },

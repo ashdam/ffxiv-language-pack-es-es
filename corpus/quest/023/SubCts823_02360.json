@@ -1,10 +1,10 @@
 {
   "conversation": "quest/023/SubCts823_02360",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SEQ_00", "hash": "A3943309BA4FB284", "target": "Thubyrgeim desea tu ayuda con un experimento." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SEQ_01", "hash": "AF7F377005B7D880", "target": "Tras leer la investigación de Y'mhitra sobre los invocadores, Thubyrgeim solicita tu ayuda con un experimento en la zona de prácticas del gremio." },
-    { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SEQ_02", "hash": "912BE9C9F5C21BDD", "target": "Thubyrgeim teoriza que quizá puedas usar la técnica requerida para invocar egi para alterar el aspecto de tus diversos egi. Logras invocar un Ifrit-Egi que adopta la forma de un Ruby Carbuncle... ¡lo que marca el experimento como un éxito! Thubyrgeim te pide que subas de nuevo para comentar las implicaciones del experimento." },
+    { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SEQ_02", "hash": "912BE9C9F5C21BDD", "target": "Thubyrgeim teoriza que quizá puedas usar la técnica requerida para invocar egi para alterar el aspecto de tus diversos egi. Logras invocar un Ifrit-Egi que adopta la forma de un Carbuncle Rubí... ¡lo que marca el experimento como un éxito! Thubyrgeim te pide que subas de nuevo para comentar las implicaciones del experimento." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SEQ_03", "hash": "8D47F3D013DE8B80", "target": "Una entusiasmada Thubyrgeim te dice que este experimento sugiere que aún puede quedar mucho por aprender sobre las entidades arcanas. Se despide de ti y te anima a hacer uso de tu recién adquirida habilidad." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_TODO_00", "hash": "466DC42A80863654", "target": "Esperar a Thubyrgeim en la zona de prácticas del gremio" },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_TODO_01", "hash": "C55B2C355405D7CA", "target": "Hablar con Thubyrgeim" },
@@ -24,7 +24,7 @@
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_THUBYRGEIM_000_018", "hash": "A500E27C6BF6D02E", "target": "Bueno, debo volver a mi puesto. Sigamos con esto arriba." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_THUBYRGEIM_000_020", "hash": "3A40F3D5B90D0863", "target": "<split(<string(gstr1)>, ,1)>, te doy las gracias por seguirme la corriente. Este experimento ha desenterrado todo un nuevo mundo de posibilidades para las entidades arcanas, y espero que le des uso a este descubrimiento." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SYSTEM_000_021", "hash": "F93CC755F80867EC", "target": "El aspecto exterior de un egi ya puede alterarse usando <colortype(546)>/petglamour<colortype(0)>." },
-    { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SYSTEM_000_022", "hash": "2D6FBB20EDE551BF", "target": "Por ejemplo, si quieres que tu Garuda-Egi tenga el aspecto de un Ruby Carbuncle, usa el comando de texto <colortype(546)>/petglamour “garuda-egi” “ruby carbuncle”<colortype(0)>." },
+    { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SYSTEM_000_022", "hash": "2D6FBB20EDE551BF", "target": "Por ejemplo, si quieres que tu Garuda-Egi tenga el aspecto de un Carbuncle Rubí, usa el comando de texto <colortype(546)>/petglamour “garuda-egi” “ruby carbuncle”<colortype(0)>." },
     { "gameKey": "quest/023/SubCts823_02360#TEXT_SUBCTS823_02360_SYSTEM_000_023", "hash": "E9DA51DB65317E12", "target": "Para más detalles, introduce <colortype(546)>/? /petglamour<colortype(0)>." }
   ]
 }

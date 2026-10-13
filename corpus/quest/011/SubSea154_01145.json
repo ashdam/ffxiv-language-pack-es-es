@@ -1,13 +1,13 @@
 {
   "conversation": "quest/011/SubSea154_01145",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_00", "hash": "D2F3276516B62DA9", "target": "<if([gnum11<12],<if([gnum11<4],Las primeras estrellas asoman su pálido vientre en lo hondo del cielo,Una fresca brisa matinal hace restallar los banderines)>,<if([gnum11<17],Una luz clara y potente baña el muelle,Las primeras estrellas asoman su pálido vientre en lo hondo del cielo)>)>, y Ahldfoet el marinero está de humor para contar historias." },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_01", "hash": "91247517884EE5C9", "target": "Ahldfoet tiene una petición algo macabra, aunque a estas alturas ya eres todo un experto en desmembramientos. Caza dusk bats y recolecta de ellos cinco alas." },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_02", "hash": "72904E24C4101AC1", "target": "Has liberado las alas de unos dusk bats poco cooperativos. Entrega los coriáceos trofeos a Ahldfoet." },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_SEQ_03", "hash": "8A800ECC00174B92", "target": "Con los talismanes guardados en su cavernoso bolsillo, Ahldfoet por fin da rienda suelta a su lengua. Aunque te mueres por oír más de esta historia, parece claro que, por ahora, el narrador prefiere dejarla ahí." },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "Obtener alas de dusk bats" },
-    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "Entregar las alas de dusk bat a Ahldfoet" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_00", "hash": "5D531D8C3301016F", "target": "Obtener alas de murciélagos del ocaso" },
+    { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_TODO_01", "hash": "B454C4C348CB74FB", "target": "Entregar las alas de murciélago del ocaso a Ahldfoet" },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_000", "hash": "1ACDD930AAE59307", "target": "Ahoy, aventurero. Mi cascarón zarpa pronto y necesito llevarme algo para el viaje. Los dusk bats andan volando... ¿te ves lo bastante ligero como para traerme cinco alas? Cuatro no valen y seis tampoco, ojo." },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_001", "hash": "79C9511AC289371A", "target": "Puedes quedarte con lo que sobre, siempre que sepas qué hacer con ello. ¿Me traerás las alas?" },
     { "gameKey": "quest/011/SubSea154_01145#TEXT_SUBSEA154_01145_AHLDFOET_000_010", "hash": "52EB43647C5D0B8B", "target": "Ahoy. Baja la voz, esto no es asunto de nadie más que nuestro, ¿eh? ¿Tienes lo que te pedí?" },

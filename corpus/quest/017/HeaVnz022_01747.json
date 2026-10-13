@@ -1,6 +1,6 @@
 {
   "conversation": "quest/017/HeaVnz022_01747",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_SEQ_00", "hash": "7539176170A25884", "target": "Redwald está deseoso de continuar su investigación." },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_SEQ_01", "hash": "B1AE23E8E16A35C2", "target": "Redwald está desesperado por encontrar un antídoto para el veneno que aflige a sus tropas. Te entrega un informe que detalla los síntomas de los pacientes y te pide que se lo lleves a Noirterel. Espera que este pueda ayudar a desarrollar una cura." },
@@ -14,7 +14,7 @@
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_01", "hash": "93EE8751D26A758B", "target": "Entregar el informe a Sigan" },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_02", "hash": "3D0496846132FAE7", "target": "Usar la brasa en el brasero" },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_03", "hash": "EF23A17C9197CCD3", "target": "Usar las hierbas fragantes en el brasero encendido" },
-    { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_04", "hash": "B5A80B27D5982996", "target": "Aguardar al acecho al blackblood zu; abatirlo y obtener su sangre" },
+    { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_04", "hash": "B5A80B27D5982996", "target": "Aguardar al acecho al zu de sangre negra; abatirlo y obtener su sangre" },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_TODO_05", "hash": "4FB0B9DEF0E433B4", "target": "Entregar la sangre de zu a Sigan" },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_REDWALD_000_000", "hash": "D62F66F821C0ED2E", "target": "Hay una estirpe de dragón que exhala un aliento mortalmente venenoso. Si se fabricara veneno concentrando el componente tóxico de su aliento, sería casi imposible formular un antídoto." },
     { "gameKey": "quest/017/HeaVnz022_01747#TEXT_HEAVNZ022_01747_REDWALD_000_001", "hash": "22328D0423822FFE", "target": "Tenemos poquísima información, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Por eso esperaba que pudiera ayudarnos una vez más." },

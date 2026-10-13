@@ -1,6 +1,6 @@
 {
   "conversation": "quest/016/JobSch600_01676",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SEQ_00", "hash": "A2EC1AB7364068BB", "target": "Surito Carito parece resuelto." },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SEQ_01", "hash": "1D956EF0232FF85C", "target": "Surito Carito te informa de que ha aprendido a rastrear al ser del Vacío invisible. Su investigación ha revelado que tu hada puede percibir dónde ha festejado el monstruo, y que puedes rastrearlo a través de esos rastros etéreos. Con Alka Zolka y los nuevos Marines Reales a tu espalda, dirígete a la Ciudad Flotante de Nym y da comienzo a la cacería del monstruo." },
@@ -66,7 +66,7 @@
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_HALGATOLGA_000_059", "hash": "EFAB5F8E53F31577", "target": "Sí, cuentas también con mi gratitud. Da gusto ver a auténticos Marines <italic(1)>Reales<italic(0)> en acción de nuevo." },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SURITOCARITO_000_060", "hash": "FA615DAA3F8C0422", "target": "Así es. Hoy, la antorcha pasa a vosotros─¡que los Marines Reales defiendan por siempre al pueblo!" },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_SAILOR01676_000_070", "hash": "185AE76D9F9DD265", "target": "¡Un honor luchar a tu lado, <if(gnum4,señora,señor)>! Si alguna vez nos necesitas, no tienes más que pedirlo." },
-    { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_OLDSAILOR01676_000_071", "hash": "C775434689B684EF", "target": "No es común sentirse tan a salvo en una batalla. Me parece que aquellos nymios sabían lo que hacían con sus eruditos y sus hadas. Yo también te cubriré la espalda, si alguna vez lo necesitas." },
+    { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_OLDSAILOR01676_000_071", "hash": "C775434689B684EF", "target": "No es común sentirse tan a salvo en una batalla. Me parece que aquellos nymianos sabían lo que hacían con sus eruditos y sus hadas. Yo también te cubriré la espalda, si alguna vez lo necesitas." },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_HALGATOLGA_000_072", "hash": "34230AF45560F61C", "target": "\\<sorbe> Malditos ojos de tomberi, siempre lagrimeando... Bah, ¿a quién quiero engañar? ¡Hicisteis un buen trabajo, un buen trabajo, ya lo creo!" },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_HALGATOLGA_000_073", "hash": "D0C8BCC8CEAC5820", "target": "...¡Pero ni se te ocurra aflojar el entrenamiento por una sola victoria! ¡Si mancillas el nombre de mis queridos marines, te arrancaré la piel de la espalda!" },
     { "gameKey": "quest/016/JobSch600_01676#TEXT_JOBSCH600_01676_ALKAZOLKA_000_074", "hash": "21A3E31B410658FB", "target": "Imagina, <split(<string(gstr1)>, ,1)>, derrotar a un ser del Vacío de más de mil quinientos años... Cuando nos conocimos, no me atrevía a pensar que lograríamos semejantes cosas juntos." },

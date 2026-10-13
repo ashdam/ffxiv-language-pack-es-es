@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKmj108_04014",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_SEQ_00", "hash": "F14766C91F3692DD", "target": "Alphinaud está deseoso de informar a la Almirante." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_TODO_00", "hash": "237EDA9A43DB41D8", "target": "Hablar con Merlwyb en la sala de mando" },
@@ -11,7 +11,7 @@
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ALPHINAUD_000_000", "hash": "3FE62644D7CB4B5F", "target": "Me creía el cazador, pero resulta que era la presa... Un oportuno recordatorio de que con las potencias piratas de Limsa Lominsa no se juega." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ALPHINAUD_000_001", "hash": "EA76FE731384BF57", "target": "Pero bien está lo que bien acaba. La oportuna provocación de G'raha Tia surtió el efecto deseado, y Sicard ha accedido a una reunión. Volvamos aprisa a Limsa Lominsa y transmitámosle su invitación a la Almirante." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ALPHINAUD_000_005", "hash": "B8822CA77606BFCB", "target": "A Sicard no le falta confianza, eso está claro, pero tengo fe en la Almirante. Se las ha visto con cosas mucho peores." },
-    { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ALISAIE_000_006", "hash": "1FD6958DC6ABC17F", "target": "El <italic(1)>Astalicia<italic(0)> es el peor lugar posible para semejante reunión. La Almirante se meterá de lleno en la guarida del coeurl. \\<suspiro> Espero que no acabemos lamentándolo..." },
+    { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ALISAIE_000_006", "hash": "1FD6958DC6ABC17F", "target": "El <italic(1)>Astalicia<italic(0)> es el peor lugar posible para semejante reunión. La Almirante se meterá de lleno en la guarida del bengal. \\<suspiro> Espero que no acabemos lamentándolo..." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_GRAHATIA_000_007", "hash": "243A38E1C75EA56F", "target": "Aunque no tenemos garantías de que Sicard vaya a atender a razones, no puede haber acuerdo sin diálogo." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_EYNZAHRSLAFYRSYN_000_008", "hash": "A069F12296A5925B", "target": "Ahí estáis. Hemos aguardado con impaciencia vuestro regreso." },
     { "gameKey": "quest/040/LucKmj108_04014#TEXT_LUCKMJ108_04014_ZANTHAEL_000_020", "hash": "4AB8845757575B60", "target": "<if([gnum52>0],<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>,<if([gnum53>0],<split(<string(gstr1)>, ,1)>,<split(<string(gstr1)>, ,1)>)>)>, tus compañeros ya han presentado su informe en la sala de mando. ¿Te unirás a ellos?" },

@@ -1,12 +1,12 @@
 {
   "conversation": "quest/007/GaiUsa008_00714",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_00", "hash": "459A8AD03AEA23EE", "target": "Piralnaut, un centinela de la Aguja de Josselin, quisiera delegar algunas de sus obligaciones en un aventurero entusiasta." },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_01", "hash": "64EFA4988A2388F2", "target": "La población de wild boars de la zona ha crecido sin control y, además, las bestias se han vuelto hostiles hacia los silfos y los habitantes locales. Ve al Zarzal y extermina cinco de esos wild boars." },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_02", "hash": "00C3D12AA5A161D7", "target": "Los wild boars han sido abatidos. Informa de tu éxito a Piralnaut." },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_SEQ_03", "hash": "6B0F682543DA03AA", "target": "Sede de una eterita y con vistas a un nudo clave del transporte en el reino, la Aguja de Josselin exige la máxima vigilancia a sus centinelas. Tu valentía abatiendo wild boars ha inspirado a Piralnaut, que se propone ser aún más vigilante en sus deberes." },
-    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "Abatir wild boars" },
+    { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_00", "hash": "0E4C4F720CB91508", "target": "Abatir jabalíes salvajes" },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_TODO_01", "hash": "B47A3CC481CBC4A9", "target": "Informar a Piralnaut" },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_000", "hash": "C5441B1544DAD444", "target": "E-esos hocicos espantosos... colmillos como lanzas... ¡y los chillidos! Esos chillidos horribles, un himno fúnebre que atormenta mis sueños cada noche... ¿Por qué, ay, por qué me fui de casa para venir <italic(1)>aquí<italic(0)>?" },
     { "gameKey": "quest/007/GaiUsa008_00714#TEXT_GAIUSA008_00714_PIRALNAUT_000_001", "hash": "E99212542CB28167", "target": "...Ejem. ¡Salud, <if(gnum4,aventurera,aventurero)>! Tu mirada avispada me dice que estás <if(gnum4,deseosa,deseoso)> de demostrar tu valía, y ─para tu fortuna─ tengo una, esto, humilde tarea ideal para alguien de tus capacidades del montón. Los wild boars asuelan el Zarzal, y ya va siendo hora de que alguien reduzca la manada. ¿Y bien? Manos a la obra." },

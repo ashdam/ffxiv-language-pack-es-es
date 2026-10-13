@@ -1,9 +1,9 @@
 {
   "conversation": "quest/028/StmBdz921_02877",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_SEQ_00", "hash": "310734465A4FF0D8", "target": "Munifrid busca a un aventurero curtido para una tarea importante." },
-    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Abatir al zu nestling." },
+    { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_00", "hash": "E84A1DFF9C2C743A", "target": "Abatir a la cría de zu." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_TODO_01", "hash": "F5EFB7BEE6FE6C03", "target": "Informar a Munifrid." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_000", "hash": "25A28458CB06F3C9", "target": "<head(<if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)>)> <split(<string(gstr1)>, ,2)>, es muy conocido por sus hazañas como soldado. Hoy, sin embargo, quisiera recurrir a su amplia experiencia como aventurero." },
     { "gameKey": "quest/028/StmBdz921_02877#TEXT_STMBDZ921_02877_MUNIFRID_000_001", "hash": "173D0A531DEBB251", "target": "En cuanto al asunto, parece que un temible zu nestling ha reclamado como territorio parte de nuestra ruta de patrulla. Y no podemos rodear la zona sin más, no sea que dejemos un acceso sin vigilar para los exploradores imperiales." },

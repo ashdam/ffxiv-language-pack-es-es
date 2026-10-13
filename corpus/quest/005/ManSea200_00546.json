@@ -1,6 +1,6 @@
 {
   "conversation": "quest/005/ManSea200_00546",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_1", "hash": "65CA888DB926A9A8", "target": "El cometido que tengo en mente para ti requiere cierta explicación. Espero que no tuvieras otros planes. Al asunto, pues." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_MERLWYB_000_10", "hash": "E71668CDEB87AD43", "target": "He redactado una carta para cada uno de mis homólogos en la Alianza Eorzea." },
@@ -140,7 +140,7 @@
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BARTHOLOMEW_000_160", "hash": "122A3F286EBD1B05", "target": "<if(gnum4,La emisaria lominsana,El emisario lominsano)>, supongo. ¿Serías tan amable de permitirme inspeccionar la misiva que portas, <if(gnum4,señora,señor)>? Te lo agradezco." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_BARTHOLOMEW_000_161", "hash": "21D56CECC58D5046", "target": "Ah, sí, el sello de la Almirante. Puede pasar." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800110_RAUBAHN", "hash": "EB108BF65C7BDAD1", "target": "Ah, <if(gnum4,una invitada,un invitado)> de Limsa. Ya me parecía a mí que olía a cerveza rancia." },
-    { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800120_RAUBAHN", "hash": "0DB529191B1D39A0", "target": "No te lo tendré en cuenta. Si eres la mitad de <if(gnum4,guerrera,guerrero)> de lo que dice Merlwyb, es un milagro que no apestes a Sahagin muerto." },
+    { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800120_RAUBAHN", "hash": "0DB529191B1D39A0", "target": "No te lo tendré en cuenta. Si eres la mitad de <if(gnum4,guerrera,guerrero)> de lo que dice Merlwyb, es un milagro que no apestes a sahuagin muerto." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800130_RAUBAHN", "hash": "57A0C3924EE0ED66", "target": "Bienvenid<if(gnum4,a,o)> al sultanato de Ul'dah. Soy Raubahn Aldynn, General de las Llamas Inmortales." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800140_RAUBAHN", "hash": "16ACAC699420C3A6", "target": "Pero no has venido hasta aquí para intercambiar formalidades." },
     { "gameKey": "quest/005/ManSea200_00546#TEXT_MANSEA200_00546_800150_RAUBAHN", "hash": "A7FD857064C095C8", "target": "Hay algo familiar en ti... Por un momento te he confundido con <if(gnum4,una vieja hermana de armas,un viejo hermano de armas)>." },

@@ -1,11 +1,11 @@
 {
   "conversation": "quest/015/ComLim002_01528",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_SEQ_00", "hash": "7E904655DC439154", "target": "El teniente Trachraet busca unos cuantos buenos soldados." },
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_SEQ_01", "hash": "3DDAC966783157D5", "target": "Las naciones miembro de la Alianza Eorzea no coinciden en todos los asuntos. Con todo, sus desavenencias no habían sido irreconciliables... hasta ahora. El control de la Llanura de Carteneau se decidirá en el campo de batalla, y el teniente Trachraet quiere que luches por el Maelstrom. Habla con el pregonero de la Leva Extranjera para saber más sobre este nuevo conflicto y decidir si deseas implicarte." },
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_SEQ_02", "hash": "862C5F734A1F4F21", "target": "Violencia <italic(1)>civilizada<italic(0)>. Guerra <italic(1)>civilizada<italic(0)>. El concepto parece contradictorio, si no ridículo, pero a tus compañeros soldados no les incomoda esta resolución propuesta. Está claro ahora que el Maelstrom no se apartará de su rumbo. Tú, en cambio, aún eres libre de decidir. Abrazar esta causa o renunciar a ella: tú eliges." },
-    { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_TODO_00", "hash": "A3626E491BBEE7F7", "target": "Hablar con el pregonero de la Leva Extranjera en el embarcadero de aeronaves" },
+    { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_TODO_00", "hash": "A3626E491BBEE7F7", "target": "Hablar con el Aviador de la Leva Extranjera en el embarcadero de aeronaves" },
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_TRACHRAET_000_003", "hash": "1AECAA9A587AF075", "target": "Estás familiarizado con lo que ocurrió en Carteneau hace cinco años, ¿a que sí, <if([gnum52>0],<sheet(GCRankLimsaMaleText,gnum52,8)>,)><if([gnum53>0],<sheet(GCRankGridaniaMaleText,gnum53,8)>,)><if([gnum54>0],<sheet(GCRankUldahMaleText,gnum54,8)>,)> <split(<string(gstr1)>, ,2)>?" },
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_TRACHRAET_000_004", "hash": "92401FE5AB0F64D7", "target": "No me refiero a la maldita luna resquebrajándose y a ese tres veces maldito primigenio lloviéndonos fuego infernal a todos. Hasta en el Lejano Oriente oyeron esa historia, me apuesto." },
     { "gameKey": "quest/015/ComLim002_01528#TEXT_COMLIM002_01528_TRACHRAET_000_005", "hash": "74DBF1D7FDE65343", "target": "Lo que me pregunto es cómo de enterado estás de lo que vino después, cuando la Alianza Eorzea tuvo a bien instalarse y administrar la región conjuntamente en el futuro previsible." },

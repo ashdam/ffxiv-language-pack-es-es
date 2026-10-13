@@ -1,6 +1,6 @@
 {
   "conversation": "quest/026/StmBdz216_02688",
-  "gameVersion": "2026.09.15.0000.0000",
+  "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_SEQ_00", "hash": "AE6341CA6475AB98", "target": "Tsukikage está listo para hablar de negocios." },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_SEQ_01", "hash": "ED7A461081D377A3", "target": "Tsukikage te cuenta que a los miembros de la Confederación no se les permite entrar en Kugane. En lugar de ir en persona a negociar con Kikimo, quiere que le entregues una carta en la que detalla las condiciones que prefiere. Sin embargo, no lleva encima dicha misiva y te pide que lo acompañes al cuartel cercano. Ve con él y recoge la carta." },
@@ -13,9 +13,9 @@
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_00", "hash": "37E1CF26A54ECC92", "target": "Hablar con Tsukikage" },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_01", "hash": "7452AB2B961787E6", "target": "Entregar la carta de Tsukikage a Kikimo en el Muelle 1" },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_02", "hash": "8852278172DDA087", "target": "Entregar el contrato de la Compañía Comercial de Aldenard Oriental a Tsukikage en Onokoro" },
-    { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_03", "hash": "5BD017DC13DB7C19", "target": "Reunirse con Hansaku y obtener aletas de soaring shark" },
+    { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_03", "hash": "5BD017DC13DB7C19", "target": "Reunirse con Hansaku y obtener aletas de tiburón planeador" },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_04", "hash": "46E1394125021D29", "target": "Auxiliar a Hansaku" },
-    { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_05", "hash": "6519AD23CF322F4C", "target": "Entregar las aletas de soaring shark a Tsukikage" },
+    { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TODO_05", "hash": "6519AD23CF322F4C", "target": "Entregar las aletas de tiburón planeador a Tsukikage" },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_SUZUME_000_000", "hash": "0ED7CC633AD77AF0", "target": "¡Vaya, pero si es <if(gnum4,la mismísima mujer,el mismísimo hombre)> que volvió a hinchar nuestras velas!" },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TSUKIKAGE_000_000", "hash": "C4FC370E28A69054", "target": "Ah, <split(<string(gstr1)>, ,1)>. Qué suerte haberte pillado. Me gustaría abrir negociaciones con doña Kikimo, pero los miembros de la Confederación no somos precisamente bienvenidos en Kugane." },
     { "gameKey": "quest/026/StmBdz216_02688#TEXT_STMBDZ216_02688_TSUKIKAGE_000_001", "hash": "7C8E5ADF8E07D300", "target": "Tú, en cambio, no estás sujeto a las mismas trabas que nosotros, así que te pediría que le entregaras una carta de mi parte. Si tienes la amabilidad de acompañarme a nuestro cuartel, justo al final de esas escaleras, puedo dártela ahora mismo." },
