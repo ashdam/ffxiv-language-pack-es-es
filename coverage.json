@@ -1,10 +1,10 @@
 {
-  "gameVersion": "2026.09.15.0000.0000",
-  "translated": 481761,
-  "total": 485039,
-  "percent": 99.3,
-  "chars": 49102939,
-  "unresolved": 5504,
+  "gameVersion": "2026.10.06.0000.0000",
+  "translated": 481800,
+  "total": 489378,
+  "percent": 98.5,
+  "chars": 49565565,
+  "unresolved": 5585,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -405,8 +405,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 122565,
-      "total": 125843
+      "translated": 122604,
+      "total": 130182
     }
   ],
   "excludedFromLocalization": [
@@ -420,7 +420,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 734,
-      "total": 837
+      "total": 847
     }
   ],
   "futureLocalization": [
@@ -444,9 +444,9 @@
       "sheet": "BNpcName",
       "content": "Enemy names",
       "total": 29475,
-      "translated": 512,
-      "pending": 28963,
-      "pendingPercent": 98.3
+      "translated": 29475,
+      "pending": 0,
+      "pendingPercent": 0
     },
     {
       "sheet": "ClassJob",
@@ -460,9 +460,9 @@
       "sheet": "ENpcResident",
       "content": "Non-battle NPC names",
       "total": 62705,
-      "translated": 660,
-      "pending": 62045,
-      "pendingPercent": 98.9
+      "translated": 62705,
+      "pending": 0,
+      "pendingPercent": 0
     },
     {
       "sheet": "EventItem",
