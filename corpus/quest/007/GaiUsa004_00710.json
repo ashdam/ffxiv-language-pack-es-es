@@ -6,8 +6,8 @@
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_001", "hash": "6199A673A07F8F33", "target": "¡Rayos! ¿Qué era? Y eso que mi esposa Rosa y yo hablábamos del asunto hace apenas unos días..." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_002", "hash": "E439616D763D8DD4", "target": "Perdóneme, amigo. Hable con Rosa en el Panal... su memoria será más de fiar que la mía." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_010", "hash": "4E2F838DC397357F", "target": "¿Una ofrenda de paz para los silfos? Si fuera cualquier otro, le recomendaría un tarro de miel, pero me temo que eso no le haría pasar ni del umbral, <if(gnum4,querida,querido)>. No, sus gustos tiran más bien a lo <italic(1)>in<italic(0)>usual." },
-    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_011", "hash": "D4F5C01E84110565", "target": "¿Conoce acaso la raíz lechosa? Así llamamos a la raíz de ese monstruo vegetal de lo más feroz, el ochu. Al masticarla, exuda un líquido lechoso que, según dicen, provoca curiosas visiones en quien lo bebe. A mí no me pillarían probándolo ni muerta, pero los silfos parecen disfrutarlo sin fin." },
-    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_012", "hash": "8DEC593052A3DDC1", "target": "Hace bastante que no veo un ochu por el Panal, pero el otro día me topé con una sospechosa mata de hierba. Si la estimulara de algún modo —con un poco de este sirope de ámbar, por ejemplo—, quizá le sorprenda lo que sale. Buena suerte." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_011", "hash": "D4F5C01E84110565", "target": "¿Conoce acaso la raíz lechosa? Así llamamos a la raíz de ese monstruo vegetal de lo más feroz, el ochú. Al masticarla, exuda un líquido lechoso que, según dicen, provoca curiosas visiones en quien lo bebe. A mí no me pillarían probándolo ni muerta, pero los silfos parecen disfrutarlo sin fin." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROSA_000_012", "hash": "8DEC593052A3DDC1", "target": "Hace bastante que no veo un ochú por el Panal, pero el otro día me topé con una sospechosa mata de hierba. Si la estimulara de algún modo —con un poco de este sirope de ámbar, por ejemplo—, quizá le sorprenda lo que sale. Buena suerte." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_030", "hash": "8C2BA6D3E1CF82CC", "target": "Ah, ya está de vuelta. ¿Pudo mi esposa orientarle hacia una ofrenda adecuada?" },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_031", "hash": "17B784CA9C428278", "target": "¡Raíz lechosa! ¡Pues claro! Esos silfos se echan al coleto ese líquido lechoso tan rápido como yo un jarro de hidromiel. Y el efecto viene a ser el mismo." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_032", "hash": "42FCD60E54D8834A", "target": "En fin, un regalo de raíz lechosa hará que los silfos le llamen amigo y <if(gnum4,hermana,hermano)> en cuanto le echen el ojo. Ahora deje que se lo envuelva... empiezo a sentirme algo mareado..." },
@@ -25,7 +25,7 @@
     {
       "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_02",
       "hash": "03428D492454E0C8",
-      "target": "Aunque no acaba de entender por qué, Rosa te informa de que, según dicen, a los silfos les encanta la raíz lechosa, que se obtiene de los ochus. Para encontrar uno de esos ochus, toma el sirope de ámbar que te ha dado Rosa y viértelo sobre la curiosa mata de hierba del Jardín de la Miel. Una vez al descubierto, mata al ochu y reza por encontrar algo de raíz lechosa entre sus restos."
+      "target": "Aunque no acaba de entender por qué, Rosa te informa de que, según dicen, a los silfos les encanta la raíz lechosa, que se obtiene de los ochús. Para encontrar uno de esos ochús, toma el sirope de ámbar que te ha dado Rosa y viértelo sobre la curiosa mata de hierba del Jardín de la Miel. Una vez al descubierto, mata al ochú y reza por encontrar algo de raíz lechosa entre sus restos."
     },
     {
       "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_03",
@@ -45,7 +45,7 @@
     {
       "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_01",
       "hash": "5232F49E49AE07CE",
-      "target": "Usar el sirope de ámbar sobre la curiosa mata de hierba y matar al ochu"
+      "target": "Usar el sirope de ámbar sobre la curiosa mata de hierba y matar al ochú"
     },
     {
       "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_02",
