@@ -2,7 +2,7 @@
   "conversation": "quest/040/LucKsa213_04029",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_SEQ_00", "hash": "5910645A4523A088", "target": "Kriv cree conocer un modo de aumentar tu arsenal de Lost Actions." },
+    { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_SEQ_00", "hash": "5910645A4523A088", "target": "Kriv cree conocer un modo de aumentar tu arsenal de acciones perdidas." },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_TODO_00", "hash": "CF79F3E5A352B36A", "target": "<if([lnum1<lnum2],Obtener pieces of Garlean synthetic fabric,Entregar the pieces of Garlean synthetic fabric a Kriv en Gangos)>" },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_KRIV_000_000", "hash": "ECD2B8DCAF04A7BE", "target": "Espada <split(<string(gstr1)>, ,2)>, ¿verdad? Creo que no nos conocíamos. Me llamo Kriv. Tengo entendido que conoce bien los frutos de mi investigación sobre la memoria." },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_KRIV_000_001", "hash": "25C53A0F86A70192", "target": "De hecho, nuestros intendentes me han hablado largo y tendido de sus hallazgos en el frente." },
