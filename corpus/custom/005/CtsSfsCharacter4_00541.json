@@ -153,7 +153,7 @@
     { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_RANKUP_ADKIRAGH_006_004", "hash": "515D8D1D9137FBF8", "target": "...¡Ja! ¿El ilustre Adkiragh, empresario de acero, derramando lágrimas? ¡La mera idea es de risa! ¡Ja, ja, ja!" },
     { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_AFTWEEKLY_000_000", "hash": "F199C69976134156", "target": "Has entregado a Adkiragh el máximo semanal de seis objetos. Podrás volver a hacer entregas a partir del <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)>:00 <if([t_hour>=12],p.m.,a.m.)> (tiempo real)." },
     { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_000", "hash": "17961E57F9DB448D", "target": "Te sugiero que hables primero con Melodie. No te demores: ¡bien podría estar en juego la supervivencia del Lugar Difícil!" },
-    { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_QUEST_SYSTEM_000_001", "hash": "F495439021825BEC", "target": "Para emprender la siguiente misión, habla con Melodie en el Lugar Difícil siendo Discípulo de la Mano o de la Tierra." },
+    { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_QUEST_SYSTEM_000_001", "hash": "F495439021825BEC", "target": "Para emprender la siguiente misión, habla con Melodie en el Lugar Difícil siendo discípulo de la mano o de la tierra." },
     { "gameKey": "custom/005/CtsSfsCharacter4_00541#TEXT_CTSSFSCHARACTER4_00541_QUEST_ADKIRAGH_000_010", "hash": "4D7B071284129A1B", "target": "Esto es mal presagio..." }
   ]
 }
