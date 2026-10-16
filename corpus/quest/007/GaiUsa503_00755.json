@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_00", "hash": "54CA5039E4261E08", "target": "La hermana Kyokyozo busca a un aventurero que lleve una misiva al Viaducto." },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "La hermana Kyokyozo te ha confiado una petición firmada destinada a Rutas Aéreas Highwind. Entrégasela al mercader Hihibaru en el Viaducto." },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_01", "hash": "3B93468E4F2EB26F", "target": "La hermana Kyokyozo te ha confiado una <ennoun(EventItem,3,2000603,1,1)> destinada a Rutas Aéreas Highwind. Entrégasela al mercader Hihibaru en el Viaducto." },
     { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_SEQ_02", "hash": "4A51BAFD527898D3", "target": "Las sinceras peticiones de la Orden de Nald'thal y del gremio comercial de Hihibaru tendrán un peso considerable a la hora de persuadir a Rutas Aéreas Highwind de establecer vuelos regulares desde y hacia el Viaducto. Es solo cuestión de tiempo que la prosperidad llegue a la zona." },
-    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "Entregar la petición firmada a Hihibaru" },
+    { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_TODO_00", "hash": "18B0C50A0C28E1A9", "target": "Entregar la <ennoun(EventItem,3,2000603,1,1)> a Hihibaru" },
     { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_000", "hash": "47D799E0178D3F23", "target": "Me duele molestarle de nuevo, pero ha demostrado ser <if(gnum4,una amiga,un amigo)> de la Orden. Tengo una misiva urgente que entregar a Hihibaru, de El Viaducto." },
     { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_001", "hash": "F9C103A2E86665A7", "target": "O, para ser precisa, una petición. La Orden querría rogar a Rutas Aéreas Highwind que establezca vuelos regulares entre El Viaducto y Ul'dah." },
     { "gameKey": "quest/007/GaiUsa503_00755#TEXT_GAIUSA503_00755_KYOKYOZO_000_002", "hash": "8EBEB204583D5A22", "target": "Tales vuelos facilitarían enormemente los viajes de los peregrinos al Reposo de Thal, por no hablar de que estimularían el comercio de la zona." },

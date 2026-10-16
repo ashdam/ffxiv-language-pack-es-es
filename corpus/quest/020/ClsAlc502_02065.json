@@ -15,12 +15,12 @@
     {
       "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_02",
       "hash": "6B859D4D0444A36B",
-      "target": "Deitrich —sin sorprenderse de que el maestro del gremio te haya endosado la entrega— te explica que el destinatario previsto es un tal Wiltwaek. Miembro del Gremio de Aventureros encargado de mantener la paz, Wiltwaek investiga actualmente un crimen en Mor Dhona. Ciertas pruebas dejadas en la escena requerían el ojo experto del maestro del gremio Severian, y los resultados de su análisis son lo que debes llevar al Peaje del Aparecido. Ponte en marcha ya con el certificado de tasación."
+      "target": "Deitrich —sin sorprenderse de que el maestro del gremio te haya endosado la entrega— te explica que el destinatario previsto es un tal Wiltwaek. Miembro del Gremio de Aventureros encargado de mantener la paz, Wiltwaek investiga actualmente un crimen en Mor Dhona. Ciertas pruebas dejadas en la escena requerían el ojo experto del maestro del gremio Severian, y los resultados de su análisis son lo que debes llevar al Peaje del Aparecido. Ponte en marcha ya con el <ennoun(EventItem,3,2001704,1,1)>."
     },
     {
       "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEQ_03",
       "hash": "6CD898C69F2A5278",
-      "target": "Te reúnes con Wiltwaek y su fiel compañera Chanene. Te informan de que una serie de misteriosas desapariciones ha asolado el Peaje del Aparecido últimamente. Wiltwaek abre el certificado de tasación y exclama que la alquimia está implicada en estos crímenes. Además, declara que serás su asesor en el caso. Perplejo, escuchas cómo lee en voz alta una nota del maestro del gremio Severian que te pone por las nubes. Como tu pericia puede no ser necesaria de momento, Wiltwaek te pide que aguardes nuevos acontecimientos.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 53."
+      "target": "Te reúnes con Wiltwaek y su fiel compañera Chanene. Te informan de que una serie de misteriosas desapariciones ha asolado el Peaje del Aparecido últimamente. Wiltwaek abre el <ennoun(EventItem,3,2001704,1,1)> y exclama que la alquimia está implicada en estos crímenes. Además, declara que serás su asesor en el caso. Perplejo, escuchas cómo lee en voz alta una nota del maestro del gremio Severian que te pone por las nubes. Como tu pericia puede no ser necesaria de momento, Wiltwaek te pide que aguardes nuevos acontecimientos.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 53."
     },
     {
       "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_TODO_00",
@@ -30,12 +30,12 @@
     {
       "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_TODO_01",
       "hash": "A87330EC4DFB3FDA",
-      "target": "Entregar el certificado de tasación a Wiltwaek en el Peaje del Aparecido"
+      "target": "Entregar el <ennoun(EventItem,3,2001704,1,1)> a Wiltwaek en el Peaje del Aparecido"
     },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_000", "hash": "58F3A5EA9BE2E8DC", "target": "¡Mi ayudante favorito! Tengo justo la tarea para ti. Alguien de tu destreza alquímica quizá se mofe al oírla, pero reserva tu juicio: solo <italic(1)>tú<italic(0)>, que has rozado la cumbre de nuestro arte, puedes llevarla a cabo." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_001", "hash": "C0B1754775526928", "target": "Debo pedirte que entregues un informe a un amigo. Deitrich puede ayudarte con los pormenores: el quién, el qué y demás. ¡Ahora ve, ve!" },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_SEVERIAN_000_010", "hash": "796367E8F65A969B", "target": "¡Deitrich, Deitrich, trátalo con Deitrich!" },
-    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_030", "hash": "12C602AA373ED2CC", "target": "Así que se lo ha endosado a usted, ya veo. Aquí tiene el certificado de tasación para Wiltwaek." },
+    { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_030", "hash": "12C602AA373ED2CC", "target": "Así que se lo ha endosado a usted, ya veo. Aquí tiene el <ennoun(EventItem,3,2001704,1,1)> para Wiltwaek." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_031", "hash": "BEAA2CA9D016E2D4", "target": "¿El maestro del gremio no le...? ¿No? \\<suspiro> ¿Por qué lo pregunto siquiera? En fin, Wiltwaek es miembro del Gremio de Aventureros, y responsable de mantener la paz en el Peaje del Aparecido." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_032", "hash": "5C872CBE951834C9", "target": "Hace poco pidió al maestro Severian que analizara unas pruebas dejadas en la escena de cierto crimen. Acabo de entregarle los resultados." },
     { "gameKey": "quest/020/ClsAlc502_02065#TEXT_CLSALC502_02065_DEITRICH_000_033", "hash": "8ED5049B59243386", "target": "Creo que el maestro del gremio le encomendó la tarea porque no quería moles... Ejem. Disculpe. Porque confía en su destreza como alquimista." },

@@ -20,12 +20,12 @@
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_03",
       "hash": "1F164EC77846E905",
-      "target": "Contenta con el intercambio, Rowena te entrega un cayado allagano y te da su descripción del vendedor. Chanene cree que se trata de un ladrón de infausta fama local, pero no puede evitar preguntarse si tal ladrón tendría algún conocimiento de alquimia. Antes de que pueda continuar, aparece un hombre sospechoso para preguntar por el cayado. Después de que se marcha, una excitada Chanene te dice que piensa seguirlo y te pide que le transmitas lo mismo a Wiltwaek."
+      "target": "Contenta con el intercambio, Rowena te entrega un <ennoun(EventItem,3,2001706,1,1)> y te da su descripción del vendedor. Chanene cree que se trata de un ladrón de infausta fama local, pero no puede evitar preguntarse si tal ladrón tendría algún conocimiento de alquimia. Antes de que pueda continuar, aparece un hombre sospechoso para preguntar por el cayado. Después de que se marcha, una excitada Chanene te dice que piensa seguirlo y te pide que le transmitas lo mismo a Wiltwaek."
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_04",
       "hash": "BAC9D0A34B2101E1",
-      "target": "Te apresuras a ver a Wiltwaek y le dices adónde ha ido Chanene. Sin embargo, recibe noticias de ella directamente: el sospechoso la ha despistado. Wiltwaek decide que es mejor averiguar por qué este extraño individuo quería comprar el cayado que perseguirlo a ciegas. Dirígete al Gremio de Alquimistas de Ul'dah y pregunta al maestro del gremio Severian por qué un alquimista querría un cayado allagano."
+      "target": "Te apresuras a ver a Wiltwaek y le dices adónde ha ido Chanene. Sin embargo, recibe noticias de ella directamente: el sospechoso la ha despistado. Wiltwaek decide que es mejor averiguar por qué este extraño individuo quería comprar el cayado que perseguirlo a ciegas. Dirígete al Gremio de Alquimistas de Ul'dah y pregunta al maestro del gremio Severian por qué un alquimista querría un <ennoun(EventItem,3,2001706,1,1)>."
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_05",
@@ -45,7 +45,7 @@
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_01",
       "hash": "B81797425F90585B",
-      "target": "<if([lnum1<lnum2],Sintetizar frascos de grade 1 intelligence dissolvent <sheet(Addon,9,0)>,Entregar los frascos de grade 1 intelligence dissolvent <sheet(Addon,9,0)> a Rowena)>"
+      "target": "<if([lnum1<lnum2],Sintetizar frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)>,Entregar los frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)> a Rowena)>"
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_02",
@@ -55,12 +55,12 @@
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_03",
       "hash": "CC38DC2F9606F2CC",
-      "target": "Mostrar el cayado allagano a Severian en el Gremio de Alquimistas"
+      "target": "Mostrar el <ennoun(EventItem,3,2001706,1,1)> a Severian en el Gremio de Alquimistas"
     },
     {
       "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_04",
       "hash": "471B513DD64215B7",
-      "target": "Devolver el cayado allagano a Wiltwaek"
+      "target": "Devolver el <ennoun(EventItem,3,2001706,1,1)> a Wiltwaek"
     },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_000", "hash": "D8EBE886C52E93FA", "target": "Ah, <split(<string(gstr1)>, ,1)>─tengo dos noticias para usted. La primera: el joven del Cercano Oriente aún no se ha recuperado. En su estado actual, interrogarlo está descartado." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_001", "hash": "842D97928A621624", "target": "Podría ser uno de los criminales. O podría estar entre los secuestrados. No tenemos ni idea, aunque ninguna de nuestras personas raptadas coincide con su descripción." },
@@ -75,7 +75,7 @@
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_033", "hash": "169348BB1291D47F", "target": "¡Ay, no me pongas esa cara! Solo quiero intelligence dissolvent. Ni tres frascos de la mejor calidad te llevarán mucho, si es cierto lo que he oído de ti. Ese es mi precio. Lo tomas o lo dejas." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_040", "hash": "A99A503C1076809A", "target": "Lo siento, <split(<string(gstr1)>, ,1)>, pero el Gremio de Aventureros no puede permitirse molestar a Rowena. Tendrá que atender esta petición suya─por poco razonable que sea." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_050", "hash": "80A00CCD5A3C632B", "target": "¿Ya has terminado de mezclar o preparar o lo que sea que hagas para hacer el intelligence dissolvent?" },
-    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_060", "hash": "F3A0875D0168B416", "target": "Je, tienes mi agradecimiento. Toma─el cayado allagano robado. Se lo compré por nada a un muchacho. Puede que haya salido bastante más rica de nuestro trato, así que te lo describiré." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_060", "hash": "F3A0875D0168B416", "target": "Je, tienes mi agradecimiento. Toma─el <ennoun(EventItem,3,2001706,1,1)> robado. Se lo compré por nada a un muchacho. Puede que haya salido bastante más rica de nuestro trato, así que te lo describiré." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_061", "hash": "DE357FCB08A7B451", "target": "¿Lo atendió usted misma? ¡Cuénteme <italic(1)>todo<italic(0)> lo que recuerde!" },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_CHANENE_000_062", "hash": "B39877099E3FCC65", "target": "¡El vendedor es un ladrón del que he oído hablar! Célebre a su manera por aquí. Pero no es ningún criminal de altos vuelos, y no tiene el ingenio para practicar la alquimia." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_ROWENA_000_063", "hash": "3DCB87E3C79933B6", "target": "Podría ser un caso de un ladrón robándole a otro. Verás, lo que... Ah. Dame un momento. ¿En qué puedo ayudarlo, amigo?" },

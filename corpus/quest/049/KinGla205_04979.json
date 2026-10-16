@@ -16,7 +16,7 @@
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_02", "hash": "DCA3E3960FF07AAD", "target": "Hablar con los habitantes Yok Huy acompañado de Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_03", "hash": "CCF61C9FBDD52750", "target": "Buscar al cantero Yok Huy acompañado de Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_04", "hash": "EA1FCFF38C4F9A8B", "target": "Hablar con Pameka" },
-    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Sintetizar un Yok Huy cover <sheet(Addon,9,0)>,Entregar el Yok Huy cover <sheet(Addon,9,0)> a Pameka)>" },
+    { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_05", "hash": "A2562AF2E45E6AD2", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,43909,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,43909,1,1)> <sheet(Addon,9,0)> a Pameka)>" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_TODO_06", "hash": "57885F9D6E8AF56D", "target": "Hablar con Pameka" },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_SYSTEM_000_000", "hash": "B82CF7284FF6279D", "target": "Para poder emprender esta misión, primero debes completar la misión principal «La promesa de paz»." },
     { "gameKey": "quest/049/KinGla205_04979#TEXT_KINGLA205_04979_PAMEKA_000_001", "hash": "C483CD5287A718F9", "target": "Después de oír a Zemoweni hablar de relatos ancestrales, no puedo evitar preguntarme qué habrá conservado mi propia familia de generaciones pasadas." },

@@ -8,6 +8,9 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"Turtleback Island","fr":"Île de la Carapace","ja":"亀甲島","es-es":"isla del Caparazón","protect":false},
+    {"en":"Forked Tower","es-es":"Torre Bifurcada","protect":false,"note":"Referencia a la Torre Bifurcada de FFV."},
+    {"en":"Adventurer Plate","fr":"Carte de personnage","ja":"アドベンチャラープレート","es-es":"placa de aventurero","protect":false},
     {"en":"Noble Whoresons","fr":"Fils de leurs mères","ja":"高潔孤児団","es-es":"Nobles Bastardos","protect":false,"note":"Nombre de la banda. Las ocupaciones se traducen por separado."},
     {"en":"Ramuh","es-es":"Lamú","protect":false},
     {"en":"Anima","es-es":"Ánima","protect":false,"note":"Nombre del primigenio. Las referencias a las armas anima se revisan por separado."},
@@ -884,6 +887,9 @@
     {"en":"Quick Synthesis","fr":"Synthèse rapide","ja":"簡易製作開始","es-es":"Síntesis rápida","protect":false},
     {"en":"Trial Synthesis","fr":"Synthèse d'essai","ja":"TRIAL SYNTHESIS","es-es":"Síntesis de prueba","protect":false},
     {"_divider":"MONEDAS DE CANJE"},
+    {"en":"sky pirate spoil","es-es":"trofeo de pirata aéreo","protect":false},
+    {"en":"brass sky pirate spoil","es-es":"trofeo de pirata aéreo de latón","protect":false},
+    {"en":"steel sky pirate spoil","es-es":"trofeo de pirata aéreo de acero","protect":false},
     {"en":"achievement certificate","es-es":"certificado de logros","protect":false},
     {"en":"achievement certificates","es-es":"certificados de logros","protect":false},
     {"en":"Allagan tomestone of aesthetics","es-es":"tablilla allagana de estética","protect":false},
@@ -1120,7 +1126,6 @@
     {"en":"Yellow Serpents","fr":"","ja":"","es-es":"las Víboras Amarillas","protect":false,"note":"黄蛇隊, the Gridanian company in prose. COINED in arr-other-01-01. A member of the Order of the Twin Adder is «una Víbora»."},
     {"en":"Storm Seals","es-es":"sellos de la tormenta","protect":false},
     {"en":"Dawn Trader","fr":"","ja":"","es-es":"el Mercader del Alba","protect":false,"note":"Nald'thal's epithets, coined in arr-other-01-01. «Dusk Trader» → el Mercader del Ocaso; the pair together is «los Mercaderes»."},
-    {"en":"the Sacrarium","fr":"","ja":"","es-es":"el Sacrario","protect":false,"note":"Ul'dahn landmark, coined in arr-other-01-01."},
     {"en":"Raimdelle Codex","fr":"","ja":"","es-es":"el Códice Raimdelle","protect":false,"note":"Coined in arr-other-01-01."},
     {"en":"marks of the Twelve","fr":"","ja":"","es-es":"marcas de los Doce","protect":false,"note":"十二神秘石, las piedras de peregrinación. Manda la etiqueta que el jugador pulsa: las trece de `EObjName` dicen «marca de X» (`#2002103.0`, `#2004588.0`-`#2004599.0`). «Estela», que seguía al francés «stèle», nombraba en el corpus otra cosa, la estela de una nave."},
     {"en":"Firebird","fr":"","ja":"","es-es":"el Ave de Fuego","protect":false,"note":"Coined in arr-side-01-01 on the strength of DefaultTalk#594924, which renders «the legendary Firebird» as «el Ave de Fuego de la leyenda». Deliberately distinct from the Phoenix primal, which is «Fénix»."},

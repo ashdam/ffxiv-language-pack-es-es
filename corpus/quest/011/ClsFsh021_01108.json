@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SEQ_01",
       "hash": "1E565E982E715FB2",
-      "target": "Para comprobar tu comprensión de lo básico, Sisipu te ha pedido que captures cinco anchoas de Limsa Lominsa. Estos peces pueden encontrarse en las aguas que rodean Limsa Lominsa, incluidas las que están justo delante del Gremio de Pescadores."
+      "target": "Para comprobar tu comprensión de lo básico, Sisipu te ha pedido que captures cinco <ennoun(Item,3,4870,5,1)>. Estos peces pueden encontrarse en las aguas que rodean Limsa Lominsa, incluidas las que están justo delante del Gremio de Pescadores."
     },
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SEQ_02",
@@ -20,13 +20,13 @@
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_TODO_00",
       "hash": "89E75D447A2A43D2",
-      "target": "Entregar anchoas de Limsa Lominsa a Sisipu"
+      "target": "Entregar <ennoun(Item,3,4870,2,1)> a Sisipu"
     },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_000", "hash": "73C237478F79589D", "target": "Tiene un aspecto de lo más formidable. Esperemos que no espante a todos los peces." },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_001", "hash": "77780F712158E825", "target": "Bien, la primera regla de la pesca es no soltar la caña: cuide de su caña, y su caña cuidará de usted. Avíseme si voy demasiado deprisa." },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_002", "hash": "2176F770A0BCAF15", "target": "Como es nuevo aquí, empezaremos con algo pequeño, y no hay nada mucho más pequeño que las anchoas." },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_003", "hash": "5AFA48356631915B", "target": "Encontrará bancos de anchoas nadando ahí fuera, en la bahía de Galadion, así que podrá pescar su exigua cena sin caminar siquiera diez yalms." },
-    { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_004", "hash": "D0EBD70C13885579", "target": "Las anchoas no son precisamente el pez más astuto del mar, lo que las hace una primera tarea ideal. Solo tiene que cebar un anzuelo con algunos de esos lugworms que le di, sumergirlo en el agua, y los peces prácticamente se pescarán solos." },
+    { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_004", "hash": "D0EBD70C13885579", "target": "Las anchoas no son precisamente el pez más astuto del mar, lo que las hace una primera tarea ideal. Solo tiene que cebar un anzuelo con algunos de esos <ennoun(Item,3,2585,2,1)> que le di, sumergirlo en el agua, y los peces prácticamente se pescarán solos." },
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SYSTEM_000_005",
       "hash": "152D007CFDE3CE16",
@@ -47,7 +47,7 @@
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_017", "hash": "F4693BD673BFB139", "target": "\\<suspiro> Pero eso no viene al caso. Mientras siga usted esforzándose, <split(<string(gstr1)>, ,1)>, nuestras cuentas se cuadrarán solas." },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_018", "hash": "D496AE008386EB1C", "target": "No se le suba a la cabeza, claro está. Cualquier principiante puede pescar unas anchoas, pero tendrá que experimentar con distintos señuelos y explorar nuevas aguas si quiere capturar los peces grandes." },
     { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_WAWALAGO_000_019", "hash": "6E066262BF5DBB31", "target": "Los fundamentos están muy bien, pero lo divertido es pescar hallazgos nuevos. Como decía siempre mi tío: «¡Pescar es como andar de conquista: nunca sabes lo que vas a pescar!»" },
-    { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_020", "hash": "56D3254F1844F34D", "target": "...Y con esas <italic(1)>sabias<italic(0)> palabras tan bien dichas, le dejamos con sus mañas." },
+    { "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SISIPU_000_020", "hash": "56D3254F1844F34D", "target": "... Y con esas <italic(1)>sabias<italic(0)> palabras tan bien dichas, le dejamos con sus mañas." },
     {
       "gameKey": "quest/011/ClsFsh021_01108#TEXT_CLSFSH021_01108_SYSTEM_000_16",
       "hash": "226958127F2470A4",

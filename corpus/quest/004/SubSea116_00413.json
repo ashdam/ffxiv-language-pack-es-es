@@ -10,7 +10,7 @@
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_AHTBYRM_000_2",
       "hash": "B7AA21586D06959C",
-      "target": "Ghimthota, jefa de la guardia aquí en los Drydocks, cree que unos piratas podrían estar tramando un ataque contra la <italic(1)>Victoria<italic(0)>, y necesita ayuda para investigar a un grupo de individuos de mala pinta que acampan cerca. Te he recomendado para la tarea."
+      "target": "Ghimthota, jefa de la guardia aquí en los Astilleros, cree que unos piratas podrían estar tramando un ataque contra la <italic(1)>Victoria<italic(0)>, y necesita ayuda para investigar a un grupo de individuos de mala pinta que acampan cerca. Te he recomendado para la tarea."
     },
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_AHTBYRM_000_3",
@@ -30,7 +30,7 @@
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_GHIMTHOTA_000_12",
       "hash": "BAD516CE2EE2FFAA",
-      "target": "Muy bien, pues. Supongo que Ahtbyrm te informó de lo que implicaría tu tarea. A los piratas que creemos que conspiran para asaltar los Drydocks se los vio por última vez acampados cerca de una antigua piedra llamada la marca de la Hilandera. Quiero que te acerques a esos hombres, haciéndote pasar por un aventurero perdido, y veas si de algún modo logras averiguar sus intenciones. C'nangho, apostada en las puertas traseras, puede darte la ubicación exacta del campamento."
+      "target": "Muy bien, pues. Supongo que Ahtbyrm te informó de lo que implicaría tu tarea. A los piratas que creemos que conspiran para asaltar los Astilleros se los vio por última vez acampados cerca de una antigua piedra llamada la marca de la Hilandera. Quiero que te acerques a esos hombres, haciéndote pasar por un aventurero perdido, y veas si de algún modo logras averiguar sus intenciones. C'nangho, apostada en las puertas traseras, puede darte la ubicación exacta del campamento."
     },
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CNANGHO_000_20",
@@ -60,7 +60,7 @@
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIRFOLLOWA_000_40",
       "hash": "549BC04472CFEFD5",
-      "target": "¿Qué tenemos aquí? ¿<if(gnum4,Una corderita perdida,Un corderito perdido)> que viene buscando a su mamá? Tenemos un buen fuego encendido. ¿Por qué no vienes y plantas ese tierno trasero junto al viejo Mellado? Te tendré calentito y a gusto. Je, je, je."
+      "target": "¿Qué tenemos aquí? ¿<if(gnum4,Una corderita perdida,Un corderito perdido)> que viene buscando a su mamá? Tenemos un buen fuego encendido. ¿Por qué no vienes y plantas ese tierno trasero junto al viejo Mellado? Te tendré calentit<if(gnum4,a,o)> y a gusto. Je, je, je."
     },
     {
       "gameKey": "quest/004/SubSea116_00413#TEXT_SUBSEA116_00413_CORSAIRFOLLOWB_000_45",

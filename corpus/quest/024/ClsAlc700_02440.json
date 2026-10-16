@@ -15,7 +15,7 @@
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_02",
       "hash": "5F206D54BF110CCC",
-      "target": "La angustiada sirvienta de Ansobert revela que hay un extraño rumor en torno a su señor. Viaja a la Cámara Mortuoria de Erralig y habla con ella una vez más."
+      "target": "La angustiada sirvienta de Ansobert revela que hay un extraño rumor en torno a su señor. Viaja a la cámara mortuoria de Erralig y habla con ella una vez más."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_03",
@@ -30,12 +30,12 @@
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_05",
       "hash": "39B5218A7E2C6114",
-      "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de dissolvent ingredients para mezclar un vial de disolvente potente, y luego entrégaselo a Greinfarr en la Cámara Mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
+      "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de ingredientes para disolvente para mezclar un <ennoun(Item,3,17932,1,1)>, y luego entrégaselo a Greinfarr en la cámara mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_06",
       "hash": "6E02A6BE2C423611",
-      "target": "Has puesto el vial de disolvente potente en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr."
+      "target": "Has puesto el <ennoun(Item,3,17932,1,1)> en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr."
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_07",
@@ -55,7 +55,7 @@
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_01",
       "hash": "B63F15BA1A756B34",
-      "target": "Hablar con la melancólica doncella en la Cámara Mortuoria de Erralig"
+      "target": "Hablar con la melancólica doncella en la cámara mortuoria de Erralig"
     },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_02",
@@ -67,7 +67,7 @@
       "hash": "8767D09E09BC7B63",
       "target": "Hablar con Severian en el Gremio de Alquimistas"
     },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un vial de disolvente potente <sheet(Addon,9,0)>,Entregar el vial de disolvente potente <sheet(Addon,9,0)> a Greinfarr en la Cámara Mortuoria de Erralig.)>" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,17932,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,17932,1,1)> <sheet(Addon,9,0)> a Greinfarr en la cámara mortuoria de Erralig.)>" },
     {
       "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_05",
       "hash": "638579B79F74DB13",
@@ -88,7 +88,7 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_MAID02440_000_012", "hash": "85C63E27F2405317", "target": "¿El señor Ansobert? Bueno, ahora que lo menciona... Había otra joven que empezó a trabajar como sirvienta suya más o menos cuando yo. Pero un día, sin mediar palabra de ningún tipo, sencillamente desapareció. Nunca volví a verla venir al trabajo después de aquello." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_MAID02440_000_013", "hash": "5EBFC2CDBA0BBAE2", "target": "El señor Ansobert afirmó que ella robaba objetos de valor de su casa, y que no le quedó más remedio que despedirla. Pero llegué a conocerla en el tiempo que pasamos juntas. ¡Jamás habría hecho algo así!" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_MAID02440_000_014", "hash": "A757AC7E97E6C1A4", "target": "Poco después llegó a mis oídos un rumor. Dicen que el señor Ansobert solo contrata como sirvientas a mujeres de condición humilde. Y yo... confieso que, a veces, sus miradas me resultan bastante... incómodas." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_015", "hash": "E6B730A26DE127EB", "target": "Tranquila. Ahora estás a salvo. Pero debo pedírtelo: ¿vendrías con nosotros a la Cámara Mortuoria de Erralig? Hay algo que necesitamos saber, y solo tú puedes decírnoslo." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_015", "hash": "E6B730A26DE127EB", "target": "Tranquila. Ahora estás a salvo. Pero debo pedírtelo: ¿vendrías con nosotros a la cámara mortuoria de Erralig? Hay algo que necesitamos saber, y solo tú puedes decírnoslo." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_MAID02440_000_016", "hash": "C4A983F0529526E2", "target": "Si de algún modo os ayuda a averiguar qué le ocurrió a esa muchacha, entonces sí. Os seguiré adonde me pidáis." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_020", "hash": "7B0C70E2F47C83D6", "target": "¡Ahí estás, <split(<string(gstr1)>, ,1)>! Ven, oigamos lo que esta sirvienta tiene que decir." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SESERUKKA_000_025", "hash": "F190F322C5EA8306", "target": "¡Malditos sean los dioses, Ansobert! Huye cuanto quieras. ¡Te encontraremos igualmente! ¡Te encontraremos y acabaremos contigo!" },
@@ -122,7 +122,7 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_ROWENA_000_070", "hash": "8FF2655BF71F9225", "target": "¿Qué problemas has traído a mis jardines?" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_ROWENA_000_071", "hash": "1DDBAF1B861CFBE2", "target": "Bueno, Ansobert siempre ha sido un gusto adquirido, y yo nunca lo he adquirido. Diré al guardia de la puerta que mire hacia otro lado... pase lo que pase." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_ROWENA_000_072", "hash": "0AFE6E1300747A47", "target": "¿Hm? ¿Que ignore cuanto ocurra hoy aquí?" },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_WILTWAEK_000_073", "hash": "D31844513E595E5A", "target": "...No sé qué pretende hacer, pero disfrute haciéndolo." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_WILTWAEK_000_073", "hash": "D31844513E595E5A", "target": "... No sé qué pretende hacer, pero disfrute haciéndolo." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_075", "hash": "8BE4E0BF5626815C", "target": "El momento de la verrrdad casi ha llegado." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SESERUKKA_000_076", "hash": "80DC05BC5F4E2730", "target": "Ansobert puede salir de aquí como cadáver o bajo custodia. Cualquiera de las dos me vale." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_MAID02440_000_074", "hash": "C847B947E82581CF", "target": "La enviaron a la tumba cargando aún con las falsas acusaciones que le lanzaron. Temo que su alma no logre descansar en paz. Por favor, llevadla al otro lado." },
@@ -134,13 +134,13 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_085", "hash": "D637C37B3BB12124", "target": "Y, sin embargo, contempla el otro lado. Aquí no hay incrustada joya alguna. Aventuraría que se desprendió en algún momento, con todo el cambio de manos y el violento apuñalamiento que esta arma ha visto a lo largo de los años. Sin la otra piedra, no hay poder suficiente para tornar del todo la muerte en no-muerte." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_086", "hash": "ED1C290D83879583", "target": "Solo por esa gracia siguen Niellefresne y la joven dama yaciendo en su estado perfectamente conservado. De haber permanecido ambas piedras, se habrían alzado como monstruos, no como se los conoció en vida, ni verdaderamente vivos. Con el poder que aún pudo reunir, el Traspasacorazón se limitó a encadenar sus espíritus a sus cuerpos." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_087", "hash": "E505F58C6D4EABDF", "target": "Eso, a su vez, explica de maravilla por qué su carne jamás se ha puesto a pudrirse. Ahora, o en cualquier momento a partir de ahora, deshacer la magia del Traspasacorazón servirá para desligar sus espíritus. Entonces, y solo entonces, quedarán libres para volver en paz al reino etéreo." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_088", "hash": "57D4CF1B5DAA89C5", "target": "¿Cómo? ¿Cómo podemos reparrrar lo que ha hecho?" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_088", "hash": "57D4CF1B5DAA89C5", "target": "¿Cómo? ¿Cómo podemos repararrr lo que ha hecho?" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_089", "hash": "539ABDFFA85C7CAC", "target": "Me atrevo a decir que es mucho más sencillo de lo que imaginas. Solo has de destruir la fuente de la magia." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_090", "hash": "30824965DDD503B7", "target": "Envaina la espada, insensato. No romperás la magia rompiendo la hoja. Debemos obliterar el Traspasacorazón, y no dejar ni rastro de su existencia física. A tal fin, necesitamos un agente poderoso: un ácido, un disolvente de algún tipo." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_091", "hash": "347DDDEE87164406", "target": "Y, siendo ese el caso, te has hecho un gran favor viniendo aquí. Semejante brebaje no supondrá hazaña alguna para mí y para mi prodigioso pupilo aquí presente. ¿No es así, pupilo?" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_092", "hash": "11EBAC71A1D60005", "target": "¡Desde luego que no! No esperaría menos de ti." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_093", "hash": "683230926F335425", "target": "Y así, al final, recurrimos a usted, amigo. Los errores de nuestro pasado fueron nuestros. Y esperaba enmendarlos con nuestras propias manos. Pero parece que no estaba destinado a ser." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_094", "hash": "D91C94171E4DD148", "target": "Esa vergüenza es nuestra y hemos de cargar con ella. Por ahora, tómese su tiempo. Serene el pulso. Prepárenos lo que necesitamos para deshacer lo que el Traspasacorazón ha hecho. Le esperaremos en la Cámara Mortuoria de Erralig." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_094", "hash": "D91C94171E4DD148", "target": "Esa vergüenza es nuestra y hemos de cargar con ella. Por ahora, tómese su tiempo. Serene el pulso. Prepárenos lo que necesitamos para deshacer lo que el Traspasacorazón ha hecho. Le esperaremos en la cámara mortuoria de Erralig." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_095", "hash": "49A6C97789C41F09", "target": "Mira lo lejos que has llegado. Sin que yo mismo me diera cuenta, te has convertido en todo un ayudante de fiar." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_096", "hash": "FFA38DFE65A3CC0B", "target": "Pero basta de elogios. No me pegan. Vamos, ocupémonos de la tarea que nos atañe. Necesitamos una solución que disuelva esta maldita hoja." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_097", "hash": "0DB1B5FA25EE8C84", "target": "No intentes crear el disolvente. Eso es imposible. En su lugar, procura solo darte cuenta de que estás mezclando los ingredientes, y de que son <italic(1)>ellos<italic(0)> los que crean el disolvente. Si fracasas en el intento, tengo más materiales para que vuelvas a probar. Cuando esté hecho, entrégale el vial a Greinfarr." },
@@ -151,15 +151,15 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_104", "hash": "5BC9D04EAC5A1FA8", "target": "Niellefresne..." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_105", "hash": "DDFBC37631395DA6", "target": "¡Nielle!" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_106", "hash": "3E2433858CE5F569", "target": "Así que ha llegado. El final... El final de verrrdad. Jamás te olvidaré, ni el tiempo que pasamos juntos. Los días que pasé en tus brazos. En tu amor. Jamás." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_107", "hash": "C7ACFE19A10E75F5", "target": "Te amo, mi vida. Entonces. Ahorrra. Siempre." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_108", "hash": "E3D3D72EB8BC8C99", "target": "Adiós, mi querrrido Nielle." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_107", "hash": "C7ACFE19A10E75F5", "target": "Te amo, mi vida. Entonces. Ahora. Siempre." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_108", "hash": "E3D3D72EB8BC8C99", "target": "Adiós, mi querido Nielle." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_109", "hash": "A522E195FC7A4399", "target": "Vaya, eso parece un buen vial de disolvente potente. Me atrevo a decir que no estoy del todo seguro de que yo mismo pudiera haberlo hecho mejor. Aunque, sí, ahora que lo pienso, probablemente sí. No importa. Greinfarr aguarda. Entrégale tu vial con toda premura." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_110", "hash": "AA7E07F18409A6F0", "target": "He esperado esto durante mucho, mucho tiempo. Hoy es el día en que nos despedimos parrra siempre." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_000_110", "hash": "AA7E07F18409A6F0", "target": "He esperado esto durante mucho, mucho tiempo. Hoy es el día en que nos despedimos para siempre." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_115", "hash": "6B2CA1F08E31455F", "target": "Nunca pensé que tendríamos este día. Esta oportunidad. Y todo gracias a ti." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SESERUKKA_000_120", "hash": "CA95E8EC6D3D11E1", "target": "Niellefresne..." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_125", "hash": "A7C0B05E23D3B45D", "target": "¿Cómo le ha ido, amigo? ¿Está preparada la mezcla?" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_130", "hash": "3536723D73FE9493", "target": "No hay palabras, amigo. No hay palabras. Estoy en deuda con usted más de lo que jamás podría esperar saldar." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_100_131", "hash": "8DD989C7813DE6EB", "target": "Gracias a tus afanes, mi querrridísimo Nielle descansa ahora en paz. No sé qué decir salvo esto: gracias. Mil veces, gracias." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_FLHAMINN_100_131", "hash": "8DD989C7813DE6EB", "target": "Gracias a tus afanes, mi queridísimo Nielle descansa ahora en paz. No sé qué decir salvo esto: gracias. Mil veces, gracias." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SESERUKKA_000_132", "hash": "E7888122EEB254A3", "target": "Niellefresne..." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_133", "hash": "2C46F34A843AE636", "target": "Ánimo, Seserukka." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_134", "hash": "3ED2E495E45363F4", "target": "Esto es un final, pero no el final. Aún hay un camino ante cada uno de nosotros que debemos recorrer." },
@@ -179,7 +179,7 @@
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_166", "hash": "728FF934CA3B6AD9", "target": "Hay quienes harían cualquier cosa por recuperar a aquellos a quienes tenían por atormentadora e inquebrantablemente queridos. De presentárseles el camino para hacerlo, muchos hallarían la tentación de recorrerlo demasiado grande como para resistirse." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_167", "hash": "217D67B9A5A7DB4D", "target": "Y me atrevo a decir que debo contarme entre ellos. Hice cuanto pude por deshacer la muerte de mi amada, pero, al final, su pecho jamás volvió a henchirse con el aliento de la vida. Pudimos, no obstante, despedirnos, y por ello me considero afortunado." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_168", "hash": "4F7865413FAB298F", "target": "Ante semejante pérdida, no podemos hacer sino afrontar nuestra propia debilidad y seguir adelante con nuestras vidas. Ese acto en sí mismo es un pilar central de este milagro que llamamos vida." },
-    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_169", "hash": "855F47C0DA9B6314", "target": "En fin, basta ya de este asunto del Traspasacorazón. Está hecho y quedó atrás. Y, mientras nos ocupábamos de ello, se han amontonado muchas tareas en el Frontisterio. Hay mucho que hacer." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_169", "hash": "855F47C0DA9B6314", "target": "En fin, basta ya de este asunto del Traspasacorazón. Está hecho y quedó atrás. Y, mientras nos ocupábamos de ello, se han amontonado muchas tareas en la Academia Médica. Hay mucho que hacer." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEVERIAN_000_170", "hash": "5E633D7C1DCBDCAE", "target": "Lo has hecho bien, <split(<string(gstr1)>, ,1)>. Y estás entre los mejores alquimistas que he tenido el honor de instruir. Ven a verme de nuevo siempre que te veas necesitado de ayuda." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_GREINFARR_000_175", "hash": "BFC0EB81D030ED0E", "target": "Hacía más tiempo del que alcanzo a recordar que no conocía tanto sosiego y calma... tanta paz. También esto se lo debo, amigo." }
   ]

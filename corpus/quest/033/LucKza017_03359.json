@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SEQ_00", "hash": "F6A88677FAB46AB4", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>El criado se remueve inquieto por la indecisión." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_00", "hash": "34F0C8F6FF6559B0", "target": "Hablar con la anciana aldeana" },
-    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_01", "hash": "9B1595580F1D8BF2", "target": "Cosechar espigas de cebada dorada" },
-    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_02", "hash": "70A1A0FDFB47B3F1", "target": "Entregar las espigas de cebada dorada a la anciana aldeana" },
-    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_03", "hash": "564E5687F8260630", "target": "Entregar la botella de cerveza de Artífice al criado" },
+    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_01", "hash": "9B1595580F1D8BF2", "target": "Cosechar <ennoun(EventItem,3,2002686,2,1)>" },
+    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_02", "hash": "70A1A0FDFB47B3F1", "target": "Entregar las <ennoun(EventItem,3,2002686,2,1)> a la anciana aldeana" },
+    { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_TODO_03", "hash": "564E5687F8260630", "target": "Entregar la <ennoun(EventItem,3,2002687,1,1)> al criado" },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SERVANT03359_000_000", "hash": "5D2E080B05E0F12D", "target": "Disculpe, <if(gnum4,señora,señor)>, usted también está de visita aquí, ¿verdad? Me preguntaba si estaría dispuesto a prestarme un pequeño servicio..." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SERVANT03359_000_001", "hash": "EA3A32B19FA07354", "target": "Sirvo a cierta familia de la élite de Eulmore y, por encargo de mi señor ─un hombre de paladar exigente para la buena bebida─, me he aventurado hasta las famosas cervecerías de Artífice." },
     { "gameKey": "quest/033/LucKza017_03359#TEXT_LUCKZA017_03359_SERVANT03359_000_002", "hash": "CE6A34354F7531CA", "target": "Ah, ¿usted no bebe? De lo contrario, sin duda conocería la incomparable ale de Artífice y su brillante reputación entre los privilegiados de Eulmore." },

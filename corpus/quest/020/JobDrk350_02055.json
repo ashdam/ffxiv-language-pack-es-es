@@ -15,7 +15,7 @@
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_00", "hash": "3AB1D199B1F38F84", "target": "Reunirte con Fray en Pequeña Ala Mhigo" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_01", "hash": "D245BE8548FE428E", "target": "Hablar con Gundobald" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_02", "hash": "9895F8C396428C0A", "target": "Hablar con Fray en el Laberinto Rojo" },
-    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_03", "hash": "3D578380D95DE69D", "target": "Colocar la carne de aldgoat en el Laberinto Rojo" },
+    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_03", "hash": "3D578380D95DE69D", "target": "Colocar la <lower(<sheet(EventItem,2001812,9)>)> en el Laberinto Rojo" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_04", "hash": "FB95031F3A2E6AED", "target": "Aguardar al acecho a un peiste" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_05", "hash": "BAAACCE90DCDC9E6", "target": "Hablar con Fray" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_TODO_06", "hash": "74467B686FFF3FDA", "target": "Reunirte con Fray al sur de Pequeña Ala Mhigo" },
@@ -80,7 +80,7 @@
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_131", "hash": "D9B8E990F453D519", "target": "Aunque ninguna buena acción queda sin castigo, ¿verdad?" },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_132", "hash": "C5F42F21A2AB62B3", "target": "... Conocí a <if(gnum4,una mujer,un hombre)> en su día. Quería ser <if(gnum4,una heroína,un héroe)>, hacer grandes cosas. Y así lo hizo <if(gnum4,ella,él)>." },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_133", "hash": "94F243C41F65A7B8", "target": "Las canciones siempre terminan ahí. Pero la vida no, ¿verdad?" },
-    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_134", "hash": "940B7F516892891E", "target": "...Hay tentaciones más mortíferas que el lado oscuro, <split(<string(gstr1)>, ,1)>. Ya deberías haberlo aprendido, pero no lo has hecho. Lo harás." },
+    { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_134", "hash": "940B7F516892891E", "target": "... Hay tentaciones más mortíferas que el lado oscuro, <split(<string(gstr1)>, ,1)>. Ya deberías haberlo aprendido, pero no lo has hecho. Lo harás." },
     { "gameKey": "quest/020/JobDrk350_02055#TEXT_JOBDRK350_02055_FRAY_000_135", "hash": "5724A988D5A0E9EE", "target": "La comunión ha terminado, y con ella, nuestro tiempo juntos. Pero volveremos a vernos, como antes." }
   ]
 }

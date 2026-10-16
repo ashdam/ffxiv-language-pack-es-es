@@ -65,7 +65,7 @@
     {
       "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_TODO_04",
       "hash": "8816830FEBB452D2",
-      "target": "<if([lnum1<lnum2],Sintetizar un cuenco de caldo de udon domano <sheet(Addon,9,0)>,Entregar el caldo de udon domano <sheet(Addon,9,0)> a Raulf)>"
+      "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,17936,1,1)> <sheet(Addon,9,0)>,Entregar el caldo de udon domano <sheet(Addon,9,0)> a Raulf)>"
     },
     {
       "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_TODO_05",
@@ -100,7 +100,7 @@
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_RAULF_000_035", "hash": "6B608505DF0FC1CC", "target": "Parece que no queda más remedio que ir al Lejano Oriente. Pero ¿qué hago con el café? No puedo dejarlo desatendido..." },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_036", "hash": "245F9DEA95F646BD", "target": "Disculpe, <split(<string(gstr1)>, ,1)>. Como de costumbre, no he podido evitar oír las apasionadas peroratas de la capitana, y me alegra decir que tengo el pescado seco en nuestro almacén." },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_037", "hash": "F6701356251D153F", "target": "Mhasi-Bee... casi nunca viene a visitarme, ¿sabe?, así que adopté un gatito para acordarme de él. Y da la casualidad de que le encanta el pescado seco más que ninguna otra cosa." },
-    { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_038", "hash": "ABDD5560FF87012D", "target": "¡Desde entonces he descubierto que un gato es mucha mejor compañía que cierto pedazo de mierda egocéntrico que no está nunca! ...E-Ejem. ¿De qué estábamos hablando?" },
+    { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_038", "hash": "ABDD5560FF87012D", "target": "¡Desde entonces he descubierto que un gato es mucha mejor compañía que cierto pedazo de mierda egocéntrico que no está nunca! ... E-Ejem. ¿De qué estábamos hablando?" },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_039", "hash": "C6327D3BCCE9C2EE", "target": "¡Eso, el pescado seco! Cualquier amigo de <split(<string(gstr1)>, ,1)> es amigo mío, y puede llevarse todo el que necesite. Sírvase usted mism<if(gnum4,a,o)>." },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_RAULF_000_040", "hash": "985EB4ACEA4CCB7B", "target": "¿¡De veras!? ¡Estoy en deuda con usted! <split(<string(gstr1)>, ,1)>, iré a por el pescado. ¡Nos vemos de vuelta en el Peaje del Aparecido!" },
     { "gameKey": "quest/026/ClsCul650_02606#TEXT_CLSCUL650_02606_MELKOKO_000_041", "hash": "D8C7E12538774632", "target": "Qué dedicación a su oficio. Vaya, es como si hubiera algo más que lo impulsa aparte de la cocina. Como si hubiera... ¿amor? Solo intuición femenina, ¡ji, ji!" },

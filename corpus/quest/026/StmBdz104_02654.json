@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_SEQ_00", "hash": "F18284E16BA6BDA4", "target": "Este mercader sin suerte está desesperado por conseguir ayuda." },
-    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_00", "hash": "32B5B152D53DAD57", "target": "Obtener el saco robado" },
-    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_01", "hash": "872553917529AFE2", "target": "Entregar el saco robado a Ansger" },
-    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_02", "hash": "3BF3782D051BCFC8", "target": "Entregar la caja de minerales al mercader sin suerte" },
+    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_00", "hash": "32B5B152D53DAD57", "target": "Obtener el <ennoun(EventItem,3,2002276,1,1)>" },
+    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_01", "hash": "872553917529AFE2", "target": "Entregar el <ennoun(EventItem,3,2002276,1,1)> a Ansger" },
+    { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_TODO_02", "hash": "3BF3782D051BCFC8", "target": "Entregar la <ennoun(EventItem,3,2002277,1,1)> al mercader sin suerte" },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_PITYMERCHANT02654_000_000", "hash": "D4E8A589C59481BF", "target": "Hola, <if(gnum4,amiga,amigo)>. ¿No tendrás por casualidad un rato para ayudar a un hombre en apuros?" },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_PITYMERCHANT02654_000_001", "hash": "2BC6E7E535DDA607", "target": "Vine a comprar minerales que debía suministrar a la Resistencia. El único problema es que unos bandidos Qiqirn me robaron todo el gil de camino hasta aquí." },
     { "gameKey": "quest/026/StmBdz104_02654#TEXT_STMBDZ104_02654_PITYMERCHANT02654_000_002", "hash": "AF577E0BE829A554", "target": "¿Quién va a recurrir a un mercader que no puede entregar la mercancía que dice vender? Por favor, ve a la Leche de Momoroon y recupera mi dinero." },

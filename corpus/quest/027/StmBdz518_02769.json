@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_SEQ_00", "hash": "A2D67B545CCDB7A1", "target": "Caur necesita la ayuda de <if(gnum4,una mujer,un hombre)> fuerte." },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Obtener un poste de tienda de la tienda en ruinas" },
-    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Entregar el poste de tienda a Caur" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_00", "hash": "E945A3D7D8A402DF", "target": "Obtener un <ennoun(EventItem,3,2002294,1,1)> de la tienda en ruinas" },
+    { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_TODO_01", "hash": "9904411AB071DF3F", "target": "Entregar el <ennoun(EventItem,3,2002294,1,1)> a Caur" },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_000", "hash": "86A7627360ED45A6", "target": "¿Puedo pedirte que nos ayudes a reparar la tienda?" },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_001", "hash": "531ADA1DA9E181E3", "target": "El poste central que la sostiene lleva meses debilitándose y temo que no aguante mucho más." },
     { "gameKey": "quest/027/StmBdz518_02769#TEXT_STMBDZ518_02769_CAUR_000_002", "hash": "31ED89DC4182C12E", "target": "Pero el otro día vi que hay un poste perfecto justo al sur de aquí. Lo encontrarás entre los restos de una tienda Kahkol destruida por los Buduga." },

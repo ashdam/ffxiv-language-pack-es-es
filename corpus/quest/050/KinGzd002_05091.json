@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SEQ_00", "hash": "D05A9FFE7B4C104A", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>La nadadora ilusionada busca a alguien con pulmones de leyenda." },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_00", "hash": "379B0BB18ACD405A", "target": "Buscar la bolsa de monedas empapada en Xd'aa Talat Tsoly" },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Entregar la bolsa de monedas empapada a la nadadora ilusionada" },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_00", "hash": "379B0BB18ACD405A", "target": "Buscar la <ennoun(EventItem,3,2003688,1,1)> en Xd'aa Talat Tsoly" },
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_TODO_01", "hash": "46D828D2BB9ED37F", "target": "Entregar la <ennoun(EventItem,3,2003688,1,1)> a la nadadora ilusionada" },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_000", "hash": "FC401F1A33A3ECD5", "target": "Ah, hola. ¿Tú también has venido a darte un chapuzón? Si nadas tan bien como pareces, hay algo con lo que me gustaría que me echaras una mano." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_001", "hash": "25A7CDB0D315E7C1", "target": "Lo que tienes delante es un tsoly, o cenote, como se los conoce normalmente, y es mucho más vasto de lo que parece desde la superficie. Hasta he oído que algunos están unidos por túneles submarinos." },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_002", "hash": "29F767A658B90832", "target": "Este se llama Xd'aa Talat Tsoly, y las historias cuentan que hace mucho un nadador con pulmones de pez llegó hasta un cenote del noroeste. Pero desde entonces nadie ha conseguido nadar tan lejos..." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_012", "hash": "26B5F4CA9E984DDB", "target": "¡Entonces es verdad! Yo probé una vez a nadar por los túneles, pero tuve que dar media vuelta cuando noté que se me llenaban los pulmones de agua. ¡Verte en acción ha sido toda una inspiración!" },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_013", "hash": "F06F093D80452FF0", "target": "¿No? Bueno, si las monedas estaban ahí... entonces la leyenda tiene que ser cierta, ¿no?" },
     { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_014", "hash": "B569E23C4BE1AA06", "target": "¿Sabes? Hasta he oído decir que algunos cenotes llegan hasta la sal. Al principio no me lo creía, pero ahora ya no me cuesta imaginarlo." },
-    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_015", "hash": "BB7F39A4DFEF3A7E", "target": "...Vale, decidido. ¡Seré de las primeras en llegar a la sal por un cenote! ¿Y quién será lo bastante valiente para encontrar las monedas que deje <italic(1)>yo<italic(0)>, eh?" }
+    { "gameKey": "quest/050/KinGzd002_05091#TEXT_KINGZD002_05091_SWIMXBRAAL05091_000_015", "hash": "BB7F39A4DFEF3A7E", "target": "... Vale, decidido. ¡Seré de las primeras en llegar a la sal por un cenote! ¿Y quién será lo bastante valiente para encontrar las monedas que deje <italic(1)>yo<italic(0)>, eh?" }
   ]
 }

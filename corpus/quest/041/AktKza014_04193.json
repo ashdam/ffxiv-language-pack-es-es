@@ -3,9 +3,9 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_SEQ_00", "hash": "EAD232254960D3FB", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Rubh'a Epocan tiene trabajo para un buen par de piernas veloces." },
-    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_TODO_00", "hash": "1D410908527F8D97", "target": "Entregar el saco de fruta a Sibylane en el mitato" },
+    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_TODO_00", "hash": "1D410908527F8D97", "target": "Entregar el <ennoun(EventItem,3,2003123,1,1)> a Sibylane en el mitato" },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_TODO_01", "hash": "D25F03FBBDEFCE91", "target": "Entregar el queso dorado a Rubh'a Epocan" },
-    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_000", "hash": "2278596359DACB30", "target": "Saludos. Parece <if(gnum4,dispuesta,dispuesto)> a ceder una pequeña parte de su tiempo en nombre del progreso. Solo necesito ayuda con una simple entrega y, tenga por seguro, recibirá una justa recompensa." },
+    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_000", "hash": "2278596359DACB30", "target": "Saludos. Parece <if(gnum4,dispuesta,dispuesto)> a ceder una pequeña parte de su tiempo en nombre del progreso. Solo necesito ayuda con una simple entrega y tenga por seguro que recibirá una justa recompensa." },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_001", "hash": "9C4F28802A02AF39", "target": "Esperaba que alguien de la granja lechera viniera a recoger esta remesa de fruta, pero no he visto ni rastro de ellos. La entregaría yo mismo, pero mis obligaciones me impiden alejarme ni un ilm de estas cajas." },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_002", "hash": "8BDCC6B0D905DC2C", "target": "La fruta es propensa a pudrirse si no se almacena como es debido, así que, si no es mucha molestia, dese prisa en llegar al mitato y entréguela a mi colega de allí." },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_003", "hash": "A7B5F06F331438F1", "target": "Le ruego que se apresure a llegar al mitato y entregue la fruta a mi colega apostado allí antes de que empiece a pudrirse." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_020", "hash": "81FB5B24AF2C5D10", "target": "Nada de fruta, por lo que veo. Confío en que la entregara sin incidentes. No se la habrá comido, ¿verdad?" },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_021", "hash": "ED53B6B1B711C79A", "target": "¡Esto es... esto es queso dorado! Las leyendas dicen que solo los maestros de Werlyt conocían el secreto de su elaboración; ¡jamás pensé que llegaría a ver una sola loncha, y no digamos ya una rueda entera!" },
     { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_022", "hash": "9710F1EBD8267B5A", "target": "Si voy a recibir uno de estos cada vez que Sibylane se olvide de sus obligaciones, entonces que sea tan despistada como le plazca. ¿A qué sabrá, me pregunto? ¿Estará a la altura de las leyendas?" },
-    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_023", "hash": "B04497C5082E1A53", "target": "...Ah, mis disculpas. Tiendo a dejarme llevar cuando se trata de queso. En fin, gracias por su ayuda, y tenga esto por su tiempo. Compartiría este queso con usted, pero..." }
+    { "gameKey": "quest/041/AktKza014_04193#TEXT_AKTKZA014_04193_RUBHAEPOCAN_000_023", "hash": "B04497C5082E1A53", "target": "... Ah, mis disculpas. Tiendo a dejarme llevar cuando se trata de queso. En fin, gracias por su ayuda, y tenga esto por su tiempo. Compartiría este queso con usted, pero..." }
   ]
 }

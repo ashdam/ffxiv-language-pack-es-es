@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_SEQ_00", "hash": "BFFB7243378C3C78", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Haraldur ha encontrado un objeto perdido." },
-    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_00", "hash": "48FF2F8FBCD7C980", "target": "Entregar la pipa extravagante al minero de rasgos marcados" },
+    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_00", "hash": "48FF2F8FBCD7C980", "target": "Entregar la <ennoun(EventItem,3,2002735,1,1)> al minero de rasgos marcados" },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_TODO_01", "hash": "5A923E17C8C0EB95", "target": "Hablar con el minero de rasgos marcados" },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_HARALDUR_000_000", "hash": "9D4628C20C0AE8D8", "target": "Perdona, <if(gnum4,señorita,amigo)>. Aquel tipo con el que hablabas se dejó caer la pipa." },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_HARALDUR_000_001", "hash": "B42913736520BCAE", "target": "Parece bastante vieja. Puede que valga algo." },
@@ -19,6 +19,6 @@
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_FATHER03514_000_033", "hash": "AE7491649EC331BE", "target": "Pasara lo que pasara, nunca se rindió. Después de que los maestros de los talos se marcharan hace quince años, nos topamos con toda clase de problemas. Perdimos a muchos buenos trabajadores por derrumbes, ataques de devorapecados, heridas o, sencillamente, porque se iban a buscar mejor fortuna en otra parte. Aun así, él siguió picando." },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_FATHER03514_000_034", "hash": "79D54FDA518FEC5F", "target": "Aunque ya no está entre nosotros, tratamos de seguir el ejemplo que dio. Siempre llevo conmigo su vieja pipa como recuerdo de los días que pasamos juntos." },
     { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_FATHER03514_000_035", "hash": "49DFDE19FA86141C", "target": "Le agradezco que se tomara el tiempo de escuchar. Reconforta saber que alguien de fuera de Cordel se interesa por el trabajo que hacemos y por las razones que nos mantienen en pie, a pesar de todo." },
-    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_FATHER03514_000_036", "hash": "B9E4D6A8278372F1", "target": "Lo que me recuerda que debo ver a los demás para lo de librarnos de esos malditos gnomes, pero espero tener la ocasión de hablar de nuevo con usted algún día. Que le vaya bien." }
+    { "gameKey": "quest/035/LucKzh004_03514#TEXT_LUCKZH004_03514_FATHER03514_000_036", "hash": "B9E4D6A8278372F1", "target": "Lo que me recuerda que debo ver a los demás para lo de librarnos de esos malditos gnomos, pero espero tener la ocasión de hablar de nuevo con usted algún día. Que le vaya bien." }
   ]
 }

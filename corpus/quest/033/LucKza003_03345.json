@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_SEQ_00", "hash": "42C75BF59FB0A831", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Darlfort parece preocupado." },
-    { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_TODO_00", "hash": "C2DA7A2AF27B66D8", "target": "Obtener el licor potente de Eidith" },
-    { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_TODO_01", "hash": "1066C448D0104D11", "target": "Entregar el licor potente al intendente de las Catenarias" },
+    { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_TODO_00", "hash": "C2DA7A2AF27B66D8", "target": "Obtener el <lower(<sheet(EventItem,2002581,9)>)> de Eidith" },
+    { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_TODO_01", "hash": "1066C448D0104D11", "target": "Entregar el <lower(<sheet(EventItem,2002581,9)>)> al intendente de las Catenarias" },
     { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_TODO_02", "hash": "1A9850946A6FF325", "target": "Hablar con Darlfort" },
     { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_DARLFORT_000_000", "hash": "0475B1638CDE8819", "target": "Buenos días, <if(gnum4,señora,señor)>. Siento muchísimo pedírselo a un cliente, pero ¿tendría por casualidad un momento para hacerme una entrega?" },
     { "gameKey": "quest/033/LucKza003_03345#TEXT_LUCKZA003_03345_DARLFORT_000_001", "hash": "78A9B1E3C7E07EA0", "target": "Verá, justo ayer un cliente ─no de los habituales, creo que está de visita, de fuera del Cristarium─ vino preguntando por cierto licor muy fuerte por el que se nos conoce. En ese momento se nos acababa de agotar, pero le dije que nuestro proveedor tendría más listo hoy." },

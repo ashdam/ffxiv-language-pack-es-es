@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_SEQ_00", "hash": "CA078557E8999607", "target": "Raubahn tiene un favor personal que pedirte." },
-    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_TODO_00", "hash": "5B8A4A401C5E61A8", "target": "Entregar el paquete de Raubahn a Pipin" },
+    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_TODO_00", "hash": "5B8A4A401C5E61A8", "target": "Entregar el <ennoun(EventItem,3,2002188,1,1)> a Pipin" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_TODO_01", "hash": "9CA0E9FAA08909AB", "target": "Seguir a Alphinaud" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_TODO_02", "hash": "7E227E98FB992899", "target": "Hablar con Hakuro" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_TODO_03", "hash": "DFE5E0F9A8B72F24", "target": "Informar a Pipin" },
@@ -26,7 +26,7 @@
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_FLAMEHERALD_000_052", "hash": "398D11CC64DECCF2", "target": "¡Vicemariscal! ¡Vicemariscal! ¡Se aproxima una unidad imperial por el norte!" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_PIPIN_000_053", "hash": "6B7F91AC6A730E80", "target": "Pretenden destruir nuestra artillería, ¿eh? ¿Cuántos son?" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_FLAMEHERALD_000_054", "hash": "69154D10DBFD9CD1", "target": "Cifras totales sin confirmar. Al menos un escuadrón. Pero, señor... ¡son hombres lobo!" },
-    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_PIPIN_000_055", "hash": "DD0475F082CB9AA3", "target": "Los Ferae Domitae. Por todos los infiernos, lo que nos faltaba. Llamad a los Bloodsworn. Decidles que se preparen..." },
+    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_PIPIN_000_055", "hash": "DD0475F082CB9AA3", "target": "Los Ferae Domitae. Por todos los infiernos, lo que nos faltaba. Llamad a los Juramentados de Sangre. Decidles que se preparen..." },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_000_056", "hash": "540556E0D26F3266", "target": "¡Aguarde, vicemariscal Tarupin!" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_000_057", "hash": "2D204C5E075FA3B2", "target": "Esos \"hombres lobo\" de los que habla proceden de Doma. Los <italic(1)>obligaron<italic(0)> a combatir por el Imperio... se los llevaron a una tierra extranjera y les dijeron que, si desobedecían, la vida de sus familiares estaría perdida." },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_000_058", "hash": "17A3F10DC372265A", "target": "Pero su patria ha sido liberada. ¡No tienen motivo para seguir sirviendo a sus amos imperiales!" },
@@ -81,7 +81,7 @@
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_002", "hash": "1FAB26BABCAEEA74", "target": "¡Qué ferocidad...! ¡Si no cede, nos veremos obligados a matarlo!" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_HAKURO_BATTLETALK_105_003", "hash": "E1A0DF78F126DCBB", "target": "Basta. Sois tan guerreros como afirmáis ser." },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_DEAD", "hash": "EC43C2EE415140CD", "target": "Maldita sea..." },
-    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_003", "hash": "20E417C558544040", "target": "...Que así sea. ¡Carbuncle Piedra Lunar! ¡Ven!" },
+    { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_003", "hash": "20E417C558544040", "target": "... Que así sea. ¡Carbuncle Piedra Lunar! ¡Ven!" },
     { "gameKey": "quest/025/StmBda705_02552#TEXT_STMBDA705_02552_ALPHINAUD_BATTLETALK_005_004", "hash": "1A170D4485BD4CF0", "target": "¡Colocaos dentro de los círculos mágicos del Carbuncle!<br>¡Os otorgarán fuerza!" }
   ]
 }

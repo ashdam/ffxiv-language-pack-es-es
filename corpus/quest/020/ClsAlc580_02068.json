@@ -15,7 +15,7 @@
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_SEQ_02",
       "hash": "53657855E39AB00F",
-      "target": "Llegas y te encuentras ante una extraña escena, una que la explicación de Chanene apenas aclara. Un único Lalafell conducía un carruaje, y en la parte trasera había dos barriles, de los que el sospechoso afirma no saber nada. Dentro de estos había dos Hyur idénticos, uno vivo y uno muerto. El vivo permanece en silencio, presumiblemente en el mismo estado que el joven del Cercano Oriente que encontraste antes. Chanene está desconcertada salvo por una única pista: un agrietado diario de cuero hallado sobre el muerto. En él, habla de una hermana que trabaja en Pluma de la Cola. Ve allí ahora y averigua si el cadáver tenía un gemelo."
+      "target": "Llegas y te encuentras ante una extraña escena, una que la explicación de Chanene apenas aclara. Un único Lalafell conducía un carruaje, y en la parte trasera había dos barriles, de los que el sospechoso afirma no saber nada. Dentro de estos había dos Hyur idénticos, uno vivo y uno muerto. El vivo permanece en silencio, presumiblemente en el mismo estado que el joven del Cercano Oriente que encontraste antes. Chanene está desconcertada salvo por una única pista: un <ennoun(EventItem,3,2001707,1,1)> hallado sobre el muerto. En él, habla de una hermana que trabaja en Pluma de la Cola. Ve allí ahora y averigua si el cadáver tenía un gemelo."
     },
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_SEQ_03",
@@ -25,7 +25,7 @@
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_SEQ_04",
       "hash": "EEC503AD6685403B",
-      "target": "En tu ausencia, Wiltwaek ha encontrado a un testigo que declara haber visto al sospechoso Lalafell levantar ambos barriles —cadáveres incluidos— hasta la parte trasera del carruaje. El propio culpable, sin embargo, lo niega, diciendo que le sería imposible realizar semejantes proezas de fuerza. Ni Wiltwaek ni Chanene lo creen inocente, así que te piden que prepares una draconian potion of strength de alta calidad. Hazlo, para que Chanene pueda bebérsela y comprobar si un Lalafell ayudado por la alquimia puede levantar tanto peso.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas contenidas en <italic(1)>Alquimia experta III<italic(0)>.<edgecolortype(0)><colortype(0)>"
+      "target": "En tu ausencia, Wiltwaek ha encontrado a un testigo que declara haber visto al sospechoso Lalafell levantar ambos barriles —cadáveres incluidos— hasta la parte trasera del carruaje. El propio culpable, sin embargo, lo niega, diciendo que le sería imposible realizar semejantes proezas de fuerza. Ni Wiltwaek ni Chanene lo creen inocente, así que te piden que prepares una <ennoun(Item,3,12622,1,1)> de alta calidad. Hazlo, para que Chanene pueda bebérsela y comprobar si un Lalafell ayudado por la alquimia puede levantar tanto peso.<br><br><colortype(500)><edgecolortype(501)>Para completar esta misión, debes haber aprendido las recetas avanzadas contenidas en <italic(1)>Alquimia experta III<italic(0)>.<edgecolortype(0)><colortype(0)>"
     },
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_SEQ_05",
@@ -40,17 +40,17 @@
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_TODO_01",
       "hash": "7121C9F294848C2C",
-      "target": "Mostrar el agrietado diario de cuero a la hermana distanciada de la víctima en Pluma de la Cola"
+      "target": "Mostrar el <ennoun(EventItem,3,2001707,1,1)> a la hermana distanciada de la víctima en Pluma de la Cola"
     },
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_TODO_02",
       "hash": "950ACC1F73D03808",
-      "target": "Devolver el agrietado diario de cuero a Wiltwaek"
+      "target": "Devolver el <ennoun(EventItem,3,2001707,1,1)> a Wiltwaek"
     },
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_TODO_03",
       "hash": "1C2D27A69283098A",
-      "target": "<if([lnum1<lnum2],Sintetizar una draconian potion of strength <sheet(Addon,9,0)>,Entregar la draconian potion of strength <sheet(Addon,9,0)> a Chanene)>"
+      "target": "<if([lnum1<lnum2],Sintetizar una <ennoun(Item,3,12622,1,1)> <sheet(Addon,9,0)>,Entregar la <ennoun(Item,3,12622,1,1)> <sheet(Addon,9,0)> a Chanene)>"
     },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_000", "hash": "73CE03593126543F", "target": "Ah, <split(<string(gstr1)>, ,1)>. Bien. Solo estoy esperando a Chanene. Verá, una vez supimos el objetivo de nuestros culpables, peinar los hechos..." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_001", "hash": "0FF60BC7DDFFAAC1", "target": "¿Chanene? ¿A quién has encontrado? No, no, retenlos a todos ahí─¡ya voy yo!" },
@@ -79,14 +79,14 @@
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_130", "hash": "F7CE0BF2B7A13935", "target": "¡Maldita sea, ¿a quién encontramos con el muerto si no era su gemelo?! ¡No nos quedará más que apretarle las tuercas al Lalafell con más ganas todavía!" },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_131", "hash": "DFB59C3BFC516199", "target": "Un testigo lo vio cargando en el carruaje los toneles con los cuerpos. El culpable lo niega, alegando que no tiene la fuerza." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_132", "hash": "D541C0A09AE6297B", "target": "Lo cual es una coartada en toda regla, siendo justos. Yo no pude levantar los toneles ni cuando estaban <italic(1)>vacíos<italic(0)>. Dicho esto, si hubo alguna alquimia de por medio, no es imposible. ¿No hay pociones para dotar a alguien de una fuerza sobrehumana?" },
-    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_133", "hash": "0FB9CE9EE62F656E", "target": "Sí, Severian me mencionó algo así una vez. <split(<string(gstr1)>, ,1)>, ¿podría preparar una draconian potion of strength? Si se la damos a Chanene, podemos hacer que intente levantar los toneles en los que iban los hombres. Eso determinará si la historia de nuestro culpable se sostiene." },
+    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_133", "hash": "0FB9CE9EE62F656E", "target": "Sí, Severian me mencionó algo así una vez. <split(<string(gstr1)>, ,1)>, ¿podría preparar una <ennoun(Item,3,12622,1,1)>? Si se la damos a Chanene, podemos hacer que intente levantar los toneles en los que iban los hombres. Eso determinará si la historia de nuestro culpable se sostiene." },
     {
       "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_SYSTEM_900_000",
       "hash": "2CC72F69499F8E0B",
       "target": "Para completar esta misión, debes haber aprendido las recetas avanzadas contenidas en <italic(1)>Alquimia experta III<italic(0)>."
     },
-    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_140", "hash": "285A1C190EE31C61", "target": "He de decir que usar una draconian potion of strength para recrear lo que pasó es <italic(1)>emocionante<italic(0)>, ¿verdad?" },
-    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_160", "hash": "37E53A393BDE2459", "target": "Empezaremos el experimento en cuanto haya hecho la draconian potion of strength." },
+    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_140", "hash": "285A1C190EE31C61", "target": "He de decir que usar una <ennoun(Item,3,12622,1,1)> para recrear lo que pasó es <italic(1)>emocionante<italic(0)>, ¿verdad?" },
+    { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_160", "hash": "37E53A393BDE2459", "target": "Empezaremos el experimento en cuanto haya hecho la <ennoun(Item,3,12622,1,1)>." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_170", "hash": "12F08E9B16F8D296", "target": "Bien, la cuestión es si un Lalafell puede─bajo el efecto de una draconian potion of strength─levantar un tonel con un Hyur dentro." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_WILTWAEK_000_171", "hash": "CA78AC2437D229CC", "target": "No sería propio volver a embutir a los hombres en los toneles, así que usaremos agua para aproximar su peso. Y ahora, Chanene, cuando estés lista." },
     { "gameKey": "quest/020/ClsAlc580_02068#TEXT_CLSALC580_02068_CHANENE_000_172", "hash": "19D0B340257B84B3", "target": "¡JA! ¡Lo conseguí! ¡Los levanté! ¡Esto es un producto <italic(1)>increíble<italic(0)>, <split(<string(gstr1)>, ,1)>! ¿Puedo tomar un poco má...?" },

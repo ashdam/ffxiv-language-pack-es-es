@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_SEQ_00", "hash": "9F24779E2FCA3B36", "target": "<colortype(508)><edgecolortype(509)>\uE0BE Sincronización de misión<edgecolortype(0)><colortype(0)><br>Hargra necesita que le entreguen algo a su hermano con toda urgencia." },
-    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Entregar el gastado diario al Hume pelirrojo" },
+    { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_00", "hash": "6776983E51CEDE48", "target": "Entregar el <ennoun(EventItem,3,2002860,1,1)> al Hume pelirrojo" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_TODO_01", "hash": "41FF5BA628407783", "target": "Informar a Hargra" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_000_000", "hash": "FDE19AC3ED40028F", "target": "Por favor, <if(gnum4,señorita,señor)>, ¿puedes ayudarme?" },
     { "gameKey": "quest/034/LucKze021_03455#TEXT_LUCKZE021_03455_HARGRA_100_000", "hash": "7E2069DDDC146813", "target": "Mi hermano partió hace poco al Cristarium, pero olvidó su diario. Le destrozaría saber que lo ha dejado atrás." },

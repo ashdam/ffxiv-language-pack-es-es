@@ -10,7 +10,7 @@
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_TODO_04", "hash": "92F3AE38BA6DD31F", "target": "Hablar con Wuk Lamat" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_TODO_05", "hash": "A7C61917CF5F6A06", "target": "Explorar la zona indicada y abatir a las criaturas hostiles" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_TODO_06", "hash": "A3CB6D100F549C4D", "target": "Hablar con Wuk Lamat" },
-    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_TODO_07", "hash": "0538754D45F49787", "target": "Entregar el saco de hojas de mate de primera calidad a Mablu" },
+    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_TODO_07", "hash": "0538754D45F49787", "target": "Entregar el <ennoun(EventItem,3,2003482,1,1)> a Mablu" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_001", "hash": "03C3D72B513B4D80", "target": "Nunca he sido de ir despacio. En cuanto tengo una meta, ¡a toda máquina! ¡Así soy yo!" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_WUKLAMAT_000_005", "hash": "01653C529EEABA34", "target": "Antes de irnos, te doy las hojas de mate. No quiero arriesgarme a darle la razón a Erenville..." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_006", "hash": "2FDC3E7238EC625F", "target": "¿Listos? ¡Siguiente parada, la destilería de mezcal!" },
@@ -35,7 +35,7 @@
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_060", "hash": "DA74519CC638FCAD", "target": "¿Y bien, qué habéis averiguado?" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_061", "hash": "6830314DD639BEE9", "target": "¡Ay, todos esos datos nos sirven! ¡El trato está prácticamente cerrado!" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_062", "hash": "948F529FF877B817", "target": "Yo he averiguado dónde trabaja Gobli: hay un molino arriba de la cuesta, detrás de la destilería. ¡Adelántate y yo traigo a Wuk Lamat!" },
-    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_070", "hash": "D9F25A2DD07647C0", "target": "¿Tiene usted asuntos conmigo, <if(gnum4,señora,señor)>? Hablemos abajo, para no distraer al alpaca de su faena." },
+    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_070", "hash": "D9F25A2DD07647C0", "target": "¿Tiene usted asuntos conmigo, <if(gnum4,señora,señor)>? Hablemos abajo, para no distraer a la alpaca de su faena." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_071", "hash": "071D9535F19B9810", "target": "Bueno, ¿de qué se trata? Sean breves, si no les importa. Soy hombre ocupado." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_WUKLAMAT_000_072", "hash": "55EEA439A0253019", "target": "Buscamos una jarra de mezcal prémium de tres años. Suponiendo que te quede alguna, claro." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_073", "hash": "E201B8F5E6D0E1A1", "target": "Ah, excelente elección. Aunque os advierto: no sale barata." },
@@ -49,10 +49,10 @@
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_A1_000_002", "hash": "1C45694FA4C27EB7", "target": "La invitación de Gobli a palacio." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_A1_000_003", "hash": "A653BA180F976425", "target": "Los monstruos en los campos de agave." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_080", "hash": "580B618BD9FAD39B", "target": "Guardémonos esa. ¡Hay que elegir bien el momento!" },
-    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_081", "hash": "1CCB99292AC043B7", "target": "Le agradezco la hospitalidad, pero me temo que no aguanto la bebida. He oído que a uno de sus clientes habituales, un cocinero Hoobigo, le pasa lo mismo." },
+    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_081", "hash": "1CCB99292AC043B7", "target": "Le agradezco la hospitalidad, pero me temo que no aguanto la bebida. He oído que a uno de sus clientes habituales, un cocinero hoobigo, le pasa lo mismo." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_082", "hash": "6CC2CFAD4CA910FF", "target": "Como no todo el mundo puede disfrutar del mezcal, quizá le convendría tener otras bebidas que ofrecer..." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_083", "hash": "34725E2CBEBDB178", "target": "Un mate, por ejemplo. ¡Y hecho con las mejores hojas, por supuesto!" },
-    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_084", "hash": "E5D755AB1735DA8B", "target": "¡Ah, tiene razón, toda la razón! Había notado cierta reticencia en mi amigo Hoobigo, pero no caía en que la culpa era mía. Debo esforzarme por ser mejor anfitrión. Aun así, ni con ese valor añadido vale un saco de hojas el mezcal que buscáis." },
+    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_084", "hash": "E5D755AB1735DA8B", "target": "¡Ah, tiene razón, toda la razón! Había notado cierta reticencia en mi amigo hoobigo, pero no caía en que la culpa era mía. Debo esforzarme por ser mejor anfitrión. Aun así, ni con ese valor añadido vale un saco de hojas el mezcal que buscáis." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_WUKLAMAT_000_085", "hash": "EC8086D83CD8E604", "target": "(¿Y si ofrecemos acabar con los monstruos que los molestan?)" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_086", "hash": "2BB58CC3A0F89487", "target": "(¡Aún no! Esa carta la guardamos en la manga hasta que haga falta.)" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_087", "hash": "C92FB34E6D4A3193", "target": "Como sabrá, se está celebrando el rito de sucesión. Por eso nos honra con su presencia la tercera promesa." },
@@ -87,6 +87,6 @@
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_165", "hash": "69361C6D565463C7", "target": "Fue usted quien me animó a llegar hasta aquí, tercera promesa. ¡Pero no celebremos hasta tener la silla en la mano!" },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_GOBLI_000_166", "hash": "204BE5431FAFB945", "target": "¿Mablu, verdad? Negocias duro, joven mercader. Espero hacer negocios contigo en el futuro." },
     { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_MABLU_000_167", "hash": "6D7DFA6AB6344EC0", "target": "Gracias, pero... la verdad es que solo soy peona de rancho. Por ahora. ¡Si algún día llego a comerciante de verdad, volveré a cerrar tratos con usted!" },
-    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_SYSTEM_000_168", "hash": "FCFF9F5708DE0E50", "target": "¡Trato hecho! Has cambiado un saco de hojas de mate de primera calidad de cinco mil pel por una jarra de mezcal premium de diez mil pel." }
+    { "gameKey": "quest/048/KinGma116_04875#TEXT_KINGMA116_04875_SYSTEM_000_168", "hash": "FCFF9F5708DE0E50", "target": "¡Trato hecho! Has cambiado un <ennoun(EventItem,3,2003482,1,1)> de cinco mil pel por una jarra de mezcal premium de diez mil pel." }
   ]
 }

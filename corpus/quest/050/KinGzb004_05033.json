@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_SEQ_00", "hash": "6594219407F64400", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>El artesano apurado necesita que le echen una mano." },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Buscar la bolsita perdida en el Retiro de Panaqpelu" },
-    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Entregar la bolsita perdida al artesano apurado" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_00", "hash": "5A91CDF6575A5479", "target": "Buscar la <ennoun(EventItem,3,2003603,1,1)> en el Retiro de Panaqpelu" },
+    { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_TODO_01", "hash": "0C24AC4732F616DD", "target": "Entregar la <ennoun(EventItem,3,2003603,1,1)> al artesano apurado" },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_000", "hash": "FD60C9D5E60CAE94", "target": "Disculpe, <if(gnum4,señorita,señor)>, ¿tiene un momento? ¡Por favor, necesito su ayuda! Soy artesano y he venido a hablar de un nuevo proyecto con un cliente, pero por el camino he perdido mi amuleto de la suerte─mi querida muñeca." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_001", "hash": "B3FD6454D13D9E75", "target": "Me da miedo pensar cómo saldrá la reunión sin ella... La última vez que la vi fue en el Retiro de Panaqpelu. Puede que se me cayera al recoger mis cosas." },
     { "gameKey": "quest/050/KinGzb004_05033#TEXT_KINGZB004_05033_CRAFTERPELUPELU05033_000_002", "hash": "46CA3F438DF0AF6F", "target": "Tengo la reunión con mi cliente enseguida y no puedo permitirme llegar tarde. Sé que es muy repentino, pero ¿me buscaría usted la muñeca? Yo retrasaré la reunión todo lo que pueda." },

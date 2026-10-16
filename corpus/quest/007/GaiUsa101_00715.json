@@ -2,7 +2,7 @@
   "conversation": "quest/007/GaiUsa101_00715",
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
-    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_ROLFE_000_000", "hash": "0C000D936779A007", "target": "Me he tomado la libertad de envolverle bien la raíz lechosa. Así se mantendrá fresca, y de paso le ahorrará ese hedor infernal." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_ROLFE_000_000", "hash": "0C000D936779A007", "target": "Me he tomado la libertad de envolverle bien la <lower(<sheet(EventItem,2000831,9)>)>. Así se mantendrá fresca, y de paso le ahorrará ese hedor infernal." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_ROLFE_000_001", "hash": "5527C396E0E69E25", "target": "A los silfos les encanta, pero yo antes hundiría la nariz en estiércol de chocobo. ¡Diría que la peste rivaliza con el aliento del molbol que puso fin a mis días de aventurero!" },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_ROLFE_000_002", "hash": "B5AD9CAC5B1D2DCD", "target": "Pero <italic(1)>esa<italic(0)> historia se la cuento luego. Hoy tiene cosas más importantes que atender, ¿no? Los silfos son excéntricos, pero los he tratado lo bastante para saber que son de buen corazón. No rechazan a quien va con buenas intenciones." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_ROLFE_000_003", "hash": "8B30D63D0C30BA89", "target": "Que su parlamento sea fructífero, amigo. Y pásese a la vuelta... hay un jarro de hidromiel de Pleniflor con su nombre si me deleita con sus relatos de aventuras." },
@@ -17,7 +17,7 @@
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_031", "hash": "E1C9C3A93FF60ACF", "target": "Este daría la bienvenida al caminante que se mueve como estos. Si el caminante quiere hablar con este, este responderá. Este es uno muy ocupado, así que el caminante debería hablar con lengua rápida." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_032", "hash": "8F044C07135E94A8", "target": "Este caminante es un necio. El caminante debería irse a casa antes de que este se enfade." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_040", "hash": "1CC3603DC42A4A7E", "target": "¿El caminante trae un regalo a este? El caminante es muy amable." },
-    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_041", "hash": "D6B26B7170DFCAF9", "target": "¡El caminante trae raíz lechosa! ¡La raíz lechosa llena a este de gran alegría!" },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_041", "hash": "D6B26B7170DFCAF9", "target": "¡El caminante trae <lower(<sheet(EventItem,2000831,9)>)>! ¡La <lower(<sheet(EventItem,2000831,9)>)> llena a este de gran alegría!" },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_042", "hash": "C6F46992DD863988", "target": "Este da las gracias. Da muchas, muchas gracias." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_100", "hash": "6C5F8138F2AEF427", "target": "¿El caminante lleva un mensaje para el anciano? Este entregará el mensaje al anciano. El caminante no debería preocuparse." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_YDA_000_101", "hash": "B69CF060F56FC354", "target": "¡Hola! ¡Somos enviados de Gridania y venimos a tratar con vuestro pueblo!" },
@@ -53,7 +53,7 @@
     {
       "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_04",
       "hash": "8DBDF9220D09EC89",
-      "target": "Complacido por tu baile, Komuxio parece ahora más dispuesto a escucharte. Entrégale la raíz lechosa y la carta para el anciano como prueba de que vienes en son de paz."
+      "target": "Complacido por tu baile, Komuxio parece ahora más dispuesto a escucharte. Entrégale la raíz lechosa y la <ennoun(EventItem,3,2000574,1,1)> como prueba de que vienes en son de paz."
     },
     {
       "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_05",

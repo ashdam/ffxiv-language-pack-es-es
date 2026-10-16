@@ -4,8 +4,8 @@
   "entries": [
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_SEQ_00", "hash": "4B4FBA1659F2B325", "target": "Ibakha está atareada preparando un festín digno de una tribu libre de codicia." },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_00", "hash": "7659A96493A86D6F", "target": "Hablar con Kishiligh" },
-    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_01", "hash": "C3F9DC84D9A040AF", "target": "Conseguir el saco de carne" },
-    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_02", "hash": "8D393C461586EA18", "target": "Entregar el saco de carne a Ibakha" },
+    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_01", "hash": "C3F9DC84D9A040AF", "target": "Conseguir el <ennoun(EventItem,3,2002259,1,1)>" },
+    { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_TODO_02", "hash": "8D393C461586EA18", "target": "Entregar el <ennoun(EventItem,3,2002259,1,1)> a Ibakha" },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_000", "hash": "8E08FE443D71C276", "target": "Ah, aventurer<if(gnum4,a,o)>. ¿Puedo pedirte que recojas algo de mi parte?" },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_001", "hash": "9E4B3B83151DD33B", "target": "Hace poco le pedí a un Dotharl que nos proveyera de carne. Pero últimamente hemos estado todos tan ocupados que nadie ha tenido tiempo de ir a recogerla." },
     { "gameKey": "quest/027/StmBdz620_02798#TEXT_STMBDZ620_02798_IBAKHA_000_002", "hash": "2D6E93BE776B17AC", "target": "Se llama Kishiligh. Ya le he entregado minerales a cambio de la comida. Solo tienes que recoger la carne." },

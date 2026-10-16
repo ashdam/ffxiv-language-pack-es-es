@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_SEQ_00", "hash": "78E89A6FB9BFF58A", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Jaimbert necesita un voluntario." },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "Reunir haces de madera curada en el Peldaño Superior" },
-    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "Entregar los haces de madera curada a Jaimbert" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_00", "hash": "BAD8803637626B97", "target": "Reunir <ennoun(EventItem,3,2002695,2,1)> en el Peldaño Superior" },
+    { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_TODO_01", "hash": "D6EADD12CB23F8B0", "target": "Entregar las <ennoun(EventItem,3,2002695,2,1)> a Jaimbert" },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_000", "hash": "EE3CF57B08293E66", "target": "¡Saludos, amig<if(gnum4,a,o)>! Tengo un favorcillo que pedirte, si puedes concederme un momento." },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_001", "hash": "0CB3F9E73F3CEB60", "target": "Echa un vistazo alrededor y dime qué ves. ¡Ajá! Roca, roca y más maldita roca. Ni un solo árbol. Y eso significa que no hay madera para casas." },
     { "gameKey": "quest/035/LucKzi004_03540#TEXT_LUCKZI004_03540_JAIMBERT_000_002", "hash": "EE71E9D3234BD00A", "target": "De vez en cuando los enanos nos dejan arrastrarnos por sus «túneles secretos» para llegar a las tierras bajas, pero acarrear troncos por esos pozos estrechos ─y encima empinados─ es trabajo de necios." },

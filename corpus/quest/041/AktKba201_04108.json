@@ -32,7 +32,7 @@
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_ALAMHIGOMILITARYATTACHE_000_012", "hash": "1B4AD308D8FFAB6D", "target": "Cuando llegue a Ala Mhigo, diríjase a la plaza que hay ante el palacio. Uno de los soldados apostados allí le explicará el resto." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_ULDAHMILITARYATTACHE_000_013", "hash": "0F4C4562A1D90E36", "target": "La sultana no perdió tiempo en brindar el apoyo de las Llamas a Ala Mhigo en cuanto la blasfemia asomó la cabeza... ¡y menos mal que lo hizo!" },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_020", "hash": "06C315CAAED0E55C", "target": "Ah, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,2)>. Nos avisaron de que venía de camino, pero esto es aún más rápido de lo previsto." },
-    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_021", "hash": "CA81992331284792", "target": "Le comunicarrré al comandante Aldynn que ha llegado. Un momento, por favor." },
+    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_021", "hash": "CA81992331284792", "target": "Le comunicaré al comandante Aldynn que ha llegado. Un momento, por favor." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_022", "hash": "89BADA69F931792A", "target": "Me alegro de que hayas venido." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_023", "hash": "512168EE3AE96C43", "target": "Sé que tenemos una crisis mucho mayor de la que preocuparnos, pero tampoco podemos permitirnos ignorar la situación de aquí." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_024", "hash": "B28D43629BBCCDFF", "target": "Ahora que la crisis mucho mayor se ha resuelto, podemos ─y debemos─ dedicar toda nuestra atención a asuntos de menor escala, pero no menos mortíferos." },
@@ -112,6 +112,6 @@
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_113", "hash": "430F1065D9663151", "target": "Ahora debemos hacer lo mismo por las gentes de Ala Mhigo. Debemos ayudarlas a sanar y a hallar la fuerza para... si no perdonar, al menos reconciliarse con quienes fuimos, para poder mirar hacia quienes podemos ser. Quienes deberíamos aspirar a ser." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_114", "hash": "AD21F217204E7736", "target": "Por eso es tan vital la labor de los Grifos Plateados. Aunque nuestros problemas no son nuevos, la aparición de este fenómeno mortífero significa que ya no podemos aplazar su solución. Y, a la larga, saldremos fortalecidos." },
     { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_RAUBAHN_000_115", "hash": "95650BF40DA40DDA", "target": "En cuanto decidamos un plan de acción, serás <if(gnum4,la primera,el primero)> en saberlo. Hasta entonces, que Rhalgr vele por ti y te guarde." },
-    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_0120", "hash": "DBB60761F9F09CE3", "target": "¡Con usted a nuestro lado, esas fierrras no son rival para nosotros!" }
+    { "gameKey": "quest/041/AktKba201_04108#TEXT_AKTKBA201_04108_LIVERATIONARMY_000_0120", "hash": "DBB60761F9F09CE3", "target": "¡Con usted a nuestro lado, esas fieras no son rrrival para nosotros!" }
   ]
 }

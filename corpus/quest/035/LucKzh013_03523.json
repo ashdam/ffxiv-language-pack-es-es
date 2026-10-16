@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_SEQ_00", "hash": "097EEFD897A56630", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>A Tui-Shirr no le vendría mal algo de ayuda con unas reparaciones." },
-    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_00", "hash": "9471B6566942512F", "target": "Recoger tablones de madera de barco" },
+    { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_00", "hash": "9471B6566942512F", "target": "Recoger <ennoun(EventItem,3,2002603,2,1)>" },
     { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TODO_01", "hash": "E50DF6F0E247A32B", "target": "Entregar la madera y el anillo a Tui-Shirr" },
     { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_000", "hash": "354A002CB446C8E8", "target": "¿Estás ocupad<if(gnum4,a,o)>? Si no, agradecería mucho algo de ayuda para reparar este cobertizo... ahora mismo es un buen desastre." },
     { "gameKey": "quest/035/LucKzh013_03523#TEXT_LUCKZH013_03523_TUISHIRR_000_001", "hash": "F9ED958C71749B07", "target": "Ando corto de madera, pero tardaré una eternidad en terminar si tengo que parar a buscar más material. ¿Puedes traerme cuatro tablones de aspecto sólido, de momento? Parte de la madera de los viejos barcos hundidos aún debería servir." },

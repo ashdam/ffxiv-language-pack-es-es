@@ -6,7 +6,7 @@
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_00", "hash": "7245D7E861B06520", "target": "Regresar al Ocular, en el Cristarium" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_01", "hash": "64016F1C233C6004", "target": "Hablar con Beq Lugg" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_02", "hash": "9A8889CA87AE8EAA", "target": "Hablar con Beq Lugg en la Posada del Inicio del Viaje" },
-    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_03", "hash": "17ABE76A0BEE8616", "target": "Tratar a los pacientes con tónico anímico" },
+    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_03", "hash": "17ABE76A0BEE8616", "target": "Tratar a los pacientes con <lower(<sheet(EventItem,2002904,9)>)>" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_TODO_04", "hash": "298E14E976B21773", "target": "Hablar con Beq Lugg" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALPHINAUD_000_000", "hash": "08AC7C9103B8F0F2", "target": "No debemos demorarnos más aquí, <split(<string(gstr1)>, ,1)>. Si Beq Lugg va a oír la verdad de nuestras penalidades en el Primero, tú más que nadie deberías estar presente." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALPHINAUD_000_050", "hash": "FD7CC69C02DD93B4", "target": "Beq Lugg tiene buen ojo. Aunque aún no hemos empezado, me inclino a pensar que el Exarca acertó al recurrir a él." },
@@ -37,7 +37,7 @@
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALISAIE_000_150", "hash": "8C7074CE14B04FE7", "target": "Beq Lugg me dijo que deseaba conocer a los más afectados. Halric... \\<suspiro> Hay veces en que juraría que hay algo que quiere decirme, si tan solo pudiera articular las palabras." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALPHINAUD_000_155", "hash": "1104777D2B4FC362", "target": "Ahora que hemos roto el yugo de la Luz sobre el Primero, quisiera creer que algún día se recuperarán. Mas temo que ese día no llegue pronto..." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_HALRIC_000_160", "hash": "FE4F21D44D12DE42", "target": "\\<murmullo>" },
-    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_180", "hash": "96A575B1F815F5DE", "target": "Así que este es Halric, ¿eh? ...Sí, su equilibrio etéreo se inclina peligrosamente hacia la Luz." },
+    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_180", "hash": "96A575B1F815F5DE", "target": "Así que este es Halric, ¿eh? ... Sí, su equilibrio etéreo se inclina peligrosamente hacia la Luz." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_181", "hash": "5AE4CC59579B1FAF", "target": "Hacia la estasis..." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALPHINAUD_000_182", "hash": "376DC8CB45B20A94", "target": "¿Qué crees que le ocurrirá?" },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_183", "hash": "547DF6348C7F4640", "target": "No eres muy espabilado, ¿verdad, muchacho? Lo mismo que todas las pobres almas corrompidas por la Luz: se convertirá en devorapecados." },
@@ -75,7 +75,7 @@
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALPHINAUD_000_281", "hash": "349432BB9D6FCC6A", "target": "Vaya recompensa por su perseverancia... La oportunidad de llorar la vida que nunca tuvo ocasión de vivir." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALISAIE_000_282", "hash": "62E2FFC5757455CD", "target": "No, tiene que haber algo que podamos hacer." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_ALISAIE_000_283", "hash": "B887C4AF857FC982", "target": "Mira, sé que no es por esto por lo que solicitamos tu ayuda, pero ¿crees posible que encontremos la manera de acelerar su recuperación?" },
-    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_284", "hash": "5389230C7FDEAD89", "target": "...Quizá." },
+    { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_284", "hash": "5389230C7FDEAD89", "target": "... Quizá." },
     { "gameKey": "quest/036/LucKmg103_03675#TEXT_LUCKMG103_03675_BEQLUGG_000_285", "hash": "2BE307DF8CF37398", "target": "Y tampoco creo <italic(1)>imposible<italic(0)> que, al tratarlos, aprendamos algo de relevancia para vuestro propio aprieto..." }
   ]
 }

@@ -7,7 +7,7 @@
     { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_01", "hash": "99F19366A6BBA336", "target": "Hablar con Krile" },
     { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_02", "hash": "91AA78F04CB328FF", "target": "Hablar con Alphinaud" },
     { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_03", "hash": "C23CD3175F1D9E93", "target": "Hablar con Erenville" },
-    { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_04", "hash": "5C0C9290E1EECD84", "target": "Usar la piedra compañera sobre la roca reluciente" },
+    { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_04", "hash": "5C0C9290E1EECD84", "target": "Usar la <ennoun(EventItem,3,2003487,1,1)> sobre la roca reluciente" },
     { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_TODO_05", "hash": "B88B9210E710064B", "target": "Hablar con Erenville" },
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_KRILE_000_001",
@@ -62,7 +62,7 @@
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_WUKLAMAT_000_026",
       "hash": "57E51F81C2328D52",
-      "target": "...Así que le di una lección y recuperé mi piedra clave."
+      "target": "... Así que le di una lección y recuperé mi piedra clave."
     },
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_ALISAIE_000_027",
@@ -217,14 +217,14 @@
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_ERENVILLE_000_121",
       "hash": "3CE2F5659CBA88BA",
-      "target": "En más de un sentido. Toma mi piedra compañera y acércala a la roca luminosa."
+      "target": "En más de un sentido. Toma mi <ennoun(EventItem,3,2003487,1,1)> y acércala a la roca luminosa."
     },
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_ERENVILLE_000_125",
       "hash": "E57AD1E162C2A98B",
-      "target": "Venga. Usa mi piedra compañera y verás qué pasa."
+      "target": "Venga. Usa mi <ennoun(EventItem,3,2003487,1,1)> y verás qué pasa."
     },
-    { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_SYSTEM_000_130", "hash": "2EBE14CBC5E74FD4", "target": "Al sostener la piedra compañera en el suave resplandor, esta se adhiere al peñasco con una fuerza sorprendente." },
+    { "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_SYSTEM_000_130", "hash": "2EBE14CBC5E74FD4", "target": "Al sostener la <ennoun(EventItem,3,2003487,1,1)> en el suave resplandor, esta se adhiere al peñasco con una fuerza sorprendente." },
     {
       "gameKey": "quest/049/KinGmc107_04903#TEXT_KINGMC107_04903_ERENVILLE_000_131",
       "hash": "755E850EF0239BAE",
