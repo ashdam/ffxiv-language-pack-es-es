@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_SEQ_00", "hash": "AD59054968635FFA", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Lamon tiene un trabajo que hacer, y espera que tú se lo hagas por él." },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "Usar el sifón de latón en la suculenta gigante" },
-    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "Entregar a Lamon las secreciones de suculenta de dulce aroma" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_00", "hash": "A8E4C03FDE6FBCB9", "target": "Usar el <ennoun(EventItem,3,2002626,1,1)> en la suculenta gigante" },
+    { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_TODO_01", "hash": "43A55AAE87830934", "target": "Entregar a Lamon las <lower(<sheet(EventItem,2002627,9)>)>" },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_000", "hash": "EC157521191BF2ED", "target": "¿Buscas trabajo, por casualidad?" },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_001", "hash": "FA5EC75F82E6FD58", "target": "Se supone que tengo que extraer agua de las plantas con estos sifones, pero me vendría bien algo de ayuda." },
     { "gameKey": "quest/033/LucKza025_03367#TEXT_LUCKZA025_03367_LAMON_000_002", "hash": "F913CF8E5663E408", "target": "Como habrás notado, toda la zona está plagada de criaturas hostiles de toda clase, así que no es un trabajo para timoratos." },

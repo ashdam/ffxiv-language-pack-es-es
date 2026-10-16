@@ -3,11 +3,11 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_SEQ_00", "hash": "461C9075C1E816E2", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Grawley parece a punto de estallar." },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_00", "hash": "AEAD962B04423CC5", "target": "Dejar el abultado saco de víveres en el lugar indicado" },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_00", "hash": "AEAD962B04423CC5", "target": "Dejar el <ennoun(EventItem,3,2002693,1,1)> en el lugar indicado" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_01", "hash": "8F34957BBCEDA060", "target": "Esperar al acecho y abatir a los rateros hobgoblin" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_TODO_02", "hash": "8B91B13D2C21C9A4", "target": "Informar a Grawley" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_000", "hash": "E15A458E695019A8", "target": "¡Bah, se acabó lo que se daba!" },
-    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_001", "hash": "4F14CFFF737D8434", "target": "...Perdona, amig<if(gnum4,a,o)>, no iba por ti. Son esos malditos hobgoblins..." },
+    { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_001", "hash": "4F14CFFF737D8434", "target": "... Perdona, amig<if(gnum4,a,o)>, no iba por ti. Son esos malditos hobgoblins..." },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_002", "hash": "C5E6951E78AEB0EC", "target": "¡Saben que ninguno de nosotros sabe pelear, así que se cuelan y saquean nuestras despensas, con un morro que se lo pisan! Pero apuesto a que tú podrías darles su merecido, ¿eh?" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_003", "hash": "CA4D72EF4214955C", "target": "Toma, coge este saco de provisiones y déjalo justo a las afueras del pueblo. En cuanto esos ladronzuelos vengan a olfatear, ¡sales de tu escondite y desatas una tormenta de justicia bien merecida!" },
     { "gameKey": "quest/035/LucKzi002_03538#TEXT_LUCKZI002_03538_GRAWLEY_000_004", "hash": "6E0FA270E8811307", "target": "¡Hay que impartir justicia! ¡Pon la mesa con ese saco de provisiones y asegúrate de que esos hobgoblins reciban su buena ración!" },

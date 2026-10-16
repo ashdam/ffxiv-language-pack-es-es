@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_SEQ_00", "hash": "B1487A4D87ED2E77", "target": "Yubli querría que ayudaras con algo de cría de alpacas.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o job distinto del que tenías al aceptarla." },
-    { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_TODO_00", "hash": "746A15EC11185FCA", "target": "Rociar repelente de insectos en el lomo de las alpacas que esperan" },
+    { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_TODO_00", "hash": "746A15EC11185FCA", "target": "Rociar <lower(<sheet(EventItem,2003717,9)>)> en el lomo de las alpacas que esperan" },
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_TODO_01", "hash": "60B254561D02E8CF", "target": "Hablar con Yubli" },
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_000", "hash": "48D69946CAC14FEF", "target": "¿Estarías dispuesto a pasar un rato con las alpacas? Las peludas criaturas necesitan cuidados muy especiales con el calor y la humedad, y esperaba que me hicieras el favor." },
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_001", "hash": "568D1D8FCDD3A168", "target": "Para mantener el rebaño en plena forma, los vendedores ambulantes las tratan periódicamente con repelente de insectos. La receta, por cierto, es cortesía de los Hanuhanu." },
@@ -18,6 +18,6 @@
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_010", "hash": "7AAF34888EE59A90", "target": "Gracias por encargarte de eso. ¿Cómo están las alpacas?" },
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_011", "hash": "2C93CA08D2B496F5", "target": "Ya veo, ya veo... Siempre me sorprende lo distinto que se comportan las criaturas de un mismo rebaño. ¡Tendremos que asegurarnos de atender su temperamento individual!" },
     { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_012", "hash": "78A37CCEC8A9B8DB", "target": "Los Hanu usan el mismo repelente con sus crías. Es tan penetrante como cabría esperar de algo que ahuyenta a las plagas de la región, pero es del todo inofensivo." },
-    { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_013", "hash": "26C5DF769CB6E678", "target": "La Agencia de Viajes de Tural depende de las alpacas tanto como de cualquier otro miembro del personal. ¡Merecen los mejores cuidados igual que ellos!" }
+    { "gameKey": "quest/052/BanPel105_05203#TEXT_BANPEL105_05203_YUBLI_000_013", "hash": "26C5DF769CB6E678", "target": "La Agencia de Viajes Turali depende de las alpacas tanto como de cualquier otro miembro del personal. ¡Merecen los mejores cuidados igual que ellos!" }
   ]
 }

@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_SEQ_00", "hash": "651C388A004F5186", "target": "Jude parece muy decidido." },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_00", "hash": "E92D59B98855C0F9", "target": "Buscar a Jeromere" },
-    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_01", "hash": "404F394228D237D3", "target": "<if([lnum1<lnum2],Fabricar un juego de útiles de escritura <sheet(Addon,9,0)>,Entregar el juego de útiles de escritura <sheet(Addon,9,0)> al estudiante engreído)>" },
+    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_01", "hash": "404F394228D237D3", "target": "<if([lnum1<lnum2],Fabricar un <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)> al estudiante engreído)>" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_02", "hash": "BAC350157C471614", "target": "Hablar con Jeromere" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_03", "hash": "2C38526E74BC80B8", "target": "Hablar de nuevo con Jeromere" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_04", "hash": "71B52118BFBA19BE", "target": "Hablar con Jude" },
@@ -25,7 +25,7 @@
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_Q1_000_000", "hash": "97E095F774B08C37", "target": "¿Qué vas a decir?" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_A1_000_001", "hash": "C72003C8B2C94036", "target": "¿Y qué necesitas que haga?" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_A1_000_002", "hash": "38BF99B71F8E0349", "target": "Venga, dime de una vez qué quieres." },
-    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_COOLMALE04143_000_055", "hash": "7D972AB4390F4926", "target": "Vaya, qué impaciente. En fin, sé justo lo que me hará pasar de simplemente encantador a extraordinario: ¡un elegante juego de útiles de escritura! Quiero que me lo fabriques." },
+    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_COOLMALE04143_000_055", "hash": "7D972AB4390F4926", "target": "Vaya, qué impaciente. En fin, sé justo lo que me hará pasar de simplemente encantador a extraordinario: ¡un elegante <ennoun(Item,3,35840,1,1)>! Quiero que me lo fabriques." },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_COOLMALE04143_100_055", "hash": "B23EC786DCDBA3E1", "target": "Por supuesto, me encargaré de que tengas todo lo que necesites. Al fin y al cabo, ese detalle es lo que define a un caballero." },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_COOLMALE04143_000_056", "hash": "6A9D06ECAA4E752E", "target": "Para los materiales, pídeselos a este chico de aquí al lado. Todavía me debe una buena suma de oro, así que él correrá con todos tus gastos." },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_SURROUNDINGS04143_000_057", "hash": "E084778FCEC7AE6A", "target": "Acabemos con esto cuanto antes. ¡No soporto seguir en deuda con él ni un momento más!" },

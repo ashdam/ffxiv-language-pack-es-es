@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_SEQ_00", "hash": "711D840C18712F42", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Bomott mira alrededor con timidez." },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "Recoger guijarros lisos en el curso alto del río Watts" },
-    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_01", "hash": "73134F3E5585936E", "target": "Entregar los guijarros lisos a Bomott" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_00", "hash": "572B0F1C6A21AEEF", "target": "Recoger <ennoun(EventItem,3,2002711,2,1)> en el curso alto del río Watts" },
+    { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_TODO_01", "hash": "73134F3E5585936E", "target": "Entregar los <ennoun(EventItem,3,2002711,2,1)> a Bomott" },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_000", "hash": "010C2D41120C94EF", "target": "¡Lali-ho! ¡Tenía la esperanza de hablar contigo, forastero! ¿Estarías dispuest<if(gnum4,a,o)> a ayudarme con una tarea sencilla? Es algo que, simplemente... no puedo pedirle a nadie en Tomra." },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_001", "hash": "829D54A4B277B60A", "target": "¡¿En serio?! ¡Ay, gracias! Solo necesito tres piedrecitas del curso alto del río Watts. Lisas y suaves. Eso es todo." },
     { "gameKey": "quest/035/LucKzi015_03551#TEXT_LUCKZI015_03551_BOMOTT_000_002", "hash": "A41239F3217D9C03", "target": "¡Tráeme tres guijarros del río y te estaré eternamente agradecido! No hay nadie más a quien pueda recurrir..." },

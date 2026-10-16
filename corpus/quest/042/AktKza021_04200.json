@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_SEQ_00", "hash": "9A54575F0490DB29", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Yedjina necesita ayuda en la Gran Obra." },
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_00", "hash": "B632809ECE0B7AA0", "target": "Entregar la bolsa repleta de monedas al mercader de Yedlihmad" },
-    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_01", "hash": "8B4E24E225D7AC20", "target": "Entregar la bolsa repleta de cristales a Yedjina" },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_00", "hash": "B632809ECE0B7AA0", "target": "Entregar la <ennoun(EventItem,3,2003189,1,1)> al mercader de Yedlihmad" },
+    { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_TODO_01", "hash": "8B4E24E225D7AC20", "target": "Entregar la <ennoun(EventItem,3,2003190,1,1)> a Yedjina" },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_001", "hash": "5D1203BDA8C9E235", "target": "¿No es usted <if(gnum4,la aventurera,el aventurero)> que salvó a Matsya? ¡Excelente momento! Si le sobra algo de tiempo, quisiera pedirle un favor." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_002", "hash": "BB46288FE1470049", "target": "Verá, los bailarines de Radz<-->at<-->Han preparan una función para levantar el ánimo de la gente. Nosotros, los alquimistas, quisiéramos apoyarlos con algunos de los mejores accesorios que sepamos fabricar." },
     { "gameKey": "quest/042/AktKza021_04200#TEXT_AKTKZA021_04200_YEDJINA_000_003", "hash": "92DBB4D8B3BB9A5C", "target": "Por desgracia, ninguno tenemos tiempo de conseguir los cristales que necesitamos para terminarlos. Sería de gran ayuda que recogiera los cristales del mercader del puerto de Yedlihmad. Por supuesto, le daremos los fondos necesarios." },

@@ -4,9 +4,9 @@
   "entries": [
     { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_SEQ_00", "hash": "9BBA9D76FF230775", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Pobli necesita a alguien que le cate un té." },
     { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_00", "hash": "A8CD3692A0667474", "target": "Hablar con la infusionista afable" },
-    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_01", "hash": "48BBFE189A9B79D4", "target": "Beber la mezcla afrutada cerca de la infusionista afable" },
-    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_02", "hash": "9DBE937432F0D03B", "target": "Beber la mezcla melosa cerca de la infusionista afable" },
-    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_03", "hash": "50B7B783DA2B54D9", "target": "Beber la mezcla terrosa cerca de la infusionista afable" },
+    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_01", "hash": "48BBFE189A9B79D4", "target": "Beber la <lower(<sheet(EventItem,2003604,9)>)> cerca de la infusionista afable" },
+    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_02", "hash": "9DBE937432F0D03B", "target": "Beber la <lower(<sheet(EventItem,2003605,9)>)> cerca de la infusionista afable" },
+    { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_03", "hash": "50B7B783DA2B54D9", "target": "Beber la <lower(<sheet(EventItem,2003606,9)>)> cerca de la infusionista afable" },
     { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_TODO_04", "hash": "F369A0697D04B9CA", "target": "Hablar con Pobli" },
     { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_POBLI_000_000", "hash": "FA2A4008020C14DE", "target": "¡Hola! Me han dicho que eres <if(gnum4,una viajera,un viajero)> de más allá de la sal─¡justo la persona que necesito!" },
     { "gameKey": "quest/050/KinGzb005_05034#TEXT_KINGZB005_05034_POBLI_000_001", "hash": "E6243C4998AC0743", "target": "Quiero ampliar el comercio más allá de las fronteras de Tural, así que llevo un tiempo planeando exportar té de mate. El problema es que el mate tiene fama de ser un gusto adquirido." },

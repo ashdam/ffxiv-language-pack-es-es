@@ -3,10 +3,10 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_SEQ_00", "hash": "1A8452AA8DCDD884", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Wyd Lad tiene otra petición para ti." },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Entregar el paquete de setas al fuath alto" },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Entregar el brebaje alquímico a Wyd Lad" },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_00", "hash": "C56820503D8AC6F0", "target": "Entregar el <ennoun(EventItem,3,2002870,1,1)> al fuath alto" },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_TODO_01", "hash": "56D991A1DA915934", "target": "Entregar el <ennoun(EventItem,3,2002871,1,1)> a Wyd Lad" },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_000", "hash": "87E21339741F0886", "target": "<split(<string(gstr1)>, ,1)>, sé que ya me has dado tu clientela, pero ¿no te plantearías hacerlo de nuevo?" },
-    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_001", "hash": "0C9E74510E19606A", "target": "¡Gracias! Te pido que lleves este paquete de setas al lago Espejo Largo. El destinatario es un fuath, y a cambio debería darte un brebaje alquímico." },
+    { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_001", "hash": "0C9E74510E19606A", "target": "¡Gracias! Te pido que lleves este <ennoun(EventItem,3,2002870,1,1)> al lago Espejo Largo. El destinatario es un fuath, y a cambio debería darte un brebaje alquímico." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_002", "hash": "44694DD79A6E4082", "target": "Verás, aunque los fuath son gente rara en general, debo advertirte de que este es más raro que la mayoría. Para empezar, es mucho más alto que los suyos, y no puedo evitar sentirme incómodo en su presencia." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_003", "hash": "E2BC5D8F02241975", "target": "Él puede proporcionarnos lo que necesitamos, así que comerciamos con él. Pero, si te soy sincero, preferiría no tratar con él en persona. De ahí mi petición. Gracias de antemano." },
     { "gameKey": "quest/034/LucKzd011_03418#TEXT_LUCKZD011_03418_WYDLAD_000_004", "hash": "2AC85C390CA6F145", "target": "El fuath que buscas es mucho más alto que los suyos, así que no debería costarte identificarlo. Dale las setas y a cambio te dará un brebaje alquímico." },

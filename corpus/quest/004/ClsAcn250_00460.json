@@ -47,7 +47,7 @@
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_10",
       "hash": "F4BE216B03B70B41",
-      "target": "Tras bailar para K'lyhia, ella deduce que te has reunido con el maestro del gremio K'rhid Tia. Entrega el nuevo grimorio a la inspectora para responder a su pregunta de por qué."
+      "target": "Tras bailar para K'lyhia, ella deduce que te has reunido con el maestro del gremio K'rhid Tia. Entrega el <ennoun(EventItem,3,2000884,1,1)> a la inspectora para responder a su pregunta de por qué."
     },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SEQ_11",
@@ -107,7 +107,7 @@
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_TODO_09",
       "hash": "B436DF54BE931404",
-      "target": "Entregar el nuevo grimorio a K'lyhia"
+      "target": "Entregar el <ennoun(EventItem,3,2000884,1,1)> a K'lyhia"
     },
     {
       "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_TODO_10",
@@ -123,7 +123,7 @@
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_021", "hash": "00001C712D8E0928", "target": "Da la casualidad de que me pidió que transmitiera un mensaje a quienquiera que viniese a buscarlo. Ejem. “Reunidos, los tres trozos de pergamino guardan el problema que lleva a la solución.”" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_022", "hash": "0843A86DA3A7ED5B", "target": "El maestro del gremio mencionó que los trozos de pergamino están ocultos entre los huesos de Thalaos. Supongo que se espera que los busque." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_030", "hash": "3CCCD248F0C686D7", "target": "¿Ha dado con esos tres trozos de pergamino?" },
-    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_031", "hash": "87F8E8627E85E64A", "target": "Hm, interesante. Así que existen de verdad. Con toda sinceridad, pensaba que os habían mandado a la caza del dodo salvaje. Echemos un vistazo a esto, ¿de acuerdo? ...Vaya, vaya, escritos nada menos que en allagano antiguo. Por suerte para usted, tengo cierta familiaridad con esa escritura..." },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_031", "hash": "87F8E8627E85E64A", "target": "Hm, interesante. Así que existen de verdad. Con toda sinceridad, pensaba que le habían mandado a la caza del dodo salvaje. Echemos un vistazo a esto, ¿de acuerdo? ... Vaya, vaya, escritos nada menos que en allagano antiguo. Por suerte para usted, tengo cierta familiaridad con esa escritura..." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_032", "hash": "FDA765EFEBA2B9D6", "target": "“Busca la caja en las cataratas del Necio.”<br>“Baila una giga para tu público de madera.”<br>“Arrebata el secreto del corazón abierto.”" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KOUKOGAKUSHA_000_033", "hash": "AB98212A284C9A9A", "target": "Un conjunto de instrucciones de lo más críptico, he de decir. ¿Piensa seguirlas? Sin duda, ese maestro del gremio suyo disfruta con sus juegos..." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_SYSYTEM_000_040", "hash": "7CB0A944091087DD", "target": "La caja traquetea y da tumbos, como si algo en su interior quisiera liberarse. Parece que la tapa se ha aflojado un poco..." },
@@ -135,11 +135,11 @@
     },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_MEMO_000_051", "hash": "61E1624C6F0B14FE", "target": "“Si respuestas quieres hallar,<br>al puesto comercial has de ir,<br>ante el dueño, sin vacilar,<br>con tus dos pies, ponte a lucir.”" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_MEMEROON_000_055", "hash": "D37B4DF77DE76916", "target": "¡Graciosa Miqo'te bailar baile gracioso! ¿Tú bailar baile gracioso también?" },
-    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_061", "hash": "A7CDD8B9BEB7C288", "target": "Ah, eso sí que ha sido de lo más entrrretenido. Necesito algo que me divierta durante estas escapaditas de vuelta a la civilización, ya me entiendes." },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_061", "hash": "A7CDD8B9BEB7C288", "target": "Ah, eso sí que ha sido de lo más entretenido. Necesito algo que me divierta durante estas escapaditas de vuelta a la civilización, ya me entiendes." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_062", "hash": "C8B12AE167DF40EF", "target": "Ahora bien, según mi evaluación de tus aptitudes, había calculado que llegarías a este punto algo antes. Te dio reparo bailar, ¿a que sí~?" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_063", "hash": "453B98AD0CA43336", "target": "Nunca imaginé que fueras tan tímid<if(gnum4,a,o)>." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_064", "hash": "F103523672881488", "target": "Je, je, otra variable que añadir a tu lista de características. Llevo extensas notas mentales de todos los miembros del gremio, ¿sabes?" },
-    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_066", "hash": "993C289F9D3880D1", "target": "Para un arcanista, orquestar los hechos para poder verte cara a cara fue coser y cantar. Al fin y al cabo, la estrrrategia es una herramienta para moldear la propia situación hasta convertirla en la realidad deseada." },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_066", "hash": "993C289F9D3880D1", "target": "Para un arcanista, orquestar los hechos para poder verte cara a cara fue coser y cantar. Al fin y al cabo, la estrategia es una herrramienta para moldear la propia situación hasta convertirla en la realidad deseada." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_067", "hash": "61DE665E1C57229E", "target": "Y disfruto tanto viendo a los demás bailar en la palma de mi mano, por así decirlo." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_068", "hash": "C2FF70AA93B8212F", "target": "Toma, puedes quedártelo. Considéralo el pago por tu... actuación." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_069", "hash": "9A21C68B14DC2715", "target": "Aunque quizá deberías plantearte entregarle el tomo a K'lyhia. Esa <italic(1)>es<italic(0)> la razón por la que me buscaste, ¿no?" },
@@ -148,7 +148,7 @@
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_072", "hash": "2ECB7558B99861C2", "target": "Tú, en cambio, deberías dirigirte sin demora al Patio del Ancla de Limsa Lominsa. Cuídate, <split(<string(gstr1)>, ,1)>. Volveremos a vernos." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KRHIDTIA_000_073", "hash": "93E0985800AC0E62", "target": "Estoy 100 % seguro de ello." },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KLYHIA_000_080", "hash": "3E20333333D163C6", "target": "Mi mente suele ser un torbellino de probabilidades, fintas y contraataques, pero ahora no hay más que silencio. Así era antes... y quizá así sea siempre a partir de ahora." },
-    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KLYHIA_000_081", "hash": "283A7B2C1E3BCB13", "target": "¿Siempre te ha gustado bailar? No recuerdo semejante afic...<br>...Ah. Te has encontrado con nuestro maestro del gremio, ¿verdad?" },
+    { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_KLYHIA_000_081", "hash": "283A7B2C1E3BCB13", "target": "¿Siempre te ha gustado bailar? No recuerdo semejante afic...<br>... Ah. Te has encontrado con nuestro maestro del gremio, ¿verdad?" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_Q1_000_000", "hash": "6ADC318ED91A722B", "target": "¿Te has encontrado con el maestro del gremio?" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_A1_000_001", "hash": "A4F69D5E40E5D296", "target": "Sí" },
     { "gameKey": "quest/004/ClsAcn250_00460#TEXT_CLSACN250_00460_A2_000_002", "hash": "EF5DE91EACF2AFE6", "target": "No" },

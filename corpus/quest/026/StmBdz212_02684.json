@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_SEQ_00", "hash": "83BD447CC42B35D2", "target": "Hirase medita qué prepararles a los confederados para <if([gnum11<12],<if([gnum11<4],la cena,el desayuno)>,<if([gnum11<17],el almuerzo,la cena)>)>." },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "Obtener lonchas de sabrosa carne de gyuki de los gyuki" },
-    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "Entregar las lonchas de sabrosa carne de gyuki a Hirase" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_00", "hash": "45ADB1102927B1A9", "target": "Obtener lonchas de <lower(<sheet(EventItem,2002212,9)>)> de los gyuki" },
+    { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_TODO_01", "hash": "4448CAA307718B0C", "target": "Entregar las lonchas de <lower(<sheet(EventItem,2002212,9)>)> a Hirase" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_000", "hash": "71BD660F7BF814E9", "target": "¡Bah! ¡Me has asustado! Estaba pensando qué prepararles a los hambrientos hombres y mujeres de Onokoro para <if([gnum11<12],<if([gnum11<4],la cena,el desayuno)>,<if([gnum11<17],el almuerzo,la cena)>)>. Como cocinero de la casa, es mi responsabilidad procurar que tengan comidas buenas y nutritivas." },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_001", "hash": "E7887BCD36EA6B02", "target": "Creo que hoy tocará un guiso pirata. Se te hace la boca agua, ¿a que sí?" },
     { "gameKey": "quest/026/StmBdz212_02684#TEXT_STMBDZ212_02684_HIRASE_000_002", "hash": "F97542B7863259C3", "target": "El problema es que me falta un ingrediente clave. \\<suspiro> Los ingresos del Diezmo del Rubí no paran de menguar y el tesorero me ha recortado el presupuesto. Ya no puedo permitirme la carne jugosa que hace de este guiso un auténtico guiso pirata." },

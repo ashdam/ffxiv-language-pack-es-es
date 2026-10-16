@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_00", "hash": "4B417FFBF1B1D0D7", "target": "Maronne quiere que reafirmes tu deseo de unirte al Gremio de Tejedores." },
-    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01", "hash": "E6B4BAEB90CAFC2D", "target": "Maronne te pide que te presentes ante el hombre a cargo de las operaciones del gremio, un imponente roegadyn llamado Redolent Rose." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_01", "hash": "E6B4BAEB90CAFC2D", "target": "Maronne te pide que te presentes ante el hombre a cargo de las operaciones del gremio, un imponente Roegadyn llamado Redolent Rose." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SEQ_02", "hash": "5585FA1CA1FB5EBE", "target": "Redolent Rose te concede permiso para estudiar la costura. Tras entregarte una sewing needle, te indica que la sujetes como si fueras a dar una puntada y que te presentes para la inspección." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_TODO_00", "hash": "04018C9FCFC74F88", "target": "Hablar con Redolent Rose" },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_000", "hash": "1706DE13799F79D0", "target": "¿Está <if(gnum4,lista,listo)> para conocer al maestro del gremio? La primera impresión lo es todo, y <italic(1)>no<italic(0)> conviene dar mala imagen." },
@@ -15,7 +15,7 @@
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_MARONNE_023", "hash": "DA814B53A2BDA45E", "target": "Mientras demuestre estar igual de <if(gnum4,comprometida,comprometido)>, la tratará con justicia y respeto." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_000", "hash": "95AFEE63BA35CA52", "target": "¿Qué tenemos aquí? ¿<if(gnum4,Otra aventurera,Otro aventurero)> en busca de emociones fuertes?" },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_001", "hash": "B1FE81C49282AAE1", "target": "¿Le bailo una alegre giga? ¿No? Pues, si esto no le complace, le sugiero que se largue... quizá las mujeres del Mercado de la Calle Rubí sean más de su gusto." },
-    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_002", "hash": "77D8FF441FCB31DC", "target": "...Oh, ¿así que pretende hacerse tejedor? Entonces sí que tenemos algo de que hablar." },
+    { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_002", "hash": "77D8FF441FCB31DC", "target": "... Oh, ¿así que pretende hacerse tejedor? Entonces sí que tenemos algo de que hablar." },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_REDOLENTROSE_003", "hash": "E524EE60B37564A9", "target": "Seré franco... la costura es un arte y, como todo verdadero artista, debemos sacrificarnos y sufrir por nuestro oficio. Así que dígame, <if(gnum4,aventurera,aventurero)>: ¿está <if(gnum4,preparada,preparado)> para <italic(1)>sufrir<italic(0)>?" },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_Q0", "hash": "6625D33C12D2332D", "target": "¿Estás <if(gnum4,preparada,preparado)> para sufrir?" },
     { "gameKey": "quest/005/ClsWvr011_00534#TEXT_CLSWVR011_00534_SYSTEM_A0", "hash": "BFB67E69476CB2BE", "target": "Sí" },

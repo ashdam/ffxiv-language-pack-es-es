@@ -6,7 +6,7 @@
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_00", "hash": "02E54ED25A7AEA6C", "target": "Hablar con Lyna" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_01", "hash": "0963418C44C75FFA", "target": "Hablar con Katliss" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_02", "hash": "CE17DC737E05AB88", "target": "Hablar con Chessamile" },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_03", "hash": "3656D3C75611DDAA", "target": "Beber el vial de beso de príncipe delante de Chessamile" },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_03", "hash": "3656D3C75611DDAA", "target": "Beber el <ennoun(EventItem,3,2002531,1,1)> delante de Chessamile" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_TODO_04", "hash": "052F6736712EF64C", "target": "Hablar con Szem Djenmai" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_ALPHINAUD_100_000", "hash": "12560F226C506C91", "target": "Escuchemos lo que el Exarca tiene que decir." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_ALISAIE_110_000", "hash": "6A4184145E239AA5", "target": "¿Confiar el rescate de Minfilia a la gente del Cristarium? Está bien, entonces..." },
@@ -37,8 +37,8 @@
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_054", "hash": "44BE0B370444CC08", "target": "Antes de dirigirse a sus posiciones, deben presentarse ante Chessamile en Espagiria." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_055", "hash": "B90CC7017EEF7637", "target": "Ella les facilitará un suero para contrarrestar los efectos del polvo de sueño." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_ALPHINAUD_000_056", "hash": "A72AD56F65541854", "target": "Nos ponemos en marcha, pues. Cuídate, <if(gnum4,amiga,amigo)>, y nos vemos sobre el terreno." },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_057", "hash": "29586299048BCA04", "target": "Hay bastante distancia hasta the Imperative, así que puede tomar un amaro del criadero. Después de recoger el suero, por supuesto." },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_060", "hash": "92A62288BB649441", "target": "¿Sí, cielo? ¿Necesitas algo? ...Ah, eres de la guardia y vienes a por tu dosis, ¿verdad?" },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_LYNA_000_057", "hash": "29586299048BCA04", "target": "Hay bastante distancia hasta el Imperativo, así que puede tomar un amaro del criadero. Después de recoger el suero, por supuesto." },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_060", "hash": "92A62288BB649441", "target": "¿Sí, cielo? ¿Necesitas algo? ... Ah, eres de la guardia y vienes a por tu dosis, ¿verdad?" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_061", "hash": "86349C94BBEC1840", "target": "Aquí tienes. Una dosis de esto te mantendrá bien <if(gnum4,despierta,despierto)> en el mundo de la vigilia mientras tus enemigos se marchan al de los sueños." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_062", "hash": "AB010040B09E567A", "target": "Ahora bien, si es tu primera vez, te advierto: es amargo como el pecado. «Beso de príncipe» lo llaman, pero para mí ¡debería ser «beso de <italic(1)>bruja<italic(0)>»! ¡Ji, ji!" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_063", "hash": "95B3F4B7439B6699", "target": "Bromas aparte, la cosa es de verdad repugnante. La mayoría tiene arcadas que no veas; pero, si no apuras hasta la última gota, corres el riesgo de acabar tú también de viaje al mundo de los sueños. Así que debo pedirte que lo bebas aquí y ahora, mientras te miro. ¡Vamos! Dale un beso a esta vieja bruja, ji, ji." },
@@ -47,7 +47,7 @@
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SYSTEM_000_081", "hash": "5CADB2826CA0E6D3", "target": "Si quieres evitar que te obliguen a tomar una segunda dosis, debes beber el suero donde Chessamile pueda verte." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_CHESSAMILE_000_082", "hash": "E7D7C20957FCE3C9", "target": "¿Ah? Te ha gustado tanto el sabor que quieres más, ¿es eso? Ji, ji, ¡qué criatura más rara eres! Pero, por mucho que me encantara complacerte, me temo que debo guardar algo para los demás. ¡Anda, ve a ocuparte del resto de tus preparativos!" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SZEMDJENMAI_000_090", "hash": "240A27E510EDF277", "target": "¿Sí? ¿Qué necesitas de mí?" },
-    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SZEMDJENMAI_000_091", "hash": "6F7E2F9BDF242C05", "target": "Un amaro que te lleve a the Imperative, ¿eh?" },
+    { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SZEMDJENMAI_000_091", "hash": "6F7E2F9BDF242C05", "target": "Un amaro que te lleve al Imperativo, ¿eh?" },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SZEMDJENMAI_000_092", "hash": "1D73023E09123168", "target": "Por mucho que me gustaría complacerte, todas nuestras monturas están reservadas para la operación que se avecina. Me temo que tendrás que ir a pie." },
     { "gameKey": "quest/033/LucKmb102_03303#TEXT_LUCKMB102_03303_SZEMDJENMAI_000_093", "hash": "E9DE98AC5DDCC88D", "target": "Mmm, pero espera. Puede que haya otra manera, si estás <if(gnum4,dispuesta,dispuesto)> a echar una mano." }
   ]

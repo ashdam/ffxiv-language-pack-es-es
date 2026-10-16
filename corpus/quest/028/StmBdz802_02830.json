@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_SEQ_00", "hash": "3CC07DF9AB59DCAF", "target": "Weidheri necesita que le echen una mano." },
-    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_TODO_00", "hash": "0BF9FE9B111F11B9", "target": "Entregar botellas de arak a los soldados de Ala Ghiri" },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_TODO_00", "hash": "0BF9FE9B111F11B9", "target": "Entregar <ennoun(EventItem,3,2002216,2,1)> a los soldados de Ala Ghiri" },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_TODO_01", "hash": "4FD418A76F990082", "target": "Hablar con Weidheri" },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_000", "hash": "8D5FB1A90A5FE669", "target": "Eh, <if(gnum4,aventurera,aventurero)>. Si piensa quedarse un rato, ¿le importaría hacerme una pequeña entrega?" },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_001", "hash": "BE6049688461E5F3", "target": "Se me ocurrió dar a los soldados una muestra de mi género, como agradecimiento por recuperar Ala Ghiri. Pero con tantos clientes, ando más que ocupado." },
@@ -21,7 +21,7 @@
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_PALEMORNING_000_019", "hash": "16CA381BE08FA1A1", "target": "Es un regalo tremendamente tentador, pero de verdad debería esperar a que termine mi guardia." },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_020", "hash": "57DD96269873657F", "target": "Gracias por eso. No hay nada como un buen trago para levantar el ánimo, siempre lo digo." },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_021", "hash": "D956C7C409389940", "target": "\\<suspiro> Ala Ghiri ha pasado por tanto a lo largo de los años. Me reconforta el corazón saber que podemos volver a respirar en libertad." },
-    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_022", "hash": "7E3A64E137713661", "target": "Por eso decidí dar a estos valientes soldados mis mejores botellas de arak. Es un brebaje especial que se elabora aquí mismo, en Ala Ghiri." },
+    { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_022", "hash": "7E3A64E137713661", "target": "Por eso decidí dar a estos valientes soldados mis mejores <ennoun(EventItem,3,2002216,2,1)>. Es un brebaje especial que se elabora aquí mismo, en Ala Ghiri." },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_023", "hash": "1AF827494E4CDBC3", "target": "Con sinceridad, no sé muy bien cómo repondré mis existencias, pero merece la pena ver a todos disfrutar. Ya hemos tenido preocupaciones para toda una vida." },
     { "gameKey": "quest/028/StmBdz802_02830#TEXT_STMBDZ802_02830_WEIDHERI_000_024", "hash": "C1BC12DDA9F752C7", "target": "Por ahora, yo digo que bebamos y saboreemos la victoria." }
   ]

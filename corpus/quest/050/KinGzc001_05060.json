@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_SEQ_00", "hash": "3C88A0A6E1698D0B", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Kanuhanu contempla los pilares de madera con preocupación en la mirada." },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "Obtener resina hidrófuga en la arboleda al norte de Ok'hanu" },
-    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "Aplicar la resina hidrófuga a los pilares de madera" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_00", "hash": "E5E534A225DBD813", "target": "Obtener <lower(<sheet(EventItem,2003626,9)>)> en la arboleda al norte de Ok'hanu" },
+    { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_01", "hash": "E9ABFB6667DBEB09", "target": "Aplicar la <lower(<sheet(EventItem,2003626,9)>)> a los pilares de madera" },
     { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_TODO_02", "hash": "1969679D1F00C6CA", "target": "Hablar con Kanuhanu" },
     { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_001", "hash": "C8D8F123AD0F85C8", "target": "Honorable visitante, ¿me echarías una mano? Desde la tormenta trabajo día y noche reparando nuestras casas, y por fin se ve el final. El último paso es cubrir los suelos y los cimientos con una resina que los proteja del agua, pero hay demasiado trabajo para un solo par de garras..." },
     { "gameKey": "quest/050/KinGzc001_05060#TEXT_KINGZC001_05060_KANUHANU_000_002", "hash": "645BD4A286BB5C86", "target": "¿Me ayudas, entonces? ¡Estupendo! Habría que empezar recogiendo la resina de los árboles que hay al norte de Ok'hanu." },

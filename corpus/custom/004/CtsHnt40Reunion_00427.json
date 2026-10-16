@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_000_000", "hash": "DCE3EA5B7FF2BA48", "target": "Soy cazadora de los Kha, y veo tu vacilación. La estepa es dura con quienes parten sin preparación; si quieres acechar a las presas más dignas, asegúrate primero de ser digno tú." },
-    { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_000_001", "hash": "58C6A877E87761F4", "target": "Soy cazadora de los Kha, y veo mucho. Eres forastero en estas tierras, <if(gnum4,hermana,hermano)>, pero conoces bien la emoción de la caza. ¿Hablamos de presas dignas?" },
+    { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_000_001", "hash": "58C6A877E87761F4", "target": "Soy cazadora de los Kha, y veo mucho. Eres <if(gnum4,forastera,forastero)> en estas tierras, <if(gnum4,hermana,hermano)>, pero conoces bien la emoción de la caza. ¿Hablamos de presas dignas?" },
     { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_Q1_000_000", "hash": "854EB10E15D2E6F8", "target": "¿Qué vas a preguntar?" },
     { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_A1_000_001", "hash": "0595C7EA39DD58D4", "target": "Háblame de la presa de élite de rango B. (Kurma)" },
     { "gameKey": "custom/004/CtsHnt40Reunion_00427#TEXT_CTSHNT40REUNION_00427_JALIQAI_A1_000_002", "hash": "E0C556AFBFCA4C8E", "target": "Háblame de la presa de élite de rango B. (Aswang)" },

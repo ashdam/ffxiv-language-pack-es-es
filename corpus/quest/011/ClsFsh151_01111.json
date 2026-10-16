@@ -25,12 +25,12 @@
     {
       "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_04",
       "hash": "2D36E2A4F1102AC2",
-      "target": "Gracias a su vasto conocimiento de los peces, Wawalago ha determinado que Chuchuroon busca la Navigator's dagger. Usa rat tails para pescar cinco cerca del Faro del Cervecero, en la Noscea Occidental, y entrégaselas."
+      "target": "Gracias a su vasto conocimiento de los peces, Wawalago ha determinado que Chuchuroon busca la <ennoun(Item,3,4882,1,1)>. Usa <ennoun(Item,3,2591,2,1)> para pescar cinco cerca del Faro del Cervecero, en la Noscea Occidental, y entrégaselas."
     },
     {
       "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_05",
       "hash": "10F18B6301A5CAC5",
-      "target": "La vista ─y el olor─ de las Navigator's daggers ponen a Chuchuroon loco de contento. Habla de nuevo con Sisipu para conocer su opinión sobre tu duro día de trabajo."
+      "target": "La vista ─y el olor─ de las <ennoun(Item,3,4882,2,1)> ponen a Chuchuroon loco de contento. Habla de nuevo con Sisipu para conocer su opinión sobre tu duro día de trabajo."
     },
     {
       "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_06",
@@ -55,7 +55,7 @@
     {
       "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_03",
       "hash": "A283C4F0736CEA9F",
-      "target": "Entregar Navigator's daggers a Chuchuroon"
+      "target": "Entregar <ennoun(Item,3,4882,2,1)> a Chuchuroon"
     },
     {
       "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_04",
@@ -70,15 +70,15 @@
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_011", "hash": "23CB88FE210801D8", "target": "Vigía vigilando, ¡Chuchuroon avistar cosas en el agua: peces de plata saltar salta, destellos de plata destellan!" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_012", "hash": "BDBC3302D20CE384", "target": "¡Chuchuroon querer probar sabor de pez de plata!" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_013", "hash": "09037D4B85C54A21", "target": "¡Chuchuroon pagar buena plata si tú pescar cinco buenos peces de plata!" },
-    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_020", "hash": "C6D8A1365E835FA1", "target": "...Bueno, Chuchuroon tiene labia, ¿verdad? Por desgracia, su labia parece consistir en repetir las palabras «pez de plata». Solo el pescador más experimentado sería capaz de descifrar semejante galimatías." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_020", "hash": "C6D8A1365E835FA1", "target": "... Bueno, Chuchuroon tiene labia, ¿verdad? Por desgracia, su labia parece consistir en repetir las palabras «pez de plata». Solo el pescador más experimentado sería capaz de descifrar semejante galimatías." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_021", "hash": "2A18299F71E79CC9", "target": "Esto suena a un trabajo para Wawalago, ya que yo estoy ocupada haciendo el suyo. Tenga por seguro que lo que le falta de sensatez, le sobra de insensatez." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_030", "hash": "B155256E6DBA1566", "target": "¿Desde cuándo es de buena educación acercarse a hurtadillas y asustar a tus mayores? ¡Por un momento sospeché que Sisipu te enviaba a abrirme la barriga!" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_031", "hash": "2141E38867B36735", "target": "Esa mujer conoce de sobra mi debilidad: si va a poner el grito en el cielo por cómo engullo los camarones, ¡más le valdría no dejarlos a la vista en la estantería! ¿O no es por eso por lo que estás aquí?" },
-    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_032", "hash": "54AD9B80F190676C", "target": "...Mmm. Dejando a un lado la mesa, me apuesto lo que quieras a que sé qué avistó el Qiqirn." },
-    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_033", "hash": "9F6051C5437AD2E0", "target": "Si era plateado y se paseaba rozando la superficie del mar, estoy bastante seguro de que vio una Navigator's dagger." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_032", "hash": "54AD9B80F190676C", "target": "... Mmm. Dejando a un lado la mesa, me apuesto lo que quieras a que sé qué avistó el Qiqirn." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_033", "hash": "9F6051C5437AD2E0", "target": "Si era plateado y se paseaba rozando la superficie del mar, estoy bastante seguro de que vio una <ennoun(Item,3,4882,1,1)>." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_034", "hash": "B6681CD364B4AD1D", "target": "Las dagas no son muy del gusto de un lominsano, pero los colonos de las islas del sur las echan al caldo." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_035", "hash": "7370F7797628B974", "target": "Puedes encontrarlas junto al Faro del Cervecero. Atrapar una es un lance escurridizo para un novato, pero un simple chasquido de muñeca para un pescador con ojo de gaviota como el tuyo." },
-    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_036", "hash": "53C419DB7AA94F68", "target": "Bien, a las dagas las atraen los señuelos que cuelgan, así que hazte un favor y consigue unas rat tails para que les hagan mover las aletas." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_WAWALAGO_000_036", "hash": "53C419DB7AA94F68", "target": "Bien, a las dagas las atraen los señuelos que cuelgan, así que hazte un favor y consigue unas <ennoun(Item,3,2591,2,1)> para que les hagan mover las aletas." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_040", "hash": "B2A588FF7145D9A4", "target": "¡¿Tú pescar y capturar cinco peces captura para Chuchuroon?!" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_CHUCHUROON_000_041", "hash": "8F4ADBF9813C8567", "target": "¡Lo brillante brilla, lo oloroso huele! ¡Chuchuroon no poder esperar a probar sabroso sabor!" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_042", "hash": "B8C248CD0BF83E6E", "target": "¡Bueno, parece que hemos encontrado el pez que buscaba!" },

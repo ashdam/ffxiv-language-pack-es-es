@@ -3,8 +3,8 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_SEQ_00", "hash": "7B680955E8DAC713", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Xorutt es bajo, barbudo y está listo para elaborar cerveza." },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Buscar matas de hierba de magma y recoger flores de magma" },
-    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Entregar las flores de magma a Xorutt" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_00", "hash": "1180F745D4EA8910", "target": "Buscar matas de hierba de magma y recoger <ennoun(EventItem,3,2002805,2,1)>" },
+    { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_TODO_01", "hash": "E393770282DE7061", "target": "Entregar las <ennoun(EventItem,3,2002805,2,1)> a Xorutt" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_000", "hash": "7E995F85BB909A1C", "target": "¡Lali-ho! Oye, ¿no serás <switch(gnum71,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa enana forastera,ese enano forastero)>,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa viajera,ese viajero)>,<if(gnum4,esa viajera,ese viajero)>)> de quien todo el mundo habla?" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_001", "hash": "AC842AF74C815670", "target": "¡Bueno, otro lali-ho y bienvenido a Tomra! ¡Voy a agasajarte con la hospitalidad de los Tholl, y no acepto un no por respuesta!" },
     { "gameKey": "quest/035/LucKzi202_03561#TEXT_LUCKZI202_03561_XORUTT_000_002", "hash": "E148AAFFC3E80DEB", "target": "Lo primero de todo: ¡elaboramos cerveza enana juntos! Sí, ¡va a ser divertidísimo!" },

@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.06.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_SEQ_00", "hash": "B3097B61EDCF49A5", "target": "<colortype(508)><edgecolortype(509)> Sincronización de misión<edgecolortype(0)><colortype(0)><br>Heggie busca a alguien dispuesto a hacer una entrega en el Fuerte Jobb." },
-    { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_TODO_00", "hash": "D6B0925EEBC12AEB", "target": "Entregar el paquete primorosamente envuelto a Chathwick, en el Fuerte Jobb" },
+    { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_TODO_00", "hash": "D6B0925EEBC12AEB", "target": "Entregar el <ennoun(EventItem,3,2002848,1,1)> a Chathwick, en el Fuerte Jobb" },
     { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_TODO_01", "hash": "4893BE02B6BBCE59", "target": "Repartir la comida casera entre los guardias" },
     { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_TODO_02", "hash": "5DED9621FE668060", "target": "Hablar con Chathwick" },
     { "gameKey": "quest/033/LucKzb002_03380#TEXT_LUCKZB002_03380_HEGGIE_000_000", "hash": "A19066E66B10A21C", "target": "Saludos, <if(gnum4,pecadora,pecador)>. ¿Se atrevería esta anciana a pedirle que viaje hasta el Fuerte Jobb en su lugar?" },

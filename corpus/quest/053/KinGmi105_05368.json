@@ -6,11 +6,11 @@
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_00", "hash": "DB4C481F718AB38A", "target": "Hablar con la encargada del montacargas" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_01", "hash": "DC1332D91E020F74", "target": "Volver a hablar con la encargada del montacargas" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_02", "hash": "7974E9EDF86AD08D", "target": "Buscar una tarjeta de acceso en la sala común de los investigadores" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_03", "hash": "19C8CBD99664C673", "target": "Usar el objeto con forma de tarjeta en el lector" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_04", "hash": "8542D57AC594C1E9", "target": "Usar la tarjeta de acceso de nivel 1 en el lector del despacho del director" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_03", "hash": "19C8CBD99664C673", "target": "Usar el <ennoun(EventItem,3,2003767,1,1)> en el lector" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_04", "hash": "8542D57AC594C1E9", "target": "Usar la <ennoun(EventItem,3,2003789,1,1)> en el lector del despacho del director" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_05", "hash": "16F8C0F323D494E6", "target": "Hablar con Sphene" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_06", "hash": "3AF8FD0418577FC4", "target": "Examinar el teclado numérico de la taquilla e introducir la combinación correcta" },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_07", "hash": "949C2C93A4D87C64", "target": "Usar la tarjeta de acceso de nivel 2 en el lector del segundo laboratorio y el Mantenimiento" },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_07", "hash": "949C2C93A4D87C64", "target": "Usar la <ennoun(EventItem,3,2003768,1,1)> en el lector del segundo laboratorio y el Mantenimiento" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_08", "hash": "C495EB02036E6855", "target": "Hablar con Gulool Ja" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_09", "hash": "2DE6FBA8710BCF26", "target": "Hablar con Shale" },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_TODO_10", "hash": "D06F7C4D339F1A4A", "target": "Examinar los paneles de control y reconfigurar el trazado del circuito" },
@@ -310,8 +310,8 @@
       "target": "Eso parece una tarjeta de acceso. ¡Veamos si funciona!"
     },
     { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_129", "hash": "1B455569DB0C3823", "target": "Esta pequeña estantería contiene material de oficina y poco más digno de mención..." },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_140", "hash": "CBD78081333EE984", "target": "Un lector. El objeto con forma de tarjeta que llevas parece de un tamaño similar al del panel del lector..." },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_141", "hash": "257B524003A19A86", "target": "Acercas el objeto con forma de tarjeta al lector." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_140", "hash": "CBD78081333EE984", "target": "Un lector. El <ennoun(EventItem,3,2003767,1,1)> que llevas parece de un tamaño similar al del panel del lector..." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_141", "hash": "257B524003A19A86", "target": "Acercas el <ennoun(EventItem,3,2003767,1,1)> al lector." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_142",
       "hash": "B6E3C39D55BFB893",
@@ -342,7 +342,7 @@
       "hash": "FEC9DB24026410A7",
       "target": "Entonces sigamos adelante. La puerta del despacho del director está al otro lado del núcleo central."
     },
-    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_180", "hash": "EF941AE9891F85D1", "target": "Acercas la tarjeta de acceso de nivel 1... pero el lector pita en señal de rechazo." },
+    { "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SYSTEM_000_180", "hash": "EF941AE9891F85D1", "target": "Acercas la <ennoun(EventItem,3,2003789,1,1)>... pero el lector pita en señal de rechazo." },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_GULOOLJA_000_182",
       "hash": "447722B29BF5DE10",
@@ -426,7 +426,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_WUKLAMAT_000_235",
       "hash": "4134580AFDF91F24",
-      "target": "...En fin, no tengo ni idea de qué significa nada de eso. ¿A lo mejor cobra sentido más adelante?"
+      "target": "... En fin, no tengo ni idea de qué significa nada de eso. ¿A lo mejor cobra sentido más adelante?"
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_ORIGINALSPHENE_000_240",
@@ -638,7 +638,7 @@
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_100_365",
       "hash": "8AB921C170B8059F",
-      "target": "...Ah, ya veo."
+      "target": "... Ah, ya veo."
     },
     {
       "gameKey": "quest/053/KinGmi105_05368#TEXT_KINGMI105_05368_SHALE_110_365",
