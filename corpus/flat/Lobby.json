@@ -613,7 +613,7 @@
     { "gameKey": "Lobby#928.3", "hash": "A6D8BFCAEF6FFC20", "target": "Guarda los nombres de los grupos de la lista de amigos y la lista de contactos." },
     { "gameKey": "Lobby#928.4", "hash": "7E2DC9DCA0073EB0", "target": "Social" },
     { "gameKey": "Lobby#940.3", "hash": "A0E794EFC417EC08", "target": "Restaurar" },
-    { "gameKey": "Lobby#941.3", "hash": "AFD4AD9BC852F3BC", "target": "Restaurar <if([gnum75==0],macros,configuración)>" },
+    { "gameKey": "Lobby#941.3", "hash": "AFD4AD9BC852F3BC", "target": "RESTAURAR <if([gnum75==0],MACROS,CONFIGURACIÓN)>" },
     { "gameKey": "Lobby#942.3", "hash": "A58946096CF790C6", "target": "RESTAURAR CONFIGURACIÓN" },
     { "gameKey": "Lobby#943.3", "hash": "65934B6EE517F0BA", "target": "RESTAURAR <if([gnum75==0],MACROS COMUNES,CONFIGURACIÓN DEL CLIENTE)>" },
     { "gameKey": "Lobby#945.3", "hash": "E1F5C6FCAE003519", "target": "<if([gnum75==0],Se pueden restaurar hasta 100 macros comunes.,)>" },
