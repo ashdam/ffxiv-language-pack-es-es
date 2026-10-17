@@ -1,18 +1,13 @@
-name: "Release"
-
+name: Release
 on:
   push:
-    branches: ["main"]
+    branches: [main]
     paths: ["corpus/**", "glossary/**", "fonts/**", "layouts/**", "ui/**", "pack.json", "inventory-exclusions.json"]
   workflow_dispatch:
-
 permissions: {}
-
 jobs:
   release:
-    uses: "ashdam/ffxiv-language-pack-ci/.github/workflows/release.yml@main"
+    uses: ashdam/ffxiv-language-pack-ci/.github/workflows/release.yml@main
     permissions:
-      contents: "write"
-    with:
-      language: "es-es"
-    secrets: "inherit"
+      contents: write
+    secrets: inherit
