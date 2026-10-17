@@ -15,7 +15,7 @@
     {
       "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_SEQ_02",
       "hash": "0F9B786D86326655",
-      "target": "Luciane quiere poner a prueba tu aptitud para unirte al Gremio de Arqueros. Sal de la ciudad y abate tres ardillas, tres mariquitas y tres funguars."
+      "target": "Luciane quiere poner a prueba tu aptitud para unirte al Gremio de Arqueros. Sal de la ciudad y abate tres ardillas, tres mariquitas y tres fungos."
     },
     {
       "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_SEQ_03",
@@ -34,7 +34,7 @@
     },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_TODO_01", "hash": "44C62AEF84D5463D", "target": "Abatir ardillas terrestres" },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_TODO_02", "hash": "79DD75FBCB0485F0", "target": "Abatir pequeñas mariquitas" },
-    { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_TODO_03", "hash": "4BBDB405041084DD", "target": "Abatir funguars del bosque" },
+    { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_TODO_03", "hash": "4BBDB405041084DD", "target": "Abatir fungos del bosque" },
     {
       "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_TODO_04",
       "hash": "25191B0862FAB3B7",
@@ -63,7 +63,7 @@
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_25", "hash": "6D7D1D3828613B7B", "target": "Es una lástima. Con todo, es bueno ver a <if(gnum4,una mujer,un hombre)> que sabe lo que quiere." },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_26", "hash": "EBCC3671E1D5F3CE", "target": "Sería un buen arquero... de tener voluntad. Si cambia de parecer, búsqueme aquí de nuevo." },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_30", "hash": "7DD50C974A2B1CE8", "target": "Muy bien. Ahora, antes de seguir adelante, he de calibrar su aptitud innata para la arquería. Con este fin, le asigno la siguiente prueba..." },
-    { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_31", "hash": "66052EC8B375A460", "target": "Abata a las ardillas, las mariquitas y los funguars que merodean nada más salir de las puertas de la ciudad; con tres de cada debería bastar." },
+    { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_31", "hash": "66052EC8B375A460", "target": "Abata a las ardillas, las mariquitas y los fungos que merodean nada más salir de las puertas de la ciudad; con tres de cada debería bastar." },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_32", "hash": "7F874365CA0D1901", "target": "Al hacerlo, demostrará su aptitud para unirse al Gremio de Arqueros." },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_33", "hash": "81ACE4E6B6BEEAA2", "target": "Vuelva a informarme cuando haya cumplido la tarea. Dudo que le suponga demasiado apuro." },
     { "gameKey": "quest/000/ClsArc000_00021#TEXT_CLSARC000_00021_LUCIANE_000_40", "hash": "78E8AB09C88FF32A", "target": "<if(gnum4,Bienvenida,Bienvenido)> de nuevo, <split(<string(gstr1)>, ,1)>. Parece que ha completado con éxito la prueba." },
