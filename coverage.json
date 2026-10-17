@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.06.0000.0000",
-  "translated": 481995,
-  "total": 482278,
-  "percent": 99.9,
-  "chars": 49210389,
+  "translated": 482249,
+  "total": 482296,
+  "percent": 100,
+  "chars": 49211419,
   "unresolved": 5522,
   "groups": [
     {
@@ -404,9 +404,15 @@
     },
     {
       "expansion": null,
+      "content": "Chat commands (`TextCommand`)",
+      "translated": 2,
+      "total": 49
+    },
+    {
+      "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 122799,
-      "total": 123082
+      "translated": 123051,
+      "total": 123051
     }
   ],
   "excludedFromLocalization": [
@@ -460,8 +466,8 @@
       "sheet": "Completion",
       "content": "Completion",
       "total": 3090,
-      "translated": 46,
-      "pending": 3044,
+      "translated": 47,
+      "pending": 3043,
       "pendingPercent": 98.5
     },
     {
@@ -508,8 +514,8 @@
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 5439,
-      "pending": 168013,
+      "translated": 5446,
+      "pending": 168006,
       "pendingPercent": 96.9
     },
     {
