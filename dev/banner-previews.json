@@ -107,12 +107,20 @@
   {
     "Id": 120061,
     "Name": "Free Company fundada",
-    "OriginalName": "Free Company Formed"
+    "OriginalName": "Free Company Formed",
+    "NativeScene": {
+      "ImageId": 120061,
+      "DisplayType": 0
+    }
   },
   {
     "Id": 120064,
     "Name": "¡La Free Company sube de rango!",
-    "OriginalName": "Free Company Rank Up!"
+    "OriginalName": "Free Company Rank Up!",
+    "NativeScene": {
+      "ImageId": 120064,
+      "DisplayType": 0
+    }
   },
   {
     "Id": 120068,
@@ -177,7 +185,11 @@
   {
     "Id": 120091,
     "Name": "Rango de dificultad desbloqueado",
-    "OriginalName": "Difficulty Unlocked"
+    "OriginalName": "Difficulty Unlocked",
+    "NativeScene": {
+      "ImageId": 120091,
+      "DisplayType": 0
+    }
   },
   {
     "Id": 120092,
@@ -270,14 +282,27 @@
     "OriginalName": "Level Up!"
   },
   {
+    "Id": 120113,
+    "Name": "Cadena n.º",
+    "OriginalName": "Chain No."
+  },
+  {
     "Id": 120114,
     "Name": "Grupo reducido",
-    "OriginalName": "Light Party"
+    "OriginalName": "Light Party",
+    "NativeScene": {
+      "ImageId": 120114,
+      "DisplayType": 3
+    }
   },
   {
     "Id": 120115,
     "Name": "Grupo completo",
-    "OriginalName": "Full Party"
+    "OriginalName": "Full Party",
+    "NativeScene": {
+      "ImageId": 120115,
+      "DisplayType": 3
+    }
   },
   {
     "Id": 120116,
@@ -440,6 +465,11 @@
     "OriginalName": "Promotion Qualifier Available!"
   },
   {
+    "Id": 120166,
+    "Name": "¡Victoria!",
+    "OriginalName": "Victory!"
+  },
+  {
     "Id": 120171,
     "Name": "¡Tesoro encontrado!",
     "OriginalName": "Treasure Found!"
@@ -463,6 +493,11 @@
     "Id": 120175,
     "Name": "¡Aumenta la satisfacción!",
     "OriginalName": "Satisfaction Up!"
+  },
+  {
+    "Id": 120176,
+    "Name": "Seguimiento de tiempo activo",
+    "OriginalName": "Active Time Tracking"
   },
   {
     "Id": 120177,
@@ -996,7 +1031,7 @@
   },
   {
     "Id": 120317,
-    "Name": "¡Balada compuesta! / La Perdición de Ultima",
+    "Name": "¡Balada compuesta! / La Perdición de Última",
     "OriginalName": "Ultima's Bane / Ballad Composed"
   },
   {
@@ -2630,6 +2665,11 @@
     "OriginalName": "Logos Manipulator Unlocked"
   },
   {
+    "Id": 120919,
+    "Name": "Historia de Eureka completada",
+    "OriginalName": "Eureka Complete!"
+  },
+  {
     "Id": 120920,
     "Name": "Pruebas de la Luna",
     "OriginalName": "Trials of the Moon"
@@ -2675,6 +2715,11 @@
     "OriginalName": "Greater Summon"
   },
   {
+    "Id": 120934,
+    "Name": "¡Invocación superior!",
+    "OriginalName": "Elder Summon!"
+  },
+  {
     "Id": 120935,
     "Name": "¡Los círculos se desplazan!",
     "OriginalName": "The Circles Shift!"
@@ -2688,6 +2733,35 @@
     "Id": 120937,
     "Name": "¡Abominación!",
     "OriginalName": "Abomination!"
+  },
+  {
+    "Id": 120951,
+    "Name": "¡Frenesí!",
+    "OriginalName": "Rampage!",
+    "NativeScene": {
+      "Streak": 1
+    }
+  },
+  {
+    "Id": 120952,
+    "Name": "¡KO!",
+    "OriginalName": "KOs!",
+    "NativeScene": {
+      "Streak": 2
+    }
+  },
+  {
+    "Id": 120955,
+    "Name": "Acumulado",
+    "OriginalName": "Stacked",
+    "NativeScene": {
+      "ManeuverStreak": 1
+    }
+  },
+  {
+    "Id": 120957,
+    "Name": "Acumulado",
+    "OriginalName": "Stacked"
   },
   {
     "Id": 121001,
@@ -2745,6 +2819,21 @@
     "OriginalName": "Notorious Monster Battle Failed..."
   },
   {
+    "Id": 121076,
+    "Name": "Ejercicio iniciado",
+    "OriginalName": "Exercise Commenced"
+  },
+  {
+    "Id": 121077,
+    "Name": "Ejercicio completado",
+    "OriginalName": "Exercise Complete"
+  },
+  {
+    "Id": 121078,
+    "Name": "Ejercicio fallido",
+    "OriginalName": "Exercise Failed"
+  },
+  {
     "Id": 121081,
     "Name": "Misión de sociedad aliada aceptada",
     "OriginalName": "Society Quest Accepted"
@@ -2755,6 +2844,21 @@
     "OriginalName": "Society Quest Complete"
   },
   {
+    "Id": 121091,
+    "Name": "¡Te unes al FATE tribal!",
+    "OriginalName": "Tribal FATE Joined"
+  },
+  {
+    "Id": 121092,
+    "Name": "¡FATE tribal completado!",
+    "OriginalName": "Tribal FATE Complete"
+  },
+  {
+    "Id": 121093,
+    "Name": "FATE tribal fallido",
+    "OriginalName": "Tribal FATE Failed"
+  },
+  {
     "Id": 121101,
     "Name": "Los lazos que nos unen / Misión especial aceptada",
     "OriginalName": "The Ties That Bind / Special Quest Accepted"
@@ -2763,6 +2867,11 @@
     "Id": 121102,
     "Name": "¡Felicidades! / Misión especial cumplida",
     "OriginalName": "Congratulations! / Special Quest Complete"
+  },
+  {
+    "Id": 121104,
+    "Name": "Aniversario del Lazo Eterno fijado",
+    "OriginalName": "Anniversary Set"
   },
   {
     "Id": 121111,
@@ -2780,6 +2889,11 @@
     "OriginalName": "Skirmish Lost..."
   },
   {
+    "Id": 121115,
+    "Name": "¡Al combate!",
+    "OriginalName": "Engage!"
+  },
+  {
     "Id": 121116,
     "Name": "¡Victoria en el enfrentamiento crucial!",
     "OriginalName": "Critical Engagement Won!"
@@ -2788,6 +2902,11 @@
     "Id": 121117,
     "Name": "Derrota en el enfrentamiento crucial",
     "OriginalName": "Critical Engagement Lost..."
+  },
+  {
+    "Id": 121119,
+    "Name": "¡Al combate!",
+    "OriginalName": "Engage!"
   },
   {
     "Id": 121120,
@@ -2800,9 +2919,24 @@
     "OriginalName": "Solo Engagement Lost..."
   },
   {
+    "Id": 121122,
+    "Name": "Duelo",
+    "OriginalName": "Duel"
+  },
+  {
+    "Id": 121245,
+    "Name": "Construcción iniciada",
+    "OriginalName": "Construction Commenced"
+  },
+  {
     "Id": 121246,
     "Name": "¡Te unes al Fête! / Evento especial del Firmamento",
     "OriginalName": "Fête Joined / Ishgardian Restoration Special Event"
+  },
+  {
+    "Id": 121247,
+    "Name": "Construcción abandonada",
+    "OriginalName": "Construction Abandoned"
   },
   {
     "Id": 121248,
@@ -2810,9 +2944,309 @@
     "OriginalName": "Fête Complete / Ishgardian Restoration Special Event"
   },
   {
+    "Id": 121451,
+    "Name": "Este 1",
+    "OriginalName": "East 1"
+  },
+  {
+    "Id": 121452,
+    "Name": "Este 2",
+    "OriginalName": "East 2"
+  },
+  {
+    "Id": 121453,
+    "Name": "Este 3",
+    "OriginalName": "East 3"
+  },
+  {
+    "Id": 121454,
+    "Name": "Este 4",
+    "OriginalName": "East 4"
+  },
+  {
+    "Id": 121455,
+    "Name": "Sur 1",
+    "OriginalName": "South 1"
+  },
+  {
+    "Id": 121456,
+    "Name": "Sur 2",
+    "OriginalName": "South 2"
+  },
+  {
+    "Id": 121457,
+    "Name": "Sur 3",
+    "OriginalName": "South 3"
+  },
+  {
+    "Id": 121458,
+    "Name": "Sur 4",
+    "OriginalName": "South 4"
+  },
+  {
+    "Id": 121464,
+    "Name": "Principiante",
+    "OriginalName": "Novice"
+  },
+  {
+    "Id": 121465,
+    "Name": "9.º kyu",
+    "OriginalName": "9th Kyu"
+  },
+  {
+    "Id": 121466,
+    "Name": "8.º kyu",
+    "OriginalName": "8th Kyu"
+  },
+  {
+    "Id": 121467,
+    "Name": "7.º kyu",
+    "OriginalName": "7th Kyu"
+  },
+  {
+    "Id": 121468,
+    "Name": "6.º kyu",
+    "OriginalName": "6th Kyu"
+  },
+  {
+    "Id": 121469,
+    "Name": "5.º kyu",
+    "OriginalName": "5th Kyu"
+  },
+  {
+    "Id": 121470,
+    "Name": "4.º kyu",
+    "OriginalName": "4th Kyu"
+  },
+  {
+    "Id": 121471,
+    "Name": "3.er kyu",
+    "OriginalName": "3rd Kyu"
+  },
+  {
+    "Id": 121472,
+    "Name": "2.º kyu",
+    "OriginalName": "2nd Kyu"
+  },
+  {
+    "Id": 121473,
+    "Name": "1.er kyu",
+    "OriginalName": "1st Kyu"
+  },
+  {
+    "Id": 121474,
+    "Name": "1.er dan",
+    "OriginalName": "1st Dan"
+  },
+  {
+    "Id": 121475,
+    "Name": "2.º dan",
+    "OriginalName": "2nd Dan"
+  },
+  {
+    "Id": 121476,
+    "Name": "3.er dan",
+    "OriginalName": "3rd Dan"
+  },
+  {
+    "Id": 121477,
+    "Name": "4.º dan",
+    "OriginalName": "4th Dan"
+  },
+  {
+    "Id": 121478,
+    "Name": "5.º dan",
+    "OriginalName": "5th Dan"
+  },
+  {
+    "Id": 121479,
+    "Name": "6.º dan",
+    "OriginalName": "6th Dan"
+  },
+  {
+    "Id": 121480,
+    "Name": "7.º dan",
+    "OriginalName": "7th Dan"
+  },
+  {
+    "Id": 121481,
+    "Name": "8.º dan",
+    "OriginalName": "8th Dan"
+  },
+  {
+    "Id": 121482,
+    "Name": "9.º dan",
+    "OriginalName": "9th Dan"
+  },
+  {
+    "Id": 121483,
+    "Name": "10.º dan",
+    "OriginalName": "10th Dan"
+  },
+  {
+    "Id": 121484,
+    "Name": "Comienza la partida",
+    "OriginalName": "Commencing Match"
+  },
+  {
+    "Id": 121486,
+    "Name": "¡Empate!",
+    "OriginalName": "Draw"
+  },
+  {
+    "Id": 121671,
+    "Name": "Te has inscrito en / The Manderville Tournament of Champions",
+    "OriginalName": "The Manderville Tournament of Champions Joined"
+  },
+  {
+    "Id": 121672,
+    "Name": "Te has inscrito en / The Spinner's Pull",
+    "OriginalName": "The Spinner's Pull Joined"
+  },
+  {
+    "Id": 121673,
+    "Name": "Te has inscrito en / The Durai Memorial",
+    "OriginalName": "The Durai Memorial Joined"
+  },
+  {
+    "Id": 121674,
+    "Name": "Te has inscrito en / The Rowena Cup Classic",
+    "OriginalName": "The Rowena Cup Classic Joined"
+  },
+  {
+    "Id": 121681,
+    "Name": "Puesto conseguido / The Manderville Tournament of Champions",
+    "OriginalName": "The Manderville Tournament of Champions Placed"
+  },
+  {
+    "Id": 121682,
+    "Name": "Puesto conseguido / The Spinner's Pull",
+    "OriginalName": "The Spinner's Pull Placed"
+  },
+  {
+    "Id": 121683,
+    "Name": "Puesto conseguido / The Durai Memorial",
+    "OriginalName": "The Durai Memorial Placed"
+  },
+  {
+    "Id": 121684,
+    "Name": "Puesto conseguido / The Rowena Cup Classic",
+    "OriginalName": "The Rowena Cup Classic Placed"
+  },
+  {
+    "Id": 121781,
+    "Name": "¡Aparece un portal!",
+    "OriginalName": "A Portal Appears!"
+  },
+  {
+    "Id": 121782,
+    "Name": "¡Segunda cámara descubierta!",
+    "OriginalName": "2nd Chamber Discovered!"
+  },
+  {
+    "Id": 121783,
+    "Name": "¡Tercera cámara descubierta!",
+    "OriginalName": "3rd Chamber Discovered!"
+  },
+  {
+    "Id": 121784,
+    "Name": "¡Cuarta cámara descubierta!",
+    "OriginalName": "4th Chamber Discovered!"
+  },
+  {
+    "Id": 121785,
+    "Name": "¡Quinta cámara descubierta!",
+    "OriginalName": "5th Chamber Discovered!"
+  },
+  {
+    "Id": 121786,
+    "Name": "¡Sexta cámara descubierta!",
+    "OriginalName": "6th Chamber Discovered!"
+  },
+  {
+    "Id": 121787,
+    "Name": "¡Última cámara descubierta!",
+    "OriginalName": "Final Chamber Discovered!"
+  },
+  {
+    "Id": 121788,
+    "Name": "¡Tesoro obtenido!",
+    "OriginalName": "Treasure Obtained!"
+  },
+  {
+    "Id": 121789,
+    "Name": "¡Todos los tesoros obtenidos!",
+    "OriginalName": "All Treasure Obtained!"
+  },
+  {
+    "Id": 121790,
+    "Name": "¡Se activa el Gambler's Lure!",
+    "OriginalName": "The Gambler's Lure Activates!"
+  },
+  {
+    "Id": 121791,
+    "Name": "¡La cerradura hace clic!",
+    "OriginalName": "The Lock Clicks!"
+  },
+  {
+    "Id": 121792,
+    "Name": "¡Todas las cerraduras abiertas!",
+    "OriginalName": "All Locks Released!"
+  },
+  {
+    "Id": 121793,
+    "Name": "La cerradura se atasca...",
+    "OriginalName": "The Lock Jams..."
+  },
+  {
+    "Id": 121794,
+    "Name": "La cerradura sigue igual...",
+    "OriginalName": "The Lock Is Unchanged..."
+  },
+  {
+    "Id": 121801,
+    "Name": "Escuadrón formado",
+    "OriginalName": "Squadron Formed"
+  },
+  {
+    "Id": 121802,
+    "Name": "¡Escuadrón ascendido!",
+    "OriginalName": "Squadron Promoted!"
+  },
+  {
     "Id": 121803,
     "Name": "Nuevas misiones para tu escuadrón",
     "OriginalName": "Adventurer Squadron Missions Available"
+  },
+  {
+    "Id": 121821,
+    "Name": "Primera prueba de ascenso",
+    "OriginalName": "1st Promotion Qualifier"
+  },
+  {
+    "Id": 121822,
+    "Name": "Segunda prueba de ascenso",
+    "OriginalName": "2nd Promotion Qualifier"
+  },
+  {
+    "Id": 121823,
+    "Name": "Tercera prueba de ascenso",
+    "OriginalName": "3rd Promotion Qualifier"
+  },
+  {
+    "Id": 121824,
+    "Name": "Cuarta prueba de ascenso",
+    "OriginalName": "4th Promotion Qualifier"
+  },
+  {
+    "Id": 121825,
+    "Name": "Última prueba de ascenso",
+    "OriginalName": "Final Promotion Qualifier"
+  },
+  {
+    "Id": 121841,
+    "Name": "¡Adelante!",
+    "OriginalName": "Start!"
   },
   {
     "Id": 122003,
@@ -2830,14 +3264,52 @@
     "OriginalName": "Crystal Tower"
   },
   {
+    "Id": 122012,
+    "Name": "Nave de contención IC-03",
+    "OriginalName": "Internment Hulk IC-03",
+    "NativeScene": {
+      "TerritoryId": 357
+    }
+  },
+  {
+    "Id": 122013,
+    "Name": "Nave de contención IC-06",
+    "OriginalName": "Internment Hulk IC-06"
+  },
+  {
+    "Id": 122014,
+    "Name": "Nave de contención IC-04",
+    "OriginalName": "Internment Hulk IC-04"
+  },
+  {
     "Id": 122015,
     "Name": "Llanura de Carteneau",
     "OriginalName": "Carteneau Flats"
   },
   {
+    "Id": 122016,
+    "Name": "Grieta etérea",
+    "OriginalName": "Aetherial Rift"
+  },
+  {
+    "Id": 122017,
+    "Name": "Santa Sede de Ishgard",
+    "OriginalName": "The Holy See of Ishgard"
+  },
+  {
     "Id": 122019,
     "Name": "Abalathia",
     "OriginalName": "Abalathia's Spine"
+  },
+  {
+    "Id": 122021,
+    "Name": "Estrecho de Merlthor",
+    "OriginalName": "The Strait of Merlthor"
+  },
+  {
+    "Id": 122022,
+    "Name": "Sombra de Mhach",
+    "OriginalName": "The Shadow of Mhach"
   },
   {
     "Id": 122028,
@@ -2853,6 +3325,16 @@
     "Id": 122031,
     "Name": "Mundo sin Escindir",
     "OriginalName": "The World Unsundered"
+  },
+  {
+    "Id": 122032,
+    "Name": "Mazmorras variantes",
+    "OriginalName": "Variant Dungeon"
+  },
+  {
+    "Id": 122033,
+    "Name": "Mazmorra criterion",
+    "OriginalName": "Criterion Dungeon"
   },
   {
     "Id": 122036,
@@ -2888,6 +3370,16 @@
     "Id": 122105,
     "Name": "Isla del Creciente: Cuerno Norte",
     "OriginalName": "North Horn"
+  },
+  {
+    "Id": 122106,
+    "Name": "La Torre Bifurcada: Magia",
+    "OriginalName": "The Forked Tower: Magic"
+  },
+  {
+    "Id": 122107,
+    "Name": "La Torre Bifurcada: Magia (Extremo)",
+    "OriginalName": "The Forked Tower: Magic (Extreme)"
   },
   {
     "Id": 122109,
@@ -3235,9 +3727,19 @@
     "OriginalName": "The Wanderer's Palace"
   },
   {
+    "Id": 124006,
+    "Name": "El Redil",
+    "OriginalName": "The Fold"
+  },
+  {
     "Id": 124007,
     "Name": "Faro de Sirius",
     "OriginalName": "Pharos Sirius"
+  },
+  {
+    "Id": 124008,
+    "Name": "El Ombligo",
+    "OriginalName": "The Navel"
   },
   {
     "Id": 124009,
@@ -3530,6 +4032,11 @@
     "OriginalName": "South Horn"
   },
   {
+    "Id": 124091,
+    "Name": "La Torre Bifurcada: Sangre",
+    "OriginalName": "The Forked Tower: Blood"
+  },
+  {
     "Id": 124093,
     "Name": "Necrópolis Eterna",
     "OriginalName": "The Ageless Necropolis"
@@ -3590,6 +4097,11 @@
     "OriginalName": "Cutter's Cry"
   },
   {
+    "Id": 124108,
+    "Name": "Cráter de las Brasas",
+    "OriginalName": "The Bowl of Embers"
+  },
+  {
     "Id": 124109,
     "Name": "Cráter de las Brasas (Difícil)",
     "OriginalName": "Bowl of Embers"
@@ -3600,13 +4112,18 @@
     "OriginalName": "Bowl of Embers"
   },
   {
+    "Id": 124111,
+    "Name": "Cabo Viento del Oeste",
+    "OriginalName": "Cape Westwind"
+  },
+  {
     "Id": 124113,
     "Name": "Praetorium",
     "OriginalName": "The Praetorium"
   },
   {
     "Id": 124114,
-    "Name": "El cantar del trovador: la Perdición de Ultima",
+    "Name": "El cantar del trovador: la Perdición de Última",
     "OriginalName": "Porta Decumana"
   },
   {
@@ -3783,6 +4300,70 @@
     "Id": 124156,
     "Name": "Araya Dorada",
     "OriginalName": "The Gilded Araya"
+  },
+  {
+    "Id": 124161,
+    "Name": "Anfiteatro de Akh Afah (Irreal)",
+    "OriginalName": "The Akh Afah Amphitheatre (Unreal)"
+  },
+  {
+    "Id": 124162,
+    "Name": "El Ombligo (Irreal)",
+    "OriginalName": "The Navel (Unreal)"
+  },
+  {
+    "Id": 124163,
+    "Name": "El Devorador de Torbellinos (Irreal)",
+    "OriginalName": "The Whorleater (Unreal)"
+  },
+  {
+    "Id": 124164,
+    "Name": "La perdición de Última (Irreal)",
+    "OriginalName": "Ultima's Bane (Unreal)",
+    "NativeScene": {
+      "TerritoryId": 348,
+      "LocationImageId": 124164
+    }
+  },
+  {
+    "Id": 124165,
+    "Name": "Cámara de contención S1T7 (Irreal)",
+    "OriginalName": "Containment Bay S1T7 (Unreal)"
+  },
+  {
+    "Id": 124166,
+    "Name": "Cámara de contención P1T6 (Irreal)",
+    "OriginalName": "Containment Bay P1T6 (Unreal)"
+  },
+  {
+    "Id": 124167,
+    "Name": "Cámara de contención Z1T9 (Irreal)",
+    "OriginalName": "Containment Bay Z1T9 (Unreal)"
+  },
+  {
+    "Id": 124168,
+    "Name": "Reactor de Singularidad (Irreal)",
+    "OriginalName": "The Singularity Reactor (Unreal)"
+  },
+  {
+    "Id": 124169,
+    "Name": "El Claro de Jade (Irreal)",
+    "OriginalName": "The Jade Stoa (Unreal)"
+  },
+  {
+    "Id": 124170,
+    "Name": "Abismo de los Infiernos (Irreal)",
+    "OriginalName": "Hells' Kier (Unreal)"
+  },
+  {
+    "Id": 124171,
+    "Name": "Corona de Serpientes (Irreal)",
+    "OriginalName": "The Wreath of Snakes (Unreal)"
+  },
+  {
+    "Id": 124172,
+    "Name": "El pesar de Tsukuyomi (Irreal)",
+    "OriginalName": "Tsukuyomi's Pain (Unreal)"
   },
   {
     "Id": 124173,
@@ -4145,6 +4726,11 @@
     "OriginalName": "Aurum Vale"
   },
   {
+    "Id": 124305,
+    "Name": "Ojo Aullante",
+    "OriginalName": "The Howling Eye"
+  },
+  {
     "Id": 124306,
     "Name": "Ojo Aullante (Difícil)",
     "OriginalName": "The Howling Eye"
@@ -4178,6 +4764,11 @@
     "Id": 124312,
     "Name": "Anfiteatro de Akh Afah (Extremo)",
     "OriginalName": "Akh Afah Amphitheatre"
+  },
+  {
+    "Id": 124313,
+    "Name": "Pasarela de la Fe",
+    "OriginalName": "The Steps of Faith"
   },
   {
     "Id": 124314,
@@ -4385,6 +4976,11 @@
     "OriginalName": "Deltascape V4.0"
   },
   {
+    "Id": 124460,
+    "Name": "Fisura Interdimensional",
+    "OriginalName": "Interdimensional Rift"
+  },
+  {
     "Id": 124465,
     "Name": "Sigmascape V1.0 (Salvaje)",
     "OriginalName": "Sigmascape V1.0"
@@ -4430,6 +5026,36 @@
     "OriginalName": "The Interdimensional Rift"
   },
   {
+    "Id": 124501,
+    "Name": "Zona superior de exploración eteroacústica - 237 yalms",
+    "OriginalName": "Imperial Exploratory Site - 237 Yalms"
+  },
+  {
+    "Id": 124502,
+    "Name": "Zona inferior de exploración eteroacústica - 912 yalms",
+    "OriginalName": "Imperial Exploratory Site - 912 Yalms"
+  },
+  {
+    "Id": 124503,
+    "Name": "Ragnarok - 1233 yalms",
+    "OriginalName": "Engine Room - 1233 Yalms"
+  },
+  {
+    "Id": 124504,
+    "Name": "Cilindro propulsor del Ragnarok - 1524 yalms",
+    "OriginalName": "Drive Cylinder - 1524 Yalms"
+  },
+  {
+    "Id": 124505,
+    "Name": "Núcleo central del Ragnarok - 1910 yalms",
+    "OriginalName": "Central Core - 1910 Yalms"
+  },
+  {
+    "Id": 124506,
+    "Name": "Puente principal del Ragnarok - 8770 yalms",
+    "OriginalName": "Main Bridge - 8770 Yalms"
+  },
+  {
     "Id": 124507,
     "Name": "Subsuelo de Eorzea",
     "OriginalName": "Eorzean Subterrane"
@@ -4445,9 +5071,69 @@
     "OriginalName": "The Outer Coil"
   },
   {
+    "Id": 124513,
+    "Name": "Cubiertas centrales - 3256 yalms",
+    "OriginalName": "Central Decks - 3256 Yalms"
+  },
+  {
+    "Id": 124514,
+    "Name": "Sala de holomapas - 6329 yalms",
+    "OriginalName": "The Holocharts - 6329 Yalms"
+  },
+  {
+    "Id": 124515,
+    "Name": "Puente principal - 8680 yalms",
+    "OriginalName": "Main Bridge - 8680 Yalms"
+  },
+  {
+    "Id": 124521,
+    "Name": "Sombra de Dalamud (Salvaje)",
+    "OriginalName": "Dalamud's Shadow (Savage)"
+  },
+  {
+    "Id": 124522,
+    "Name": "Espiral exterior (Salvaje)",
+    "OriginalName": "The Outer Coil (Savage)"
+  },
+  {
+    "Id": 124523,
+    "Name": "Cubiertas centrales - 3256 yalms (Salvaje)",
+    "OriginalName": "Central Decks - 3256 Yalms (Savage)"
+  },
+  {
+    "Id": 124524,
+    "Name": "Sala de holomapas - 6329 yalms (Salvaje)",
+    "OriginalName": "The Holocharts - 6329 Yalms (Savage)"
+  },
+  {
+    "Id": 124531,
+    "Name": "IC-06: Cubiertas centrales - 4560 yalms",
+    "OriginalName": "Central Decks - 4560 Yalms"
+  },
+  {
+    "Id": 124532,
+    "Name": "IC-06: Red de regeneración - 6835 yalms",
+    "OriginalName": "Regeneration Grid - 6835 Yalms"
+  },
+  {
+    "Id": 124533,
+    "Name": "IC-06: Puente de mando - 8872 yalms",
+    "OriginalName": "Main Bridge - 8872 Yalms"
+  },
+  {
     "Id": 124534,
     "Name": "Corazón Ardiente",
     "OriginalName": "The Burning Heart"
+  },
+  {
+    "Id": 124535,
+    "Name": "IC-04: Puente de mando - 8909 yalms",
+    "OriginalName": "Main Bridge - 8909 Yalms"
+  },
+  {
+    "Id": 124551,
+    "Name": "Articulación",
+    "OriginalName": "Articulation"
   },
   {
     "Id": 124552,
@@ -4538,6 +5224,11 @@
     "Id": 124569,
     "Name": "Carga del Hijo (Salvaje)",
     "OriginalName": "The Burden of the Son"
+  },
+  {
+    "Id": 124570,
+    "Name": "Corazón del Creador",
+    "OriginalName": "The Braincase"
   },
   {
     "Id": 124571,
@@ -4635,6 +5326,11 @@
     "OriginalName": "Windurst: The Third Walk"
   },
   {
+    "Id": 124701,
+    "Name": "Llanuras de Carteneau: Vestigios de la Frontera",
+    "OriginalName": "The Borderland Ruins"
+  },
+  {
     "Id": 124702,
     "Name": "Roca del Sello",
     "OriginalName": "Seal Rock"
@@ -4725,6 +5421,11 @@
     "OriginalName": "Eureka Hydatos"
   },
   {
+    "Id": 124757,
+    "Name": "El Arsenal de Baldesion",
+    "OriginalName": "The Baldesion Arsenal"
+  },
+  {
     "Id": 124759,
     "Name": "Mazmorras de Lyhe Ghiah",
     "OriginalName": "The Dungeons of Lyhe Ghiah"
@@ -4748,6 +5449,11 @@
     "Id": 124766,
     "Name": "Delubrum Reginae (Salvaje)",
     "OriginalName": "Delubrum Reginae"
+  },
+  {
+    "Id": 124768,
+    "Name": "El Dalriada",
+    "OriginalName": "The Dalriada"
   },
   {
     "Id": 124769,
@@ -4798,6 +5504,11 @@
     "Id": 124807,
     "Name": "Torre Invertida",
     "OriginalName": "The Antitower"
+  },
+  {
+    "Id": 124808,
+    "Name": "Piedra, Cielo y Mar",
+    "OriginalName": "Stone, Sky, Sea"
   },
   {
     "Id": 124810,
@@ -4995,6 +5706,11 @@
     "OriginalName": "Containment Bay Z1T9"
   },
   {
+    "Id": 124917,
+    "Name": "La Diadema: Pruebas de la Furia",
+    "OriginalName": "The Diadem - Trials of the Fury"
+  },
+  {
     "Id": 124918,
     "Name": "La Diadema: Pruebas de la Matrona",
     "OriginalName": "The Diadem"
@@ -5045,9 +5761,443 @@
     "OriginalName": "The Ghimlyt Dark"
   },
   {
+    "Id": 127082,
+    "Name": "Al filo de la memoria",
+    "OriginalName": "On the Edge of Memory",
+    "NativeScene": {
+      "CutScreenImageId": 154
+    }
+  },
+  {
+    "Id": 127083,
+    "Name": "Salvad a la reina, capítulo primero",
+    "OriginalName": "Save the Queen, Chapter the First",
+    "NativeScene": {
+      "CutScreenImageId": 154
+    }
+  },
+  {
+    "Id": 127092,
+    "Name": "Ni perdón ni olvido",
+    "OriginalName": "Unforgiven, Unforgotten",
+    "NativeScene": {
+      "CutScreenImageId": 161
+    }
+  },
+  {
+    "Id": 127093,
+    "Name": "Salvad a la reina, capítulo segundo",
+    "OriginalName": "Save the Queen, Chapter the Second",
+    "NativeScene": {
+      "CutScreenImageId": 161
+    }
+  },
+  {
+    "Id": 127102,
+    "Name": "Que el pasado descanse",
+    "OriginalName": "Past to Rest",
+    "NativeScene": {
+      "CutScreenImageId": 179
+    }
+  },
+  {
+    "Id": 127103,
+    "Name": "Salvad a la reina, capítulo tercero",
+    "OriginalName": "Save the Queen, Chapter the Third",
+    "NativeScene": {
+      "CutScreenImageId": 179
+    }
+  },
+  {
+    "Id": 127112,
+    "Name": "El regreso de la reina",
+    "OriginalName": "Return of the Queen",
+    "NativeScene": {
+      "CutScreenImageId": 186
+    }
+  },
+  {
+    "Id": 127113,
+    "Name": "Salvad a la reina, capítulo cuarto",
+    "OriginalName": "Save the Queen, Chapter the Fourth",
+    "NativeScene": {
+      "CutScreenImageId": 186
+    }
+  },
+  {
+    "Id": 128001,
+    "Name": "Despertar de Edén completado",
+    "OriginalName": "EDEN'S GATE COMPLETE!"
+  },
+  {
+    "Id": 128002,
+    "Name": "Despertar de Edén (Salvaje) completado",
+    "OriginalName": "EDEN'S GATE (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128003,
+    "Name": "Acceso autorizado / Cruce de Holminster",
+    "OriginalName": "HOLMINSTER SWITCH NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128004,
+    "Name": "Acceso autorizado / Dohn Mheg",
+    "OriginalName": "DOHN MHEG NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128005,
+    "Name": "Acceso autorizado / Enredo de Qitana",
+    "OriginalName": "THE QITANA RAVEL / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128006,
+    "Name": "Acceso autorizado / Gran Pozo de Malikah",
+    "OriginalName": "MALIKAH'S WELL NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128007,
+    "Name": "Acceso autorizado / Monte Gulg",
+    "OriginalName": "MT. GULG NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128008,
+    "Name": "Acceso autorizado / Amaurot",
+    "OriginalName": "AMAUROT NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128009,
+    "Name": "Acceso autorizado / Akadaemia Anyder",
+    "OriginalName": "AKADAEMIA ANYDER / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128010,
+    "Name": "Acceso autorizado / La Macla",
+    "OriginalName": "THE TWINNING NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128011,
+    "Name": "Acceso autorizado / Último Aliento",
+    "OriginalName": "THE DYING GASP NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128012,
+    "Name": "Acceso autorizado / Salón de baile de Titania",
+    "OriginalName": "THE DANCING PLAGUE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128013,
+    "Name": "Acceso autorizado / Salón de baile de Titania (Extremo)",
+    "OriginalName": "THE DANCING PLAGUE (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128014,
+    "Name": "Acceso autorizado / Corona del Inmaculado",
+    "OriginalName": "THE CROWN OF THE IMMACULATE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128015,
+    "Name": "Acceso autorizado / Corona del Inmaculado (Extremo)",
+    "OriginalName": "THE CROWN OF THE IMMACULATE (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128016,
+    "Name": "Acceso autorizado / Despertar de Edén: Resurrección",
+    "OriginalName": "EDEN'S GATE: RESURRECTION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128017,
+    "Name": "Acceso autorizado / Despertar de Edén: Descenso",
+    "OriginalName": "EDEN'S GATE: DESCENT NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128018,
+    "Name": "Acceso autorizado / Despertar de Edén: Diluvio",
+    "OriginalName": "EDEN'S GATE: INUNDATION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128019,
+    "Name": "Acceso autorizado / Despertar de Edén: Sepultura",
+    "OriginalName": "EDEN'S GATE: SEPULTURE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128020,
+    "Name": "Acceso autorizado / Despertar de Edén (Salvaje)",
+    "OriginalName": "EDEN'S GATE (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128021,
+    "Name": "Ya puedes volar / Tierra de Lagos",
+    "OriginalName": "LAKELAND AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128022,
+    "Name": "Ya puedes volar / Amh Araeng",
+    "OriginalName": "AMH ARAENG / AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128023,
+    "Name": "Ya puedes volar / Il Mheg",
+    "OriginalName": "IL MHEG AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128024,
+    "Name": "Ya puedes volar / Kholusia",
+    "OriginalName": "KHOULUSIA / AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128025,
+    "Name": "Ya puedes volar / Gran Bosque de Rak'tika",
+    "OriginalName": "THE RAK'TIKA GREATWOOD / AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128026,
+    "Name": "Ya puedes volar / La Tempestad",
+    "OriginalName": "THE TEMPEST AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128027,
+    "Name": "Carta náutica desbloqueada / Mar de Ceniza",
+    "OriginalName": "THE SEA OF ASH / NAUTICAL MAP UNLOCKED"
+  },
+  {
+    "Id": 128028,
+    "Name": "Cuaderno de exploración ampliado",
+    "OriginalName": "SIGHTSEEING LOG EXPANDED"
+  },
+  {
+    "Id": 128029,
+    "Name": "Encargos del Cristarium disponibles",
+    "OriginalName": "CRYSTARIUM LEVES NOW AVAILABLE"
+  },
+  {
+    "Id": 128030,
+    "Name": "Acceso autorizado / Cacerías del clan Nutsy",
+    "OriginalName": "CLAN NUTSY HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128031,
+    "Name": "Acceso autorizado / Cacerías de élite del clan Nutsy",
+    "OriginalName": "ELITE CLAN NUTSY HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128032,
+    "Name": "Faceta de la Forja / Entregas del Cristarium desbloqueadas",
+    "OriginalName": "FACET OF FORGING CRYSTARIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128033,
+    "Name": "Faceta de la Artesanía / Entregas del Cristarium desbloqueadas",
+    "OriginalName": "FACET OF CRAFTING CRYSTARIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128034,
+    "Name": "Faceta de la Nutrición / Entregas del Cristarium desbloqueadas",
+    "OriginalName": "FACET OF NOURISHING CRYSTARIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128035,
+    "Name": "Faceta de la Recolección / Entregas del Cristarium desbloqueadas",
+    "OriginalName": "FACET OF GATHERING / CRYSTARIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128036,
+    "Name": "Faceta de la Pesca / Entregas del Cristarium desbloqueadas",
+    "OriginalName": "FACET OF FISHING CRYSTARIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128037,
+    "Name": "¡Entrega del Cristarium completada!",
+    "OriginalName": "CRYSTARIUM DELIVERY COMPLETE!"
+  },
+  {
+    "Id": 128038,
+    "Name": "¡Aumenta el nivel de estima!",
+    "OriginalName": "ESTEEM LEVEL INCREASED!"
+  },
+  {
+    "Id": 128044,
+    "Name": "Has desbloqueado / Grupos de Trust",
+    "OriginalName": "TRUST PARTIES UNLOCKED"
+  },
+  {
+    "Id": 128045,
+    "Name": "Entrega del Cristarium iniciada",
+    "OriginalName": "CRYSTARIUM DELIVERY COMMENCED!"
+  },
+  {
+    "Id": 128048,
+    "Name": "Ruinas de la fábrica copiada completadas",
+    "OriginalName": "THE COPIED FACTORY COMPLETE!"
+  },
+  {
+    "Id": 128049,
+    "Name": "La epopeya de Alejandro (Definitivo) completada",
+    "OriginalName": "THE EPIC OF ALEXANDER (ULTIMATE) COMPLETE!"
+  },
+  {
+    "Id": 128050,
+    "Name": "Acceso autorizado / Gran Cosmos",
+    "OriginalName": "THE GRAND COSMOS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128051,
+    "Name": "Acceso autorizado / El cantar del trovador: la elegía de Hades",
+    "OriginalName": "THE MINSTREL'S BALLAD: HADES'S ELEGY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128052,
+    "Name": "Acceso autorizado / Ruinas de la fábrica copiada",
+    "OriginalName": "THE COPIED FACTORY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128053,
+    "Name": "Acceso autorizado / La epopeya de Alejandro (Definitivo)",
+    "OriginalName": "THE EPIC OF ALEXANDER (ULTIMATE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128054,
+    "Name": "Condición de mentor de combate obtenida",
+    "OriginalName": "BATTLE MENTOR STATUS ACQUIRED"
+  },
+  {
+    "Id": 128055,
+    "Name": "Condición de mentor de artesanía y recolección obtenida",
+    "OriginalName": "TRADE MENTOR STATUS ACQUIRED"
+  },
+  {
+    "Id": 128058,
+    "Name": "Colección ampliada / Archivo portátil obtenido",
+    "OriginalName": "COLLECTION EXPANDED PORTABLE ARCHIVE ACQUIRED"
+  },
+  {
+    "Id": 128059,
+    "Name": "Has desbloqueado / Cuaderno de mago azul",
+    "OriginalName": "BLUE MAGE'S LOG UNLOCKED"
+  },
+  {
+    "Id": 128060,
+    "Name": "Has desbloqueado / Nueva partida+",
+    "OriginalName": "NEW GAME+ UNLOCKED"
+  },
+  {
+    "Id": 128061,
+    "Name": "¡MGP duplicados!",
+    "OriginalName": "MGP DOUBLED!"
+  },
+  {
+    "Id": 128064,
+    "Name": "Versos de Edén completados",
+    "OriginalName": "EDEN'S VERSE COMPLETE!"
+  },
+  {
+    "Id": 128065,
+    "Name": "Versos de Edén (Salvaje) completados",
+    "OriginalName": "EDEN'S VERSE (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128066,
+    "Name": "Acceso autorizado / Anamnesis Anyder",
+    "OriginalName": "ANAMNESIS ANYDER NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128067,
+    "Name": "Acceso autorizado / Memoria Misera (Extremo)",
+    "OriginalName": "MEMORIA MISERA (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128068,
+    "Name": "Acceso autorizado / Deriva de Cenizas",
+    "OriginalName": "CINDER DRIFT NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128069,
+    "Name": "Acceso autorizado / Deriva de Cenizas (Extremo)",
+    "OriginalName": "CINDER DRIFT (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128070,
+    "Name": "Acceso autorizado / Versos de Edén: Fulminación",
+    "OriginalName": "EDEN'S VERSE: FULMINATION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128071,
+    "Name": "Acceso autorizado / Versos de Edén: Furor",
+    "OriginalName": "EDEN'S VERSE: FUROR NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128072,
+    "Name": "Acceso autorizado / Versos de Edén: Iconoclasia",
+    "OriginalName": "EDEN'S VERSE: ICONOCLASM NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128073,
+    "Name": "Acceso autorizado / Versos de Edén: Fulgor",
+    "OriginalName": "EDEN'S VERSE: REFULGENCE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128074,
+    "Name": "Acceso autorizado / Versos de Edén (Salvaje)",
+    "OriginalName": "EDEN'S VERSE (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128075,
+    "Name": "Has desbloqueado / Pesca en alta mar",
+    "OriginalName": "OCEAN FISHING UNLOCKED"
+  },
+  {
+    "Id": 128076,
+    "Name": "Has desbloqueado / La Diadema",
+    "OriginalName": "THE DIADEM UNLOCKED"
+  },
+  {
+    "Id": 128078,
+    "Name": "Has desbloqueado / Skysteel Tools",
+    "OriginalName": "SKYSTEEL TOOLS UNLOCKED"
+  },
+  {
+    "Id": 128081,
+    "Name": "Base militar de las Marionetas completada",
+    "OriginalName": "THE PUPPETS' BUNKER COMPLETE!"
+  },
+  {
+    "Id": 128082,
+    "Name": "Acceso autorizado / Prueba de los Héroes",
+    "OriginalName": "THE HEROES' GAUNTLET / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128083,
+    "Name": "Acceso autorizado / Trono del Sacrificio",
+    "OriginalName": "THE SEAT OF SACRIFICE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128084,
+    "Name": "Acceso autorizado / Trono del Sacrificio (Extremo)",
+    "OriginalName": "THE SEAT OF SACRIFICE (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128085,
+    "Name": "Acceso autorizado / Base militar de las Marionetas",
+    "OriginalName": "THE PUPPETS' BUNKER NOW ACCESSIBLE"
+  },
+  {
     "Id": 128086,
     "Name": "Acceso autorizado / Frente Sur de Bozja",
     "OriginalName": "The Bozjan Southern Front Now Accessible"
+  },
+  {
+    "Id": 128087,
+    "Name": "Has desbloqueado / Falsos Huecos",
+    "OriginalName": "FAUX HOLLOWS UNLOCKED"
+  },
+  {
+    "Id": 128088,
+    "Name": "Ya puedes volar",
+    "OriginalName": "FLYING UNLOCKED"
+  },
+  {
+    "Id": 128089,
+    "Name": "Carta náutica desbloqueada / Mar de Jade",
+    "OriginalName": "SEA OF JADE NAUTICAL MAP UNLOCKED"
   },
   {
     "Id": 128090,
@@ -5065,9 +6215,19 @@
     "OriginalName": "Castrum Lacus Litore / Now Accessible"
   },
   {
+    "Id": 128093,
+    "Name": "Colección ampliada / Medálium de Yo-kai obtenido",
+    "OriginalName": "COLLECTION EXPANDED YO-KAI MEDALLIUM ACQUIRED"
+  },
+  {
     "Id": 128094,
     "Name": "Castrum Lacus Litore completado",
     "OriginalName": "Castrum Lacus Litore Complete!"
+  },
+  {
+    "Id": 128095,
+    "Name": "Has desbloqueado / Pruebas irreales",
+    "OriginalName": "UNREAL TRIALS UNLOCKED"
   },
   {
     "Id": 128098,
@@ -5080,6 +6240,56 @@
     "OriginalName": "Delubrum Reginae (Savage) Complete!"
   },
   {
+    "Id": 128100,
+    "Name": "Promesa de Edén completado",
+    "OriginalName": "EDEN'S PROMISE COMPLETE!"
+  },
+  {
+    "Id": 128101,
+    "Name": "Promesa de Edén (Salvaje) completado",
+    "OriginalName": "EDEN'S PROMISE (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128102,
+    "Name": "Acceso autorizado / Taller Abandonado de Matoya",
+    "OriginalName": "MATOYA'S RELICT / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128103,
+    "Name": "Acceso autorizado / La promesa de Edén: Umbra",
+    "OriginalName": "EDEN'S PROMISE: UMBRA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128104,
+    "Name": "Acceso autorizado / La promesa de Edén: Letanía",
+    "OriginalName": "EDEN'S PROMISE: LITANY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128105,
+    "Name": "Acceso autorizado / La promesa de Edén: Anamorfosis",
+    "OriginalName": "EDEN'S PROMISE: ANAMORPHOSIS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128106,
+    "Name": "Acceso autorizado / La promesa de Edén: Eternidad",
+    "OriginalName": "EDEN'S PROMISE: ETERNITY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128107,
+    "Name": "Acceso autorizado / Promesa de Edén (Salvaje)",
+    "OriginalName": "EDEN'S PROMISE (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128108,
+    "Name": "Acceso autorizado / Castrum Marinum",
+    "OriginalName": "CASTRUM MARINUM NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128109,
+    "Name": "Acceso autorizado / Castrum Marinum (Extremo)",
+    "OriginalName": "CASTRUM MARINUM (EXTREME) / NOW ACCESSIBLE"
+  },
+  {
     "Id": 128110,
     "Name": "Acceso autorizado / Delubrum Reginae",
     "OriginalName": "Delubrum Reginae / Now Accessible"
@@ -5090,9 +6300,49 @@
     "OriginalName": "Delubrum Reginae (Savage) / Now Accessible"
   },
   {
+    "Id": 128112,
+    "Name": "Has desbloqueado / Nuevas modalidades de torneo",
+    "OriginalName": "NEW TOURNAMENT MODES UNLOCKED"
+  },
+  {
+    "Id": 128113,
+    "Name": "Inscripción en el torneo completada",
+    "OriginalName": "TOURNAMENT JOINED"
+  },
+  {
+    "Id": 128114,
+    "Name": "¡Herramienta Skysteel perfeccionada!",
+    "OriginalName": "SKYSTEEL TOOL PERFECTED!"
+  },
+  {
+    "Id": 128117,
+    "Name": "Torre de la Ruptura del Paradigma completado",
+    "OriginalName": "THE TOWER AT PARADIGM'S BREACH COMPLETE!"
+  },
+  {
     "Id": 128118,
     "Name": "Dalriada completado",
     "OriginalName": "The Dalriada Complete!"
+  },
+  {
+    "Id": 128119,
+    "Name": "Acceso autorizado / Paglth'an",
+    "OriginalName": "PAGLTH'AN / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128120,
+    "Name": "Acceso autorizado / Cubierta de las Nubes",
+    "OriginalName": "THE CLOUD DECK NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128121,
+    "Name": "Acceso autorizado / Cubierta de las Nubes (Extremo)",
+    "OriginalName": "THE CLOUD DECK (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128122,
+    "Name": "Acceso autorizado / Torre de la Ruptura del Paradigma",
+    "OriginalName": "THE TOWER AT PARADIGM'S BREACH NOW ACCESSIBLE"
   },
   {
     "Id": 128123,
@@ -5110,9 +6360,624 @@
     "OriginalName": "Resistance Honors Unlocked"
   },
   {
-    "Id": 128560,
-    "Name": "Nuevas entregas disponibles",
-    "OriginalName": "New Deliveries Available"
+    "Id": 128129,
+    "Name": "Pandæmonium: Asphodelos completado",
+    "OriginalName": "PANDAEMONIUM: ASPHODELOS COMPLETE!"
+  },
+  {
+    "Id": 128130,
+    "Name": "Pandæmonium: Asphodelos (Salvaje) completado",
+    "OriginalName": "PANDAEMONIUM: ASPHODELOS (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128131,
+    "Name": "Acceso autorizado / Torre de Zot",
+    "OriginalName": "THE TOWER OF ZOT NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128132,
+    "Name": "Acceso autorizado / Torre de Babil",
+    "OriginalName": "THE TOWER OF BABIL NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128133,
+    "Name": "Acceso autorizado / Vanaspati",
+    "OriginalName": "VANASPATI NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128134,
+    "Name": "Acceso autorizado / Instituto de Creación de Hyperboreia",
+    "OriginalName": "KTISIS HYPERBOREIA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128135,
+    "Name": "Acceso autorizado / Etioscopio",
+    "OriginalName": "THE AITIASCOPE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128136,
+    "Name": "Acceso autorizado / Caminos sin Salida",
+    "OriginalName": "THE DEAD ENDS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128137,
+    "Name": "Acceso autorizado / Villa Sonrisa",
+    "OriginalName": "SMILETON NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128138,
+    "Name": "Acceso autorizado / Sueño de Stigma",
+    "OriginalName": "THE STIGMA DREAMSCAPE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128139,
+    "Name": "Acceso autorizado / Día Final",
+    "OriginalName": "THE FINAL DAY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128140,
+    "Name": "Acceso autorizado / Prisión Lunar",
+    "OriginalName": "THE DARK INSIDE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128141,
+    "Name": "Acceso autorizado / El cantar del trovador: la caída de Zodiark",
+    "OriginalName": "THE MINSTREL'S BALLAD: ZODIARK'S FALL NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128142,
+    "Name": "Acceso autorizado / Cristal Madre",
+    "OriginalName": "THE MOTHERCRYSTAL NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128143,
+    "Name": "Acceso autorizado / El cantar del trovador: la llamada de Hydaelyn",
+    "OriginalName": "THE MINSTREL'S BALLAD: HYDAELYN'S CALL / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128144,
+    "Name": "Acceso autorizado / Asphodelos: Primer círculo",
+    "OriginalName": "ASPHODELOS: THE FIRST CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128145,
+    "Name": "Acceso autorizado / Asphodelos: Segundo círculo",
+    "OriginalName": "ASPHODELOS: THE SECOND CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128146,
+    "Name": "Acceso autorizado / Asphodelos: Tercer círculo",
+    "OriginalName": "ASPHODELOS: THE THIRD CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128147,
+    "Name": "Acceso autorizado / Asphodelos: Cuarto círculo",
+    "OriginalName": "ASPHODELOS: THE FOURTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128148,
+    "Name": "Acceso autorizado / Pandæmonium: Asphodelos (Salvaje)",
+    "OriginalName": "PANDAEMONIUM: ASPHODELOS (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128149,
+    "Name": "Ya puedes volar / Labyrinthos",
+    "OriginalName": "LABYRINTHOS AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128150,
+    "Name": "Ya puedes volar / Thavnair",
+    "OriginalName": "THAVNAIR AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128151,
+    "Name": "Ya puedes volar / Garlemald",
+    "OriginalName": "GARLEMALD AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128152,
+    "Name": "Ya puedes volar / Mare Lamentorum",
+    "OriginalName": "MARE LAMENTORUM AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128153,
+    "Name": "Ya puedes volar / Ultima Thule",
+    "OriginalName": "ULTIMA THULE AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128154,
+    "Name": "Ya puedes volar / Elpis",
+    "OriginalName": "ELPIS AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128155,
+    "Name": "Cuaderno de exploración ampliado",
+    "OriginalName": "SIGHTSEEING LOG EXPANDED"
+  },
+  {
+    "Id": 128156,
+    "Name": "Encargos de espigadores disponibles",
+    "OriginalName": "GLEANER LEVES NOW AVAILABLE"
+  },
+  {
+    "Id": 128157,
+    "Name": "Acceso autorizado / Cacerías de la cofradía",
+    "OriginalName": "GUILDSHIP HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128158,
+    "Name": "Acceso autorizado / Cacerías de élite de la cofradía",
+    "OriginalName": "ELITE GUILDSHIP HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128159,
+    "Name": "Colección ampliada / Brújula etérea obtenida",
+    "OriginalName": "COLLECTION EXPANDED AETHER COMPASS ACQUIRED"
+  },
+  {
+    "Id": 128160,
+    "Name": "Has desbloqueado / Entregas del Studium / Facultad de Arqueología",
+    "OriginalName": "FACULTY OF ARCHAEOLOGY STUDIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128161,
+    "Name": "Has desbloqueado / Entregas del Studium / Facultad de Astronomía",
+    "OriginalName": "FACULTY OF ASTRONOMY STUDIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128162,
+    "Name": "Has desbloqueado / Entregas del Studium / Facultad de Medicina",
+    "OriginalName": "FACULTY OF MEDICINE STUDIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128163,
+    "Name": "Has desbloqueado / Entregas del Studium / Facultad de Antropología",
+    "OriginalName": "FACULTY OF ANTHROPOLOGY STUDIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128164,
+    "Name": "Has desbloqueado / Entregas del Studium / Facultad de Eterología",
+    "OriginalName": "FACULTY OF AETHEROLOGY STUDIUM DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128165,
+    "Name": "¡Entrega del Studium completada!",
+    "OriginalName": "STUDIUM DELIVERY COMPLETE!"
+  },
+  {
+    "Id": 128166,
+    "Name": "¡Aumenta el nivel de estima!",
+    "OriginalName": "ESTEEM LEVEL INCREASED!"
+  },
+  {
+    "Id": 128172,
+    "Name": "Entrega del Studium iniciada",
+    "OriginalName": "STUDIUM DELIVERY COMMENCED!"
+  },
+  {
+    "Id": 128173,
+    "Name": "Acceso autorizado / Red de eteritas del Empíreo",
+    "OriginalName": "EMPYREUM AETHERNET NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128176,
+    "Name": "Aglaia completada",
+    "OriginalName": "AGLAIA COMPLETE!"
+  },
+  {
+    "Id": 128177,
+    "Name": "La guerra del Canto del Dragón (Definitivo) completada",
+    "OriginalName": "DRAGONSONG'S REPRISE (ULTIMATE) COMPLETE!"
+  },
+  {
+    "Id": 128178,
+    "Name": "Acceso autorizado / Legado de Alzadaal",
+    "OriginalName": "ALZADAAL'S LEGACY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128179,
+    "Name": "Acceso autorizado / El cantar del trovador: el aria del fin",
+    "OriginalName": "THE MINSTREL'S BALLAD: ENDSINGER'S ARIA / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128180,
+    "Name": "Acceso autorizado / Porta Decumana",
+    "OriginalName": "THE PORTA DECUMANA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128181,
+    "Name": "Acceso autorizado / Aglaia",
+    "OriginalName": "AGLAIA / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128182,
+    "Name": "Acceso autorizado / La guerra del Canto del Dragón (Definitivo)",
+    "OriginalName": "DRAGONSONG'S REPRISE (ULTIMATE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128183,
+    "Name": "Has desbloqueado / Apoyo en contenido",
+    "OriginalName": "DUTY SUPPORT UNLOCKED"
+  },
+  {
+    "Id": 128184,
+    "Name": "Has desbloqueado / Buscador de contenido y Apoyo en contenido",
+    "OriginalName": "DUTY FINDER & DUTY SUPPORT UNLOCKED"
+  },
+  {
+    "Id": 128185,
+    "Name": "Carta náutica desbloqueada / Mar del Canto de las Sirenas",
+    "OriginalName": "THE SIRENSONG SEA NAUTICAL MAP UNLOCKED"
+  },
+  {
+    "Id": 128186,
+    "Name": "Has desbloqueado / PvP",
+    "OriginalName": "PVP UNLOCKED"
+  },
+  {
+    "Id": 128187,
+    "Name": "Has desbloqueado / Crystalline Conflict",
+    "OriginalName": "CRYSTALLINE CONFLICT UNLOCKED"
+  },
+  {
+    "Id": 128188,
+    "Name": "Colección ampliada / El Códice Interminable",
+    "OriginalName": "COLLECTION EXPANDED THE UNENDING CODEX"
+  },
+  {
+    "Id": 128189,
+    "Name": "Prórroga",
+    "OriginalName": "OVERTIME"
+  },
+  {
+    "Id": 128190,
+    "Name": "¡Subes de nivel de serie!",
+    "OriginalName": "SERIES LEVEL UP!"
+  },
+  {
+    "Id": 128191,
+    "Name": "¡Gana el equipo Astra!",
+    "OriginalName": "ASTRA WINS!"
+  },
+  {
+    "Id": 128192,
+    "Name": "¡Gana el equipo Umbra!",
+    "OriginalName": "UMBRA WINS!"
+  },
+  {
+    "Id": 128193,
+    "Name": "Estrellas de victoria",
+    "OriginalName": "Rising Stars"
+  },
+  {
+    "Id": 128194,
+    "Name": "Puntos de cristal",
+    "OriginalName": "Crystal Credit"
+  },
+  {
+    "Id": 128197,
+    "Name": "Pandæmonium: Abyssos completado",
+    "OriginalName": "PANDAEMONIUM: ABYSSOS COMPLETE!"
+  },
+  {
+    "Id": 128198,
+    "Name": "Pandæmonium: Abyssos (Salvaje) completado",
+    "OriginalName": "PANDAEMONIUM: ABYSSOS (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128199,
+    "Name": "Acceso autorizado / Corte Maldita de Troia",
+    "OriginalName": "THE FELL COURT OF TROIA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128200,
+    "Name": "Acceso autorizado / Corona de Tempestades",
+    "OriginalName": "STORM'S CROWN NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128201,
+    "Name": "Acceso autorizado / Corona de Tempestades (Extremo)",
+    "OriginalName": "STORM'S CROWN (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128202,
+    "Name": "Acceso autorizado / Abyssos: Quinto círculo",
+    "OriginalName": "ABYSSOS: THE FIFTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128203,
+    "Name": "Acceso autorizado / Abyssos: Sexto círculo",
+    "OriginalName": "ABYSSOS: THE SIXTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128204,
+    "Name": "Acceso autorizado / Abyssos: Séptimo círculo",
+    "OriginalName": "ABYSSOS: THE SEVENTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128205,
+    "Name": "Acceso autorizado / Abyssos: Octavo círculo",
+    "OriginalName": "ABYSSOS: THE EIGHTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128206,
+    "Name": "Acceso autorizado / Pandæmonium: Abyssos (Salvaje)",
+    "OriginalName": "PANDAEMONIUM: ABYSSOS (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128207,
+    "Name": "Mazmorra variante / Canales de Sil'dih / Acceso autorizado",
+    "OriginalName": "Variant Dungeon / The Sil'dihn Subterrane / Now Accessible"
+  },
+  {
+    "Id": 128208,
+    "Name": "Mazmorra criterion / Otros Canales de Sil'dih / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Sil'dihn Subterrane / Now Accessible"
+  },
+  {
+    "Id": 128209,
+    "Name": "Mazmorra criterion / Otros Canales de Sil'dih (Salvaje) / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Sil'dihn Subterrane (Savage) / Now Accessible"
+  },
+  {
+    "Id": 128211,
+    "Name": "Acceso autorizado / Santuario Insular",
+    "OriginalName": "ISLAND SANCTUARY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128212,
+    "Name": "Objetivo cumplido",
+    "OriginalName": "VISION REALIZED"
+  },
+  {
+    "Id": 128213,
+    "Name": "Solar preparado",
+    "OriginalName": "SITE READY"
+  },
+  {
+    "Id": 128214,
+    "Name": "¡Construcción completada!",
+    "OriginalName": "CONSTRUCTION COMPLETE"
+  },
+  {
+    "Id": 128215,
+    "Name": "Reforma completada",
+    "OriginalName": "RENOVATION COMPLETE"
+  },
+  {
+    "Id": 128216,
+    "Name": "Huerto preparado",
+    "OriginalName": "CROPLAND READY"
+  },
+  {
+    "Id": 128217,
+    "Name": "Huerto ampliado",
+    "OriginalName": "CROPLAND EXPANDED"
+  },
+  {
+    "Id": 128218,
+    "Name": "Pastizal preparado",
+    "OriginalName": "PASTURE READY"
+  },
+  {
+    "Id": 128219,
+    "Name": "Pastizal ampliado",
+    "OriginalName": "PASTURE EXPANDED"
+  },
+  {
+    "Id": 128221,
+    "Name": "Has desbloqueado / Registro de exploración de Sil'dih",
+    "OriginalName": "SIL'DIH SURVEY RECORD UNLOCKED"
+  },
+  {
+    "Id": 128222,
+    "Name": "Has desbloqueado / Buscador de mazmorras V&C",
+    "OriginalName": "V&C DUNGEON FINDER UNLOCKED"
+  },
+  {
+    "Id": 128225,
+    "Name": "Euphrosyne completada",
+    "OriginalName": "EUPHROSYNE COMPLETE!"
+  },
+  {
+    "Id": 128226,
+    "Name": "El protocolo Omega (definitivo) completado",
+    "OriginalName": "THE OMEGA PROTOCOL (ULTIMATE) COMPLETE!"
+  },
+  {
+    "Id": 128227,
+    "Name": "¡Clon de Tiamat derrotado!",
+    "OriginalName": "TIAMAT'S CLONE SLAIN!"
+  },
+  {
+    "Id": 128228,
+    "Name": "Acceso autorizado / Lapis Manalis",
+    "OriginalName": "LAPIS MANALIS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128229,
+    "Name": "Acceso autorizado / Monte de la Ordalía",
+    "OriginalName": "MOUNT ORDEALS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128230,
+    "Name": "Acceso autorizado / Monte de la Ordalía (Extremo)",
+    "OriginalName": "MOUNT ORDEALS (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128231,
+    "Name": "Acceso autorizado / Euphrosyne",
+    "OriginalName": "EUPHROSYNE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128232,
+    "Name": "Acceso autorizado / El protocolo Omega (definitivo)",
+    "OriginalName": "THE OMEGA PROTOCOL (ULTIMATE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128233,
+    "Name": "Acceso autorizado / Eureka Orthos",
+    "OriginalName": "EUREKA ORTHOS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128234,
+    "Name": "Acceso autorizado / Eureka Orthos: profundidades olvidadas",
+    "OriginalName": "EUREKA ORTHOS - FORGOTTEN DEPTHS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128235,
+    "Name": "La forja continúa / Armas de Manderville",
+    "OriginalName": "THE HAMMERING CONTINUES / MANDERVILLE WEAPONS"
+  },
+  {
+    "Id": 128236,
+    "Name": "Has desbloqueado / Herramientas esplendorosas",
+    "OriginalName": "SPLENDOROUS TOOLS UNLOCKED"
+  },
+  {
+    "Id": 128240,
+    "Name": "Pandæmonium: Anabaseios completado",
+    "OriginalName": "PANDAEMONIUM: ANABASEIOS COMPLETE!"
+  },
+  {
+    "Id": 128241,
+    "Name": "Pandæmonium: Anabaseios (Salvaje) completado",
+    "OriginalName": "PANDAEMONIUM: ANABASEIOS (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128242,
+    "Name": "Acceso autorizado / Manantial de éter",
+    "OriginalName": "THE AETHERFONT NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128243,
+    "Name": "Acceso autorizado / Estrado del Vacío",
+    "OriginalName": "THE VOIDCAST DAIS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128244,
+    "Name": "Acceso autorizado / Estrado del Vacío (Extremo)",
+    "OriginalName": "THE VOIDCAST DAIS (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128245,
+    "Name": "Acceso autorizado / Anabaseios: Noveno círculo",
+    "OriginalName": "ANABASEIOS: THE NINTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128246,
+    "Name": "Acceso autorizado / Anabaseios: Décimo círculo",
+    "OriginalName": "ANABASEIOS: THE TENTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128247,
+    "Name": "Acceso autorizado / Anabaseios: Undécimo círculo",
+    "OriginalName": "ANABASEIOS: THE ELEVENTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128248,
+    "Name": "Acceso autorizado / Anabaseios: Duodécimo círculo",
+    "OriginalName": "ANABASEIOS: THE TWELFTH CIRCLE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128249,
+    "Name": "Acceso autorizado / Pandæmonium: Anabaseios (Salvaje)",
+    "OriginalName": "PANDAEMONIUM: ANABASEIOS (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128250,
+    "Name": "Mazmorra variante / Monte Rokkon / Acceso autorizado",
+    "OriginalName": "Variant Dungeon / Mount Rokkon / Now Accessible"
+  },
+  {
+    "Id": 128251,
+    "Name": "Mazmorra criterion / Otro Monte Rokkon / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Mount Rokkon / Now Accessible"
+  },
+  {
+    "Id": 128252,
+    "Name": "Mazmorra criterion / Otro Monte Rokkon (Salvaje) / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Mount Rokkon (Savage) / Now Accessible"
+  },
+  {
+    "Id": 128253,
+    "Name": "Has desbloqueado / Registro de exorcismo del Monte Rokkon",
+    "OriginalName": "MOUNT ROKKON EXORCISM RECORD UNLOCKED"
+  },
+  {
+    "Id": 128254,
+    "Name": "La forja continúa / Armas de Manderville",
+    "OriginalName": "THE HAMMERING CONTINUES / MANDERVILLE WEAPONS"
+  },
+  {
+    "Id": 128255,
+    "Name": "Carta náutica desbloqueada / Mar Lila",
+    "OriginalName": "THE LILAC SEA NAUTICAL MAP UNLOCKED"
+  },
+  {
+    "Id": 128256,
+    "Name": "Has desbloqueado / Arsenal",
+    "OriginalName": "ARMOURY UNLOCKED"
+  },
+  {
+    "Id": 128259,
+    "Name": "Thaleia completada",
+    "OriginalName": "THALEIA COMPLETE!"
+  },
+  {
+    "Id": 128260,
+    "Name": "Acceso autorizado / Subterráneos Lunares",
+    "OriginalName": "THE LUNAR SUBTERRANE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128261,
+    "Name": "Acceso autorizado / Fractura Abisal",
+    "OriginalName": "THE ABYSSAL FRACTURE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128262,
+    "Name": "Acceso autorizado / Fractura Abisal (Extremo)",
+    "OriginalName": "THE ABYSSAL FRACTURE (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128263,
+    "Name": "Acceso autorizado / Thaleia",
+    "OriginalName": "THALEIA / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128264,
+    "Name": "Acceso autorizado / Araya Dorada",
+    "OriginalName": "THE GILDED ARAYA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128265,
+    "Name": "Mazmorra variante / Isla de Aloalo / Acceso autorizado",
+    "OriginalName": "Variant Dungeon / Aloalo Island / Now Accessible"
+  },
+  {
+    "Id": 128266,
+    "Name": "Mazmorra criterion / Otra Isla de Aloalo / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Aloalo Island / Now Accessible"
+  },
+  {
+    "Id": 128267,
+    "Name": "Mazmorra criterion / Otra Isla de Aloalo (Salvaje) / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Aloalo Island (Savage) / Now Accessible"
+  },
+  {
+    "Id": 128268,
+    "Name": "Has desbloqueado / Registro de conservación de Aloalo",
+    "OriginalName": "ALOALO CONSERVATION RECORD UNLOCKED"
+  },
+  {
+    "Id": 128269,
+    "Name": "La forja continúa / Armas de Manderville",
+    "OriginalName": "THE HAMMERING CONTINUES / MANDERVILLE WEAPONS"
+  },
+  {
+    "Id": 128271,
+    "Name": "¡Herramienta esplendorosa perfeccionada!",
+    "OriginalName": "SPLENDOROUS TOOL PERFECTED!"
   },
   {
     "Id": 128272,
@@ -5120,23 +6985,1056 @@
     "OriginalName": "Collection Expanded / Mogpendium"
   },
   {
-    "Id": 127092,
-    "Name": "Ni perdón ni olvido",
-    "OriginalName": "Unforgiven, Unforgotten"
+    "Id": 128274,
+    "Name": "Acceso autorizado / Blunderville",
+    "OriginalName": "BLUNDERVILLE NOW ACCESSIBLE"
   },
   {
-    "Id": 127093,
-    "Name": "Salvar a la reina, capítulo segundo",
-    "OriginalName": "Save the Queen, Chapter the Second"
+    "Id": 128277,
+    "Name": "AAC: Peso semipesado completado",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT TIER COMPLETE!"
   },
   {
-    "Id": 127102,
-    "Name": "Que el pasado descanse",
-    "OriginalName": "Past to Rest"
+    "Id": 128278,
+    "Name": "AAC: Peso semipesado (Salvaje) completado",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT TIER (SAVAGE) COMPLETE!"
   },
   {
-    "Id": 127103,
-    "Name": "Salvar a la reina, capítulo tercero",
-    "OriginalName": "Save the Queen, Chapter the Third"
+    "Id": 128279,
+    "Name": "Acceso autorizado / Ihuykatumu",
+    "OriginalName": "IHUYKATUMU NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128280,
+    "Name": "Acceso autorizado / Worqor Zormor",
+    "OriginalName": "WORQOR ZORMOR NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128281,
+    "Name": "Acceso autorizado / Cenote de los Cielos Profundos",
+    "OriginalName": "THE SKYDEEP CENOTE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128282,
+    "Name": "Acceso autorizado / Vanguardia",
+    "OriginalName": "VANGUARD NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128283,
+    "Name": "Acceso autorizado / Origenia",
+    "OriginalName": "ORIGENICS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128284,
+    "Name": "Acceso autorizado / Alejandría",
+    "OriginalName": "ALEXANDRIA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128285,
+    "Name": "Acceso autorizado / Valle de los Cactilios",
+    "OriginalName": "TENDER VALLEY NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128286,
+    "Name": "Acceso autorizado / Parque Fantasma de Villa Errante",
+    "OriginalName": "THE STRAYBOROUGH DEADWALK NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128287,
+    "Name": "Acceso autorizado / Interphos",
+    "OriginalName": "INTERPHOS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128288,
+    "Name": "Acceso autorizado / Worqor Lar Dor",
+    "OriginalName": "WORQOR LAR DOR NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128289,
+    "Name": "Acceso autorizado / Worqor Lar Dor (Extremo)",
+    "OriginalName": "WORQOR LAR DOR (EXTREME) / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128290,
+    "Name": "Acceso autorizado / Fortaleza Eterna",
+    "OriginalName": "EVERKEEP NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128291,
+    "Name": "Acceso autorizado / Fortaleza Eterna (Extremo)",
+    "OriginalName": "EVERKEEP (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128292,
+    "Name": "Acceso autorizado / AAC: Peso semipesado M1",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT M1 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128293,
+    "Name": "Acceso autorizado / AAC: Peso semipesado M2",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT M2 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128294,
+    "Name": "Acceso autorizado / AAC: Peso semipesado M3",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT M3 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128295,
+    "Name": "Acceso autorizado / AAC: Peso semipesado M4",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT M4 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128296,
+    "Name": "Acceso autorizado / AAC: Peso semipesado (Salvaje)",
+    "OriginalName": "AAC LIGHT-HEAVYWEIGHT TIER (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128297,
+    "Name": "Víbora disponible",
+    "OriginalName": "VIPER UNLOCKED"
+  },
+  {
+    "Id": 128298,
+    "Name": "Pictomante disponible",
+    "OriginalName": "PICTOMANCER UNLOCKED"
+  },
+  {
+    "Id": 128299,
+    "Name": "Ya puedes volar / Urqopacha",
+    "OriginalName": "URQOPACHA AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128300,
+    "Name": "Ya puedes volar / Kozama'uka",
+    "OriginalName": "KOZAMA'UKA / AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128301,
+    "Name": "Ya puedes volar / Yak T'el",
+    "OriginalName": "YAK T'EL / AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128302,
+    "Name": "Ya puedes volar / Shaaloani",
+    "OriginalName": "SHAALOANI AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128303,
+    "Name": "Ya puedes volar / Herencia Recobrada",
+    "OriginalName": "HERITAGE FOUND AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128304,
+    "Name": "Ya puedes volar / Memoria Viva",
+    "OriginalName": "LIVING MEMORY AETHER CURRENT ATTUNEMENT COMPLETE"
+  },
+  {
+    "Id": 128305,
+    "Name": "Cuaderno de exploración ampliado",
+    "OriginalName": "SIGHTSEEING LOG EXPANDED"
+  },
+  {
+    "Id": 128306,
+    "Name": "Wingleves disponibles",
+    "OriginalName": "WINGLEVES NOW AVAILABLE"
+  },
+  {
+    "Id": 128307,
+    "Name": "Acceso autorizado / Cacería del Alba",
+    "OriginalName": "DAWN HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128308,
+    "Name": "Acceso autorizado / Cacerías de élite del Alba",
+    "OriginalName": "ELITE DAWN HUNTS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128309,
+    "Name": "Entrega de Wachumeqimeqi iniciada",
+    "OriginalName": "WACHUMEQIMEQI DELIVERY COMMENCED!"
+  },
+  {
+    "Id": 128310,
+    "Name": "Entregas de Wachumeqimeqi desbloqueadas / Metalistería de XRral Soj",
+    "OriginalName": "XRRAL SOJ METALWARES / WACHUMEQIMEQI DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128311,
+    "Name": "Entregas de Wachumeqimeqi desbloqueadas / Epístolas de Pameka",
+    "OriginalName": "EPISTLES BY PAMEKA WACHUMEQIMEQI DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128312,
+    "Name": "Entregas de Wachumeqimeqi desbloqueadas / Zumos de Xeerol Ja",
+    "OriginalName": "XEEROL JA JUICECRAFT / WACHUMEQIMEQI DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128313,
+    "Name": "Entregas de Wachumeqimeqi desbloqueadas / Botica de Shunye",
+    "OriginalName": "SHUNYE'S APOTHECARY / WACHUMEQIMEQI DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128314,
+    "Name": "Entregas de Wachumeqimeqi desbloqueadas / Delicias Marinas de Donuhanu",
+    "OriginalName": "FISH FANCIES DONUHANU WACHUMEQIMEQI DELIVERIES UNLOCKED"
+  },
+  {
+    "Id": 128315,
+    "Name": "¡Entrega de Wachumeqimeqi completada!",
+    "OriginalName": "WACHUMEQIMEQI DELIVERY COMPLETE!"
+  },
+  {
+    "Id": 128316,
+    "Name": "¡Aumenta el nivel de estima!",
+    "OriginalName": "ESTEEM LEVEL INCREASED!"
+  },
+  {
+    "Id": 128324,
+    "Name": "Jeuno: Primera Travesía completada",
+    "OriginalName": "JEUNO: THE FIRST WALK COMPLETE!"
+  },
+  {
+    "Id": 128325,
+    "Name": "Futuros reescritos (Definitivo) completados",
+    "OriginalName": "FUTURES REWRITTEN (ULTIMATE) COMPLETE!"
+  },
+  {
+    "Id": 128326,
+    "Name": "Acceso autorizado / Estación de Campo de Yuweyawata",
+    "OriginalName": "YUWEYAWATA FIELD STATION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128327,
+    "Name": "Acceso autorizado / El cantar del trovador: la carga de Sphene",
+    "OriginalName": "THE MINSTREL'S BALLAD: SPHENE'S BURDEN NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128328,
+    "Name": "Acceso autorizado / Jeuno: Primera Travesía",
+    "OriginalName": "JEUNO: THE FIRST WALK NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128329,
+    "Name": "Acceso autorizado / Futuros reescritos (Definitivo)",
+    "OriginalName": "FUTURES REWRITTEN (ULTIMATE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128330,
+    "Name": "Acceso autorizado / La Nube de Oscuridad (Caótico)",
+    "OriginalName": "THE CLOUD OF DARKNESS (CHAOTIC) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128331,
+    "Name": "Carta náutica desbloqueada / Abismo Índigo meridional",
+    "OriginalName": "THE SOUTHERN INDIGO DEEP NAUTICAL MAP UNLOCKED"
+  },
+  {
+    "Id": 128332,
+    "Name": "Nuevos ejercicios en la Sala de los Novatos",
+    "OriginalName": "HALL OF THE NOVICE TRAINING EXPANDED"
+  },
+  {
+    "Id": 128335,
+    "Name": "AAC: Peso crucero completado",
+    "OriginalName": "AAC CRUISERWEIGHT TIER COMPLETE!"
+  },
+  {
+    "Id": 128336,
+    "Name": "AAC: Peso crucero (Salvaje) completado",
+    "OriginalName": "AAC CRUISERWEIGHT TIER (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128337,
+    "Name": "La Torre Bifurcada: Sangre completada",
+    "OriginalName": "THE FORKED TOWER: BLOOD COMPLETE!"
+  },
+  {
+    "Id": 128338,
+    "Name": "Acceso autorizado / Fortaleza Subterránea",
+    "OriginalName": "THE UNDERKEEP NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128339,
+    "Name": "Acceso autorizado / Salón del Trono Secular",
+    "OriginalName": "RECOLLECTION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128340,
+    "Name": "Acceso autorizado / AAC: Peso crucero M1",
+    "OriginalName": "AAC CRUISERWEIGHT M1 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128341,
+    "Name": "Acceso autorizado / AAC: Peso crucero M2",
+    "OriginalName": "AAC CRUISERWEIGHT M2 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128342,
+    "Name": "Acceso autorizado / AAC: Peso crucero M3",
+    "OriginalName": "AAC CRUISERWEIGHT M3 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128343,
+    "Name": "Acceso autorizado / AAC: Peso crucero M4",
+    "OriginalName": "AAC CRUISERWEIGHT M4 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128344,
+    "Name": "Acceso autorizado / AAC: Peso crucero (Salvaje)",
+    "OriginalName": "AAC CRUISERWEIGHT (SAVAGE) / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128345,
+    "Name": "Acceso autorizado / Exploración cósmica",
+    "OriginalName": "COSMIC EXPLORATION NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128348,
+    "Name": "Proyecto iniciado",
+    "OriginalName": "PROJECT COMMENCED"
+  },
+  {
+    "Id": 128349,
+    "Name": "Proyecto abandonado",
+    "OriginalName": "PROJECT ABANDONED"
+  },
+  {
+    "Id": 128350,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128352,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128354,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128356,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128358,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128360,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128362,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128364,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128366,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128368,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128382,
+    "Name": "Has desbloqueado / Herramientas cósmicas",
+    "OriginalName": "COSMIC TOOLS UNLOCKED"
+  },
+  {
+    "Id": 128383,
+    "Name": "Acceso autorizado / Isla del Creciente: Cuerno Sur",
+    "OriginalName": "OCCULT CRESCENT: SOUTH HORN NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128384,
+    "Name": "Has desbloqueado / Jobs fantasma",
+    "OriginalName": "PHANTOM JOBS UNLOCKED"
+  },
+  {
+    "Id": 128385,
+    "Name": "¡Subes de nivel de conocimiento!",
+    "OriginalName": "KNOWLEDGE LEVEL UP!"
+  },
+  {
+    "Id": 128386,
+    "Name": "Disminuye el nivel de conocimiento...",
+    "OriginalName": "KNOWLEDGE LEVEL DOWN..."
+  },
+  {
+    "Id": 128387,
+    "Name": "¡Al combate!",
+    "OriginalName": "ENGAGE!"
+  },
+  {
+    "Id": 128388,
+    "Name": "¡Enfrentamiento crucial superado!",
+    "OriginalName": "CRITICAL ENCOUNTER WON!"
+  },
+  {
+    "Id": 128389,
+    "Name": "Enfrentamiento crucial fallido...",
+    "OriginalName": "CRITICAL ENCOUNTER LOST..."
+  },
+  {
+    "Id": 128390,
+    "Name": "¡Te unes al FATE!",
+    "OriginalName": "FATE JOINED"
+  },
+  {
+    "Id": 128391,
+    "Name": "¡FATE completado!",
+    "OriginalName": "FATE COMPLETE"
+  },
+  {
+    "Id": 128392,
+    "Name": "FATE fallido",
+    "OriginalName": "FATE FAILED"
+  },
+  {
+    "Id": 128394,
+    "Name": "¡Te unes al FATE!",
+    "OriginalName": "FATE JOINED"
+  },
+  {
+    "Id": 128395,
+    "Name": "¡FATE completado!",
+    "OriginalName": "FATE COMPLETE"
+  },
+  {
+    "Id": 128396,
+    "Name": "FATE fallido",
+    "OriginalName": "FATE FAILED"
+  },
+  {
+    "Id": 128397,
+    "Name": "Acceso autorizado / La Torre Bifurcada: Sangre",
+    "OriginalName": "THE FORKED TOWER: BLOOD NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128398,
+    "Name": "Misión iniciada",
+    "OriginalName": "MISSION COMMENCED"
+  },
+  {
+    "Id": 128399,
+    "Name": "Misión fallida",
+    "OriginalName": "MISSION FAILED"
+  },
+  {
+    "Id": 128400,
+    "Name": "Colección ampliada / Registro oculto",
+    "OriginalName": "COLLECTION EXPANDED OCCULT RECORD"
+  },
+  {
+    "Id": 128402,
+    "Name": "Demiatma disponibles / Armas fantasma",
+    "OriginalName": "DEMIATMA OBTAINABLE / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128403,
+    "Name": "Demiatma obtenidos / Armas fantasma",
+    "OriginalName": "DEMIATMA OBTAINED / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128405,
+    "Name": "Has desbloqueado / Registro oculto",
+    "OriginalName": "OCCULT RECORD UNLOCKED"
+  },
+  {
+    "Id": 128406,
+    "Name": "Acceso autorizado / Salón del Trono Secular (Extremo)",
+    "OriginalName": "RECOLLECTION (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128407,
+    "Name": "¡Subes de nivel tu job fantasma!",
+    "OriginalName": "PHANTOM JOB LEVEL UP!"
+  },
+  {
+    "Id": 128424,
+    "Name": "San d'Oria: Segunda Travesía completada",
+    "OriginalName": "SAN D'ORIA: THE SECOND WALK COMPLETE!"
+  },
+  {
+    "Id": 128425,
+    "Name": "¡Traición perdonada derrotada!",
+    "OriginalName": "FORGIVEN TREACHERY SLAIN!"
+  },
+  {
+    "Id": 128426,
+    "Name": "Acceso autorizado / Mesoterminal",
+    "OriginalName": "THE MESO TERMINAL NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128427,
+    "Name": "Acceso autorizado / Necrópolis Eterna",
+    "OriginalName": "THE AGELESS NECROPOLIS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128428,
+    "Name": "Acceso autorizado / El cantar del trovador: el abrazo de Tiniebla Eterna",
+    "OriginalName": "THE MINSTREL'S BALLAD: NECRON'S EMBRACE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128429,
+    "Name": "Acceso autorizado / Llanuras del Viento",
+    "OriginalName": "THE WINDWARD WILDS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128430,
+    "Name": "Acceso autorizado / Llanuras del Viento (Extremo)",
+    "OriginalName": "THE WINDWARD WILDS (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128431,
+    "Name": "Acceso autorizado / San d'Oria: Segunda Travesía",
+    "OriginalName": "SAN D'ORIA: THE SECOND WALK / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128432,
+    "Name": "Acceso autorizado / Travesía del Peregrino",
+    "OriginalName": "PILGRIM'S TRAVERSE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128433,
+    "Name": "Travesía del Peregrino - santuarios lejanos / Acceso autorizado",
+    "OriginalName": "PILGRIM'S TRAVERSE - DISTANT SANCTUMS NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128434,
+    "Name": "Acceso autorizado / El verso final (Quantum)",
+    "OriginalName": "THE FINAL VERSE (QUANTUM) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128437,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128439,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128441,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128443,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128445,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128447,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128449,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128451,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128453,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128455,
+    "Name": "Orbes mágicos obtenidos / Armas fantasma",
+    "OriginalName": "AETHERWELLS ACQUIRED / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128456,
+    "Name": "¡Herrero aclimatado! / Armas fantasma",
+    "OriginalName": "SMITH ACCLIMATIZED! / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128457,
+    "Name": "Primera jugada",
+    "OriginalName": "FIRST PLAY"
+  },
+  {
+    "Id": 128458,
+    "Name": "Segunda jugada",
+    "OriginalName": "SECOND PLAY"
+  },
+  {
+    "Id": 128459,
+    "Name": "Tercera jugada",
+    "OriginalName": "THIRD PLAY"
+  },
+  {
+    "Id": 128460,
+    "Name": "Cuarta jugada",
+    "OriginalName": "FOURTH PLAY"
+  },
+  {
+    "Id": 128461,
+    "Name": "Última jugada",
+    "OriginalName": "FINAL PLAY"
+  },
+  {
+    "Id": 128462,
+    "Name": "Sueño menor",
+    "OriginalName": "LESSER NOTION"
+  },
+  {
+    "Id": 128463,
+    "Name": "Fantasía mayor",
+    "OriginalName": "GREATER FANCY"
+  },
+  {
+    "Id": 128464,
+    "Name": "Gran ensueño",
+    "OriginalName": "ELDER IMAGINING"
+  },
+  {
+    "Id": 128465,
+    "Name": "Fantasía final",
+    "OriginalName": "FINAL FANTASY"
+  },
+  {
+    "Id": 128466,
+    "Name": "Sueño febril",
+    "OriginalName": "FEVER DREAM"
+  },
+  {
+    "Id": 128467,
+    "Name": "¡Se acabó el tiempo!",
+    "OriginalName": "TIME'S UP!"
+  },
+  {
+    "Id": 128468,
+    "Name": "¡A decorar!",
+    "OriginalName": "DECORATE!"
+  },
+  {
+    "Id": 128469,
+    "Name": "¡Se acabó el tiempo!",
+    "OriginalName": "TIME'S UP!"
+  },
+  {
+    "Id": 128470,
+    "Name": "¡Pastel terminado!",
+    "OriginalName": "CONFECTION COMPLETE!"
+  },
+  {
+    "Id": 128471,
+    "Name": "Acceso autorizado / Phaenna",
+    "OriginalName": "PHAENNA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128472,
+    "Name": "¡Sueño febril superado!",
+    "OriginalName": "FEVER DREAM PASSED!"
+  },
+  {
+    "Id": 128473,
+    "Name": "¡Nuevo proyecto programado!",
+    "OriginalName": "NEW PROJECT SCHEDULED!"
+  },
+  {
+    "Id": 128474,
+    "Name": "¡Ampliación del Cosmoliner en marcha!",
+    "OriginalName": "COSMOLINER EXPANSION UNDERWAY!"
+  },
+  {
+    "Id": 128476,
+    "Name": "AAC: Peso pesado completado",
+    "OriginalName": "AAC HEAVYWEIGHT TIER COMPLETE!"
+  },
+  {
+    "Id": 128477,
+    "Name": "AAC: Peso pesado (Salvaje) completado",
+    "OriginalName": "AAC HEAVYWEIGHT TIER (SAVAGE) COMPLETE!"
+  },
+  {
+    "Id": 128478,
+    "Name": "Acceso autorizado / Estela de Bruma",
+    "OriginalName": "MISTWAKE NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128479,
+    "Name": "Acceso autorizado / Infierno sobre Raíles",
+    "OriginalName": "HELL ON RAILS / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128480,
+    "Name": "Acceso autorizado / Infierno sobre Raíles (Extremo)",
+    "OriginalName": "HELL ON RAILS (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128481,
+    "Name": "Acceso autorizado / AAC: Peso pesado M1",
+    "OriginalName": "AAC HEAVYWEIGHT M1 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128482,
+    "Name": "Acceso autorizado / AAC: Peso pesado M2",
+    "OriginalName": "AAC HEAVYWEIGHT M2 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128483,
+    "Name": "Acceso autorizado / AAC: Peso pesado M3",
+    "OriginalName": "AAC HEAVYWEIGHT M3 / NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128484,
+    "Name": "Acceso autorizado / AAC: Peso pesado M4",
+    "OriginalName": "AAC HEAVYWEIGHT M4 NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128485,
+    "Name": "Acceso autorizado / AAC: Peso pesado (Salvaje)",
+    "OriginalName": "AAC HEAVYWEIGHT (SAVAGE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128486,
+    "Name": "Mazmorra variante / El cuento del mercader / Acceso autorizado",
+    "OriginalName": "Variant Dungeon / The Merchant's Tale / Now Accessible"
+  },
+  {
+    "Id": 128487,
+    "Name": "Mazmorra variante / El cuento del mercader (Avanzado) / Acceso autorizado",
+    "OriginalName": "Variant Dungeon / The Merchant's Tale (Advanced) / Now Accessible"
+  },
+  {
+    "Id": 128488,
+    "Name": "Mazmorra criterion / Otro Cuento del Mercader / Acceso autorizado",
+    "OriginalName": "Criterion Dungeon / Another Merchant's Tale / Now Accessible"
+  },
+  {
+    "Id": 128489,
+    "Name": "Has desbloqueado / Registro folclórico de Corvos",
+    "OriginalName": "CORVOSI FOLKLORE RECORD UNLOCKED"
+  },
+  {
+    "Id": 128490,
+    "Name": "¡Adquisición iniciada! / Armas fantasma",
+    "OriginalName": "PROCUREMENT COMMENCED! / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128491,
+    "Name": "¡Ente del Vacío revitalizado! / Armas fantasma",
+    "OriginalName": "VOIDSENT REVITALIZED! / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128493,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128495,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128497,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128499,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128501,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128503,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128505,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128507,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128509,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128511,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128513,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128515,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128517,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128519,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128521,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128523,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128534,
+    "Name": "Carta náutica desbloqueada / Vacío del Norte",
+    "OriginalName": "THE NORTHERN EMPTY NAUTICAL MAP UNLOCKED"
+  },
+  {
+    "Id": 128536,
+    "Name": "Windurst: Tercera Travesía completada",
+    "OriginalName": "WINDURST: THE THIRD WALK COMPLETE!"
+  },
+  {
+    "Id": 128537,
+    "Name": "Danza demente (Definitivo) completada",
+    "OriginalName": "DANCING MAD (ULTIMATE) COMPLETE!"
+  },
+  {
+    "Id": 128538,
+    "Name": "La Torre Bifurcada: Magia completada",
+    "OriginalName": "THE FORKED TOWER: MAGIC COMPLETE!"
+  },
+  {
+    "Id": 128539,
+    "Name": "La Torre Bifurcada: Magia (Extremo) completada",
+    "OriginalName": "THE FORKED TOWER: MAGIC (EXTREME) COMPLETE!"
+  },
+  {
+    "Id": 128540,
+    "Name": "Acceso autorizado / El Clyteum",
+    "OriginalName": "THE CLYTEUM NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128541,
+    "Name": "Acceso autorizado / Dominio de la nada",
+    "OriginalName": "THE UNMAKING NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128542,
+    "Name": "Acceso autorizado / Dominio de la nada (Extremo)",
+    "OriginalName": "THE UNMAKING (EXTREME) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128543,
+    "Name": "Acceso autorizado / Windurst: Tercera Travesía",
+    "OriginalName": "WINDURST: THE THIRD WALK NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128544,
+    "Name": "Acceso autorizado / Danza demente (Definitivo)",
+    "OriginalName": "DANCING MAD (ULTIMATE) NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128545,
+    "Name": "Has desbloqueado / Crisol de los Inquebrantables",
+    "OriginalName": "CRUCIBLE OF THE UNBROKEN UNLOCKED"
+  },
+  {
+    "Id": 128546,
+    "Name": "Adiestrador disponible",
+    "OriginalName": "BEASTMASTER UNLOCKED"
+  },
+  {
+    "Id": 128547,
+    "Name": "Acceso autorizado / Isla del Creciente: Cuerno Norte",
+    "OriginalName": "OCCULT CRESCENT: NORTH HORN NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128548,
+    "Name": "Acceso autorizado / La Torre Bifurcada: Magia",
+    "OriginalName": "THE FORKED TOWER: MAGIC NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128549,
+    "Name": "Has desbloqueado Keybound Brawler",
+    "OriginalName": "KEYBOUND BRAWLER UNLOCKED",
+    "NativeScene": {
+      "ScreenImageId": 1617
+    }
+  },
+  {
+    "Id": 128560,
+    "Name": "Nuevas entregas disponibles",
+    "OriginalName": "New Deliveries Available"
+  },
+  {
+    "Id": 128561,
+    "Name": "Disipadores fantasma disponibles / Armas fantasma",
+    "OriginalName": "PHANTOM DISPELLERS OBTAINABLE / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128562,
+    "Name": "Disipadores fantasma obtenidos / Armas fantasma",
+    "OriginalName": "PHANTOM DISPELLERS OBTAINED / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128563,
+    "Name": "Memorias marciales disponibles / Armas fantasma",
+    "OriginalName": "MARTIAL MEMORIES OBTAINABLE / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128564,
+    "Name": "Memorias marciales obtenidas / Armas fantasma",
+    "OriginalName": "MARTIAL MEMORIES OBTAINED / PHANTOM WEAPONS"
+  },
+  {
+    "Id": 128566,
+    "Name": "Acceso autorizado / Auxesia",
+    "OriginalName": "AUXESIA NOW ACCESSIBLE"
+  },
+  {
+    "Id": 128568,
+    "Name": "¡Herramienta cósmica perfeccionada!",
+    "OriginalName": "COSMIC TOOL PERFECTED!"
+  },
+  {
+    "Id": 128569,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128571,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128573,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128575,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128577,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128579,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128581,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128583,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128585,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128587,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128589,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128591,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128593,
+    "Name": "¡Ruta del Cosmoliner completada!",
+    "OriginalName": "COSMOLINER ROUTE COMPLETE!"
+  },
+  {
+    "Id": 128595,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128597,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128599,
+    "Name": "¡Proyecto completado!",
+    "OriginalName": "PROJECT COMPLETE!"
+  },
+  {
+    "Id": 128602,
+    "Name": "Misión iniciada",
+    "OriginalName": "MISSION COMMENCED"
+  },
+  {
+    "Id": 128603,
+    "Name": "Misión fallida",
+    "OriginalName": "MISSION FAILED"
+  },
+  {
+    "Id": 128604,
+    "Name": "Misión iniciada",
+    "OriginalName": "MISSION COMMENCED"
+  },
+  {
+    "Id": 128605,
+    "Name": "Misión fallida",
+    "OriginalName": "MISSION FAILED"
   }
 ]
