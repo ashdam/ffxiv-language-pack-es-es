@@ -8,6 +8,8 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"clutchfather","fr":"père du frai","es-es":"padre de la nidada","protect":false},
+    {"en":"the Binding Coil","es-es":"la Espiral de Contención","protect":false},
     {"en":"4th Legion","fr":"4e légion","ja":"第IV軍団","es-es":"IV Legión","protect":false},
     {"en":"IVth Legion","es-es":"IV Legión","protect":false},
     {"en":"Turtleback Island","fr":"Île de la Carapace","ja":"亀甲島","es-es":"isla del Caparazón","protect":false},
@@ -20,8 +22,8 @@
     {"en":"PuPu","es-es":"Alienígena","protect":false},
     {"en":"Onishishu","fr":"Onishishu","ja":"鬼師衆","es-es":"Onishishu","protect":true,"note":"Colectivo de artesanos de Hingashi."},
     {"en":"Padjal","fr":"Padjal","ja":"角尊","es-es":"Padjal","protect":true,"note":"Denominación invariable de los padjal de Gridania."},
-    {"en":"Advanced/Criterion","es-es":"Avanzado / Criterion","protect":false},
     {"en":"Variant Dungeon","es-es":"mazmorra variante","protect":false},
+    {"en":"Criterion Dungeon","es-es":"mazmorra criterion","protect":false,"note":"Tipo de mazmorra, en minúscula en prosa, igual que mazmorra variante. Plural: mazmorras criterion. No usar «mazmorras de criterio».","forbidden":["mazmorra de criterio"]},
     {"en":"Great Rush","es-es":"Gran Fiebre","protect":false,"note":"Fiebre del mitrilo en Bluefog."},
     {"en":"Lady of Frost","es-es":"Dama de la Escarcha","protect":false,"note":"Epíteto de Shiva."},
     {"en":"mneme","fr":"souvenir","ja":"記憶","es-es":"recuerdo","protect":false,"note":"Recuerdo extraído de un logograma en Eureka. Plural: recuerdos."},
@@ -391,7 +393,7 @@
     {"en":"Yellowjacket","fr":"casaque jaune","ja":"","es-es":"casaca amarilla","protect":false,"note":""},
     {"en":"Brass Blades","fr":"lames de cuivre","ja":"","es-es":"Espadas de Latón","protect":false,"note":"Brass is latón. The French says copper and is simply wrong; this is one of the places the reference cannot be followed."},
     {"en":"Wood Wailer","fr":"vigile sombre","ja":"","es-es":"vigía del Bosque","protect":false,"note":""},
-    {"en":"Twelveswood","fr":"Sylve des Douze","ja":"","es-es":"el Bosque de los Doce","protect":false,"note":""},
+    {"en":"Twelveswood","fr":"Sylve des Douze","ja":"","es-es":"el bosque de los Doce","protect":false,"note":"El genérico bosque se escribe en minúscula salvo al inicio de frase o etiqueta."},
     {"en":"Free Company","fr":"compagnie libre","ja":"フリーカンパニー","es-es":"Free Company","protect":true,"note":"OWNER'S RULING: the English stays. Same reasoning as the Duty Finder and the Gold Saucer — the `Addon` rows that label the FC window are untranslated, so an NPC saying «tu compañía libre» points the player at a button that reads Free Company, and the community says FC in any case. 193 lines had shipped as «compañía libre» against 24 that kept the English and were swept. AGREEMENT IS UNCHANGED: it stays feminine singular, so «la/una/tu/ninguna Free Company» all still work, and the plural is «Free Companies». `Grand Company` is NOT covered — it is «Gran Compañía» in 320 shipped lines with none in English, and reversing that is the owner's call."},
     {"en":"Triple Triad","fr":"Triple Triade","ja":"トリプルトライアド","es-es":"Triple Triad","protect":true,"note":"KEPT ENGLISH, confirmed rather than assumed: the official Spanish release of Final Fantasy VIII left the card game untranslated. That is the deciding evidence under the series-precedent rule, and it agrees with _ui_terms_comment, since the player opens a Triple Triad window. 46 translated occurrences of «Triple Tríada» STILL NEED SWEEPING, and no check will find them: protect:true skips the drift checker, and «Triple Tríada» is a DIFFERENT SPANISH rather than leftover English, which is the only thing that checker looks for. Any sweep has to come from a direct search."},
     {"en":"guildleve","fr":"mandat de guilde","ja":"ギルドリーヴ","es-es":"encargo de gremio","protect":false,"note":"Plural: encargos de gremio. La forma abreviada leve se traduce como encargo cuando designa esta tarea."},
@@ -1256,7 +1258,7 @@
     {"en":"Halatali (Hard)","es-es":"Halatali (difícil)","protect":false},
     {"en":"Cape Westwind","es-es":"Cabo Viento del Oeste","protect":false},
     {"en":"Castrum Meridianum","es-es":"Castrum Meridianum","protect":true},
-    {"en":"Ultima's Bane","es-es":"La perdición de Ultima","protect":false,"note":"Nombre abreviado del cantar. El título completo conserva El cantar del trovador."},
+    {"en":"Ultima's Bane","es-es":"La perdición de Última","protect":false,"note":"Nombre abreviado del cantar. El título completo conserva El cantar del trovador."},
     {"en":"A Relic Reborn: The Hydra","es-es":"La Hidra de Halatali","protect":false},
     {"en":"The Dragon's Neck","es-es":"Cuello del Dragón","protect":false},
     {"en":"The Tam-Tara Deepcroft (Hard)","es-es":"Cripta de Tam-Tara (difícil)","protect":false},
@@ -1351,7 +1353,7 @@
     {"en":"The Masked Carnivale","es-es":"Carnaval enmascarado","protect":false,"note":"Contenido del mago azul, en etiquetas y prosa."},
     {"en":"Mahjong","es-es":"Mahjong","protect":true},
     {"en":"Squadron Missions","es-es":"Misiones del escuadrón","protect":false},
-    {"en":"The Minstrel's Ballad: Ultima's Bane","es-es":"El cantar del trovador: la perdición de Ultima","protect":false,"note":"Título completo de la prueba; el banner puede abreviarlo como La Perdición de Ultima."},
+    {"en":"The Minstrel's Ballad: Ultima's Bane","es-es":"El cantar del trovador: la perdición de Última","protect":false,"note":"Título completo de la prueba; el banner puede abreviarlo como La Perdición de Última."},
     {"en":"Clan Hunt","es-es":"Cacería del Clan","protect":false},
     {"en":"Elite Clan Hunt","es-es":"Cacería de élite del Clan","protect":false},
     {"en":"Veteran Clan Hunt","es-es":"Cacería del clan veterano","protect":false},
@@ -1686,6 +1688,7 @@
     {"en":"the Tyrant","fr":"The Tyrant","ja":"ザ・タイラント","es-es":"The Tyrant","protect":true,"note":"Nombre de combate del luchador de Arcadion, incluido el artículo. Conservar también en prosa: a The Tyrant, de The Tyrant. Referencia: https://fr.finalfantasyxiv.com/blog/003891.html"},
     {"en":"Masked Rose","fr":"Masked Rose","ja":"マスク・ド・ローズ","es-es":"Masked Rose","protect":true,"note":"Conservar el alias del crítico de moda. Referencia: https://fr.finalfantasyxiv.com/lodestone/playguide/contentsguide/goldsaucer/fashionreport/"},
     {"en":"Cirrate Christelle","fr":"Cirrate Christelle","ja":"シレイト・クリステル","es-es":"Cirrate Christelle","protect":true,"note":"Conservar el nombre completo del enemigo, también presente en FFXI: https://www.bg-wiki.com/ffxi/Cirrate_Christelle"},
-    {"en":"Papa Humbaba","fr":"Papa Humbaba","ja":"フンババ・パパ","es-es":"Papa Humbaba","protect":true,"note":"Conservar el nombre completo, sin tilde y sin pluralizar Papa."}
+    {"en":"Papa Humbaba","fr":"Papa Humbaba","ja":"フンババ・パパ","es-es":"Papa Humbaba","protect":true,"note":"Conservar el nombre completo, sin tilde y sin pluralizar Papa."},
+    {"en":"Keybound Brawler","fr":"Frappe fatale","ja":"キーバウンド・ブロウラー","es-es":"Keybound Brawler","protect":true,"note":"Conservar el nombre de la actividad, como los demás juegos del Gold Saucer."}
   ]
 }
