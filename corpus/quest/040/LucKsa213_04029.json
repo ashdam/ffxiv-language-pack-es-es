@@ -1,6 +1,6 @@
 {
   "conversation": "quest/040/LucKsa213_04029",
-  "gameVersion": "2026.10.06.0000.0000",
+  "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_SEQ_00", "hash": "5910645A4523A088", "target": "Kriv cree conocer un modo de aumentar tu arsenal de acciones perdidas." },
     { "gameKey": "quest/040/LucKsa213_04029#TEXT_LUCKSA213_04029_TODO_00", "hash": "CF79F3E5A352B36A", "target": "<if([lnum1<lnum2],Obtener <ennoun(Item,3,32201,2,1)>,Entregar los <ennoun(Item,3,32201,2,1)> a Kriv en Gangos)>" },
