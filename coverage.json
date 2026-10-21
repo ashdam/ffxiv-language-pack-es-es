@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 482249,
-  "total": 482296,
+  "translated": 579672,
+  "total": 579719,
   "percent": 100,
-  "chars": 49211419,
+  "chars": 50531264,
   "unresolved": 5522,
   "groups": [
     {
@@ -411,8 +411,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 123051,
-      "total": 123051
+      "translated": 220474,
+      "total": 220474
     }
   ],
   "excludedFromLocalization": [
@@ -425,8 +425,8 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 734,
-      "total": 837
+      "translated": 735,
+      "total": 1079
     }
   ],
   "futureLocalization": [
@@ -445,14 +445,6 @@
       "translated": 363,
       "pending": 3034,
       "pendingPercent": 89.3
-    },
-    {
-      "sheet": "BNpcName",
-      "content": "Enemy names",
-      "total": 29475,
-      "translated": 29475,
-      "pending": 0,
-      "pendingPercent": 0
     },
     {
       "sheet": "ClassJob",
@@ -479,14 +471,6 @@
       "pendingPercent": 50.8
     },
     {
-      "sheet": "ENpcResident",
-      "content": "Non-battle NPC names",
-      "total": 62705,
-      "translated": 62705,
-      "pending": 0,
-      "pendingPercent": 0
-    },
-    {
       "sheet": "EventItem",
       "content": "Quest items",
       "total": 10593,
@@ -506,17 +490,17 @@
       "sheet": "Fate",
       "content": "Fate",
       "total": 4362,
-      "translated": 127,
-      "pending": 4235,
-      "pendingPercent": 97.1
+      "translated": 145,
+      "pending": 4217,
+      "pendingPercent": 96.7
     },
     {
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 5454,
-      "pending": 167998,
-      "pendingPercent": 96.9
+      "translated": 7059,
+      "pending": 166393,
+      "pendingPercent": 95.9
     },
     {
       "sheet": "Pet",
