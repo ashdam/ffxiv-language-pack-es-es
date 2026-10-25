@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 579672,
-  "total": 579719,
-  "percent": 100,
-  "chars": 50531264,
-  "unresolved": 5522,
+  "translated": 591389,
+  "total": 647241,
+  "percent": 91.4,
+  "chars": 53448728,
+  "unresolved": 5594,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -362,6 +362,12 @@
     },
     {
       "expansion": null,
+      "content": "Deep Dungeon names",
+      "translated": 4,
+      "total": 4
+    },
+    {
+      "expansion": null,
       "content": "The Unending Journey — the rest is levequest names",
       "translated": 7584,
       "total": 7584
@@ -411,8 +417,8 @@
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 220474,
-      "total": 220474
+      "translated": 232187,
+      "total": 287992
     }
   ],
   "excludedFromLocalization": [
@@ -425,8 +431,8 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 735,
-      "total": 1079
+      "translated": 743,
+      "total": 1122
     }
   ],
   "futureLocalization": [
@@ -434,17 +440,17 @@
       "sheet": "Action",
       "content": "Actions",
       "total": 44412,
-      "translated": 647,
-      "pending": 43765,
+      "translated": 652,
+      "pending": 43760,
       "pendingPercent": 98.5
     },
     {
       "sheet": "ActionTransient",
       "content": "Action descriptions",
       "total": 3397,
-      "translated": 363,
-      "pending": 3034,
-      "pendingPercent": 89.3
+      "translated": 367,
+      "pending": 3030,
+      "pendingPercent": 89.2
     },
     {
       "sheet": "ClassJob",
@@ -458,9 +464,9 @@
       "sheet": "Completion",
       "content": "Completion",
       "total": 3090,
-      "translated": 1345,
-      "pending": 1745,
-      "pendingPercent": 56.5
+      "translated": 1346,
+      "pending": 1744,
+      "pendingPercent": 56.4
     },
     {
       "sheet": "DynamicEvent",
@@ -490,17 +496,17 @@
       "sheet": "Fate",
       "content": "Fate",
       "total": 4362,
-      "translated": 145,
-      "pending": 4217,
-      "pendingPercent": 96.7
+      "translated": 4362,
+      "pending": 0,
+      "pendingPercent": 0
     },
     {
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 7059,
-      "pending": 166393,
-      "pendingPercent": 95.9
+      "translated": 12856,
+      "pending": 160596,
+      "pendingPercent": 92.6
     },
     {
       "sheet": "Pet",
@@ -514,9 +520,9 @@
       "sheet": "Status",
       "content": "Statuses",
       "total": 9343,
-      "translated": 384,
-      "pending": 8959,
-      "pendingPercent": 95.9
+      "translated": 478,
+      "pending": 8865,
+      "pendingPercent": 94.9
     },
     {
       "sheet": "Trait",
