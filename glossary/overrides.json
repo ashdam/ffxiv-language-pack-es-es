@@ -280,7 +280,7 @@
     {"en":"magitek bartizan","fr":"","ja":"","es-es":"torreta magitek","protect":false,"note":"MEDIUM. A magitek emplacement."},
     {"en":"Gilded Cactuar","fr":"","ja":"サボテンダー","es-es":"cactilio dorado","protect":false,"note":"Silver Cactuar: cactilio plateado. Bronze Cactuar: cactilio de bronce."},
     {"en":"Odin","fr":"Odin","ja":"オーディン","es-es":"Odin","protect":true,"note":"KEPT UNACCENTED, NOT «Odín», matching every shipped occurrence in InstanceContentTextData and NpcYell. Recorded because the Spanish accent is the natural instinct and would split the corpus."},
-    {"en":"MGP","fr":"PGS","ja":"MGP","es-es":"PGM","protect":false,"note":"Sigla de puntos del Gold Saucer de Manderville. Usar PGM en el texto para jugadores."},
+    {"en":"MGP","fr":"PGS","ja":"MGP","es-es":"MGP","protect":true,"forbidden":["PGM"],"note":"Conservar la sigla inglesa de Manderville Gold Saucer Points en el texto para jugadores."},
     {"en":"levin sickness","fr":"","ja":"","es-es":"el mal del rayo","protect":false,"note":"Shipped in DefaultTalk-23, DefaultTalk-24 and KinGme103 and never recorded. Found by the GimmickTalk translator by searching translations/ before coining."},
     {"en":"Cactpot","fr":"Cactpot","ja":"カクポ","es-es":"el Cactpot","protect":true,"note":"Gold Saucer lottery. Shipped in English with a Spanish article and unrecorded. Mini Cactpot likewise."},
     {"en":"GATE","fr":"GATE","ja":"GATE","es-es":"GATE","protect":true,"note":"Gold Saucer Active Time Event. Kept in English: it is a Duty List and announcement-banner label, and the acronym is used in all three languages."},
