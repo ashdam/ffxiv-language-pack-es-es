@@ -1,10 +1,10 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 591389,
-  "total": 647241,
-  "percent": 91.4,
-  "chars": 53448728,
-  "unresolved": 5594,
+  "translated": 591472,
+  "total": 647942,
+  "percent": 91.3,
+  "chars": 53669351,
+  "unresolved": 5599,
   "groups": [
     {
       "expansion": "A Realm Reborn",
@@ -346,7 +346,7 @@
       "expansion": null,
       "content": "Battle and system messages",
       "translated": 8526,
-      "total": 8526
+      "total": 8527
     },
     {
       "expansion": null,
@@ -376,13 +376,13 @@
       "expansion": null,
       "content": "Service NPC menus",
       "translated": 29352,
-      "total": 29352
+      "total": 29354
     },
     {
       "expansion": null,
       "content": "Buttons, tabs, headers (`Addon`)",
       "translated": 14849,
-      "total": 14849
+      "total": 14877
     },
     {
       "expansion": null,
@@ -411,14 +411,14 @@
     {
       "expansion": null,
       "content": "Chat commands (`TextCommand`)",
-      "translated": 2,
-      "total": 49
+      "translated": 0,
+      "total": 631
     },
     {
       "expansion": null,
       "content": "Ambient text: NPC chatter, shouts, balloons, duties and guides",
-      "translated": 232187,
-      "total": 287992
+      "translated": 232272,
+      "total": 288080
     }
   ],
   "excludedFromLocalization": [
@@ -432,10 +432,34 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 743,
-      "total": 1122
+      "total": 1123
     }
   ],
   "futureLocalization": [
+    {
+      "sheet": "AOZScore",
+      "content": "AOZScore",
+      "total": 58,
+      "translated": 0,
+      "pending": 58,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Achievement",
+      "content": "Achievement",
+      "total": 8006,
+      "translated": 0,
+      "pending": 8006,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AchievementCategory",
+      "content": "AchievementCategory",
+      "total": 82,
+      "translated": 0,
+      "pending": 82,
+      "pendingPercent": 100
+    },
     {
       "sheet": "Action",
       "content": "Actions",
@@ -443,6 +467,22 @@
       "translated": 652,
       "pending": 43760,
       "pendingPercent": 98.5
+    },
+    {
+      "sheet": "ActionComboRoute",
+      "content": "ActionComboRoute",
+      "total": 68,
+      "translated": 0,
+      "pending": 68,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ActionComboRouteTransient",
+      "content": "ActionComboRouteTransient",
+      "total": 68,
+      "translated": 0,
+      "pending": 68,
+      "pendingPercent": 100
     },
     {
       "sheet": "ActionTransient",
@@ -453,12 +493,316 @@
       "pendingPercent": 89.2
     },
     {
+      "sheet": "AddonTransient",
+      "content": "AddonTransient",
+      "total": 593,
+      "translated": 0,
+      "pending": 593,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AirshipExplorationLog",
+      "content": "AirshipExplorationLog",
+      "total": 34,
+      "translated": 0,
+      "pending": 34,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AirshipExplorationParamType",
+      "content": "AirshipExplorationParamType",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AirshipExplorationPoint",
+      "content": "AirshipExplorationPoint",
+      "total": 50,
+      "translated": 0,
+      "pending": 50,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AnimaWeapon5Param",
+      "content": "AnimaWeapon5Param",
+      "total": 7,
+      "translated": 0,
+      "pending": 7,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AnimaWeapon5PatternGroup",
+      "content": "AnimaWeapon5PatternGroup",
+      "total": 13,
+      "translated": 0,
+      "pending": 13,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AnimaWeapon5SpiritTalkParam",
+      "content": "AnimaWeapon5SpiritTalkParam",
+      "total": 134,
+      "translated": 0,
+      "pending": 134,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AnimaWeaponFUITalkParam",
+      "content": "AnimaWeaponFUITalkParam",
+      "total": 22,
+      "translated": 0,
+      "pending": 22,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "AozActionTransient",
+      "content": "AozActionTransient",
+      "total": 248,
+      "translated": 0,
+      "pending": 248,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Attributive",
+      "content": "Attributive",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerBg",
+      "content": "BannerBg",
+      "total": 436,
+      "translated": 0,
+      "pending": 436,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerDecoration",
+      "content": "BannerDecoration",
+      "total": 399,
+      "translated": 0,
+      "pending": 399,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerDesignPreset",
+      "content": "BannerDesignPreset",
+      "total": 427,
+      "translated": 0,
+      "pending": 427,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerFrame",
+      "content": "BannerFrame",
+      "total": 351,
+      "translated": 0,
+      "pending": 351,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerObtainHintType",
+      "content": "BannerObtainHintType",
+      "total": 121,
+      "translated": 0,
+      "pending": 121,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BannerTimeline",
+      "content": "BannerTimeline",
+      "total": 18,
+      "translated": 0,
+      "pending": 18,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BeastReputationRank",
+      "content": "BeastReputationRank",
+      "total": 18,
+      "translated": 0,
+      "pending": 18,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BeastTribe",
+      "content": "BeastTribe",
+      "total": 40,
+      "translated": 0,
+      "pending": 40,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BgcArmyAction",
+      "content": "BgcArmyAction",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BgcArmyActionTransient",
+      "content": "BgcArmyActionTransient",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BuddyAction",
+      "content": "BuddyAction",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "BuddyEquip",
+      "content": "BuddyEquip",
+      "total": 324,
+      "translated": 0,
+      "pending": 324,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardBase",
+      "content": "CharaCardBase",
+      "total": 142,
+      "translated": 0,
+      "pending": 142,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardDecoration",
+      "content": "CharaCardDecoration",
+      "total": 719,
+      "translated": 0,
+      "pending": 719,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardDesignCategory",
+      "content": "CharaCardDesignCategory",
+      "total": 11,
+      "translated": 0,
+      "pending": 11,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardDesignPreset",
+      "content": "CharaCardDesignPreset",
+      "total": 147,
+      "translated": 0,
+      "pending": 147,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardHeader",
+      "content": "CharaCardHeader",
+      "total": 105,
+      "translated": 0,
+      "pending": 105,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaCardPlayStyle",
+      "content": "CharaCardPlayStyle",
+      "total": 36,
+      "translated": 0,
+      "pending": 36,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CharaMakeName",
+      "content": "CharaMakeName",
+      "total": 300,
+      "translated": 0,
+      "pending": 300,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ChatBubbleType",
+      "content": "ChatBubbleType",
+      "total": 25,
+      "translated": 0,
+      "pending": 25,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ChocoboTaxiStand",
+      "content": "ChocoboTaxiStand",
+      "total": 92,
+      "translated": 0,
+      "pending": 92,
+      "pendingPercent": 100
+    },
+    {
       "sheet": "ClassJob",
       "content": "Classes and jobs",
       "total": 87,
       "translated": 83,
       "pending": 4,
       "pendingPercent": 4.6
+    },
+    {
+      "sheet": "ClassJobCategory",
+      "content": "ClassJobCategory",
+      "total": 188,
+      "translated": 0,
+      "pending": 188,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ColorFilter",
+      "content": "ColorFilter",
+      "total": 25,
+      "translated": 0,
+      "pending": 25,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ColosseumMatchRank",
+      "content": "ColosseumMatchRank",
+      "total": 9,
+      "translated": 0,
+      "pending": 9,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Companion",
+      "content": "Companion",
+      "total": 1180,
+      "translated": 0,
+      "pending": 1180,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CompanionMove",
+      "content": "CompanionMove",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CompanionTransient",
+      "content": "CompanionTransient",
+      "total": 2942,
+      "translated": 0,
+      "pending": 2942,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CompanyCraftDraft",
+      "content": "CompanyCraftDraft",
+      "total": 39,
+      "translated": 0,
+      "pending": 39,
+      "pendingPercent": 100
     },
     {
       "sheet": "Completion",
@@ -469,12 +813,124 @@
       "pendingPercent": 56.4
     },
     {
+      "sheet": "ConfigKey",
+      "content": "ConfigKey",
+      "total": 432,
+      "translated": 0,
+      "pending": 432,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ContentGauge",
+      "content": "ContentGauge",
+      "total": 93,
+      "translated": 0,
+      "pending": 93,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CraftAction",
+      "content": "CraftAction",
+      "total": 865,
+      "translated": 0,
+      "pending": 865,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CraftLeveTalk",
+      "content": "CraftLeveTalk",
+      "total": 186,
+      "translated": 0,
+      "pending": 186,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CreditCast",
+      "content": "CreditCast",
+      "total": 786,
+      "translated": 0,
+      "pending": 786,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "CreditListText",
+      "content": "CreditListText",
+      "total": 7013,
+      "translated": 0,
+      "pending": 7013,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "DawnMemberUIParam",
+      "content": "DawnMemberUIParam",
+      "total": 183,
+      "translated": 0,
+      "pending": 183,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "DeepDungeon4GimmickEffectTransient",
+      "content": "DeepDungeon4GimmickEffectTransient",
+      "total": 20,
+      "translated": 0,
+      "pending": 20,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "DeepDungeonMagicStone",
+      "content": "DeepDungeonMagicStone",
+      "total": 20,
+      "translated": 0,
+      "pending": 20,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "DpsChallenge",
+      "content": "DpsChallenge",
+      "total": 242,
+      "translated": 0,
+      "pending": 242,
+      "pendingPercent": 100
+    },
+    {
       "sheet": "DynamicEvent",
       "content": "DynamicEvent",
       "total": 130,
       "translated": 64,
       "pending": 66,
       "pendingPercent": 50.8
+    },
+    {
+      "sheet": "DynamicEventSingleBattle",
+      "content": "DynamicEventSingleBattle",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EmjCostumeData",
+      "content": "EmjCostumeData",
+      "total": 21,
+      "translated": 0,
+      "pending": 21,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EmjVoiceNpc",
+      "content": "EmjVoiceNpc",
+      "total": 14,
+      "translated": 0,
+      "pending": 14,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EurekaMagiciteItemType",
+      "content": "EurekaMagiciteItemType",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
     },
     {
       "sheet": "EventItem",
@@ -493,12 +949,356 @@
       "pendingPercent": 0
     },
     {
+      "sheet": "EventPathMove",
+      "content": "EventPathMove",
+      "total": 10,
+      "translated": 0,
+      "pending": 10,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EventSituationIconTooltip",
+      "content": "EventSituationIconTooltip",
+      "total": 1,
+      "translated": 0,
+      "pending": 1,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "EventVfx",
+      "content": "EventVfx",
+      "total": 28,
+      "translated": 0,
+      "pending": 28,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ExVersion",
+      "content": "ExVersion",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ExtraCommand",
+      "content": "ExtraCommand",
+      "total": 8,
+      "translated": 0,
+      "pending": 8,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FashionCheckThemeCategory",
+      "content": "FashionCheckThemeCategory",
+      "total": 269,
+      "translated": 0,
+      "pending": 269,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FashionCheckWeeklyTheme",
+      "content": "FashionCheckWeeklyTheme",
+      "total": 535,
+      "translated": 0,
+      "pending": 535,
+      "pendingPercent": 100
+    },
+    {
       "sheet": "Fate",
       "content": "Fate",
       "total": 4362,
       "translated": 4362,
       "pending": 0,
       "pendingPercent": 0
+    },
+    {
+      "sheet": "FieldMarker",
+      "content": "FieldMarker",
+      "total": 9,
+      "translated": 0,
+      "pending": 9,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FishParameter",
+      "content": "FishParameter",
+      "total": 1586,
+      "translated": 0,
+      "pending": 1586,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FishingSpot",
+      "content": "FishingSpot",
+      "total": 223,
+      "translated": 0,
+      "pending": 223,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FittingShopCategory",
+      "content": "FittingShopCategory",
+      "total": 18,
+      "translated": 0,
+      "pending": 18,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "FittingShopItemSet",
+      "content": "FittingShopItemSet",
+      "total": 162,
+      "translated": 0,
+      "pending": 162,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GatheringSubCategory",
+      "content": "GatheringSubCategory",
+      "total": 139,
+      "translated": 0,
+      "pending": 139,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyCandidateCategory",
+      "content": "GcArmyCandidateCategory",
+      "total": 7,
+      "translated": 0,
+      "pending": 7,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyExpedition",
+      "content": "GcArmyExpedition",
+      "total": 68,
+      "translated": 0,
+      "pending": 68,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyExpeditionTrait",
+      "content": "GcArmyExpeditionTrait",
+      "total": 23,
+      "translated": 0,
+      "pending": 23,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyExpeditionTraitCond",
+      "content": "GcArmyExpeditionTraitCond",
+      "total": 26,
+      "translated": 0,
+      "pending": 26,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyExpeditionType",
+      "content": "GcArmyExpeditionType",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GcArmyTraining",
+      "content": "GcArmyTraining",
+      "total": 14,
+      "translated": 0,
+      "pending": 14,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GeneralAction",
+      "content": "GeneralAction",
+      "total": 86,
+      "translated": 0,
+      "pending": 86,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Glasses",
+      "content": "Glasses",
+      "total": 2928,
+      "translated": 0,
+      "pending": 2928,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GlassesStyle",
+      "content": "GlassesStyle",
+      "total": 183,
+      "translated": 0,
+      "pending": 183,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GroupPoseFrame",
+      "content": "GroupPoseFrame",
+      "total": 48,
+      "translated": 0,
+      "pending": 48,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GroupPoseStamp",
+      "content": "GroupPoseStamp",
+      "total": 740,
+      "translated": 0,
+      "pending": 740,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GroupPoseStampCategory",
+      "content": "GroupPoseStampCategory",
+      "total": 29,
+      "translated": 0,
+      "pending": 29,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GroupPoseStampFontColor",
+      "content": "GroupPoseStampFontColor",
+      "total": 14,
+      "translated": 0,
+      "pending": 14,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GuardianDeity",
+      "content": "GuardianDeity",
+      "total": 24,
+      "translated": 0,
+      "pending": 24,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "GuildleveAssignment",
+      "content": "GuildleveAssignment",
+      "total": 37,
+      "translated": 0,
+      "pending": 37,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDAnnounce",
+      "content": "HWDAnnounce",
+      "total": 108,
+      "translated": 0,
+      "pending": 108,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDCrafterSupplyTerm",
+      "content": "HWDCrafterSupplyTerm",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDDevLevelWebText",
+      "content": "HWDDevLevelWebText",
+      "total": 165,
+      "translated": 0,
+      "pending": 165,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDGathereInspectTerm",
+      "content": "HWDGathereInspectTerm",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDInfoBoardArticle",
+      "content": "HWDInfoBoardArticle",
+      "total": 65,
+      "translated": 0,
+      "pending": 65,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDInfoBoardArticleTransient",
+      "content": "HWDInfoBoardArticleTransient",
+      "total": 107,
+      "translated": 0,
+      "pending": 107,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDInfoBoardArticleType",
+      "content": "HWDInfoBoardArticleType",
+      "total": 2,
+      "translated": 0,
+      "pending": 2,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HWDInfoBoardBackNumber",
+      "content": "HWDInfoBoardBackNumber",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HousingEmploymentNpcRace",
+      "content": "HousingEmploymentNpcRace",
+      "total": 16,
+      "translated": 0,
+      "pending": 16,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HousingPreset",
+      "content": "HousingPreset",
+      "total": 90,
+      "translated": 0,
+      "pending": 90,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "HousingRenovation",
+      "content": "HousingRenovation",
+      "total": 42,
+      "translated": 0,
+      "pending": 42,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Hud",
+      "content": "Hud",
+      "total": 106,
+      "translated": 0,
+      "pending": 106,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "IKDContentBonus",
+      "content": "IKDContentBonus",
+      "total": 124,
+      "translated": 0,
+      "pending": 124,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "IKDPlayerMissionCondition",
+      "content": "IKDPlayerMissionCondition",
+      "total": 35,
+      "translated": 0,
+      "pending": 35,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "IKDRoute",
+      "content": "IKDRoute",
+      "total": 21,
+      "translated": 0,
+      "pending": 21,
+      "pendingPercent": 100
     },
     {
       "sheet": "Item",
@@ -509,6 +1309,278 @@
       "pendingPercent": 92.6
     },
     {
+      "sheet": "ItemSeries",
+      "content": "ItemSeries",
+      "total": 30,
+      "translated": 0,
+      "pending": 30,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "KTGTypeWordTextData",
+      "content": "KTGTypeWordTextData",
+      "total": 1641,
+      "translated": 0,
+      "pending": 1641,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "LegacyQuest",
+      "content": "LegacyQuest",
+      "total": 295,
+      "translated": 0,
+      "pending": 295,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "LeveClient",
+      "content": "LeveClient",
+      "total": 282,
+      "translated": 0,
+      "pending": 282,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "LogFilter",
+      "content": "LogFilter",
+      "total": 459,
+      "translated": 0,
+      "pending": 459,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "LogKind",
+      "content": "LogKind",
+      "total": 82,
+      "translated": 0,
+      "pending": 82,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "LotteryExchangeShop",
+      "content": "LotteryExchangeShop",
+      "total": 1,
+      "translated": 0,
+      "pending": 1,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJICraftworksObjectTheme",
+      "content": "MJICraftworksObjectTheme",
+      "total": 16,
+      "translated": 0,
+      "pending": 16,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIDisposalShopUICategory",
+      "content": "MJIDisposalShopUICategory",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIHudMode",
+      "content": "MJIHudMode",
+      "total": 17,
+      "translated": 0,
+      "pending": 17,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIItemCategory",
+      "content": "MJIItemCategory",
+      "total": 18,
+      "translated": 0,
+      "pending": 18,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIName",
+      "content": "MJIName",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIProgress",
+      "content": "MJIProgress",
+      "total": 119,
+      "translated": 0,
+      "pending": 119,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MJIText",
+      "content": "MJIText",
+      "total": 97,
+      "translated": 0,
+      "pending": 97,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MKDRelicGrowth2Category",
+      "content": "MKDRelicGrowth2Category",
+      "total": 7,
+      "translated": 0,
+      "pending": 7,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MKDRelicGrowth2ContentList",
+      "content": "MKDRelicGrowth2ContentList",
+      "total": 15,
+      "translated": 0,
+      "pending": 15,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MKDRelicGrowth2Monster",
+      "content": "MKDRelicGrowth2Monster",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ManeuversArmor",
+      "content": "ManeuversArmor",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Marker",
+      "content": "Marker",
+      "total": 17,
+      "translated": 0,
+      "pending": 17,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MassivePcContent",
+      "content": "MassivePcContent",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MiniGameTurnBreakAction",
+      "content": "MiniGameTurnBreakAction",
+      "total": 16,
+      "translated": 0,
+      "pending": 16,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MiniGameTurnBreakStatus",
+      "content": "MiniGameTurnBreakStatus",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MonsterNote",
+      "content": "MonsterNote",
+      "total": 600,
+      "translated": 0,
+      "pending": 600,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Mount",
+      "content": "Mount",
+      "total": 738,
+      "translated": 0,
+      "pending": 738,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "MountTransient",
+      "content": "MountTransient",
+      "total": 1071,
+      "translated": 0,
+      "pending": 1071,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Omikuji",
+      "content": "Omikuji",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "OmikujiGuidance",
+      "content": "OmikujiGuidance",
+      "total": 216,
+      "translated": 0,
+      "pending": 216,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "OpenContentCandidateName",
+      "content": "OpenContentCandidateName",
+      "total": 57,
+      "translated": 0,
+      "pending": 57,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Orchestrion",
+      "content": "Orchestrion",
+      "total": 1772,
+      "translated": 0,
+      "pending": 1772,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Ornament",
+      "content": "Ornament",
+      "total": 111,
+      "translated": 0,
+      "pending": 111,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "OrnamentTransient",
+      "content": "OrnamentTransient",
+      "total": 56,
+      "translated": 0,
+      "pending": 56,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Perform",
+      "content": "Perform",
+      "total": 28,
+      "translated": 0,
+      "pending": 28,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PerformGuideScore",
+      "content": "PerformGuideScore",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PerformTransient",
+      "content": "PerformTransient",
+      "total": 28,
+      "translated": 0,
+      "pending": 28,
+      "pendingPercent": 100
+    },
+    {
       "sheet": "Pet",
       "content": "Pet names",
       "total": 90,
@@ -517,12 +1589,284 @@
       "pendingPercent": 44.4
     },
     {
+      "sheet": "PetAction",
+      "content": "PetAction",
+      "total": 82,
+      "translated": 0,
+      "pending": 82,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PetMirage",
+      "content": "PetMirage",
+      "total": 8,
+      "translated": 0,
+      "pending": 8,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PhantomWeaponExTodo",
+      "content": "PhantomWeaponExTodo",
+      "total": 8,
+      "translated": 0,
+      "pending": 8,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PointMenu",
+      "content": "PointMenu",
+      "total": 15,
+      "translated": 0,
+      "pending": 15,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PublicContent",
+      "content": "PublicContent",
+      "total": 1,
+      "translated": 0,
+      "pending": 1,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "PvPRankTransient",
+      "content": "PvPRankTransient",
+      "total": 606,
+      "translated": 0,
+      "pending": 606,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QTE",
+      "content": "QTE",
+      "total": 48,
+      "translated": 0,
+      "pending": 48,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QuestRedoChapterUI",
+      "content": "QuestRedoChapterUI",
+      "total": 533,
+      "translated": 0,
+      "pending": 533,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QuestRedoChapterUITab",
+      "content": "QuestRedoChapterUITab",
+      "total": 8,
+      "translated": 0,
+      "pending": 8,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QuestRewardOther",
+      "content": "QuestRewardOther",
+      "total": 17,
+      "translated": 0,
+      "pending": 17,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QuickChat",
+      "content": "QuickChat",
+      "total": 40,
+      "translated": 0,
+      "pending": 40,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "QuickChatTransient",
+      "content": "QuickChatTransient",
+      "total": 39,
+      "translated": 0,
+      "pending": 39,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Race",
+      "content": "Race",
+      "total": 16,
+      "translated": 0,
+      "pending": 16,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "RacingChocoboName",
+      "content": "RacingChocoboName",
+      "total": 1608,
+      "translated": 0,
+      "pending": 1608,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Relic6Magicite",
+      "content": "Relic6Magicite",
+      "total": 24,
+      "translated": 0,
+      "pending": 24,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Snipe",
+      "content": "Snipe",
+      "total": 232,
+      "translated": 0,
+      "pending": 232,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SnipeTalk",
+      "content": "SnipeTalk",
+      "total": 94,
+      "translated": 0,
+      "pending": 94,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SnipeTalkName",
+      "content": "SnipeTalkName",
+      "total": 17,
+      "translated": 0,
+      "pending": 17,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SpearfishingComboTarget",
+      "content": "SpearfishingComboTarget",
+      "total": 9,
+      "translated": 0,
+      "pending": 9,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SpearfishingEcology",
+      "content": "SpearfishingEcology",
+      "total": 48,
+      "translated": 0,
+      "pending": 48,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SpearfishingItem",
+      "content": "SpearfishingItem",
+      "total": 289,
+      "translated": 0,
+      "pending": 289,
+      "pendingPercent": 100
+    },
+    {
       "sheet": "Status",
       "content": "Statuses",
       "total": 9343,
       "translated": 478,
       "pending": 8865,
       "pendingPercent": 94.9
+    },
+    {
+      "sheet": "SubmarineExploration",
+      "content": "SubmarineExploration",
+      "total": 143,
+      "translated": 0,
+      "pending": 143,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SubmarineExplorationLog",
+      "content": "SubmarineExplorationLog",
+      "total": 31,
+      "translated": 0,
+      "pending": 31,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SubmarineMap",
+      "content": "SubmarineMap",
+      "total": 7,
+      "translated": 0,
+      "pending": 7,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "SubmarineSpecCategory",
+      "content": "SubmarineSpecCategory",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Title",
+      "content": "Title",
+      "total": 1770,
+      "translated": 0,
+      "pending": 1770,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuBg",
+      "content": "TofuBg",
+      "total": 7,
+      "translated": 0,
+      "pending": 7,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuEditParam",
+      "content": "TofuEditParam",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuObject",
+      "content": "TofuObject",
+      "total": 124,
+      "translated": 0,
+      "pending": 124,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuObjectCategory",
+      "content": "TofuObjectCategory",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuPreset",
+      "content": "TofuPreset",
+      "total": 21,
+      "translated": 0,
+      "pending": 21,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TofuPresetCategory",
+      "content": "TofuPresetCategory",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "TomestoneConvert",
+      "content": "TomestoneConvert",
+      "total": 16,
+      "translated": 0,
+      "pending": 16,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "Town",
+      "content": "Town",
+      "total": 9,
+      "translated": 0,
+      "pending": 9,
+      "pendingPercent": 100
     },
     {
       "sheet": "Trait",
@@ -539,6 +1883,190 @@
       "translated": 14,
       "pending": 668,
       "pendingPercent": 97.9
+    },
+    {
+      "sheet": "Tribe",
+      "content": "Tribe",
+      "total": 32,
+      "translated": 0,
+      "pending": 32,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ValentionSweetsMaterial",
+      "content": "ValentionSweetsMaterial",
+      "total": 24,
+      "translated": 0,
+      "pending": 24,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "ValentionSweetsRecipe",
+      "content": "ValentionSweetsRecipe",
+      "total": 51,
+      "translated": 0,
+      "pending": 51,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSAchievement",
+      "content": "WKSAchievement",
+      "total": 244,
+      "translated": 0,
+      "pending": 244,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSCosmoToolName",
+      "content": "WKSCosmoToolName",
+      "total": 374,
+      "translated": 0,
+      "pending": 374,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSDevGrade",
+      "content": "WKSDevGrade",
+      "total": 1255,
+      "translated": 0,
+      "pending": 1255,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSEmergencyInfoText",
+      "content": "WKSEmergencyInfoText",
+      "total": 102,
+      "translated": 0,
+      "pending": 102,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSFateControl",
+      "content": "WKSFateControl",
+      "total": 129,
+      "translated": 0,
+      "pending": 129,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSItemSubCategory",
+      "content": "WKSItemSubCategory",
+      "total": 6,
+      "translated": 0,
+      "pending": 6,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSMechaEventData",
+      "content": "WKSMechaEventData",
+      "total": 54,
+      "translated": 0,
+      "pending": 54,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSMissionText",
+      "content": "WKSMissionText",
+      "total": 386,
+      "translated": 0,
+      "pending": 386,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSMissionUnit",
+      "content": "WKSMissionUnit",
+      "total": 1699,
+      "translated": 0,
+      "pending": 1699,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSNextPlanetGuidance",
+      "content": "WKSNextPlanetGuidance",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSPioneeringTrailString",
+      "content": "WKSPioneeringTrailString",
+      "total": 201,
+      "translated": 0,
+      "pending": 201,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSPlanetSelect",
+      "content": "WKSPlanetSelect",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSPraiseUI",
+      "content": "WKSPraiseUI",
+      "total": 3,
+      "translated": 0,
+      "pending": 3,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WKSText",
+      "content": "WKSText",
+      "total": 29,
+      "translated": 0,
+      "pending": 29,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WebGuidance",
+      "content": "WebGuidance",
+      "total": 4,
+      "translated": 0,
+      "pending": 4,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WeddingBGM",
+      "content": "WeddingBGM",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WorldPhysicalDC",
+      "content": "WorldPhysicalDC",
+      "total": 5,
+      "translated": 0,
+      "pending": 5,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "WorldRegionGroup",
+      "content": "WorldRegionGroup",
+      "total": 8,
+      "translated": 0,
+      "pending": 8,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "XPVPGroupActivity",
+      "content": "XPVPGroupActivity",
+      "total": 12,
+      "translated": 0,
+      "pending": 12,
+      "pendingPercent": 100
+    },
+    {
+      "sheet": "YKW",
+      "content": "YKW",
+      "total": 17,
+      "translated": 0,
+      "pending": 17,
+      "pendingPercent": 100
     }
   ]
 }
