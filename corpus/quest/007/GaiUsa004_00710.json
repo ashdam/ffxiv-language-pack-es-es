@@ -12,45 +12,13 @@
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_031", "hash": "17B784CA9C428278", "target": "¡<sheet(EventItem,2000831,9)>! ¡Pues claro! Esos silfos se echan al coleto ese líquido lechoso tan rápido como yo un jarro de hidromiel. Y el efecto viene a ser el mismo." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_ROLFE_000_032", "hash": "42FCD60E54D8834A", "target": "En fin, un regalo de raíz lechosa hará que los silfos le llamen amigo y <if(gnum4,hermana,hermano)> en cuanto le echen el ojo. Ahora deje que se lo envuelva... empiezo a sentirme algo mareado..." },
     { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_POP_MESSAGE_000", "hash": "D1BDEABB9251EEE0", "target": "¡Entre ramas que se agitan, la vegetación cobra vida!" },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_00",
-      "hash": "34FCFBC93799DDA4",
-      "target": "Rolfe Hawthorne quiere compartir más conocimientos para ayudarte a ganarte la amistad de los silfos."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_01",
-      "hash": "6A8BA3EA0FDC9A50",
-      "target": "Rolfe te dice que no sería prudente presentarse ante los silfos sin un regalo apropiado, pero le cuesta recordar exactamente cuál debería ser ese regalo. Sin embargo, es posible que su esposa, Rosa, lo sepa. Habla con ella en el Panal Pleniflor para ver qué te cuenta."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_02",
-      "hash": "03428D492454E0C8",
-      "target": "Aunque no acaba de entender por qué, Rosa te informa de que, según dicen, a los silfos les encanta la <lower(<sheet(EventItem,2000831,9)>)>, que se obtiene de los ochús. Para encontrar uno de esos ochús, toma el <lower(<sheet(EventItem,2000571,9)>)> que te ha dado Rosa y viértelo sobre la curiosa mata de hierba del Jardín de la Miel. Una vez al descubierto, mata al ochú y reza por encontrar algo de <lower(<sheet(EventItem,2000831,9)>)> entre sus restos."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_03",
-      "hash": "B1FBF429D2A332BD",
-      "target": "Tus plegarias han sido atendidas y ya tienes la <lower(<sheet(EventItem,2000831,9)>)> en tu poder. Lleva tu premio a Rolfe, en la Cabaña de los Hawthorne, para asegurarte de que es en verdad una ofrenda adecuada para los silfos."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_04",
-      "hash": "149834D22ACC213D",
-      "target": "Rolfe reconoce la <lower(<sheet(EventItem,2000831,9)>)> en cuanto se la muestras y está seguro de que los silfos agradecerán la ofrenda. Pero ten cuidado de no inhalar demasiados vapores antes de dársela a los silfos."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_00",
-      "hash": "573DACC5E6062946",
-      "target": "Hablar con Rosa Hawthorne"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_01",
-      "hash": "5232F49E49AE07CE",
-      "target": "Usar el <lower(<sheet(EventItem,2000571,9)>)> sobre la curiosa mata de hierba y matar al ochú"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_02",
-      "hash": "AFA4DBD754BD88D7",
-      "target": "Entregar la <lower(<sheet(EventItem,2000831,9)>)> a Rolfe Hawthorne"
-    }
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_00", "hash": "34FCFBC93799DDA4", "target": "Rolfe Hawthorne quiere compartir más conocimientos para ayudarte a ganarte la amistad de los silfos." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_01", "hash": "6A8BA3EA0FDC9A50", "target": "Rolfe te dice que no sería prudente presentarse ante los silfos sin un regalo apropiado, pero le cuesta recordar exactamente cuál debería ser ese regalo. Sin embargo, es posible que su esposa, Rosa, lo sepa. Habla con ella en el Panal Pleniflor para ver qué te cuenta." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_02", "hash": "03428D492454E0C8", "target": "Aunque no acaba de entender por qué, Rosa te informa de que, según dicen, a los silfos les encanta la <lower(<sheet(EventItem,2000831,9)>)>, que se obtiene de los ochús. Para encontrar uno de esos ochús, toma el <lower(<sheet(EventItem,2000571,9)>)> que te ha dado Rosa y viértelo sobre la curiosa mata de hierba del Jardín de la Miel. Una vez al descubierto, mata al ochú y reza por encontrar algo de <lower(<sheet(EventItem,2000831,9)>)> entre sus restos." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_03", "hash": "B1FBF429D2A332BD", "target": "Tus plegarias han sido atendidas y ya tienes la <lower(<sheet(EventItem,2000831,9)>)> en tu poder. Lleva tu premio a Rolfe, en la Cabaña de los Hawthorne, para asegurarte de que es en verdad una ofrenda adecuada para los silfos." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_SEQ_04", "hash": "149834D22ACC213D", "target": "Rolfe reconoce la <lower(<sheet(EventItem,2000831,9)>)> en cuanto se la muestras y está seguro de que los silfos agradecerán la ofrenda. Pero ten cuidado de no inhalar demasiados vapores antes de dársela a los silfos." },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_00", "hash": "573DACC5E6062946", "target": "Hablar con Rosa Hawthorne" },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_01", "hash": "5232F49E49AE07CE", "target": "Usar el <lower(<sheet(EventItem,2000571,9)>)> sobre la curiosa mata de hierba y matar al ochú" },
+    { "gameKey": "quest/007/GaiUsa004_00710#TEXT_GAIUSA004_00710_TODO_02", "hash": "AFA4DBD754BD88D7", "target": "Entregar la <lower(<sheet(EventItem,2000831,9)>)> a Rolfe Hawthorne" }
   ]
 }

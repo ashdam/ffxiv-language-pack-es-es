@@ -2,92 +2,24 @@
   "conversation": "quest/003/ClsExc200_00317",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_00",
-      "hash": "863B389A2ED21B9B",
-      "target": "El maestro del hacha Wyrnzoen requiere tu ayuda con un preocupante suceso."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_01",
-      "hash": "4D5611AF077EE1F8",
-      "target": "Wyrnzoen te informa de que Sighard, el muchacho cuyos padres mató Kujata, ha desaparecido. A la luz de tus experiencias anteriores, el maestro del hacha te ha designado para encontrar al díscolo chiquillo. Busca a Solkwyb en el Bismarck y decidid cómo proceder mejor con la búsqueda."
-    },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_00", "hash": "863B389A2ED21B9B", "target": "El maestro del hacha Wyrnzoen requiere tu ayuda con un preocupante suceso." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_01", "hash": "4D5611AF077EE1F8", "target": "Wyrnzoen te informa de que Sighard, el muchacho cuyos padres mató Kujata, ha desaparecido. A la luz de tus experiencias anteriores, el maestro del hacha te ha designado para encontrar al díscolo chiquillo. Busca a Solkwyb en el Bismarck y decidid cómo proceder mejor con la búsqueda." },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_02", "hash": "D17227CDCBA37EB4", "target": "Solkwyb sugiere que primero oigas los detalles de la desaparición de Sighard directamente del abuelo del muchacho. Dirígete a la Granja del Gallo Rojo, en Baja La Noscea, y habla con Neddard." },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_03",
-      "hash": "5837AF9514F81388",
-      "target": "Tras escuchar el relato de Neddard, te enteras de que es probable que Sighard haya huido hacia Puertocerveza en busca de Kujata. Habla con Solkwyb para planear tu siguiente paso."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_04",
-      "hash": "10FF0ECB9AF8CDC9",
-      "target": "Solkwyb menciona a un conocido de Puertocerveza que podría tener más información sobre el paradero de Sighard. Dirígete al asentamiento costero de la Noscea Occidental e interroga a Pfarstym, el guardia de la puerta."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_05",
-      "hash": "BD8689803F0FA308",
-      "target": "Pfarstym te dice que vio a un muchacho que coincidía con la descripción de Sighard dirigiéndose hacia el norte. Temiendo por la seguridad del niño, te insta a darte prisa antes de que una manada errante de depredadores encuentre a Sighard primero. Registra la zona en torno a Puertocerveza e intenta dar con el rastro del muchacho."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_06",
-      "hash": "4013833447EECF56",
-      "target": "Has logrado descubrir algunas pertenencias de Sighard, pero del muchacho no hay ni rastro. Alcanza a Solkwyb y comprueba si su búsqueda ha resultado más fructífera."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_07",
-      "hash": "6882DF4585AFA497",
-      "target": "Junto con Solkwyb, y la súbita llegada de Wyrnzoen, logras rescatar a Sighard de una feroz manada de chacales voraces. Vuelve a la Granja del Gallo Rojo y habla con Neddard, que aguarda."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_08",
-      "hash": "213DEC5E04534047",
-      "target": "Al oír tu relato del rescate, Neddard se disculpa por la temeraria conducta de su nieto. Parece que poco más puedes hacer por Sighard ahora salvo darle tiempo para reponerse de sus heridas. Vuelve al Gremio de Asaltantes y habla con Wyrnzoen sobre qué sería mejor que hicieras."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_09",
-      "hash": "A93C378D0DB7AC4D",
-      "target": "Wyrnzoen expresa comprensión por la impaciencia de Sighard, y te indica que vuelvas a tu entrenamiento. El maestro del hacha jura una vez más convertirte en un arma lo bastante letal para abatir incluso al poderoso Kujata.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 25."
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_00",
-      "hash": "1CBC6F0179A97463",
-      "target": "Hablar con Solkwyb"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_01",
-      "hash": "DBAC0393806BE9D2",
-      "target": "Hablar con Neddard en la Granja del Gallo Rojo"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_02",
-      "hash": "005C68EFF5D83D7D",
-      "target": "Hablar con Solkwyb"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_03",
-      "hash": "C043C5E114EFB1B0",
-      "target": "Hablar con Pfarstym en Puertocerveza"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_04",
-      "hash": "5F1FCDAC2F4EC39A",
-      "target": "Encontrar señales del paso de Sighard"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_05",
-      "hash": "C14F0B1A1A9E05FF",
-      "target": "Hablar con Solkwyb"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_06",
-      "hash": "9FDC50C75ADA36DC",
-      "target": "Hablar con Neddard en la Granja del Gallo Rojo"
-    },
-    {
-      "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_07",
-      "hash": "A288FA300CA7694A",
-      "target": "Hablar con Wyrnzoen en el Gremio de Asaltantes"
-    },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_03", "hash": "5837AF9514F81388", "target": "Tras escuchar el relato de Neddard, te enteras de que es probable que Sighard haya huido hacia Puertocerveza en busca de Kujata. Habla con Solkwyb para planear tu siguiente paso." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_04", "hash": "10FF0ECB9AF8CDC9", "target": "Solkwyb menciona a un conocido de Puertocerveza que podría tener más información sobre el paradero de Sighard. Dirígete al asentamiento costero de la Noscea Occidental e interroga a Pfarstym, el guardia de la puerta." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_05", "hash": "BD8689803F0FA308", "target": "Pfarstym te dice que vio a un muchacho que coincidía con la descripción de Sighard dirigiéndose hacia el norte. Temiendo por la seguridad del niño, te insta a darte prisa antes de que una manada errante de depredadores encuentre a Sighard primero. Registra la zona en torno a Puertocerveza e intenta dar con el rastro del muchacho." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_06", "hash": "4013833447EECF56", "target": "Has logrado descubrir algunas pertenencias de Sighard, pero del muchacho no hay ni rastro. Alcanza a Solkwyb y comprueba si su búsqueda ha resultado más fructífera." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_07", "hash": "6882DF4585AFA497", "target": "Junto con Solkwyb, y la súbita llegada de Wyrnzoen, logras rescatar a Sighard de una feroz manada de chacales voraces. Vuelve a la Granja del Gallo Rojo y habla con Neddard, que aguarda." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_08", "hash": "213DEC5E04534047", "target": "Al oír tu relato del rescate, Neddard se disculpa por la temeraria conducta de su nieto. Parece que poco más puedes hacer por Sighard ahora salvo darle tiempo para reponerse de sus heridas. Vuelve al Gremio de Asaltantes y habla con Wyrnzoen sobre qué sería mejor que hicieras." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_SEQ_09", "hash": "A93C378D0DB7AC4D", "target": "Wyrnzoen expresa comprensión por la impaciencia de Sighard, y te indica que vuelvas a tu entrenamiento. El maestro del hacha jura una vez más convertirte en un arma lo bastante letal para abatir incluso al poderoso Kujata.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 25." },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_00", "hash": "1CBC6F0179A97463", "target": "Hablar con Solkwyb" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_01", "hash": "DBAC0393806BE9D2", "target": "Hablar con Neddard en la Granja del Gallo Rojo" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_02", "hash": "005C68EFF5D83D7D", "target": "Hablar con Solkwyb" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_03", "hash": "C043C5E114EFB1B0", "target": "Hablar con Pfarstym en Puertocerveza" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_04", "hash": "5F1FCDAC2F4EC39A", "target": "Encontrar señales del paso de Sighard" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_05", "hash": "C14F0B1A1A9E05FF", "target": "Hablar con Solkwyb" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_06", "hash": "9FDC50C75ADA36DC", "target": "Hablar con Neddard en la Granja del Gallo Rojo" },
+    { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_TODO_07", "hash": "A288FA300CA7694A", "target": "Hablar con Wyrnzoen en el Gremio de Asaltantes" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_WYRNZOEN_000_0", "hash": "999BAFDC3B9B8E37", "target": "<split(<string(gstr1)>, ,1)>, hay problemas. ¿Recuerdas al muchacho cuyos padres fueron asesinados por la bestia Kujata?" },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_WYRNZOEN_000_1", "hash": "0482D4A0E720BAF3", "target": "El abuelo del muchacho, Neddard, nos contactó hace poco con noticias preocupantes: el joven Sighard ha desaparecido." },
     { "gameKey": "quest/003/ClsExc200_00317#TEXT_CLSEXC200_00317_WYRNZOEN_000_2", "hash": "44D25CB004381B42", "target": "Ha habido avistamientos de Kujata en la zona, y parece que el niño se sintió impulsado a ir en busca de la criatura." },

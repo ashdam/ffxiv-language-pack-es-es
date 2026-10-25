@@ -1,11 +1,15 @@
 {
+  "_comment": [
+    "Excepciones de nombres propios de BNpcName: terminology-npc-names exige la traducción acordada para cada gameKey. Ejemplo: Ramuh → Lamú.",
+    "No aplica traducciones ni determina el género: el texto debe estar también en corpus. Uso y formato: Tools/README.md, apartado terminology-npc-names."
+  ],
   "entries": [
     {"gameKey":"BNpcName#1403.0","en":"Titan-Egi","es-es":"Titán-Egi"},
     {"gameKey":"BNpcName#1403.2","en":"Titan-Egi","es-es":"Titán-Egi"},
     {"gameKey":"BNpcName#1801.0","en":"Titan","es-es":"Titán"},
     {"gameKey":"BNpcName#1801.2","en":"Titan","es-es":"Titán"},
-    {"gameKey":"BNpcName#2832.0","en":"Ramuh","es-es":"Lamú"},
-    {"gameKey":"BNpcName#2832.2","en":"Ramuh","es-es":"Lamú"},
+    {"gameKey":"BNpcName#2832.0","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
+    {"gameKey":"BNpcName#2832.2","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
     {"gameKey":"BNpcName#3046.0","en":"Typhon","es-es":"Tifón"},
     {"gameKey":"BNpcName#3046.2","en":"Typhon","es-es":"Tifón"},
     {"gameKey":"BNpcName#5174.0","en":"Alexander","es-es":"Alejandro"},
@@ -13,8 +17,8 @@
     {"gameKey":"BNpcName#8350.2","en":"Titan","es-es":"Titán"},
     {"gameKey":"BNpcName#9225.0","en":"Alexander","es-es":"Alejandro"},
     {"gameKey":"BNpcName#9225.2","en":"Alexander","es-es":"Alejandro"},
-    {"gameKey":"BNpcName#9281.0","en":"Ramuh","es-es":"Lamú"},
-    {"gameKey":"BNpcName#9281.2","en":"Ramuh","es-es":"Lamú"},
+    {"gameKey":"BNpcName#9281.0","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
+    {"gameKey":"BNpcName#9281.2","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
     {"gameKey":"BNpcName#10285.0","en":"Anima","es-es":"Ánima"},
     {"gameKey":"BNpcName#10285.2","en":"Anima","es-es":"Ánima"},
     {"gameKey":"BNpcName#10288.0","en":"Anima","es-es":"Ánima"},
@@ -69,6 +73,10 @@
     {"gameKey":"BNpcName#6120.0","en":"coeurl smriti","es-es":"bengal Smriti"},
     {"gameKey":"BNpcName#6120.2","en":"coeurl smriti","es-es":"bengales Smriti"},
     {"gameKey":"BNpcName#7160.0","en":"Number","es-es":"Número"},
-    {"gameKey":"BNpcName#7160.2","en":"Numbers","es-es":"Números"}
+    {"gameKey":"BNpcName#7160.2","en":"Numbers","es-es":"Números"},
+    {"gameKey":"BNpcName#2809.0","en":"Scylla","es-es":"Escila","note":"Nombre del personaje y del equipo asociado."},
+    {"gameKey":"BNpcName#2809.2","en":"Scylla","es-es":"Escila","note":"Nombre del personaje y del equipo asociado."},
+    {"gameKey":"BNpcName#3247.0","en":"Queen Scylla","es-es":"reina Escila","note":"Reina es un título común, en minúscula en prosa."},
+    {"gameKey":"BNpcName#3247.2","en":"Queen Scylla","es-es":"reina Escila","note":"Reina es un título común, en minúscula en prosa."}
   ]
 }

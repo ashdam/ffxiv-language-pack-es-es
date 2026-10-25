@@ -2,96 +2,24 @@
   "conversation": "quest/026/ClsCul680_02607",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_00",
-      "hash": "965CCDAD748F3AFF",
-      "target": "Raulf tiene la mirada avergonzada de un hombre a punto de pedir un enorme favor."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_01",
-      "hash": "4814A4ABA5B6EDDF",
-      "target": "Tras practicar hasta poder hacer udon a su gusto, Raulf tiene ahora la vista puesta en algo llamado <italic(1)>sushi<italic(0)>, que describe como pequeños montoncitos de arroz coronados con pescado crudo. Aunque suene sencillo, se dice que es un placer del más alto nivel y que es casi imposible de hacer sin formarse bajo un maestro como es debido en Hingashi. Como no puede abandonar su trabajo en el restaurante, Raulf te ruega que hagas el largo viaje en su lugar para aprender lo básico de la elaboración del sushi. Parte hacia el puerto hingano de Kugane y, al llegar, busca una posada llamada el Bokairo, donde se encuentra uno de los mejores chefs de sushi del reino."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_02",
-      "hash": "7D8F32427ECB9FBD",
-      "target": "En el Bokairo, Karaku te informa de que su chef de sushi, Shamoji, anda ahora mismo por el mar de Rubí reuniendo ingredientes. Como no hay forma de saber cuándo regresará, Karaku te sugiere que lo busques en las aguas cercanas a la isla de Bekko."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_03",
-      "hash": "121FCD83D15E2B78",
-      "target": "Llevando tu búsqueda bajo el mar, logras localizar al chef Shamoji. Por desgracia, el altivo Kojin se niega a considerarte como aprendiz, y te advierte de que no vuelvas a molestarlo. Sin embargo, habiendo llegado tan lejos, no estaría bien rendirse tan fácilmente. Sigue a Shamoji de vuelta al Bokairo y trata de convencerlo de que te dé una oportunidad."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_04",
-      "hash": "40446C60CCE45822",
-      "target": "Tu segundo intento de hablar con Shamoji empieza mal, pero por increíble suerte, Dellemont resulta estar en el Bokairo en ese preciso instante. Con su respaldo sin reservas a tus habilidades, Shamoji no puede sino acceder a tomarte como aprendiz. Las lecciones empiezan de inmediato, y en poco tiempo logras captar lo básico de la elaboración del sushi ante un Shamoji muy impresionado. Corre ahora de vuelta al Peaje del Aparecido y comparte tus conocimientos con Raulf."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_05",
-      "hash": "2433ED1DFD3CA29A",
-      "target": "De vuelta en el Peaje del Aparecido, compartes con un ansioso Raulf todo lo que has aprendido sobre la elaboración del sushi. Sin perder tiempo, empieza a preparar el plato para los domanos del lugar, Anzu y su padre incluidos, y te pide que aportes un plato al esfuerzo. Haz el nigiri-zushi con los ingredientes que te han dado y preséntaselo a Raulf.<br><br>※En caso de que pierdas los ingredientes o la elaboración fracase, puedes volver a intentarlo hablando con Popin."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_06",
-      "hash": "39793531135E67C8",
-      "target": "Entregas tu plato de <lower(<sheet(Item,17938,9)>)> a Raulf, que ha logrado terminar sus propias raciones. Sigue a Raulf hasta la zona de comedor de la terraza y prepárate para recibir a tus comensales."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_07",
-      "hash": "5EDCC028D78C9326",
-      "target": "Unzan primero arruga la nariz ante el nigiri-zushi hecho en Eorzea, pero a instancias de su hija cede y le da una oportunidad. Aunque con reparos, elogia tu labor. Y aunque el de Raulf queda muy lejos de impresionar, se reconoce su sincero esfuerzo, y él se atreve a esperar que Unzan por fin apruebe lo suyo con Anzu. Por desgracia, sus esperanzas se ven pronto aplastadas, pues Unzan revela el verdadero motivo de su rechazo a Raulf: su sangre alamhigana. La suya es la orgullosa sangre de Yanxia, explica Unzan, y solo un hombre de linaje igual de puro es digno de su hija. Abatido, Raulf decide volver a ser aventurero y se aleja mientras Anzu lo observa consternada. Con su padre y su prometido ya idos, te toca a ti acercarte a ella en este difícil momento."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_08",
-      "hash": "1C16BEED4F8F4905",
-      "target": "Al principio muda de incredulidad, Anzu opta por confiar en Raulf, diciendo que él debe de tener sus razones para su decisión. Te implora que sigas prestándole tu ayuda y te dirige a la cocina, donde es probable que esté."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_09",
-      "hash": "76B2D83550888DD6",
-      "target": "Aunque encuentras a Raulf vestido con su atuendo de aventurero, declara que no ha renunciado a Anzu. La afirmación de su padre de que la cocina del Lejano Oriente debe su grandeza a su pureza le ronda la mente, y necesita tiempo para meditarla. Las probabilidades son ciertamente escasas, pero Raulf cree que hay una posibilidad de hacer que Unzan reconsidere su postura. Sea lo que sea lo que planee tu amigo, mantente disponible para ayudarlo si surge la necesidad.<br><br>※La próxima misión de cocinero estará disponible con Raulf al alcanzar el nivel 70."
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_00",
-      "hash": "9ED28585866A1D44",
-      "target": "Hablar con Karaku en Kugane"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_01",
-      "hash": "0E205C42A01A7D24",
-      "target": "Buscar a Shamoji en el mar de Rubí"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_02",
-      "hash": "8C6BA0D887CCB824",
-      "target": "Hablar con Shamoji en Kugane"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_03",
-      "hash": "576CFEB9132D530D",
-      "target": "Hablar con Raulf en el Peaje del Aparecido"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_04",
-      "hash": "12E919345434E4CD",
-      "target": "<if([lnum1<lnum2],Sintetizar un plato de <lower(<sheet(Item,17938,9)>)> <sheet(Addon,9,0)>,Entregar el nigiri-zushi <sheet(Addon,9,0)> a Raulf)>"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_05",
-      "hash": "C7DAF8250A07C5D5",
-      "target": "Hablar con Raulf"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_06",
-      "hash": "66E17402D664F916",
-      "target": "Hablar con Anzu"
-    },
-    {
-      "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_07",
-      "hash": "103009B17D101CCE",
-      "target": "Hablar con Raulf"
-    },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_00", "hash": "965CCDAD748F3AFF", "target": "Raulf tiene la mirada avergonzada de un hombre a punto de pedir un enorme favor." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_01", "hash": "4814A4ABA5B6EDDF", "target": "Tras practicar hasta poder hacer udon a su gusto, Raulf tiene ahora la vista puesta en algo llamado <italic(1)>sushi<italic(0)>, que describe como pequeños montoncitos de arroz coronados con pescado crudo. Aunque suene sencillo, se dice que es un placer del más alto nivel y que es casi imposible de hacer sin formarse bajo un maestro como es debido en Hingashi. Como no puede abandonar su trabajo en el restaurante, Raulf te ruega que hagas el largo viaje en su lugar para aprender lo básico de la elaboración del sushi. Parte hacia el puerto hingano de Kugane y, al llegar, busca una posada llamada el Bokairo, donde se encuentra uno de los mejores chefs de sushi del reino." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_02", "hash": "7D8F32427ECB9FBD", "target": "En el Bokairo, Karaku te informa de que su chef de sushi, Shamoji, anda ahora mismo por el mar de Rubí reuniendo ingredientes. Como no hay forma de saber cuándo regresará, Karaku te sugiere que lo busques en las aguas cercanas a la isla de Bekko." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_03", "hash": "121FCD83D15E2B78", "target": "Llevando tu búsqueda bajo el mar, logras localizar al chef Shamoji. Por desgracia, el altivo Kojin se niega a considerarte como aprendiz, y te advierte de que no vuelvas a molestarlo. Sin embargo, habiendo llegado tan lejos, no estaría bien rendirse tan fácilmente. Sigue a Shamoji de vuelta al Bokairo y trata de convencerlo de que te dé una oportunidad." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_04", "hash": "40446C60CCE45822", "target": "Tu segundo intento de hablar con Shamoji empieza mal, pero por increíble suerte, Dellemont resulta estar en el Bokairo en ese preciso instante. Con su respaldo sin reservas a tus habilidades, Shamoji no puede sino acceder a tomarte como aprendiz. Las lecciones empiezan de inmediato, y en poco tiempo logras captar lo básico de la elaboración del sushi ante un Shamoji muy impresionado. Corre ahora de vuelta al Peaje del Aparecido y comparte tus conocimientos con Raulf." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_05", "hash": "2433ED1DFD3CA29A", "target": "De vuelta en el Peaje del Aparecido, compartes con un ansioso Raulf todo lo que has aprendido sobre la elaboración del sushi. Sin perder tiempo, empieza a preparar el plato para los domanos del lugar, Anzu y su padre incluidos, y te pide que aportes un plato al esfuerzo. Haz el nigiri-zushi con los ingredientes que te han dado y preséntaselo a Raulf.<br><br>※En caso de que pierdas los ingredientes o la elaboración fracase, puedes volver a intentarlo hablando con Popin." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_06", "hash": "39793531135E67C8", "target": "Entregas tu plato de <lower(<sheet(Item,17938,9)>)> a Raulf, que ha logrado terminar sus propias raciones. Sigue a Raulf hasta la zona de comedor de la terraza y prepárate para recibir a tus comensales." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_07", "hash": "5EDCC028D78C9326", "target": "Unzan primero arruga la nariz ante el nigiri-zushi hecho en Eorzea, pero a instancias de su hija cede y le da una oportunidad. Aunque con reparos, elogia tu labor. Y aunque el de Raulf queda muy lejos de impresionar, se reconoce su sincero esfuerzo, y él se atreve a esperar que Unzan por fin apruebe lo suyo con Anzu. Por desgracia, sus esperanzas se ven pronto aplastadas, pues Unzan revela el verdadero motivo de su rechazo a Raulf: su sangre alamhigana. La suya es la orgullosa sangre de Yanxia, explica Unzan, y solo un hombre de linaje igual de puro es digno de su hija. Abatido, Raulf decide volver a ser aventurero y se aleja mientras Anzu lo observa consternada. Con su padre y su prometido ya idos, te toca a ti acercarte a ella en este difícil momento." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_08", "hash": "1C16BEED4F8F4905", "target": "Al principio muda de incredulidad, Anzu opta por confiar en Raulf, diciendo que él debe de tener sus razones para su decisión. Te implora que sigas prestándole tu ayuda y te dirige a la cocina, donde es probable que esté." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_SEQ_09", "hash": "76B2D83550888DD6", "target": "Aunque encuentras a Raulf vestido con su atuendo de aventurero, declara que no ha renunciado a Anzu. La afirmación de su padre de que la cocina del Lejano Oriente debe su grandeza a su pureza le ronda la mente, y necesita tiempo para meditarla. Las probabilidades son ciertamente escasas, pero Raulf cree que hay una posibilidad de hacer que Unzan reconsidere su postura. Sea lo que sea lo que planee tu amigo, mantente disponible para ayudarlo si surge la necesidad.<br><br>※La próxima misión de cocinero estará disponible con Raulf al alcanzar el nivel 70." },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_00", "hash": "9ED28585866A1D44", "target": "Hablar con Karaku en Kugane" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_01", "hash": "0E205C42A01A7D24", "target": "Buscar a Shamoji en el mar de Rubí" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_02", "hash": "8C6BA0D887CCB824", "target": "Hablar con Shamoji en Kugane" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_03", "hash": "576CFEB9132D530D", "target": "Hablar con Raulf en el Peaje del Aparecido" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_04", "hash": "12E919345434E4CD", "target": "<if([lnum1<lnum2],Sintetizar un plato de <lower(<sheet(Item,17938,9)>)> <sheet(Addon,9,0)>,Entregar el nigiri-zushi <sheet(Addon,9,0)> a Raulf)>" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_05", "hash": "C7DAF8250A07C5D5", "target": "Hablar con Raulf" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_06", "hash": "66E17402D664F916", "target": "Hablar con Anzu" },
+    { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_TODO_07", "hash": "103009B17D101CCE", "target": "Hablar con Raulf" },
     { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_RAULF_000_000", "hash": "F62BEF1850963101", "target": "<split(<string(gstr1)>, ,1)>, me alegra volver a verle. Después de que Unzan hiciera trizas mis fideos, volví a practicar hasta que conseguí darles el «cuerpo» que, según él, les faltaba." },
     { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_RAULF_000_001", "hash": "700FDC9200E6964E", "target": "En cuanto al caldo, lo hice una y otra vez hasta poder crear algo a su altura, y de forma fiable. Con estas dos cosas perfeccionadas —según mi criterio, al menos—, ahora ofrezco udon en nuestra carta." },
     { "gameKey": "quest/026/ClsCul680_02607#TEXT_CLSCUL680_02607_RAULF_000_002", "hash": "10BEE5B400B23B9D", "target": "Fue mucho trabajo, pero mereció la pena, ¡pues el plato está teniendo éxito no solo entre los domanos, sino también entre los aventureros!" },

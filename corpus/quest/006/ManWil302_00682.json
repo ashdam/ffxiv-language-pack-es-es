@@ -73,50 +73,14 @@
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMELT_BATTLETALK_DEAD", "hash": "E24A5E1DB89561E3", "target": "Seguid luchando, maldita sea... No... dejéis que..." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_FLAMEPRIFIRST_BATTLETALK_DEAD", "hash": "00626C3E05741943", "target": "S-señor... no creo que pueda..." },
     { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_QIB_GC_C_BATTLETALK_DEAD", "hash": "533AF81206CEF8D0", "target": "¡Ahora no! Así no..." },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_00",
-      "hash": "ECA95BBB6245BE70",
-      "target": "El oficial de reclutamiento de las Llamas Inmortales parece deseoso de darte la bienvenida a la Gran Compañía de Ul'dah."
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_01",
-      "hash": "4178021C01BC42C9",
-      "target": "Has confirmado tu intención de unirte a las filas de las Llamas Inmortales. Visita la Sala de las Llamas en Ul'dah y habla con el oficial de personal para incorporarte formalmente a la Gran Compañía."
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_02",
-      "hash": "11AF6C2AD6438DEB",
-      "target": "Tu incorporación formal a las Llamas Inmortales se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Rutas Aéreas Highwind. Dirígete a la Linde de Horizonte y averigua la suerte de la maltrecha nave y su tripulación."
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_03",
-      "hash": "6755173210CB7B49",
-      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve a la Sala de las Llamas e informa al oficial de personal."
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_04",
-      "hash": "3CCE5027755F848E",
-      "target": "De vuelta en la Sala de las Llamas, el oficial de personal elogia tus esfuerzos y te asegura que los dos ingenieros que encontraste pudieron seguir su camino. Después expresa su deseo de completar tu incorporación a las filas de las Llamas Inmortales. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para atender las formalidades."
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_00",
-      "hash": "72C0706EC26409A7",
-      "target": "Hablar con el oficial de personal en la Sala de las Llamas"
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_01",
-      "hash": "E1A0D402F26159C3",
-      "target": "Ir a la Linde de Horizonte y averiguar la suerte de la aeronave y su tripulación"
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_02",
-      "hash": "DB76AC594C7A1925",
-      "target": "Hablar con el oficial de personal en la Sala de las Llamas"
-    },
-    {
-      "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_QIB_TODO_001",
-      "hash": "5AC0722000D30CCB",
-      "target": "¡Derrota a los soldados imperiales!"
-    }
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_00", "hash": "ECA95BBB6245BE70", "target": "El oficial de reclutamiento de las Llamas Inmortales parece deseoso de darte la bienvenida a la Gran Compañía de Ul'dah." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_01", "hash": "4178021C01BC42C9", "target": "Has confirmado tu intención de unirte a las filas de las Llamas Inmortales. Visita la Sala de las Llamas en Ul'dah y habla con el oficial de personal para incorporarte formalmente a la Gran Compañía." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_02", "hash": "11AF6C2AD6438DEB", "target": "Tu incorporación formal a las Llamas Inmortales se ve interrumpida por un informe urgente sobre un ataque imperial a una aeronave de Rutas Aéreas Highwind. Dirígete a la Linde de Horizonte y averigua la suerte de la maltrecha nave y su tripulación." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_03", "hash": "6755173210CB7B49", "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve a la Sala de las Llamas e informa al oficial de personal." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_SEQ_04", "hash": "3CCE5027755F848E", "target": "De vuelta en la Sala de las Llamas, el oficial de personal elogia tus esfuerzos y te asegura que los dos ingenieros que encontraste pudieron seguir su camino. Después expresa su deseo de completar tu incorporación a las filas de las Llamas Inmortales. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para atender las formalidades." },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_00", "hash": "72C0706EC26409A7", "target": "Hablar con el oficial de personal en la Sala de las Llamas" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_01", "hash": "E1A0D402F26159C3", "target": "Ir a la Linde de Horizonte y averiguar la suerte de la aeronave y su tripulación" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_TODO_02", "hash": "DB76AC594C7A1925", "target": "Hablar con el oficial de personal en la Sala de las Llamas" },
+    { "gameKey": "quest/006/ManWil302_00682#TEXT_MANWIL302_00682_QIB_TODO_001", "hash": "5AC0722000D30CCB", "target": "¡Derrota a los soldados imperiales!" }
   ]
 }

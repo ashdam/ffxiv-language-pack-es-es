@@ -2,26 +2,10 @@
   "conversation": "quest/011/ClsFsh011_01107",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_00",
-      "hash": "1ECE2D6795C5608F",
-      "target": "N'nmulika quiere que reafirmes tu deseo de unirte al Gremio de Pescadores."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_01",
-      "hash": "A729B076F4427F75",
-      "target": "N'nmulika te ha informado de que todo aspirante a miembro del gremio debe contar primero con la aprobación de Sisipu, la maestra del gremio en funciones. Búscala y escucha lo que tenga que decir."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_02",
-      "hash": "0158A62EF1213C8E",
-      "target": "Sisipu te concede alegremente la entrada en las filas del Gremio de Pescadores, y se ofrece a ponerte al día sobre los fundamentos de la pesca. Empuña tu caña de pescar y habla de nuevo con Sisipu."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_TODO_00",
-      "hash": "A4B59A37C6C98A65",
-      "target": "Hablar con Sisipu"
-    },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_00", "hash": "1ECE2D6795C5608F", "target": "N'nmulika quiere que reafirmes tu deseo de unirte al Gremio de Pescadores." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_01", "hash": "A729B076F4427F75", "target": "N'nmulika te ha informado de que todo aspirante a miembro del gremio debe contar primero con la aprobación de Sisipu, la maestra del gremio en funciones. Búscala y escucha lo que tenga que decir." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SEQ_02", "hash": "0158A62EF1213C8E", "target": "Sisipu te concede alegremente la entrada en las filas del Gremio de Pescadores, y se ofrece a ponerte al día sobre los fundamentos de la pesca. Empuña tu caña de pescar y habla de nuevo con Sisipu." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_TODO_00", "hash": "A4B59A37C6C98A65", "target": "Hablar con Sisipu" },
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_000", "hash": "23ACA15C5B9DA2A6", "target": "Me dolería oír que has cambiado de idea. No lo has hecho, ¿verrrdad?" },
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_010", "hash": "39D55DCE03D1025D", "target": "Lo entiendo: la intensa embriaguez de pasar horas contemplando el mar abierto no se le hace evidente a todo el mundo al instante." },
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_NNMULIKA_000_011", "hash": "0DEBD0E8205FEA05", "target": "Bueno, puedes ir persiguiendo cascadas, pero cuando estés listo para quedarte en los ríos y los lagos de siempre, ya sabes dónde encontrarnos." },
@@ -43,20 +27,8 @@
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_052", "hash": "38E5BC940B4382D5", "target": "Aun así, va a necesitar esa caña y esa plegaria, de modo que al menos puedo proporcionarle la primera. Tenga. Uno de dos no está mal. Le añadiré incluso estos gusanos de arena, que no llegará muy lejos sin cebo." },
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_053", "hash": "7517C07D3033768B", "target": "Las cañas que otorgamos a nuestros nuevos peces son objetos de valor incalculable; es decir, que no cuestan nada. Cuando sepa lo que hace, seguramente querrá una como es debido." },
     { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SISIPU_000_054", "hash": "21B971CF3BBC773E", "target": "Pero, entretanto, veamos si averigua cómo sostener la caña. Equípese la que le he dado y podrán comenzar sus lecciones." },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_060",
-      "hash": "69E2AF455B630BCA",
-      "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipándote la herramienta recibida en esta misión."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_061",
-      "hash": "BFF2449894087610",
-      "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permitirán registrar y guardar tu equipo, y cambiar de clase al instante sin equipar nada a mano."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_062",
-      "hash": "817DAE3BB5F1CCC1",
-      "target": "El botón de la interfaz de conjuntos de equipo se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>."
-    }
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_060", "hash": "69E2AF455B630BCA", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a esta clase en cualquier momento equipándote la herramienta recibida en esta misión." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_061", "hash": "BFF2449894087610", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permitirán registrar y guardar tu equipo, y cambiar de clase al instante sin equipar nada a mano." },
+    { "gameKey": "quest/011/ClsFsh011_01107#TEXT_CLSFSH011_01107_SYSTEM_000_062", "hash": "817DAE3BB5F1CCC1", "target": "El botón de la interfaz de conjuntos de equipo se encuentra en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
   ]
 }

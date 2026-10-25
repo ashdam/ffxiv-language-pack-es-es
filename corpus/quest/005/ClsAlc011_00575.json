@@ -2,26 +2,10 @@
   "conversation": "quest/005/ClsAlc011_00575",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_00",
-      "hash": "CE75FA73469C7E8E",
-      "target": "Deitrich quiere confirmar tu deseo de unirte al Gremio de Alquimistas."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_01",
-      "hash": "A8F478D801B1FCBB",
-      "target": "Para la última fase de tu inscripción, debes obtener la aprobación del maestro del gremio. Acércate a Severian, que trabaja sin descanso en su mesa de trabajo dentro del Gremio de Alquimistas."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_02",
-      "hash": "719DE30F60B30339",
-      "target": "Severian ha aprobado tu iniciación en el Gremio de Alquimistas. Equípate el <ennoun(Item,3,2467,1,1)> y habla de nuevo con el maestro del gremio."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_TODO_00",
-      "hash": "E6498298A9146908",
-      "target": "Hablar con el maestro del gremio Severian"
-    },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_00", "hash": "CE75FA73469C7E8E", "target": "Deitrich quiere confirmar tu deseo de unirte al Gremio de Alquimistas." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_01", "hash": "A8F478D801B1FCBB", "target": "Para la última fase de tu inscripción, debes obtener la aprobación del maestro del gremio. Acércate a Severian, que trabaja sin descanso en su mesa de trabajo dentro del Gremio de Alquimistas." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEQ_02", "hash": "719DE30F60B30339", "target": "Severian ha aprobado tu iniciación en el Gremio de Alquimistas. Equípate el <ennoun(Item,3,2467,1,1)> y habla de nuevo con el maestro del gremio." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_TODO_00", "hash": "E6498298A9146908", "target": "Hablar con el maestro del gremio Severian" },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_DEITRICH_000", "hash": "FF9097F73430F114", "target": "¿Ha tomado ya una decisión? ¿Está listo para deleitarse en las artes de la alquimia y asumir las responsabilidades que conlleva su ingreso?" },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_DEITRICH_010", "hash": "9430839BA176D532", "target": "Lo comprendo: la idea de sumergirse en los mares insondables de las posibilidades alquímicas debe de resultar intimidante. Tómese su tiempo para meditarlo." },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_DEITRICH_020", "hash": "D669ADA72316DC15", "target": "Excelente. Permítame entonces indicarle el camino hasta nuestro maestro del gremio. Obtener su aprobación es la última prueba que debe superar antes de convertirse en miembro de pleno derecho del gremio." },
@@ -38,20 +22,8 @@
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEVERIAN_022", "hash": "3FF0B955EA29F800", "target": "Pero espera. Mmm, quizá pueda... Sí, sí, puede que seas el <italic(1)>ayudante<italic(0)> que necesito." },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEVERIAN_023", "hash": "702A11B4C4477687", "target": "He cambiado de parecer. Enhorabuena, apruebo tu solicitud de ingreso en el gremio. ¡Es un enorme placer dar la bienvenida al redil a un compañero buscador de conocimiento!" },
     { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SEVERIAN_024", "hash": "6EAB8084C1AD3DA4", "target": "Podemos prescindir de la interminable ceremonia de iniciación, ¿verdad? Aquí tienes tu primer alambique. Procura no dejarlo caer, que hay mucho trabajo por hacer. ¡Sí, mucho trabajo!" },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_030",
-      "hash": "156462665A54B93E",
-      "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a ella en cualquier momento equipando la herramienta que has recibido en esta misión."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_031",
-      "hash": "DC75512C31046C4E",
-      "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Después podrás alternar entre clases al instante, sin tener que equipar armas o piezas manualmente."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_032",
-      "hash": "75FE17013D6A8517",
-      "target": "El botón de la interfaz de conjuntos de equipo está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>."
-    }
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_030", "hash": "156462665A54B93E", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a ella en cualquier momento equipando la herramienta que has recibido en esta misión." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_031", "hash": "DC75512C31046C4E", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Después podrás alternar entre clases al instante, sin tener que equipar armas o piezas manualmente." },
+    { "gameKey": "quest/005/ClsAlc011_00575#TEXT_CLSALC011_00575_SYSTEM_032", "hash": "75FE17013D6A8517", "target": "El botón de la interfaz de conjuntos de equipo está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
   ]
 }

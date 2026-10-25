@@ -2,26 +2,10 @@
   "conversation": "quest/011/ClsFsh251_01113",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_00",
-      "hash": "DBEBE71E99203E59",
-      "target": "Sisipu quiere que aprendas una nueva técnica."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_01",
-      "hash": "18CAF7DB3F02C651",
-      "target": "Usando la técnica que la maestra del gremio en funciones ha bautizado como “pezciclaje” (más conocida como mooching), debes usar una <ennoun(Item,3,2588,1,1)> para pescar un <ennoun(Item,3,4927,1,1)>, y luego relanzar el gobio para pescar un <ennoun(Item,3,4963,1,1)>. Estos peces pueden encontrarse en las aguas que rodean la Balsa de la Calabaza, en el Bosque del Norte."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_02",
-      "hash": "23CCF68610491D0F",
-      "target": "Sisipu expresa su gratitud por el <ennoun(Item,3,4963,1,1)> y parece sinceramente impresionada por lo lejos que has llegado en el terreno de la pesca.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 30."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_TODO_00",
-      "hash": "4A4E642FACAE6483",
-      "target": "Entregar un <ennoun(Item,3,4963,1,1)> a Sisipu"
-    },
+    { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_00", "hash": "DBEBE71E99203E59", "target": "Sisipu quiere que aprendas una nueva técnica." },
+    { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_01", "hash": "18CAF7DB3F02C651", "target": "Usando la técnica que la maestra del gremio en funciones ha bautizado como “pezciclaje” (más conocida como mooching), debes usar una <ennoun(Item,3,2588,1,1)> para pescar un <ennoun(Item,3,4927,1,1)>, y luego relanzar el gobio para pescar un <ennoun(Item,3,4963,1,1)>. Estos peces pueden encontrarse en las aguas que rodean la Balsa de la Calabaza, en el Bosque del Norte." },
+    { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SEQ_02", "hash": "23CCF68610491D0F", "target": "Sisipu expresa su gratitud por el <ennoun(Item,3,4963,1,1)> y parece sinceramente impresionada por lo lejos que has llegado en el terreno de la pesca.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 30." },
+    { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_TODO_00", "hash": "4A4E642FACAE6483", "target": "Entregar un <ennoun(Item,3,4963,1,1)> a Sisipu" },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_000", "hash": "5367205389528F3C", "target": "Conoce el Gremio de Cocineros, ¿verdad, <split(<string(gstr1)>, ,1)>? Por si no lo delataba su altivo nombre, sus miembros son gente quisquillosa, sobre todo el puntilloso maestro Lyngsath." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_001", "hash": "4B7F4B9CA1500D76", "target": "Así que cuando viene a pedir <ennoun(Item,3,4963,1,1)>, ningún otro pez le sirve, por más que le explique con amabilidad que pescar uno implica un arduo viaje hasta la Balsa de la Calabaza seguido de un trabajo agotador. Naturalmente, pensé en usted para la tarea." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_002", "hash": "9E63FBAF3A9A3B36", "target": "Esto probablemente requiera algo de «pezciclaje», si sabe a qué me refiero, aunque imagino que no, pues acabo de inventar esa palabra. Consiste en relanzar un pez recién pescado como cebo para pescar otro aún mayor." },
@@ -30,11 +14,7 @@
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_005", "hash": "96DDA074C6870B66", "target": "Simplemente use <ennoun(Item,3,2588,2,1)> para pescar un <ennoun(Item,3,4927,1,1)>, y luego relance ese para pescar el <ennoun(Item,3,4963,1,1)>." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_006", "hash": "E7687AAB054C3839", "target": "Créame a mí, la inventora del «pezciclaje»: como el <ennoun(Item,3,4927,1,1)> será su señuelo, conviene pescar el más grande y reluciente que encuentre." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_007", "hash": "6DD11F3171DB1AB0", "target": "Le espera un largo viaje, y me temo que el gremio no será lo mismo en su ausencia. No obstante, prefiero verlo no como perder a un amigo, sino como ganar un <ennoun(Item,3,4963,1,1)>. ¡Buena suerte!" },
-    {
-      "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SYSTEM_000_008",
-      "hash": "863063BCECCEF9DF",
-      "target": "El pezciclaje, o <colortype(500)><edgecolortype(501)>Pesca con cebo vivo<edgecolortype(0)><colortype(0)> como se le conoce más comúnmente, consiste en pescar un pez grande y luego relanzar el sedal con el pez aún enganchado para intentar cobrar una presa aún mayor. Un valor alto de <colortype(500)><edgecolortype(501)>Percepción<edgecolortype(0)><colortype(0)> aumentará tus posibilidades de pescar peces de gran tamaño."
-    },
+    { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SYSTEM_000_008", "hash": "863063BCECCEF9DF", "target": "El pezciclaje, o <colortype(500)><edgecolortype(501)>Pesca con cebo vivo<edgecolortype(0)><colortype(0)> como se le conoce más comúnmente, consiste en pescar un pez grande y luego relanzar el sedal con el pez aún enganchado para intentar cobrar una presa aún mayor. Un valor alto de <colortype(500)><edgecolortype(501)>Percepción<edgecolortype(0)><colortype(0)> aumentará tus posibilidades de pescar peces de gran tamaño." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_010", "hash": "7A58964270487D2C", "target": "Encontrará el bagre que busca en la Balsa de la Calabaza, en el Bosque del Norte. Quizá sea algo presuntuoso decir que <italic(1)>encontrará<italic(0)> uno, pero ahí es donde están, en todo caso." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_011", "hash": "B250A4497B8577D7", "target": "A Lyngsath debería escapársele una sonrisa cuando vislumbre esta preciosidad." },
     { "gameKey": "quest/011/ClsFsh251_01113#TEXT_CLSFSH251_01113_SISIPU_000_012", "hash": "AABBF48EC8800C73", "target": "Dicen que a pez regalado no le mires el diente, pero es imposible no quedarse mirando esa mueca abierta: ¡parece que podría tragarse a una persona entera!" },

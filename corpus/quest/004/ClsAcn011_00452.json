@@ -2,26 +2,10 @@
   "conversation": "quest/004/ClsAcn011_00452",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_00",
-      "hash": "C06B1F02562B5EAA",
-      "target": "Murie quiere confirmar tu deseo de unirte al Gremio de Arcanistas."
-    },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_01",
-      "hash": "7ACB35D21AE4C6A1",
-      "target": "Aunque lo habitual es presentarse ante el maestro del gremio, Murie te explica que el líder de los arcanistas no está disponible por ahora. En su lugar, debes hablar con la maestra del gremio en funciones, Thubyrgeim."
-    },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_02",
-      "hash": "392870DFFB6BF93D",
-      "target": "Tras presentarte ante Thubyrgeim y declararle tu intención de unirte al Gremio de Arcanistas, la erudita Roegadyn te entrega un <ennoun(Item,3,2142,1,1)>. Toma el tomo arcano y ponte bajo la tutela de Thubyrgeim."
-    },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_TODO_00",
-      "hash": "49E5FB7D3C5C1DB6",
-      "target": "Hablar con Thubyrgeim"
-    },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_00", "hash": "C06B1F02562B5EAA", "target": "Murie quiere confirmar tu deseo de unirte al Gremio de Arcanistas." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_01", "hash": "7ACB35D21AE4C6A1", "target": "Aunque lo habitual es presentarse ante el maestro del gremio, Murie te explica que el líder de los arcanistas no está disponible por ahora. En su lugar, debes hablar con la maestra del gremio en funciones, Thubyrgeim." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SEQ_02", "hash": "392870DFFB6BF93D", "target": "Tras presentarte ante Thubyrgeim y declararle tu intención de unirte al Gremio de Arcanistas, la erudita Roegadyn te entrega un <ennoun(Item,3,2142,1,1)>. Toma el tomo arcano y ponte bajo la tutela de Thubyrgeim." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_TODO_00", "hash": "49E5FB7D3C5C1DB6", "target": "Hablar con Thubyrgeim" },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_000", "hash": "332A0B35284A0E4D", "target": "¿Y bien? ¿Has decidido inscribirte en nuestro gremio? ¿O acaso te intimida ahora la idea de pensar en exceso?" },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_005", "hash": "A016C90EADD71107", "target": "Por supuesto, eres libre de meditar tu decisión durante todo el tiempo que quieras. Aquí estaré esperando, por si eliges abrazar una vida de esfuerzo académico." },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_MURIE_000_010", "hash": "465132EBD1EAF8DB", "target": "Tu buen juicio es digno de elogio. Ahora bien, lo habitual sería que te presentara a nuestro maestro del gremio para que le comunicaras tus intenciones en persona..." },
@@ -37,20 +21,8 @@
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_A1_000_002", "hash": "2A96F47488041CF6", "target": "No" },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_030", "hash": "B04B9D3A4CDB585D", "target": "Ya veo. Aunque te felicito por llegar a esa conclusión <italic(1)>antes<italic(0)> de unirte al gremio, debo admitir cierta decepción. Si cambiaras de parecer, no dudes en buscarme de nuevo." },
     { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_THUBYRGEIM_000_035", "hash": "BA044E9B110A1ACD", "target": "Una respuesta inequívoca; de las que más me gustan. Veamos ahora si la claridad de tus palabras se corresponde con la agudeza de tu mente. Toma, empuña este grimorio, y a continuación pondremos a prueba tu aptitud para nuestra disciplina." },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_040",
-      "hash": "92306ACD6CE943D7",
-      "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a ella en cualquier momento equipando el arma que has recibido en esta misión."
-    },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_041",
-      "hash": "D210186ABB9CEFCA",
-      "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Después podrás alternar entre clases al instante, sin tener que equipar armas o piezas manualmente."
-    },
-    {
-      "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_042",
-      "hash": "43297C29AF42C072",
-      "target": "El botón de la interfaz de conjuntos de equipo está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>."
-    }
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_040", "hash": "92306ACD6CE943D7", "target": "¡Has desbloqueado una nueva clase! Puedes cambiar a ella en cualquier momento equipando el arma que has recibido en esta misión." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_041", "hash": "D210186ABB9CEFCA", "target": "Al cambiar de clase, los <colortype(500)><edgecolortype(501)>conjuntos de equipo<edgecolortype(0)><colortype(0)> te permiten registrar y guardar tu equipo. Después podrás alternar entre clases al instante, sin tener que equipar armas o piezas manualmente." },
+    { "gameKey": "quest/004/ClsAcn011_00452#TEXT_CLSACN011_00452_SYSTEM_000_042", "hash": "43297C29AF42C072", "target": "El botón de la interfaz de conjuntos de equipo está en la parte superior de la ventana <colortype(500)><edgecolortype(501)>Personaje<edgecolortype(0)><colortype(0)>." }
   ]
 }

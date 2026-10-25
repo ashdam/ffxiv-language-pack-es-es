@@ -30,55 +30,15 @@
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_KOMUXIO_000_108", "hash": "6709B0434A222F6E", "target": "Las razones de este no son asunto de los caminantes. El anciano no tiene palabras para Gridania. Los caminantes hacen perder el tiempo a todos." },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_YDA_000_109", "hash": "36CC6604A5604344", "target": "¡Habrase visto! ¡Rechazados en la puerta! ¿Qué hemos hecho para merecer un recibimiento tan grosero? ¿Es que el baile de <split(<string(gstr1)>, ,1)> no fue lo bastante bailongo?" },
     { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_PAPALYMO_000_110", "hash": "BA797D788B2CFCD8", "target": "Estoy tan perplejo como tú, pero algo me dice que ciertos sucesos recientes tienen a nuestros otrora aleteantes amigos inusualmente recelosos. Parece que no nos queda más remedio que preguntar por ahí y ver cómo ganarnos su confianza." },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_00",
-      "hash": "803C0D3064506888",
-      "target": "Rolfe Hawthorne ha envuelto tu ofrenda para preparar tu viaje al territorio de los silfos."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_01",
-      "hash": "9C1DED007AD11773",
-      "target": "Rolfe ha tenido la amabilidad de envolver la raíz lechosa para los silfos y te desea suerte en tu labor de emisari<if(gnum4,a,o)>. Antes de que te marches, sin embargo, te pide que hables con Amelain."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_02",
-      "hash": "676AA83C50E69DF9",
-      "target": "Amelain te ha confiado una misiva escrita por la mismísima gran vidente. Entrégala sana y salva a Komuxio, en el Pequeño Solaz."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_03",
-      "hash": "BE0E9D99686AD8D6",
-      "target": "Has encontrado a Komuxio en el Pequeño Solaz, pero tus palabras de saludo por sí solas no parecen conmoverle. Ejecuta un animado /dance ante él como muestra de buena voluntad."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_04",
-      "hash": "8DBDF9220D09EC89",
-      "target": "Complacido por tu baile, Komuxio parece ahora más dispuesto a escucharte. Entrégale la raíz lechosa y la <ennoun(EventItem,3,2000574,1,1)> como prueba de que vienes en son de paz."
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_05",
-      "hash": "FB911F64593F1A1C",
-      "target": "Pese a aceptar tus regalos, Komuxio sigue sin convencerse de tus intenciones. ¿No habrá manera de ganarse la confianza del silfo y conseguir una audiencia con el anciano del Pequeño Solaz?"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_00",
-      "hash": "BA257F55F8ACDF4B",
-      "target": "Hablar con Amelain"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_01",
-      "hash": "8CF133F390911069",
-      "target": "Hablar con Komuxio en el Pequeño Solaz"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_02",
-      "hash": "BD46BF69DE493A2E",
-      "target": "/dance para Komuxio"
-    },
-    {
-      "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_03",
-      "hash": "ADA576F4DE376EB6",
-      "target": "Entregar la raíz lechosa y la carta a Komuxio"
-    }
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_00", "hash": "803C0D3064506888", "target": "Rolfe Hawthorne ha envuelto tu ofrenda para preparar tu viaje al territorio de los silfos." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_01", "hash": "9C1DED007AD11773", "target": "Rolfe ha tenido la amabilidad de envolver la raíz lechosa para los silfos y te desea suerte en tu labor de emisari<if(gnum4,a,o)>. Antes de que te marches, sin embargo, te pide que hables con Amelain." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_02", "hash": "676AA83C50E69DF9", "target": "Amelain te ha confiado una misiva escrita por la mismísima gran vidente. Entrégala sana y salva a Komuxio, en el Pequeño Solaz." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_03", "hash": "BE0E9D99686AD8D6", "target": "Has encontrado a Komuxio en el Pequeño Solaz, pero tus palabras de saludo por sí solas no parecen conmoverle. Ejecuta un animado /dance ante él como muestra de buena voluntad." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_04", "hash": "8DBDF9220D09EC89", "target": "Complacido por tu baile, Komuxio parece ahora más dispuesto a escucharte. Entrégale la raíz lechosa y la <ennoun(EventItem,3,2000574,1,1)> como prueba de que vienes en son de paz." },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_SEQ_05", "hash": "FB911F64593F1A1C", "target": "Pese a aceptar tus regalos, Komuxio sigue sin convencerse de tus intenciones. ¿No habrá manera de ganarse la confianza del silfo y conseguir una audiencia con el anciano del Pequeño Solaz?" },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_00", "hash": "BA257F55F8ACDF4B", "target": "Hablar con Amelain" },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_01", "hash": "8CF133F390911069", "target": "Hablar con Komuxio en el Pequeño Solaz" },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_02", "hash": "BD46BF69DE493A2E", "target": "/dance para Komuxio" },
+    { "gameKey": "quest/007/GaiUsa101_00715#TEXT_GAIUSA101_00715_TODO_03", "hash": "ADA576F4DE376EB6", "target": "Entregar la raíz lechosa y la carta a Komuxio" }
   ]
 }

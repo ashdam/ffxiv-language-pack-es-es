@@ -2,56 +2,16 @@
   "conversation": "quest/020/ClsAlc530_02066",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_00",
-      "hash": "53BD2BF70258F1BE",
-      "target": "La mirada de Wiltwaek dice que algo nuevo se está tramando."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_01",
-      "hash": "C6F73F469C368A15",
-      "target": "Según Wiltwaek, los ladrones han vuelto a atacar, esta vez llevándose varios artefactos allaganos del Hallazgo de San Coinach. Durante su huida, uno de los ladrones dejó caer un curioso documento: un mapa de Mor Dhona, cubierto de extraños símbolos. Wiltwaek cree que se trata de una especie de código que la banda usa para comunicarse. Comprender su significado es crucial para la investigación, así que te pide que le muestres el mapa cifrado al mayor experto en cifrados del reino: Baderon, dueño de la Moza Ahogada en Limsa Lominsa."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_02",
-      "hash": "C3C1ECDD612FDB03",
-      "target": "Tras echar un vistazo al mapa cifrado, Baderon anuncia que en realidad no está cifrado en absoluto. Los símbolos no tienen significado, sino que sirven para distraer del verdadero mensaje del papel. Este probablemente esté escrito con algún tipo de tinta invisible, dice el tabernero. Regresa con esta sorprendente interpretación a Wiltwaek en el Peaje del Aparecido."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_03",
-      "hash": "8C7B47CDDD1CD8ED",
-      "target": "Wiltwaek queda impresionado por la aguda deducción de Baderon y pide a Chanene que informe de que ellos también han descubierto algo sobre el mapa. El papel no tiene interés, pero los símbolos están escritos con tinta encantada. Tras pedir tu opinión de experto y enterarse de que la tinta encantada se usa para la magia arcana, Chanene intenta activar la geometría arcana. Sin embargo, todo lo que logra es percibir un extraño bloqueo en la superficie del mapa. Wiltwaek comprende que ese es precisamente el propósito del mapa: dirigir a los criminales hacia su objetivo. Rápida de reflejos, Chanene propone que los tres creéis mapas falsos para atraer a los culpables al descubierto. Wiltwaek acepta y te pide que elabores tres <ennoun(Item,3,12601,3,1)> de alta calidad para las falsificaciones."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_04",
-      "hash": "28ABFB49D09603F6",
-      "target": "Wiltwaek acepta agradecido la <lower(<sheet(Item,12601,9)>)> y dice que pondrá a Chanene a trabajar en los mapas de inmediato. Planea atraer a los maleantes al Hallazgo de San Coinach, donde serán fácilmente visibles entre los investigadores. Reúnete con él allí, pues nunca se sabe cuándo un alquimista puede resultar útil."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_05",
-      "hash": "AF1EE62399579FBE",
-      "target": "Encuentras a Wiltwaek y Chanene con un sospechoso ya bajo custodia: un joven que parece proceder del Cercano Oriente. Sin embargo, al examinarlo de cerca, Wiltwaek se da cuenta de que su silencio no es terquedad, sino algo forzado. Sospecha que hay alguna pócima infame en juego y se pregunta en voz alta si el joven del Cercano Oriente es una víctima y no un criminal. Cuando Chanene se dispone a marcharse, de pronto advierte a un extraño hombre que os observa desde las sombras. Wiltwaek lo llama, pero el tipo simplemente se aleja. Perplejo, Wiltwaek comenta que los criminales están jugando con poderes peligrosos y te pide que vuelvas a prestar tu ayuda cuando surja la necesidad.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 55."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_00",
-      "hash": "79745FE25E1471C0",
-      "target": "Mostrar el mapa cifrado a Baderon en Limsa Lominsa"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_01",
-      "hash": "EB45F7D6FFD79126",
-      "target": "Devolver el mapa cifrado a Wiltwaek"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_02",
-      "hash": "68AF31A19DAE7C12",
-      "target": "<if([lnum1<lnum2],Sintetizar tinta encantada de mithrita <sheet(Addon,9,0)>,Entregar los <ennoun(Item,3,12601,2,1)> <sheet(Addon,9,0)> a Wiltwaek)>"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_03",
-      "hash": "1F2C2115350E248B",
-      "target": "Reunirse con Wiltwaek en el Hallazgo de San Coinach"
-    },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_00", "hash": "53BD2BF70258F1BE", "target": "La mirada de Wiltwaek dice que algo nuevo se está tramando." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_01", "hash": "C6F73F469C368A15", "target": "Según Wiltwaek, los ladrones han vuelto a atacar, esta vez llevándose varios artefactos allaganos del Hallazgo de San Coinach. Durante su huida, uno de los ladrones dejó caer un curioso documento: un mapa de Mor Dhona, cubierto de extraños símbolos. Wiltwaek cree que se trata de una especie de código que la banda usa para comunicarse. Comprender su significado es crucial para la investigación, así que te pide que le muestres el mapa cifrado al mayor experto en cifrados del reino: Baderon, dueño de la Moza Ahogada en Limsa Lominsa." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_02", "hash": "C3C1ECDD612FDB03", "target": "Tras echar un vistazo al mapa cifrado, Baderon anuncia que en realidad no está cifrado en absoluto. Los símbolos no tienen significado, sino que sirven para distraer del verdadero mensaje del papel. Este probablemente esté escrito con algún tipo de tinta invisible, dice el tabernero. Regresa con esta sorprendente interpretación a Wiltwaek en el Peaje del Aparecido." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_03", "hash": "8C7B47CDDD1CD8ED", "target": "Wiltwaek queda impresionado por la aguda deducción de Baderon y pide a Chanene que informe de que ellos también han descubierto algo sobre el mapa. El papel no tiene interés, pero los símbolos están escritos con tinta encantada. Tras pedir tu opinión de experto y enterarse de que la tinta encantada se usa para la magia arcana, Chanene intenta activar la geometría arcana. Sin embargo, todo lo que logra es percibir un extraño bloqueo en la superficie del mapa. Wiltwaek comprende que ese es precisamente el propósito del mapa: dirigir a los criminales hacia su objetivo. Rápida de reflejos, Chanene propone que los tres creéis mapas falsos para atraer a los culpables al descubierto. Wiltwaek acepta y te pide que elabores tres <ennoun(Item,3,12601,3,1)> de alta calidad para las falsificaciones." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_04", "hash": "28ABFB49D09603F6", "target": "Wiltwaek acepta agradecido la <lower(<sheet(Item,12601,9)>)> y dice que pondrá a Chanene a trabajar en los mapas de inmediato. Planea atraer a los maleantes al Hallazgo de San Coinach, donde serán fácilmente visibles entre los investigadores. Reúnete con él allí, pues nunca se sabe cuándo un alquimista puede resultar útil." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_SEQ_05", "hash": "AF1EE62399579FBE", "target": "Encuentras a Wiltwaek y Chanene con un sospechoso ya bajo custodia: un joven que parece proceder del Cercano Oriente. Sin embargo, al examinarlo de cerca, Wiltwaek se da cuenta de que su silencio no es terquedad, sino algo forzado. Sospecha que hay alguna pócima infame en juego y se pregunta en voz alta si el joven del Cercano Oriente es una víctima y no un criminal. Cuando Chanene se dispone a marcharse, de pronto advierte a un extraño hombre que os observa desde las sombras. Wiltwaek lo llama, pero el tipo simplemente se aleja. Perplejo, Wiltwaek comenta que los criminales están jugando con poderes peligrosos y te pide que vuelvas a prestar tu ayuda cuando surja la necesidad.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 55." },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_00", "hash": "79745FE25E1471C0", "target": "Mostrar el mapa cifrado a Baderon en Limsa Lominsa" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_01", "hash": "EB45F7D6FFD79126", "target": "Devolver el mapa cifrado a Wiltwaek" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_02", "hash": "68AF31A19DAE7C12", "target": "<if([lnum1<lnum2],Sintetizar tinta encantada de mithrita <sheet(Addon,9,0)>,Entregar los <ennoun(Item,3,12601,2,1)> <sheet(Addon,9,0)> a Wiltwaek)>" },
+    { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_TODO_03", "hash": "1F2C2115350E248B", "target": "Reunirse con Wiltwaek en el Hallazgo de San Coinach" },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_000", "hash": "877A87DB4159D6DB", "target": "¡<split(<string(gstr1)>, ,1)>! Bien, tengo un trabajo para usted. El Hallazgo de San Coinach sufrió un robo hace unas campanadas. Los ladrones se llevaron varios artefactos allaganos, muchos de ellos excavados hace poco." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_001", "hash": "BEC2BA6323CF4D9D", "target": "Un guardia dice que uno de ellos dejó caer este mapa de Mor Dhona durante su huida. Pero está cubierto de símbolos extraños. Un mensaje en clave, tal vez, o un cifrado. Debemos desentrañar sus secretos." },
     { "gameKey": "quest/020/ClsAlc530_02066#TEXT_CLSALC530_02066_WILTWAEK_000_002", "hash": "C7D5E74058FF63AD", "target": "El dueño de la Moza Ahogada, en Limsa, puede ayudar. <switch(gnum70,Ya ha conocido a Baderon\\, ¿verdad,¿Ha oído hablar de Baderon,¿Ha oído hablar de Baderon)>?" },

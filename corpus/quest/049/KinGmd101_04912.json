@@ -14,200 +14,44 @@
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_TODO_02", "hash": "E47D02E6673CB7D7", "target": "Hablar con Erenville" },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_TODO_03", "hash": "F1628FF4B83D3E4F", "target": "Volver a hablar con Erenville" },
     { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_TODO_04", "hash": "7B4181EE855F195B", "target": "Hablar una vez más con Erenville" },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_001",
-      "hash": "3DE00D45ED393432",
-      "target": "¿<if(gnum4,Lista,Listo)> para partir?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_002",
-      "hash": "E07746E3C07494C0",
-      "target": "Entonces enséñale tu salvoconducto a ese guardia y pongámonos en marcha."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_003",
-      "hash": "6189D15A7BED60E7",
-      "target": "No tendrás que esperar mucho para disfrutar del paisaje. El puente que lleva a Xak Tural es todo un prodigio por sí mismo."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_005",
-      "hash": "D0F82FDE4427313E",
-      "target": "Venga, enséñale el salvoconducto al guardia."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_010",
-      "hash": "CFC8BC26E20F362C",
-      "target": "Esta puerta está vedada a todo aquel que no cuente con el permiso expreso de uno de los Servidores del Alba."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_011",
-      "hash": "D787EC806B5E52D1",
-      "target": "...¡Firmado por el juramento Wuk Lamat en persona! Mis disculpas, <if(gnum4,señorita,señor)>. Aguarde aquí un momento, se lo ruego."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_020",
-      "hash": "43551B92071F7F5D",
-      "target": "Vaya, ¿qué tenemos aquí?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_030",
-      "hash": "4899C912F0E1AFD0",
-      "target": "¿Andan escasos de rroneek?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_031",
-      "hash": "37581835695F0D87",
-      "target": "Me temo que sí. Si os basta con uno, tengo un animal listo y esperando."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_032",
-      "hash": "9A679B5E3B0239AF",
-      "target": "Pero si necesitáis dos, vais a tener que esperar."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_033",
-      "hash": "64DBDBE2AC5010F8",
-      "target": "Los rroneek llevan una temporada rarísimos─se espantan por cualquier cosa y están de un genio insufrible. Escoger los pocos que sirven para alquilar se me está haciendo un trabajo de lo más pesado."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_034",
-      "hash": "1AEA5EDE5DBBE00D",
-      "target": "Suelen ser animales dóciles, y los que he visto antes tampoco parecían enfermos. Pero han cambiado muchas cosas desde la última vez que estuve aquí..."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_035",
-      "hash": "73C305CE5D5E5A58",
-      "target": "No es el mejor comienzo para un viaje."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_036",
-      "hash": "2076A00019E3B469",
-      "target": "Aun así, la estación de tren no queda lejos. Como no tenemos prisa, vayamos a pie."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_037",
-      "hash": "4F3414F16F2D8DB3",
-      "target": "Un momento, señor. Por muy viajados que parezcáis, no son solo los rroneek los que nos están dando problemas. Otras bestias salvajes también dan muestras de agresividad."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_038",
-      "hash": "28313FB364BD102E",
-      "target": "Un mercader no tardará en devolverme uno de mis animales. Esperad hasta entonces y os pondré a los dos sobre un rroneek, que se viaja mucho más seguro."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_039",
-      "hash": "63EABC47ED098DCD",
-      "target": "Le agradezco el ofrecimiento, pero no creo que a mi <if(gnum4,amiga,amigo)> le preocupen demasiado las bestias."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_Q1_000_000",
-      "hash": "7C134F04405BBB4E",
-      "target": "¿Qué vas a decir?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_001",
-      "hash": "7DF21FAE338C1376",
-      "target": "La verdad es que sí me preocupan un poco..."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_002",
-      "hash": "A6A7E2011F84BAE9",
-      "target": "¡Pero los rroneek, Erenville! ¡Los rroneek!"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_003",
-      "hash": "94BF1BC92F048F80",
-      "target": "Lo que nos lleve antes allí."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_041",
-      "hash": "A9BCD220EA2D0992",
-      "target": "Y con razón. Me alegra ver que al menos uno de los dos tiene sentido común."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_042",
-      "hash": "F671CE29ADAF34A0",
-      "target": "... Te estás divirtiendo con esto, ¿eh?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_043",
-      "hash": "AEADE0C6EC026173",
-      "target": "¡Jajaja! Si es la primera vez que venís a Shaaloani, entiendo el entusiasmo. Sería una pena no montar uno al menos una vez estando aquí."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_044",
-      "hash": "6536E96CC6DBD18D",
-      "target": "Tiene razón. Si hay que darte la “auténtica experiencia de Shaaloani”, supongo que merece la pena esperar."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_045",
-      "hash": "C2F69D11C0F674BE",
-      "target": "Aunque salierais ahora, esperar al rroneek os saldría más rápido que ir andando, y más seguro además. Volveréis al camino antes de que os deis cuenta, os lo prometo."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_046",
-      "hash": "E84642F3DF8F3159",
-      "target": "Pues ahí lo tienes."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_047",
-      "hash": "02315FCC6073B8A8",
-      "target": "Bien, cambio de planes. Hay un pueblecito aquí cerca. Podemos matar el tiempo allí mientras esperamos."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_048",
-      "hash": "63B7A7AD014E8EBE",
-      "target": "Entonces vais a Hhusatahwi, ¿no? Haré que un hombre os lleve los rroneek hasta allí."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_049",
-      "hash": "77AB08F7AF129189",
-      "target": "Y ojo con los borrachos y los buscapleitos, ¿eh?"
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_050",
-      "hash": "667D99809DCDFB05",
-      "target": "No tardaremos, quedaos tranquilos. Estad atentos a un hombre con dos rroneek en Hhusatahwi."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_060",
-      "hash": "78C57DB8C40CF7E0",
-      "target": "La última vez que estuve aquí, esto no pasaba de ser un campamento con dos o tres tiendas."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_070",
-      "hash": "79DB9164E2B45780",
-      "target": "No hemos hecho más que salir y ya nos hemos topado con jaleo... Al menos nadie ha salido herido."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_071",
-      "hash": "CDEA577A424F439A",
-      "target": "Esta Guardia del Polvo tiene mucho trabajo por delante. Desde que tengo memoria, todas las disputas, grandes o pequeñas, se zanjaban en duelo."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_072",
-      "hash": "71CBC2CBF59ACD3A",
-      "target": "Los pueblos de Shaaloani rara vez se ponían de acuerdo. Y para bien o para mal, era la forma más sencilla de resolver las diferencias."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_073",
-      "hash": "6F99289C5D2DA8E8",
-      "target": "Y como la mayoría prefiere no jugarse la vida, aquello empujaba a las partes a buscar una solución pacífica por la vía indirecta."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_074",
-      "hash": "DD520CC34E43F28C",
-      "target": "La Guardia del Polvo la fundaron seguramente los partidarios de Koana, que prefieren que la paz se imponga mediante el imperio de la ley."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_075",
-      "hash": "50FE8420C37159BE",
-      "target": "Una postura razonable, bien mirado. Si las cosas se les fueran de las manos, la Legión del Alba se vería obligada a intervenir. Y la libertad que ahora tienen se perdería bajo la autoridad de Zoraal Ja."
-    },
-    {
-      "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_076",
-      "hash": "B44A954303C5BBA9",
-      "target": "Todo esto para decirte que, a menos que te apetezca una larga estancia en el calabozo, tengas cuidado con cómo manejas tus armas en el pueblo."
-    }
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_001", "hash": "3DE00D45ED393432", "target": "¿<if(gnum4,Lista,Listo)> para partir?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_002", "hash": "E07746E3C07494C0", "target": "Entonces enséñale tu salvoconducto a ese guardia y pongámonos en marcha." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_003", "hash": "6189D15A7BED60E7", "target": "No tendrás que esperar mucho para disfrutar del paisaje. El puente que lleva a Xak Tural es todo un prodigio por sí mismo." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_005", "hash": "D0F82FDE4427313E", "target": "Venga, enséñale el salvoconducto al guardia." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_010", "hash": "CFC8BC26E20F362C", "target": "Esta puerta está vedada a todo aquel que no cuente con el permiso expreso de uno de los Servidores del Alba." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_LANDSGUARDKEEPER_000_011", "hash": "D787EC806B5E52D1", "target": "...¡Firmado por el juramento Wuk Lamat en persona! Mis disculpas, <if(gnum4,señorita,señor)>. Aguarde aquí un momento, se lo ruego." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_020", "hash": "43551B92071F7F5D", "target": "Vaya, ¿qué tenemos aquí?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_030", "hash": "4899C912F0E1AFD0", "target": "¿Andan escasos de rroneek?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_031", "hash": "37581835695F0D87", "target": "Me temo que sí. Si os basta con uno, tengo un animal listo y esperando." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_032", "hash": "9A679B5E3B0239AF", "target": "Pero si necesitáis dos, vais a tener que esperar." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_033", "hash": "64DBDBE2AC5010F8", "target": "Los rroneek llevan una temporada rarísimos─se espantan por cualquier cosa y están de un genio insufrible. Escoger los pocos que sirven para alquilar se me está haciendo un trabajo de lo más pesado." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_034", "hash": "1AEA5EDE5DBBE00D", "target": "Suelen ser animales dóciles, y los que he visto antes tampoco parecían enfermos. Pero han cambiado muchas cosas desde la última vez que estuve aquí..." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_035", "hash": "73C305CE5D5E5A58", "target": "No es el mejor comienzo para un viaje." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_036", "hash": "2076A00019E3B469", "target": "Aun así, la estación de tren no queda lejos. Como no tenemos prisa, vayamos a pie." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_037", "hash": "4F3414F16F2D8DB3", "target": "Un momento, señor. Por muy viajados que parezcáis, no son solo los rroneek los que nos están dando problemas. Otras bestias salvajes también dan muestras de agresividad." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_038", "hash": "28313FB364BD102E", "target": "Un mercader no tardará en devolverme uno de mis animales. Esperad hasta entonces y os pondré a los dos sobre un rroneek, que se viaja mucho más seguro." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_039", "hash": "63EABC47ED098DCD", "target": "Le agradezco el ofrecimiento, pero no creo que a mi <if(gnum4,amiga,amigo)> le preocupen demasiado las bestias." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_Q1_000_000", "hash": "7C134F04405BBB4E", "target": "¿Qué vas a decir?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_001", "hash": "7DF21FAE338C1376", "target": "La verdad es que sí me preocupan un poco..." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_002", "hash": "A6A7E2011F84BAE9", "target": "¡Pero los rroneek, Erenville! ¡Los rroneek!" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_A1_000_003", "hash": "94BF1BC92F048F80", "target": "Lo que nos lleve antes allí." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_041", "hash": "A9BCD220EA2D0992", "target": "Y con razón. Me alegra ver que al menos uno de los dos tiene sentido común." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_042", "hash": "F671CE29ADAF34A0", "target": "... Te estás divirtiendo con esto, ¿eh?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_043", "hash": "AEADE0C6EC026173", "target": "¡Jajaja! Si es la primera vez que venís a Shaaloani, entiendo el entusiasmo. Sería una pena no montar uno al menos una vez estando aquí." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_044", "hash": "6536E96CC6DBD18D", "target": "Tiene razón. Si hay que darte la “auténtica experiencia de Shaaloani”, supongo que merece la pena esperar." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_045", "hash": "C2F69D11C0F674BE", "target": "Aunque salierais ahora, esperar al rroneek os saldría más rápido que ir andando, y más seguro además. Volveréis al camino antes de que os deis cuenta, os lo prometo." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_046", "hash": "E84642F3DF8F3159", "target": "Pues ahí lo tienes." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_047", "hash": "02315FCC6073B8A8", "target": "Bien, cambio de planes. Hay un pueblecito aquí cerca. Podemos matar el tiempo allí mientras esperamos." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_048", "hash": "63B7A7AD014E8EBE", "target": "Entonces vais a Hhusatahwi, ¿no? Haré que un hombre os lleve los rroneek hasta allí." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_049", "hash": "77AB08F7AF129189", "target": "Y ojo con los borrachos y los buscapleitos, ¿eh?" },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_RRONEEKLENDERA_000_050", "hash": "667D99809DCDFB05", "target": "No tardaremos, quedaos tranquilos. Estad atentos a un hombre con dos rroneek en Hhusatahwi." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_060", "hash": "78C57DB8C40CF7E0", "target": "La última vez que estuve aquí, esto no pasaba de ser un campamento con dos o tres tiendas." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_070", "hash": "79DB9164E2B45780", "target": "No hemos hecho más que salir y ya nos hemos topado con jaleo... Al menos nadie ha salido herido." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_071", "hash": "CDEA577A424F439A", "target": "Esta Guardia del Polvo tiene mucho trabajo por delante. Desde que tengo memoria, todas las disputas, grandes o pequeñas, se zanjaban en duelo." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_072", "hash": "71CBC2CBF59ACD3A", "target": "Los pueblos de Shaaloani rara vez se ponían de acuerdo. Y para bien o para mal, era la forma más sencilla de resolver las diferencias." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_073", "hash": "6F99289C5D2DA8E8", "target": "Y como la mayoría prefiere no jugarse la vida, aquello empujaba a las partes a buscar una solución pacífica por la vía indirecta." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_074", "hash": "DD520CC34E43F28C", "target": "La Guardia del Polvo la fundaron seguramente los partidarios de Koana, que prefieren que la paz se imponga mediante el imperio de la ley." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_075", "hash": "50FE8420C37159BE", "target": "Una postura razonable, bien mirado. Si las cosas se les fueran de las manos, la Legión del Alba se vería obligada a intervenir. Y la libertad que ahora tienen se perdería bajo la autoridad de Zoraal Ja." },
+    { "gameKey": "quest/049/KinGmd101_04912#TEXT_KINGMD101_04912_ERENVILLE_000_076", "hash": "B44A954303C5BBA9", "target": "Todo esto para decirte que, a menos que te apetezca una larga estancia en el calabozo, tengas cuidado con cómo manejas tus armas en el pueblo." }
   ]
 }

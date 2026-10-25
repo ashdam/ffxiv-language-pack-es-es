@@ -2,66 +2,18 @@
   "conversation": "quest/020/ClsAlc550_02067",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_00",
-      "hash": "74B6BF7289BFFB70",
-      "target": "Wiltwaek tiene novedades sobre el caso."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_01",
-      "hash": "89688D76B3A8DF1E",
-      "target": "Wiltwaek te informa de dos cosas. Primera: el joven del Cercano Oriente que capturaste no muestra signos de recuperación, y nadie tiene idea de quién es. Segunda: uno de los artefactos allaganos robados recientemente ha aparecido en la Casa de los Esplendores de Rowena. Chanene se ha adelantado para investigar, y Wiltwaek te pide que te reúnas con ella allí."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_02",
-      "hash": "34B3CDA887A5639B",
-      "target": "Rowena está dispuesta a colaborar en tu investigación... por el precio de un grade 1 intelligence dissolvent de alta calidad. Elabora tres botellas para soltarle la lengua a la mercadera."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_03",
-      "hash": "1F164EC77846E905",
-      "target": "Contenta con el intercambio, Rowena te entrega un <ennoun(EventItem,3,2001706,1,1)> y te da su descripción del vendedor. Chanene cree que se trata de un ladrón de infausta fama local, pero no puede evitar preguntarse si tal ladrón tendría algún conocimiento de alquimia. Antes de que pueda continuar, aparece un hombre sospechoso para preguntar por el cayado. Después de que se marcha, una excitada Chanene te dice que piensa seguirlo y te pide que le transmitas lo mismo a Wiltwaek."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_04",
-      "hash": "BAC9D0A34B2101E1",
-      "target": "Te apresuras a ver a Wiltwaek y le dices adónde ha ido Chanene. Sin embargo, recibe noticias de ella directamente: el sospechoso la ha despistado. Wiltwaek decide que es mejor averiguar por qué este extraño individuo quería comprar el cayado que perseguirlo a ciegas. Dirígete al Gremio de Alquimistas de Ul'dah y pregunta al maestro del gremio Severian por qué un alquimista querría un <ennoun(EventItem,3,2001706,1,1)>."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_05",
-      "hash": "8C5E4FDF4127783F",
-      "target": "La habitual impaciencia del maestro del gremio Severian se disuelve en cuanto ve lo que le has traído. Te habla de una leyenda según la cual Allag podía crear hombres de la nada, y de que el componente clave de este proceso era el cristal que yace en el corazón del cayado. Aunque él mismo lo considera un disparate, comprende por qué ciertos alquimistas codiciarían este poder. Regresa con Wiltwaek y cuéntale lo que has descubierto."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_06",
-      "hash": "C808B7278BD930CE",
-      "target": "Regresas y encuentras a Wiltwaek y Chanene abatidos. La razón, pronto lo sabes, es que han encontrado la guarida de tus sospechosos: una oscura cueva usada para realizar terribles experimentos con personas vivas. Gracias a tu descripción del cayado, Wiltwaek elabora el perfil de un cerebro criminal, un alquimista loco irónicamente dispuesto a asesinar en pos del poder de crear vida. Preocupada, Chanene te pide que sigas prestando tu ayuda, no sea que mueran más habitantes inocentes.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 58."
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_00",
-      "hash": "69B19536618ABE36",
-      "target": "Reunirse con Chanene en la Casa de los Esplendores de Rowena"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_01",
-      "hash": "B81797425F90585B",
-      "target": "<if([lnum1<lnum2],Sintetizar frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)>,Entregar los frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)> a Rowena)>"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_02",
-      "hash": "544884AEE4300346",
-      "target": "Informar a Wiltwaek"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_03",
-      "hash": "CC38DC2F9606F2CC",
-      "target": "Mostrar el <ennoun(EventItem,3,2001706,1,1)> a Severian en el Gremio de Alquimistas"
-    },
-    {
-      "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_04",
-      "hash": "471B513DD64215B7",
-      "target": "Devolver el <ennoun(EventItem,3,2001706,1,1)> a Wiltwaek"
-    },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_00", "hash": "74B6BF7289BFFB70", "target": "Wiltwaek tiene novedades sobre el caso." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_01", "hash": "89688D76B3A8DF1E", "target": "Wiltwaek te informa de dos cosas. Primera: el joven del Cercano Oriente que capturaste no muestra signos de recuperación, y nadie tiene idea de quién es. Segunda: uno de los artefactos allaganos robados recientemente ha aparecido en la Casa de los Esplendores de Rowena. Chanene se ha adelantado para investigar, y Wiltwaek te pide que te reúnas con ella allí." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_02", "hash": "34B3CDA887A5639B", "target": "Rowena está dispuesta a colaborar en tu investigación... por el precio de un grade 1 intelligence dissolvent de alta calidad. Elabora tres botellas para soltarle la lengua a la mercadera." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_03", "hash": "1F164EC77846E905", "target": "Contenta con el intercambio, Rowena te entrega un <ennoun(EventItem,3,2001706,1,1)> y te da su descripción del vendedor. Chanene cree que se trata de un ladrón de infausta fama local, pero no puede evitar preguntarse si tal ladrón tendría algún conocimiento de alquimia. Antes de que pueda continuar, aparece un hombre sospechoso para preguntar por el cayado. Después de que se marcha, una excitada Chanene te dice que piensa seguirlo y te pide que le transmitas lo mismo a Wiltwaek." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_04", "hash": "BAC9D0A34B2101E1", "target": "Te apresuras a ver a Wiltwaek y le dices adónde ha ido Chanene. Sin embargo, recibe noticias de ella directamente: el sospechoso la ha despistado. Wiltwaek decide que es mejor averiguar por qué este extraño individuo quería comprar el cayado que perseguirlo a ciegas. Dirígete al Gremio de Alquimistas de Ul'dah y pregunta al maestro del gremio Severian por qué un alquimista querría un <ennoun(EventItem,3,2001706,1,1)>." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_05", "hash": "8C5E4FDF4127783F", "target": "La habitual impaciencia del maestro del gremio Severian se disuelve en cuanto ve lo que le has traído. Te habla de una leyenda según la cual Allag podía crear hombres de la nada, y de que el componente clave de este proceso era el cristal que yace en el corazón del cayado. Aunque él mismo lo considera un disparate, comprende por qué ciertos alquimistas codiciarían este poder. Regresa con Wiltwaek y cuéntale lo que has descubierto." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_SEQ_06", "hash": "C808B7278BD930CE", "target": "Regresas y encuentras a Wiltwaek y Chanene abatidos. La razón, pronto lo sabes, es que han encontrado la guarida de tus sospechosos: una oscura cueva usada para realizar terribles experimentos con personas vivas. Gracias a tu descripción del cayado, Wiltwaek elabora el perfil de un cerebro criminal, un alquimista loco irónicamente dispuesto a asesinar en pos del poder de crear vida. Preocupada, Chanene te pide que sigas prestando tu ayuda, no sea que mueran más habitantes inocentes.<br><br>※La próxima misión de alquimista estará disponible con Wiltwaek al alcanzar el nivel 58." },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_00", "hash": "69B19536618ABE36", "target": "Reunirse con Chanene en la Casa de los Esplendores de Rowena" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_01", "hash": "B81797425F90585B", "target": "<if([lnum1<lnum2],Sintetizar frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)>,Entregar los frascos de <lower(<sheet(Item,12615,9)>)> <sheet(Addon,9,0)> a Rowena)>" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_02", "hash": "544884AEE4300346", "target": "Informar a Wiltwaek" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_03", "hash": "CC38DC2F9606F2CC", "target": "Mostrar el <ennoun(EventItem,3,2001706,1,1)> a Severian en el Gremio de Alquimistas" },
+    { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_TODO_04", "hash": "471B513DD64215B7", "target": "Devolver el <ennoun(EventItem,3,2001706,1,1)> a Wiltwaek" },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_000", "hash": "D8EBE886C52E93FA", "target": "Ah, <split(<string(gstr1)>, ,1)>─tengo dos noticias para usted. La primera: el joven del Cercano Oriente aún no se ha recuperado. En su estado actual, interrogarlo está descartado." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_001", "hash": "842D97928A621624", "target": "Podría ser uno de los criminales. O podría estar entre los secuestrados. No tenemos ni idea, aunque ninguna de nuestras personas raptadas coincide con su descripción." },
     { "gameKey": "quest/020/ClsAlc550_02067#TEXT_CLSALC550_02067_WILTWAEK_000_002", "hash": "A0702C38EA50A88B", "target": "En cualquier caso, creemos que los criminales le hicieron tragar alguna poción para borrarle la memoria. El hombre es ahora una página en blanco." },

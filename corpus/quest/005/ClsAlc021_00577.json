@@ -2,26 +2,10 @@
   "conversation": "quest/005/ClsAlc021_00577",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_00",
-      "hash": "F31C341658FABE5D",
-      "target": "El maestro del gremio Severian quiere que uses el weathered alembic para realizar tu primer milagro alquímico."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_01",
-      "hash": "0998813097F0F99A",
-      "target": "El maestro del gremio Severian te ha indicado que uses tu alambique para crear una botella de distilled water. El <ennoun(Item,3,5488,1,1)> necesario para esta tarea se puede comprar al proveedor situado junto a la entrada del gremio. Una vez hayas sintetizado con éxito una botella de distilled water, debes entregarla al imponente alquimista en su mesa de trabajo."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_02",
-      "hash": "477F03D00167805F",
-      "target": "Has entregado la <lower(<sheet(Item,5487,9)>)> al maestro del gremio Severian, completando así tu primera tarea como alquimista novato. Él te insta con entusiasmo a continuar tu entrenamiento y a disfrutar de la alegría de cada pequeño milagro alquímico.<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 5."
-    },
-    {
-      "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_TODO_00",
-      "hash": "5161F7EDBA6BF8B4",
-      "target": "Entregar una botella de <lower(<sheet(Item,5487,9)>)> a Severian"
-    },
+    { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_00", "hash": "F31C341658FABE5D", "target": "El maestro del gremio Severian quiere que uses el weathered alembic para realizar tu primer milagro alquímico." },
+    { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_01", "hash": "0998813097F0F99A", "target": "El maestro del gremio Severian te ha indicado que uses tu alambique para crear una botella de distilled water. El <ennoun(Item,3,5488,1,1)> necesario para esta tarea se puede comprar al proveedor situado junto a la entrada del gremio. Una vez hayas sintetizado con éxito una botella de distilled water, debes entregarla al imponente alquimista en su mesa de trabajo." },
+    { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEQ_02", "hash": "477F03D00167805F", "target": "Has entregado la <lower(<sheet(Item,5487,9)>)> al maestro del gremio Severian, completando así tu primera tarea como alquimista novato. Él te insta con entusiasmo a continuar tu entrenamiento y a disfrutar de la alegría de cada pequeño milagro alquímico.<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 5." },
+    { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_TODO_00", "hash": "5161F7EDBA6BF8B4", "target": "Entregar una botella de <lower(<sheet(Item,5487,9)>)> a Severian" },
     { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEVERIAN_000", "hash": "1E38EF31A154F5C1", "target": "Ah, veo que has logrado empuñar el alambique sin lastimarte. ¡Un comienzo prometedor!" },
     { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEVERIAN_001", "hash": "731F86D4250D0798", "target": "Veamos si podemos mantener esta racha de éxitos inesperados. Para tu primera lección, quiero que uses ese <ennoun(Item,3,2467,1,1)> y me fabriques una botella de distilled water." },
     { "gameKey": "quest/005/ClsAlc021_00577#TEXT_CLSALC021_00577_SEVERIAN_002", "hash": "95DE728D6EFFA4F5", "target": "El <lower(<sheet(Item,5487,9)>)> no es más que el resultado final de purificar una muestra más turbia del elemento más vital de la vida. Por ello, brinda la introducción perfecta a uno de los procesos más fundamentales de la alquimia: tomar un material y refinarlo hasta una forma más pura." },

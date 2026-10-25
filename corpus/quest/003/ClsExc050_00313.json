@@ -2,114 +2,30 @@
   "conversation": "quest/003/ClsExc050_00313",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_00",
-      "hash": "6C2293EA400059B1",
-      "target": "El maestro del hacha Wyrnzoen desea que experimentes un método de entrenamiento tradicional de los asaltantes."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_01",
-      "hash": "2FE32714F069D317",
-      "target": "Wyrnzoen te ha indicado que hables con un compañero asaltante para conocer la naturaleza del entrenamiento que vas a emprender. Encuentra a Broenbhar en la zona de prácticas de abajo."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_02",
-      "hash": "8FC1144DD19F5813",
-      "target": "Broenbhar explica que los asaltantes desarrollan fuerza y precisión partiendo rocas con sus hachas. Para probar este método de entrenamiento tradicional, dirígete al río Rebelde, en la Noscea Central, y habla con Rhotgeim."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_03",
-      "hash": "0A762EFA82090314",
-      "target": "Rhotgeim te pide que hagas añicos las piedras que ha preparado. Destruye las rocas sólidas de la orilla del río con la técnica Heavy Swing."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_04",
-      "hash": "5FE2E4CD44FBA2AE",
-      "target": "Has hecho añicos tres rocas sólidas. Informa a Rhotgeim, que te espera."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_05",
-      "hash": "44B056863FC9B58F",
-      "target": "Rhotgeim te pide que hagas añicos más rocas todavía. Destruye las rocas sólidas de la orilla del río con tu habilidad Heavy Swing."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_06",
-      "hash": "01015C23D5D42961",
-      "target": "Has hecho añicos otras tres rocas sólidas. Informa a Rhotgeim, que te espera."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_07",
-      "hash": "E74B113B487C3CC4",
-      "target": "Rhotgeim parece complacida con tu capacidad para hacer añicos las rocas. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen."
-    },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_00", "hash": "6C2293EA400059B1", "target": "El maestro del hacha Wyrnzoen desea que experimentes un método de entrenamiento tradicional de los asaltantes." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_01", "hash": "2FE32714F069D317", "target": "Wyrnzoen te ha indicado que hables con un compañero asaltante para conocer la naturaleza del entrenamiento que vas a emprender. Encuentra a Broenbhar en la zona de prácticas de abajo." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_02", "hash": "8FC1144DD19F5813", "target": "Broenbhar explica que los asaltantes desarrollan fuerza y precisión partiendo rocas con sus hachas. Para probar este método de entrenamiento tradicional, dirígete al río Rebelde, en la Noscea Central, y habla con Rhotgeim." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_03", "hash": "0A762EFA82090314", "target": "Rhotgeim te pide que hagas añicos las piedras que ha preparado. Destruye las rocas sólidas de la orilla del río con la técnica Heavy Swing." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_04", "hash": "5FE2E4CD44FBA2AE", "target": "Has hecho añicos tres rocas sólidas. Informa a Rhotgeim, que te espera." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_05", "hash": "44B056863FC9B58F", "target": "Rhotgeim te pide que hagas añicos más rocas todavía. Destruye las rocas sólidas de la orilla del río con tu habilidad Heavy Swing." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_06", "hash": "01015C23D5D42961", "target": "Has hecho añicos otras tres rocas sólidas. Informa a Rhotgeim, que te espera." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_07", "hash": "E74B113B487C3CC4", "target": "Rhotgeim parece complacida con tu capacidad para hacer añicos las rocas. Vuelve al Gremio de Asaltantes e informa al maestro del hacha Wyrnzoen." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_08", "hash": "998684BBE16DB381", "target": "Al regresar al gremio, te enteras de que el maestro del hacha Wyrnzoen te ha asignado atender una petición urgente de la Granja del Gallo Rojo: una tarea que implica matar unos asesinos megalocrabs. Solkwyb, una conjuradora veterana, te ayudará en esta tarea. Búscala dentro del gremio antes de partir hacia Baja La Noscea." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_09", "hash": "E7B8DF0D04A09EF1", "target": "Hablas con la conjuradora Solkwyb y te enteras de más detalles sobre la tarea que os espera. Reúnete con ella en el nido de megalocrabs cercano a la Viuda Doliente, en Baja La Noscea." },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_10",
-      "hash": "0935DC676FDF298C",
-      "target": "Mientras registras el nido de megalocrabs, se te acerca un anciano desesperado llamado Neddard. Corre en ayuda de su nieto, Sighard, antes de que los crustáceos enfurecidos maten al muchacho."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_11",
-      "hash": "290EA17333F1661F",
-      "target": "Has matado los megalocrabs y salvado al nieto de Neddard de un destino atroz. Tras agradecerte que lo salvaras, Sighard te suplica que vengues a sus padres matando a la temible criatura responsable de sus muertes. Vuelve al Gremio de Asaltantes e informa de la situación al maestro del hacha Wyrnzoen."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_12",
-      "hash": "A1A28E552F34AE48",
-      "target": "Informas del resultado de tu tarea al maestro del hacha Wyrnzoen. El veterano asaltante, sin embargo, ya parece tener conocimiento de la criatura que mató a los padres de Sighard. Elogia tu deseo de buscar venganza en nombre del muchacho, pero advierte de que por ahora no eres rival para esta monstruosidad territorial. Alimenta tu ira y perfecciona tus habilidades antes de intentar cumplir el ferviente deseo de Sighard.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 10."
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_00",
-      "hash": "26389882C4A398A2",
-      "target": "Hablar con Broenbhar"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_01",
-      "hash": "B811FF7DAD17E2A7",
-      "target": "Hablar con Rhotgeim"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_02",
-      "hash": "4ED08998CAC811F7",
-      "target": "Usar Heavy Swing para destruir las rocas sólidas"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_03",
-      "hash": "5AF3156EB4FCD263",
-      "target": "Hablar con Rhotgeim en la Noscea Central"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_04",
-      "hash": "91E46001545C9778",
-      "target": "Usar Heavy Swing para destruir las rocas sólidas"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_05",
-      "hash": "4DD6C263AF85455A",
-      "target": "Hablar con Rhotgeim"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_06",
-      "hash": "DCFE30AA7047EB10",
-      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_07",
-      "hash": "587C659F804EFAE6",
-      "target": "Hablar con Solkwyb"
-    },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_10", "hash": "0935DC676FDF298C", "target": "Mientras registras el nido de megalocrabs, se te acerca un anciano desesperado llamado Neddard. Corre en ayuda de su nieto, Sighard, antes de que los crustáceos enfurecidos maten al muchacho." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_11", "hash": "290EA17333F1661F", "target": "Has matado los megalocrabs y salvado al nieto de Neddard de un destino atroz. Tras agradecerte que lo salvaras, Sighard te suplica que vengues a sus padres matando a la temible criatura responsable de sus muertes. Vuelve al Gremio de Asaltantes e informa de la situación al maestro del hacha Wyrnzoen." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SEQ_12", "hash": "A1A28E552F34AE48", "target": "Informas del resultado de tu tarea al maestro del hacha Wyrnzoen. El veterano asaltante, sin embargo, ya parece tener conocimiento de la criatura que mató a los padres de Sighard. Elogia tu deseo de buscar venganza en nombre del muchacho, pero advierte de que por ahora no eres rival para esta monstruosidad territorial. Alimenta tu ira y perfecciona tus habilidades antes de intentar cumplir el ferviente deseo de Sighard.<br><br>※La próxima misión de asaltante estará disponible con Wyrnzoen al alcanzar el nivel 10." },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_00", "hash": "26389882C4A398A2", "target": "Hablar con Broenbhar" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_01", "hash": "B811FF7DAD17E2A7", "target": "Hablar con Rhotgeim" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_02", "hash": "4ED08998CAC811F7", "target": "Usar Heavy Swing para destruir las rocas sólidas" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_03", "hash": "5AF3156EB4FCD263", "target": "Hablar con Rhotgeim en la Noscea Central" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_04", "hash": "91E46001545C9778", "target": "Usar Heavy Swing para destruir las rocas sólidas" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_05", "hash": "4DD6C263AF85455A", "target": "Hablar con Rhotgeim" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_06", "hash": "DCFE30AA7047EB10", "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_07", "hash": "587C659F804EFAE6", "target": "Hablar con Solkwyb" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_08", "hash": "E8BE31B627C489D4", "target": "Inspeccionar el nido de megalocrabs en Baja La Noscea" },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_09",
-      "hash": "D0A3451146713E78",
-      "target": "Rescatar a Sighard"
-    },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_10",
-      "hash": "7371E8BFBF3D93FA",
-      "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes"
-    },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_09", "hash": "D0A3451146713E78", "target": "Rescatar a Sighard" },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_TODO_10", "hash": "7371E8BFBF3D93FA", "target": "Informar al maestro del hacha Wyrnzoen en el Gremio de Asaltantes" },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_WYRNZOEN_000_0", "hash": "FE19784C46F024B3", "target": "<split(<string(gstr1)>, ,1)>. Te acercas a mí con el paso de un asaltante: decidid<if(gnum4,a,o)>, firme y libre de la vacilación que marcó nuestro primer encuentro. Me complace. Ha llegado el momento de que inicies una nueva etapa de tu adiestramiento." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_WYRNZOEN_000_2", "hash": "C09AA73226270901", "target": "Ahora bien, ¿qué distingue al hacha del gladius o de la daga? La destrucción bruta e imparable que obra su hoja gruesa y pesada. Y ese poder abrumador solo puede dirigirse como es debido mediante una fuerza física extraordinaria." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_WYRNZOEN_000_3", "hash": "6D48E182E465BC2D", "target": "Así llegamos al meollo de la lección de hoy. La fuerza que un asaltante ha de poseer se desarrolla mediante un método tradicional transmitido por las generaciones del gremio. Un método que a ti también se te enseñará a emplear." },
@@ -118,11 +34,7 @@
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_BROENBHAR_000_11", "hash": "A90096E331CDF71E", "target": "Verás, los que empuñamos el hacha desarrollamos fuerza y control partiendo peñascos. Así es: nuestro método tradicional consiste en machacar una roca con el hacha." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_BROENBHAR_000_12", "hash": "A98782A4E7634241", "target": "Pero no vale cualquier golpe; hay que darle a la roca justo así. Rhotgeim, una compañera asaltante, espera justo a las afueras de la Puerta del Céfiro, junto al puente sobre el río Rebelde. Ella te explicará cómo se hace." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_RHOTGEIM_000_20", "hash": "C48C3E15FD8B98D5", "target": "Saludos, <if(gnum4,muchacha,muchacho)>. ¿List<if(gnum4,a,o)> para partir piedra? Tengo tres rocas bien duras para que sudes lo tuyo. No intentes florituras, solo dales con un buen Heavy Swing, firme y sólido." },
-    {
-      "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SYSTEM_000_21",
-      "hash": "A64B2A52BA2C7407",
-      "target": "Destruye la roca sólida con tu habilidad Heavy Swing."
-    },
+    { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_SYSTEM_000_21", "hash": "A64B2A52BA2C7407", "target": "Destruye la roca sólida con tu habilidad Heavy Swing." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_RHOTGEIM_000_30", "hash": "E4AC6B1F80DE8285", "target": "Así se hace, <if(gnum4,muchacha,muchacho)>. Ahora que le has cogido el truco, ¿por qué no les das un poco más fuerte con ese Heavy Swing tuyo? No te contengas." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_RHOTGEIM_000_50", "hash": "DC1F280EF910186A", "target": "Sí, se ve que tienes talento natural. Todavía me resuena en la cabeza el estruendo de los peñascos al partirse. Vuelve con el maestro del hacha Wyrnzoen y dile que estás list<if(gnum4,a,o)> para algo más difícil." },
     { "gameKey": "quest/003/ClsExc050_00313#TEXT_CLSEXC050_00313_WYRNZOEN_000_60", "hash": "2E6DD92A6FA2F093", "target": "¿Te ha soltado los músculos y afinado la mente el adiestramiento, <split(<string(gstr1)>, ,1)>? Ha llegado una petición urgente de ayuda desde la Granja del Gallo Rojo, y te he elegido a ti para responder. Al parecer, un grupo hostil de megalocrabs se ha erigido sin saberlo en la próxima prueba de tu destreza." },

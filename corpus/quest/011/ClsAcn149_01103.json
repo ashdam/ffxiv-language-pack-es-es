@@ -2,36 +2,12 @@
   "conversation": "quest/011/ClsAcn149_01103",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_00",
-      "hash": "A9FFFF46AEA9EC64",
-      "target": "Thubyrgeim, maestra del gremio en funciones, quiere informarte de una tarea importante."
-    },
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_01",
-      "hash": "D76806A9706D4B7A",
-      "target": "Thubyrgeim te informa de que la inspectora K'lyhia ha solicitado tu presencia en otra inspección oficial. Sin embargo, tu participación tiene una condición. Dirígete a la sala de prácticas del Gremio de Arcanistas y habla con la inspectora Miqo'te para que te lo explique todo."
-    },
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_02",
-      "hash": "2E61BF8C90E0883D",
-      "target": "K'lyhia te explica que, para ayudarla en la próxima inspección, deberás adquirir la geometría arcana necesaria para invocar a Carbuncle Topacio. Habla con Thubyrgeim y pídele que te enseñe la técnica necesaria."
-    },
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_03",
-      "hash": "2A53F2ECAC94193E",
-      "target": "Thubyrgeim te ha enseñado el método para invocar a Carbuncle Topacio. Aprovecha las habilidades de tu nuevo familiar para garantizar una inspección exitosa... y segura."
-    },
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_00",
-      "hash": "7948E66D9DA6D814",
-      "target": "Hablar con K'lyhia"
-    },
-    {
-      "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_01",
-      "hash": "6B9C3A3E4E9C9C9E",
-      "target": "Hablar con Thubyrgeim"
-    },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_00", "hash": "A9FFFF46AEA9EC64", "target": "Thubyrgeim, maestra del gremio en funciones, quiere informarte de una tarea importante." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_01", "hash": "D76806A9706D4B7A", "target": "Thubyrgeim te informa de que la inspectora K'lyhia ha solicitado tu presencia en otra inspección oficial. Sin embargo, tu participación tiene una condición. Dirígete a la sala de prácticas del Gremio de Arcanistas y habla con la inspectora Miqo'te para que te lo explique todo." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_02", "hash": "2E61BF8C90E0883D", "target": "K'lyhia te explica que, para ayudarla en la próxima inspección, deberás adquirir la geometría arcana necesaria para invocar a Carbuncle Topacio. Habla con Thubyrgeim y pídele que te enseñe la técnica necesaria." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_SEQ_03", "hash": "2A53F2ECAC94193E", "target": "Thubyrgeim te ha enseñado el método para invocar a Carbuncle Topacio. Aprovecha las habilidades de tu nuevo familiar para garantizar una inspección exitosa... y segura." },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_00", "hash": "7948E66D9DA6D814", "target": "Hablar con K'lyhia" },
+    { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_TODO_01", "hash": "6B9C3A3E4E9C9C9E", "target": "Hablar con Thubyrgeim" },
     { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_001", "hash": "C8DAF118393D7705", "target": "Pareces cansad<if(gnum4,a,o)>, <split(<string(gstr1)>, ,1)>. ¿Duermes bien? El razonamiento puede resentirse sin suficiente descanso y recuperación." },
     { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_002", "hash": "88B7170E1BC58CCD", "target": "Si te consideras en condiciones para el servicio, baja a la sala de entrenamiento. La inspectora jefa K'lyhia ha pedido que la acompañes en otra inspección oficial." },
     { "gameKey": "quest/011/ClsAcn149_01103#TEXT_CLSACN149_01103_THUBYRGEIM_000_003", "hash": "6627D83709F29046", "target": "Hay, no obstante, un requisito para tu participación. La inspectora te explicará la situación." },

@@ -2,66 +2,18 @@
   "conversation": "quest/011/ClsFsh151_01111",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_00",
-      "hash": "C45B0F0C77DBB5B2",
-      "target": "A Sisipu le vendría bien una mano con un pedido inesperado."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_01",
-      "hash": "12C2DE6C8593A9D7",
-      "target": "El Gremio de Pescadores ha recibido un pedido de pescado fresco de uno de sus clientes habituales, un mercader Qiqirn llamado Chuchuroon. Sin embargo, no está claro qué pez desea Chuchuroon, y por eso Sisipu te ha pedido que hables con el cliente."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_02",
-      "hash": "EB0ADAC125FAC515",
-      "target": "No tienes más éxito que Sisipu a la hora de discernir qué pez vislumbró Chuchuroon en el agua, y las palabras “plateado” y “saltarín” parecen ser tus únicas pistas. Consulta con Sisipu cómo podrías proceder."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_03",
-      "hash": "C308EC62231F1860",
-      "target": "Sisipu está igual de perpleja ante la descripción, pero cree que Wawalago podría aclararla. Búscalo en su sitio, delante del Gremio de Pescadores."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_04",
-      "hash": "2D36E2A4F1102AC2",
-      "target": "Gracias a su vasto conocimiento de los peces, Wawalago ha determinado que Chuchuroon busca la <ennoun(Item,3,4882,1,1)>. Usa <ennoun(Item,3,2591,2,1)> para pescar cinco cerca del Faro del Cervecero, en la Noscea Occidental, y entrégaselas."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_05",
-      "hash": "10F18B6301A5CAC5",
-      "target": "La vista ─y el olor─ de las <ennoun(Item,3,4882,2,1)> ponen a Chuchuroon loco de contento. Habla de nuevo con Sisipu para conocer su opinión sobre tu duro día de trabajo."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_06",
-      "hash": "B528652E68CC07F5",
-      "target": "Sisipu expresa su alivio por tener en ti a alguien a la vez capaz y de fiar, aunque sea lamentando la falta de tales virtudes entre los demás miembros del gremio. Anímate con sus elogios y sigue perfeccionando tus habilidades por si vuelve a requerir tu ayuda.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 20."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_00",
-      "hash": "9A7A04FC349936F7",
-      "target": "Hablar con Chuchuroon"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_01",
-      "hash": "4F3C4323AF4A1F12",
-      "target": "Hablar con Sisipu"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_02",
-      "hash": "BCBEE89D016AF4EF",
-      "target": "Hablar con Wawalago"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_03",
-      "hash": "A283C4F0736CEA9F",
-      "target": "Entregar <ennoun(Item,3,4882,2,1)> a Chuchuroon"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_04",
-      "hash": "8ED9CCD04B66C282",
-      "target": "Informar a Sisipu"
-    },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_00", "hash": "C45B0F0C77DBB5B2", "target": "A Sisipu le vendría bien una mano con un pedido inesperado." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_01", "hash": "12C2DE6C8593A9D7", "target": "El Gremio de Pescadores ha recibido un pedido de pescado fresco de uno de sus clientes habituales, un mercader Qiqirn llamado Chuchuroon. Sin embargo, no está claro qué pez desea Chuchuroon, y por eso Sisipu te ha pedido que hables con el cliente." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_02", "hash": "EB0ADAC125FAC515", "target": "No tienes más éxito que Sisipu a la hora de discernir qué pez vislumbró Chuchuroon en el agua, y las palabras “plateado” y “saltarín” parecen ser tus únicas pistas. Consulta con Sisipu cómo podrías proceder." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_03", "hash": "C308EC62231F1860", "target": "Sisipu está igual de perpleja ante la descripción, pero cree que Wawalago podría aclararla. Búscalo en su sitio, delante del Gremio de Pescadores." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_04", "hash": "2D36E2A4F1102AC2", "target": "Gracias a su vasto conocimiento de los peces, Wawalago ha determinado que Chuchuroon busca la <ennoun(Item,3,4882,1,1)>. Usa <ennoun(Item,3,2591,2,1)> para pescar cinco cerca del Faro del Cervecero, en la Noscea Occidental, y entrégaselas." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_05", "hash": "10F18B6301A5CAC5", "target": "La vista ─y el olor─ de las <ennoun(Item,3,4882,2,1)> ponen a Chuchuroon loco de contento. Habla de nuevo con Sisipu para conocer su opinión sobre tu duro día de trabajo." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SEQ_06", "hash": "B528652E68CC07F5", "target": "Sisipu expresa su alivio por tener en ti a alguien a la vez capaz y de fiar, aunque sea lamentando la falta de tales virtudes entre los demás miembros del gremio. Anímate con sus elogios y sigue perfeccionando tus habilidades por si vuelve a requerir tu ayuda.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 20." },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_00", "hash": "9A7A04FC349936F7", "target": "Hablar con Chuchuroon" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_01", "hash": "4F3C4323AF4A1F12", "target": "Hablar con Sisipu" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_02", "hash": "BCBEE89D016AF4EF", "target": "Hablar con Wawalago" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_03", "hash": "A283C4F0736CEA9F", "target": "Entregar <ennoun(Item,3,4882,2,1)> a Chuchuroon" },
+    { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_TODO_04", "hash": "8ED9CCD04B66C282", "target": "Informar a Sisipu" },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_000", "hash": "39DE6B3EC7BAB14E", "target": "He estado pensando, <split(<string(gstr1)>, ,1)>. Ahora que puede pescar más peces de los que puede comer, es hora de que aprenda un poco sobre el arte de la venta de pescado." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_001", "hash": "02892F7715916EE8", "target": "Normalmente, los clientes compran peces ya pescados, pero cierto marinero Qiqirn tiene debilidad por la frescura." },
     { "gameKey": "quest/011/ClsFsh151_01111#TEXT_CLSFSH151_01111_SISIPU_000_002", "hash": "E3D85055BFA888AD", "target": "Por desgracia, los pescadores que suelen atender sus pedidos, con cierta ironía, se han ido todos a pescar. Así que recurro a usted, <split(<string(gstr1)>, ,1)>." },
