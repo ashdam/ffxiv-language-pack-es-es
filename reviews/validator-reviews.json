@@ -1,6 +1,13 @@
 {
   "schemaVersion": 1,
   "reviews": [
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#12","hash":"98202A9D1A38FA5A","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#14","hash":"D5491B2D7FF91CF9","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#19","hash":"05B5C534940C5428","why":"Medio indica ascendencia parcial Elezen y funciona como modificador invariable; no concuerda con mujer."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#41","hash":"02FE968B2B55FFF8","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#55","hash":"EBB9EC1FFB08D68F","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#60","hash":"928DE80E1D142DAC","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
+    {"rule":"corrector-grammar-languagetool","gameKey":"HalloweenNpcSelect#9","hash":"AC85997261C0B302","why":"Miqo'te es el nombre de un pueblo protegido por el glosario; su terminación no es el pronombre te ni la bebida té, y de es una preposición en esta frase."},
     {"rule":"corrector-grammar-languagetool","gameKey":"quest/002/ClsHrv100_00208#TEXT_CLSHRV100_00208_FUFUCHA_000_11","hash":"8571669F78B53E33","why":"Exactamente modifica la cantidad diez tarros de látex, no la oración completa; no requiere una coma que lo separe del numeral."},
     {"rule":"macros-parity source selection vs es-es","gameKey":"Leve#1073.1","hash":"C99A782972608B16","why":"Las macros Item identifican el mismo reactivo nombrado en inglés; conservan la cantidad y la concordancia verificadas con las referencias oficiales."},
     {"rule":"macros-parity source selection vs es-es","gameKey":"Leve#324.1","hash":"600B57044B46C2A6","why":"Las macros Item identifican el mismo reactivo nombrado en inglés; conservan la cantidad y la concordancia verificadas con las referencias oficiales."},
@@ -109667,6 +109674,8 @@
     {"rule":"terminology-item-names","gameKey":"TripleTriadCard#425.0","hash":"04D2E49CE1F3B21B","why":"Sphene identifica a la reina de Alejandría, su representación o sus recuerdos. No designa la gema esfena de Item#5172."},
     {"rule":"terminology-item-names","gameKey":"TripleTriadCard#425.8","hash":"3F0A4A10297A3136","why":"Sphene identifica a la reina de Alejandría, su representación o sus recuerdos. No designa la gema esfena de Item#5172."},
     {"rule":"terminology-item-names","gameKey":"TripleTriadCard#438.8","hash":"E05CE94260D6A3C4","why":"Sphene identifica a la reina de Alejandría, su representación o sus recuerdos. No designa la gema esfena de Item#5172."},
-    {"rule":"corrector-grammar-languagetool","gameKey":"Item#14903.8","hash":"ECA66D2745B70FBF","why":"Caballero Berenjena is the character name. Berenjena is a noun in apposition, not an adjective."}
+    {"rule":"corrector-grammar-languagetool","gameKey":"Item#14903.8","hash":"ECA66D2745B70FBF","why":"Caballero Berenjena is the character name. Berenjena is a noun in apposition, not an adjective."},
+    {"rule":"macros-parity source selection vs es-es","gameKey":"quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_MINFILIA_000_002","hash":"040544B3DD9D11A5","why":"El sujeto de la respuesta «Lo ha hecho» se omite de forma natural en español. Las dos ramas inglesas solo distinguen He y She; no se pierde información del personaje."},
+    {"rule":"macros-parity source vs es-es","gameKey":"quest/000/GaiUse403_00054#TEXT_GAIUSE403_00054_MINFILIA_000_002","hash":"2D6781F4857F8A2F","why":"El sujeto de la respuesta «Lo ha hecho» se omite de forma natural en español. Las dos ramas inglesas solo distinguen He y She; no se pierde información del personaje."}
   ]
 }
