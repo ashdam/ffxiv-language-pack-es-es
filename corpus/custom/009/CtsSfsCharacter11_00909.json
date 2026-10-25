@@ -119,6 +119,6 @@
     { "gameKey": "custom/009/CtsSfsCharacter11_00909#TEXT_CTSSFSCHARACTER11_00909_RANKUP_NITOWIKWE_006_002", "hash": "8B8506D34C09F939", "target": "No te importaría ser <if(gnum4,una tía honoraria,un tío honorario)>, ¿verdad, <split(<string(gstr1)>, ,1)>? ¡Ja, ja!" },
     { "gameKey": "custom/009/CtsSfsCharacter11_00909#TEXT_CTSSFSCHARACTER11_00909_AFTWEEKLY_000_000", "hash": "51F88991138A7842", "target": "Has entregado el máximo semanal de seis objetos a Nitowikwe. Podrás volver a hacer entregas a partir del <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." },
     { "gameKey": "custom/009/CtsSfsCharacter11_00909#TEXT_CTSSFSCHARACTER11_00909_NITOWIKWE_000_000", "hash": "8C73F6C77638C87B", "target": "¿Qué ha sido de tus herramientas, <split(<string(gstr1)>, ,1)>?" },
-    { "gameKey": "custom/009/CtsSfsCharacter11_00909#TEXT_CTSSFSCHARACTER11_00909_QUEST_SYSTEM_000_002", "hash": "C781B8325B8E9082", "target": "Para emprender la siguiente misión, habla con Nitowikwe siendo discípulo de la mano o de la tierra." }
+    { "gameKey": "custom/009/CtsSfsCharacter11_00909#TEXT_CTSSFSCHARACTER11_00909_QUEST_SYSTEM_000_002", "hash": "C781B8325B8E9082", "target": "Para emprender la siguiente misión, habla con Nitowikwe siendo artesano o recolector." }
   ]
 }

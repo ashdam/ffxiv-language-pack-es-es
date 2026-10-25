@@ -74,50 +74,14 @@
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_QIB_SERPENTLT_BATTLETALK_DEAD", "hash": "9B854BA344E6590A", "target": "Que los elementales se los lleven..." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_QIB_SERPENTPRIFIRST_BATTLETALK_DEAD", "hash": "A8415FD2BF3559F2", "target": "S-Son... demasiado fuertes..." },
     { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_QIB_SERPENTPRIVATE_BATTLETALK_DEAD", "hash": "D53715CCD3E16044", "target": "Vengadme..." },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_00",
-      "hash": "0AF11E81407C67F3",
-      "target": "El oficial de reclutamiento de las Víboras Gemelas parece deseoso de darte la bienvenida a la Gran Compañía de Gridania."
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_01",
-      "hash": "E33A04D16A03B7E3",
-      "target": "Has confirmado tu intención de unirte a las filas de la Orden de las Víboras Gemelas. Visita el cuartel general de las Víboras Gemelas en Gridania y habla con el oficial de personal para incorporarte formalmente a la Gran Compañía."
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_02",
-      "hash": "A4E39A2333BC656A",
-      "target": "Tu incorporación formal a la Orden de las Víboras Gemelas se ve interrumpida por un informe urgente: los imperiales han atacado una aeronave de Rutas Aéreas Highwind. Ve al sureste de las Nueve Hiedras y averigua la suerte de la nave y su tripulación."
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_03",
-      "hash": "7AF36720D6F24A0B",
-      "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve al cuartel general de las Víboras Gemelas e informa al oficial de personal."
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_04",
-      "hash": "8F3382DE35066131",
-      "target": "De vuelta en el cuartel general de las Víboras Gemelas, el oficial de personal elogia tus esfuerzos y te asegura que los dos ingenieros que encontraste pudieron seguir su camino. Después expresa su deseo de completar tu incorporación a las filas de la Orden de las Víboras Gemelas. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para atender las formalidades."
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_00",
-      "hash": "15A5794CB693BF4F",
-      "target": "Hablar con el oficial de personal en el cuartel general de las Víboras Gemelas"
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_01",
-      "hash": "526C99D6842157D0",
-      "target": "Ir al sureste de las Nueve Hiedras y averiguar la suerte de la aeronave y su tripulación"
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_02",
-      "hash": "B625568F4B5464E4",
-      "target": "Hablar con el oficial de personal en el cuartel general de las Víboras Gemelas"
-    },
-    {
-      "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_QIB_TODO_001",
-      "hash": "31AFD7B3AC82466E",
-      "target": "¡Derrota a los soldados imperiales!"
-    }
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_00", "hash": "0AF11E81407C67F3", "target": "El oficial de reclutamiento de las Víboras Gemelas parece deseoso de darte la bienvenida a la Gran Compañía de Gridania." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_01", "hash": "E33A04D16A03B7E3", "target": "Has confirmado tu intención de unirte a las filas de la Orden de las Víboras Gemelas. Visita el cuartel general de las Víboras Gemelas en Gridania y habla con el oficial de personal para incorporarte formalmente a la Gran Compañía." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_02", "hash": "A4E39A2333BC656A", "target": "Tu incorporación formal a la Orden de las Víboras Gemelas se ve interrumpida por un informe urgente: los imperiales han atacado una aeronave de Rutas Aéreas Highwind. Ve al sureste de las Nueve Hiedras y averigua la suerte de la nave y su tripulación." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_03", "hash": "7AF36720D6F24A0B", "target": "Has derrotado a los soldados imperiales que pretendían requisar la aeronave derribada. Descubres que la tripulación de la nave, Biggs y Wedge, son ingenieros de las Fundiciones Garlond, y que el propio maestro Garlond lleva desaparecido desde la Calamidad. Vuelve al cuartel general de las Víboras Gemelas e informa al oficial de personal." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_SEQ_04", "hash": "8F3382DE35066131", "target": "De vuelta en el cuartel general de las Víboras Gemelas, el oficial de personal elogia tus esfuerzos y te asegura que los dos ingenieros que encontraste pudieron seguir su camino. Después expresa su deseo de completar tu incorporación a las filas de la Orden de las Víboras Gemelas. Habla de nuevo con él cuando estés list<if(gnum4,a,o)> para atender las formalidades." },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_00", "hash": "15A5794CB693BF4F", "target": "Hablar con el oficial de personal en el cuartel general de las Víboras Gemelas" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_01", "hash": "526C99D6842157D0", "target": "Ir al sureste de las Nueve Hiedras y averiguar la suerte de la aeronave y su tripulación" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_TODO_02", "hash": "B625568F4B5464E4", "target": "Hablar con el oficial de personal en el cuartel general de las Víboras Gemelas" },
+    { "gameKey": "quest/006/ManFst302_00680#TEXT_MANFST302_00680_QIB_TODO_001", "hash": "31AFD7B3AC82466E", "target": "¡Derrota a los soldados imperiales!" }
   ]
 }

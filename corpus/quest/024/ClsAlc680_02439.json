@@ -2,82 +2,22 @@
   "conversation": "quest/024/ClsAlc680_02439",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_00",
-      "hash": "AA13F077CEE7E5DB",
-      "target": "Greinfarr te aguarda con noticias en la cámara mortuoria de Erralig."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_01",
-      "hash": "616A43404E9BAB67",
-      "target": "Greinfarr lamenta los errores de su pasado. Para enmendarlos, resuelve encontrar Traspasacorazón, y hacerlo recurriendo primero a los tenderos de Ul'dah para averiguar lo que pueda. Viaja a la cámara mortuoria de Erralig y habla allí con Greinfarr sobre su plan."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_02",
-      "hash": "271DD13DC672F046",
-      "target": "Tras deliberar con Greinfarr, habéis determinado a qué tiendas acudirá cada uno. Por tu parte, busca a Marcel en Joyas de Eshtaime."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_03",
-      "hash": "B906BCC6CA4E1BF3",
-      "target": "Marcel te informa de que vendió Traspasacorazón a un mercader llamado Ansobert. Mientras hablas con Marcel, recibes noticias de F'lhaminn. Parece que algo le ha ocurrido a Greinfarr. Ve a hablar con F'lhaminn en la Academia Médica de Frondale."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_04",
-      "hash": "6AEEF4A925299D0B",
-      "target": "Greinfarr fue atacado por un asaltante desconocido, y el autor escapó, aunque con una mano herida. Tras consultar con Popokkuli cuál es la mejor forma de analizar la sangre dejada en la escena, este te aconseja hablar con Severian en el Gremio de Alquimistas."
-    },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_00", "hash": "AA13F077CEE7E5DB", "target": "Greinfarr te aguarda con noticias en la cámara mortuoria de Erralig." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_01", "hash": "616A43404E9BAB67", "target": "Greinfarr lamenta los errores de su pasado. Para enmendarlos, resuelve encontrar Traspasacorazón, y hacerlo recurriendo primero a los tenderos de Ul'dah para averiguar lo que pueda. Viaja a la cámara mortuoria de Erralig y habla allí con Greinfarr sobre su plan." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_02", "hash": "271DD13DC672F046", "target": "Tras deliberar con Greinfarr, habéis determinado a qué tiendas acudirá cada uno. Por tu parte, busca a Marcel en Joyas de Eshtaime." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_03", "hash": "B906BCC6CA4E1BF3", "target": "Marcel te informa de que vendió Traspasacorazón a un mercader llamado Ansobert. Mientras hablas con Marcel, recibes noticias de F'lhaminn. Parece que algo le ha ocurrido a Greinfarr. Ve a hablar con F'lhaminn en la Academia Médica de Frondale." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_04", "hash": "6AEEF4A925299D0B", "target": "Greinfarr fue atacado por un asaltante desconocido, y el autor escapó, aunque con una mano herida. Tras consultar con Popokkuli cuál es la mejor forma de analizar la sangre dejada en la escena, este te aconseja hablar con Severian en el Gremio de Alquimistas." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_05", "hash": "4542500B4535F919", "target": "Severian te habla de una sustancia capaz de aislar ciertos elementos traza presentes en una muestra de sangre y provocar en ellos una reacción luminiscente. Usando un juego de ingredientes de luminol como base, sintetiza una botella de <lower(<sheet(Item,17930,9)>)> y entrégasela a Popokkuli en las Escalinatas de Thal.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian." },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_06",
-      "hash": "E9D25CBDE15FC2BD",
-      "target": "Has entregado la botella de <lower(<sheet(Item,17930,9)>)> a Popokkuli. Sigue las manchas de sangre a lo largo del camino y luego viaja a la Lonja de la Avenida Zafiro para hablar de nuevo con Popokkuli."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_07",
-      "hash": "9CAAD2B40BDB51A0",
-      "target": "El boticario Rarakiya te habla de un cliente que recientemente compró un ungüento para una herida abierta en la mano. Sigue a Popokkuli, que partió en dirección a la Puerta de Thal."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_08",
-      "hash": "6F28733648D8108C",
-      "target": "Junto a Popokkuli, sigues el rastro del autor del ataque a Greinfarr y llegáis a un almacén alquilado. Allí averiguas que el almacén lo usa el mismo mercader que compró Traspasacorazón en Joyas de Eshtaime: Ansobert.<br><br>※La próxima misión de alquimista estará disponible con Popokkuli, en la Lonja de la Avenida Zafiro, al alcanzar el nivel 70."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_00",
-      "hash": "3EDDAD20921E7A14",
-      "target": "Hablar con Greinfarr"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_01",
-      "hash": "4805EBDE2F70EEB8",
-      "target": "Hablar con Marcel en Joyas de Eshtaime"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_02",
-      "hash": "D31669EA405A6842",
-      "target": "Hablar con F'lhaminn"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_03",
-      "hash": "BD389D298BF5A620",
-      "target": "Hablar con Severian"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_04",
-      "hash": "E0743AB3AEC91B2D",
-      "target": "<if([lnum1<lnum2],Sintetizar una botella de <lower(<sheet(Item,17930,9)>)> <sheet(Addon,9,0)>,Entregar la botella de <lower(<sheet(Item,17930,9)>)> <sheet(Addon,9,0)> a Popokkuli)>."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_05",
-      "hash": "B902E4D3182ADDA6",
-      "target": "Seguir a Popokkuli"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_06",
-      "hash": "B4B1C8A0FEB85C50",
-      "target": "Seguir a Popokkuli"
-    },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_06", "hash": "E9D25CBDE15FC2BD", "target": "Has entregado la botella de <lower(<sheet(Item,17930,9)>)> a Popokkuli. Sigue las manchas de sangre a lo largo del camino y luego viaja a la Lonja de la Avenida Zafiro para hablar de nuevo con Popokkuli." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_07", "hash": "9CAAD2B40BDB51A0", "target": "El boticario Rarakiya te habla de un cliente que recientemente compró un ungüento para una herida abierta en la mano. Sigue a Popokkuli, que partió en dirección a la Puerta de Thal." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SEQ_08", "hash": "6F28733648D8108C", "target": "Junto a Popokkuli, sigues el rastro del autor del ataque a Greinfarr y llegáis a un almacén alquilado. Allí averiguas que el almacén lo usa el mismo mercader que compró Traspasacorazón en Joyas de Eshtaime: Ansobert.<br><br>※La próxima misión de alquimista estará disponible con Popokkuli, en la Lonja de la Avenida Zafiro, al alcanzar el nivel 70." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_00", "hash": "3EDDAD20921E7A14", "target": "Hablar con Greinfarr" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_01", "hash": "4805EBDE2F70EEB8", "target": "Hablar con Marcel en Joyas de Eshtaime" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_02", "hash": "D31669EA405A6842", "target": "Hablar con F'lhaminn" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_03", "hash": "BD389D298BF5A620", "target": "Hablar con Severian" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_04", "hash": "E0743AB3AEC91B2D", "target": "<if([lnum1<lnum2],Sintetizar una botella de <lower(<sheet(Item,17930,9)>)> <sheet(Addon,9,0)>,Entregar la botella de <lower(<sheet(Item,17930,9)>)> <sheet(Addon,9,0)> a Popokkuli)>." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_05", "hash": "B902E4D3182ADDA6", "target": "Seguir a Popokkuli" },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_TODO_06", "hash": "B4B1C8A0FEB85C50", "target": "Seguir a Popokkuli" },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_001", "hash": "FA903691C221DA7A", "target": "Perdón por la espera, amigo. Gracias a su pequeño regalo, oí de Mumuepo lo que necesitaba. Lo contaré todo en cuanto lleguen unos viejos camaradas míos." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_002", "hash": "3D545F4AA6DE2729", "target": "Estos dos son Popokkuli y Seserukka, los hijos de la Compañía Minera Amajina e Hijos, y viejos amigos míos. Fueron ellos quienes concertaron mi encuentro con Mumuepo." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_GREINFARR_000_003", "hash": "97FEDB3A5E79C3C7", "target": "Antes de contarle lo que Mumuepo dijo del Traspasacorazón, debo hablarle de nuestro crimen: el imperdonable crimen que privó a una joven de una vida feliz." },
@@ -136,36 +76,12 @@
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_110", "hash": "4F6A537A12AFFF3A", "target": "¿Has traído lo que pedimos? Entonces no perdamos más tiempo." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_111", "hash": "BADE2593BA3464BC", "target": "¡Mira, ahí! Donde borraron el rastro de sangre. ¡Resplandece! Y conduce hacia la Lonja de la Avenida Zafiro." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_112", "hash": "15EFD414D5ACC429", "target": "¡Empieza la persecución!" },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_100_112",
-      "hash": "53D9EAAD6C26C106",
-      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el norte."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_200_112",
-      "hash": "4018936CE38C8C79",
-      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el nordeste."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_300_112",
-      "hash": "D5C360EFC4A3BB05",
-      "target": "El rastro de sangre brilla con un azul astral y lleva hacia la Lonja de la Avenida Zafiro."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_400_112",
-      "hash": "A185BE7565DADA5D",
-      "target": "El rastro de sangre brilla con un azul astral y serpentea por la zona. Parece como si el atacante hubiera estado buscando algo aquí."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_500_112",
-      "hash": "B92352E787E5D800",
-      "target": "El rastro de sangre brilla con un azul astral y lleva hacia el sur."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_600_112",
-      "hash": "B60CE242EC138151",
-      "target": "El rastro de sangre brilla con un azul astral e indica un paso más lento. Quizá el refugio del atacante esté cerca."
-    },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_100_112", "hash": "53D9EAAD6C26C106", "target": "El rastro de sangre brilla con un azul astral y lleva hacia el norte." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_200_112", "hash": "4018936CE38C8C79", "target": "El rastro de sangre brilla con un azul astral y lleva hacia el nordeste." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_300_112", "hash": "D5C360EFC4A3BB05", "target": "El rastro de sangre brilla con un azul astral y lleva hacia la Lonja de la Avenida Zafiro." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_400_112", "hash": "A185BE7565DADA5D", "target": "El rastro de sangre brilla con un azul astral y serpentea por la zona. Parece como si el atacante hubiera estado buscando algo aquí." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_500_112", "hash": "B92352E787E5D800", "target": "El rastro de sangre brilla con un azul astral y lleva hacia el sur." },
+    { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SYSTEM_600_112", "hash": "B60CE242EC138151", "target": "El rastro de sangre brilla con un azul astral e indica un paso más lento. Quizá el refugio del atacante esté cerca." },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_SESERUKKA_000_114", "hash": "453FB4F9F862C63B", "target": "¿Tienes lo que pedimos? ¡Bien! ¡Entrégaselo a mi hermano de inmediato!" },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_POPOKKULI_000_120", "hash": "FB9D684C404C48DF", "target": "¡Tenemos una pista, <split(<string(gstr1)>, ,1)>! ¡Este mercader dice haber visto a un tipo de aspecto turbio con una herida abierta!" },
     { "gameKey": "quest/024/ClsAlc680_02439#TEXT_CLSALC680_02439_DRUGSTORE02439_000_121", "hash": "8172AC97FAB7FF7F", "target": "Así es. Le manaba sangre de un tajo en la mano. Le dije que fuera a la Academia Médica a que lo curaran, pero se limitó a comprar un ungüento para la herida y se largó hacia la Puerta de Thal." },

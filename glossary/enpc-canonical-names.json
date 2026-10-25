@@ -1,7 +1,11 @@
 {
+  "_comment": [
+    "Excepciones de nombres propios de ENpcResident: terminology-npc-names exige la traducción acordada para cada gameKey. Ejemplo: Ramuh → Lamú.",
+    "No aplica traducciones ni determina el género: el texto debe estar también en corpus. Uso y formato: Tools/README.md, apartado terminology-npc-names."
+  ],
   "entries": [
-    {"gameKey":"ENpcResident#1005162.0","en":"Ramuh","es-es":"Lamú"},
-    {"gameKey":"ENpcResident#1005162.2","en":"Ramuh","es-es":"Lamú"},
+    {"gameKey":"ENpcResident#1005162.0","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
+    {"gameKey":"ENpcResident#1005162.2","en":"Ramuh","es-es":"Lamú","evidence":[{"url":"https://na.finalfantasyxvi.com/es/characters","lang":"es-es","term":"Lamú"}]},
     {"gameKey":"ENpcResident#1007017.0","en":"Titan","es-es":"Titán"},
     {"gameKey":"ENpcResident#1007017.2","en":"Titan","es-es":"Titán"},
     {"gameKey":"ENpcResident#1010137.0","en":"Typhon","es-es":"Tifón"},

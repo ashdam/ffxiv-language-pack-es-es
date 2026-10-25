@@ -2,36 +2,12 @@
   "conversation": "quest/020/ClsCul580_02046",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_00",
-      "hash": "E1846AC6F6A992E1",
-      "target": "Melkoko querría compartir contigo el desenlace del plan de Rhoswen."
-    },
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_01",
-      "hash": "6F4717D2115566FB",
-      "target": "Tras informarte del fallido intento de Rhoswen de tender una trampa a Carvallain, Melkoko recuerda que Lyngsath te andaba buscando. Corre al Bismarck y pregúntale al maestro del gremio qué necesita de ti."
-    },
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_02",
-      "hash": "63F245FD1C48A7A7",
-      "target": "Lyngsath te informa de que Maese Dellemont, fundador y juez del concurso que lleva su nombre, va a venir al Bismarck a inspeccionar la sede. Con las manos ocupadas preparando la visita, Lyngsath necesita que cocines en su lugar para un viejo amigo. El amigo, un anciano pirata retirado, es aficionado a la carne, pero ya no tiene dientes con que masticarla. Con este fin, Lyngsath te pide que le prepares un plato a la vez carnoso y tierno: cockatrice meatballs."
-    },
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_03",
-      "hash": "236AB3D70C446C06",
-      "target": "Apenas presentas las cockatrice meatballs a Lyngsath, Maese Dellemont llega al Bismarck. Espera con paciencia mientras el maestro del gremio sirve a su viejo amigo, que devora su comida con fruición y se marcha con una sonrisa. Poco después, H'mhasi Tia y Melkoko vienen a presentar sus respetos a Maese Dellemont, pero estalla entre ellos una discusión que culmina en una apuesta inesperada. Aunque no le corresponde en absoluto, Melkoko acepta ceder la propiedad del Bismarck a H'mhasi Tia si este sale triunfante en el Dellemont d'Or. Si pierde ante ti, en cambio, deberá renunciar a su vocación. Lo que está en juego ha subido enormemente; procura estar bien preparado para el concurso, aunque solo sea por Lyngsath.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 60."
-    },
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_00",
-      "hash": "3B1B41D5DFCF22E5",
-      "target": "Hablar con Lyngsath"
-    },
-    {
-      "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_01",
-      "hash": "8099264D4FC0FC45",
-      "target": "<if([lnum1<lnum2],Sintetizar una ración de <lower(<sheet(Item,12858,9)>)> <sheet(Addon,9,0)>,Entregar las cockatrice meatballs <sheet(Addon,9,0)> a Lyngsath)>"
-    },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_00", "hash": "E1846AC6F6A992E1", "target": "Melkoko querría compartir contigo el desenlace del plan de Rhoswen." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_01", "hash": "6F4717D2115566FB", "target": "Tras informarte del fallido intento de Rhoswen de tender una trampa a Carvallain, Melkoko recuerda que Lyngsath te andaba buscando. Corre al Bismarck y pregúntale al maestro del gremio qué necesita de ti." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_02", "hash": "63F245FD1C48A7A7", "target": "Lyngsath te informa de que Maese Dellemont, fundador y juez del concurso que lleva su nombre, va a venir al Bismarck a inspeccionar la sede. Con las manos ocupadas preparando la visita, Lyngsath necesita que cocines en su lugar para un viejo amigo. El amigo, un anciano pirata retirado, es aficionado a la carne, pero ya no tiene dientes con que masticarla. Con este fin, Lyngsath te pide que le prepares un plato a la vez carnoso y tierno: cockatrice meatballs." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_SEQ_03", "hash": "236AB3D70C446C06", "target": "Apenas presentas las cockatrice meatballs a Lyngsath, Maese Dellemont llega al Bismarck. Espera con paciencia mientras el maestro del gremio sirve a su viejo amigo, que devora su comida con fruición y se marcha con una sonrisa. Poco después, H'mhasi Tia y Melkoko vienen a presentar sus respetos a Maese Dellemont, pero estalla entre ellos una discusión que culmina en una apuesta inesperada. Aunque no le corresponde en absoluto, Melkoko acepta ceder la propiedad del Bismarck a H'mhasi Tia si este sale triunfante en el Dellemont d'Or. Si pierde ante ti, en cambio, deberá renunciar a su vocación. Lo que está en juego ha subido enormemente; procura estar bien preparado para el concurso, aunque solo sea por Lyngsath.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 60." },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_00", "hash": "3B1B41D5DFCF22E5", "target": "Hablar con Lyngsath" },
+    { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_TODO_01", "hash": "8099264D4FC0FC45", "target": "<if([lnum1<lnum2],Sintetizar una ración de <lower(<sheet(Item,12858,9)>)> <sheet(Addon,9,0)>,Entregar las cockatrice meatballs <sheet(Addon,9,0)> a Lyngsath)>" },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_000", "hash": "4568324C012B0A2C", "target": "Sin duda te preguntas en qué quedó el plan de la capitana Rhoswen. Pues bien, poco después de que te fueras, invitó a Carvallain a cenar a su barco. Ay, él sospechó de sus intenciones desde el primer momento, y se negó a llevarse nada a la boca. Se quedó ahí sentado, pinchando y hurgando en su comida..." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_001", "hash": "2C98B8161476B8A3", "target": "¡Bah, qué desperdicio! Con todo lo que hablaba de acabar con él, ¡no era ninguna trampa! \\<suspiro> Si no fuera tan condenadamente orgullosa y testaruda..." },
     { "gameKey": "quest/020/ClsCul580_02046#TEXT_CLSCUL580_02046_MELKOKO_000_002", "hash": "B36E68790FCE2F75", "target": "Y esas son todas las novedades que tengo que contar.<br>...¡Ah, cierto! Lyngsath te estaba buscando. Parecía andar en algún apuro, así que más vale que vayas a ver qué se cuece." },

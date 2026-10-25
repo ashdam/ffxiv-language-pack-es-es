@@ -2,82 +2,22 @@
   "conversation": "quest/024/ClsAlc700_02440",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_00",
-      "hash": "CF828A8D1F690184",
-      "target": "Popokkuli parece muy decepcionado."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_01",
-      "hash": "F4377D031EF02CF1",
-      "target": "Popokkuli te cuenta que Ansobert ha escapado de su almacén. Viaja a la Lonja de la Avenida Zafiro y busca allí a la sirvienta del mercader."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_02",
-      "hash": "5F206D54BF110CCC",
-      "target": "La angustiada sirvienta de Ansobert revela que hay un extraño rumor en torno a su señor. Viaja a la cámara mortuoria de Erralig y habla con ella una vez más."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_03",
-      "hash": "93CDA86505DB2637",
-      "target": "La angustiada sirvienta te confiesa que los restos hallados a las afueras de las murallas de la ciudad eran los de su amiga desaparecida. Para continuar la caza de Ansobert, viaja al Peaje del Aparecido y habla con Popokkuli."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_04",
-      "hash": "774890E5E9204EB6",
-      "target": "Ansobert confiesa el crimen de asesinar a la mujer cuyo cadáver se halló a las afueras de la ciudad. Has requisado Traspasacorazón, y todo lo que queda ahora es usarlo para liberar a Niellefresne de la maldición de la hoja. Regresa al Gremio de Alquimistas para hablar con Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_05",
-      "hash": "39B5218A7E2C6114",
-      "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de ingredientes para disolvente para mezclar un <ennoun(Item,3,17932,1,1)>, y luego entrégaselo a Greinfarr en la cámara mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_06",
-      "hash": "6E02A6BE2C423611",
-      "target": "Has puesto el <ennoun(Item,3,17932,1,1)> en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_07",
-      "hash": "F9B777D38C757289",
-      "target": "Greinfarr ha dicho lo que tenía que decir. Regresa al Gremio de Alquimistas y transmite a Severian el profundo agradecimiento de F'lhaminn y sus amigos."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_08",
-      "hash": "3FD34590A51271F3",
-      "target": "Antes de volver a sus deberes alquímicos, Severian te deja la sabiduría de que aprender a vivir con la pérdida de los seres queridos nos obliga a enfrentar nuestras propias debilidades, y de que es una parte inevitable de la vida misma. Su confianza en ti ha crecido con la resolución de este asunto a tus manos. Sin duda, vuestras aventuras juntos están lejos de terminar."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_00",
-      "hash": "2CD6422D4871A5B7",
-      "target": "Buscar a la sirvienta de Ansobert"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_01",
-      "hash": "B63F15BA1A756B34",
-      "target": "Hablar con la melancólica doncella en la cámara mortuoria de Erralig"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_02",
-      "hash": "E7D416149C65EF86",
-      "target": "Hablar con Popokkuli en el Peaje del Aparecido"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_03",
-      "hash": "8767D09E09BC7B63",
-      "target": "Hablar con Severian en el Gremio de Alquimistas"
-    },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_00", "hash": "CF828A8D1F690184", "target": "Popokkuli parece muy decepcionado." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_01", "hash": "F4377D031EF02CF1", "target": "Popokkuli te cuenta que Ansobert ha escapado de su almacén. Viaja a la Lonja de la Avenida Zafiro y busca allí a la sirvienta del mercader." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_02", "hash": "5F206D54BF110CCC", "target": "La angustiada sirvienta de Ansobert revela que hay un extraño rumor en torno a su señor. Viaja a la cámara mortuoria de Erralig y habla con ella una vez más." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_03", "hash": "93CDA86505DB2637", "target": "La angustiada sirvienta te confiesa que los restos hallados a las afueras de las murallas de la ciudad eran los de su amiga desaparecida. Para continuar la caza de Ansobert, viaja al Peaje del Aparecido y habla con Popokkuli." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_04", "hash": "774890E5E9204EB6", "target": "Ansobert confiesa el crimen de asesinar a la mujer cuyo cadáver se halló a las afueras de la ciudad. Has requisado Traspasacorazón, y todo lo que queda ahora es usarlo para liberar a Niellefresne de la maldición de la hoja. Regresa al Gremio de Alquimistas para hablar con Severian." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_05", "hash": "39B5218A7E2C6114", "target": "Severian te informa de que la maldición sobre Niellefresne solo puede romperse destruyendo Traspasacorazón sin dejar rastro de ella. Usa un juego de ingredientes para disolvente para mezclar un <ennoun(Item,3,17932,1,1)>, y luego entrégaselo a Greinfarr en la cámara mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_06", "hash": "6E02A6BE2C423611", "target": "Has puesto el <ennoun(Item,3,17932,1,1)> en manos de Greinfarr. Liberados al fin de la maldición de Traspasacorazón, los restos de Niellefresne y de la joven brillan con el color del éter antes de desaparecer por completo. Habla una vez más con Greinfarr." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_07", "hash": "F9B777D38C757289", "target": "Greinfarr ha dicho lo que tenía que decir. Regresa al Gremio de Alquimistas y transmite a Severian el profundo agradecimiento de F'lhaminn y sus amigos." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_SEQ_08", "hash": "3FD34590A51271F3", "target": "Antes de volver a sus deberes alquímicos, Severian te deja la sabiduría de que aprender a vivir con la pérdida de los seres queridos nos obliga a enfrentar nuestras propias debilidades, y de que es una parte inevitable de la vida misma. Su confianza en ti ha crecido con la resolución de este asunto a tus manos. Sin duda, vuestras aventuras juntos están lejos de terminar." },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_00", "hash": "2CD6422D4871A5B7", "target": "Buscar a la sirvienta de Ansobert" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_01", "hash": "B63F15BA1A756B34", "target": "Hablar con la melancólica doncella en la cámara mortuoria de Erralig" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_02", "hash": "E7D416149C65EF86", "target": "Hablar con Popokkuli en el Peaje del Aparecido" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_03", "hash": "8767D09E09BC7B63", "target": "Hablar con Severian en el Gremio de Alquimistas" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_04", "hash": "9E2CAB886D6F2D8A", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,17932,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,17932,1,1)> <sheet(Addon,9,0)> a Greinfarr en la cámara mortuoria de Erralig.)>" },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_05",
-      "hash": "638579B79F74DB13",
-      "target": "Hablar con Greinfarr"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_06",
-      "hash": "5772BBA02818E90D",
-      "target": "Hablar con Severian"
-    },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_05", "hash": "638579B79F74DB13", "target": "Hablar con Greinfarr" },
+    { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_TODO_06", "hash": "5772BBA02818E90D", "target": "Hablar con Severian" },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_001", "hash": "78FF4AA1E7FF8A30", "target": "Perdóname, <split(<string(gstr1)>, ,1)>. Os he fallado a todos. Ansobert ha logrado escapar." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_002", "hash": "CF3EDBFCD04EC091", "target": "Para cuando Seserukka llegó con las Espadas de Latón y entramos en el almacén, ya se había marchado. Después montamos guardia por turnos, pero no regresó. Sin duda nos había calado." },
     { "gameKey": "quest/024/ClsAlc700_02440#TEXT_CLSALC700_02440_POPOKKULI_000_003", "hash": "05B5B8163B9D0547", "target": "Pero cuanto más aprendemos de nuestra presa, más probabilidades tenemos de lograr nuestra cacería." },

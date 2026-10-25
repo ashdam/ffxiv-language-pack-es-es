@@ -2,66 +2,18 @@
   "conversation": "quest/024/ClsAlc630_02437",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_00",
-      "hash": "A79829A7CA67E1D1",
-      "target": "Severian, del Gremio de Alquimistas, quiere hablar contigo."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_01",
-      "hash": "B69608350E2CC088",
-      "target": "Los resultados de la investigación de Severian indican que el cadáver de la joven presenta las marcas de un intento de resurrección de los muertos. Visita a Yayaroku en el Gremio de Taumaturgos y pregunta por los rumores sobre un taumaturgo excomulgado por nigromancia."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_02",
-      "hash": "12C44F06F51DF479",
-      "target": "Yayaroku ya no recuerda el nombre del taumaturgo excomulgado. Consulta de nuevo a Severian en el Gremio de Alquimistas y elabora una tintura de sabiduría endulzada para refrescarle la memoria."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_03",
-      "hash": "3C7825857978CC4A",
-      "target": "Severian te informa de que añadir un electuario como el birch syrup a un <ennoun(Item,3,17926,1,1)> lo hará agradable hasta para el paladar más goloso. Elabora uno de esos deliciosos <ennoun(Item,3,17926,2,1)> azucarados y entrégaselo a Yayaroku en el Gremio de Taumaturgos.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_04",
-      "hash": "C777D8032A0D05F8",
-      "target": "Entregas el <ennoun(Item,3,17926,1,1)> endulzado a Yayaroku. Esto lo mueve a hablar del antiguo maestro del gremio Mumuepo, de quien los rumores dicen que en su día intentó resucitar a los muertos con una hoja encantada conocida como Traspasacorazón. Viaja a la cámara mortuoria de Erralig y habla con Eadgytha para examinar el ataúd bajo la custodia de este Mumuepo."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_05",
-      "hash": "61886F6039290B07",
-      "target": "Eadgytha te informa de que, sin el permiso de Mumuepo, no puede permitir el examen del ataúd bajo su custodia. Regresa al Gremio de Alquimistas y busca el consejo de Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_06",
-      "hash": "6D33BBD396A09DCB",
-      "target": "Severian ha solicitado una reunión con Mumuepo para obtener permiso para examinar el ataúd bajo su custodia. Hasta entonces, te aconseja que continúes tus estudios de alquimia en el gremio y veas qué nuevos descubrimientos te ofrece.<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 65."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_00",
-      "hash": "30531C1235BEDE58",
-      "target": "Hablar con Yayaroku en el Osario de Arrzaneth"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_01",
-      "hash": "8C5ABE3C142C162E",
-      "target": "Hablar con Severian"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_02",
-      "hash": "ED9726422D566D76",
-      "target": "<if([lnum1<lnum2],Elaborar un <ennoun(Item,3,17926,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,17926,1,1)> <sheet(Addon,9,0)> a Yayaroku en el Osario de Arrzaneth)>."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_03",
-      "hash": "5304834A742CFFED",
-      "target": "Hablar con Eadgytha en la cámara mortuoria de Erralig"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_04",
-      "hash": "709B6BA4CCA667B8",
-      "target": "Hablar con Severian"
-    },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_00", "hash": "A79829A7CA67E1D1", "target": "Severian, del Gremio de Alquimistas, quiere hablar contigo." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_01", "hash": "B69608350E2CC088", "target": "Los resultados de la investigación de Severian indican que el cadáver de la joven presenta las marcas de un intento de resurrección de los muertos. Visita a Yayaroku en el Gremio de Taumaturgos y pregunta por los rumores sobre un taumaturgo excomulgado por nigromancia." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_02", "hash": "12C44F06F51DF479", "target": "Yayaroku ya no recuerda el nombre del taumaturgo excomulgado. Consulta de nuevo a Severian en el Gremio de Alquimistas y elabora una tintura de sabiduría endulzada para refrescarle la memoria." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_03", "hash": "3C7825857978CC4A", "target": "Severian te informa de que añadir un electuario como el birch syrup a un <ennoun(Item,3,17926,1,1)> lo hará agradable hasta para el paladar más goloso. Elabora uno de esos deliciosos <ennoun(Item,3,17926,2,1)> azucarados y entrégaselo a Yayaroku en el Gremio de Taumaturgos.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_04", "hash": "C777D8032A0D05F8", "target": "Entregas el <ennoun(Item,3,17926,1,1)> endulzado a Yayaroku. Esto lo mueve a hablar del antiguo maestro del gremio Mumuepo, de quien los rumores dicen que en su día intentó resucitar a los muertos con una hoja encantada conocida como Traspasacorazón. Viaja a la cámara mortuoria de Erralig y habla con Eadgytha para examinar el ataúd bajo la custodia de este Mumuepo." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_05", "hash": "61886F6039290B07", "target": "Eadgytha te informa de que, sin el permiso de Mumuepo, no puede permitir el examen del ataúd bajo su custodia. Regresa al Gremio de Alquimistas y busca el consejo de Severian." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEQ_06", "hash": "6D33BBD396A09DCB", "target": "Severian ha solicitado una reunión con Mumuepo para obtener permiso para examinar el ataúd bajo su custodia. Hasta entonces, te aconseja que continúes tus estudios de alquimia en el gremio y veas qué nuevos descubrimientos te ofrece.<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 65." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_00", "hash": "30531C1235BEDE58", "target": "Hablar con Yayaroku en el Osario de Arrzaneth" },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_01", "hash": "8C5ABE3C142C162E", "target": "Hablar con Severian" },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_02", "hash": "ED9726422D566D76", "target": "<if([lnum1<lnum2],Elaborar un <ennoun(Item,3,17926,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,17926,1,1)> <sheet(Addon,9,0)> a Yayaroku en el Osario de Arrzaneth)>." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_03", "hash": "5304834A742CFFED", "target": "Hablar con Eadgytha en la cámara mortuoria de Erralig" },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_TODO_04", "hash": "709B6BA4CCA667B8", "target": "Hablar con Severian" },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_001", "hash": "7A632B19DB334706", "target": "Ahí estás, mi aplicado pupilo. He estado en el camposanto y he examinado ese ataúd del que me hablaste. Y, en efecto, coincido de todo corazón contigo: un fenómeno de lo más extraño se está obrando, sin duda, sobre los restos de esa joven dama." },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_002", "hash": "C8D57FCE02F717F3", "target": "Tiene marcas de traumatismo por objeto romo en el cráneo. No presenta el menor signo de descomposición. Hay una ausencia total de rigor mortis. Mucho hay aquí que desconcierta a la ciencia, pero lo que más me interesa son los indicios de que fue objeto de una práctica de lo más aciago y prohibido." },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_003", "hash": "7B15DA2155EDB0B0", "target": "Sería prematuro y falaz proclamar que esta mujer sigue entre los vivos, pero concedería con cierto grado de confianza que fue el blanco de un intento de resurrección. Hmpf, jamás habría pensado que otros fueran tan proclives como yo a jugar con lo tabú." },
@@ -101,26 +53,10 @@
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_075", "hash": "61E703ACDB53138C", "target": "Muy bien. Solicitaré una reunión con Mumuepo. Pienso preguntarle cuanto haya que saber sobre este Traspasacorazón, y me postraré si es preciso con tal de obtener su permiso para seguir examinando el sarcófago a su cargo." },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_076", "hash": "BE010CD21E9E1CAA", "target": "Pareces sorprendido. ¿Te extraña verme tomar la iniciativa en tales asuntos? Te lo ruego, no malinterpretes la situación. Actúo por mi propio interés en esto, y solo por el mío. ¡No tengo intención de permitir que te diviertas tú solo!" },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SEVERIAN_000_077", "hash": "26F28E27A27FEED3", "target": "Me marcho, pues. ¿Por qué no dejar que la curiosidad te venza mientras estás aquí? El gremio ha hecho muchos descubrimientos prometedores últimamente. Aún queda mucho por aprender entre estos muros." },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_078",
-      "hash": "5F86C8DD907AACEC",
-      "target": "Para avanzar en la misión, usa los materiales proporcionados por Severian para fabricar un intelectuario de alta calidad."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_079",
-      "hash": "649C7C88F7BA38AB",
-      "target": "Si tus intentos de síntesis fracasan, habla de nuevo con Severian para recibir otro juego de materiales."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_080",
-      "hash": "E8C464E89E767896",
-      "target": "Para comenzar el proceso de fabricación, selecciona <colortype(500)><edgecolortype(501)>Cuadernos<edgecolortype(0)><colortype(0)> en el menú principal, seguido de <colortype(500)><edgecolortype(501)>Cuaderno de artesanía<edgecolortype(0)><colortype(0)>. A continuación, selecciona <colortype(500)><edgecolortype(501)>Recetas especiales<edgecolortype(0)><colortype(0)> dentro de la disciplina de artesanía requerida, luego <colortype(500)><edgecolortype(501)>Clase<edgecolortype(0)><colortype(0)> y, por último, <colortype(500)><edgecolortype(501)>Misiones de clase<edgecolortype(0)><colortype(0)> para localizar la receta deseada."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_081",
-      "hash": "3E8BFFB83402AB98",
-      "target": "¡Al indagar en la realidad fundamental como alquimista, has aprendido «Control de Calidad»!"
-    },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_078", "hash": "5F86C8DD907AACEC", "target": "Para avanzar en la misión, usa los materiales proporcionados por Severian para fabricar un intelectuario de alta calidad." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_079", "hash": "649C7C88F7BA38AB", "target": "Si tus intentos de síntesis fracasan, habla de nuevo con Severian para recibir otro juego de materiales." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_080", "hash": "E8C464E89E767896", "target": "Para comenzar el proceso de fabricación, selecciona <colortype(500)><edgecolortype(501)>Cuadernos<edgecolortype(0)><colortype(0)> en el menú principal, seguido de <colortype(500)><edgecolortype(501)>Cuaderno de artesanía<edgecolortype(0)><colortype(0)>. A continuación, selecciona <colortype(500)><edgecolortype(501)>Recetas especiales<edgecolortype(0)><colortype(0)> dentro de la disciplina de artesanía requerida, luego <colortype(500)><edgecolortype(501)>Clase<edgecolortype(0)><colortype(0)> y, por último, <colortype(500)><edgecolortype(501)>Misiones de clase<edgecolortype(0)><colortype(0)> para localizar la receta deseada." },
+    { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_SYSTEM_000_081", "hash": "3E8BFFB83402AB98", "target": "¡Al indagar en la realidad fundamental como alquimista, has aprendido «Control de Calidad»!" },
     { "gameKey": "quest/024/ClsAlc630_02437#TEXT_CLSALC630_02437_EADGYTHA_000_080", "hash": "417DD6773DBD3FA9", "target": "No tocará usted ni un solo ataúd de aquí sin la venia de su guardián. No mientras yo vigile." }
   ]
 }

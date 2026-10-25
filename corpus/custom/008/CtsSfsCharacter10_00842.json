@@ -279,6 +279,6 @@
     { "gameKey": "custom/008/CtsSfsCharacter10_00842#TEXT_CTSSFSCHARACTER10_00842_RANKUP_MARGRAT_006_009", "hash": "0BEEA2DB365ECAC1", "target": "¡Hodge, tú...! ¡C-Cómo te atreves a obligarme a llorar lágrimas de gratitud en tu l-lugar, ladino! ¡M-Manipulador agarrado! ¡Capitalista emocional! \\<sollozo>" },
     { "gameKey": "custom/008/CtsSfsCharacter10_00842#TEXT_CTSSFSCHARACTER10_00842_AFTWEEKLY_000_000", "hash": "043A3E558F4A7284", "target": "Has entregado el máximo semanal de seis objetos a Margrat. Podrás volver a hacer entregas a partir del <setresettime(17,2)><switch(t_wday,domingo,lunes,martes,miércoles,jueves,viernes,sábado)> a las <if(t_hour,<switch(t_hour,1,2,3,4,5,6,7,8,9,10,11,12,1,2,3,4,5,6,7,8,9,10,11)>,12)> <if([t_hour>=12],p. m.,a. m.)> (hora terrestre)." },
     { "gameKey": "custom/008/CtsSfsCharacter10_00842#TEXT_CTSSFSCHARACTER10_00842_MARGRAT_000_000", "hash": "AE43506C2A3A45EF", "target": "¿Quién será el próximo en asaltar las puertas, me pregunto?" },
-    { "gameKey": "custom/008/CtsSfsCharacter10_00842#TEXT_CTSSFSCHARACTER10_00842_QUEST_SYSTEM_000_002", "hash": "31AECBA3FC5E3C4C", "target": "Para emprender la próxima misión, habla con Margrat siendo discípulo de la mano o de la tierra." }
+    { "gameKey": "custom/008/CtsSfsCharacter10_00842#TEXT_CTSSFSCHARACTER10_00842_QUEST_SYSTEM_000_002", "hash": "31AECBA3FC5E3C4C", "target": "Para emprender la próxima misión, habla con Margrat siendo artesano o recolector." }
   ]
 }

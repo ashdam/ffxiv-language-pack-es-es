@@ -2,17 +2,9 @@
   "conversation": "quest/005/ClsAlc200_00582",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEQ_00",
-      "hash": "1DB6EAE62E8349E6",
-      "target": "El maestro del gremio Severian quiere poner a prueba tu creciente pericia con una nueva tarea."
-    },
+    { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEQ_00", "hash": "1DB6EAE62E8349E6", "target": "El maestro del gremio Severian quiere poner a prueba tu creciente pericia con una nueva tarea." },
     { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEQ_01", "hash": "F61448FF5F2A51D7", "target": "Se te ha confiado el encargo de un arcanista, un hombre cuyo nombre probablemente nunca conozcas si te ves <if(gnum4,obligada,obligado)> a fiarte de la selectiva memoria del maestro del gremio Severian. Fabrica el <ennoun(Item,3,2149,1,1)> mejorado con materia y entrégaselo a tu olvidadizo tutor. Los <ennoun(Item,3,5386,2,1)>, uno de los materiales necesarios para crear el tomo, deben obtenerse mediante recolección o comprarse en los tablones del mercado de la Lonja de la Avenida Zafiro. Y si deseas una explicación más paciente sobre la materia, Severian sugiere que te iría mejor viajar a la Hoguera, en el Centro de Thanalan, y visitar el campamento del goblin Mutamix." },
-    {
-      "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEQ_02",
-      "hash": "48DEFB6878830E7E",
-      "target": "Has entregado un <ennoun(Item,3,2149,1,1)> a Severian. A pesar de que no le quedó más remedio que visitar el gremio en persona para recoger su pedido, el arcanista parece encantado con la calidad del grimorio. Disfruta del cálido resplandor de los elogios del cliente sin dejar de esforzarte por mantener tu nueva reputación de «maestro alquimista».<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 25."
-    },
+    { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEQ_02", "hash": "48DEFB6878830E7E", "target": "Has entregado un <ennoun(Item,3,2149,1,1)> a Severian. A pesar de que no le quedó más remedio que visitar el gremio en persona para recoger su pedido, el arcanista parece encantado con la calidad del grimorio. Disfruta del cálido resplandor de los elogios del cliente sin dejar de esforzarte por mantener tu nueva reputación de «maestro alquimista».<br><br>※La próxima misión de alquimista estará disponible con Severian al alcanzar el nivel 25." },
     { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_TODO_00", "hash": "9BC8DF034BFB0028", "target": "Entregar un <ennoun(Item,3,2149,1,1)> mejorado con materia a Severian" },
     { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEVERIAN_000", "hash": "6BEABE78ABEA1AF3", "target": "Je je je... Ah, mi diestro ayudante, reconozco esa mirada de intensa hambre: ¡te adentras hasta la cintura en el fango de la alquimia!" },
     { "gameKey": "quest/005/ClsAlc200_00582#TEXT_CLSALC200_00582_SEVERIAN_001", "hash": "F11EBE7809DD0828", "target": "Y qué bien que muestres tal ansia, pues tengo lista una tarea que pondrá aún más a prueba y ampliará tu pericia." },

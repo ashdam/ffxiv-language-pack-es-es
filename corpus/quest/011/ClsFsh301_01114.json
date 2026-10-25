@@ -2,56 +2,16 @@
   "conversation": "quest/011/ClsFsh301_01114",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_00",
-      "hash": "C96034DDCB9DF620",
-      "target": "Sisipu quiere que atiendas a otro cliente incomprensible."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_01",
-      "hash": "F0645561CF680361",
-      "target": "La fama de tu destreza con la caña se ha extendido por toda Limsa Lominsa, y muchos buscan tus servicios. Uno de esos posibles clientes es un goblin llamado Tocktix, aunque los detalles de su encargo aún se desconocen. Habla con Tocktix para saber más."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_02",
-      "hash": "BD0ECF68BD0ED93D",
-      "target": "Tocktix te describe las circunstancias en que vislumbró el pez deseado, aunque ni él mismo está seguro de qué clase es. Transmite a Wawalago la descripción de Tocktix del pez para averiguar qué hay que hacer."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_03",
-      "hash": "9D7CA8C3BA7BAF27",
-      "target": "Wawalago postula que Tocktix habla de las <ennoun(Item,3,4898,2,1)>: un pez que solo se pesca tras la puesta de sol. Usa <ennoun(Item,3,2596,2,1)> para pescar diez por las Riberas Sangrientas y entrégaselas a Tocktix en el Gremio de Pescadores."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_04",
-      "hash": "6876CB4FF2FB40A4",
-      "target": "Tocktix está encantado de recibir las <ennoun(Item,3,4898,2,1)> y, en un arrebato de alegría, te proclama un legendario portador de peces. Hazle saber a Sisipu que el encargo está completo."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_05",
-      "hash": "452DE910715265CB",
-      "target": "Sisipu coincide con Tocktix en que tus proezas merecen un título, pero cree que podría haber una alternativa preferible a “portador de peces”.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 35."
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_00",
-      "hash": "67923DBD6335840A",
-      "target": "Hablar con Tocktix"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_01",
-      "hash": "FB820FE5AE2D2022",
-      "target": "Hablar con Wawalago"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_02",
-      "hash": "87BB7F4E3B0EBBB7",
-      "target": "Entregar <ennoun(Item,3,4898,2,1)> a Tocktix"
-    },
-    {
-      "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_03",
-      "hash": "0D544ABFC0DF1D9E",
-      "target": "Informar a Sisipu"
-    },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_00", "hash": "C96034DDCB9DF620", "target": "Sisipu quiere que atiendas a otro cliente incomprensible." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_01", "hash": "F0645561CF680361", "target": "La fama de tu destreza con la caña se ha extendido por toda Limsa Lominsa, y muchos buscan tus servicios. Uno de esos posibles clientes es un goblin llamado Tocktix, aunque los detalles de su encargo aún se desconocen. Habla con Tocktix para saber más." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_02", "hash": "BD0ECF68BD0ED93D", "target": "Tocktix te describe las circunstancias en que vislumbró el pez deseado, aunque ni él mismo está seguro de qué clase es. Transmite a Wawalago la descripción de Tocktix del pez para averiguar qué hay que hacer." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_03", "hash": "9D7CA8C3BA7BAF27", "target": "Wawalago postula que Tocktix habla de las <ennoun(Item,3,4898,2,1)>: un pez que solo se pesca tras la puesta de sol. Usa <ennoun(Item,3,2596,2,1)> para pescar diez por las Riberas Sangrientas y entrégaselas a Tocktix en el Gremio de Pescadores." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_04", "hash": "6876CB4FF2FB40A4", "target": "Tocktix está encantado de recibir las <ennoun(Item,3,4898,2,1)> y, en un arrebato de alegría, te proclama un legendario portador de peces. Hazle saber a Sisipu que el encargo está completo." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SEQ_05", "hash": "452DE910715265CB", "target": "Sisipu coincide con Tocktix en que tus proezas merecen un título, pero cree que podría haber una alternativa preferible a “portador de peces”.<br><br>※La próxima misión de pescador estará disponible con Sisipu al alcanzar el nivel 35." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_00", "hash": "67923DBD6335840A", "target": "Hablar con Tocktix" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_01", "hash": "FB820FE5AE2D2022", "target": "Hablar con Wawalago" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_02", "hash": "87BB7F4E3B0EBBB7", "target": "Entregar <ennoun(Item,3,4898,2,1)> a Tocktix" },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TODO_03", "hash": "0D544ABFC0DF1D9E", "target": "Informar a Sisipu" },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_000", "hash": "753EA2D5B742D7CD", "target": "El bagre que consiguió para Lyngsath ha causado todo un revuelo. Quedó tan complacido con la calidad y la rapidez de la entrega que anda hablando maravillas de usted a todo el que le presta oído." },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_001", "hash": "BA5D8A01BFA37AB3", "target": "Y ahora el rumor que corre por Limsa sobre <if(gnum4,una pescadora,un pescador)> de leyenda ha llegado a oídos de sus compañeros de gremio." },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_SISIPU_000_002", "hash": "B83FDAF04AB14464", "target": "Aunque la mayoría no tiene ni idea de quién es usted, eso no impide que los holgazanes que toman el sol se inventen cuentos populares sobre usted." },
@@ -69,7 +29,7 @@
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_024", "hash": "C7D0B961D9331C3E", "target": "Los bancos de crías migran a la luz de la luna por el estrecho de Merlthor para volver con sus madres... o para irse al otro barrio." },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_025", "hash": "A1E302859EFF246E", "target": "Y es también el mejor momento para pescarlas: atrápalas justo en su plenitud." },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_026", "hash": "32EEDF216E076514", "target": "Del ocaso al alba, los bancos suben y bajan por las Riberas Sangrientas." },
-    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_027", "hash": "ABA81EA72FA0FFEF", "target": "Hacer girar spoon worms en el agua te pescará unas sardinas y contentará a tu patrocinador." },
+    { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_WAWALAGO_000_027", "hash": "ABA81EA72FA0FFEF", "target": "Hacer girar gusanos cuchara en el agua te permitirá pescar unas sardinas y contentar a tu patrocinador." },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_030", "hash": "2D84131CD04AF5A6", "target": "Fshhh... Shkooo...<br>¿Una decena de peces de luna llena es para Tocktix?" },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_031", "hash": "23822256229FC7FE", "target": "Fshhh... Shkooo...<br>¡Sí, el portador de peces ha traído peces preciosos del mar de la luna!" },
     { "gameKey": "quest/011/ClsFsh301_01114#TEXT_CLSFSH301_01114_TOCKTIX_000_032", "hash": "D681DA15A140D67D", "target": "Ah, el primer vistazo a los peces preciosos sigue fresco en la sesera de Tocktix." },

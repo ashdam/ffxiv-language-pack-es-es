@@ -2,53 +2,17 @@
   "conversation": "quest/020/ClsCul530_02044",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_00",
-      "hash": "5ADDA5B5F6D740EF",
-      "target": "Melkoko tiene noticias para ti sobre el Dellemont d'Or."
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_01",
-      "hash": "5581FF5E51C6AC0E",
-      "target": "Una entusiasmada Melkoko te informa de que el Bismarck ha sido elegido como sede del Dellemont d'Or. Un miembro del comité del concurso ha venido al restaurante a inscribir a los participantes. Melkoko te pide que le des tu nombre y hagas oficial tu participación."
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_02",
-      "hash": "56970E23304162F7",
-      "target": "Te has inscrito como participante en el Dellemont d'Or. Vuelve con Melkoko al Miembro Perdido."
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_03",
-      "hash": "1CA0460424A59293",
-      "target": "Melkoko recibe con aprobación el informe de tu exitosa inscripción. Solo queda prepararse para el concurso, y Melkoko tiene enseguida un reto para ayudarte a entrar en forma. Una comensal no consigue decidirse por un postre, y tu tarea es preparar algo que agrade a su paladar. Busca a la comensal, una timonel de las Sirenas Sanguinarias, y pregúntale por sus preferencias."
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_04",
-      "hash": "982648782D886967",
-      "target": "La timonel te explica su dilema: no soporta las cosas dulces, pero debe aprender a comerlas para conservar su relación. Lleva a Melkoko la noticia de los peculiares requisitos de la comensal."
-    },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_00", "hash": "5ADDA5B5F6D740EF", "target": "Melkoko tiene noticias para ti sobre el Dellemont d'Or." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_01", "hash": "5581FF5E51C6AC0E", "target": "Una entusiasmada Melkoko te informa de que el Bismarck ha sido elegido como sede del Dellemont d'Or. Un miembro del comité del concurso ha venido al restaurante a inscribir a los participantes. Melkoko te pide que le des tu nombre y hagas oficial tu participación." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_02", "hash": "56970E23304162F7", "target": "Te has inscrito como participante en el Dellemont d'Or. Vuelve con Melkoko al Miembro Perdido." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_03", "hash": "1CA0460424A59293", "target": "Melkoko recibe con aprobación el informe de tu exitosa inscripción. Solo queda prepararse para el concurso, y Melkoko tiene enseguida un reto para ayudarte a entrar en forma. Una comensal no consigue decidirse por un postre, y tu tarea es preparar algo que agrade a su paladar. Busca a la comensal, una timonel de las Sirenas Sanguinarias, y pregúntale por sus preferencias." },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_04", "hash": "982648782D886967", "target": "La timonel te explica su dilema: no soporta las cosas dulces, pero debe aprender a comerlas para conservar su relación. Lleva a Melkoko la noticia de los peculiares requisitos de la comensal." },
     { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_05", "hash": "09DB979F5F7D309A", "target": "Al oír tu informe, Melkoko concluye enseguida que la timonel simplemente siente aversión por lo desconocido. Así pues, en lugar de ceñirse a los deseos de la clienta, sugiere que prepares algo dulce sin ningún reparo. Prepara una <ennoun(Item,3,12846,1,1)> y una <ennoun(Item,3,12842,1,1)>, y preséntaselas a Melkoko." },
     { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_SEQ_06", "hash": "BE671B2EE8426F69", "target": "Cediendo a la insistencia implacable de Melkoko, la timonel prueba con cautela tu <ennoun(Item,3,12846,1,1)> y tu <lower(<sheet(Item,12842,9)>)>. Para su asombro y deleite, encuentra ambos deliciosos. Habiendo vencido así su miedo a los dulces, se marcha muy animada, con la esperanza de que las cosas salgan bien entre ella y su galán. Tras verte en acción, Melkoko espera el Dellemont d'Or con aún más ilusión.<br><br>※La próxima misión de cocinero estará disponible con Melkoko al alcanzar el nivel 55." },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_00",
-      "hash": "F1C08CA5A6EE338D",
-      "target": "Hablar con el miembro del comité del concurso"
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_01",
-      "hash": "48757680122D50CF",
-      "target": "Hablar con Melkoko"
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_02",
-      "hash": "87FFDDE1369BD55B",
-      "target": "Hablar con la timonel de las Sirenas Sanguinarias"
-    },
-    {
-      "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_03",
-      "hash": "C8DEA37CE25C78B9",
-      "target": "Informar a Melkoko"
-    },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_00", "hash": "F1C08CA5A6EE338D", "target": "Hablar con el miembro del comité del concurso" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_01", "hash": "48757680122D50CF", "target": "Hablar con Melkoko" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_02", "hash": "87FFDDE1369BD55B", "target": "Hablar con la timonel de las Sirenas Sanguinarias" },
+    { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_03", "hash": "C8DEA37CE25C78B9", "target": "Informar a Melkoko" },
     { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_TODO_04", "hash": "47BCC0EE81069F39", "target": "Elaborar una <ennoun(Item,3,12846,1,1)> y una <ennoun(Item,3,12842,1,1)><sheet(Addon,9,0)> y entregarlas a Melkoko" },
     { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_000", "hash": "5D80ADDBBD76AE64", "target": "¡Buenas noticias, <split(<string(gstr1)>, ,1)>: el Bismarck ha sido elegido para acoger el Dellemont d'Or! ¿Qué mejor lugar para cocinar que la propia cocina de uno?" },
     { "gameKey": "quest/020/ClsCul530_02044#TEXT_CLSCUL530_02044_MELKOKO_000_001", "hash": "1F474E13A240D88D", "target": "Un miembro del comité del concurso ha venido al Gremio de Cocineros a inscribir participantes. ¡Ve y dale tu nombre ahora mismo, por favor!" },

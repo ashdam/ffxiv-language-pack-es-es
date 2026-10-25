@@ -2,76 +2,20 @@
   "conversation": "quest/024/ClsAlc650_02438",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_00",
-      "hash": "62EBAEA4789084BE",
-      "target": "Severian, del Gremio de Alquimistas, tiene noticias que desea compartir contigo."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_01",
-      "hash": "1288943FA2422C6F",
-      "target": "Severian ha podido reunirse con Mumuepo y obtener información sobre la hoja encantada, Traspasacorazón. Ve a hablar con Eadgytha a la cámara mortuoria de Erralig y averigua lo que puedas sobre los parientes que sobreviven a la joven allí enterrada."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_02",
-      "hash": "4E1ADF8102D3EA3E",
-      "target": "Eadgytha te informa de que a la difunta del ataúd que deseas examinar no le sobrevive nadie más que la Cantora de Ul'dah, F'lhaminn. Viaja al Peaje del Aparecido, en Mor Dhona, para hablar con ella."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_03",
-      "hash": "E87C5213D34C4EE1",
-      "target": "F'lhaminn te habla de un ataúd que contiene los restos de su difunto amante, Niellefresne. Regresa a la cámara mortuoria de Erralig para hablar de nuevo con F'lhaminn y reunirte con un viejo amigo suyo."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_04",
-      "hash": "CFA5A9D7E43CD3A6",
-      "target": "Junto a Greinfarr, un viejo amigo de F'lhaminn, vas a partir en busca de la hoja encantada, Traspasacorazón. Primero sal de la cámara mortuoria de Erralig y habla con Greinfarr para comenzar tu búsqueda."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_05",
-      "hash": "7A83D42DA4E85AA6",
-      "target": "Greinfarr te ha aconsejado preparar una muestra de buena voluntad para sonsacarle la verdad a Mumuepo. Regresa al Gremio de Alquimistas y habla con Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_06",
-      "hash": "C2F0543CE23C8253",
-      "target": "Severian te cuenta que, desde su reunión previa con Mumuepo, ha estado preparando un brebaje para soltarle la lengua al taumaturgo. Usa el juego de ingredientes para zumo que has obtenido para sintetizar una <ennoun(Item,3,17928,1,1)> de alta calidad, y luego entrégasela a Greinfarr en la cámara mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_07",
-      "hash": "DD931AB267FB3FED",
-      "target": "Has entregado la <ennoun(Item,3,17928,1,1)> de alta calidad a Greinfarr. Solo queda esperar su respuesta.<br><br>※La próxima misión de alquimista estará disponible con Greinfarr, frente a la cámara mortuoria de Erralig, al alcanzar el nivel 68."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_00",
-      "hash": "8A8CDF9AE92218B9",
-      "target": "Hablar con Eadgytha en la cámara mortuoria de Erralig"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_01",
-      "hash": "01C951250729B08A",
-      "target": "Hablar con F'lhaminn en el Peaje del Aparecido"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_02",
-      "hash": "C46400C273AA709E",
-      "target": "Hablar con F'lhaminn en Ul'dah"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_03",
-      "hash": "8ADE075185EAA0CF",
-      "target": "Hablar con Greinfarr"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_04",
-      "hash": "B5621A2814646B25",
-      "target": "Hablar con Severian"
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_05",
-      "hash": "D170CFA0D04A6FD7",
-      "target": "<if([lnum1<lnum2],Sintetizar una <ennoun(Item,3,17928,1,1)> <sheet(Addon,9,0)>,Entregar la <ennoun(Item,3,17928,1,1)> <sheet(Addon,9,0)> a Greinfarr en la cámara mortuoria de Erralig)>."
-    },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_00", "hash": "62EBAEA4789084BE", "target": "Severian, del Gremio de Alquimistas, tiene noticias que desea compartir contigo." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_01", "hash": "1288943FA2422C6F", "target": "Severian ha podido reunirse con Mumuepo y obtener información sobre la hoja encantada, Traspasacorazón. Ve a hablar con Eadgytha a la cámara mortuoria de Erralig y averigua lo que puedas sobre los parientes que sobreviven a la joven allí enterrada." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_02", "hash": "4E1ADF8102D3EA3E", "target": "Eadgytha te informa de que a la difunta del ataúd que deseas examinar no le sobrevive nadie más que la Cantora de Ul'dah, F'lhaminn. Viaja al Peaje del Aparecido, en Mor Dhona, para hablar con ella." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_03", "hash": "E87C5213D34C4EE1", "target": "F'lhaminn te habla de un ataúd que contiene los restos de su difunto amante, Niellefresne. Regresa a la cámara mortuoria de Erralig para hablar de nuevo con F'lhaminn y reunirte con un viejo amigo suyo." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_04", "hash": "CFA5A9D7E43CD3A6", "target": "Junto a Greinfarr, un viejo amigo de F'lhaminn, vas a partir en busca de la hoja encantada, Traspasacorazón. Primero sal de la cámara mortuoria de Erralig y habla con Greinfarr para comenzar tu búsqueda." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_05", "hash": "7A83D42DA4E85AA6", "target": "Greinfarr te ha aconsejado preparar una muestra de buena voluntad para sonsacarle la verdad a Mumuepo. Regresa al Gremio de Alquimistas y habla con Severian." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_06", "hash": "C2F0543CE23C8253", "target": "Severian te cuenta que, desde su reunión previa con Mumuepo, ha estado preparando un brebaje para soltarle la lengua al taumaturgo. Usa el juego de ingredientes para zumo que has obtenido para sintetizar una <ennoun(Item,3,17928,1,1)> de alta calidad, y luego entrégasela a Greinfarr en la cámara mortuoria de Erralig.<br><br>※Si pierdes los ingredientes o la síntesis fracasa, puedes volver a intentarlo hablando con Severian." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEQ_07", "hash": "DD931AB267FB3FED", "target": "Has entregado la <ennoun(Item,3,17928,1,1)> de alta calidad a Greinfarr. Solo queda esperar su respuesta.<br><br>※La próxima misión de alquimista estará disponible con Greinfarr, frente a la cámara mortuoria de Erralig, al alcanzar el nivel 68." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_00", "hash": "8A8CDF9AE92218B9", "target": "Hablar con Eadgytha en la cámara mortuoria de Erralig" },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_01", "hash": "01C951250729B08A", "target": "Hablar con F'lhaminn en el Peaje del Aparecido" },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_02", "hash": "C46400C273AA709E", "target": "Hablar con F'lhaminn en Ul'dah" },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_03", "hash": "8ADE075185EAA0CF", "target": "Hablar con Greinfarr" },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_04", "hash": "B5621A2814646B25", "target": "Hablar con Severian" },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_TODO_05", "hash": "D170CFA0D04A6FD7", "target": "<if([lnum1<lnum2],Sintetizar una <ennoun(Item,3,17928,1,1)> <sheet(Addon,9,0)>,Entregar la <ennoun(Item,3,17928,1,1)> <sheet(Addon,9,0)> a Greinfarr en la cámara mortuoria de Erralig)>." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEVERIAN_000_001", "hash": "578771F51603C23E", "target": "Ah, mi erudito colaborador. Bienvenido, bienvenido. Llevaba tiempo queriendo decírtelo: en efecto, me reuní y hablé con Mumuepo. Ay, pese a todo mi encanto, no logré sonsacarle la verdad acerca del Traspasacorazón." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEVERIAN_000_002", "hash": "38E8F2DF3A76AC6D", "target": "Y con razón. Es un hombre encarcelado, preso por crímenes que se sabe que cometió. Si confesara más crímenes, su condena no haría sino alargarse. Difícilmente se le puede reprochar su reticencia." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SEVERIAN_000_003", "hash": "3C98DD349AA76685", "target": "Esperaba al menos obtener permiso para investigar el ataúd a su cargo, pero fracasé incluso en eso. Mas no debemos entregarnos a la desesperación todavía. Hay otras maneras de exhumar a los muertos más allá del titular de los derechos de inhumación." },
@@ -100,16 +44,8 @@
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_034", "hash": "FD23C00A316BB4B1", "target": "Un viejo amigo mío prestará su ayuda. Le he pedido que se reúna con nosotros en la cámara mortuoria de Erralig. ¿Vienes? Me encantaría presentarrrte a mi Nielle." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_EADGYTHA_000_040", "hash": "86B96BA8D6CE503A", "target": "Al hombre que reposa en el sarcófago del que habla le sobrevive la gran Cantora de Ul'dah de antaño, F'lhaminn. Me dicen que puede hallarse en el Peaje del Aparecido." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_050", "hash": "724D4211CB30F079", "target": "Parece que mi viejo amigo aún no ha llegado. Ven, conozcamos a Nielle mientras esperamos. Es hora de abrir su ataúd." },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_051",
-      "hash": "7CB7C1D614FE5220",
-      "target": "En el viejo ataúd yace un Elezen perfectamente conservado. Su hermoso y apacible semblante sugiere un estado de sueño más que de muerte."
-    },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_052",
-      "hash": "586AF205A90F12F9",
-      "target": "La ausencia de pulso y aliento sugiere la ausencia de vida, pero es como si el cadáver pudiera despertar en cualquier momento. Es el mismo fenómeno que mostraban los restos de la joven."
-    },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_051", "hash": "7CB7C1D614FE5220", "target": "En el viejo ataúd yace un Elezen perfectamente conservado. Su hermoso y apacible semblante sugiere un estado de sueño más que de muerte." },
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_052", "hash": "586AF205A90F12F9", "target": "La ausencia de pulso y aliento sugiere la ausencia de vida, pero es como si el cadáver pudiera despertar en cualquier momento. Es el mismo fenómeno que mostraban los restos de la joven." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_GREINFARR_000_053", "hash": "70D7F42611C81AF8", "target": "Vaya, no esperaba que me llamaran aquí, de entre todos los lugares. Cuánto tiempo, Lhaminn." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_FLHAMINN_000_054", "hash": "70D2676248B0A240", "target": "Y que lo digas. Me pregunto: ¿debería seguirrr llamándote el Bronze Bull?" },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_GREINFARR_000_055", "hash": "C852C43C135C1BC4", "target": "No empieces con eso. Soy Greinfarr, como siempre lo he sido." },
@@ -150,10 +86,6 @@
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_GREINFARR_000_100", "hash": "DA1F8BA9D0FDEAB1", "target": "¿Ha podido prepararnos un regalo para Mumuepo?" },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_GREINFARR_000_101", "hash": "B3F6ACEB85E69C49", "target": "¡Jojo! Un buen trabajo, amigo. Sabía que hacía bien en pedírselo." },
     { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_GREINFARR_000_102", "hash": "AC3CBAD213349C22", "target": "Necesito tiempo para llevar el asunto a término. Usted y F'lhaminn tendréis que esperar." },
-    {
-      "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_103",
-      "hash": "78DC18CFB3587903",
-      "target": "¡Al indagar en la realidad fundamental como alquimista, has aprendido «Manipulation»!"
-    }
+    { "gameKey": "quest/024/ClsAlc650_02438#TEXT_CLSALC650_02438_SYSTEM_000_103", "hash": "78DC18CFB3587903", "target": "¡Al indagar en la realidad fundamental como alquimista, has aprendido «Manipulation»!" }
   ]
 }
