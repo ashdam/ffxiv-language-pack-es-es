@@ -1,3 +1,7 @@
+<blockquote>
+  <p><img src="docs/images/gubal-library.png" alt="Un chocobo y un búho leen un libro" width="48" height="48" align="absmiddle"> Colaboradores del equipo: <a href="https://github.com/ashdam">@ashdam</a> y <a href="https://github.com/lord-croquet">@lordcroquet</a>.</p>
+</blockquote>
+
 # Language pack en español para FFXIV (no oficial)
 
 Traducción al español de los textos de Final Fantasy XIV para el plugin de Dalamud
