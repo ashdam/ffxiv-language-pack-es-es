@@ -2,13 +2,13 @@
   "sheet": "ExtraCommand",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "" },
-    { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "" },
-    { "gameKey": "ExtraCommand#2.0", "hash": "6231AC85F7D1BD8E", "target": "" },
-    { "gameKey": "ExtraCommand#2.1", "hash": "1647DE2E6E3A33F5", "target": "" },
-    { "gameKey": "ExtraCommand#3.0", "hash": "3E8E2413B98FB61B", "target": "" },
-    { "gameKey": "ExtraCommand#3.1", "hash": "FBD694193578025C", "target": "" },
-    { "gameKey": "ExtraCommand#4.0", "hash": "3F659B09B3A15378", "target": "" },
-    { "gameKey": "ExtraCommand#4.1", "hash": "35A5FF247252E05B", "target": "" }
+    { "gameKey": "ExtraCommand#1.0", "hash": "6C597DEE82DC6E9E", "target": "Pose de grupo" },
+    { "gameKey": "ExtraCommand#1.1", "hash": "79ED1453CFA72723", "target": "Realiza una pose de grupo que repite en bucle el último gesto o acción ejecutados. La posición de la cámara, la iluminación y el filtro de color se pueden ajustar en la configuración del comando.<br><br><colortype(500)><edgecolortype(501)>Comando de texto: <edgecolortype(0)><colortype(0)>/grouppose<br><colortype(500)><edgecolortype(501)>Asignación de teclas: <edgecolortype(0)><colortype(0)> Disponible" },
+    { "gameKey": "ExtraCommand#2.0", "hash": "6231AC85F7D1BD8E", "target": "Cámara de reposo" },
+    { "gameKey": "ExtraCommand#2.1", "hash": "1647DE2E6E3A33F5", "target": "Activa la cámara de reposo. Mientras esté activa, la cámara alternará aleatoriamente entre personajes jugadores y no jugadores cercanos. Si ejecutas el comando con uno de ellos seleccionado, la cámara se centrará en ese objetivo. La posición de la cámara, la iluminación y el filtro de color se pueden ajustar en la configuración del comando.<br><br><colortype(500)><edgecolortype(501)>Comando de texto: <edgecolortype(0)><colortype(0)>/idlingcamera<br><colortype(500)><edgecolortype(501)>Asignación de teclas: <edgecolortype(0)><colortype(0)> Disponible" },
+    { "gameKey": "ExtraCommand#3.0", "hash": "3E8E2413B98FB61B", "target": "Alarma" },
+    { "gameKey": "ExtraCommand#3.1", "hash": "FBD694193578025C", "target": "Activa la alarma. Las alarmas se pueden programar para que suenen durante la partida y se eliminan al cerrar sesión.<br><br><colortype(500)><edgecolortype(501)>Comando de texto: <edgecolortype(0)><colortype(0)>/alarm<br><colortype(500)><edgecolortype(501)>Asignación de tecla: <edgecolortype(0)><colortype(0)> disponible" },
+    { "gameKey": "ExtraCommand#4.0", "hash": "3F659B09B3A15378", "target": "Panel de comandos" },
+    { "gameKey": "ExtraCommand#4.1", "hash": "35A5FF247252E05B", "target": "Muestra el panel de comandos.<br>Registra libremente distintas acciones y comandos, como monturas, mascotas, gestos y conjuntos de equipo, para acceder a ellos y ejecutarlos con facilidad.<br><br><colortype(500)><edgecolortype(501)>Comando de texto: <edgecolortype(0)><colortype(0)>/commandpanel<br><colortype(500)><edgecolortype(501)>Asignación de teclas: <edgecolortype(0)><colortype(0)> disponible" }
   ]
 }

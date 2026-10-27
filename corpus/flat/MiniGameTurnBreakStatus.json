@@ -2,17 +2,17 @@
   "sheet": "MiniGameTurnBreakStatus",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "MiniGameTurnBreakStatus#1.4", "hash": "0EDFC39313A7C471", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#1.5", "hash": "3EE8BFD912BDA23F", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#2.4", "hash": "AF620727BC3623FF", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#2.5", "hash": "E15663CC428D2C8E", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#3.4", "hash": "D0B4850CE3DCEFBA", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#3.5", "hash": "E68579B28304B9C5", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#4.4", "hash": "21EC0F62C31EA6B8", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#4.5", "hash": "C8B702ED0AEDACCF", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#5.4", "hash": "E3B24BE8A6B31EDE", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#5.5", "hash": "13BD7F6792C80B53", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#6.4", "hash": "BD7B3D05E4E87B58", "target": "" },
-    { "gameKey": "MiniGameTurnBreakStatus#6.5", "hash": "2C29B4B76BADBF29", "target": "" }
+    { "gameKey": "MiniGameTurnBreakStatus#1.4", "hash": "0EDFC39313A7C471", "target": "Barrera" },
+    { "gameKey": "MiniGameTurnBreakStatus#1.5", "hash": "3EE8BFD912BDA23F", "target": "Barrera\nInvulnerable a todo daño." },
+    { "gameKey": "MiniGameTurnBreakStatus#2.4", "hash": "AF620727BC3623FF", "target": "Autolázaro" },
+    { "gameKey": "MiniGameTurnBreakStatus#2.5", "hash": "E15663CC428D2C8E", "target": "Autolázaro\nResurrección automática al quedar fuera de combate." },
+    { "gameKey": "MiniGameTurnBreakStatus#3.4", "hash": "D0B4850CE3DCEFBA", "target": "Levitación" },
+    { "gameKey": "MiniGameTurnBreakStatus#3.5", "hash": "E68579B28304B9C5", "target": "Levitación\nFlotas sobre el suelo y eres inmune a los efectos del terreno." },
+    { "gameKey": "MiniGameTurnBreakStatus#4.4", "hash": "21EC0F62C31EA6B8", "target": "Veneno" },
+    { "gameKey": "MiniGameTurnBreakStatus#4.5", "hash": "C8B702ED0AEDACCF", "target": "Veneno\nLas toxinas causan daño al principio de cada turno." },
+    { "gameKey": "MiniGameTurnBreakStatus#5.4", "hash": "E3B24BE8A6B31EDE", "target": "Condena" },
+    { "gameKey": "MiniGameTurnBreakStatus#5.5", "hash": "13BD7F6792C80B53", "target": "Condena\nMuerte segura cuando el contador llegue a cero. El efecto solo se puede disipar al derrotar al enemigo que lo ha causado." },
+    { "gameKey": "MiniGameTurnBreakStatus#6.4", "hash": "BD7B3D05E4E87B58", "target": "Inmovilización" },
+    { "gameKey": "MiniGameTurnBreakStatus#6.5", "hash": "2C29B4B76BADBF29", "target": "Inmovilización\nNo puede moverse." }
   ]
 }
