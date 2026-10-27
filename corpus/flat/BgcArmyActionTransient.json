@@ -2,10 +2,10 @@
   "sheet": "BgcArmyActionTransient",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "BgcArmyActionTransient#1", "hash": "E0FA3F8E5578B066", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#2", "hash": "B37C5A49A69E5EBD", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#3", "hash": "573E1B117C6CD9C9", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#4", "hash": "6E4AFBE216E88B78", "target": "" },
-    { "gameKey": "BgcArmyActionTransient#5", "hash": "98C810A1205679B8", "target": "" }
+    { "gameKey": "BgcArmyActionTransient#1", "hash": "E0FA3F8E5578B066", "target": "Ordena al escuadrón que ataque al enemigo.<br>Solo se puede ejecutar durante una <colortype(506)><edgecolortype(507)>misión de mando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#2", "hash": "B37C5A49A69E5EBD", "target": "Ordena al escuadrón que deje de combatir al enemigo y se repliegue.<br>Solo se puede ejecutar durante una <colortype(506)><edgecolortype(507)>misión de mando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#3", "hash": "573E1B117C6CD9C9", "target": "Ordena al escuadrón que vuelva a atacar al enemigo.<br>Solo se puede ejecutar durante una <colortype(506)><edgecolortype(507)>misión de mando<edgecolortype(0)><colortype(0)>." },
+    { "gameKey": "BgcArmyActionTransient#4", "hash": "6E4AFBE216E88B78", "target": "Ordena al escuadrón que ejecute un límite contra un objetivo. También aumenta el daño que infligen los miembros del grupo en un radio de 20 yalms.<br>Solo se puede ejecutar durante una <colortype(506)><edgecolortype(507)>misión de mando<edgecolortype(0)><colortype(0)>, con el indicador de límite en nivel 1 y los tres miembros del escuadrón conscientes." },
+    { "gameKey": "BgcArmyActionTransient#5", "hash": "98C810A1205679B8", "target": "Muestra la barra de órdenes.<br>Solo se puede ejecutar durante una <colortype(506)><edgecolortype(507)>misión de mando<edgecolortype(0)><colortype(0)>." }
   ]
 }

@@ -62,6 +62,6 @@
     { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO2_YES", "hash": "0D22D3065610027E", "target": "Sí" },
     { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_CONFIRM_GET_MY_CHOCOBO2_NO", "hash": "246EB669E420165D", "target": "No" },
     { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_SUB_MENU_TITLE", "hash": "3B687AE2587C0395", "target": "Cambio de plumaje en <if([lnum1>0],<num(lnum1)>h<if([lnum2>0],<num(lnum2)>m,)>,<if([lnum2>0],<num(lnum2)>m,1m)>)><br>Elige una opción." },
-    { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE", "hash": "932EFB3276A41258", "target": "" }
+    { "gameKey": "custom/002/CmnDefHousingBuddyStable_00201#TEXT_CMNDEFHOUSINGBUDDYSTABLE_00201_NONE", "hash": "932EFB3276A41258", "target": "Selecciona un tema." }
   ]
 }

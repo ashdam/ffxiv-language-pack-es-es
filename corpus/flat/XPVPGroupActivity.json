@@ -2,17 +2,17 @@
   "sheet": "XPVPGroupActivity",
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
-    { "gameKey": "XPVPGroupActivity#1", "hash": "529D95F4B3C8C732", "target": "" },
-    { "gameKey": "XPVPGroupActivity#2", "hash": "52D55000C9F8B358", "target": "" },
-    { "gameKey": "XPVPGroupActivity#3", "hash": "D691784911FB809F", "target": "" },
-    { "gameKey": "XPVPGroupActivity#4", "hash": "064A6499508FD8B6", "target": "" },
-    { "gameKey": "XPVPGroupActivity#7", "hash": "C65AC844E819C5C4", "target": "" },
-    { "gameKey": "XPVPGroupActivity#8", "hash": "DCF61270429D57F6", "target": "" },
-    { "gameKey": "XPVPGroupActivity#9", "hash": "0B916E59A87625EF", "target": "" },
-    { "gameKey": "XPVPGroupActivity#10", "hash": "7440FC2E6586F40B", "target": "" },
-    { "gameKey": "XPVPGroupActivity#11", "hash": "BBD46207F17EBAAB", "target": "" },
-    { "gameKey": "XPVPGroupActivity#12", "hash": "313CEA2CA05C75C7", "target": "" },
-    { "gameKey": "XPVPGroupActivity#13", "hash": "344082D405F73485", "target": "" },
-    { "gameKey": "XPVPGroupActivity#14", "hash": "8FEFF6F43FC79CEB", "target": "" }
+    { "gameKey": "XPVPGroupActivity#1", "hash": "529D95F4B3C8C732", "target": "Se ha formado el equipo PvP «<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>»." },
+    { "gameKey": "XPVPGroupActivity#2", "hash": "52D55000C9F8B358", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],te unes,se une)> al equipo." },
+    { "gameKey": "XPVPGroupActivity#3", "hash": "D691784911FB809F", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],abandonas,abandona)> el equipo." },
+    { "gameKey": "XPVPGroupActivity#4", "hash": "064A6499508FD8B6", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],abandonas,abandona)> el equipo." },
+    { "gameKey": "XPVPGroupActivity#7", "hash": "C65AC844E819C5C4", "target": "El nombre del equipo cambia a «<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>»." },
+    { "gameKey": "XPVPGroupActivity#8", "hash": "DCF61270429D57F6", "target": "Se ha actualizado el emblema del equipo." },
+    { "gameKey": "XPVPGroupActivity#9", "hash": "0B916E59A87625EF", "target": "El equipo asciende al rango «<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>»." },
+    { "gameKey": "XPVPGroupActivity#10", "hash": "7440FC2E6586F40B", "target": "El equipo desciende al rango «<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>»." },
+    { "gameKey": "XPVPGroupActivity#11", "hash": "BBD46207F17EBAAB", "target": "Comienza una nueva temporada." },
+    { "gameKey": "XPVPGroupActivity#12", "hash": "313CEA2CA05C75C7", "target": "No se ha encontrado al líder. <head(<if([gstr1==gstr2],Tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],pasas,pasa)> a liderar el equipo." },
+    { "gameKey": "XPVPGroupActivity#13", "hash": "344082D405F73485", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],<if(gnum4,has sido ascendida,has sido ascendido)>,<if(gnum4,ha sido ascendida,ha sido ascendido)>)> a sublíder." },
+    { "gameKey": "XPVPGroupActivity#14", "hash": "8FEFF6F43FC79CEB", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],<if(gnum4,has sido ascendida,has sido ascendido)>,<if(gnum4,ha sido ascendida,ha sido ascendido)>)> a líder del equipo." }
   ]
 }
