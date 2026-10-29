@@ -1,28 +1,22 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 646052,
-  "total": 701857,
-  "percent": 92,
-  "chars": 56532285,
+  "translated": 649658,
+  "total": 702720,
+  "percent": 92.4,
+  "chars": 56590931,
   "unresolved": 5779,
   "groups": [
     {
       "expansion": null,
-      "content": "Quests",
-      "translated": 34855,
-      "total": 34855
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
     },
     {
       "expansion": null,
-      "content": "Interface menus",
-      "translated": 67668,
-      "total": 67668
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 1595,
-      "total": 2365
+      "content": "Items",
+      "translated": 31744,
+      "total": 84062
     },
     {
       "expansion": null,
@@ -32,57 +26,9 @@
     },
     {
       "expansion": null,
-      "content": "Collections and customization",
-      "translated": 14841,
-      "total": 14841
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23025,
-      "total": 23025
-    },
-    {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 110268,
-      "total": 110268
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
-    },
-    {
-      "expansion": null,
-      "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43184,
-      "total": 43184
-    },
-    {
-      "expansion": null,
-      "content": "Character",
-      "translated": 2586,
-      "total": 2586
-    },
-    {
-      "expansion": null,
-      "content": "Place names",
-      "translated": 10520,
-      "total": 10520
-    },
-    {
-      "expansion": null,
-      "content": "Items",
-      "translated": 28165,
-      "total": 83200
+      "content": "Interface menus",
+      "translated": 67668,
+      "total": 67668
     },
     {
       "expansion": "A Realm Reborn",
@@ -122,9 +68,63 @@
     },
     {
       "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43184,
+      "total": 43184
+    },
+    {
+      "expansion": null,
+      "content": "Tutorials and guides",
+      "translated": 3059,
+      "total": 3059
+    },
+    {
+      "expansion": null,
+      "content": "Collections and customization",
+      "translated": 14841,
+      "total": 14841
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23025,
+      "total": 23025
+    },
+    {
+      "expansion": null,
       "content": "Chat and system messages",
-      "translated": 11214,
-      "total": 11214
+      "translated": 11215,
+      "total": 11215
+    },
+    {
+      "expansion": null,
+      "content": "Quests",
+      "translated": 34855,
+      "total": 34855
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 110268,
+      "total": 110268
+    },
+    {
+      "expansion": null,
+      "content": "Character",
+      "translated": 2586,
+      "total": 2586
+    },
+    {
+      "expansion": null,
+      "content": "Place names",
+      "translated": 10520,
+      "total": 10520
+    },
+    {
+      "expansion": null,
+      "content": "Internal UI catalogs",
+      "translated": 1621,
+      "total": 2365
     }
   ],
   "excludedFromLocalization": [
@@ -146,61 +146,71 @@
       "expansion": null,
       "content": "DynamicEvent",
       "translated": 0,
-      "total": 66
-    },
-    {
-      "expansion": null,
-      "content": "Status",
-      "translated": 0,
-      "total": 8865
+      "total": 66,
+      "wholeSheet": false
     },
     {
       "expansion": null,
       "content": "Item",
       "translated": 0,
-      "total": 105561
-    },
-    {
-      "expansion": null,
-      "content": "Pet",
-      "translated": 0,
-      "total": 40
-    },
-    {
-      "expansion": null,
-      "content": "Completion",
-      "translated": 0,
-      "total": 1744
-    },
-    {
-      "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3030
-    },
-    {
-      "expansion": null,
-      "content": "ClassJob",
-      "translated": 0,
-      "total": 4
+      "total": 104699,
+      "wholeSheet": false
     },
     {
       "expansion": null,
       "content": "Action",
       "translated": 0,
-      "total": 43760
+      "total": 43760,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Completion",
+      "translated": 0,
+      "total": 1743,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Status",
+      "translated": 0,
+      "total": 8865,
+      "wholeSheet": false
     },
     {
       "expansion": null,
       "content": "Trait",
       "translated": 0,
-      "total": 668
+      "total": 668,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "ClassJob",
+      "translated": 0,
+      "total": 4,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "ActionTransient",
+      "translated": 0,
+      "total": 3030,
+      "wholeSheet": false
     },
     {
       "expansion": null,
       "content": "TraitTransient",
       "translated": 0,
-      "total": 668
+      "total": 668,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Pet",
+      "translated": 0,
+      "total": 40,
+      "wholeSheet": false
     }
   ],
   "tree": [
@@ -27495,14 +27505,14 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 83200,
-        "translated": 28165,
-        "pending": 55035,
+        "total": 84062,
+        "translated": 31744,
+        "pending": 52318,
         "stale": 0,
-        "excluded": 105572,
+        "excluded": 104710,
         "excludedTranslated": 6,
-        "chars": 3347174,
-        "percent": 33.9
+        "chars": 3405803,
+        "percent": 37.8
       },
       "children": [
         {
@@ -27523,14 +27533,14 @@
             "itemseries"
           ],
           "counts": {
-            "total": 82976,
-            "translated": 27941,
-            "pending": 55035,
+            "total": 83838,
+            "translated": 31520,
+            "pending": 52318,
             "stale": 0,
-            "excluded": 105572,
+            "excluded": 104710,
             "excludedTranslated": 6,
-            "chars": 3338670,
-            "percent": 33.7
+            "chars": 3397299,
+            "percent": 37.6
           },
           "children": [
             {
@@ -27725,14 +27735,14 @@
               "value": "Item",
               "sheets": [],
               "counts": {
-                "total": 67891,
-                "translated": 12856,
-                "pending": 55035,
+                "total": 68753,
+                "translated": 16435,
+                "pending": 52318,
                 "stale": 0,
-                "excluded": 105561,
+                "excluded": 104699,
                 "excludedTranslated": 0,
-                "chars": 2728959,
-                "percent": 18.9
+                "chars": 2787588,
+                "percent": 23.9
               },
               "children": [
                 {
@@ -28013,8 +28023,8 @@
                   "sheets": [],
                   "counts": {
                     "total": 9013,
-                    "translated": 132,
-                    "pending": 8881,
+                    "translated": 135,
+                    "pending": 8878,
                     "stale": 0,
                     "excluded": 1374,
                     "excludedTranslated": 0,
@@ -28373,13 +28383,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 2803,
-                    "translated": 7,
-                    "pending": 2796,
+                    "translated": 10,
+                    "pending": 2793,
                     "stale": 0,
                     "excluded": 1159,
                     "excludedTranslated": 0,
                     "chars": 91939,
-                    "percent": 0.2
+                    "percent": 0.4
                   },
                   "children": []
                 },
@@ -28426,14 +28436,14 @@
                   "value": "Feet",
                   "sheets": [],
                   "counts": {
-                    "total": 3060,
-                    "translated": 127,
+                    "total": 3066,
+                    "translated": 133,
                     "pending": 2933,
                     "stale": 0,
-                    "excluded": 5814,
+                    "excluded": 5808,
                     "excludedTranslated": 0,
-                    "chars": 99179,
-                    "percent": 4.2
+                    "chars": 99330,
+                    "percent": 4.3
                   },
                   "children": []
                 },
@@ -28463,13 +28473,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 382,
-                    "translated": 0,
-                    "pending": 382,
+                    "translated": 4,
+                    "pending": 378,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 18122,
-                    "percent": 0
+                    "percent": 1
                   },
                   "children": []
                 },
@@ -28499,13 +28509,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 669,
-                    "translated": 0,
-                    "pending": 669,
+                    "translated": 48,
+                    "pending": 621,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 21748,
-                    "percent": 0
+                    "percent": 7.2
                   },
                   "children": []
                 },
@@ -28553,13 +28563,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 488,
-                    "translated": 0,
-                    "pending": 488,
+                    "translated": 488,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 18480,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28571,13 +28581,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1351,
-                    "translated": 42,
-                    "pending": 1309,
+                    "translated": 45,
+                    "pending": 1306,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 26710,
-                    "percent": 3.1
+                    "percent": 3.3
                   },
                   "children": []
                 },
@@ -28660,14 +28670,14 @@
                   "value": "Head",
                   "sheets": [],
                   "counts": {
-                    "total": 358,
-                    "translated": 130,
+                    "total": 367,
+                    "translated": 139,
                     "pending": 228,
                     "stale": 0,
-                    "excluded": 9556,
+                    "excluded": 9547,
                     "excludedTranslated": 0,
-                    "chars": 8448,
-                    "percent": 36.3
+                    "chars": 8673,
+                    "percent": 37.9
                   },
                   "children": []
                 },
@@ -28679,13 +28689,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1680,
-                    "translated": 32,
-                    "pending": 1648,
+                    "translated": 132,
+                    "pending": 1548,
                     "stale": 0,
                     "excluded": 4,
                     "excludedTranslated": 0,
                     "chars": 75112,
-                    "percent": 1.9
+                    "percent": 7.9
                   },
                   "children": []
                 },
@@ -28714,13 +28724,13 @@
                   "value": "Lancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 45,
-                    "translated": 45,
+                    "total": 48,
+                    "translated": 48,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1274,
+                    "excluded": 1271,
                     "excludedTranslated": 0,
-                    "chars": 932,
+                    "chars": 981,
                     "percent": 100
                   },
                   "children": []
@@ -28984,13 +28994,13 @@
                   "value": "Miscellany",
                   "sheets": [],
                   "counts": {
-                    "total": 1076,
-                    "translated": 1076,
+                    "total": 1836,
+                    "translated": 1836,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 14648,
+                    "excluded": 13888,
                     "excludedTranslated": 0,
-                    "chars": 62380,
+                    "chars": 113693,
                     "percent": 100
                   },
                   "children": []
@@ -29074,13 +29084,13 @@
                   "value": "Other",
                   "sheets": [],
                   "counts": {
-                    "total": 2261,
-                    "translated": 2261,
+                    "total": 2265,
+                    "translated": 2265,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8810,
+                    "excluded": 8806,
                     "excludedTranslated": 0,
-                    "chars": 119817,
+                    "chars": 119919,
                     "percent": 100
                   },
                   "children": []
@@ -29110,14 +29120,14 @@
                   "value": "Outfits",
                   "sheets": [],
                   "counts": {
-                    "total": 21,
-                    "translated": 18,
+                    "total": 30,
+                    "translated": 27,
                     "pending": 3,
                     "stale": 0,
-                    "excluded": 3243,
+                    "excluded": 3234,
                     "excludedTranslated": 0,
-                    "chars": 325,
-                    "percent": 85.7
+                    "chars": 496,
+                    "percent": 90
                   },
                   "children": []
                 },
@@ -29218,14 +29228,14 @@
                   "value": "Reagent",
                   "sheets": [],
                   "counts": {
-                    "total": 3184,
-                    "translated": 388,
-                    "pending": 2796,
+                    "total": 3228,
+                    "translated": 2084,
+                    "pending": 1144,
                     "stale": 0,
-                    "excluded": 140,
+                    "excluded": 96,
                     "excludedTranslated": 0,
-                    "chars": 177158,
-                    "percent": 12.2
+                    "chars": 181397,
+                    "percent": 64.6
                   },
                   "children": []
                 },
@@ -29272,13 +29282,13 @@
                   "value": "Ring",
                   "sheets": [],
                   "counts": {
-                    "total": 10,
-                    "translated": 10,
+                    "total": 13,
+                    "translated": 13,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3876,
+                    "excluded": 3873,
                     "excludedTranslated": 0,
-                    "chars": 229,
+                    "chars": 260,
                     "percent": 100
                   },
                   "children": []
@@ -29488,14 +29498,14 @@
                   "value": "Stone",
                   "sheets": [],
                   "counts": {
-                    "total": 2416,
-                    "translated": 432,
-                    "pending": 1984,
+                    "total": 2440,
+                    "translated": 872,
+                    "pending": 1568,
                     "stale": 0,
-                    "excluded": 208,
+                    "excluded": 184,
                     "excludedTranslated": 0,
-                    "chars": 106151,
-                    "percent": 17.9
+                    "chars": 108499,
+                    "percent": 35.7
                   },
                   "children": []
                 },
@@ -51693,13 +51703,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 11214,
-        "translated": 11214,
+        "total": 11215,
+        "translated": 11215,
         "pending": 0,
         "stale": 0,
-        "excluded": 1823,
+        "excluded": 1822,
         "excludedTranslated": 78,
-        "chars": 937917,
+        "chars": 937934,
         "percent": 100
       },
       "children": [
@@ -51720,13 +51730,13 @@
             "xpvpgroupactivity"
           ],
           "counts": {
-            "total": 10583,
-            "translated": 10583,
+            "total": 10584,
+            "translated": 10584,
             "pending": 0,
             "stale": 0,
-            "excluded": 1822,
+            "excluded": 1821,
             "excludedTranslated": 77,
-            "chars": 723058,
+            "chars": 723075,
             "percent": 100
           },
           "children": [
@@ -51755,13 +51765,13 @@
               "value": "Completion",
               "sheets": [],
               "counts": {
-                "total": 1346,
-                "translated": 1346,
+                "total": 1347,
+                "translated": 1347,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 1744,
+                "excluded": 1743,
                 "excludedTranslated": 0,
-                "chars": 18923,
+                "chars": 18940,
                 "percent": 100
               },
               "children": []
@@ -53774,13 +53784,13 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 1595,
-    "pending": 770,
+    "translated": 1621,
+    "pending": 744,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55939,
-    "percent": 67.4
+    "percent": 68.5
   },
   "futureLocalization": [
     {
@@ -53811,8 +53821,8 @@
       "sheet": "Completion",
       "content": "Completion",
       "total": 3090,
-      "translated": 1346,
-      "pending": 1744,
+      "translated": 1347,
+      "pending": 1743,
       "pendingPercent": 56.4
     },
     {
@@ -53851,9 +53861,9 @@
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 12856,
-      "pending": 160596,
-      "pendingPercent": 92.6
+      "translated": 16435,
+      "pending": 157017,
+      "pendingPercent": 90.5
     },
     {
       "sheet": "Pet",
