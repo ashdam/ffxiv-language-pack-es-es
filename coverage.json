@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 649658,
-  "total": 702720,
-  "percent": 92.4,
-  "chars": 56590931,
+  "translated": 654005,
+  "total": 705400,
+  "percent": 92.7,
+  "chars": 56703607,
   "unresolved": 5779,
   "groups": [
     {
@@ -15,8 +15,8 @@
     {
       "expansion": null,
       "content": "Items",
-      "translated": 31744,
-      "total": 84062
+      "translated": 36061,
+      "total": 86742
     },
     {
       "expansion": null,
@@ -123,7 +123,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 1621,
+      "translated": 1651,
       "total": 2365
     }
   ],
@@ -152,8 +152,8 @@
     {
       "expansion": null,
       "content": "Item",
-      "translated": 0,
-      "total": 104699,
+      "translated": 4,
+      "total": 102019,
       "wholeSheet": false
     },
     {
@@ -27505,14 +27505,14 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 84062,
-        "translated": 31744,
-        "pending": 52318,
+        "total": 86742,
+        "translated": 36061,
+        "pending": 50681,
         "stale": 0,
-        "excluded": 104710,
-        "excludedTranslated": 6,
-        "chars": 3405803,
-        "percent": 37.8
+        "excluded": 102030,
+        "excludedTranslated": 10,
+        "chars": 3518479,
+        "percent": 41.6
       },
       "children": [
         {
@@ -27533,14 +27533,14 @@
             "itemseries"
           ],
           "counts": {
-            "total": 83838,
-            "translated": 31520,
-            "pending": 52318,
+            "total": 86518,
+            "translated": 35837,
+            "pending": 50681,
             "stale": 0,
-            "excluded": 104710,
-            "excludedTranslated": 6,
-            "chars": 3397299,
-            "percent": 37.6
+            "excluded": 102030,
+            "excludedTranslated": 10,
+            "chars": 3509975,
+            "percent": 41.4
           },
           "children": [
             {
@@ -27735,14 +27735,14 @@
               "value": "Item",
               "sheets": [],
               "counts": {
-                "total": 68753,
-                "translated": 16435,
-                "pending": 52318,
+                "total": 71433,
+                "translated": 20752,
+                "pending": 50681,
                 "stale": 0,
-                "excluded": 104699,
-                "excludedTranslated": 0,
-                "chars": 2787588,
-                "percent": 23.9
+                "excluded": 102019,
+                "excludedTranslated": 4,
+                "chars": 2900264,
+                "percent": 29.1
               },
               "children": [
                 {
@@ -28509,13 +28509,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 669,
-                    "translated": 48,
-                    "pending": 621,
+                    "translated": 669,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 21748,
-                    "percent": 7.2
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28976,14 +28976,14 @@
                   "value": "Minion",
                   "sheets": [],
                   "counts": {
-                    "total": 1024,
-                    "translated": 8,
-                    "pending": 1016,
+                    "total": 2328,
+                    "translated": 2328,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 1308,
-                    "excludedTranslated": 0,
-                    "chars": 42172,
-                    "percent": 0.8
+                    "excluded": 4,
+                    "excludedTranslated": 4,
+                    "chars": 93345,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29084,13 +29084,13 @@
                   "value": "Other",
                   "sheets": [],
                   "counts": {
-                    "total": 2265,
-                    "translated": 2265,
+                    "total": 3641,
+                    "translated": 3641,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8806,
+                    "excluded": 7430,
                     "excludedTranslated": 0,
-                    "chars": 119919,
+                    "chars": 181422,
                     "percent": 100
                   },
                   "children": []
@@ -53784,13 +53784,13 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 1621,
-    "pending": 744,
+    "translated": 1651,
+    "pending": 714,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55939,
-    "percent": 68.5
+    "percent": 69.8
   },
   "futureLocalization": [
     {
@@ -53861,9 +53861,9 @@
       "sheet": "Item",
       "content": "Items",
       "total": 173452,
-      "translated": 16435,
-      "pending": 157017,
-      "pendingPercent": 90.5
+      "translated": 20756,
+      "pending": 152696,
+      "pendingPercent": 88
     },
     {
       "sheet": "Pet",
