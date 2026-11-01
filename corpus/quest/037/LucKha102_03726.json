@@ -42,8 +42,8 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_AUGEBERT_000_031", "hash": "9FE6CD46817CDCA3", "target": "Mira, en cualquier caso no corre prisa. Cuando Francel vuelva, hablaré con él y lo arreglaré." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_032", "hash": "C5581BB3B69C5C46", "target": "Parece que tu consejo no fue de ayuda." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_033", "hash": "18CD07723C88D172", "target": "¿Cómo, que el señor Francel no está? Bah, menuda pérdida de tiempo." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_034", "hash": "FF87C7F90D2F5875", "target": "V-vamos, no diga esas cosas. Ya sabe que el supervisor es un hombre muy ocupado." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_035", "hash": "95F4DEDBCAE1A7BB", "target": "Somos artesanas de Limsa Lominsa, encargadas de transmitir nuestras técnicas a los del lugar." },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_034", "hash": "642FA69BC433273D", "target": "(-Artesana recelosa-)V-vamos, no diga esas cosas. Ya sabe que el supervisor es un hombre muy ocupado." },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANB03726_000_035", "hash": "4C56D7C6369AEF60", "target": "(-Artesana recelosa-)Somos artesanas de Limsa Lominsa, encargadas de transmitir nuestras técnicas a los del lugar." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_036", "hash": "4B0AB4893E1A4148", "target": "Nuestros aprendices van progresando bien, y se nos ha ocurrido ponerles tareas más avanzadas. Pero para eso necesitamos maquinaria especializada que en Ishgard no tienen." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_037", "hash": "1770ECF912580547", "target": "Queríamos preguntarle al supervisor si podría hacerla traer, pero parece que tendrá que esperar a otra ocasión..." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q3_000_000", "hash": "F326B568FAE91A24", "target": "¿Qué vas a decir?" },
@@ -60,7 +60,7 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_ARTISANA03726_000_045", "hash": "021FF202CACE66C7", "target": "Mira, volveremos cuando el supervisor esté de vuelta. Si pudieras interceder por nosotras, te lo agradeceríamos." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_046", "hash": "BEB6AA699DFA2F41", "target": "Parece que tu consejo no fue de ayuda." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_GAELICAT03726_000_047", "hash": "08BA8A89E9B140D1", "target": "\\<retumbo> \\<retumbo> ¡Ffffsss!" },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_048", "hash": "F22F6AC20D594E47", "target": "¡Un gaelikitten aparece de repente!" },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_SYSTEM_000_048", "hash": "F22F6AC20D594E47", "target": "¡Una cría de gaelicat aparece de repente!" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FIRMAMENT03726_000_049", "hash": "7729AE2F69C67805", "target": "¡D-disculpe, <if(gnum4,mi señora,mi señor)>! Este bichito llegó entre la carga procedente del mar de Nubes. Hemos intentado devolverlo, pero se niega a marcharse." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FIRMAMENT03726_000_050", "hash": "DE8A06603A6AD46E", "target": "Anda rondando la cocina, así que sospecho que tiene hambre. De momento no ha hecho ningún daño... pero ¿qué cree usted que deberíamos hacer con él?" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_Q4_000_000", "hash": "9A0D9370746CFDB9", "target": "¿Qué vas a decir?" },
@@ -95,7 +95,7 @@
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FRANCEL_000_081", "hash": "6CD10E584E419416", "target": "<split(<string(gstr1)>, ,1)>, tengo entendido que conoces al señor Tarresson, el conde retirado. Con su destreza y su pasión, no dudo de que será un gran aliado para nuestra causa." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_000_082", "hash": "5C0AE6E6883E49E2", "target": "Vaya, promesas de colaboración de <italic(1)>todas<italic(0)> las Grandes Casas... No hace mucho, esto habría sido impensable." },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FONCRINEAU_100_082", "hash": "C26E15699801B902", "target": "Se debe a la paz de la que ahora disfrutamos gracias a usted, <if(gnum4,señora,señor)> <split(<string(gstr1)>, ,1)>." },
-    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_083", "hash": "60FE5D7474E3AE81", "target": "\\<sollozo> ¡Socorro! ¡Ayuda, por favor!" },
+    { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_083", "hash": "62E7D6059FB326F2", "target": "(-???-)\\<sollozo> ¡Socorro! ¡Ayuda, por favor!" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_NOALLE_000_084", "hash": "50D77729A1C05CA6", "target": "¡M-mamá está en apuros! ¡Por favor, tenéis que ayudarla!" },
     { "gameKey": "quest/037/LucKha102_03726#TEXT_LUCKHA102_03726_FRANCEL_000_085", "hash": "C245EB8BB45E083C", "target": "¡Noalle! Respira hondo, pequeña, y cuéntanos qué le ha pasado a Audaine." }
   ]
