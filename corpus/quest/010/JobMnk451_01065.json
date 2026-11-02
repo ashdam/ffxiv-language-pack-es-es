@@ -45,7 +45,7 @@
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_A1_000_001", "hash": "C47C0EE5A5243F0E", "target": "Sí" },
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_A2_000_002", "hash": "8AE48A2383EDF2D0", "target": "No" },
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_025", "hash": "1CC2D067E3CEEBDF", "target": "Su decisión me entristece. Pero sepa que mi oferta sigue en pie. Ruego que cambie de idea." },
-    { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_026", "hash": "1276ED480866DB62", "target": "Tiene el corazón de un verdadero monje. Es distinto de los demás de este reino." },
+    { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_026", "hash": "1276ED480866DB62", "target": "Tiene el corazón de <if(gnum4,una verdadera,un verdadero)> monje. Es distint<if(gnum4,a,o)> de los demás de este reino." },
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_027", "hash": "778A317DFD25FBF2", "target": "Escuche esto. Nos robaron un juego de nuestras ropas de guerra. El Puño ha seguido el rastro de los bandidos. Ahora sabemos dónde están tres de las reliquias." },
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_028", "hash": "28DD26B1F43628F0", "target": "Aquí, en el Sur de Thanalan, el Sepulcro y el Círculo de los Subyugados. Y en el Norte de Thanalan, la mina de mitrilo abandonada de Amajina." },
     { "gameKey": "quest/010/JobMnk451_01065#TEXT_JOBMNK451_01065_WIDARGELT_000_029", "hash": "68049B0ACB88E369", "target": "Su cristal de alma reaccionará a las reliquias. Acérquese a ellas y brillarán. Gracias a ese poder podrá encontrarlas." },
