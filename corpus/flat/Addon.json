@@ -527,7 +527,7 @@
     { "gameKey": "Addon#564", "hash": "D7B4B1EF6B4FD805", "target": "Armas de antaño" },
     { "gameKey": "Addon#565", "hash": "ECF5066C7C5B2388", "target": "<if(lnum2,<colortype(573)><edgecolortype(574)><italic(1)><string(lstr1)><italic(0)><colortype(0)><edgecolortype(0)>,<string(lstr1)>)>" },
     { "gameKey": "Addon#566", "hash": "91A23DE50737AD6F", "target": "<if(lnum2,<colortype(573)><edgecolortype(574)><italic(1)><string(lstr1)><italic(0)><colortype(0)><edgecolortype(0)>,<string(lstr1)>)>" },
-    { "gameKey": "Addon#567", "hash": "B5B57DFE14C0F1B5", "target": "Armas de antaño - <switch(lnum1,Curtana,Spharai,Bravura,Gae Bolg,Artemis Bow,Thyrus,Stardust Rod)> (paso <num(lnum2)>)" },
+    { "gameKey": "Addon#567", "hash": "B5B57DFE14C0F1B5", "target": "Armas de antaño - <switch(lnum1,Curtana,Spharai,Bravura,Gae Bolg,Arco de Artemisa,Thyrus,Vara estelar)> (paso <num(lnum2)>)" },
     { "gameKey": "Addon#568", "hash": "853318B6B235E3E2", "target": "(Total: <kilo(lnum1,\\,)><if([lnum3>0], / \uE03C <kilo(lnum2,\\,)>,)>)" },
     { "gameKey": "Addon#569", "hash": "C7A41FE11DF8D7E4", "target": "<if([lnum1>9999],9\\,999+,<kilo(lnum1,\\,)>)>/<kilo(lnum2,\\,)> (Total: <kilo(lnum3,\\,)><if([lnum5>0], / \uE03C <kilo(lnum4,\\,)>,)>)" },
     { "gameKey": "Addon#570", "hash": "1805EBB276FA42D8", "target": "Historial de encargos" },
