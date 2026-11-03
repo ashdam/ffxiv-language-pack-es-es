@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 691666,
-  "total": 730633,
-  "percent": 94.7,
-  "chars": 58076829,
+  "translated": 806840,
+  "total": 807462,
+  "percent": 99.9,
+  "chars": 60619857,
   "unresolved": 5779,
   "groups": [
     {
@@ -15,8 +15,8 @@
     {
       "expansion": null,
       "content": "Items",
-      "translated": 73587,
-      "total": 111932
+      "translated": 188761,
+      "total": 188761
     },
     {
       "expansion": null,
@@ -147,13 +147,6 @@
       "content": "DynamicEvent",
       "translated": 0,
       "total": 66,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Item",
-      "translated": 0,
-      "total": 76829,
       "wholeSheet": false
     },
     {
@@ -27505,14 +27498,14 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 111932,
-        "translated": 73587,
-        "pending": 38345,
+        "total": 188761,
+        "translated": 188761,
+        "pending": 0,
         "stale": 0,
-        "excluded": 76840,
+        "excluded": 11,
         "excludedTranslated": 6,
-        "chars": 4760652,
-        "percent": 65.7
+        "chars": 7303680,
+        "percent": 100
       },
       "children": [
         {
@@ -27533,14 +27526,14 @@
             "itemseries"
           ],
           "counts": {
-            "total": 111708,
-            "translated": 73363,
-            "pending": 38345,
+            "total": 188537,
+            "translated": 188537,
+            "pending": 0,
             "stale": 0,
-            "excluded": 76840,
+            "excluded": 11,
             "excludedTranslated": 6,
-            "chars": 4752148,
-            "percent": 65.7
+            "chars": 7295176,
+            "percent": 100
           },
           "children": [
             {
@@ -27735,14 +27728,14 @@
               "value": "Item",
               "sheets": [],
               "counts": {
-                "total": 96623,
-                "translated": 58278,
-                "pending": 38345,
+                "total": 173452,
+                "translated": 173452,
+                "pending": 0,
                 "stale": 0,
-                "excluded": 76829,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 4142437,
-                "percent": 60.3
+                "chars": 6685465,
+                "percent": 100
               },
               "children": [
                 {
@@ -27825,13 +27818,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 381,
-                    "translated": 0,
-                    "pending": 381,
+                    "translated": 381,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 17160,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27843,13 +27836,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 159,
-                    "translated": 0,
-                    "pending": 159,
+                    "translated": 159,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 2840,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27861,13 +27854,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1214,
-                    "translated": 42,
-                    "pending": 1172,
+                    "translated": 1214,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 29181,
-                    "percent": 3.5
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27879,13 +27872,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1290,
-                    "translated": 42,
-                    "pending": 1248,
+                    "translated": 1290,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 25578,
-                    "percent": 3.3
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27897,13 +27890,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 381,
-                    "translated": 0,
-                    "pending": 381,
+                    "translated": 381,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 19197,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27915,13 +27908,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 156,
-                    "translated": 0,
-                    "pending": 156,
+                    "translated": 156,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 3622,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27933,13 +27926,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1077,
-                    "translated": 45,
-                    "pending": 1032,
+                    "translated": 1077,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 23136,
-                    "percent": 4.2
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27951,13 +27944,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 42,
-                    "translated": 15,
-                    "pending": 27,
+                    "translated": 42,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 917,
-                    "percent": 35.7
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27969,13 +27962,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 384,
-                    "translated": 0,
-                    "pending": 384,
+                    "translated": 384,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 19858,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -27986,14 +27979,14 @@
                   "value": "Blacksmith's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 156,
+                    "translated": 156,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 156,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 2470,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28004,14 +27997,14 @@
                   "value": "Blue Mage's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 30,
+                    "translated": 30,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 30,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 468,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28022,14 +28015,14 @@
                   "value": "Body",
                   "sheets": [],
                   "counts": {
-                    "total": 9013,
-                    "translated": 135,
-                    "pending": 8878,
+                    "total": 10387,
+                    "translated": 10387,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 1374,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 236119,
-                    "percent": 1.5
+                    "chars": 268878,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28059,13 +28052,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 378,
-                    "translated": 0,
-                    "pending": 378,
+                    "translated": 378,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 15869,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28077,13 +28070,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 159,
-                    "translated": 0,
-                    "pending": 159,
+                    "translated": 159,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 3134,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28094,14 +28087,14 @@
                   "value": "Bracelets",
                   "sheets": [],
                   "counts": {
-                    "total": 3420,
-                    "translated": 0,
-                    "pending": 3420,
+                    "total": 3742,
+                    "translated": 3742,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 322,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 107414,
-                    "percent": 0
+                    "chars": 116085,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28112,14 +28105,14 @@
                   "value": "Carpenter's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 381,
+                    "translated": 381,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 381,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 16113,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28130,14 +28123,14 @@
                   "value": "Carpenter's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 159,
+                    "translated": 159,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 159,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 3572,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28238,14 +28231,14 @@
                   "value": "Culinarian's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 381,
+                    "translated": 381,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 381,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 17027,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28256,13 +28249,13 @@
                   "value": "Culinarian's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 3,
-                    "translated": 3,
+                    "total": 166,
+                    "translated": 166,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 163,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 70,
+                    "chars": 4223,
                     "percent": 100
                   },
                   "children": []
@@ -28292,13 +28285,13 @@
                   "value": "Dancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 558,
+                    "translated": 558,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 516,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1054,
+                    "chars": 15047,
                     "percent": 100
                   },
                   "children": []
@@ -28310,13 +28303,13 @@
                   "value": "Dark Knight's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1102,
+                    "translated": 1102,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1060,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 940,
+                    "chars": 23553,
                     "percent": 100
                   },
                   "children": []
@@ -28382,14 +28375,14 @@
                   "value": "Earrings",
                   "sheets": [],
                   "counts": {
-                    "total": 2803,
-                    "translated": 10,
-                    "pending": 2793,
+                    "total": 3962,
+                    "translated": 3962,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 1159,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 91939,
-                    "percent": 0.4
+                    "chars": 126048,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28436,14 +28429,14 @@
                   "value": "Feet",
                   "sheets": [],
                   "counts": {
-                    "total": 3066,
-                    "translated": 133,
-                    "pending": 2933,
+                    "total": 8874,
+                    "translated": 8874,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 5808,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 99330,
-                    "percent": 4.3
+                    "chars": 282300,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28473,13 +28466,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 382,
-                    "translated": 4,
-                    "pending": 378,
+                    "translated": 382,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 18122,
-                    "percent": 1
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28581,13 +28574,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 1351,
-                    "translated": 45,
-                    "pending": 1306,
+                    "translated": 1351,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 26710,
-                    "percent": 3.3
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28598,14 +28591,14 @@
                   "value": "Goldsmith's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 381,
+                    "translated": 381,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 381,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 18159,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28616,14 +28609,14 @@
                   "value": "Goldsmith's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 156,
+                    "translated": 156,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 156,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 3943,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28634,13 +28627,13 @@
                   "value": "Gunbreaker's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 561,
+                    "translated": 561,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 519,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1013,
+                    "chars": 12329,
                     "percent": 100
                   },
                   "children": []
@@ -28652,14 +28645,14 @@
                   "value": "Hands",
                   "sheets": [],
                   "counts": {
-                    "total": 1531,
-                    "translated": 120,
-                    "pending": 1411,
+                    "total": 8397,
+                    "translated": 8397,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 6866,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 49441,
-                    "percent": 7.8
+                    "chars": 279343,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28670,14 +28663,14 @@
                   "value": "Head",
                   "sheets": [],
                   "counts": {
-                    "total": 367,
-                    "translated": 139,
-                    "pending": 228,
+                    "total": 9914,
+                    "translated": 9914,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 9547,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 8673,
-                    "percent": 37.9
+                    "chars": 251752,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28724,13 +28717,13 @@
                   "value": "Lancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 48,
-                    "translated": 48,
+                    "total": 1319,
+                    "translated": 1319,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1271,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 981,
+                    "chars": 24890,
                     "percent": 100
                   },
                   "children": []
@@ -28761,13 +28754,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 381,
-                    "translated": 0,
-                    "pending": 381,
+                    "translated": 381,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 17980,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28779,13 +28772,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 159,
-                    "translated": 0,
-                    "pending": 159,
+                    "translated": 159,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 2333,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28796,14 +28789,14 @@
                   "value": "Legs",
                   "sheets": [],
                   "counts": {
-                    "total": 358,
-                    "translated": 120,
-                    "pending": 238,
+                    "total": 8915,
+                    "translated": 8915,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 8557,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 10178,
-                    "percent": 33.5
+                    "chars": 274395,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28832,13 +28825,13 @@
                   "value": "Machinist's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1080,
+                    "translated": 1080,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1038,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 919,
+                    "chars": 22783,
                     "percent": 100
                   },
                   "children": []
@@ -28850,13 +28843,13 @@
                   "value": "Marauder's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1304,
+                    "translated": 1304,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1262,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 938,
+                    "chars": 24931,
                     "percent": 100
                   },
                   "children": []
@@ -28941,13 +28934,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 378,
-                    "translated": 0,
-                    "pending": 378,
+                    "translated": 378,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 15884,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28959,13 +28952,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 159,
-                    "translated": 0,
-                    "pending": 159,
+                    "translated": 159,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 3671,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -28994,13 +28987,13 @@
                   "value": "Miscellany",
                   "sheets": [],
                   "counts": {
-                    "total": 7004,
-                    "translated": 7004,
+                    "total": 15724,
+                    "translated": 15724,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 8720,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 433496,
+                    "chars": 1004239,
                     "percent": 100
                   },
                   "children": []
@@ -29012,14 +29005,14 @@
                   "value": "Necklace",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 3748,
+                    "translated": 3748,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3748,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 103336,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29030,14 +29023,14 @@
                   "value": "One-handed Conjurer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 195,
+                    "translated": 195,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 195,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 4102,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29048,14 +29041,14 @@
                   "value": "One-handed Thaumaturge's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 207,
+                    "translated": 207,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 207,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 3845,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29120,14 +29113,14 @@
                   "value": "Outfits",
                   "sheets": [],
                   "counts": {
-                    "total": 30,
-                    "translated": 27,
-                    "pending": 3,
+                    "total": 3264,
+                    "translated": 3264,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 3234,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 496,
-                    "percent": 90
+                    "chars": 75564,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29174,14 +29167,14 @@
                   "value": "Pictomancer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 238,
+                    "translated": 238,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 238,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 5898,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29210,13 +29203,13 @@
                   "value": "Pugilist's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 45,
-                    "translated": 45,
+                    "total": 1338,
+                    "translated": 1338,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1293,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1538,
+                    "chars": 37006,
                     "percent": 100
                   },
                   "children": []
@@ -29247,13 +29240,13 @@
                   "sheets": [],
                   "counts": {
                     "total": 393,
-                    "translated": 0,
-                    "pending": 393,
+                    "translated": 393,
+                    "pending": 0,
                     "stale": 0,
                     "excluded": 0,
                     "excludedTranslated": 0,
                     "chars": 9110,
-                    "percent": 0
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29264,13 +29257,13 @@
                   "value": "Red Mage's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 45,
-                    "translated": 45,
+                    "total": 861,
+                    "translated": 861,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 816,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1010,
+                    "chars": 16387,
                     "percent": 100
                   },
                   "children": []
@@ -29282,13 +29275,13 @@
                   "value": "Ring",
                   "sheets": [],
                   "counts": {
-                    "total": 13,
-                    "translated": 13,
+                    "total": 3886,
+                    "translated": 3886,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 3873,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 260,
+                    "chars": 95981,
                     "percent": 100
                   },
                   "children": []
@@ -29300,13 +29293,13 @@
                   "value": "Rogue's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 45,
-                    "translated": 45,
+                    "total": 1214,
+                    "translated": 1214,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1169,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1137,
+                    "chars": 30345,
                     "percent": 100
                   },
                   "children": []
@@ -29372,14 +29365,14 @@
                   "value": "Sage's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 381,
+                    "translated": 381,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 381,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 10457,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29390,13 +29383,13 @@
                   "value": "Samurai's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 45,
-                    "translated": 45,
+                    "total": 864,
+                    "translated": 864,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 819,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1054,
+                    "chars": 17604,
                     "percent": 100
                   },
                   "children": []
@@ -29408,13 +29401,13 @@
                   "value": "Scholar's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1058,
+                    "translated": 1058,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1016,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1155,
+                    "chars": 25207,
                     "percent": 100
                   },
                   "children": []
@@ -29426,14 +29419,14 @@
                   "value": "Seafood",
                   "sheets": [],
                   "counts": {
-                    "total": 9870,
-                    "translated": 60,
-                    "pending": 9810,
+                    "total": 10542,
+                    "translated": 10542,
+                    "pending": 0,
                     "stale": 0,
-                    "excluded": 672,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 451712,
-                    "percent": 0.6
+                    "chars": 480440,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29462,13 +29455,13 @@
                   "value": "Shield",
                   "sheets": [],
                   "counts": {
-                    "total": 57,
-                    "translated": 57,
+                    "total": 1409,
+                    "translated": 1409,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1352,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 1326,
+                    "chars": 28704,
                     "percent": 100
                   },
                   "children": []
@@ -29642,13 +29635,13 @@
                   "value": "Two-handed Conjurer's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1276,
+                    "translated": 1276,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1234,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 850,
+                    "chars": 22669,
                     "percent": 100
                   },
                   "children": []
@@ -29660,13 +29653,13 @@
                   "value": "Two-handed Thaumaturge's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 42,
-                    "translated": 42,
+                    "total": 1182,
+                    "translated": 1182,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 1140,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 889,
+                    "chars": 21336,
                     "percent": 100
                   },
                   "children": []
@@ -29678,14 +29671,14 @@
                   "value": "Unobtainable",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 4844,
+                    "translated": 4844,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 4844,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 248321,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29696,14 +29689,14 @@
                   "value": "Viper's Arm",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 235,
+                    "translated": 235,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 235,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 6784,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29732,14 +29725,14 @@
                   "value": "Weaver's Primary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 378,
+                    "translated": 378,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 378,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 16485,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -29750,14 +29743,14 @@
                   "value": "Weaver's Secondary Tool",
                   "sheets": [],
                   "counts": {
-                    "total": 0,
-                    "translated": 0,
+                    "total": 159,
+                    "translated": 159,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 159,
+                    "excluded": 0,
                     "excludedTranslated": 0,
-                    "chars": 0,
-                    "percent": 0
+                    "chars": 3941,
+                    "percent": 100
                   },
                   "children": []
                 },
@@ -53856,14 +53849,6 @@
       "translated": 4362,
       "pending": 0,
       "pendingPercent": 0
-    },
-    {
-      "sheet": "Item",
-      "content": "Items",
-      "total": 173452,
-      "translated": 58278,
-      "pending": 115174,
-      "pendingPercent": 66.4
     },
     {
       "sheet": "Pet",
