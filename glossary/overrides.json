@@ -1273,7 +1273,7 @@
     {"en":"sledgehammer","fr":"","ja":"","es-es":"la almádena","protect":false,"note":"Tataru's mining tool. The two-handed sledge, not a mallet."},
     {"en":"horsebird","fr":"","ja":"","es-es":"el pájaro-caballo","protect":false,"note":"A chocobo described by somebody who has never seen one."},
     {"en":"data center","fr":"","ja":"","es-es":"el centro de datos","protect":false,"note":"Centro de datos en prosa; CENTRO DE DATOS en el menú con mayúsculas. Mantener la misma terminología en interfaz y prosa."},
-    {"en":"Zodiac Weapon","fr":"","ja":"","es-es":"el arma del Zodiaco","protect":false,"note":"The ARR relic line. «Zodiac Braves» is «los Guerreros del Zodiaco». The upgrade stages — zenith, atma, animus, novus, nexus — stay English and lowercase, as the shipped JobRel journal rows already had them. «atma» is invariable and «mahatma» takes a plural.","forms":["atma"]},
+    {"en":"Zodiac Weapon","fr":"","ja":"","es-es":"el arma del Zodiaco","protect":false,"note":"Línea de armas reliquia de A Realm Reborn. Zenith se adapta como «cénit», en minúscula para la fase. Atma, animus, novus y nexus se conservan en minúscula; atma es invariable y mahatma tiene plural.","forms":["atma"]},
     {"en":"soulglaze","fr":"","ja":"","es-es":"el sellado del alma","protect":false,"note":"Recubrimiento aislante del éter usado en las armas reliquia."},
     {"en":"Starforger","fr":"","ja":"","es-es":"Forjaestrellas","protect":false,"note":"Gerolt's title at the end of the Zodiac line."},
     {"en":"Carriers of the Cauldron","fr":"","ja":"","es-es":"los Portadores del Caldero","protect":false,"note":"The materia guild at the Bonfire. COINED in arr-zodiac-01-01, no shipped precedent."},
@@ -1769,7 +1769,8 @@
     {"en":"barbgrass","es-es":"cola de caballo de invierno","protect":false},
     {"en":"lutinite","es-es":"lutinita","protect":false,"forms":["lutinitas"]},
     {"en":"levinite","es-es":"mineral de rayo","protect":false,"forms":["minerales de rayo"]},
-    {"en":"Nymeia lily","fr":"lys de Nymeia","ja":"ニメーヤリリー","es-es":"azucena de Nymeia","protect":false,"forms":["azucenas de Nymeia"]}
+    {"en":"Nymeia lily","fr":"lys de Nymeia","ja":"ニメーヤリリー","es-es":"azucena de Nymeia","protect":false,"forms":["azucenas de Nymeia"]},
+    {"en":"House Jervaint","es-es":"casa Jervaint","protect":false}
   ],
   "_emotes_comment": [
     "Acotaciones: en el corpus van escapadas, \\<sigh>, y el jugador lee <sigh>. No son macros.",
