@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 806840,
-  "total": 807462,
+  "translated": 808074,
+  "total": 808696,
   "percent": 99.9,
-  "chars": 60619857,
+  "chars": 60621091,
   "unresolved": 5779,
   "groups": [
     {
@@ -93,8 +93,8 @@
     {
       "expansion": null,
       "content": "Chat and system messages",
-      "translated": 11215,
-      "total": 11215
+      "translated": 12449,
+      "total": 12449
     },
     {
       "expansion": null,
@@ -160,7 +160,7 @@
       "expansion": null,
       "content": "Completion",
       "translated": 0,
-      "total": 1743,
+      "total": 509,
       "wholeSheet": false
     },
     {
@@ -51696,13 +51696,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 11215,
-        "translated": 11215,
+        "total": 12449,
+        "translated": 12449,
         "pending": 0,
         "stale": 0,
-        "excluded": 1822,
+        "excluded": 588,
         "excludedTranslated": 78,
-        "chars": 937934,
+        "chars": 939168,
         "percent": 100
       },
       "children": [
@@ -51723,13 +51723,13 @@
             "xpvpgroupactivity"
           ],
           "counts": {
-            "total": 10584,
-            "translated": 10584,
+            "total": 11818,
+            "translated": 11818,
             "pending": 0,
             "stale": 0,
-            "excluded": 1821,
+            "excluded": 587,
             "excludedTranslated": 77,
-            "chars": 723075,
+            "chars": 724309,
             "percent": 100
           },
           "children": [
@@ -51758,13 +51758,13 @@
               "value": "Completion",
               "sheets": [],
               "counts": {
-                "total": 1347,
-                "translated": 1347,
+                "total": 2581,
+                "translated": 2581,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 1743,
+                "excluded": 509,
                 "excludedTranslated": 0,
-                "chars": 18940,
+                "chars": 20174,
                 "percent": 100
               },
               "children": []
@@ -53814,9 +53814,9 @@
       "sheet": "Completion",
       "content": "Completion",
       "total": 3090,
-      "translated": 1347,
-      "pending": 1743,
-      "pendingPercent": 56.4
+      "translated": 2581,
+      "pending": 509,
+      "pendingPercent": 16.5
     },
     {
       "sheet": "DynamicEvent",
