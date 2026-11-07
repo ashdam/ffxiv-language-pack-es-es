@@ -3,7 +3,7 @@
   "gameVersion": "2026.10.16.0000.0000",
   "entries": [
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_SEQ_00", "hash": "FE0AD9E174920856", "target": "Urianger parece absorto en sus pensamientos." },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_00", "hash": "981E56C90E0FC2DE", "target": "Inspeccionar la zona" },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_00", "hash": "981E56C90E0FC2DE", "target": "Inspeccionar el área" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_01", "hash": "F9C774113F96D41E", "target": "Buscar la tablilla ajada" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_TODO_02", "hash": "B3DA6EE292DE3CDC", "target": "Hablar con Urianger" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_000", "hash": "CBEC1F42F89C0143", "target": "No dudo de que este lugar podría resistir otro asalto de los devorapecados, pero, si los eulmoranos vuelven con todas sus fuerzas, será harina de otro costal." },
@@ -34,7 +34,7 @@
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_060", "hash": "056317C7D712EA96", "target": "¿Alguien puede decirme siquiera qué aspecto tiene esta condenada tablilla?" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_RYNE_000_065", "hash": "FCFE6E7BF315FA14", "target": "Apenas me veo la mano delante de la cara. Si esa antorcha estuviera un poco más cerca..." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_070", "hash": "ABDBDDA71F10A6CF", "target": "Si la tablilla fuera un fragmento de escritura sagrada, con toda seguridad reposaría aquí, en este altar. Mas aquí, supongo, es también donde los Bendecidos colocaban la Fuente de la Visión que empleaban en la práctica de su fe... ¿Dónde, entonces, habrían puesto la tablilla?" },
-    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_SYSTEM_000_080", "hash": "727A623BF9124AC8", "target": "Busca la tablilla en los alrededores. Puedes mover la cámara y acercar o alejar el zoom. Fija una zona e inspecciónala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
+    { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_SYSTEM_000_080", "hash": "727A623BF9124AC8", "target": "Busca la tablilla en los alrededores. Puedes mover la cámara y acercar o alejar el zoom. Fija un área e inspecciónala con <if([gnum80==0],<colortype(546)><colortype(0)>,<icon2(15)> / <icon2(8)>)>." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_URIANGER_000_082", "hash": "B0ED9EF5FA97EF4A", "target": "¿<italic(1)>Dentro<italic(0)> del altar, dices?" },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_THANCRED_000_090", "hash": "A225BEDA9588CF34", "target": "Espero de veras que sea esto lo que buscábamos." },
     { "gameKey": "quest/033/LucKmc102_03323#TEXT_LUCKMC102_03323_RYNE_000_095", "hash": "1D089B7D396AC1E7", "target": "¿Cómo has podido verla en la oscuridad? Y dentro del altar, nada menos..." },
