@@ -1,6 +1,6 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 808074,
+  "translated": 808104,
   "total": 808696,
   "percent": 99.9,
   "chars": 60621091,
@@ -21,7 +21,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 1743,
+      "translated": 1773,
       "total": 2365
     },
     {
@@ -166,7 +166,7 @@
     {
       "expansion": null,
       "content": "Action",
-      "translated": 0,
+      "translated": 2,
       "total": 43760,
       "wholeSheet": false
     },
@@ -26085,7 +26085,7 @@
         "pending": 0,
         "stale": 0,
         "excluded": 58163,
-        "excludedTranslated": 0,
+        "excludedTranslated": 2,
         "chars": 370920,
         "percent": 100
       },
@@ -26170,7 +26170,7 @@
             "pending": 0,
             "stale": 0,
             "excluded": 47764,
-            "excludedTranslated": 0,
+            "excludedTranslated": 2,
             "chars": 330042,
             "percent": 100
           },
@@ -26187,7 +26187,7 @@
                 "pending": 0,
                 "stale": 0,
                 "excluded": 44725,
-                "excludedTranslated": 0,
+                "excludedTranslated": 2,
                 "chars": 8892,
                 "percent": 100
               },
@@ -53777,21 +53777,21 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 1743,
-    "pending": 622,
+    "translated": 1773,
+    "pending": 592,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55939,
-    "percent": 73.7
+    "percent": 75
   },
   "futureLocalization": [
     {
       "sheet": "Action",
       "content": "Actions",
       "total": 44412,
-      "translated": 652,
-      "pending": 43760,
+      "translated": 654,
+      "pending": 43758,
       "pendingPercent": 98.5
     },
     {
