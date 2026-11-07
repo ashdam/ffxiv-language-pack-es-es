@@ -8,7 +8,7 @@
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_02", "hash": "C84F92CBB3BBBA90", "target": "Interrogar a un alquimista del Gran Crisol junto a Debroye" },
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_03", "hash": "7F4B7DCC7AF89F74", "target": "Interrogar a otro alquimista del Gran Crisol junto a Debroye" },
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_04", "hash": "F31D9AD41A8BDD89", "target": "Junto a Debroye, hablar con ella en el meyhane de Mehryde" },
-    { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_05", "hash": "9F0666F677FB66EC", "target": "<if([lnum1<lnum2],Fabricar un <ennoun(Item,3,35844,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35844,1,1)> <sheet(Addon,9,0)> a Debroye)>" },
+    { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_05", "hash": "9F0666F677FB66EC", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,35844,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35844,1,1)> <sheet(Addon,9,0)> a Debroye)>" },
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_TODO_06", "hash": "D6EBBA7D2EF325B9", "target": "Hablar con Debroye en la Aula de los Creadores" },
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_SYSTEM_100_000", "hash": "F9A62A45B17AEE37", "target": "Para emprender esta misión, primero debes completar la misión de la historia principal “Bajo su ala”." },
     { "gameKey": "quest/041/AktKla305_04150#TEXT_AKTKLA305_04150_DEBROYE_000_000", "hash": "DA8AAA4B026663F9", "target": "Como el profesor Galveroche señaló con tanto entusiasmo, nuestro pan de Mervyn no puede considerarse una “comida perfecta” hasta que lo carguemos con una cantidad suficiente de ácido ascórbico." },

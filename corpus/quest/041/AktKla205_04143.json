@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_SEQ_00", "hash": "651C388A004F5186", "target": "Jude parece muy decidido." },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_00", "hash": "E92D59B98855C0F9", "target": "Buscar a Jeromere" },
-    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_01", "hash": "404F394228D237D3", "target": "<if([lnum1<lnum2],Fabricar un <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)> al estudiante engreído)>" },
+    { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_01", "hash": "404F394228D237D3", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35840,1,1)> <sheet(Addon,9,0)> al estudiante engreído)>" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_02", "hash": "BAC350157C471614", "target": "Hablar con Jeromere" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_03", "hash": "2C38526E74BC80B8", "target": "Hablar de nuevo con Jeromere" },
     { "gameKey": "quest/041/AktKla205_04143#TEXT_AKTKLA205_04143_TODO_04", "hash": "71B52118BFBA19BE", "target": "Hablar con Jude" },

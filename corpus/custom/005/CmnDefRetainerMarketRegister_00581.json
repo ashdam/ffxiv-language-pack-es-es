@@ -26,6 +26,6 @@
     { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_NO_CASHBACK", "hash": "E8F31C84DFBE5C05", "target": "El impuesto sobre los objetos vendidos en los mercados de <sheet(Town,lnum1,0)> está en su tasa normal del <num(lnum2)> %." },
     { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK", "hash": "19B0EB0C607E6149", "target": "El impuesto sobre los objetos vendidos en los mercados de <sheet(Town,lnum1,0)> se ha reducido al <num(lnum4)> % hasta el <settime(lnum2)><if([gnum77==3], <num(t_day)>/<num(t_mon)>/<num(t_year)>,<num(t_mon)>/<num(t_day)>/<num(t_year)>)> (fecha real)." },
     { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_01", "hash": "F7B17E10BAB9D062", "target": "Para hacer sus mercados más atractivos a los posibles vendedores, las ciudades suelen rebajar el porcentaje de impuesto que se cobra por cada venta." },
-    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_02", "hash": "2BC92A59BF08C02E", "target": "Los periodos de tasa reducida pueden terminar antes de lo indicado si alguna zona requiere mantenimiento." }
+    { "gameKey": "custom/005/CmnDefRetainerMarketRegister_00581#TEXT_CMNDEFRETAINERMARKETREGISTER_00581_CASHBACK_ABOUT_02", "hash": "2BC92A59BF08C02E", "target": "Los periodos de tasa reducida pueden terminar antes de lo indicado si algún área requiere mantenimiento." }
   ]
 }

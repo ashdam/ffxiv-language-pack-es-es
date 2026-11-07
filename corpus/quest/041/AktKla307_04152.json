@@ -12,7 +12,7 @@
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_00", "hash": "C7B5788B1BA2BB73", "target": "Hablar con Debroye" },
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_01", "hash": "FC48A098CAEF8D9F", "target": "Hablar de nuevo con Debroye" },
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_02", "hash": "1F9546DBE811FA30", "target": "Hablar otra vez con Debroye" },
-    { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_03", "hash": "597AEA69F9B9CDA1", "target": "<if([lnum1<lnum2],Fabricar un <ennoun(Item,3,35846,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35846,1,1)> <sheet(Addon,9,0)> a Debroye)>" },
+    { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_03", "hash": "597AEA69F9B9CDA1", "target": "<if([lnum1<lnum2],Sintetizar un <ennoun(Item,3,35846,1,1)> <sheet(Addon,9,0)>,Entregar el <ennoun(Item,3,35846,1,1)> <sheet(Addon,9,0)> a Debroye)>" },
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_TODO_04", "hash": "4F5EEC1863EABF59", "target": "Hablar con Debroye" },
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_DEBROYE_000_000", "hash": "939C0DCDB60D6887", "target": "Ha llegado el momento, <split(<string(gstr1)>, ,1)>: el Foro está listo para empezar el proceso de evaluación." },
     { "gameKey": "quest/041/AktKla307_04152#TEXT_AKTKLA307_04152_DEBROYE_000_001", "hash": "BB61BCDD618F7FC7", "target": "Hemos trabajado sin descanso para perfeccionar nuestra propuesta, ¡y tengo plena confianza en que el pan de Mervyn será el candidato ganador! Venga, pongámonos rumbo a la Tribuna de Oradores, ¿le parece?" },

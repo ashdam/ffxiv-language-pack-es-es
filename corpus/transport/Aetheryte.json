@@ -18,7 +18,7 @@
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_REGISTER_NSO_FAVORITE", "hash": "9CE3828423AE8CA9", "target": "<if([gnum75==7],<icon(184)>,<icon(121)>)> Registrar como destino gratuito<if([gnum75==7], de Nintendo Switch Online,)>." },
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_REGISTER_INFORM_NSO_REQUIRED", "hash": "711E0FC70638722B", "target": "Los destinos gratuitos de Nintendo Switch Online solo pueden registrarse con una suscripción activa a Nintendo Switch Online.<br> ※Si acabas de suscribirte, reinicia FINAL FANTASY XIV." },
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_REGISTER_INFORM_CLOSE", "hash": "02F0CA6DC35033FF", "target": "Cerrar" },
-    { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_MOVE_INSTANCE", "hash": "C3D1460729DC62CA", "target": "<icon(69)> Cambiar de zona instanciada." },
+    { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_MOVE_INSTANCE", "hash": "C3D1460729DC62CA", "target": "<icon(69)> Cambiar de área instanciada." },
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_MENU_CANCEL", "hash": "EC0ADB7D3298871E", "target": "<icon(69)> Cancelar." },
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_AETHERNET_MENU_TITLE", "hash": "27A14ED2517A20F1", "target": "Selecciona un destino.<br>Ubicación actual: <string(lstr1)>" },
     { "gameKey": "transport/Aetheryte#TEXT_AETHERYTE_AETHERNET_MENU_TITLE_NONE_MESSAGE", "hash": "AA5537E72153289C", "target": "<br><br>No hay ningún otro fragmento de Eternet disponible.<br><br>" },
