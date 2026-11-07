@@ -8,15 +8,21 @@
   "groups": [
     {
       "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
+      "content": "Interface menus",
+      "translated": 67668,
+      "total": 67668
     },
     {
       "expansion": null,
-      "content": "Items",
-      "translated": 188761,
-      "total": 188761
+      "content": "Quests",
+      "translated": 34855,
+      "total": 34855
+    },
+    {
+      "expansion": null,
+      "content": "Internal UI catalogs",
+      "translated": 1743,
+      "total": 2365
     },
     {
       "expansion": null,
@@ -26,9 +32,63 @@
     },
     {
       "expansion": null,
-      "content": "Interface menus",
-      "translated": 67668,
-      "total": 67668
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
+    },
+    {
+      "expansion": null,
+      "content": "Tutorials and guides",
+      "translated": 3059,
+      "total": 3059
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 110268,
+      "total": 110268
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23025,
+      "total": 23025
+    },
+    {
+      "expansion": null,
+      "content": "Character",
+      "translated": 2629,
+      "total": 2629
+    },
+    {
+      "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 12449,
+      "total": 12449
+    },
+    {
+      "expansion": null,
+      "content": "Collections and customization",
+      "translated": 14841,
+      "total": 14841
+    },
+    {
+      "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43184,
+      "total": 43184
+    },
+    {
+      "expansion": null,
+      "content": "Items",
+      "translated": 188761,
+      "total": 188761
+    },
+    {
+      "expansion": null,
+      "content": "Place names",
+      "translated": 10520,
+      "total": 10520
     },
     {
       "expansion": "A Realm Reborn",
@@ -65,66 +125,6 @@
       "content": "Quests",
       "translated": 35917,
       "total": 35917
-    },
-    {
-      "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43184,
-      "total": 43184
-    },
-    {
-      "expansion": null,
-      "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Collections and customization",
-      "translated": 14841,
-      "total": 14841
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23025,
-      "total": 23025
-    },
-    {
-      "expansion": null,
-      "content": "Chat and system messages",
-      "translated": 12449,
-      "total": 12449
-    },
-    {
-      "expansion": null,
-      "content": "Quests",
-      "translated": 34855,
-      "total": 34855
-    },
-    {
-      "expansion": null,
-      "content": "Floating names",
-      "translated": 110268,
-      "total": 110268
-    },
-    {
-      "expansion": null,
-      "content": "Character",
-      "translated": 2629,
-      "total": 2629
-    },
-    {
-      "expansion": null,
-      "content": "Place names",
-      "translated": 10520,
-      "total": 10520
-    },
-    {
-      "expansion": null,
-      "content": "Internal UI catalogs",
-      "translated": 1743,
-      "total": 2365
     }
   ],
   "excludedFromLocalization": [
@@ -144,16 +144,9 @@
   "inventoryExclusions": [
     {
       "expansion": null,
-      "content": "DynamicEvent",
+      "content": "TraitTransient",
       "translated": 0,
-      "total": 66,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Action",
-      "translated": 0,
-      "total": 43760,
+      "total": 668,
       "wholeSheet": false
     },
     {
@@ -165,9 +158,37 @@
     },
     {
       "expansion": null,
+      "content": "ActionTransient",
+      "translated": 0,
+      "total": 3030,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Action",
+      "translated": 0,
+      "total": 43760,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "DynamicEvent",
+      "translated": 0,
+      "total": 66,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
       "content": "Status",
       "translated": 0,
       "total": 8865,
+      "wholeSheet": false
+    },
+    {
+      "expansion": null,
+      "content": "Pet",
+      "translated": 0,
+      "total": 40,
       "wholeSheet": false
     },
     {
@@ -182,27 +203,6 @@
       "content": "ClassJob",
       "translated": 0,
       "total": 4,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3030,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "TraitTransient",
-      "translated": 0,
-      "total": 668,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Pet",
-      "translated": 0,
-      "total": 40,
       "wholeSheet": false
     }
   ],
