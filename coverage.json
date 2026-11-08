@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.10.16.0000.0000",
-  "translated": 808104,
-  "total": 808696,
-  "percent": 99.9,
-  "chars": 60621091,
+  "translated": 808300,
+  "total": 808700,
+  "percent": 100,
+  "chars": 60621184,
   "unresolved": 5779,
   "groups": [
     {
@@ -21,7 +21,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 1773,
+      "translated": 1965,
       "total": 2365
     },
     {
@@ -57,8 +57,8 @@
     {
       "expansion": null,
       "content": "Character",
-      "translated": 2629,
-      "total": 2629
+      "translated": 2633,
+      "total": 2633
     },
     {
       "expansion": null,
@@ -166,8 +166,8 @@
     {
       "expansion": null,
       "content": "Action",
-      "translated": 2,
-      "total": 43760,
+      "translated": 0,
+      "total": 43758,
       "wholeSheet": false
     },
     {
@@ -181,7 +181,7 @@
       "expansion": null,
       "content": "Status",
       "translated": 0,
-      "total": 8865,
+      "total": 8863,
       "wholeSheet": false
     },
     {
@@ -26080,13 +26080,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 2629,
-        "translated": 2629,
+        "total": 2633,
+        "translated": 2633,
         "pending": 0,
         "stale": 0,
-        "excluded": 58163,
-        "excludedTranslated": 2,
-        "chars": 370920,
+        "excluded": 58159,
+        "excludedTranslated": 0,
+        "chars": 370987,
         "percent": 100
       },
       "children": [
@@ -26165,13 +26165,13 @@
             "petaction"
           ],
           "counts": {
-            "total": 1599,
-            "translated": 1599,
+            "total": 1601,
+            "translated": 1601,
             "pending": 0,
             "stale": 0,
-            "excluded": 47764,
-            "excludedTranslated": 2,
-            "chars": 330042,
+            "excluded": 47762,
+            "excludedTranslated": 0,
+            "chars": 330064,
             "percent": 100
           },
           "children": [
@@ -26182,13 +26182,13 @@
               "value": "Action",
               "sheets": [],
               "counts": {
-                "total": 652,
-                "translated": 652,
+                "total": 654,
+                "translated": 654,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 44725,
-                "excludedTranslated": 2,
-                "chars": 8892,
+                "excluded": 44723,
+                "excludedTranslated": 0,
+                "chars": 8914,
                 "percent": 100
               },
               "children": []
@@ -26407,13 +26407,13 @@
             "companyaction"
           ],
           "counts": {
-            "total": 576,
-            "translated": 576,
+            "total": 578,
+            "translated": 578,
             "pending": 0,
             "stale": 0,
-            "excluded": 9059,
+            "excluded": 9057,
             "excludedTranslated": 0,
-            "chars": 27533,
+            "chars": 27578,
             "percent": 100
           },
           "children": [
@@ -26442,13 +26442,13 @@
               "value": "Status",
               "sheets": [],
               "counts": {
-                "total": 478,
-                "translated": 478,
+                "total": 480,
+                "translated": 480,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 9059,
+                "excluded": 9057,
                 "excludedTranslated": 0,
-                "chars": 20610,
+                "chars": 20655,
                 "percent": 100
               },
               "children": []
@@ -53777,13 +53777,13 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 1773,
-    "pending": 592,
+    "translated": 1965,
+    "pending": 400,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
-    "chars": 55939,
-    "percent": 75
+    "chars": 55965,
+    "percent": 83.1
   },
   "futureLocalization": [
     {
@@ -53862,8 +53862,8 @@
       "sheet": "Status",
       "content": "Statuses",
       "total": 9343,
-      "translated": 478,
-      "pending": 8865,
+      "translated": 480,
+      "pending": 8863,
       "pendingPercent": 94.9
     },
     {
