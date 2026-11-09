@@ -6724,6 +6724,7 @@
     { "gameKey": "LogMessage#9500", "hash": "F413FCDFF09FA637", "target": "En la próxima batalla, lucharás como <if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>." },
     { "gameKey": "LogMessage#9501", "hash": "18ABFD4492B2249B", "target": "En la próxima batalla, lucharás como <string(gstr1)>." },
     { "gameKey": "LogMessage#9502", "hash": "A565A14F6EB61B11", "target": "Preparándose para lanzar Eternal Breath." },
+    { "gameKey": "LogMessage#9503", "hash": "9FC9B161C017B468", "target": "" },
     { "gameKey": "LogMessage#9504", "hash": "2B062AE8F62AB8B3", "target": "Listo para lanzar Eternal Breath." },
     { "gameKey": "LogMessage#9505", "hash": "261DB6A8F8DB948D", "target": "¡Las ataduras se han roto!" },
     { "gameKey": "LogMessage#9506", "hash": "2D15FEC37DA4773D", "target": "La Oscuridad se hace más densa..." },
@@ -7025,6 +7026,8 @@
     { "gameKey": "LogMessage#9810", "hash": "8E29A117472F77C1", "target": "El punto de acceso se ha activado." },
     { "gameKey": "LogMessage#9811", "hash": "84446642B4BC4435", "target": "¡El campo se llena de minas!" },
     { "gameKey": "LogMessage#9812", "hash": "FAF8504FFCA8DD41", "target": "¡Se han activado unas torretas magitek!" },
+    { "gameKey": "LogMessage#9813", "hash": "C0970A6F9879CE8C", "target": "" },
+    { "gameKey": "LogMessage#9814", "hash": "693FD16912C680BB", "target": "" },
     { "gameKey": "LogMessage#9815", "hash": "E495DC4A958707A9", "target": "¡Su sistema de seguridad se ha desactivado y la vía queda libre!" },
     { "gameKey": "LogMessage#9816", "hash": "B22FEC17168D37DB", "target": "¡Portón desbloqueado! ¡La vía hacia la Instalación magitek está abierta!" },
     { "gameKey": "LogMessage#9817", "hash": "F796EC93AD83A2D3", "target": "La secuencia de desbloqueo del portón ha fallado." },
@@ -7052,6 +7055,7 @@
     { "gameKey": "LogMessage#9842", "hash": "FA19EF0F0A872AA2", "target": "El agua ha bajado." },
     { "gameKey": "LogMessage#9843", "hash": "7AB505E8ADC413E9", "target": "¡Cura a todos los refugiados de Thavnair heridos!" },
     { "gameKey": "LogMessage#9844", "hash": "6F5113DFEC9395B0", "target": "¡Destruir el Cristal de Luz inflige <num(lnum1)> de daño a los ecos de Hydaelyn!" },
+    { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044", "target": "¡La bestia pide refuerzos!" },
     { "gameKey": "LogMessage#9847", "hash": "80F80ACF057BF91D", "target": "¡La bestia del fin invoca una lluvia de meteoros!" },
     { "gameKey": "LogMessage#9848", "hash": "E35097A765B5F81B", "target": "¡La barra de Límite está llena!" },
     { "gameKey": "LogMessage#9849", "hash": "4047F8100B341921", "target": "El phoinix y sus emplumados de chispas arden con fuerza..." },
@@ -8596,7 +8600,6 @@
     { "gameKey": "LogMessage#11665", "hash": "935506D9D0E77B16", "target": "Se te ha expulsado del contenido por inactividad prolongada." },
     { "gameKey": "LogMessage#11676", "hash": "1413E2119DBC64C7", "target": "Se ha añadido «<sheet(DescriptionString,1700,0,28)>» a la guía del Crisol de los Inquebrantables." },
     { "gameKey": "LogMessage#11677", "hash": "F5231246457ACB45", "target": "Se ha añadido «<sheet(DescriptionString,1762,0,28)>» a la guía del Crisol de los Inquebrantables." },
-    { "gameKey": "LogMessage#11779", "hash": "89FF8B039F424DE4", "target": "La misión ha terminado. Se ha ajustado el límite de tiempo de esta instancia." },
-    { "gameKey": "LogMessage#9846", "hash": "7199C9650F6E6044", "target": "¡La bestia pide refuerzos!" }
+    { "gameKey": "LogMessage#11779", "hash": "89FF8B039F424DE4", "target": "La misión ha terminado. Se ha ajustado el límite de tiempo de esta instancia." }
   ]
 }

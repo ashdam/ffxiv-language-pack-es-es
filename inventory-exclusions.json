@@ -5,9 +5,7 @@
     "Matching hashes remove the row from this language pack's translation inventory.",
     "A changed source hash fails validation so the exclusion is reviewed. Translated rows are still served."
   ],
-
   "excludedSheets": [],
-
   "exclusion_groups": [
     {
       "why": "Keep general combat action names in English. Spanish translates actions only for explicitly selected systems.",
@@ -48965,8 +48963,6 @@
         { "gameKey": "Status#596.1", "hash": "B01BDD84B28C26D9" },
         { "gameKey": "Status#597.0", "hash": "6A0D9F21E763F8C3" },
         { "gameKey": "Status#597.1", "hash": "5E644C6DD59E72A4" },
-        { "gameKey": "Status#598.0", "hash": "D56D81C92FCE3282" },
-        { "gameKey": "Status#599.0", "hash": "B7481532AFDC585E" },
         { "gameKey": "Status#600.0", "hash": "573E40E8A1487264" },
         { "gameKey": "Status#600.1", "hash": "BBC833F25BC7806F" },
         { "gameKey": "Status#601.0", "hash": "A14C606620F29C48" },
@@ -58241,11 +58237,6 @@
         { "gameKey": "TraitTransient#676", "hash": "23F55657B6AEF0C3" },
         { "gameKey": "TraitTransient#677", "hash": "4A4D8CE35C13D788" },
         { "gameKey": "TraitTransient#678", "hash": "3E884392B75B34B8" }
-      ]
-    },
-    {
-      "why": "Keep item names and descriptions in English, except for individual translations chosen by the Spanish project.",
-      "rows": [
       ]
     },
     {
