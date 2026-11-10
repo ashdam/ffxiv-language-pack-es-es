@@ -1,6 +1,6 @@
 {
   "sheet": "Addon",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "Addon#1", "hash": "FCD57C566CA402DB", "target": "OK" },
     { "gameKey": "Addon#2", "hash": "E79EAD3A26602904", "target": "Cancelar" },
@@ -14611,6 +14611,8 @@
     { "gameKey": "Addon#17530", "hash": "D7098B87E45B125D", "target": "Desconocido" },
     { "gameKey": "Addon#17531", "hash": "9BB02E5C0D7BF246", "target": "Tienes inscripciones a contenido pendientes. ¿Seguro que quieres cancelarlas y cerrar la sesión?" },
     { "gameKey": "Addon#17532", "hash": "D79409DF3B5FCCB3", "target": "Tienes inscripciones a contenido pendientes. ¿Seguro que quieres cancelarlas y cerrar el juego?" },
+    { "gameKey": "Addon#17538", "hash": "7026B44C2815FECD", "target": "" },
+    { "gameKey": "Addon#17539", "hash": "B30F240FD334EA2F", "target": "" },
     { "gameKey": "Addon#17540", "hash": "E0174BEEA2EAA18F", "target": "Es el punto de partida." },
     { "gameKey": "Addon#17541", "hash": "DE95347ADB0D257B", "target": "Enemigo n.º <num(lnum1)>: Combate contra <num(lnum2)> <if([lnum2<=1],tipo,tipos)> de bestia." },
     { "gameKey": "Addon#17542", "hash": "D8EFD36123A7A996", "target": "Enemigo de élite n.º <num(lnum1)>: Combate contra <num(lnum2)> <if([lnum2<=1],tipo,tipos)> de bestia." },

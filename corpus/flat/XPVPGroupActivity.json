@@ -1,6 +1,6 @@
 {
   "sheet": "XPVPGroupActivity",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "XPVPGroupActivity#1", "hash": "529D95F4B3C8C732", "target": "Se ha formado el equipo PvP «<if(gnum8,<sheet(ObjStr,gnum8,0)>,gstr3)>»." },
     { "gameKey": "XPVPGroupActivity#2", "hash": "52D55000C9F8B358", "target": "<head(<if([gstr1==gstr2],tú,<if(gnum7,<ennoun(ObjStr,2,gnum7,1,1)>,gstr2)>)>)> <if([gstr1==gstr2],te unes,se une)> al equipo." },
