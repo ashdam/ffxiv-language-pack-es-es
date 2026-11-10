@@ -1,6 +1,6 @@
 {
   "conversation": "custom/003/CtsEtcBoosterLogin_00392",
-  "gameVersion": "2026.10.16.0000.0000",
+  "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_JOB_000_001", "hash": "36A5C1B71FAE8BE7", "target": "¡Lees <ennoun(Item,3,lnum1,1,1)> y alcanzas al instante el nivel <num(lnum3)> como <if([lnum2==10],<sheet(ClassJob,lnum2,0)>,<if([lnum2==14],<sheet(ClassJob,lnum2,0)>,<if([lnum2==5],<sheet(ClassJob,lnum2,0)>,<if([lnum2==26],<sheet(ClassJob,lnum2,0)>,<if([lnum2==33],<sheet(ClassJob,lnum2,0)>,<sheet(ClassJob,lnum2,0)>)>)>)>)>)>!" },
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_JOB_999_001", "hash": "E5EA7CCF4B9F7EE3", "target": "Lees <ennoun(Item,3,lnum1,1,1)>." },
@@ -23,6 +23,15 @@
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_003", "hash": "20E77B953BD90040", "target": "¡Conocer lo que ha sucedido te permitirá comprender —y disfrutar— mejor la historia que se irá desplegando!" },
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_100", "hash": "42E23DC77ADBA39E", "target": "Tu nivel también parece demasiado bajo para avanzar en la historia principal. ¡Actividades como las mazmorras o las F.A.T.E. son una forma estupenda de ganar experiencia y subir de nivel!" },
     { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_004", "hash": "0A79A1D940A15C76", "target": "Recuerda: los objetos que recibiste a través del moguri mensajero están pensados para ayudarte en el camino, así que no dejes de usarlos al afrontar los retos que te esperan." },
-    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_005", "hash": "83F109FC8307A592", "target": "El mundo de Hydaelyn te espera. ¡Que camines a la luz del Cristal!" }
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_000_005", "hash": "83F109FC8307A592", "target": "El mundo de Hydaelyn te espera. ¡Que camines a la luz del Cristal!" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_001", "hash": "6C15277995B47671", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_002", "hash": "0F19A9315B00F40F", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_003", "hash": "043F384394378406", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_004", "hash": "4B416E401C3F4D90", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_005", "hash": "2EA084F590556FEA", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_006", "hash": "AD8E45541F5ED852", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_007", "hash": "525DD8FB3524868C", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_008", "hash": "B02FB7921356B148", "target": "" },
+    { "gameKey": "custom/003/CtsEtcBoosterLogin_00392#TEXT_CTSETCBOOSTERLOGIN_00392_MAIN_758_009", "hash": "FD234FC1D9C1633B", "target": "" }
   ]
 }
