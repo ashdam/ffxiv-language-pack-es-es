@@ -1925,14 +1925,36 @@
       ]
     },
     "BRIARDIEN": {
-      "corpus": { "conversations": 26, "rows": 391 },
+      "corpus": {
+        "conversations": 26,
+        "rows": 391
+      },
       "evidence": [
-        { "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_056", "lang": "ja", "term": "君" },
-        { "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_BRIARDIEN_000_049", "lang": "ja", "term": "君" },
-        { "gameKey": "quest/022/ChrEnd203_02209#TEXT_CHREND203_02209_BRIARDIEN_000_071", "lang": "ja", "term": "君" },
-        { "gameKey": "quest/022/ChrEnd202_02208#TEXT_CHREND202_02208_BRIARDIEN_000_050", "lang": "ja", "term": "君" }
+        {
+          "gameKey": "quest/023/ChrEnd303_02363#TEXT_CHREND303_02363_BRIARDIEN_000_056",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/022/ChrEnd204_02210#TEXT_CHREND204_02210_BRIARDIEN_000_049",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/022/ChrEnd203_02209#TEXT_CHREND203_02209_BRIARDIEN_000_071",
+          "lang": "ja",
+          "term": "君"
+        },
+        {
+          "gameKey": "quest/022/ChrEnd202_02208#TEXT_CHREND202_02208_BRIARDIEN_000_050",
+          "lang": "ja",
+          "term": "君"
+        }
       ],
       "player": "tú",
+      "others": {
+        "ELLIE": "tú"
+      },
       "confidence": "high",
       "why": "El inspector trata al aventurero de socio: japonés きみ/ぼく, y el inglés lo empareja con el jugador en toda la investigación del escolasticado. A su tío Bruvagnon y al clero, usted.",
       "examples": []
@@ -1986,14 +2008,36 @@
       "examples": []
     },
     "NASHUMHAKARACCA": {
-      "corpus": { "conversations": 57, "rows": 671 },
+      "corpus": {
+        "conversations": 57,
+        "rows": 671
+      },
       "evidence": [
-        { "gameKey": "quest/012/ChrHdb102_01205#TEXT_CHRHDB102_01205_NASHUMHAKARACCA_000_010", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_NASHUMHAKARACCA_100_082", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_NASHUMHAKARACCA_000_085", "lang": "fr", "term": "vous+keigo" },
-        { "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_NASHUMHAKARACCA_000_014", "lang": "fr", "term": "vous+keigo" }
+        {
+          "gameKey": "quest/012/ChrHdb102_01205#TEXT_CHRHDB102_01205_NASHUMHAKARACCA_000_010",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_NASHUMHAKARACCA_100_082",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "quest/023/ChrHdb651_02371#TEXT_CHRHDB651_02371_NASHUMHAKARACCA_000_085",
+          "lang": "fr",
+          "term": "vous+keigo"
+        },
+        {
+          "gameKey": "quest/030/ChrHdb711_03008#TEXT_CHRHDB711_03008_NASHUMHAKARACCA_000_014",
+          "lang": "fr",
+          "term": "vous+keigo"
+        }
       ],
       "player": "usted",
+      "others": {
+        "HILDIBRAND": "usted"
+      },
       "confidence": "high",
       "why": "Japonés cortés, です／ます, y llama a su jefe ヒルディブランド様. El francés coincide, vous 41 contra CERO tu. TRAMPA DEL FRANCÉS: le pone una erre arrastrada («je trrravaillais») que no está ni en el inglés ni en el japonés, así que no se importa.",
       "examples": []
