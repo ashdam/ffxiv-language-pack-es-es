@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 808297,
-  "total": 808987,
+  "translated": 865490,
+  "total": 866166,
   "percent": 99.9,
-  "chars": 60631325,
+  "chars": 63100720,
   "unresolved": 5785,
   "groups": [
     {
@@ -21,7 +21,7 @@
     {
       "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 1965,
+      "translated": 1979,
       "total": 2365
     },
     {
@@ -45,26 +45,26 @@
     {
       "expansion": null,
       "content": "Floating names",
-      "translated": 110268,
-      "total": 110356
+      "translated": 110308,
+      "total": 110396
     },
     {
       "expansion": null,
       "content": "Duties and field operations",
-      "translated": 23025,
-      "total": 23029
+      "translated": 23091,
+      "total": 23095
     },
     {
       "expansion": null,
       "content": "Character",
-      "translated": 2633,
-      "total": 2633
+      "translated": 59704,
+      "total": 59704
     },
     {
       "expansion": null,
       "content": "Chat and system messages",
-      "translated": 12449,
-      "total": 12457
+      "translated": 12451,
+      "total": 12459
     },
     {
       "expansion": null,
@@ -131,8 +131,8 @@
     {
       "expansion": null,
       "content": "No English to translate",
-      "translated": 1110,
-      "total": 12710
+      "translated": 2276,
+      "total": 12628
     },
     {
       "expansion": null,
@@ -144,65 +144,9 @@
   "inventoryExclusions": [
     {
       "expansion": null,
-      "content": "TraitTransient",
-      "translated": 0,
-      "total": 668,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
       "content": "Completion",
       "translated": 0,
       "total": 509,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "ActionTransient",
-      "translated": 0,
-      "total": 3030,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Action",
-      "translated": 0,
-      "total": 43758,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "DynamicEvent",
-      "translated": 0,
-      "total": 66,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Status",
-      "translated": 0,
-      "total": 8863,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Pet",
-      "translated": 0,
-      "total": 40,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "Trait",
-      "translated": 0,
-      "total": 668,
-      "wholeSheet": false
-    },
-    {
-      "expansion": null,
-      "content": "ClassJob",
-      "translated": 0,
-      "total": 4,
       "wholeSheet": false
     }
   ],
@@ -25904,13 +25848,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 110356,
-        "translated": 110268,
+        "total": 110396,
+        "translated": 110308,
         "pending": 88,
         "stale": 0,
-        "excluded": 2266,
+        "excluded": 2226,
         "excludedTranslated": 19,
-        "chars": 1367575,
+        "chars": 1368081,
         "percent": 99.9
       },
       "children": [
@@ -26005,13 +25949,13 @@
             "petmirage"
           ],
           "counts": {
-            "total": 16318,
-            "translated": 16318,
+            "total": 16358,
+            "translated": 16358,
             "pending": 0,
             "stale": 0,
-            "excluded": 227,
+            "excluded": 187,
             "excludedTranslated": 18,
-            "chars": 237007,
+            "chars": 237513,
             "percent": 100
           },
           "children": [
@@ -26076,13 +26020,13 @@
               "value": "Pet",
               "sheets": [],
               "counts": {
-                "total": 50,
-                "translated": 50,
+                "total": 90,
+                "translated": 90,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 40,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 345,
+                "chars": 851,
                 "percent": 100
               },
               "children": []
@@ -26155,13 +26099,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 2633,
-        "translated": 2633,
+        "total": 59704,
+        "translated": 59704,
         "pending": 0,
         "stale": 0,
-        "excluded": 58241,
-        "excludedTranslated": 0,
-        "chars": 370987,
+        "excluded": 1170,
+        "excludedTranslated": 1166,
+        "chars": 2833680,
         "percent": 100
       },
       "children": [
@@ -26175,13 +26119,13 @@
             "classjobcategory"
           ],
           "counts": {
-            "total": 314,
-            "translated": 314,
+            "total": 318,
+            "translated": 318,
             "pending": 0,
             "stale": 0,
-            "excluded": 4,
+            "excluded": 0,
             "excludedTranslated": 0,
-            "chars": 5836,
+            "chars": 5866,
             "percent": 100
           },
           "children": [
@@ -26192,13 +26136,13 @@
               "value": "ClassJob",
               "sheets": [],
               "counts": {
-                "total": 126,
-                "translated": 126,
+                "total": 130,
+                "translated": 130,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 4,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 785,
+                "chars": 815,
                 "percent": 100
               },
               "children": []
@@ -26240,13 +26184,13 @@
             "petaction"
           ],
           "counts": {
-            "total": 1601,
-            "translated": 1601,
+            "total": 48469,
+            "translated": 48469,
             "pending": 0,
             "stale": 0,
-            "excluded": 47842,
-            "excludedTranslated": 0,
-            "chars": 330064,
+            "excluded": 974,
+            "excludedTranslated": 974,
+            "chars": 2245900,
             "percent": 100
           },
           "children": [
@@ -26257,13 +26201,13 @@
               "value": "Action",
               "sheets": [],
               "counts": {
-                "total": 654,
-                "translated": 654,
+                "total": 44491,
+                "translated": 44491,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 44802,
-                "excludedTranslated": 0,
-                "chars": 8914,
+                "excluded": 965,
+                "excludedTranslated": 965,
+                "chars": 546699,
                 "percent": 100
               },
               "children": []
@@ -26329,13 +26273,13 @@
               "value": "ActionTransient",
               "sheets": [],
               "counts": {
-                "total": 367,
-                "translated": 367,
+                "total": 3398,
+                "translated": 3398,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 3040,
-                "excludedTranslated": 0,
-                "chars": 196714,
+                "excluded": 9,
+                "excludedTranslated": 9,
+                "chars": 1574765,
                 "percent": 100
               },
               "children": []
@@ -26424,13 +26368,13 @@
             "traittransient"
           ],
           "counts": {
-            "total": 28,
-            "translated": 28,
+            "total": 1364,
+            "translated": 1364,
             "pending": 0,
             "stale": 0,
-            "excluded": 1336,
+            "excluded": 0,
             "excludedTranslated": 0,
-            "chars": 3224,
+            "chars": 181751,
             "percent": 100
           },
           "children": [
@@ -26441,13 +26385,13 @@
               "value": "Trait",
               "sheets": [],
               "counts": {
-                "total": 14,
-                "translated": 14,
+                "total": 682,
+                "translated": 682,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 668,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 240,
+                "chars": 12335,
                 "percent": 100
               },
               "children": []
@@ -26459,13 +26403,13 @@
               "value": "TraitTransient",
               "sheets": [],
               "counts": {
-                "total": 14,
-                "translated": 14,
+                "total": 682,
+                "translated": 682,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 668,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 2984,
+                "chars": 169416,
                 "percent": 100
               },
               "children": []
@@ -26482,13 +26426,13 @@
             "companyaction"
           ],
           "counts": {
-            "total": 578,
-            "translated": 578,
+            "total": 9441,
+            "translated": 9441,
             "pending": 0,
             "stale": 0,
-            "excluded": 9057,
-            "excludedTranslated": 0,
-            "chars": 27578,
+            "excluded": 194,
+            "excludedTranslated": 192,
+            "chars": 395878,
             "percent": 100
           },
           "children": [
@@ -26517,13 +26461,13 @@
               "value": "Status",
               "sheets": [],
               "counts": {
-                "total": 480,
-                "translated": 480,
+                "total": 9343,
+                "translated": 9343,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 9057,
-                "excludedTranslated": 0,
-                "chars": 20655,
+                "excluded": 194,
+                "excludedTranslated": 192,
+                "chars": 388955,
                 "percent": 100
               },
               "children": []
@@ -30104,13 +30048,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 23029,
-        "translated": 23025,
+        "total": 23095,
+        "translated": 23091,
         "pending": 4,
         "stale": 0,
-        "excluded": 1312,
+        "excluded": 1246,
         "excludedTranslated": 1171,
-        "chars": 2423745,
+        "chars": 2429941,
         "percent": 100
       },
       "children": [
@@ -30883,13 +30827,13 @@
             "dpschallenge"
           ],
           "counts": {
-            "total": 9152,
-            "translated": 9150,
+            "total": 9218,
+            "translated": 9216,
             "pending": 2,
             "stale": 0,
-            "excluded": 1024,
+            "excluded": 958,
             "excludedTranslated": 929,
-            "chars": 1482770,
+            "chars": 1488966,
             "percent": 100
           },
           "children": [
@@ -30990,13 +30934,13 @@
               "value": "DynamicEvent",
               "sheets": [],
               "counts": {
-                "total": 64,
-                "translated": 64,
+                "total": 130,
+                "translated": 130,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 66,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 7706,
+                "chars": 13902,
                 "percent": 100
               },
               "children": []
@@ -31222,7 +31166,7 @@
         "total": 3059,
         "translated": 3059,
         "pending": 0,
-        "stale": 1,
+        "stale": 0,
         "excluded": 73,
         "excludedTranslated": 0,
         "chars": 715654,
@@ -31254,7 +31198,7 @@
             "total": 3059,
             "translated": 3059,
             "pending": 0,
-            "stale": 1,
+            "stale": 0,
             "excluded": 73,
             "excludedTranslated": 0,
             "chars": 715654,
@@ -31343,7 +31287,7 @@
                 "total": 1646,
                 "translated": 1646,
                 "pending": 0,
-                "stale": 1,
+                "stale": 0,
                 "excluded": 1,
                 "excludedTranslated": 0,
                 "chars": 384671,
@@ -31527,7 +31471,7 @@
         "total": 67712,
         "translated": 67668,
         "pending": 44,
-        "stale": 4,
+        "stale": 0,
         "excluded": 1308,
         "excludedTranslated": 356,
         "chars": 5001255,
@@ -31989,7 +31933,7 @@
             "total": 65779,
             "translated": 65746,
             "pending": 33,
-            "stale": 4,
+            "stale": 0,
             "excluded": 1241,
             "excludedTranslated": 334,
             "chars": 4909934,
@@ -32024,7 +31968,7 @@
                 "total": 14882,
                 "translated": 14877,
                 "pending": 5,
-                "stale": 4,
+                "stale": 0,
                 "excluded": 698,
                 "excludedTranslated": 64,
                 "chars": 538186,
@@ -51771,11 +51715,11 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 12457,
-        "translated": 12449,
+        "total": 12459,
+        "translated": 12451,
         "pending": 8,
         "stale": 0,
-        "excluded": 1421,
+        "excluded": 1419,
         "excludedTranslated": 78,
         "chars": 939908,
         "percent": 99.9
@@ -51981,11 +51925,11 @@
             "textcommand"
           ],
           "counts": {
-            "total": 631,
-            "translated": 631,
+            "total": 633,
+            "translated": 633,
             "pending": 0,
             "stale": 0,
-            "excluded": 831,
+            "excluded": 829,
             "excludedTranslated": 1,
             "chars": 214859,
             "percent": 100
@@ -51998,11 +51942,11 @@
               "value": "TextCommand",
               "sheets": [],
               "counts": {
-                "total": 631,
-                "translated": 631,
+                "total": 633,
+                "translated": 633,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 831,
+                "excluded": 829,
                 "excludedTranslated": 1,
                 "chars": 214859,
                 "percent": 100
@@ -52023,7 +51967,7 @@
         "total": 17222,
         "translated": 17219,
         "pending": 3,
-        "stale": 2,
+        "stale": 0,
         "excluded": 241,
         "excludedTranslated": 197,
         "chars": 1179581,
@@ -52069,7 +52013,7 @@
             "total": 6353,
             "translated": 6352,
             "pending": 1,
-            "stale": 2,
+            "stale": 0,
             "excluded": 240,
             "excludedTranslated": 197,
             "chars": 265096,
@@ -52320,7 +52264,7 @@
                 "total": 1638,
                 "translated": 1638,
                 "pending": 0,
-                "stale": 2,
+                "stale": 0,
                 "excluded": 200,
                 "excludedTranslated": 158,
                 "chars": 22733,
@@ -53852,39 +53796,15 @@
   ],
   "internalUi": {
     "total": 2365,
-    "translated": 1965,
-    "pending": 400,
+    "translated": 1979,
+    "pending": 386,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55965,
-    "percent": 83.1
+    "percent": 83.7
   },
   "futureLocalization": [
-    {
-      "sheet": "Action",
-      "content": "Actions",
-      "total": 44412,
-      "translated": 654,
-      "pending": 43758,
-      "pendingPercent": 98.5
-    },
-    {
-      "sheet": "ActionTransient",
-      "content": "Action descriptions",
-      "total": 3397,
-      "translated": 367,
-      "pending": 3030,
-      "pendingPercent": 89.2
-    },
-    {
-      "sheet": "ClassJob",
-      "content": "Classes and jobs",
-      "total": 130,
-      "translated": 126,
-      "pending": 4,
-      "pendingPercent": 3.1
-    },
     {
       "sheet": "Completion",
       "content": "Completion",
@@ -53892,14 +53812,6 @@
       "translated": 2581,
       "pending": 509,
       "pendingPercent": 16.5
-    },
-    {
-      "sheet": "DynamicEvent",
-      "content": "DynamicEvent",
-      "total": 130,
-      "translated": 64,
-      "pending": 66,
-      "pendingPercent": 50.8
     },
     {
       "sheet": "EventItem",
@@ -53924,38 +53836,6 @@
       "translated": 4362,
       "pending": 0,
       "pendingPercent": 0
-    },
-    {
-      "sheet": "Pet",
-      "content": "Pet names",
-      "total": 90,
-      "translated": 50,
-      "pending": 40,
-      "pendingPercent": 44.4
-    },
-    {
-      "sheet": "Status",
-      "content": "Statuses",
-      "total": 9343,
-      "translated": 480,
-      "pending": 8863,
-      "pendingPercent": 94.9
-    },
-    {
-      "sheet": "Trait",
-      "content": "Traits",
-      "total": 682,
-      "translated": 14,
-      "pending": 668,
-      "pendingPercent": 97.9
-    },
-    {
-      "sheet": "TraitTransient",
-      "content": "Trait descriptions",
-      "total": 682,
-      "translated": 14,
-      "pending": 668,
-      "pendingPercent": 97.9
     }
   ]
 }
