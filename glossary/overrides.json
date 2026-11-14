@@ -8,6 +8,10 @@
     "Los nombres de lugares sin clave de PlaceName se conservan aquí."
   ],
   "terms": [
+    {"en":"Tell","es-es":"Susurrar","protect":false,"note":"Nombre del modo de chat. El mensaje privado se denomina susurro."},
+    {"en":"raid","es-es":"banda","protect":false,"forms":["bandas"],"note":"Tipo de contenido, femenino. No aplicar a incursiones o ataques narrativos.","forbidden":["raid","raids"]},
+    {"en":"tomelith","fr":"mémolithe","de":"Echolith","es-es":"monolito","protect":false,"forms":["monolitos"],"note":"Dispositivo allagano de almacenamiento de datos. Distinguir de tomestone, tablilla.","forbidden":["tomelito","tomelitos","tomolito","tomolitos"]},
+    {"en":"tomestone","es-es":"tablilla","protect":false,"forms":["tablillas"],"note":"Soporte de datos y moneda de canje. Distinguir de tomelith, monolito."},
     {"en":"Mandragoras","fr":"gang des légumes","de":"Botanischen Fünf","ja":"マンドラーズ","es-es":"Mandrágoras","protect":false,"note":"Nombre de la banda de Hildibrand, masculino plural: los Mandrágoras. No aplicar a la especie mandrágora, de género femenino. Precedente del masculino en la guía oficial de FFXII: https://www.piggyback.com/es/wp-content/uploads/sites/4/2020/04/FFXII_S_SamplePages.pdf#page=10"},
     {"en":"mercorn","fr":"maïs sirène","de":"Melusinenkorn","ja":"マーメイド・コーン","es-es":"maíz sirena","protect":false},
     {"en":"knight","es-es":"caballero","protect":false,"forms":["caballeros"],"note":"Usar caballero como título o rango masculino también para mujeres. Ajustar su concordancia y reformular la frase cuando resulte forzada; conservar el género de la persona en las demás referencias."},
@@ -212,8 +216,8 @@
     {"en":"The First Brood","fr":"les dragons anciens","ja":"七大天竜","es-es":"la Primera Camada","protect":false,"note":"Los siete hijos de Midgardsormr; primera camada en prosa."},
     {"en":"Garlean Empire","fr":"empire de Garlemald","ja":"ガレマール帝国","es-es":"imperio garleano","protect":false},
     {"en":"Aether Compass","es-es":"brújula de éter","protect":false,"note":"Nombre de la herramienta y sus referencias en las instrucciones."},
-    {"en":"Chaotic Alliance Raid","es-es":"Raids caóticas","protect":false},
-    {"en":"Raid Finder","es-es":"Buscador de raids","protect":false},
+    {"en":"Chaotic Alliance Raid","es-es":"Banda de alianza caótica","protect":false},
+    {"en":"Raid Finder","es-es":"Buscador de bandas","protect":false},
     {"en":"The Unending Codex","es-es":"El códice interminable","protect":false},
     {"en":"somanoutics","es-es":"somanáutica","protect":false,"forms":["somanáutico"]},
     {"en":"Mogpendium","es-es":"Mogpendium","protect":true},
