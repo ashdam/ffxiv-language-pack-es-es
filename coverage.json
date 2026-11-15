@@ -1,9 +1,9 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 865490,
-  "total": 866166,
+  "translated": 866086,
+  "total": 866762,
   "percent": 99.9,
-  "chars": 63100720,
+  "chars": 63104339,
   "unresolved": 5785,
   "groups": [
     {
@@ -63,8 +63,8 @@
     {
       "expansion": null,
       "content": "Chat and system messages",
-      "translated": 12451,
-      "total": 12459
+      "translated": 13047,
+      "total": 13055
     },
     {
       "expansion": null,
@@ -132,7 +132,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 2276,
-      "total": 12628
+      "total": 12541
     },
     {
       "expansion": null,
@@ -141,15 +141,7 @@
       "total": 895
     }
   ],
-  "inventoryExclusions": [
-    {
-      "expansion": null,
-      "content": "Completion",
-      "translated": 0,
-      "total": 509,
-      "wholeSheet": false
-    }
-  ],
+  "inventoryExclusions": [],
   "tree": [
     {
       "id": "story",
@@ -51715,13 +51707,13 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 12459,
-        "translated": 12451,
+        "total": 13055,
+        "translated": 13047,
         "pending": 8,
         "stale": 0,
-        "excluded": 1419,
+        "excluded": 823,
         "excludedTranslated": 78,
-        "chars": 939908,
+        "chars": 943527,
         "percent": 99.9
       },
       "children": [
@@ -51742,13 +51734,13 @@
             "xpvpgroupactivity"
           ],
           "counts": {
-            "total": 11826,
-            "translated": 11818,
+            "total": 12335,
+            "translated": 12327,
             "pending": 8,
             "stale": 0,
-            "excluded": 590,
+            "excluded": 81,
             "excludedTranslated": 77,
-            "chars": 725049,
+            "chars": 728668,
             "percent": 99.9
           },
           "children": [
@@ -51777,13 +51769,13 @@
               "value": "Completion",
               "sheets": [],
               "counts": {
-                "total": 2581,
-                "translated": 2581,
+                "total": 3090,
+                "translated": 3090,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 509,
+                "excluded": 0,
                 "excludedTranslated": 0,
-                "chars": 20174,
+                "chars": 23793,
                 "percent": 100
               },
               "children": []
@@ -51925,11 +51917,11 @@
             "textcommand"
           ],
           "counts": {
-            "total": 633,
-            "translated": 633,
+            "total": 720,
+            "translated": 720,
             "pending": 0,
             "stale": 0,
-            "excluded": 829,
+            "excluded": 742,
             "excludedTranslated": 1,
             "chars": 214859,
             "percent": 100
@@ -51942,11 +51934,11 @@
               "value": "TextCommand",
               "sheets": [],
               "counts": {
-                "total": 633,
-                "translated": 633,
+                "total": 720,
+                "translated": 720,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 829,
+                "excluded": 742,
                 "excludedTranslated": 1,
                 "chars": 214859,
                 "percent": 100
@@ -53805,14 +53797,6 @@
     "percent": 83.7
   },
   "futureLocalization": [
-    {
-      "sheet": "Completion",
-      "content": "Completion",
-      "total": 3090,
-      "translated": 2581,
-      "pending": 509,
-      "pendingPercent": 16.5
-    },
     {
       "sheet": "EventItem",
       "content": "Quest items",
