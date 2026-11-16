@@ -1,10 +1,19 @@
 name: Validate
 on:
   pull_request:
+  workflow_dispatch:
+    inputs:
+      rules:
+        description: "Comma-separated rules. Empty uses the CI rule list."
+        required: false
+        type: string
+        default: ""
 permissions: {}
 jobs:
   validate:
     uses: ashdam/ffxiv-language-pack-ci/.github/workflows/validate.yml@main
+    with:
+      rules: ${{ inputs.rules || '' }}
     permissions:
       contents: read
       pull-requests: write
