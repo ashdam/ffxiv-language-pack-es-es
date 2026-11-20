@@ -2831,10 +2831,15 @@
         { "gameKey": "quest/016/SubFst980_01670#TEXT_SUBFST980_01670_JALZAHN_000_001", "lang": "ja", "term": "お主" },
         { "gameKey": "quest/005/JobRel016_00560#TEXT_JOBREL016_00560_JALZAHN_000_000", "lang": "ja", "term": "お主" }
       ],
-      "others": { "GEROLT": "usted" },
+      "others": { "GEROLT": "tú" },
       "player": "tú",
       "confidence": "high",
-      "why": "DECIDIDO POR EL JAPONÉS. Trata al jugador de お主 en 23 filas y no usa keigo; el «vous» francés, 82 contra 1, es el de por defecto. Herrero de las armas reliquia, ampuloso pero de trato de camarada."
+      "examples": [
+        "quest/002/JobRel007_00206#TEXT_JOBREL007_00206_JALZAHN_000_074",
+        "quest/016/SubFst980_01670#TEXT_SUBFST980_01670_JALZAHN_000_110",
+        "custom/002/CmnDefRelicWeapon060Trade_00250#TEXT_CMNDEFRELICWEAPON060TRADE_00250_JALZAHN_000_311"
+      ],
+      "why": "Tutea al jugador y a Gerolt en el trato habitual. Trata de usted a Gerolt en la escena en que solicita su colaboración y lo llama «maestro Gerolt»."
     },
     "JANNEQUINARD": {
       "corpus": { "conversations": 21, "rows": 283 },
