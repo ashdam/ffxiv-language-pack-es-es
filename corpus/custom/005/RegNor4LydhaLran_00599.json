@@ -2,7 +2,7 @@
   "conversation": "custom/005/RegNor4LydhaLran_00599",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000", "hash": "E2188A5DE1E4A4F2", "target": "¡Oh, eres el amigo de Urianger! ¡Bienvenido a nuestra aldea! ¡Quédate un día, o cuatro, o para siempre jamás!" },
+    { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_BEQTHON_000_000", "hash": "E2188A5DE1E4A4F2", "target": "¡Oh, eres <if(gnum4,la amiga,el amigo)> de Urianger! ¡Te damos la bienvenida a nuestra aldea! ¡Quédate un día, o cuatro, o para siempre jamás!" },
     { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_Q1_000_000", "hash": "F144E788F9029BBF", "target": "¿Qué vas a preguntar?" },
     { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_001", "hash": "C5805FD2C26B53AD", "target": "Háblame de ti." },
     { "gameKey": "custom/005/RegNor4LydhaLran_00599#TEXT_REGNOR4LYDHALRAN_00599_A1_000_002", "hash": "70753463C6A6BF50", "target": "¿Qué clase de lugar es este?" },

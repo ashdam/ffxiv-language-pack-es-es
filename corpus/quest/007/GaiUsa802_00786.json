@@ -4,7 +4,7 @@
   "entries": [
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_00", "hash": "A35213D961604CFA", "target": "Ivaurault tiene información que compartir sobre tu investigación." },
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_01", "hash": "A56D99F4F0651514", "target": "Ivaurault revela que él también ha visto el ojo alado. El avistamiento tuvo lugar en el área rocosa del oeste. Ve allí e investiga." },
-    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_02", "hash": "CD147C7478356F5B", "target": "En lugar del ojo alado, aparece un monstruoso banemite y te ves obligado a defenderte. Vuelve a la Balsa de la Calabaza e informa a Ivaurault." },
+    { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_02", "hash": "CD147C7478356F5B", "target": "En lugar del ojo alado, aparece un monstruoso banemite y te ves <if(gnum4,obligada,obligado)> a defenderte. Vuelve a la Balsa de la Calabaza e informa a Ivaurault." },
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_SEQ_03", "hash": "48F71D15A1030C2D", "target": "Averiguas que el banemite que abatiste llevaba mucho tiempo siendo una plaga para los lugareños. Aunque tu destreza con las armas impresiona a Ivaurault como es debido, este se pregunta si no se imaginó haber visto el ojo alado." },
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_00", "hash": "E7489DFD907EA6AE", "target": "Investigar el lugar señalado" },
     { "gameKey": "quest/007/GaiUsa802_00786#TEXT_GAIUSA802_00786_TODO_01", "hash": "B3EE94C69FB2C536", "target": "Informar a Ivaurault" },
