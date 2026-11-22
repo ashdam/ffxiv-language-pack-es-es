@@ -9,8 +9,8 @@
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00001", "hash": "4796F1CC20C77395", "target": "¡El Mogpendium te será un recurso valiosísimo durante el Tesoro Moguri, kupó!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00002", "hash": "2583B13F26A526A7", "target": "¡Estudia bien su contenido para descubrir las mejores formas de conseguir tablillas irregulares y luego usa ese saber para llenar tus alforjas!" },
     { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_MOGGUIDEBOOK_00003", "hash": "6EF7F5FF2E39E7A8", "target": "¡Y cuando el peso de tus tablillas sea demasiado para cargarlo, tráemelas y te daré toda clase de objetos raros y extraordinarios!" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "" },
-    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "" }
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_VOYAGERMOOGLE_000_001", "hash": "C83D70619F1360CA", "target": "Ah, y parece que se colaron unos fallos en el Mogpendium. Ya he dado por completados <if([lnum1==1],los desafíos Minimog,<if([lnum1==2],los objetivos semanales,<if([lnum1==3],los desafíos Minimog y los objetivos semanales,)>)>)> de la sexta semana de la primera búsqueda de astronomía. ¡Que no se entere mi jefe, kupó!" },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_002", "hash": "61715BF76B5F9994", "target": "El plazo que figuraba en el Mogpendium para completar ciertas misiones era incorrecto y no coincidía con la fecha de fin del evento." },
+    { "gameKey": "custom/005/CtsEtcVoyagerMoogle_00566#TEXT_CTSETCVOYAGERMOOGLE_00566_SYSTEM_000_003", "hash": "7A8D5D3B8876977C", "target": "Si no pudiste intentar esas misiones dentro del plazo, el moguri itinerante te echa una pata y da por cumplidos esos objetivos." }
   ]
 }
