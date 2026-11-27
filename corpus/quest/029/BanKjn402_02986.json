@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn402_02986",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "Zukin explora una nueva vía de negocio con los Namazu.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no puedes avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Abatir un gyuki vivaz y obtener <lower(<sheet(EventItem,2002403,9)>)>" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_SEQ_00", "hash": "CBD9BDF4E27DA93F", "target": "A Zukin se le ha ocurrido algo nuevo para comerciar con los Namazu.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, solo podrás avanzar con la clase o el job con que la aceptaste." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_00", "hash": "C56E4B35DD3A1CC5", "target": "Abatir a un <ennoun(BNpcName,3,6877,1,1)> y conseguir un <ennoun(EventItem,3,2002403,1,1)>" },
     { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_TODO_01", "hash": "323EB50778AC90E7", "target": "Informar a Zukin" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "En nuestros tratos con los Namazu hemos descubierto que una de sus comidas favoritas es la carne del temible gyuki." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Pero a los Namazu les cuesta conseguir esa carne por sí solos. Buenos comerciantes serán, pero lo que se dice cazadores, no. ¿Puedo pedirte ayuda una vez más?" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "Y bien, ¿tuviste suerte con la caza?" },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "¡Piedad, kami! Si los Namazu miden la carne por su tamaño y su hedor, diría que van a quedar más que satisfechos." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "Tanto a los hombres como a los Kojin nos repugna ese forraje correoso y apestoso, pero los Namazu no le hacen ascos." },
-    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "Comerciar con esta carne, por lo demás sin valor, nos ayudará a estrechar lazos con los Namazu y a reunir un capital que buena falta nos hace. ¿Podremos contar con tus dotes de cazador de gyuki en el futuro?" }
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_000", "hash": "FC26508EECB2189F", "target": "Con el trato que tenemos con los Namazu, nos hemos enterado de que les vuelve locos la carne de gyuki." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_001", "hash": "A2846C97A4EADC78", "target": "Lo malo es que les cuesta conseguirla por su cuenta. Se les dan bien los negocios, pero la caza ya es otra cosa. ¿Puedes echarme una mano y cazar un <ennoun(BNpcName,3,6877,1,1)> en Onokoro?" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_020", "hash": "DB446C4D5436F01D", "target": "¿Qué tal ha ido la caza?" },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_021", "hash": "E12627F7B9C281AB", "target": "¡Por los kami! Si los Namazu se fijan en lo grande que es la pieza y en lo que apesta, con esto van a quedar encantados." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_022", "hash": "4FF2BE60E96B2A24", "target": "A los de tierra firme y a los Kojin nos da asco una carne tan dura y maloliente, pero a los Namazu les encanta." },
+    { "gameKey": "quest/029/BanKjn402_02986#TEXT_BANKJN402_02986_ZUKIN_000_023", "hash": "4401E9C6501F05D9", "target": "Y pensar que dábamos esta carne por perdida… Si se la vendemos, nos llevaremos mejor con los Namazu y ganaremos un dinero que nos hace mucha falta. ¿Podemos contar contigo la próxima vez que toque cazar un gyuki?" }
   ]
 }

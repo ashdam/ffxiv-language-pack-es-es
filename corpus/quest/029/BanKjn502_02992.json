@@ -2,14 +2,14 @@
   "conversation": "quest/029/BanKjn502_02992",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "Unos cofres extraños están apareciendo en la orilla sur de la Roca del Bajío.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no puedes avanzar con una clase o un job distintos de los que tenías al aceptar la misión." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Investigar los cofres eorzeanos y recoger el tesoro" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_SEQ_00", "hash": "4E041329A5B4C8D3", "target": "El mar está arrastrando unos cofres extraños a la orilla sur de la Roca del Bajío.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, solo podrás avanzar con la clase o el job con que la aceptaste." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_00", "hash": "DE2A4E756E683F2C", "target": "Examinar los cofres eorzeanos y recoger lo que haya dentro" },
     { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_TODO_01", "hash": "1336CED011862C00", "target": "Entregar las monedas a Zukin" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Uno de los nuestros ha encontrado tres cofres arrastrados a la orilla de la Roca del Bajío. Parecían de factura eorzeana, pero no pudo averiguar más, pues estaban bien cerrados por algún mecanismo que desconocemos." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Tenemos cierta experiencia abriendo arcones cerrados, pero no los de tierras occidentales. Me atrevo a decir que tú sabrías descifrarlo, no obstante. ¿Te importaría ocuparte del asunto?" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "¿Tuviste suerte con esos cofres?" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "¿Encontraste esto? A ver... Moneda occidental antigua, y además acuñada en metales preciosos. ¡Gracias por traérmelo!" },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "¿Qué? ¿Cofres que cobran vida y muerden con saña? ¿Serán espíritus malignos, al acecho de incautos cazatesoros? ¿O acaso tsukumogami desbocados? Esto sí que es motivo de preocupación." },
-    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "En cualquier caso, me alegra mucho verte ileso. Aunque no pensaba en el peligro cuando te pedí ayuda, hice bien en recurrir a un aventurero tan curtido como tú." }
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_000", "hash": "4CC28474927108F7", "target": "Uno de los nuestros ha encontrado tres cofres que el mar ha arrastrado a la Roca del Bajío. Parecen hechos en Eorzea, pero no pudo averiguar mucho más. Tienen un cierre que no había visto en su vida." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_001", "hash": "7887CFC4480696A4", "target": "Hemos abierto muchos cofres, pero ninguno de por allí. Seguro que tú encuentras la manera. ¿Vas a probar y me traes lo que haya dentro?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_020", "hash": "08B1EE901E56FAA0", "target": "¿Has podido abrir esos cofres?" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_021", "hash": "5FDF60C855AA4AB3", "target": "¿Y todo esto? A ver… Son monedas antiguas de occidente, ¡y de metales preciosos! ¡Gracias por traérmelas!" },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_022", "hash": "2770B1632B83A617", "target": "¿Cómo? ¿Que los cofres cobraban vida y te tiraban mordiscos? Igual eran espíritus malignos al acecho de algún cazatesoros despistado. O quizá tsukumogami fuera de sí. No me hace ninguna gracia." },
+    { "gameKey": "quest/029/BanKjn502_02992#TEXT_BANKJN502_02992_ZUKIN_000_023", "hash": "90E2CF73B8E0842F", "target": "En fin, me alegro de que hayas vuelto <if(gnum4,sana y salva,sano y salvo)>. No se me ocurrió que pudiera ser peligroso. Menos mal que te lo pedí a ti." }
   ]
 }

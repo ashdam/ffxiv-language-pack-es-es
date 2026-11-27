@@ -3,14 +3,14 @@
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
     { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_00", "hash": "4E711987E7311104", "target": "A Ademar le vendría bien una mano para subir." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "Ademar quiere explorar en busca de nuevas vetas de mineral y solicita tu ayuda para colocar escaleras de mano que le den acceso a lugares de difícil alcance." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "Has colocado las tres escaleras de mano tal como se te indicó. Informa a Ademar de que está hecho." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "Las vetas de mineral se agotan pronto, y los prospectores deben estar siempre atentos a su próxima veta. Ademar sigue cavando, con la esperanza de que no esté lejos el día en que encuentre su fortuna." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_01", "hash": "E4CB203E6EB2A95E", "target": "Ademar quiere buscar nuevas vetas de mineral. Te pide que coloques unas escaleras de mano para que pueda llegar a los rincones más inaccesibles." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_02", "hash": "0AC03AB77945FED5", "target": "Ya has colocado las tres escaleras. Avisa a Ademar." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_SEQ_03", "hash": "A0C3BAA480DDE706", "target": "Las vetas se agotan enseguida y los prospectores siempre andan buscando la siguiente. Ademar continúa cavando con la esperanza de dar pronto con la veta que lo haga rico." },
     { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_00", "hash": "A4A4A0E9826C4A20", "target": "Colocar las escaleras de mano donde indique Ademar" },
     { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_TODO_01", "hash": "F9A9F642A822E7AD", "target": "Informar a Ademar" },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "Quizá puedas ayudarme otra vez, amigo. Le he echado el ojo a unas vetas de mineral nuevas, pero estas piernas mías no dan tanto de sí como para llegar hasta allá arriba." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "¿Serías tan amable de colocarme estas escaleras de mano? Lo haría yo mismo, pero estos parajes andan de lo más peligrosos últimamente." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "De verdad que me has vuelto a hacer un gran favor. Con todos esos bichos asquerosos al acecho, jamás habría podido hacer yo solo el trabajo." },
-    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "No sé qué clase de mineral me estará esperando, pero recuerda mis palabras: ¡un día me haré rico y dejaré este sitio atrás para siempre!" }
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_000", "hash": "1AB4976445D70285", "target": "A ver si puedes volver a echarme una mano, <if(gnum4,amiga,amigo)>. Le he echado el ojo a unas vetas nuevas, pero con estas piernas no llego ahí arriba ni de broma." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_001", "hash": "B04D3C0EB6841058", "target": "¿Me colocas estas escaleras? Lo haría yo, pero últimamente no hay quien se meta por ahí con lo peligroso que está todo." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_020", "hash": "2472E0DFA9B339E8", "target": "Me has vuelto a sacar de un apuro. Con tanto bicho al acecho, yo solo no habría podido." },
+    { "gameKey": "quest/007/GaiUsa903_00798#TEXT_GAIUSA903_00798_ADEMAR_000_021", "hash": "0960A19FC1B85F1B", "target": "No sé qué mineral habrá por ahí, pero acuérdate de lo que te digo. ¡Un día me haré de oro y me largaré de aquí para siempre!" }
   ]
 }
