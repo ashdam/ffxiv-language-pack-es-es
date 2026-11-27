@@ -2,14 +2,14 @@
   "conversation": "quest/052/BanPel103_05201",
   "gameVersion": "2026.11.03.0000.0000",
   "entries": [
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "A Yubli le inquietan las tropelías de las alimañas hambrientas.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o job distinto del que tenías al aceptarla." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_SEQ_00", "hash": "03AE263C16CD3968", "target": "A Yubli le preocupa que unas alimañas ataquen a los visitantes.<br><br>※Ten en cuenta que la dificultad de esta misión se ha ajustado a tu nivel actual. Además, no podrás avanzar en ella con una clase o job distinto del que tenías al aceptarla." },
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_00", "hash": "5F9CAC6F07CA5489", "target": "Explorar el lugar señalado y abatir a las u'outs que aparezcan" },
     { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_TODO_01", "hash": "3EA8A9922C3BD9CB", "target": "Hablar con Yubli" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "Reconforta ver el Embarcadero de Poga tan vivo y bullicioso, pero el aumento del tránsito ha atraído a algunos... visitantes indeseados." },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "Nos enfrentamos a una plaga de u'out. Si queremos proteger a nuestros clientes de esos monstruos vegetales errantes, tendremos que mermar sus números con regularidad..." },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "¡Agradecería la ayuda de nuestro asesor especial en este asunto! Se han comunicado avistamientos en el Paso del Sol. ¡Explora el área y ocúpate de cualquier u'out que emerja!" },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "Gracias por ocuparte de los monstruos vegetales. Por ahora, nuestros clientes no tienen que temer sus tropelías." },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "De hecho, acabamos de recibir un extracto que ahuyenta a los u'out y a los de su calaña. Pienso esparcir el repelente por el área como precaución adicional." },
-    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "Dicho esto, tales medidas no son en absoluto permanentes. Cuando las criaturas regresen, ¡espero poder contar con tu ayuda de nuevo!" }
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_000", "hash": "91302F8F5E9B350D", "target": "Da gusto ver tanta vida en el Embarcadero de Poga, pero tanto trajín también ha atraído a visitantes... poco deseables." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_001", "hash": "EF93155022674E3D", "target": "Se nos ha llenado esto de u'outs. Si queremos que esas plantas no ataquen a los clientes, habrá que controlarlas con regularidad..." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_002", "hash": "11571939EBB0B2AA", "target": "¡Nos vendría muy bien la ayuda de <if(gnum4,nuestra asesora especial,nuestro asesor especial)>! Las han visto en el Paso del Sol. Echa un vistazo y encárgate de las u'outs que salgan." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_004", "hash": "8299F7F6E1A4E2CD", "target": "Gracias por ocuparte de esas plantas. Ahora nuestros clientes podrán pasar por allí sin peligro, al menos por un tiempo." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_005", "hash": "FB76C203D5671D0C", "target": "Por cierto, nos acaba de llegar un extracto que ahuyenta a las u'outs y a otras plantas de esa clase. Rociaré la zona con él por si acaso." },
+    { "gameKey": "quest/052/BanPel103_05201#TEXT_BANPEL103_05201_YUBLI_000_006", "hash": "4430447E0F2B70C0", "target": "El efecto no durará para siempre. Cuando vuelvan, espero poder contar contigo otra vez." }
   ]
 }
