@@ -1,7 +1,7 @@
 {
   "gameVersion": "2026.11.03.0000.0000",
-  "translated": 866394,
-  "total": 866684,
+  "translated": 866575,
+  "total": 866687,
   "percent": 100,
   "chars": 63102434,
   "unresolved": 5785,
@@ -13,10 +13,76 @@
       "total": 67712
     },
     {
+      "expansion": null,
+      "content": "Tutorials and guides",
+      "translated": 3059,
+      "total": 3059
+    },
+    {
+      "expansion": null,
+      "content": "Collections and customization",
+      "translated": 14848,
+      "total": 14848
+    },
+    {
+      "expansion": null,
+      "content": "Other",
+      "translated": 17222,
+      "total": 17222
+    },
+    {
+      "expansion": null,
+      "content": "Crafting and gathering",
+      "translated": 8560,
+      "total": 8560
+    },
+    {
+      "expansion": null,
+      "content": "Floating names",
+      "translated": 110396,
+      "total": 110396
+    },
+    {
+      "expansion": null,
+      "content": "Items",
+      "translated": 188773,
+      "total": 188773
+    },
+    {
+      "expansion": null,
+      "content": "Chat and system messages",
+      "translated": 13055,
+      "total": 13056
+    },
+    {
+      "expansion": null,
+      "content": "Quests",
+      "translated": 34939,
+      "total": 34939
+    },
+    {
+      "expansion": null,
+      "content": "Dialogue and world lore",
+      "translated": 43194,
+      "total": 43194
+    },
+    {
+      "expansion": null,
+      "content": "Duties and field operations",
+      "translated": 23095,
+      "total": 23095
+    },
+    {
+      "expansion": null,
+      "content": "Place names",
+      "translated": 10520,
+      "total": 10520
+    },
+    {
       "expansion": "A Realm Reborn",
       "content": "Quests",
-      "translated": 79072,
-      "total": 79072
+      "translated": 79074,
+      "total": 79074
     },
     {
       "expansion": "Heavensward",
@@ -50,80 +116,14 @@
     },
     {
       "expansion": null,
-      "content": "Quests",
-      "translated": 34939,
-      "total": 34939
-    },
-    {
-      "expansion": null,
-      "content": "Crafting and gathering",
-      "translated": 8560,
-      "total": 8560
-    },
-    {
-      "expansion": null,
-      "content": "Other",
-      "translated": 17222,
-      "total": 17222
-    },
-    {
-      "expansion": null,
-      "content": "Dialogue and world lore",
-      "translated": 43194,
-      "total": 43194
-    },
-    {
-      "expansion": null,
-      "content": "Collections and customization",
-      "translated": 14848,
-      "total": 14848
-    },
-    {
-      "expansion": null,
       "content": "Character",
       "translated": 59704,
       "total": 59704
     },
     {
       "expansion": null,
-      "content": "Floating names",
-      "translated": 110396,
-      "total": 110396
-    },
-    {
-      "expansion": null,
-      "content": "Tutorials and guides",
-      "translated": 3059,
-      "total": 3059
-    },
-    {
-      "expansion": null,
-      "content": "Duties and field operations",
-      "translated": 23095,
-      "total": 23095
-    },
-    {
-      "expansion": null,
-      "content": "Chat and system messages",
-      "translated": 13055,
-      "total": 13055
-    },
-    {
-      "expansion": null,
-      "content": "Items",
-      "translated": 188773,
-      "total": 188773
-    },
-    {
-      "expansion": null,
-      "content": "Place names",
-      "translated": 10520,
-      "total": 10520
-    },
-    {
-      "expansion": null,
       "content": "Internal UI catalogs",
-      "translated": 2023,
+      "translated": 2202,
       "total": 2313
     }
   ],
@@ -132,7 +132,7 @@
       "expansion": null,
       "content": "No English to translate",
       "translated": 2276,
-      "total": 12541
+      "total": 12538
     },
     {
       "expansion": null,
@@ -150,11 +150,11 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 304233,
-        "translated": 304233,
+        "total": 304235,
+        "translated": 304235,
         "pending": 0,
         "stale": 0,
-        "excluded": 137,
+        "excluded": 135,
         "excludedTranslated": 27,
         "chars": 36154406,
         "percent": 100
@@ -172,11 +172,11 @@
             "mjiprogress"
           ],
           "counts": {
-            "total": 264764,
-            "translated": 264764,
+            "total": 264766,
+            "translated": 264766,
             "pending": 0,
             "stale": 0,
-            "excluded": 99,
+            "excluded": 97,
             "excludedTranslated": 7,
             "chars": 33750100,
             "percent": 100
@@ -191,11 +191,11 @@
                 "quest/"
               ],
               "counts": {
-                "total": 264263,
-                "translated": 264263,
+                "total": 264265,
+                "translated": 264265,
                 "pending": 0,
                 "stale": 0,
-                "excluded": 98,
+                "excluded": 96,
                 "excludedTranslated": 7,
                 "chars": 33720664,
                 "percent": 100
@@ -283,11 +283,11 @@
                   "value": "A Realm Reborn",
                   "sheets": [],
                   "counts": {
-                    "total": 77277,
-                    "translated": 77277,
+                    "total": 77279,
+                    "translated": 77279,
                     "pending": 0,
                     "stale": 0,
-                    "excluded": 91,
+                    "excluded": 89,
                     "excludedTranslated": 7,
                     "chars": 10784451,
                     "percent": 100
@@ -1657,11 +1657,11 @@
                       "value": "seasonal",
                       "sheets": [],
                       "counts": {
-                        "total": 21718,
-                        "translated": 21718,
+                        "total": 21719,
+                        "translated": 21719,
                         "pending": 0,
                         "stale": 0,
-                        "excluded": 2,
+                        "excluded": 1,
                         "excludedTranslated": 0,
                         "chars": 3157655,
                         "percent": 100
@@ -1674,11 +1674,11 @@
                           "value": "Seasonal Events",
                           "sheets": [],
                           "counts": {
-                            "total": 21718,
-                            "translated": 21718,
+                            "total": 21719,
+                            "translated": 21719,
                             "pending": 0,
                             "stale": 0,
-                            "excluded": 2,
+                            "excluded": 1,
                             "excludedTranslated": 0,
                             "chars": 3157655,
                             "percent": 100
@@ -1835,11 +1835,11 @@
                               "value": "Starlight Celebration Events",
                               "sheets": [],
                               "counts": {
-                                "total": 3015,
-                                "translated": 3015,
+                                "total": 3016,
+                                "translated": 3016,
                                 "pending": 0,
                                 "stale": 0,
-                                "excluded": 2,
+                                "excluded": 1,
                                 "excludedTranslated": 0,
                                 "chars": 410042,
                                 "percent": 100
@@ -2559,11 +2559,11 @@
                       "value": "unfiled",
                       "sheets": [],
                       "counts": {
-                        "total": 3874,
-                        "translated": 3874,
+                        "total": 3875,
+                        "translated": 3875,
                         "pending": 0,
                         "stale": 0,
-                        "excluded": 21,
+                        "excluded": 20,
                         "excludedTranslated": 0,
                         "chars": 573111,
                         "percent": 100
@@ -2576,11 +2576,11 @@
                           "value": "Sephiroth Missions",
                           "sheets": [],
                           "counts": {
-                            "total": 3874,
-                            "translated": 3874,
+                            "total": 3875,
+                            "translated": 3875,
                             "pending": 0,
                             "stale": 0,
-                            "excluded": 21,
+                            "excluded": 20,
                             "excludedTranslated": 0,
                             "chars": 573111,
                             "percent": 100
@@ -2593,11 +2593,11 @@
                               "value": "",
                               "sheets": [],
                               "counts": {
-                                "total": 3874,
-                                "translated": 3874,
+                                "total": 3875,
+                                "translated": 3875,
                                 "pending": 0,
                                 "stale": 0,
-                                "excluded": 21,
+                                "excluded": 20,
                                 "excludedTranslated": 0,
                                 "chars": 573111,
                                 "percent": 100
@@ -51707,11 +51707,11 @@
       "value": null,
       "sheets": [],
       "counts": {
-        "total": 13055,
+        "total": 13056,
         "translated": 13055,
-        "pending": 0,
+        "pending": 1,
         "stale": 0,
-        "excluded": 823,
+        "excluded": 822,
         "excludedTranslated": 78,
         "chars": 943527,
         "percent": 100
@@ -51917,14 +51917,14 @@
             "textcommand"
           ],
           "counts": {
-            "total": 720,
+            "total": 721,
             "translated": 720,
-            "pending": 0,
+            "pending": 1,
             "stale": 0,
-            "excluded": 742,
+            "excluded": 741,
             "excludedTranslated": 1,
             "chars": 214859,
-            "percent": 100
+            "percent": 99.9
           },
           "children": [
             {
@@ -51934,14 +51934,14 @@
               "value": "TextCommand",
               "sheets": [],
               "counts": {
-                "total": 720,
+                "total": 721,
                 "translated": 720,
-                "pending": 0,
+                "pending": 1,
                 "stale": 0,
-                "excluded": 742,
+                "excluded": 741,
                 "excludedTranslated": 1,
                 "chars": 214859,
-                "percent": 100
+                "percent": 99.9
               },
               "children": []
             }
@@ -53788,13 +53788,13 @@
   ],
   "internalUi": {
     "total": 2313,
-    "translated": 2023,
-    "pending": 290,
+    "translated": 2202,
+    "pending": 111,
     "stale": 0,
     "excluded": 48,
     "excludedTranslated": 0,
     "chars": 55131,
-    "percent": 87.5
+    "percent": 95.2
   },
   "futureLocalization": [
     {
